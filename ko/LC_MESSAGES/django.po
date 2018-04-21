@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: https://github.com/HearthSim/hsreplaynet-i18n/issues\n"
 "POT-Creation-Date: 2018-03-14 10:56+0000\n"
-"PO-Revision-Date: 2018-04-21 09:30-0400\n"
+"PO-Revision-Date: 2018-04-21 10:30-0400\n"
 "Language: ko\n"
 "Language-Team: Korean\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
@@ -18,81 +18,81 @@ msgstr ""
 
 #: hsreplaynet/templates/account/email.html:6
 msgid "Email Addresses"
-msgstr ""
+msgstr "이메일"
 
 #: hsreplaynet/templates/account/email.html:10
 msgid "The following email addresses are associated with your account:"
-msgstr ""
+msgstr "다음 이메일들이 계정과 연결되어있습니다:"
 
 #: hsreplaynet/templates/account/email.html:23
 msgid "Re-send Verification"
-msgstr ""
+msgstr "인증 재전송"
 
 #: hsreplaynet/templates/account/email.html:33
 msgid "Make Primary"
-msgstr ""
+msgstr "기본으로 지정"
 
 #: hsreplaynet/templates/account/email.html:42
 msgid "Remove"
-msgstr ""
+msgstr "제거"
 
 #: hsreplaynet/templates/account/email.html:64
 msgid "Add email address"
-msgstr ""
+msgstr "이메일 추가"
 
 #: hsreplaynet/templates/navigation.html:10
 msgid "Toggle navigation"
-msgstr ""
+msgstr "메뉴보기"
 
 #: hsreplaynet/templates/navigation.html:29
 msgid "Articles"
-msgstr ""
+msgstr "최근소식"
 
 #: hsreplaynet/templates/navigation.html:36
 msgid "Trending"
-msgstr ""
+msgstr "최신유행"
 
 #: hsreplaynet/templates/navigation.html:43
 msgid "Discover"
-msgstr ""
+msgstr "발견하기"
 
 #: hsreplaynet/templates/navigation.html:50
 msgid "Meta"
-msgstr ""
+msgstr "최신유행"
 
 #: hsreplaynet/templates/navigation.html:64
 msgid "Cards"
-msgstr ""
+msgstr "카드목록"
 
 #: hsreplaynet/templates/navigation.html:70
 msgid "Refer a Friend"
-msgstr ""
+msgstr "친구에게 추천하기"
 
 #: hsreplaynet/templates/navigation.html:70
 msgid "Premium"
-msgstr ""
+msgstr "프리미엄"
 
 #: hsreplaynet/templates/navigation.html:97
 msgid "Log in or create account"
-msgstr ""
+msgstr "로그인 또는 회원가입"
 
 #: hsreplaynet/templates/navigation.html:129
 msgid "My Highlights"
-msgstr ""
+msgstr "하이라이트"
 
 #: hsreplaynet/templates/navigation.html:137
 msgid "My Decks"
-msgstr ""
+msgstr "내 덱"
 
 #: hsreplaynet/templates/navigation.html:144
 msgid "My Cards"
-msgstr ""
+msgstr "내 카드"
 
 #: hsreplaynet/templates/navigation.html:151
 msgid "My Replays"
-msgstr ""
+msgstr "내 리플레이"
 
 #: hsreplaynet/templates/socialaccount/connections.html:63
 msgid "You currently have no social network accounts connected to this account."
-msgstr ""
+msgstr "아직 연결한 소셜 네트워크 계정이 없습니다."
 
