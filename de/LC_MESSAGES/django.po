@@ -4,95 +4,95 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/HearthSim/hsreplaynet-i18n/issues\n"
 "POT-Creation-Date: 2018-03-14 10:56+0000\n"
 "PO-Revision-Date: 2018-04-20 22:17-0400\n"
-"Language: fr\n"
-"Language-Team: French\n"
+"Language: de\n"
+"Language-Team: German\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: hsreplaynet\n"
-"X-Crowdin-Language: fr\n"
+"X-Crowdin-Language: de\n"
 "X-Crowdin-File: /en/LC_MESSAGES/django.po\n"
 
 #: hsreplaynet/templates/account/email.html:6
 msgid "Email Addresses"
-msgstr "Adresses e-mail"
+msgstr ""
 
 #: hsreplaynet/templates/account/email.html:10
 msgid "The following email addresses are associated with your account:"
-msgstr "Les adresses e-mail suivantes sont associées à votre compte :"
+msgstr ""
 
 #: hsreplaynet/templates/account/email.html:23
 msgid "Re-send Verification"
-msgstr "Renvoyer le message de vérification"
+msgstr ""
 
 #: hsreplaynet/templates/account/email.html:33
 msgid "Make Primary"
-msgstr "Rendre Principale"
+msgstr ""
 
 #: hsreplaynet/templates/account/email.html:42
 msgid "Remove"
-msgstr "Supprimer"
+msgstr ""
 
 #: hsreplaynet/templates/account/email.html:64
 msgid "Add email address"
-msgstr "Ajouter une adresse e-mail"
+msgstr ""
 
 #: hsreplaynet/templates/navigation.html:10
 msgid "Toggle navigation"
-msgstr "Navigation"
+msgstr ""
 
 #: hsreplaynet/templates/navigation.html:29
 msgid "Articles"
-msgstr "Articles"
+msgstr ""
 
 #: hsreplaynet/templates/navigation.html:36
 msgid "Trending"
-msgstr "Tendances"
+msgstr ""
 
 #: hsreplaynet/templates/navigation.html:43
 msgid "Discover"
-msgstr "Découvrir"
+msgstr ""
 
 #: hsreplaynet/templates/navigation.html:50
 msgid "Meta"
-msgstr "Meta"
+msgstr ""
 
 #: hsreplaynet/templates/navigation.html:64
 msgid "Cards"
-msgstr "Cartes"
+msgstr ""
 
 #: hsreplaynet/templates/navigation.html:70
 msgid "Refer a Friend"
-msgstr "Parrainez un ami"
+msgstr ""
 
 #: hsreplaynet/templates/navigation.html:70
 msgid "Premium"
-msgstr "Premium"
+msgstr ""
 
 #: hsreplaynet/templates/navigation.html:97
 msgid "Log in or create account"
-msgstr "Se connecter"
+msgstr ""
 
 #: hsreplaynet/templates/navigation.html:129
 msgid "My Highlights"
-msgstr "Mes Hauts Faits"
+msgstr ""
 
 #: hsreplaynet/templates/navigation.html:137
 msgid "My Decks"
-msgstr "Mes Decks"
+msgstr ""
 
 #: hsreplaynet/templates/navigation.html:144
 msgid "My Cards"
-msgstr "Mes Cartes"
+msgstr ""
 
 #: hsreplaynet/templates/navigation.html:151
 msgid "My Replays"
-msgstr "Mes Replays"
+msgstr ""
 
 #: hsreplaynet/templates/socialaccount/connections.html:63
 msgid "You currently have no social network accounts connected to this account."
-msgstr "Aucun compte de réseau social n'est actuellement associé à ce compte."
+msgstr ""
 
