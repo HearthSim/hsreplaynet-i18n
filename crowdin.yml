@@ -7,9 +7,31 @@ preserve_hierarchy: true
 files:
   - source: "/en/LC_MESSAGES/*.po"
     translation: "/%two_letters_code%/LC_MESSAGES/%original_file_name%"
-    language_mapping:
+    languages_mapping:
       two_letters_code:
         es-MX: "es-mx"
         pt-BR: "pt-br"
         zh-CN: "zh-hans"
         zh-TW: "zh-hant"
+
+  - source: "/hearthstone/enUS/*.json"
+    translation: "/hearthstone/%locale%/%original_file_name%"
+    languages_mapping:
+      locale:
+        en-US: "enUS"
+        en-GB: "enGB"
+        fr: "frFR"
+        de: "deDE"
+        fr-FR: "frFR"
+        ko: "koKR"
+        es-ES: "esES"
+        es-MX: "esMX"
+        ru: "ruRU"
+        zh-CN: "zhCH"
+        zh-TW: "zhTW"
+        it: "itIT"
+        pt-BR: "ptBR"
+        pl: "plPL"
+        pt-PT: "ptPT"
+        ja: "jaJP"
+        th: "thTH"
