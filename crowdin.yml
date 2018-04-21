@@ -5,19 +5,11 @@ base_path: ""
 preserve_hierarchy: true
 
 files:
-  - source: "/en/LC_MESSAGES/django.po"
+  - source: "/en/LC_MESSAGES/*.po"
     translation: "/%two_letters_code%/LC_MESSAGES/%original_file_name%"
     language_mapping:
       two_letters_code:
-        es-MX: es-mx
-        pt-BR: pt-br
-        zh-CN: zh-hans
-        zh-TW: zh-hant
-  - source: "/en/LC_MESSAGES/frontend.po"
-    translation: "/%two_letters_code%/LC_MESSAGES/%original_file_name%"
-    language_mapping:
-      two_letters_code:
-        es-MX: es-mx
-        pt-BR: pt-br
-        zh-CN: zh-hans
-        zh-TW: zh-hant
+        es-MX: "es-mx"
+        pt-BR: "pt-br"
+        zh-CN: "zh-hans"
+        zh-TW: "zh-hant"
