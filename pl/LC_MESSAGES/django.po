@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: https://github.com/HearthSim/hsreplaynet-i18n/issues\n"
 "POT-Creation-Date: 2018-03-14 10:56+0000\n"
-"PO-Revision-Date: 2018-04-21 13:30-0400\n"
+"PO-Revision-Date: 2018-04-29 04:30-0400\n"
 "Language: pl\n"
 "Language-Team: Polish\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
@@ -18,81 +18,81 @@ msgstr ""
 
 #: hsreplaynet/templates/account/email.html:6
 msgid "Email Addresses"
-msgstr ""
+msgstr "Adresy Email"
 
 #: hsreplaynet/templates/account/email.html:10
 msgid "The following email addresses are associated with your account:"
-msgstr ""
+msgstr "Następujące adresy email są powiązane z twoim kontem:"
 
 #: hsreplaynet/templates/account/email.html:23
 msgid "Re-send Verification"
-msgstr ""
+msgstr "Wyślij ponownie kod weryfikacyjny"
 
 #: hsreplaynet/templates/account/email.html:33
 msgid "Make Primary"
-msgstr ""
+msgstr "Ustaw jako główny"
 
 #: hsreplaynet/templates/account/email.html:42
 msgid "Remove"
-msgstr ""
+msgstr "Usuń"
 
 #: hsreplaynet/templates/account/email.html:64
 msgid "Add email address"
-msgstr ""
+msgstr "Dodaj adres email"
 
 #: hsreplaynet/templates/navigation.html:10
 msgid "Toggle navigation"
-msgstr ""
+msgstr "Schowaj/pokaż nawigację"
 
 #: hsreplaynet/templates/navigation.html:29
 msgid "Articles"
-msgstr ""
+msgstr "Artykuły"
 
 #: hsreplaynet/templates/navigation.html:36
 msgid "Trending"
-msgstr ""
+msgstr "Na czasie"
 
 #: hsreplaynet/templates/navigation.html:43
 msgid "Discover"
-msgstr ""
+msgstr "Odkryj"
 
 #: hsreplaynet/templates/navigation.html:50
 msgid "Meta"
-msgstr ""
+msgstr "Meta"
 
 #: hsreplaynet/templates/navigation.html:64
 msgid "Cards"
-msgstr ""
+msgstr "Karty"
 
 #: hsreplaynet/templates/navigation.html:70
 msgid "Refer a Friend"
-msgstr ""
+msgstr "Poleć Znajomego"
 
 #: hsreplaynet/templates/navigation.html:70
 msgid "Premium"
-msgstr ""
+msgstr "Premium"
 
 #: hsreplaynet/templates/navigation.html:97
 msgid "Log in or create account"
-msgstr ""
+msgstr "Zaloguj się albo stwórz konto"
 
 #: hsreplaynet/templates/navigation.html:129
 msgid "My Highlights"
-msgstr ""
+msgstr "Moje Zagrania"
 
 #: hsreplaynet/templates/navigation.html:137
 msgid "My Decks"
-msgstr ""
+msgstr "Moje Talie"
 
 #: hsreplaynet/templates/navigation.html:144
 msgid "My Cards"
-msgstr ""
+msgstr "Moje Karty"
 
 #: hsreplaynet/templates/navigation.html:151
 msgid "My Replays"
-msgstr ""
+msgstr "Moje Powtórki"
 
 #: hsreplaynet/templates/socialaccount/connections.html:63
 msgid "You currently have no social network accounts connected to this account."
-msgstr ""
+msgstr "Obecnie nie posiadasz żadnych kont społecznościowych połączonych z tym kontem."
 

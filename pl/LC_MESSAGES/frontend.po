@@ -6,7 +6,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=((n == 1) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || n%10 == 1 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 12 && n%100 <= 14)) ? 2 : 3));\n"
 "POT-Creation-Date: 2018-04-21T02:44:50.747Z\n"
-"PO-Revision-Date: 2018-04-21 13:30-0400\n"
+"PO-Revision-Date: 2018-04-29 04:30-0400\n"
 "Language: pl\n"
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: hsreplaynet\n"
@@ -16,13 +16,13 @@ msgstr ""
 "Language-Team: Polish\n"
 
 msgid "Sorry, we currently don't have statistics for non-collectible cards"
-msgstr ""
+msgstr "Przepraszamy, aktualnie nie posiadamy statystyk dla kart, których nie da się zdobyć"
 
 msgid "Show available cards"
-msgstr ""
+msgstr "Pokaż dostępne karty"
 
 msgid "Loading…"
-msgstr ""
+msgstr "Ładowanie…"
 
 msgid "No utilization data for this card available"
 msgstr ""
@@ -43,7 +43,7 @@ msgid "Winrate of decks that include at least one copy of this card"
 msgstr ""
 
 msgid "Opponent class"
-msgstr ""
+msgstr "Klasa Przeciwnika"
 
 msgid "Popularity by turn"
 msgstr ""
@@ -58,10 +58,10 @@ msgid "Percentage of games won when this card is played on a given turn"
 msgstr ""
 
 msgid "Recommended Decks"
-msgstr ""
+msgstr "Rekomendowane Talie"
 
 msgid "Turn Details"
-msgstr ""
+msgstr "Szczegóły Tury"
 
 msgid "Popularity and Winrate by turn"
 msgstr ""
@@ -73,16 +73,16 @@ msgid "Single Card Turn Statistics"
 msgstr ""
 
 msgid "Class Distribution"
-msgstr ""
+msgstr "Rozłożenie Klas"
 
 msgid "Targets"
-msgstr ""
+msgstr "Cele"
 
 msgid "Most popular targets"
 msgstr ""
 
 msgid "Discover"
-msgstr ""
+msgstr "Odkryj"
 
 msgid "Most popular Discover choices"
 msgstr ""
@@ -94,7 +94,7 @@ msgid "A card's percentage represents how often the card was picked over others 
 msgstr ""
 
 msgid "Adapt"
-msgstr ""
+msgstr "Adaptuj"
 
 msgid "Quest Contributors"
 msgstr ""
@@ -106,19 +106,19 @@ msgid "Not craftable"
 msgstr ""
 
 msgid "Game Mode"
-msgstr ""
+msgstr "Tryb gry"
 
 msgid "Ranked Standard"
-msgstr ""
+msgstr "Rankingowy Standard"
 
 msgid "Ranked Wild"
-msgstr ""
+msgstr "Rankingowa Dzicz"
 
 msgid "Arena"
-msgstr ""
+msgstr "Arena"
 
 msgid "Rank Range"
-msgstr ""
+msgstr "Zakres Rangi"
 
 msgid "Check out how this card performs at higher ranks!"
 msgstr ""
@@ -127,41 +127,41 @@ msgid "Single Card Rank Range"
 msgstr ""
 
 msgid "Legend only"
-msgstr ""
+msgstr "Tylko Legenda"
 
 msgid "Legend–5"
-msgstr ""
+msgstr "Legenda-5"
 
 msgid "Legend–10"
-msgstr ""
+msgstr "Legenda-10"
 
 msgid "Legend–25"
-msgstr ""
+msgstr "Legenda-25"
 
 msgid "Data"
-msgstr ""
+msgstr "Dane"
 
 msgid "Sample size"
 msgstr ""
 
 msgid "Time frame"
-msgstr ""
+msgstr "Przedział czasowy"
 
 msgid "Last 30 days"
-msgstr ""
+msgstr "Ostatnie 30 dni"
 
 msgid "Class"
-msgstr ""
+msgstr "Klasa"
 
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 msgid "Rarity"
-msgstr ""
+msgstr "Rzadkość"
 
 msgid "Set"
-msgstr ""
+msgstr "Set"
 
 msgid "Artist"
-msgstr ""
+msgstr "Grafik"
 
