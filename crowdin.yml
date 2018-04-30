@@ -5,8 +5,18 @@ base_path: ""
 preserve_hierarchy: true
 
 files:
+
   - source: "/en/LC_MESSAGES/*.po"
     translation: "/%two_letters_code%/LC_MESSAGES/%original_file_name%"
+    languages_mapping:
+      two_letters_code:
+        es-MX: "es-mx"
+        pt-BR: "pt-br"
+        zh-CN: "zh-hans"
+        zh-TW: "zh-hant"
+
+  - source: "/en/*.json"
+    translation: "/%two_letters_code%/%original_file_name%"
     languages_mapping:
       two_letters_code:
         es-MX: "es-mx"
