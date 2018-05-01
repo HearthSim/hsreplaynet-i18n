@@ -1,12 +1,12 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
-"Report-Msgid-Bugs-To: https://github.com/HearthSim/hsreplaynet-i18n/issues\n"
-"POT-Creation-Date: 2018-03-14 10:56+0000\n"
-"PO-Revision-Date: 2018-04-21 13:30-0400\n"
-"Language: es\n"
-"Language-Team: Spanish\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-01 02:39+0000\n"
+"PO-Revision-Date: 2018-04-30 22:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,83 +16,304 @@ msgstr ""
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-File: /en/LC_MESSAGES/django.po\n"
 
-#: hsreplaynet/templates/account/email.html:6
+#: templates/account/account_inactive.html:6
+msgid "Account inactive"
+msgstr ""
+
+#: templates/account/account_inactive.html:9
+#, python-format
+msgid "This account is inactive or has been banned.\n"
+"\t\tPlease <a href=\"mailto:%(site_email)s\">contact us</a> if this is in error."
+msgstr ""
+
+#: templates/account/base.html:12
+msgid "Settings"
+msgstr ""
+
+#: templates/account/base.html:13
+msgid "Email"
+msgstr ""
+
+#: templates/account/base.html:15
+msgid "Billing"
+msgstr ""
+
+#: templates/account/base.html:17
+msgid "API Access"
+msgstr ""
+
+#: templates/account/base.html:18
+msgid "OAuth Apps"
+msgstr ""
+
+#: templates/account/base.html:20 templates/account/login.html:68
+#: templates/account/signup.html:37
+msgid "Password"
+msgstr ""
+
+#: templates/account/base.html:22 templates/socialaccount/connections.html:9
+msgid "Connected accounts"
+msgstr ""
+
+#: templates/account/base.html:23
+msgid "Delete account"
+msgstr ""
+
+#: templates/account/base.html:27 templates/account/logout.html:6
+#: templates/account/logout.html:17
+msgid "Sign out"
+msgstr ""
+
+#: templates/account/email.html:6
 msgid "Email Addresses"
 msgstr ""
 
-#: hsreplaynet/templates/account/email.html:10
+#: templates/account/email.html:10
 msgid "The following email addresses are associated with your account:"
 msgstr ""
 
-#: hsreplaynet/templates/account/email.html:23
+#: templates/account/email.html:23
 msgid "Re-send Verification"
 msgstr ""
 
-#: hsreplaynet/templates/account/email.html:33
+#: templates/account/email.html:33
 msgid "Make Primary"
 msgstr ""
 
-#: hsreplaynet/templates/account/email.html:42
+#: templates/account/email.html:42
 msgid "Remove"
 msgstr ""
 
-#: hsreplaynet/templates/account/email.html:64
+#: templates/account/email.html:64
 msgid "Add email address"
 msgstr ""
 
-#: hsreplaynet/templates/navigation.html:10
+#: templates/account/email/email_confirmation_message.txt:1
+#, python-format
+msgid "Hello %(user)s!\n\n"
+"You've added this email address to your account. We need to verify that you own it.\n\n"
+"If this is correct, go to the following URL to confirm:\n\n"
+"%(activate_url)s\n\n"
+"Cheers,\n"
+"The HSReplay.net Team\n"
+msgstr ""
+
+#: templates/account/login.html:14
+#, python-format
+msgid "Log in to continue to %(oauth2_client)s"
+msgstr ""
+
+#: templates/account/login.html:19
+msgid "We'll send you to the offical Blizzard site where you can securely log in.<br/>\n"
+"\t\tBlizzard will redirect you back here once you're done."
+msgstr ""
+
+#: templates/account/login.html:29
+msgid "Log in with Blizzard"
+msgstr ""
+
+#: templates/account/login.html:33
+msgid "Region"
+msgstr ""
+
+#: templates/account/login.html:47
+msgid "HSReplay.net never gains access to your Blizzard email address or password."
+msgstr ""
+
+#: templates/account/login.html:57
+msgid "Not using a Blizzard account? Sign in with your username and password here."
+msgstr ""
+
+#: templates/account/login.html:67 templates/account/signup.html:31
+msgid "Username"
+msgstr ""
+
+#: templates/account/login.html:71
+msgid "Log in"
+msgstr ""
+
+#: templates/account/logout.html:10
+msgid "Are you sure you want to sign out?"
+msgstr ""
+
+#: templates/account/password_reset.html:11
+msgid "Password reset"
+msgstr ""
+
+#: templates/account/password_reset.html:13
+msgid "Forgot your password? Enter your email below, we'll send you a link to reset it."
+msgstr ""
+
+#: templates/account/password_reset.html:19
+msgid "Reset password"
+msgstr ""
+
+#: templates/account/password_reset.html:25
+#, python-format
+msgid "Need help? <a href=\"mailto:%(site_email)s\">Contact us</a>."
+msgstr ""
+
+#: templates/account/signup.html:8 templates/account/signup.html:43
+msgid "Sign up"
+msgstr ""
+
+#: templates/account/signup.html:10
+msgid "To sign up to HSReplay.net, use your Blizzard account."
+msgstr ""
+
+#: templates/account/signup.html:20
+msgid "Alternatively, sign up with an email and password."
+msgstr ""
+
+#: templates/account/signup.html:34
+msgid "Email address"
+msgstr ""
+
+#: templates/account/signup.html:40
+msgid "Password (repeat)"
+msgstr ""
+
+#: templates/account/snippets/already_logged_in.html:3
+#, python-format
+msgid "You are already logged in as <em>%(user)s</em>."
+msgstr ""
+
+#: templates/login_button.html:21
+msgid "Toggle dropdown"
+msgstr ""
+
+#: templates/login_button.html:24
+msgid "Regions"
+msgstr ""
+
+#: templates/login_button.html:27
+msgid "Blizzard (US/EU/SEA)…"
+msgstr ""
+
+#: templates/login_button.html:32
+msgid "Blizzard China (CN)…"
+msgstr ""
+
+#: templates/login_button.html:36
+msgid "Debug"
+msgstr ""
+
+#: templates/login_button.html:39
+msgid "Sign in with password…"
+msgstr ""
+
+#: templates/navigation.html:10
 msgid "Toggle navigation"
 msgstr ""
 
-#: hsreplaynet/templates/navigation.html:29
+#: templates/navigation.html:29
 msgid "Articles"
 msgstr ""
 
-#: hsreplaynet/templates/navigation.html:36
+#: templates/navigation.html:36
 msgid "Trending"
 msgstr ""
 
-#: hsreplaynet/templates/navigation.html:43
+#: templates/navigation.html:43
 msgid "Discover"
 msgstr ""
 
-#: hsreplaynet/templates/navigation.html:50
+#: templates/navigation.html:50
 msgid "Meta"
 msgstr ""
 
-#: hsreplaynet/templates/navigation.html:64
+#: templates/navigation.html:57
+msgid "Decks"
+msgstr ""
+
+#: templates/navigation.html:64
 msgid "Cards"
 msgstr ""
 
-#: hsreplaynet/templates/navigation.html:70
+#: templates/navigation.html:70
 msgid "Refer a Friend"
 msgstr ""
 
-#: hsreplaynet/templates/navigation.html:70
+#: templates/navigation.html:70
 msgid "Premium"
 msgstr ""
 
-#: hsreplaynet/templates/navigation.html:97
-msgid "Log in or create account"
+#: templates/premium/checkout_form.html:7
+#, python-format
+msgid "Please enable Javascript to continue.\n"
+"\t\tIf this problem persists, please <a href=\"mailto:%(site_email)s\">contact us</a>."
 msgstr ""
 
-#: hsreplaynet/templates/navigation.html:129
-msgid "My Highlights"
+#: templates/snippets/noscript.html:5
+msgid "It looks like you have Javascript turned off. This page will not work correctly.\n"
+"\t\t<a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
 msgstr ""
 
-#: hsreplaynet/templates/navigation.html:137
-msgid "My Decks"
+#: templates/socialaccount/authentication_error.html:7
+msgid "Authentication error"
 msgstr ""
 
-#: hsreplaynet/templates/navigation.html:144
-msgid "My Cards"
+#: templates/socialaccount/authentication_error.html:28
+msgid "Back to the office."
 msgstr ""
 
-#: hsreplaynet/templates/navigation.html:151
-msgid "My Replays"
+#: templates/socialaccount/connections.html:14
+msgid "The following social accounts are connected to your HSReplay.net account.\n"
+"\t\tYou may log in with any connected Blizzard account."
 msgstr ""
 
-#: hsreplaynet/templates/socialaccount/connections.html:63
+#: templates/socialaccount/connections.html:63
 msgid "You currently have no social network accounts connected to this account."
+msgstr ""
+
+#: templates/socialaccount/connections.html:69
+msgid "Connect with Blizzard"
+msgstr ""
+
+#: templates/socialaccount/connections.html:72
+msgid "Here, you can connect multiple Blizzard accounts to your HSReplay.net account.\n"
+"\t\t\tThis lets you sign in with any of them."
+msgstr ""
+
+#: templates/socialaccount/connections.html:93
+msgid "1. Sign out of Blizzard"
+msgstr ""
+
+#: templates/socialaccount/connections.html:94
+msgid "2. Connect a Blizzard account"
+msgstr ""
+
+#: templates/socialaccount/connections.html:98
+msgid "Make sure to sign out of Blizzard before adding another account. This does not sign you out of HSReplay.net."
+msgstr ""
+
+#: templates/socialaccount/connections.html:105
+msgid "Connect with Discord"
+msgstr ""
+
+#: templates/socialaccount/connections.html:109
+msgid "As a subscriber, you have access to the exclusive <strong style=\"color:#dc9502\">Premium Supporter</strong> role on <a href=\"https://discord.gg/hearthsim\" target=\"_blank\">our official Discord server</a>.\n"
+"\t\t\tConnect your Discord account here to do so."
+msgstr ""
+
+#: templates/socialaccount/connections.html:116
+msgid "Connect a Discord account"
+msgstr ""
+
+#: templates/socialaccount/connections.html:131
+msgid "Connect with Twitch"
+msgstr ""
+
+#: templates/socialaccount/connections.html:143
+msgid "Connect a Twitch account"
+msgstr ""
+
+#: templates/socialaccount/connections.html:150
+msgid "Hearthstone accounts"
+msgstr ""
+
+#: templates/socialaccount/connections.html:153
+msgid "We have automatically detected the following Hearthstone accounts and associated them with you.\n"
+"\t\t\tYou can see statistics and upload your collection for any of these accounts."
 msgstr ""
 
