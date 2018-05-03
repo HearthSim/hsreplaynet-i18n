@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-02 01:11+0000\n"
-"PO-Revision-Date: 2018-05-03 11:12-0400\n"
+"PO-Revision-Date: 2018-05-03 16:30-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -28,19 +28,19 @@ msgstr ""
 
 #: templates/account/base.html:12
 msgid "Settings"
-msgstr ""
+msgstr "Einstellungen"
 
 #: templates/account/base.html:13
 msgid "Email"
-msgstr ""
+msgstr "E-Mail"
 
 #: templates/account/base.html:15
 msgid "Billing"
-msgstr ""
+msgstr "Bezahlung"
 
 #: templates/account/base.html:17
 msgid "API Access"
-msgstr ""
+msgstr "API-Zugriff"
 
 #: templates/account/base.html:18
 msgid "OAuth Apps"
@@ -49,11 +49,11 @@ msgstr ""
 #: templates/account/base.html:20 templates/account/login.html:68
 #: templates/account/signup.html:37
 msgid "Password"
-msgstr ""
+msgstr "Passwort"
 
 #: templates/account/base.html:22 templates/socialaccount/connections.html:9
 msgid "Connected accounts"
-msgstr ""
+msgstr "Verbundene Konten"
 
 #: templates/account/base.html:23
 msgid "Delete account"
@@ -62,7 +62,7 @@ msgstr ""
 #: templates/account/base.html:27 templates/account/logout.html:6
 #: templates/account/logout.html:17
 msgid "Sign out"
-msgstr ""
+msgstr "Abmelden"
 
 #: templates/account/email.html:6
 msgid "Email Addresses"
@@ -110,11 +110,11 @@ msgstr ""
 
 #: templates/account/login.html:29
 msgid "Log in with Blizzard"
-msgstr ""
+msgstr "Mit Blizzard anmelden"
 
 #: templates/account/login.html:33
 msgid "Region"
-msgstr ""
+msgstr "Region"
 
 #: templates/account/login.html:47
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
@@ -126,7 +126,7 @@ msgstr ""
 
 #: templates/account/login.html:67 templates/account/signup.html:31
 msgid "Username"
-msgstr ""
+msgstr "Benutzername"
 
 #: templates/account/login.html:71
 msgid "Log in"
@@ -134,7 +134,7 @@ msgstr ""
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
-msgstr ""
+msgstr "Möchtest du dich wirklich abmelden?"
 
 #: templates/account/password_reset.html:11
 msgid "Password reset"
@@ -146,12 +146,12 @@ msgstr ""
 
 #: templates/account/password_reset.html:19
 msgid "Reset password"
-msgstr ""
+msgstr "Passwort zurücksetzen"
 
 #: templates/account/password_reset.html:25
 #, python-format
 msgid "Need help? <a href=\"mailto:%(site_email)s\">Contact us</a>."
-msgstr ""
+msgstr "Brauchst du Hilfe? <a href=\"mailto:%(site_email)s\">Kontakt</a>."
 
 #: templates/account/signup.html:8 templates/account/signup.html:43
 msgid "Sign up"
@@ -167,16 +167,16 @@ msgstr ""
 
 #: templates/account/signup.html:34
 msgid "Email address"
-msgstr ""
+msgstr "E-Mail-Adresse"
 
 #: templates/account/signup.html:40
 msgid "Password (repeat)"
-msgstr ""
+msgstr "Passwort (Wiederholung)"
 
 #: templates/account/snippets/already_logged_in.html:3
 #, python-format
 msgid "You are already logged in as <em>%(user)s</em>."
-msgstr ""
+msgstr "Sie sind bereits als <em>%(user)s</em> angemeldet."
 
 #: templates/login_button.html:21
 msgid "Toggle dropdown"
@@ -184,7 +184,7 @@ msgstr ""
 
 #: templates/login_button.html:24
 msgid "Regions"
-msgstr ""
+msgstr "Regionen"
 
 #: templates/login_button.html:27
 msgid "Blizzard (US/EU/SEA)…"
@@ -200,7 +200,7 @@ msgstr ""
 
 #: templates/login_button.html:39
 msgid "Sign in with password…"
-msgstr ""
+msgstr "Mit Passwort anmelden…"
 
 #: templates/navigation.html:10
 msgid "Toggle navigation"
@@ -224,7 +224,7 @@ msgstr "Meta"
 
 #: templates/navigation.html:57
 msgid "Decks"
-msgstr ""
+msgstr "Decks"
 
 #: templates/navigation.html:64
 msgid "Cards"
@@ -251,7 +251,7 @@ msgstr ""
 
 #: templates/socialaccount/authentication_error.html:7
 msgid "Authentication error"
-msgstr ""
+msgstr "Authentifizierungsfehler"
 
 #: templates/socialaccount/authentication_error.html:28
 msgid "Back to the office."
@@ -268,7 +268,7 @@ msgstr "Du hast zurzeit keine sozialen Netzwerke mit diesem Konto verbunden."
 
 #: templates/socialaccount/connections.html:69
 msgid "Connect with Blizzard"
-msgstr ""
+msgstr "Mit Blizzard verbinden"
 
 #: templates/socialaccount/connections.html:72
 msgid "Here, you can connect multiple Blizzard accounts to your HSReplay.net account.\n"
