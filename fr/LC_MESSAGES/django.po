@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-02 01:11+0000\n"
-"PO-Revision-Date: 2018-05-03 21:30-0400\n"
+"PO-Revision-Date: 2018-05-04 14:30-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -40,7 +40,7 @@ msgstr ""
 
 #: templates/account/base.html:17
 msgid "API Access"
-msgstr ""
+msgstr "Accès à l'API"
 
 #: templates/account/base.html:18
 msgid "OAuth Apps"
@@ -114,7 +114,7 @@ msgstr ""
 
 #: templates/account/login.html:33
 msgid "Region"
-msgstr ""
+msgstr "Région"
 
 #: templates/account/login.html:47
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
