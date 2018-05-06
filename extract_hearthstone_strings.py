@@ -59,7 +59,10 @@ def main():
 			output_path = os.path.join(locale_dir, output_filename)
 			with open(output_path, "w") as f:
 				print(f"Writing to {output_path}")
-				json.dump(strings_data, f, indent="\t", sort_keys=True)
+				json.dump(
+					strings_data, f,
+					indent="\t", sort_keys=True, ensure_ascii=False
+				)
 
 
 if __name__ == "__main__":
