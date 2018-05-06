@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-06 01:40+0000\n"
-"PO-Revision-Date: 2018-05-06 05:56-0400\n"
+"PO-Revision-Date: 2018-05-06 06:11-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: templates/account/account_inactive.html:6
 msgid "Account inactive"
-msgstr ""
+msgstr "Account inaktiv"
 
 #: templates/account/account_inactive.html:9
 #, python-format
@@ -53,11 +53,11 @@ msgstr "Passwort"
 
 #: templates/account/base.html:22 templates/socialaccount/connections.html:9
 msgid "Connected accounts"
-msgstr "Verbundene Konten"
+msgstr "Verknüpfte Konten"
 
 #: templates/account/base.html:23
 msgid "Delete account"
-msgstr ""
+msgstr "Account löschen"
 
 #: templates/account/base.html:27 templates/account/logout.html:6
 #: templates/account/logout.html:17
@@ -78,7 +78,7 @@ msgstr "Bestätigungs-E-Mail erneut versenden"
 
 #: templates/account/email.html:33
 msgid "Make Primary"
-msgstr ""
+msgstr "Primär setzen"
 
 #: templates/account/email.html:42
 msgid "Remove"
@@ -102,7 +102,7 @@ msgstr ""
 #: templates/account/login.html:14
 #, python-format
 msgid "Log in to continue to %(oauth2_client)s"
-msgstr ""
+msgstr "Anmelden, um bei %(oauth2_client)s fortzufahren"
 
 #: templates/account/login.html:19
 msgid "We'll send you to the offical Blizzard site where you can securely log in.<br/>\n"
@@ -119,11 +119,11 @@ msgstr "Region"
 
 #: templates/account/login.html:47
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
-msgstr ""
+msgstr "HSReplay.net erhält niemals Zugriff auf deine Blizzard-E-Mail-Addresse oder dein Passwort."
 
 #: templates/account/login.html:57
 msgid "Not using a Blizzard account? Sign in with your username and password here."
-msgstr ""
+msgstr "Du benutzt keinen Blizzard-Account? Melde dich hier mit deinem Nutzernamen und Passwort an."
 
 #: templates/account/login.html:67 templates/account/signup.html:31
 msgid "Username"
@@ -131,7 +131,7 @@ msgstr "Benutzername"
 
 #: templates/account/login.html:71
 msgid "Log in"
-msgstr ""
+msgstr "Anmelden"
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
@@ -139,7 +139,7 @@ msgstr "Möchtest du dich wirklich abmelden?"
 
 #: templates/account/password_reset.html:11
 msgid "Password reset"
-msgstr ""
+msgstr "Passwort zurücksetzen"
 
 #: templates/account/password_reset.html:13
 msgid "Forgot your password? Enter your email below, we'll send you a link to reset it."
@@ -181,7 +181,7 @@ msgstr "Sie sind bereits als <em>%(user)s</em> angemeldet."
 
 #: templates/account/verification_sent.html:7
 msgid "Verify your e-mail address"
-msgstr ""
+msgstr "Verifiziere deine E-Mail-Adresse"
 
 #: templates/account/verification_sent.html:11
 msgid "We have sent you an e-mail for verification. Follow the link in it to finalize the signup process."
@@ -228,7 +228,7 @@ msgstr "Artikel"
 
 #: templates/navigation.html:36
 msgid "Trending"
-msgstr ""
+msgstr "Im Trend"
 
 #: templates/navigation.html:43
 msgid "Discover"
@@ -297,7 +297,7 @@ msgstr ""
 
 #: templates/socialaccount/connections.html:94
 msgid "2. Connect a Blizzard account"
-msgstr ""
+msgstr "2. Verknüpfe ein Blizzard-Konto"
 
 #: templates/socialaccount/connections.html:98
 msgid "Make sure to sign out of Blizzard before adding another account. This does not sign you out of HSReplay.net."
@@ -305,7 +305,7 @@ msgstr ""
 
 #: templates/socialaccount/connections.html:105
 msgid "Connect with Discord"
-msgstr ""
+msgstr "Mit Discord verknüpfen"
 
 #: templates/socialaccount/connections.html:109
 msgid "As a subscriber, you have access to the exclusive <strong style=\"color:#dc9502\">Premium Supporter</strong> role on <a href=\"https://discord.gg/hearthsim\" target=\"_blank\">our official Discord server</a>.\n"
@@ -314,19 +314,19 @@ msgstr ""
 
 #: templates/socialaccount/connections.html:116
 msgid "Connect a Discord account"
-msgstr ""
+msgstr "Verknüpfe ein Discord-Konto"
 
 #: templates/socialaccount/connections.html:131
 msgid "Connect with Twitch"
-msgstr ""
+msgstr "Mit Twitch verbinden"
 
 #: templates/socialaccount/connections.html:143
 msgid "Connect a Twitch account"
-msgstr ""
+msgstr "Verknüpfe ein Twitch-Konto"
 
 #: templates/socialaccount/connections.html:150
 msgid "Hearthstone accounts"
-msgstr ""
+msgstr "Hearthstone-Konten"
 
 #: templates/socialaccount/connections.html:153
 msgid "We have automatically detected the following Hearthstone accounts and associated them with you.\n"
