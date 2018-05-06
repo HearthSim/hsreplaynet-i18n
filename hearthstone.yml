@@ -1,0 +1,28 @@
+project_identifier: "hsreplaynet"
+api_key_env: CROWDIN_API_KEY
+base_path: ""
+# base_url: "https://api.crowdin.com"
+preserve_hierarchy: true
+
+files:
+
+  - source: "/en/hearthstone/*.json"
+    translation: "/%locale%/hearthstone/%original_file_name%"
+    languages_mapping:
+      locale:
+        en: "en"
+        en-GB: "en-gb"
+        fr: "fr"
+        de: "de"
+        ko: "ko"
+        es-ES: "es"
+        es-MX: "es-mx"
+        ru: "ru"
+        zh-TW: "zh-hant"
+        zh-CN: "zh-hans"
+        it: "it"
+        pl: "pl"
+        pt-BR: "pt-br"
+        pt-PT: "pt"
+        ja: "ja"
+        th: "th"

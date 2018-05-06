@@ -46,7 +46,7 @@ def main():
 			continue
 
 		django_locale = LOCALE_MAP[locale.name]
-		locale_dir = os.path.join(output_dir, django_locale)
+		locale_dir = os.path.join(output_dir, django_locale, "hearthstone")
 		if not os.path.exists(locale_dir):
 			os.makedirs(locale_dir)
 
