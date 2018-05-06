@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-04 20:03+0000\n"
-"PO-Revision-Date: 2018-05-05 09:14-0400\n"
+"POT-Creation-Date: 2018-05-06 01:40+0000\n"
+"PO-Revision-Date: 2018-05-06 05:38-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -92,8 +92,9 @@ msgstr "Dodaj adres email"
 #, python-format
 msgid "Hello %(user)s!\n\n"
 "You've added this email address to your account. We need to verify that you own it.\n\n"
-"If this is correct, go to the following URL to confirm:\n\n"
+"If this is correct, go to the following URL within three days to confirm:\n\n"
 "%(activate_url)s\n\n"
+"If this was not you, you can simply ignore this email.\n\n"
 "Cheers,\n"
 "The HSReplay.net Team\n"
 msgstr ""
@@ -176,6 +177,21 @@ msgstr ""
 #: templates/account/snippets/already_logged_in.html:3
 #, python-format
 msgid "You are already logged in as <em>%(user)s</em>."
+msgstr ""
+
+#: templates/account/verification_sent.html:7
+msgid "Verify your e-mail address"
+msgstr ""
+
+#: templates/account/verification_sent.html:11
+msgid "We have sent you an e-mail for verification. Follow the link in it to finalize the signup process."
+msgstr ""
+
+#: templates/account/verification_sent.html:14
+#, python-format
+msgid "\n"
+"\t\t\tPlease <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes.\n"
+"\t\t"
 msgstr ""
 
 #: templates/login_button.html:21
