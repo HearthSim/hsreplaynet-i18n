@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-06 01:40+0000\n"
-"PO-Revision-Date: 2018-05-06 20:40-0400\n"
+"PO-Revision-Date: 2018-05-07 08:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -25,7 +25,7 @@ msgstr "Аккаунт неактивен"
 msgid "This account is inactive or has been banned.\n"
 "\t\tPlease <a href=\"mailto:%(site_email)s\">contact us</a> if this is in error."
 msgstr "Этот аккаунт неактивен или был отключен администратором.\n"
-"\t\tПожалуйста <a href=\"mailto:%(site_email)s\">напишите нам</a> если Вы считаете, что произошла ошибка."
+"\t\tПожалуйста <a href=\"mailto:%(site_email)s\">напиши нам</a> если считаешь, что произошла ошибка."
 
 #: templates/account/base.html:12
 msgid "Settings"
@@ -33,11 +33,11 @@ msgstr "Настройки"
 
 #: templates/account/base.html:13
 msgid "Email"
-msgstr "Адрес электронной почты"
+msgstr "Email"
 
 #: templates/account/base.html:15
 msgid "Billing"
-msgstr ""
+msgstr "Оплата"
 
 #: templates/account/base.html:17
 msgid "API Access"
@@ -45,7 +45,7 @@ msgstr "Доступ к API"
 
 #: templates/account/base.html:18
 msgid "OAuth Apps"
-msgstr ""
+msgstr "Аутентификация OAuth"
 
 #: templates/account/base.html:20 templates/account/login.html:68
 #: templates/account/signup.html:37
@@ -63,7 +63,7 @@ msgstr "Удалить аккаунт"
 #: templates/account/base.html:27 templates/account/logout.html:6
 #: templates/account/logout.html:17
 msgid "Sign out"
-msgstr "Выйти"
+msgstr "Выход"
 
 #: templates/account/email.html:6
 msgid "Email Addresses"
@@ -71,7 +71,7 @@ msgstr "Адреса электронной почты"
 
 #: templates/account/email.html:10
 msgid "The following email addresses are associated with your account:"
-msgstr "Адреса электронной почты связаны с вашей учетной записью:"
+msgstr "Адреса электронной почты, связанные с твоей учетной записью:"
 
 #: templates/account/email.html:23
 msgid "Re-send Verification"
@@ -79,7 +79,7 @@ msgstr "Повторно отправить письмо с подтвержде
 
 #: templates/account/email.html:33
 msgid "Make Primary"
-msgstr ""
+msgstr "Сделать основным"
 
 #: templates/account/email.html:42
 msgid "Remove"
@@ -98,22 +98,24 @@ msgid "Hello %(user)s!\n\n"
 "If this was not you, you can simply ignore this email.\n\n"
 "Cheers,\n"
 "The HSReplay.net Team\n"
-msgstr "Здравствуйте, %(user)s! Вы добавили этот адрес электронной почты для вашей учетной записи. Нам необходимо убедиться, что Вы являетесь его владельцем. Перейдите по ссылке в течение трех дней, чтобы подтвердить адрес:\n\n"
+msgstr "Привет, %(user)s!\n\n"
+"Ты добавил этот email к своему аккаунту. Нам нужно убедиться, что ты являешься его владельцем.\n\n"
+"Перейди по ссылке в течение трех дней, чтобы подтвердить адрес:\n\n"
 "%(activate_url)s\n\n"
-"Если это были не Вы, просто проигнорируйте этот e-mail. \n"
+"Если это был не ты, просто проигнорируй этот email. \n"
 "С уважением,\n"
 "Команда HSReplay.net\n"
 
 #: templates/account/login.html:14
 #, python-format
 msgid "Log in to continue to %(oauth2_client)s"
-msgstr ""
+msgstr "Войди, чтобы продолжить %(oauth2_client)s"
 
 #: templates/account/login.html:19
 msgid "We'll send you to the offical Blizzard site where you can securely log in.<br/>\n"
 "\t\tBlizzard will redirect you back here once you're done."
-msgstr "Мы отправим вас на официальный сайт Blizzard, где вы можете безопасно войти в свой аккаунт<br/>\n"
-"\t\tПосле Вы автоматически вернетесь на этот сайт."
+msgstr "Мы перенаправим тебя на официальный сайт Blizzard, где ты сможешь безопасно войти в свой аккаунт<br/>\n"
+"\t\tПосле ты будешь автоматически перенаправлен обратно."
 
 #: templates/account/login.html:29
 msgid "Log in with Blizzard"
@@ -129,7 +131,7 @@ msgstr "HSReplay.net не получит данных от аккаунта Bliz
 
 #: templates/account/login.html:57
 msgid "Not using a Blizzard account? Sign in with your username and password here."
-msgstr "Не используете аккаунт Blizzard? Войдите, используя свой логин и пароль здесь."
+msgstr "Не используешь аккаунт Blizzard? Войди, используя свой логин и пароль здесь."
 
 #: templates/account/login.html:67 templates/account/signup.html:31
 msgid "Username"
@@ -137,7 +139,7 @@ msgstr "Имя пользователя"
 
 #: templates/account/login.html:71
 msgid "Log in"
-msgstr ""
+msgstr "Вход"
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
@@ -187,22 +189,24 @@ msgstr "Вы уже вошли как <em>%(user)s</em>."
 
 #: templates/account/verification_sent.html:7
 msgid "Verify your e-mail address"
-msgstr ""
+msgstr "Подтверди твой адрес электронной почты"
 
 #: templates/account/verification_sent.html:11
 msgid "We have sent you an e-mail for verification. Follow the link in it to finalize the signup process."
-msgstr ""
+msgstr "Мы отправили тебе ссылку для подтверждения e-mail адреса. Пройди по ней для завершения регистрации."
 
 #: templates/account/verification_sent.html:14
 #, python-format
 msgid "\n"
 "\t\t\tPlease <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes.\n"
 "\t\t"
-msgstr ""
+msgstr "\n"
+"\t\t\tПожалуйста <a href=\"mailto:%(site_email)s\">напиши нам</a> если ты не получил её в течение нескольких минут.\n"
+"\t\t"
 
 #: templates/login_button.html:21
 msgid "Toggle dropdown"
-msgstr ""
+msgstr "Вкл/Выкл выпадающий список"
 
 #: templates/login_button.html:24
 msgid "Regions"
@@ -218,7 +222,7 @@ msgstr "Blizzard Китай (CN)…"
 
 #: templates/login_button.html:36
 msgid "Debug"
-msgstr ""
+msgstr "Отладка"
 
 #: templates/login_button.html:39
 msgid "Sign in with password…"
@@ -226,7 +230,7 @@ msgstr "Войти с паролем…"
 
 #: templates/navigation.html:10
 msgid "Toggle navigation"
-msgstr ""
+msgstr "Вкл/выкл навигацию"
 
 #: templates/navigation.html:29
 msgid "Articles"
@@ -238,7 +242,7 @@ msgstr "Горячее"
 
 #: templates/navigation.html:43
 msgid "Discover"
-msgstr ""
+msgstr "Открыть"
 
 #: templates/navigation.html:50
 msgid "Meta"
@@ -254,7 +258,7 @@ msgstr "Карты"
 
 #: templates/navigation.html:70
 msgid "Refer a Friend"
-msgstr "Пригласите друга"
+msgstr "Пригласи друга"
 
 #: templates/navigation.html:70
 msgid "Premium"
@@ -264,17 +268,18 @@ msgstr "Премиум"
 #, python-format
 msgid "Please enable Javascript to continue.\n"
 "\t\tIf this problem persists, please <a href=\"mailto:%(site_email)s\">contact us</a>."
-msgstr "Пожалуйста, включите Javascript.\n"
-"\t\tЕсли проблема не решится, пожалуйста <a href=\"mailto:%(site_email)s\">напишите нам</a>."
+msgstr "Пожалуйста, включи Javascript.\n"
+"\t\tЕсли проблема не решится, <a href=\"mailto:%(site_email)s\">напиши нам</a>."
 
 #: templates/snippets/noscript.html:5
 msgid "It looks like you have Javascript turned off. This page will not work correctly.\n"
 "\t\t<a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
-msgstr ""
+msgstr "Похоже, что у тебя отключен Javascript. Эта страница не может отображаться корректно.\n"
+"\t\t<a href=\"https://enable-javascript.com/ru/\" target=\"_blank\" rel=\"noopener\">Инструкция по включению</a>."
 
 #: templates/socialaccount/authentication_error.html:7
 msgid "Authentication error"
-msgstr ""
+msgstr "Ошибка аутентификации"
 
 #: templates/socialaccount/authentication_error.html:28
 msgid "Back to the office."
@@ -283,60 +288,64 @@ msgstr ""
 #: templates/socialaccount/connections.html:14
 msgid "The following social accounts are connected to your HSReplay.net account.\n"
 "\t\tYou may log in with any connected Blizzard account."
-msgstr ""
+msgstr "Следующие учетные записи связаны с твоим аккаунтом HSReplay.net.\n"
+"\t\tТы можешь войти с любым связанным аккаунтом Blizzard."
 
 #: templates/socialaccount/connections.html:63
 msgid "You currently have no social network accounts connected to this account."
-msgstr ""
+msgstr "В настоящее время у тебя нет связанных аккаунтов."
 
 #: templates/socialaccount/connections.html:69
 msgid "Connect with Blizzard"
-msgstr ""
+msgstr "Связать с Blizzard"
 
 #: templates/socialaccount/connections.html:72
 msgid "Here, you can connect multiple Blizzard accounts to your HSReplay.net account.\n"
 "\t\t\tThis lets you sign in with any of them."
-msgstr ""
+msgstr "Здесь ты можешь связать несколько аккаунтов Blizzard с аккаунтом HSReplay.net\n"
+"\t\t\tВходи с любым!"
 
 #: templates/socialaccount/connections.html:93
 msgid "1. Sign out of Blizzard"
-msgstr ""
+msgstr "1. Выйти из Blizzard"
 
 #: templates/socialaccount/connections.html:94
 msgid "2. Connect a Blizzard account"
-msgstr ""
+msgstr "2. Привязать аккаунт Blizzard"
 
 #: templates/socialaccount/connections.html:98
 msgid "Make sure to sign out of Blizzard before adding another account. This does not sign you out of HSReplay.net."
-msgstr ""
+msgstr "Убедись, что ты вышел из аккаунта Blizzard, прежде чем добавлять другой аккаунт."
 
 #: templates/socialaccount/connections.html:105
 msgid "Connect with Discord"
-msgstr ""
+msgstr "Связать с Discord"
 
 #: templates/socialaccount/connections.html:109
 msgid "As a subscriber, you have access to the exclusive <strong style=\"color:#dc9502\">Premium Supporter</strong> role on <a href=\"https://discord.gg/hearthsim\" target=\"_blank\">our official Discord server</a>.\n"
 "\t\t\tConnect your Discord account here to do so."
-msgstr ""
+msgstr "Как у подписчика, у тебя будет доступ к роли <strong style=\"color:#dc9502\">Premium Supporter</strong> на <a href=\"https://discord.gg/hearthsim\" target=\"_blank\">нашем официальном сервере Discord</a>.\n"
+"\t\t\tПривяжи свой Discord здесь, чтобы продолжить."
 
 #: templates/socialaccount/connections.html:116
 msgid "Connect a Discord account"
-msgstr ""
+msgstr "Привязать аккаунт Discord"
 
 #: templates/socialaccount/connections.html:131
 msgid "Connect with Twitch"
-msgstr ""
+msgstr "Связать с Twitch"
 
 #: templates/socialaccount/connections.html:143
 msgid "Connect a Twitch account"
-msgstr ""
+msgstr "Привязать аккаунт Twitch"
 
 #: templates/socialaccount/connections.html:150
 msgid "Hearthstone accounts"
-msgstr ""
+msgstr "Аккаунты Hearthstone"
 
 #: templates/socialaccount/connections.html:153
 msgid "We have automatically detected the following Hearthstone accounts and associated them with you.\n"
 "\t\t\tYou can see statistics and upload your collection for any of these accounts."
-msgstr ""
+msgstr "Мы обнаружили эти аккаунты Hearthstone и связали их с тобой.\n"
+"\t\t\tТы можешь посмотреть статистику и загрузить твою коллекцию для любого из этих аккаунтов."
 
