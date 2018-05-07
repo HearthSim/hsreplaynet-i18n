@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-06 01:40+0000\n"
-"PO-Revision-Date: 2018-05-06 11:44-0400\n"
+"PO-Revision-Date: 2018-05-06 20:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -18,21 +18,22 @@ msgstr ""
 
 #: templates/account/account_inactive.html:6
 msgid "Account inactive"
-msgstr ""
+msgstr "Аккаунт неактивен"
 
 #: templates/account/account_inactive.html:9
 #, python-format
 msgid "This account is inactive or has been banned.\n"
 "\t\tPlease <a href=\"mailto:%(site_email)s\">contact us</a> if this is in error."
-msgstr ""
+msgstr "Этот аккаунт неактивен или был отключен администратором.\n"
+"\t\tПожалуйста <a href=\"mailto:%(site_email)s\">напишите нам</a> если Вы считаете, что произошла ошибка."
 
 #: templates/account/base.html:12
 msgid "Settings"
-msgstr ""
+msgstr "Настройки"
 
 #: templates/account/base.html:13
 msgid "Email"
-msgstr ""
+msgstr "Адрес электронной почты"
 
 #: templates/account/base.html:15
 msgid "Billing"
@@ -40,7 +41,7 @@ msgstr ""
 
 #: templates/account/base.html:17
 msgid "API Access"
-msgstr ""
+msgstr "Доступ к API"
 
 #: templates/account/base.html:18
 msgid "OAuth Apps"
@@ -49,32 +50,32 @@ msgstr ""
 #: templates/account/base.html:20 templates/account/login.html:68
 #: templates/account/signup.html:37
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 #: templates/account/base.html:22 templates/socialaccount/connections.html:9
 msgid "Connected accounts"
-msgstr ""
+msgstr "Подключенные аккаунты"
 
 #: templates/account/base.html:23
 msgid "Delete account"
-msgstr ""
+msgstr "Удалить аккаунт"
 
 #: templates/account/base.html:27 templates/account/logout.html:6
 #: templates/account/logout.html:17
 msgid "Sign out"
-msgstr ""
+msgstr "Выйти"
 
 #: templates/account/email.html:6
 msgid "Email Addresses"
-msgstr ""
+msgstr "Адреса электронной почты"
 
 #: templates/account/email.html:10
 msgid "The following email addresses are associated with your account:"
-msgstr ""
+msgstr "Адреса электронной почты связаны с вашей учетной записью:"
 
 #: templates/account/email.html:23
 msgid "Re-send Verification"
-msgstr ""
+msgstr "Повторно отправить письмо с подтверждением"
 
 #: templates/account/email.html:33
 msgid "Make Primary"
@@ -82,11 +83,11 @@ msgstr ""
 
 #: templates/account/email.html:42
 msgid "Remove"
-msgstr ""
+msgstr "Удалить"
 
 #: templates/account/email.html:64
 msgid "Add email address"
-msgstr ""
+msgstr "Добавить адрес эл. почты"
 
 #: templates/account/email/email_confirmation_message.txt:1
 #, python-format
@@ -97,7 +98,11 @@ msgid "Hello %(user)s!\n\n"
 "If this was not you, you can simply ignore this email.\n\n"
 "Cheers,\n"
 "The HSReplay.net Team\n"
-msgstr ""
+msgstr "Здравствуйте, %(user)s! Вы добавили этот адрес электронной почты для вашей учетной записи. Нам необходимо убедиться, что Вы являетесь его владельцем. Перейдите по ссылке в течение трех дней, чтобы подтвердить адрес:\n\n"
+"%(activate_url)s\n\n"
+"Если это были не Вы, просто проигнорируйте этот e-mail. \n"
+"С уважением,\n"
+"Команда HSReplay.net\n"
 
 #: templates/account/login.html:14
 #, python-format
@@ -107,27 +112,28 @@ msgstr ""
 #: templates/account/login.html:19
 msgid "We'll send you to the offical Blizzard site where you can securely log in.<br/>\n"
 "\t\tBlizzard will redirect you back here once you're done."
-msgstr ""
+msgstr "Мы отправим вас на официальный сайт Blizzard, где вы можете безопасно войти в свой аккаунт<br/>\n"
+"\t\tПосле Вы автоматически вернетесь на этот сайт."
 
 #: templates/account/login.html:29
 msgid "Log in with Blizzard"
-msgstr ""
+msgstr "Войти с учетной записью Blizzard"
 
 #: templates/account/login.html:33
 msgid "Region"
-msgstr ""
+msgstr "Регион"
 
 #: templates/account/login.html:47
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
-msgstr ""
+msgstr "HSReplay.net не получит данных от аккаунта Blizzard."
 
 #: templates/account/login.html:57
 msgid "Not using a Blizzard account? Sign in with your username and password here."
-msgstr ""
+msgstr "Не используете аккаунт Blizzard? Войдите, используя свой логин и пароль здесь."
 
 #: templates/account/login.html:67 templates/account/signup.html:31
 msgid "Username"
-msgstr ""
+msgstr "Имя пользователя"
 
 #: templates/account/login.html:71
 msgid "Log in"
@@ -135,32 +141,32 @@ msgstr ""
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
-msgstr ""
+msgstr "Вы уверены, что хотите выйти?"
 
 #: templates/account/password_reset.html:11
 msgid "Password reset"
-msgstr ""
+msgstr "Восстановление пароля"
 
 #: templates/account/password_reset.html:13
 msgid "Forgot your password? Enter your email below, we'll send you a link to reset it."
-msgstr ""
+msgstr "Забыли пароль? Введите адрес электронной почты ниже, мы вышлем вам ссылку для сброса пароля."
 
 #: templates/account/password_reset.html:19
 msgid "Reset password"
-msgstr ""
+msgstr "Сбросить пароль"
 
 #: templates/account/password_reset.html:25
 #, python-format
 msgid "Need help? <a href=\"mailto:%(site_email)s\">Contact us</a>."
-msgstr ""
+msgstr "Нужна помощь? <a href=\"mailto:%(site_email)s\">Напишите нам</a>."
 
 #: templates/account/signup.html:8 templates/account/signup.html:43
 msgid "Sign up"
-msgstr ""
+msgstr "Регистрация"
 
 #: templates/account/signup.html:10
 msgid "To sign up to HSReplay.net, use your Blizzard account."
-msgstr ""
+msgstr "Чтобы зарегистрироваться на HSReplay.net, используйте свой аккаунт Blizzard."
 
 #: templates/account/signup.html:20
 msgid "Alternatively, sign up with an email and password."
@@ -168,16 +174,16 @@ msgstr ""
 
 #: templates/account/signup.html:34
 msgid "Email address"
-msgstr ""
+msgstr "Адрес электронной почты"
 
 #: templates/account/signup.html:40
 msgid "Password (repeat)"
-msgstr ""
+msgstr "Пароль (повторно)"
 
 #: templates/account/snippets/already_logged_in.html:3
 #, python-format
 msgid "You are already logged in as <em>%(user)s</em>."
-msgstr ""
+msgstr "Вы уже вошли как <em>%(user)s</em>."
 
 #: templates/account/verification_sent.html:7
 msgid "Verify your e-mail address"
@@ -200,15 +206,15 @@ msgstr ""
 
 #: templates/login_button.html:24
 msgid "Regions"
-msgstr ""
+msgstr "Регионы"
 
 #: templates/login_button.html:27
 msgid "Blizzard (US/EU/SEA)…"
-msgstr ""
+msgstr "Blizzard (US/EU/SEA)…"
 
 #: templates/login_button.html:32
 msgid "Blizzard China (CN)…"
-msgstr ""
+msgstr "Blizzard Китай (CN)…"
 
 #: templates/login_button.html:36
 msgid "Debug"
@@ -216,7 +222,7 @@ msgstr ""
 
 #: templates/login_button.html:39
 msgid "Sign in with password…"
-msgstr ""
+msgstr "Войти с паролем…"
 
 #: templates/navigation.html:10
 msgid "Toggle navigation"
@@ -224,11 +230,11 @@ msgstr ""
 
 #: templates/navigation.html:29
 msgid "Articles"
-msgstr ""
+msgstr "Статьи"
 
 #: templates/navigation.html:36
 msgid "Trending"
-msgstr ""
+msgstr "Горячее"
 
 #: templates/navigation.html:43
 msgid "Discover"
@@ -236,29 +242,30 @@ msgstr ""
 
 #: templates/navigation.html:50
 msgid "Meta"
-msgstr ""
+msgstr "Мета"
 
 #: templates/navigation.html:57
 msgid "Decks"
-msgstr ""
+msgstr "Колоды"
 
 #: templates/navigation.html:64
 msgid "Cards"
-msgstr ""
+msgstr "Карты"
 
 #: templates/navigation.html:70
 msgid "Refer a Friend"
-msgstr ""
+msgstr "Пригласите друга"
 
 #: templates/navigation.html:70
 msgid "Premium"
-msgstr ""
+msgstr "Премиум"
 
 #: templates/premium/checkout_form.html:7
 #, python-format
 msgid "Please enable Javascript to continue.\n"
 "\t\tIf this problem persists, please <a href=\"mailto:%(site_email)s\">contact us</a>."
-msgstr ""
+msgstr "Пожалуйста, включите Javascript.\n"
+"\t\tЕсли проблема не решится, пожалуйста <a href=\"mailto:%(site_email)s\">напишите нам</a>."
 
 #: templates/snippets/noscript.html:5
 msgid "It looks like you have Javascript turned off. This page will not work correctly.\n"
