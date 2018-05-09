@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-06 01:40+0000\n"
-"PO-Revision-Date: 2018-05-08 20:40-0400\n"
+"PO-Revision-Date: 2018-05-09 08:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh\n"
@@ -54,7 +54,7 @@ msgstr "密碼"
 
 #: templates/account/base.html:22 templates/socialaccount/connections.html:9
 msgid "Connected accounts"
-msgstr "已綁定的帳戶"
+msgstr "已連動的帳戶"
 
 #: templates/account/base.html:23
 msgid "Delete account"
