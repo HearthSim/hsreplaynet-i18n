@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-06 01:40+0000\n"
-"PO-Revision-Date: 2018-05-08 08:40-0400\n"
+"PO-Revision-Date: 2018-05-08 20:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh\n"
@@ -18,29 +18,30 @@ msgstr ""
 
 #: templates/account/account_inactive.html:6
 msgid "Account inactive"
-msgstr ""
+msgstr "帳戶未啟動"
 
 #: templates/account/account_inactive.html:9
 #, python-format
 msgid "This account is inactive or has been banned.\n"
 "\t\tPlease <a href=\"mailto:%(site_email)s\">contact us</a> if this is in error."
-msgstr ""
+msgstr "此帳戶處於未啟動狀態或已被封鎖。\n"
+"\t\t請 <a href=\"mailto:%(site_email)s\">聯繫我們</a> 如果您有任何疑問。"
 
 #: templates/account/base.html:12
 msgid "Settings"
-msgstr ""
+msgstr "設定"
 
 #: templates/account/base.html:13
 msgid "Email"
-msgstr ""
+msgstr "電子郵件"
 
 #: templates/account/base.html:15
 msgid "Billing"
-msgstr ""
+msgstr "帳單"
 
 #: templates/account/base.html:17
 msgid "API Access"
-msgstr ""
+msgstr "取得API"
 
 #: templates/account/base.html:18
 msgid "OAuth Apps"
@@ -49,44 +50,44 @@ msgstr ""
 #: templates/account/base.html:20 templates/account/login.html:68
 #: templates/account/signup.html:37
 msgid "Password"
-msgstr ""
+msgstr "密碼"
 
 #: templates/account/base.html:22 templates/socialaccount/connections.html:9
 msgid "Connected accounts"
-msgstr ""
+msgstr "已綁定的帳戶"
 
 #: templates/account/base.html:23
 msgid "Delete account"
-msgstr ""
+msgstr "刪除帳戶"
 
 #: templates/account/base.html:27 templates/account/logout.html:6
 #: templates/account/logout.html:17
 msgid "Sign out"
-msgstr ""
+msgstr "登出"
 
 #: templates/account/email.html:6
 msgid "Email Addresses"
-msgstr ""
+msgstr "電子郵件地址"
 
 #: templates/account/email.html:10
 msgid "The following email addresses are associated with your account:"
-msgstr ""
+msgstr "以下的電子郵件地址已經和您的帳戶連結:"
 
 #: templates/account/email.html:23
 msgid "Re-send Verification"
-msgstr ""
+msgstr "重新傳送驗證信件"
 
 #: templates/account/email.html:33
 msgid "Make Primary"
-msgstr ""
+msgstr "設為主要"
 
 #: templates/account/email.html:42
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 #: templates/account/email.html:64
 msgid "Add email address"
-msgstr ""
+msgstr "加入電子郵件地址"
 
 #: templates/account/email/email_confirmation_message.txt:1
 #, python-format
@@ -97,7 +98,13 @@ msgid "Hello %(user)s!\n\n"
 "If this was not you, you can simply ignore this email.\n\n"
 "Cheers,\n"
 "The HSReplay.net Team\n"
-msgstr ""
+msgstr "哈囉 %(user)s\n\n"
+"你已經在您的帳戶中新增了這個電子郵件地址，我們必須要驗證您本人的註冊。\n\n"
+"若沒有疑問，請於三天內至下面的這個連結中確認:\n\n"
+"%(activate_url)s\n\n"
+"若這不是你，請直接忽略這封電子郵件。\n\n"
+"謝謝!\n"
+"HSReplay.net 團隊\n"
 
 #: templates/account/login.html:14
 #, python-format
@@ -224,23 +231,23 @@ msgstr ""
 
 #: templates/navigation.html:29
 msgid "Articles"
-msgstr ""
+msgstr "文章"
 
 #: templates/navigation.html:36
 msgid "Trending"
-msgstr ""
+msgstr "趨勢分析"
 
 #: templates/navigation.html:43
 msgid "Discover"
-msgstr ""
+msgstr "探索"
 
 #: templates/navigation.html:50
 msgid "Meta"
-msgstr ""
+msgstr "環境主流"
 
 #: templates/navigation.html:57
 msgid "Decks"
-msgstr ""
+msgstr "牌組"
 
 #: templates/navigation.html:64
 msgid "Cards"

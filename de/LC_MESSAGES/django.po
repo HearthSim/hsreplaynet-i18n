@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-06 01:40+0000\n"
-"PO-Revision-Date: 2018-05-08 08:40-0400\n"
+"PO-Revision-Date: 2018-05-08 20:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -97,7 +97,12 @@ msgid "Hello %(user)s!\n\n"
 "If this was not you, you can simply ignore this email.\n\n"
 "Cheers,\n"
 "The HSReplay.net Team\n"
-msgstr ""
+msgstr "Hallo %(user)s!\n\n"
+"Du hast diese E-Mail-Adresse zu deinem Konto hinzugefügt. Wir müssen verfizieren dass sie dir gehört.\n\n"
+"Falls das korrekt ist, besuche innerhalb von drei Tagen zur Bestätigung die folgende URL:\n\n"
+"%(activate_url)s\n\n"
+"Falls du das nicht warst, kannst du diese E-Mail ignorieren.\n\n"
+"Das HSReplay.net-Team\n"
 
 #: templates/account/login.html:14
 #, python-format
@@ -156,11 +161,11 @@ msgstr "Brauchst du Hilfe? <a href=\"mailto:%(site_email)s\">Kontakt</a>."
 
 #: templates/account/signup.html:8 templates/account/signup.html:43
 msgid "Sign up"
-msgstr ""
+msgstr "Registrieren"
 
 #: templates/account/signup.html:10
 msgid "To sign up to HSReplay.net, use your Blizzard account."
-msgstr ""
+msgstr "Nutze dein Blizzard-Konto um dich bei HSReplay.net zu registrieren."
 
 #: templates/account/signup.html:20
 msgid "Alternatively, sign up with an email and password."
@@ -185,7 +190,7 @@ msgstr "Verifiziere deine E-Mail-Adresse"
 
 #: templates/account/verification_sent.html:11
 msgid "We have sent you an e-mail for verification. Follow the link in it to finalize the signup process."
-msgstr ""
+msgstr "Wir haben dir eine E-Mail zur Verifikation gesendet. Folge dem Link darin um den Registrierungsprozess abzuschließen."
 
 #: templates/account/verification_sent.html:14
 #, python-format
@@ -208,7 +213,7 @@ msgstr ""
 
 #: templates/login_button.html:32
 msgid "Blizzard China (CN)…"
-msgstr ""
+msgstr "Blizzard China (CN)…"
 
 #: templates/login_button.html:36
 msgid "Debug"
@@ -301,7 +306,7 @@ msgstr "2. Verknüpfe ein Blizzard-Konto"
 
 #: templates/socialaccount/connections.html:98
 msgid "Make sure to sign out of Blizzard before adding another account. This does not sign you out of HSReplay.net."
-msgstr ""
+msgstr "Stelle sicher, dass du dich von Blizzard abmeldest bevor du ein weiteres Konto hinzufügst. Dies meldet dich nicht von HSReplay.net ab."
 
 #: templates/socialaccount/connections.html:105
 msgid "Connect with Discord"
