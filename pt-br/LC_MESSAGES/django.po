@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-06 01:40+0000\n"
-"PO-Revision-Date: 2018-05-12 08:40-0400\n"
+"PO-Revision-Date: 2018-05-12 20:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: templates/account/account_inactive.html:6
 msgid "Account inactive"
-msgstr ""
+msgstr "Conta inativa"
 
 #: templates/account/account_inactive.html:9
 #, python-format
@@ -28,11 +28,11 @@ msgstr ""
 
 #: templates/account/base.html:12
 msgid "Settings"
-msgstr ""
+msgstr "Configurações"
 
 #: templates/account/base.html:13
 msgid "Email"
-msgstr ""
+msgstr "E-mail"
 
 #: templates/account/base.html:15
 msgid "Billing"
@@ -49,7 +49,7 @@ msgstr ""
 #: templates/account/base.html:20 templates/account/login.html:68
 #: templates/account/signup.html:37
 msgid "Password"
-msgstr ""
+msgstr "Senha"
 
 #: templates/account/base.html:22 templates/socialaccount/connections.html:9
 msgid "Connected accounts"
@@ -57,12 +57,12 @@ msgstr ""
 
 #: templates/account/base.html:23
 msgid "Delete account"
-msgstr ""
+msgstr "Excluir conta"
 
 #: templates/account/base.html:27 templates/account/logout.html:6
 #: templates/account/logout.html:17
 msgid "Sign out"
-msgstr ""
+msgstr "Sair"
 
 #: templates/account/email.html:6
 msgid "Email Addresses"
@@ -82,11 +82,11 @@ msgstr ""
 
 #: templates/account/email.html:42
 msgid "Remove"
-msgstr ""
+msgstr "Remover"
 
 #: templates/account/email.html:64
 msgid "Add email address"
-msgstr ""
+msgstr "Adicionar endereço de e-mail"
 
 #: templates/account/email/email_confirmation_message.txt:1
 #, python-format
@@ -115,7 +115,7 @@ msgstr ""
 
 #: templates/account/login.html:33
 msgid "Region"
-msgstr ""
+msgstr "Região"
 
 #: templates/account/login.html:47
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
@@ -127,7 +127,7 @@ msgstr ""
 
 #: templates/account/login.html:67 templates/account/signup.html:31
 msgid "Username"
-msgstr ""
+msgstr "Nome de usuário"
 
 #: templates/account/login.html:71
 msgid "Log in"
@@ -200,7 +200,7 @@ msgstr ""
 
 #: templates/login_button.html:24
 msgid "Regions"
-msgstr ""
+msgstr "Regiões"
 
 #: templates/login_button.html:27
 msgid "Blizzard (US/EU/SEA)…"
@@ -224,7 +224,7 @@ msgstr ""
 
 #: templates/navigation.html:29
 msgid "Articles"
-msgstr ""
+msgstr "Artigos"
 
 #: templates/navigation.html:36
 msgid "Trending"
