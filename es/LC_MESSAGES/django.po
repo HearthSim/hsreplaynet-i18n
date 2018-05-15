@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-06 01:40+0000\n"
-"PO-Revision-Date: 2018-05-14 08:40-0400\n"
+"POT-Creation-Date: 2018-05-15 01:40+0000\n"
+"PO-Revision-Date: 2018-05-15 08:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish\n"
 "Language: es\n"
@@ -62,6 +62,27 @@ msgstr ""
 #: templates/account/base.html:27 templates/account/logout.html:6
 #: templates/account/logout.html:17
 msgid "Sign out"
+msgstr ""
+
+#: templates/account/delete_replays.html:6
+#: templates/account/delete_replays.html:19
+msgid "Delete my replays"
+msgstr ""
+
+#: templates/account/delete_replays.html:9
+msgid "Are you sure?"
+msgstr ""
+
+#: templates/account/delete_replays.html:10
+msgid "Deleting your replays will unlink them from your account and make any previously-shared replay URL inaccessible."
+msgstr ""
+
+#: templates/account/delete_replays.html:12
+msgid "Your personal statistics will not be reset. Are you sure you want to proceed?"
+msgstr ""
+
+#: templates/account/delete_replays.html:18
+msgid "Cancel"
 msgstr ""
 
 #: templates/account/email.html:6

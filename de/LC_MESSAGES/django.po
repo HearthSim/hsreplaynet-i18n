@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-06 01:40+0000\n"
-"PO-Revision-Date: 2018-05-14 08:40-0400\n"
+"POT-Creation-Date: 2018-05-15 01:40+0000\n"
+"PO-Revision-Date: 2018-05-15 08:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -63,6 +63,27 @@ msgstr "Account löschen"
 #: templates/account/logout.html:17
 msgid "Sign out"
 msgstr "Abmelden"
+
+#: templates/account/delete_replays.html:6
+#: templates/account/delete_replays.html:19
+msgid "Delete my replays"
+msgstr "Meine Aufzeichnungen löschen"
+
+#: templates/account/delete_replays.html:9
+msgid "Are you sure?"
+msgstr "Bist du sicher?"
+
+#: templates/account/delete_replays.html:10
+msgid "Deleting your replays will unlink them from your account and make any previously-shared replay URL inaccessible."
+msgstr ""
+
+#: templates/account/delete_replays.html:12
+msgid "Your personal statistics will not be reset. Are you sure you want to proceed?"
+msgstr "Deine persönlichen Statistiken werden nicht zurückgesetzt. Bist du sicher, dass du fortfahren möchtest?"
+
+#: templates/account/delete_replays.html:18
+msgid "Cancel"
+msgstr "Abbrechen"
 
 #: templates/account/email.html:6
 msgid "Email Addresses"
@@ -217,7 +238,7 @@ msgstr "Blizzard China (CN)…"
 
 #: templates/login_button.html:36
 msgid "Debug"
-msgstr ""
+msgstr "Debug"
 
 #: templates/login_button.html:39
 msgid "Sign in with password…"
@@ -298,7 +319,7 @@ msgstr ""
 
 #: templates/socialaccount/connections.html:93
 msgid "1. Sign out of Blizzard"
-msgstr ""
+msgstr "1. Bei Blizzard abmelden"
 
 #: templates/socialaccount/connections.html:94
 msgid "2. Connect a Blizzard account"
