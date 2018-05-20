@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-20 01:40+0000\n"
+"POT-Creation-Date: 2018-05-20 15:31+0000\n"
 "PO-Revision-Date: 2018-03-14 11:15+0000\n"
 "Last-Translator: Jerome Leclanche <jerome@leclan.ch>\n"
 "Language-Team: English <contact@hearthsim.net>\n"
@@ -112,6 +112,30 @@ msgstr ""
 
 #: templates/account/email.html:64
 msgid "Add email address"
+msgstr ""
+
+#: templates/account/email.html:73
+msgid "Notification settings"
+msgstr ""
+
+#: templates/account/email.html:77
+msgid "Control which types of emails you receive at your primary address."
+msgstr ""
+
+#: templates/account/email.html:83
+msgid "Account & security (required)"
+msgstr ""
+
+#: templates/account/email.html:84
+msgid "Billing (required)"
+msgstr ""
+
+#: templates/account/email.html:87
+msgid "Product and feature announcements"
+msgstr ""
+
+#: templates/account/email.html:91
+msgid "Save"
 msgstr ""
 
 #: templates/account/email/email_confirmation_message.txt:1
