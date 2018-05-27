@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-26 01:40+0000\n"
+"POT-Creation-Date: 2018-05-27 01:40+0000\n"
 "PO-Revision-Date: 2018-03-14 11:15+0000\n"
 "Last-Translator: Jerome Leclanche <jerome@leclan.ch>\n"
 "Language-Team: English <contact@hearthsim.net>\n"
@@ -354,65 +354,4 @@ msgstr ""
 #: templates/socialaccount/connections.html:63
 msgid ""
 "You currently have no social network accounts connected to this account."
-msgstr ""
-
-#: templates/socialaccount/connections.html:69
-msgid "Connect with Blizzard"
-msgstr ""
-
-#: templates/socialaccount/connections.html:72
-msgid ""
-"Here, you can connect multiple Blizzard accounts to your HSReplay.net "
-"account.\n"
-"\t\t\tThis lets you sign in with any of them."
-msgstr ""
-
-#: templates/socialaccount/connections.html:93
-msgid "1. Sign out of Blizzard"
-msgstr ""
-
-#: templates/socialaccount/connections.html:94
-msgid "2. Connect a Blizzard account"
-msgstr ""
-
-#: templates/socialaccount/connections.html:98
-msgid ""
-"Make sure to sign out of Blizzard before adding another account. This does "
-"not sign you out of HSReplay.net."
-msgstr ""
-
-#: templates/socialaccount/connections.html:105
-msgid "Connect with Discord"
-msgstr ""
-
-#: templates/socialaccount/connections.html:109
-msgid ""
-"As a subscriber, you have access to the exclusive <strong style=\"color:"
-"#dc9502\">Premium Supporter</strong> role on <a href=\"https://discord.gg/"
-"hearthsim\" target=\"_blank\">our official Discord server</a>.\n"
-"\t\t\tConnect your Discord account here to do so."
-msgstr ""
-
-#: templates/socialaccount/connections.html:116
-msgid "Connect a Discord account"
-msgstr ""
-
-#: templates/socialaccount/connections.html:131
-msgid "Connect with Twitch"
-msgstr ""
-
-#: templates/socialaccount/connections.html:143
-msgid "Connect a Twitch account"
-msgstr ""
-
-#: templates/socialaccount/connections.html:150
-msgid "Hearthstone accounts"
-msgstr ""
-
-#: templates/socialaccount/connections.html:153
-msgid ""
-"We have automatically detected the following Hearthstone accounts and "
-"associated them with you.\n"
-"\t\t\tYou can see statistics and upload your collection for any of these "
-"accounts."
 msgstr ""
