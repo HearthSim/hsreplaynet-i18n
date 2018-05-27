@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-20 15:31+0000\n"
-"PO-Revision-Date: 2018-05-26 08:40-0400\n"
+"POT-Creation-Date: 2018-05-27 01:40+0000\n"
+"PO-Revision-Date: 2018-05-27 08:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -339,58 +339,4 @@ msgstr "Следующие учетные записи связаны с тво�
 #: templates/socialaccount/connections.html:63
 msgid "You currently have no social network accounts connected to this account."
 msgstr "В настоящее время у тебя нет связанных аккаунтов."
-
-#: templates/socialaccount/connections.html:69
-msgid "Connect with Blizzard"
-msgstr "Связать с Blizzard"
-
-#: templates/socialaccount/connections.html:72
-msgid "Here, you can connect multiple Blizzard accounts to your HSReplay.net account.\n"
-"\t\t\tThis lets you sign in with any of them."
-msgstr "Здесь ты можешь связать несколько аккаунтов Blizzard с аккаунтом HSReplay.net\n"
-"\t\t\tВходи с любым!"
-
-#: templates/socialaccount/connections.html:93
-msgid "1. Sign out of Blizzard"
-msgstr "1. Выйти из Blizzard"
-
-#: templates/socialaccount/connections.html:94
-msgid "2. Connect a Blizzard account"
-msgstr "2. Привязать аккаунт Blizzard"
-
-#: templates/socialaccount/connections.html:98
-msgid "Make sure to sign out of Blizzard before adding another account. This does not sign you out of HSReplay.net."
-msgstr "Убедись, что ты вышел из аккаунта Blizzard, прежде чем добавлять другой аккаунт."
-
-#: templates/socialaccount/connections.html:105
-msgid "Connect with Discord"
-msgstr "Связать с Discord"
-
-#: templates/socialaccount/connections.html:109
-msgid "As a subscriber, you have access to the exclusive <strong style=\"color:#dc9502\">Premium Supporter</strong> role on <a href=\"https://discord.gg/hearthsim\" target=\"_blank\">our official Discord server</a>.\n"
-"\t\t\tConnect your Discord account here to do so."
-msgstr "Как у подписчика, у тебя будет доступ к роли <strong style=\"color:#dc9502\">Premium Supporter</strong> на <a href=\"https://discord.gg/hearthsim\" target=\"_blank\">нашем официальном сервере Discord</a>.\n"
-"\t\t\tПривяжи свой Discord здесь, чтобы продолжить."
-
-#: templates/socialaccount/connections.html:116
-msgid "Connect a Discord account"
-msgstr "Привязать аккаунт Discord"
-
-#: templates/socialaccount/connections.html:131
-msgid "Connect with Twitch"
-msgstr "Связать с Twitch"
-
-#: templates/socialaccount/connections.html:143
-msgid "Connect a Twitch account"
-msgstr "Привязать аккаунт Twitch"
-
-#: templates/socialaccount/connections.html:150
-msgid "Hearthstone accounts"
-msgstr "Аккаунты Hearthstone"
-
-#: templates/socialaccount/connections.html:153
-msgid "We have automatically detected the following Hearthstone accounts and associated them with you.\n"
-"\t\t\tYou can see statistics and upload your collection for any of these accounts."
-msgstr "Мы обнаружили эти аккаунты Hearthstone и связали их с тобой.\n"
-"\t\t\tТы можешь посмотреть статистику и загрузить твою коллекцию для любого из этих аккаунтов."
 

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-20 15:31+0000\n"
-"PO-Revision-Date: 2018-05-26 08:40-0400\n"
+"POT-Creation-Date: 2018-05-27 01:40+0000\n"
+"PO-Revision-Date: 2018-05-27 08:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -331,55 +331,4 @@ msgstr ""
 #: templates/socialaccount/connections.html:63
 msgid "You currently have no social network accounts connected to this account."
 msgstr "Du hast zurzeit keine sozialen Netzwerke mit diesem Konto verbunden."
-
-#: templates/socialaccount/connections.html:69
-msgid "Connect with Blizzard"
-msgstr "Mit Blizzard verbinden"
-
-#: templates/socialaccount/connections.html:72
-msgid "Here, you can connect multiple Blizzard accounts to your HSReplay.net account.\n"
-"\t\t\tThis lets you sign in with any of them."
-msgstr ""
-
-#: templates/socialaccount/connections.html:93
-msgid "1. Sign out of Blizzard"
-msgstr "1. Bei Blizzard abmelden"
-
-#: templates/socialaccount/connections.html:94
-msgid "2. Connect a Blizzard account"
-msgstr "2. Verknüpfe ein Blizzard-Konto"
-
-#: templates/socialaccount/connections.html:98
-msgid "Make sure to sign out of Blizzard before adding another account. This does not sign you out of HSReplay.net."
-msgstr "Stelle sicher, dass du dich von Blizzard abmeldest bevor du ein weiteres Konto hinzufügst. Dies meldet dich nicht von HSReplay.net ab."
-
-#: templates/socialaccount/connections.html:105
-msgid "Connect with Discord"
-msgstr "Mit Discord verknüpfen"
-
-#: templates/socialaccount/connections.html:109
-msgid "As a subscriber, you have access to the exclusive <strong style=\"color:#dc9502\">Premium Supporter</strong> role on <a href=\"https://discord.gg/hearthsim\" target=\"_blank\">our official Discord server</a>.\n"
-"\t\t\tConnect your Discord account here to do so."
-msgstr ""
-
-#: templates/socialaccount/connections.html:116
-msgid "Connect a Discord account"
-msgstr "Verknüpfe ein Discord-Konto"
-
-#: templates/socialaccount/connections.html:131
-msgid "Connect with Twitch"
-msgstr "Mit Twitch verbinden"
-
-#: templates/socialaccount/connections.html:143
-msgid "Connect a Twitch account"
-msgstr "Verknüpfe ein Twitch-Konto"
-
-#: templates/socialaccount/connections.html:150
-msgid "Hearthstone accounts"
-msgstr "Hearthstone-Konten"
-
-#: templates/socialaccount/connections.html:153
-msgid "We have automatically detected the following Hearthstone accounts and associated them with you.\n"
-"\t\t\tYou can see statistics and upload your collection for any of these accounts."
-msgstr ""
 
