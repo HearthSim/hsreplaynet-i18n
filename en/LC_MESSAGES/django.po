@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-30 01:40+0000\n"
+"POT-Creation-Date: 2018-05-30 12:18+0000\n"
 "PO-Revision-Date: 2018-03-14 11:15+0000\n"
 "Last-Translator: Jerome Leclanche <jerome@leclan.ch>\n"
 "Language-Team: English <contact@hearthsim.net>\n"
@@ -49,7 +49,7 @@ msgid "OAuth Apps"
 msgstr ""
 
 #: templates/account/base.html:20 templates/account/login.html:68
-#: templates/account/signup.html:37
+#: templates/account/signup.html:33
 msgid "Password"
 msgstr ""
 
@@ -186,7 +186,7 @@ msgid ""
 "Not using a Blizzard account? Sign in with your username and password here."
 msgstr ""
 
-#: templates/account/login.html:67 templates/account/signup.html:31
+#: templates/account/login.html:67 templates/account/signup.html:27
 msgid "Username"
 msgstr ""
 
@@ -217,7 +217,7 @@ msgstr ""
 msgid "Need help? <a href=\"mailto:%(site_email)s\">Contact us</a>."
 msgstr ""
 
-#: templates/account/signup.html:8 templates/account/signup.html:43
+#: templates/account/signup.html:8 templates/account/signup.html:39
 msgid "Sign up"
 msgstr ""
 
@@ -225,15 +225,15 @@ msgstr ""
 msgid "To sign up to HSReplay.net, use your Blizzard account."
 msgstr ""
 
-#: templates/account/signup.html:20
+#: templates/account/signup.html:16
 msgid "Alternatively, sign up with an email and password."
 msgstr ""
 
-#: templates/account/signup.html:34
+#: templates/account/signup.html:30
 msgid "Email address"
 msgstr ""
 
-#: templates/account/signup.html:40
+#: templates/account/signup.html:36
 msgid "Password (repeat)"
 msgstr ""
 
@@ -259,30 +259,6 @@ msgid ""
 "\t\t\tPlease <a href=\"mailto:%(site_email)s\">contact us</a> if you do not "
 "receive it within a few minutes.\n"
 "\t\t"
-msgstr ""
-
-#: templates/login_button.html:21
-msgid "Toggle dropdown"
-msgstr ""
-
-#: templates/login_button.html:24
-msgid "Regions"
-msgstr ""
-
-#: templates/login_button.html:27
-msgid "Blizzard (US/EU/SEA)…"
-msgstr ""
-
-#: templates/login_button.html:32
-msgid "Blizzard China (CN)…"
-msgstr ""
-
-#: templates/login_button.html:36
-msgid "Debug"
-msgstr ""
-
-#: templates/login_button.html:39
-msgid "Sign in with password…"
 msgstr ""
 
 #: templates/navigation.html:10
@@ -319,14 +295,6 @@ msgstr ""
 
 #: templates/navigation.html:70
 msgid "Premium"
-msgstr ""
-
-#: templates/premium/checkout_form.html:7
-#, python-format
-msgid ""
-"Please enable Javascript to continue.\n"
-"\t\tIf this problem persists, please <a href=\"mailto:%(site_email)s"
-"\">contact us</a>."
 msgstr ""
 
 #: templates/snippets/noscript.html:5
