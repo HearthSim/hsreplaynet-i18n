@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-27 01:40+0000\n"
-"PO-Revision-Date: 2018-05-29 08:40-0400\n"
+"POT-Creation-Date: 2018-05-30 12:18+0000\n"
+"PO-Revision-Date: 2018-05-30 08:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -47,7 +47,7 @@ msgid "OAuth Apps"
 msgstr "OAuth-Anwendungen"
 
 #: templates/account/base.html:20 templates/account/login.html:68
-#: templates/account/signup.html:37
+#: templates/account/signup.html:33
 msgid "Password"
 msgstr "Passwort"
 
@@ -175,7 +175,7 @@ msgstr "HSReplay.net erhält niemals Zugriff auf deine Blizzard-E-Mail-Addresse 
 msgid "Not using a Blizzard account? Sign in with your username and password here."
 msgstr "Du benutzt keinen Blizzard-Account? Melde dich hier mit deinem Nutzernamen und Passwort an."
 
-#: templates/account/login.html:67 templates/account/signup.html:31
+#: templates/account/login.html:67 templates/account/signup.html:27
 msgid "Username"
 msgstr "Benutzername"
 
@@ -204,7 +204,7 @@ msgstr "Passwort zurücksetzen"
 msgid "Need help? <a href=\"mailto:%(site_email)s\">Contact us</a>."
 msgstr "Brauchst du Hilfe? <a href=\"mailto:%(site_email)s\">Kontakt</a>."
 
-#: templates/account/signup.html:8 templates/account/signup.html:43
+#: templates/account/signup.html:8 templates/account/signup.html:39
 msgid "Sign up"
 msgstr "Registrieren"
 
@@ -212,15 +212,15 @@ msgstr "Registrieren"
 msgid "To sign up to HSReplay.net, use your Blizzard account."
 msgstr "Nutze dein Blizzard-Konto um dich bei HSReplay.net zu registrieren."
 
-#: templates/account/signup.html:20
+#: templates/account/signup.html:16
 msgid "Alternatively, sign up with an email and password."
 msgstr ""
 
-#: templates/account/signup.html:34
+#: templates/account/signup.html:30
 msgid "Email address"
 msgstr "E-Mail-Adresse"
 
-#: templates/account/signup.html:40
+#: templates/account/signup.html:36
 msgid "Password (repeat)"
 msgstr "Passwort (Wiederholung)"
 
@@ -243,30 +243,6 @@ msgid "\n"
 "\t\t\tPlease <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes.\n"
 "\t\t"
 msgstr ""
-
-#: templates/login_button.html:21
-msgid "Toggle dropdown"
-msgstr ""
-
-#: templates/login_button.html:24
-msgid "Regions"
-msgstr "Regionen"
-
-#: templates/login_button.html:27
-msgid "Blizzard (US/EU/SEA)…"
-msgstr ""
-
-#: templates/login_button.html:32
-msgid "Blizzard China (CN)…"
-msgstr "Blizzard China (CN)…"
-
-#: templates/login_button.html:36
-msgid "Debug"
-msgstr "Debug"
-
-#: templates/login_button.html:39
-msgid "Sign in with password…"
-msgstr "Mit Passwort anmelden…"
 
 #: templates/navigation.html:10
 msgid "Toggle navigation"
@@ -303,12 +279,6 @@ msgstr "Freund empfehlen"
 #: templates/navigation.html:70
 msgid "Premium"
 msgstr "Premium"
-
-#: templates/premium/checkout_form.html:7
-#, python-format
-msgid "Please enable Javascript to continue.\n"
-"\t\tIf this problem persists, please <a href=\"mailto:%(site_email)s\">contact us</a>."
-msgstr ""
 
 #: templates/snippets/noscript.html:5
 msgid "It looks like you have Javascript turned off. This page will not work correctly.\n"

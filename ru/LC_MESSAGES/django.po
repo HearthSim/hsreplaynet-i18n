@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-27 01:40+0000\n"
-"PO-Revision-Date: 2018-05-29 08:40-0400\n"
+"POT-Creation-Date: 2018-05-30 12:18+0000\n"
+"PO-Revision-Date: 2018-05-30 08:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -48,7 +48,7 @@ msgid "OAuth Apps"
 msgstr "OAuth Apps"
 
 #: templates/account/base.html:20 templates/account/login.html:68
-#: templates/account/signup.html:37
+#: templates/account/signup.html:33
 msgid "Password"
 msgstr "Пароль"
 
@@ -178,7 +178,7 @@ msgstr "HSReplay.net не получит данных от аккаунта Bliz
 msgid "Not using a Blizzard account? Sign in with your username and password here."
 msgstr "Не используешь аккаунт Blizzard? Войди, используя свой логин и пароль здесь."
 
-#: templates/account/login.html:67 templates/account/signup.html:31
+#: templates/account/login.html:67 templates/account/signup.html:27
 msgid "Username"
 msgstr "Имя пользователя"
 
@@ -207,7 +207,7 @@ msgstr "Сбросить пароль"
 msgid "Need help? <a href=\"mailto:%(site_email)s\">Contact us</a>."
 msgstr "Нужна помощь? <a href=\"mailto:%(site_email)s\">Напишите нам</a>."
 
-#: templates/account/signup.html:8 templates/account/signup.html:43
+#: templates/account/signup.html:8 templates/account/signup.html:39
 msgid "Sign up"
 msgstr "Регистрация"
 
@@ -215,15 +215,15 @@ msgstr "Регистрация"
 msgid "To sign up to HSReplay.net, use your Blizzard account."
 msgstr "Чтобы зарегистрироваться на HSReplay.net, используйте свой аккаунт Blizzard."
 
-#: templates/account/signup.html:20
+#: templates/account/signup.html:16
 msgid "Alternatively, sign up with an email and password."
 msgstr ""
 
-#: templates/account/signup.html:34
+#: templates/account/signup.html:30
 msgid "Email address"
 msgstr "Адрес электронной почты"
 
-#: templates/account/signup.html:40
+#: templates/account/signup.html:36
 msgid "Password (repeat)"
 msgstr "Пароль (повторно)"
 
@@ -248,30 +248,6 @@ msgid "\n"
 msgstr "\n"
 "\t\t\tПожалуйста <a href=\"mailto:%(site_email)s\">напиши нам</a> если ты не получил её в течение нескольких минут.\n"
 "\t\t"
-
-#: templates/login_button.html:21
-msgid "Toggle dropdown"
-msgstr "Вкл/Выкл выпадающий список"
-
-#: templates/login_button.html:24
-msgid "Regions"
-msgstr "Регионы"
-
-#: templates/login_button.html:27
-msgid "Blizzard (US/EU/SEA)…"
-msgstr "Blizzard (US/EU/SEA)…"
-
-#: templates/login_button.html:32
-msgid "Blizzard China (CN)…"
-msgstr "Blizzard Китай (CN)…"
-
-#: templates/login_button.html:36
-msgid "Debug"
-msgstr "Отладка"
-
-#: templates/login_button.html:39
-msgid "Sign in with password…"
-msgstr "Войти с паролем…"
 
 #: templates/navigation.html:10
 msgid "Toggle navigation"
@@ -308,13 +284,6 @@ msgstr "Пригласи друга"
 #: templates/navigation.html:70
 msgid "Premium"
 msgstr "Премиум"
-
-#: templates/premium/checkout_form.html:7
-#, python-format
-msgid "Please enable Javascript to continue.\n"
-"\t\tIf this problem persists, please <a href=\"mailto:%(site_email)s\">contact us</a>."
-msgstr "Пожалуйста, включи Javascript.\n"
-"\t\tЕсли проблема не решится, <a href=\"mailto:%(site_email)s\">напиши нам</a>."
 
 #: templates/snippets/noscript.html:5
 msgid "It looks like you have Javascript turned off. This page will not work correctly.\n"
