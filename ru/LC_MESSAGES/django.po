@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-05-30 12:18+0000\n"
-"PO-Revision-Date: 2018-05-31 08:40-0400\n"
+"PO-Revision-Date: 2018-05-31 20:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -112,27 +112,27 @@ msgstr "Добавить адрес эл. почты"
 
 #: templates/account/email.html:73
 msgid "Notification settings"
-msgstr ""
+msgstr "Настройки оповещений"
 
 #: templates/account/email.html:77
 msgid "Control which types of emails you receive at your primary address."
-msgstr ""
+msgstr "Настраивай уведомления, которые ты хочешь получать на свой email."
 
 #: templates/account/email.html:83
 msgid "Account & security (required)"
-msgstr ""
+msgstr "Аккаунт и безопасность (обязательно)"
 
 #: templates/account/email.html:84
 msgid "Billing (required)"
-msgstr ""
+msgstr "Оплата (обязательно)"
 
 #: templates/account/email.html:87
 msgid "Product and feature announcements"
-msgstr ""
+msgstr "Анонсы новых возможностей"
 
 #: templates/account/email.html:91
 msgid "Save"
-msgstr ""
+msgstr "Сохранить"
 
 #: templates/account/email/email_confirmation_message.txt:1
 #, python-format
@@ -217,7 +217,7 @@ msgstr "Чтобы зарегистрироваться на HSReplay.net, ис�
 
 #: templates/account/signup.html:16
 msgid "Alternatively, sign up with an email and password."
-msgstr ""
+msgstr "Или войди с email и паролем."
 
 #: templates/account/signup.html:30
 msgid "Email address"
