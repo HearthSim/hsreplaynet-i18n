@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-05-30 12:18+0000\n"
-"PO-Revision-Date: 2018-06-06 08:40-0400\n"
+"POT-Creation-Date: 2018-06-07 01:40+0000\n"
+"PO-Revision-Date: 2018-06-07 00:52-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -249,6 +249,78 @@ msgstr "\n"
 "\t\t\tПожалуйста <a href=\"mailto:%(site_email)s\">напиши нам</a> если ты не получил её в течение нескольких минут.\n"
 "\t\t"
 
+#: templates/footer.html:7
+msgid "Back to top"
+msgstr ""
+
+#: templates/footer.html:20
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: templates/footer.html:26
+msgid "Join our Discord server"
+msgstr ""
+
+#: templates/footer.html:32
+msgid "Like us on Facebook"
+msgstr ""
+
+#: templates/footer.html:42 templates/navigation.html:70
+msgid "Premium"
+msgstr "Премиум"
+
+#: templates/footer.html:43
+msgid "Downloads"
+msgstr ""
+
+#: templates/footer.html:44
+msgid "Privacy Policy"
+msgstr ""
+
+#: templates/footer.html:45
+msgid "Terms of Service"
+msgstr ""
+
+#: templates/footer.html:49
+msgid "Help"
+msgstr ""
+
+#: templates/footer.html:51
+msgid "About Us"
+msgstr ""
+
+#: templates/footer.html:52
+msgid "FAQ"
+msgstr ""
+
+#: templates/footer.html:53
+msgid "Contact"
+msgstr ""
+
+#: templates/footer.html:54
+msgid "Security"
+msgstr ""
+
+#: templates/footer.html:60
+msgid "Corporate"
+msgstr ""
+
+#: templates/footer.html:61
+msgid "Open source"
+msgstr ""
+
+#: templates/footer.html:62
+msgid "Careers"
+msgstr ""
+
+#: templates/footer.html:63
+msgid "Press"
+msgstr ""
+
+#: templates/footer.html:68
+msgid "This website is not affiliated with Blizzard Entertainment."
+msgstr ""
+
 #: templates/navigation.html:10
 msgid "Toggle navigation"
 msgstr "Вкл/выкл навигацию"
@@ -280,10 +352,6 @@ msgstr "Карты"
 #: templates/navigation.html:70
 msgid "Refer a Friend"
 msgstr "Пригласи друга"
-
-#: templates/navigation.html:70
-msgid "Premium"
-msgstr "Премиум"
 
 #: templates/snippets/noscript.html:5
 msgid "It looks like you have Javascript turned off. This page will not work correctly.\n"
