@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-07 01:40+0000\n"
-"PO-Revision-Date: 2018-06-08 08:40-0400\n"
+"PO-Revision-Date: 2018-06-08 20:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -18,14 +18,14 @@ msgstr ""
 
 #: templates/account/account_inactive.html:6
 msgid "Account inactive"
-msgstr "Аккаунт неактивен"
+msgstr "Учетная запись отключена"
 
 #: templates/account/account_inactive.html:9
 #, python-format
 msgid "This account is inactive or has been banned.\n"
 "\t\tPlease <a href=\"mailto:%(site_email)s\">contact us</a> if this is in error."
-msgstr "Этот аккаунт неактивен или был отключен администратором.\n"
-"\t\tПожалуйста <a href=\"mailto:%(site_email)s\">напиши нам</a> если считаешь, что произошла ошибка."
+msgstr "Эта учетная запись отключена или заблокирована администратором.\n"
+"\t\tЕсли это ошибка, пожалуйста <a href=\"mailto:%(site_email)s\">свяжитесь с нами</a>."
 
 #: templates/account/base.html:12
 msgid "Settings"
@@ -45,7 +45,7 @@ msgstr "Доступ к API"
 
 #: templates/account/base.html:18
 msgid "OAuth Apps"
-msgstr "OAuth Apps"
+msgstr "OAuth"
 
 #: templates/account/base.html:20 templates/account/login.html:68
 #: templates/account/signup.html:33
@@ -54,11 +54,11 @@ msgstr "Пароль"
 
 #: templates/account/base.html:22 templates/socialaccount/connections.html:9
 msgid "Connected accounts"
-msgstr "Связанные аккаунты"
+msgstr "Связанные учетные записи"
 
 #: templates/account/base.html:23
 msgid "Delete account"
-msgstr "Удалить аккаунт"
+msgstr "Удалить учетную запись"
 
 #: templates/account/base.html:27 templates/account/logout.html:6
 #: templates/account/logout.html:17
@@ -68,19 +68,19 @@ msgstr "Выход"
 #: templates/account/delete_replays.html:6
 #: templates/account/delete_replays.html:19
 msgid "Delete my replays"
-msgstr "Удалить повторы"
+msgstr "Удалить мои записи"
 
 #: templates/account/delete_replays.html:9
 msgid "Are you sure?"
-msgstr "Ты уверен?"
+msgstr "Вы уверены?"
 
 #: templates/account/delete_replays.html:10
 msgid "Deleting your replays will unlink them from your account and make any previously-shared replay URL inaccessible."
-msgstr "Удаление повторов \"открепит\" их от твоего аккаунта и они больше не будут доступны по ссылкам."
+msgstr "После удаления записи игры, она будет отвязана от вашей учетной записи и все старые ссылки на неё станут недействительны."
 
 #: templates/account/delete_replays.html:12
 msgid "Your personal statistics will not be reset. Are you sure you want to proceed?"
-msgstr "Твоя личная статистика не будет сброшена. Продолжаем?"
+msgstr "Ваша личная статистика не будет сброшена. Хотите продолжить?"
 
 #: templates/account/delete_replays.html:18
 msgid "Cancel"
@@ -92,7 +92,7 @@ msgstr "Адреса электронной почты"
 
 #: templates/account/email.html:10
 msgid "The following email addresses are associated with your account:"
-msgstr "Адреса электронной почты, связанные с твоей учетной записью:"
+msgstr "Адреса электронной почты, связанные с вашей учетной записью:"
 
 #: templates/account/email.html:23
 msgid "Re-send Verification"
@@ -116,11 +116,11 @@ msgstr "Настройки оповещений"
 
 #: templates/account/email.html:77
 msgid "Control which types of emails you receive at your primary address."
-msgstr "Настраивай уведомления, которые ты хочешь получать на свой email."
+msgstr "Выберите типы уведомлений, которые хотите получать на свой email."
 
 #: templates/account/email.html:83
 msgid "Account & security (required)"
-msgstr "Аккаунт и безопасность (обязательно)"
+msgstr "Учетная запись и безопасность (обязательно)"
 
 #: templates/account/email.html:84
 msgid "Billing (required)"
@@ -147,20 +147,20 @@ msgstr "Привет, %(user)s!\n\n"
 "Ты добавил этот email к своему аккаунту. Нам нужно убедиться, что ты являешься его владельцем.\n\n"
 "Перейди по ссылке в течение трех дней, чтобы подтвердить адрес:\n\n"
 "%(activate_url)s\n\n"
-"Если это был не ты, просто проигнорируй этот email. \n"
+"Если это был не ты, просто проигнорируй этот email. \n\n"
 "С уважением,\n"
 "Команда HSReplay.net\n"
 
 #: templates/account/login.html:14
 #, python-format
 msgid "Log in to continue to %(oauth2_client)s"
-msgstr "Войди, чтобы продолжить %(oauth2_client)s"
+msgstr "Войдите, чтобы продолжить %(oauth2_client)s"
 
 #: templates/account/login.html:19
 msgid "We'll send you to the offical Blizzard site where you can securely log in.<br/>\n"
 "\t\tBlizzard will redirect you back here once you're done."
-msgstr "Мы перенаправим тебя на официальный сайт Blizzard, где ты сможешь безопасно войти в свой аккаунт<br/>\n"
-"\t\tПосле ты будешь автоматически перенаправлен обратно."
+msgstr "Мы перенаправим вас на официальный сайт Blizzard, где вы сможете безопасно авторизоваться<br/>\n"
+"\t\tПо завершении вы будете возвращены сюда."
 
 #: templates/account/login.html:29
 msgid "Log in with Blizzard"
@@ -172,11 +172,11 @@ msgstr "Регион"
 
 #: templates/account/login.html:47
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
-msgstr "HSReplay.net не получит данных от аккаунта Blizzard."
+msgstr "HSReplay.net не получит доступа к email адресу и паролю, используемых в вашей учетной записи Blizzard."
 
 #: templates/account/login.html:57
 msgid "Not using a Blizzard account? Sign in with your username and password here."
-msgstr "Не используешь аккаунт Blizzard? Войди, используя свой логин и пароль здесь."
+msgstr "Не пользуетесь учетной записью Blizzard? Войдите, используя свой логин и пароль."
 
 #: templates/account/login.html:67 templates/account/signup.html:27
 msgid "Username"
@@ -184,7 +184,7 @@ msgstr "Имя пользователя"
 
 #: templates/account/login.html:71
 msgid "Log in"
-msgstr "Вход"
+msgstr "Войти"
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
@@ -213,11 +213,11 @@ msgstr "Регистрация"
 
 #: templates/account/signup.html:10
 msgid "To sign up to HSReplay.net, use your Blizzard account."
-msgstr "Чтобы зарегистрироваться на HSReplay.net, используйте свой аккаунт Blizzard."
+msgstr "Чтобы зарегистрироваться на HSReplay.net, используйте свою учетную запись Blizzard."
 
 #: templates/account/signup.html:16
 msgid "Alternatively, sign up with an email and password."
-msgstr "Или войди с email и паролем."
+msgstr "Или зарегистрируйтесь с email и паролем."
 
 #: templates/account/signup.html:30
 msgid "Email address"
@@ -234,7 +234,7 @@ msgstr "Вы уже вошли как <em>%(user)s</em>."
 
 #: templates/account/verification_sent.html:7
 msgid "Verify your e-mail address"
-msgstr "Подтверди твой адрес электронной почты"
+msgstr "Подтвердите адрес электронной почты"
 
 #: templates/account/verification_sent.html:11
 msgid "We have sent you an e-mail for verification. Follow the link in it to finalize the signup process."
@@ -246,24 +246,24 @@ msgid "\n"
 "\t\t\tPlease <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes.\n"
 "\t\t"
 msgstr "\n"
-"\t\t\tПожалуйста <a href=\"mailto:%(site_email)s\">напиши нам</a> если ты не получил её в течение нескольких минут.\n"
+"\t\t\tПожалуйста <a href=\"mailto:%(site_email)s\">напишите нам</a> если вы не получили её в течение нескольких минут.\n"
 "\t\t"
 
 #: templates/footer.html:7
 msgid "Back to top"
-msgstr ""
+msgstr "В начало"
 
 #: templates/footer.html:20
 msgid "Follow us on Twitter"
-msgstr ""
+msgstr "Мы в Twitter"
 
 #: templates/footer.html:26
 msgid "Join our Discord server"
-msgstr ""
+msgstr "Заходите на наш сервер Discord"
 
 #: templates/footer.html:32
 msgid "Like us on Facebook"
-msgstr ""
+msgstr "Страницa Facebook"
 
 #: templates/footer.html:42 templates/navigation.html:70
 msgid "Premium"
@@ -271,55 +271,55 @@ msgstr "Премиум"
 
 #: templates/footer.html:43
 msgid "Downloads"
-msgstr ""
+msgstr "Загрузки"
 
 #: templates/footer.html:44
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Заявление о Конфиденциальности"
 
 #: templates/footer.html:45
 msgid "Terms of Service"
-msgstr ""
+msgstr "Пользовательское соглашение"
 
 #: templates/footer.html:49
 msgid "Help"
-msgstr ""
+msgstr "Справка"
 
 #: templates/footer.html:51
 msgid "About Us"
-msgstr ""
+msgstr "О нас"
 
 #: templates/footer.html:52
 msgid "FAQ"
-msgstr ""
+msgstr "ЧАВО"
 
 #: templates/footer.html:53
 msgid "Contact"
-msgstr ""
+msgstr "Контакты"
 
 #: templates/footer.html:54
 msgid "Security"
-msgstr ""
+msgstr "Безопасность"
 
 #: templates/footer.html:60
 msgid "Corporate"
-msgstr ""
+msgstr "Компания"
 
 #: templates/footer.html:61
 msgid "Open source"
-msgstr ""
+msgstr "Открытый код"
 
 #: templates/footer.html:62
 msgid "Careers"
-msgstr ""
+msgstr "Карьера"
 
 #: templates/footer.html:63
 msgid "Press"
-msgstr ""
+msgstr "Пресса"
 
 #: templates/footer.html:68
 msgid "This website is not affiliated with Blizzard Entertainment."
-msgstr ""
+msgstr "Этот сайт не имеет отношения к Blizzard Entertainment."
 
 #: templates/navigation.html:10
 msgid "Toggle navigation"
@@ -331,11 +331,11 @@ msgstr "Статьи"
 
 #: templates/navigation.html:36
 msgid "Trending"
-msgstr "Горячее"
+msgstr "Популярное"
 
 #: templates/navigation.html:43
 msgid "Discover"
-msgstr "Открыть"
+msgstr "Детектор"
 
 #: templates/navigation.html:50
 msgid "Meta"
@@ -356,7 +356,7 @@ msgstr "Пригласи друга"
 #: templates/snippets/noscript.html:5
 msgid "It looks like you have Javascript turned off. This page will not work correctly.\n"
 "\t\t<a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
-msgstr "Похоже, что у тебя отключен Javascript. Эта страница не может отображаться корректно.\n"
+msgstr "Похоже, что у вас отключен Javascript. Эта страница не будет отображаться корректно.\n"
 "\t\t<a href=\"https://enable-javascript.com/ru/\" target=\"_blank\" rel=\"noopener\">Инструкция по включению</a>."
 
 #: templates/socialaccount/authentication_error.html:7
@@ -370,10 +370,10 @@ msgstr ""
 #: templates/socialaccount/connections.html:14
 msgid "The following social accounts are connected to your HSReplay.net account.\n"
 "\t\tYou may log in with any connected Blizzard account."
-msgstr "Следующие учетные записи связаны с твоим аккаунтом HSReplay.net.\n"
-"\t\tТы можешь войти с любым связанным аккаунтом Blizzard."
+msgstr "Следующие учетные записи связаны с вашей учетной записью HSReplay.net.\n"
+"\t\tВы можете войти с любой связанной учетной записью Blizzard."
 
 #: templates/socialaccount/connections.html:63
 msgid "You currently have no social network accounts connected to this account."
-msgstr "В настоящее время у тебя нет связанных аккаунтов."
+msgstr "В настоящее время у вас нет связанных учетных записей."
 
