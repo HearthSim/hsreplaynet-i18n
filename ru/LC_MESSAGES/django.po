@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-07 01:40+0000\n"
-"PO-Revision-Date: 2018-06-09 20:40-0400\n"
+"PO-Revision-Date: 2018-06-10 08:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -18,14 +18,14 @@ msgstr ""
 
 #: templates/account/account_inactive.html:6
 msgid "Account inactive"
-msgstr "Учетная запись отключена"
+msgstr "Аккаунт неактивен"
 
 #: templates/account/account_inactive.html:9
 #, python-format
 msgid "This account is inactive or has been banned.\n"
 "\t\tPlease <a href=\"mailto:%(site_email)s\">contact us</a> if this is in error."
-msgstr "Эта учетная запись отключена или заблокирована администратором.\n"
-"\t\tЕсли это ошибка, пожалуйста <a href=\"mailto:%(site_email)s\">свяжитесь с нами</a>."
+msgstr "Этот аккаунт неактивен или был отключен администратором.\n"
+"\t\tПожалуйста <a href=\"mailto:%(site_email)s\">напиши нам</a> если считаешь, что произошла ошибка."
 
 #: templates/account/base.html:12
 msgid "Settings"
@@ -72,7 +72,7 @@ msgstr "Удалить мои записи"
 
 #: templates/account/delete_replays.html:9
 msgid "Are you sure?"
-msgstr "Вы уверены?"
+msgstr "Ты уверен?"
 
 #: templates/account/delete_replays.html:10
 msgid "Deleting your replays will unlink them from your account and make any previously-shared replay URL inaccessible."
@@ -365,7 +365,7 @@ msgstr "Ошибка аутентификации"
 
 #: templates/socialaccount/authentication_error.html:28
 msgid "Back to the office."
-msgstr ""
+msgstr "Назад в будущее."
 
 #: templates/socialaccount/connections.html:14
 msgid "The following social accounts are connected to your HSReplay.net account.\n"
