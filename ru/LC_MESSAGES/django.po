@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-07 01:40+0000\n"
-"PO-Revision-Date: 2018-06-10 08:40-0400\n"
+"PO-Revision-Date: 2018-06-10 20:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -18,14 +18,14 @@ msgstr ""
 
 #: templates/account/account_inactive.html:6
 msgid "Account inactive"
-msgstr "Аккаунт неактивен"
+msgstr "Учетная запись отключена"
 
 #: templates/account/account_inactive.html:9
 #, python-format
 msgid "This account is inactive or has been banned.\n"
 "\t\tPlease <a href=\"mailto:%(site_email)s\">contact us</a> if this is in error."
-msgstr "Этот аккаунт неактивен или был отключен администратором.\n"
-"\t\tПожалуйста <a href=\"mailto:%(site_email)s\">напиши нам</a> если считаешь, что произошла ошибка."
+msgstr "Эта учетная запись отключена или заблокирована администратором.\n"
+"\t\tЕсли это ошибка, пожалуйста <a href=\"mailto:%(site_email)s\">свяжитесь с нами</a>."
 
 #: templates/account/base.html:12
 msgid "Settings"
@@ -72,7 +72,7 @@ msgstr "Удалить мои записи"
 
 #: templates/account/delete_replays.html:9
 msgid "Are you sure?"
-msgstr "Ты уверен?"
+msgstr "Вы уверены?"
 
 #: templates/account/delete_replays.html:10
 msgid "Deleting your replays will unlink them from your account and make any previously-shared replay URL inaccessible."
@@ -275,11 +275,11 @@ msgstr "Загрузки"
 
 #: templates/footer.html:44
 msgid "Privacy Policy"
-msgstr "Заявление о Конфиденциальности"
+msgstr "Конфиденциальность"
 
 #: templates/footer.html:45
 msgid "Terms of Service"
-msgstr "Пользовательское соглашение"
+msgstr "Пользоват. соглашение"
 
 #: templates/footer.html:49
 msgid "Help"
@@ -365,7 +365,7 @@ msgstr "Ошибка аутентификации"
 
 #: templates/socialaccount/authentication_error.html:28
 msgid "Back to the office."
-msgstr "Назад в будущее."
+msgstr ""
 
 #: templates/socialaccount/connections.html:14
 msgid "The following social accounts are connected to your HSReplay.net account.\n"
