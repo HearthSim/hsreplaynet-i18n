@@ -641,7 +641,7 @@
   "Community": "Сообщество",
   "Stream available": "Доступна трансляция",
   "At least {minGames} games": "Не менее {minGames, plural,\n  one {# игры}\n  other {# игр}\n}",
-  "Showing <1>{deckTypes}</1> with at least 10 unique pilots and <3><0>{curMinGames}</0></3> recorded games.": "<1>{deckTypes}</1> как минимум с <3><0>{curMinGames}</0></3> {curMinGames, plural,\n  one {записанной игрой}\n  other {записанными играми}\n} от не менее чем 10 уникальных игроков.",
+  "Showing <1>{deckTypes}</1> with at least 10 unique pilots and <3><0>{`${curMinGames}</0>`}</3> recorded games.": "Showing <1>{deckTypes}</1> with at least 10 unique pilots and <3><0>{`${curMinGames}</0>`}</3> recorded games.",
   "Trending Decks": "Трендовые колоды",
   "Here's a selection of decks which have been rising in popularity over the last 48 hours.": "Ниже представлен список колод, популярность которых выросла за последние 48 часов.",
   "Can't find what you are looking for?": "Не нашли то что искали?",

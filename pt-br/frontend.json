@@ -641,7 +641,7 @@
   "Community": "Community",
   "Stream available": "Stream available",
   "At least {minGames} games": "At least {minGames} games",
-  "Showing <1>{deckTypes}</1> with at least 10 unique pilots and <3><0>{curMinGames}</0></3> recorded games.": "Showing <1>{deckTypes}</1> with at least 10 unique pilots and <3><0>{curMinGames}</0></3> recorded games.",
+  "Showing <1>{deckTypes}</1> with at least 10 unique pilots and <3><0>{`${curMinGames}</0>`}</3> recorded games.": "Showing <1>{deckTypes}</1> with at least 10 unique pilots and <3><0>{`${curMinGames}</0>`}</3> recorded games.",
   "Trending Decks": "Trending Decks",
   "Here's a selection of decks which have been rising in popularity over the last 48 hours.": "Here's a selection of decks which have been rising in popularity over the last 48 hours.",
   "Can't find what you are looking for?": "Can't find what you are looking for?",
