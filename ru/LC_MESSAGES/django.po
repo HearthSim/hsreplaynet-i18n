@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-11 01:40+0000\n"
-"PO-Revision-Date: 2018-06-11 08:40-0400\n"
+"PO-Revision-Date: 2018-06-11 20:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -365,7 +365,7 @@ msgstr "Ошибка аутентификации"
 
 #: templates/socialaccount/authentication_error.html:28
 msgid "Back to the office."
-msgstr ""
+msgstr "Вернуться на главную."
 
 #: templates/socialaccount/connections.html:14
 msgid "The following social accounts are connected to your HSReplay.net account.\n"
@@ -379,138 +379,138 @@ msgstr "В настоящее время у вас нет связанных у�
 
 #: web/views/archetypes.py:16
 msgid "Hearthstone Meta"
-msgstr ""
+msgstr "Мета Hearthstone"
 
 #: web/views/archetypes.py:18
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
-msgstr ""
+msgstr "Исследуйте Мету Hearthstone, чтобы узнать как показывают себя разные архетипы."
 
 #: web/views/archetypes.py:29
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
-msgstr ""
+msgstr "Включайтесь в многообещающую мету Hearthstone, чтобы узнать о новейших архетипах и грядущих изменениях."
 
 #: web/views/archetypes.py:41
 msgid "Archetype"
-msgstr ""
+msgstr "Архетип"
 
 #: web/views/archetypes.py:46
 msgid "This archetype is no longer available."
-msgstr ""
+msgstr "Этот Архетип больше не доступен."
 
 #: web/views/cards.py:19 web/views/cards.py:106
 msgid "Hearthstone Card Statistics"
-msgstr ""
+msgstr "Статистика карт Hearthstone"
 
 #: web/views/cards.py:21
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
-msgstr ""
+msgstr "Сравнивайте статистику коллекционных карт Hearthstone. Выявите самые популярные и наиболее эффективные карты."
 
 #: web/views/cards.py:32
 msgid "My Cards"
-msgstr ""
+msgstr "Мои Карты"
 
 #: web/views/cards.py:98
 msgid "No card found matching the query."
-msgstr ""
+msgstr "Ни одна карта не соответствует запросу."
 
 #: web/views/cards.py:116
 msgid "Statistics and decks!"
-msgstr ""
+msgstr "Статистика и колоды!"
 
 #: web/views/cards.py:136
 msgid "Hearthstone Card Editor"
-msgstr ""
+msgstr "Редактор карт Hearthstone"
 
 #: web/views/dashboard.py:40
 msgid "My Account"
-msgstr ""
+msgstr "Учетная запись"
 
 #: web/views/dashboard.py:85
 msgid "Delete Account"
-msgstr ""
+msgstr "Удалить учетную запись"
 
 #: web/views/dashboard.py:110
 msgid "This account cannot be deleted."
-msgstr ""
+msgstr "Эта учетная запись не может быть удалена."
 
 #: web/views/dashboard.py:138
 msgid "Your replays have been deleted."
-msgstr ""
+msgstr "Записи ваших игр были удалены."
 
 #: web/views/dashboard.py:173
 msgid "Could not make account primary."
-msgstr ""
+msgstr "Эту учетную запись нельзя сделать основной."
 
 #: web/views/dashboard.py:193
 msgid "Your email preferences have been saved."
-msgstr ""
+msgstr "Настройки почты сохранены."
 
 #: web/views/dashboard.py:209
 msgid "Create a webhook"
-msgstr ""
+msgstr "Создать веб-хук"
 
 #: web/views/dashboard.py:220
 msgid "Update a webhook"
-msgstr ""
+msgstr "Обновить веб-хук"
 
 #: web/views/dashboard.py:256
 msgid "Your OAuth Application"
-msgstr ""
+msgstr "Ваше приложение OAuth"
 
 #: web/views/dashboard.py:266
 msgid "OAuth Applications"
-msgstr ""
+msgstr "Приложения OAuth"
 
 #: web/views/dashboard.py:305
 msgid "Access has been revoked."
-msgstr ""
+msgstr "Доступ был отозван."
 
 #: web/views/decks.py:15
 msgid "Hearthstone Decks"
-msgstr ""
+msgstr "Колоды Hearthstone"
 
 #: web/views/decks.py:17
 msgid "Dive into the Hearthstone meta and find new decks by class, cards or game mode. Learn about their winrates and popularity on the ladder."
-msgstr ""
+msgstr "Погрузитесь в Мету Hearthstone и найдите новые колоды, исходя из класса, используемых карт или режима игры. Проверьте их успешность и популярность в рейтинге."
 
 #: web/views/decks.py:25
 msgid "My Decks"
-msgstr ""
+msgstr "Мои колоды"
 
 #: web/views/decks.py:37
 msgid "Deck does not exist."
-msgstr ""
+msgstr "Колода не существует."
 
 #: web/views/decks.py:41
 msgid "Deck list is too small."
-msgstr ""
+msgstr "Недостаточно карт в колоде."
 
 #: web/views/decks.py:55
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
-msgstr ""
+msgstr "Статистика и колоды {name}. Импортировать: {deckstring}"
 
 #: web/views/decks.py:71
 msgid "Trending Hearthstone Decks"
-msgstr ""
+msgstr "Набирающие популярность колоды"
 
 #: web/views/decks.py:73
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
-msgstr ""
+msgstr "Здесь вы найдете многообещающие колоды с растущей популярностью для каждого класса. Список обновляется ежедневно."
 
 #: web/views/premium.py:12
 msgid "HSReplay.net Premium"
-msgstr ""
+msgstr "HSReplay.net Премиум"
 
 #: web/views/premium.py:14
 msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
-msgstr ""
+msgstr "Больше фильтров, больше функций, больше данных! Получите доступ к расширенной статистике на основе миллионов игр с Премиум подпиской HSReplay.net"
 
 #: web/views/replays.py:18
 msgid "My Replays"
-msgstr ""
+msgstr "Мои Записи"
 
 #: web/views/replays.py:143
 msgid "Uploading replay…"
-msgstr ""
+msgstr "Загружаем запись…"
 
