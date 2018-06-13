@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-11 01:40+0000\n"
-"PO-Revision-Date: 2018-06-12 08:40-0400\n"
+"PO-Revision-Date: 2018-06-12 20:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -68,7 +68,7 @@ msgstr "Выход"
 #: templates/account/delete_replays.html:6
 #: templates/account/delete_replays.html:19
 msgid "Delete my replays"
-msgstr "Удалить мои записи"
+msgstr "Удалить мои повторы"
 
 #: templates/account/delete_replays.html:9
 msgid "Are you sure?"
@@ -76,7 +76,7 @@ msgstr "Вы уверены?"
 
 #: templates/account/delete_replays.html:10
 msgid "Deleting your replays will unlink them from your account and make any previously-shared replay URL inaccessible."
-msgstr "После удаления записи игры, она будет отвязана от вашей учетной записи и все старые ссылки на неё станут недействительны."
+msgstr "После удаления повтора, он будет отвязан от вашей учетной записи и все старые ссылки на него станут недействительны."
 
 #: templates/account/delete_replays.html:12
 msgid "Your personal statistics will not be reset. Are you sure you want to proceed?"
@@ -435,7 +435,7 @@ msgstr "Эта учетная запись не может быть удален
 
 #: web/views/dashboard.py:138
 msgid "Your replays have been deleted."
-msgstr "Записи ваших игр были удалены."
+msgstr "Ваши повторы были удалены."
 
 #: web/views/dashboard.py:173
 msgid "Could not make account primary."
@@ -508,9 +508,9 @@ msgstr "Больше фильтров, больше функций, больше
 
 #: web/views/replays.py:18
 msgid "My Replays"
-msgstr "Мои Записи"
+msgstr "Мои Повторы"
 
 #: web/views/replays.py:143
 msgid "Uploading replay…"
-msgstr "Загружаем запись…"
+msgstr "Загружаем повтор…"
 
