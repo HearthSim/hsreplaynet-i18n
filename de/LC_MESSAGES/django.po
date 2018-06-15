@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-11 01:40+0000\n"
-"PO-Revision-Date: 2018-06-14 20:40-0400\n"
+"PO-Revision-Date: 2018-06-15 08:40-0400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -57,7 +57,7 @@ msgstr "Verknüpfte Konten"
 
 #: templates/account/base.html:23
 msgid "Delete account"
-msgstr "Account löschen"
+msgstr "Konto löschen"
 
 #: templates/account/base.html:27 templates/account/logout.html:6
 #: templates/account/logout.html:17
@@ -173,7 +173,7 @@ msgstr "HSReplay.net erhält niemals Zugriff auf deine Blizzard-E-Mail-Addresse 
 
 #: templates/account/login.html:57
 msgid "Not using a Blizzard account? Sign in with your username and password here."
-msgstr "Du benutzt keinen Blizzard-Account? Melde dich hier mit deinem Nutzernamen und Passwort an."
+msgstr "Du benutzt keinen Blizzard-Konto? Melde dich hier mit deinem Nutzernamen und Passwort an."
 
 #: templates/account/login.html:67 templates/account/signup.html:27
 msgid "Username"
@@ -420,7 +420,7 @@ msgstr "Mein Konto"
 
 #: web/views/dashboard.py:85
 msgid "Delete Account"
-msgstr "Account löschen"
+msgstr "Konto Löschen"
 
 #: web/views/dashboard.py:110
 msgid "This account cannot be deleted."
