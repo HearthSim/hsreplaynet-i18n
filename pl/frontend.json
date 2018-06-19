@@ -23,6 +23,7 @@
   "Blizzard China (CN)…": "Blizzard China (CN)…",
   "Debug": "Debug",
   "Sign in with password…": "Zaloguj się z użyciem hasła…",
+  "Other {cardClass}": "Other {cardClass}",
   "Not enough games available for meaningful matchup data.": "Not enough games available for meaningful matchup data.",
   "Core cards": "Core cards",
   "Popular cards": "Popularne karty",
@@ -360,7 +361,6 @@
   "Percentage of all cards played.": "Percentage of all cards played.",
   "Prevalence": "Prevalence",
   "{battletag} (<0></0>)": "{battletag} (<0></0>)",
-  "Unknown class": "Unknown class",
   "{rankMin}–{rankMax}": "{rankMin}–{rankMax}",
   "Legend only": "Legend only",
   "Unknown Region": "Unknown Region",
@@ -375,6 +375,13 @@
   "Latest expansion": "Najnowsze rozszerzenie",
   "Latest patch": "Latest patch",
   "Arena event": "Arena event",
+  "All": "All",
+  "Taverns of Time": "Taverns of Time",
+  "Unknown Set": "Unknown Set",
+  "Dream": "Dream",
+  "Loading failed:": "Loading failed:",
+  "Replay applet (Joust) could not be loaded. Please ensure you can access {joustUrl}.": "Replay applet (Joust) could not be loaded. Please ensure you can access {joustUrl}.",
+  "Otherwise try clearing your cache and refreshing this page.": "Otherwise try clearing your cache and refreshing this page.",
   "My financial situation has changed": "My financial situation has changed",
   "I prefer to manually renew my subscriptions": "I prefer to manually renew my subscriptions",
   "Not enough support for Wild": "Not enough support for Wild",
@@ -755,5 +762,6 @@
   "Your deck tracker is too old!": "Your deck tracker is too old!",
   "We no longer support uploads from the version of Hearthstone you are using. If you are already on the latest version, please contact us for assistance.": "We no longer support uploads from the version of Hearthstone you are using. If you are already on the latest version, please contact us for assistance.",
   "Your replay is still processing. Check back soon!": "Your replay is still processing. Check back soon!",
-  "Something went wrong generating this replay. We're on it.": "Something went wrong generating this replay. We're on it."
+  "Something went wrong generating this replay. We're on it.": "Something went wrong generating this replay. We're on it.",
+  "Done": "Done"
 }

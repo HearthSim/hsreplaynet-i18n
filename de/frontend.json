@@ -23,6 +23,7 @@
   "Blizzard China (CN)…": "Blizzard China (CN)…",
   "Debug": "Debug",
   "Sign in with password…": "Mit Passwort anmelden…",
+  "Other {cardClass}": "Other {cardClass}",
   "Not enough games available for meaningful matchup data.": "Not enough games available for meaningful matchup data.",
   "Core cards": "Essentielle Karten",
   "Popular cards": "Beliebte Karten",
@@ -360,7 +361,6 @@
   "Percentage of all cards played.": "Prozentsatz aller gespielten Karten.",
   "Prevalence": "Prävalenz",
   "{battletag} (<0></0>)": "{battletag} (<0></0>)",
-  "Unknown class": "Unbekannte Klasse",
   "{rankMin}–{rankMax}": "{rankMin}–{rankMax}",
   "Legend only": "Nur Legende",
   "Unknown Region": "Unbekannte Region",
@@ -375,6 +375,13 @@
   "Latest expansion": "Neueste Erweiterung",
   "Latest patch": "Neuester Patch",
   "Arena event": "Arena-Ereignis",
+  "All": "All",
+  "Taverns of Time": "Taverns of Time",
+  "Unknown Set": "Unknown Set",
+  "Dream": "Dream",
+  "Loading failed:": "Loading failed:",
+  "Replay applet (Joust) could not be loaded. Please ensure you can access {joustUrl}.": "Replay applet (Joust) could not be loaded. Please ensure you can access {joustUrl}.",
+  "Otherwise try clearing your cache and refreshing this page.": "Otherwise try clearing your cache and refreshing this page.",
   "My financial situation has changed": "Meine finanzielle Situation hat sich verändert",
   "I prefer to manually renew my subscriptions": "Ich verlängere meine Abonnements lieber manuell",
   "Not enough support for Wild": "Not enough support for Wild",
@@ -755,5 +762,6 @@
   "Your deck tracker is too old!": "Your deck tracker is too old!",
   "We no longer support uploads from the version of Hearthstone you are using. If you are already on the latest version, please contact us for assistance.": "We no longer support uploads from the version of Hearthstone you are using. If you are already on the latest version, please contact us for assistance.",
   "Your replay is still processing. Check back soon!": "Deine Aufzeichnung wird noch verarbeitet. Schau gleich wieder vorbei!",
-  "Something went wrong generating this replay. We're on it.": "Etwas ist bei der Verarbeitung dieser Aufzeichnung schiefgegangen. Wir schauen es uns an."
+  "Something went wrong generating this replay. We're on it.": "Etwas ist bei der Verarbeitung dieser Aufzeichnung schiefgegangen. Wir schauen es uns an.",
+  "Done": "Done"
 }
