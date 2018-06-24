@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-11 01:40+0000\n"
-"PO-Revision-Date: 2018-06-23T12:40:27+0000\n"
+"POT-Creation-Date: 2018-06-24 01:40+0000\n"
+"PO-Revision-Date: 2018-06-24T12:40:25+0000\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -38,7 +38,7 @@ msgstr ""
 msgid "Billing"
 msgstr ""
 
-#: templates/account/base.html:17 web/views/dashboard.py:73
+#: templates/account/base.html:17 web/views/dashboard.py:65
 msgid "API Access"
 msgstr ""
 
@@ -409,48 +409,44 @@ msgstr ""
 msgid "Hearthstone Card Editor"
 msgstr ""
 
-#: web/views/dashboard.py:40
+#: web/views/dashboard.py:32
 msgid "My Account"
 msgstr ""
 
-#: web/views/dashboard.py:85
+#: web/views/dashboard.py:77
 msgid "Delete Account"
 msgstr ""
 
-#: web/views/dashboard.py:110
+#: web/views/dashboard.py:102
 msgid "This account cannot be deleted."
 msgstr ""
 
-#: web/views/dashboard.py:138
+#: web/views/dashboard.py:130
 msgid "Your replays have been deleted."
 msgstr ""
 
-#: web/views/dashboard.py:173
+#: web/views/dashboard.py:165
 msgid "Could not make account primary."
 msgstr ""
 
-#: web/views/dashboard.py:193
+#: web/views/dashboard.py:185
 msgid "Your email preferences have been saved."
 msgstr ""
 
-#: web/views/dashboard.py:209
+#: web/views/dashboard.py:201
 msgid "Create a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:220
+#: web/views/dashboard.py:212
 msgid "Update a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:256
-msgid "Your OAuth Application"
-msgstr ""
-
-#: web/views/dashboard.py:266
+#: web/views/dashboard.py:238
 msgid "OAuth Applications"
 msgstr ""
 
-#: web/views/dashboard.py:305
-msgid "Access has been revoked."
+#: web/views/dashboard.py:285
+msgid "Your OAuth Application"
 msgstr ""
 
 #: web/views/decks.py:15
@@ -484,6 +480,15 @@ msgstr ""
 
 #: web/views/decks.py:73
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
+msgstr ""
+
+#: web/views/oauth2.py:46
+msgid "Access has been revoked."
+msgstr ""
+
+#: web/views/oauth2.py:80
+#, python-brace-format
+msgid "{count} access tokens deleted."
 msgstr ""
 
 #: web/views/premium.py:12
