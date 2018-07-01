@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-29 01:40+0000\n"
-"PO-Revision-Date: 2018-07-01 17:24\n"
+"POT-Creation-Date: 2018-07-01 18:24+0000\n"
+"PO-Revision-Date: 2018-07-01 19:35\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -16,119 +16,119 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /en/LC_MESSAGES/django.po\n"
 
-#: billing/views.py:258
+#: billing/views.py:255
 msgid "Error adding payment card"
 msgstr "Ошибка добавления банковской карты"
 
-#: billing/views.py:262
+#: billing/views.py:259
 msgid "Your card was declined. Please use a different card."
 msgstr "Ваша карта была отклонена. Пожалуйста, используйте другую карту."
 
-#: billing/views.py:278
+#: billing/views.py:275
 msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
 msgstr "Этот адрес электронной почты связан с другой учетной записью. Если вы хотите объединить учетные записи, пожалуйста, свяжитесь с нами!"
 
-#: billing/views.py:306
+#: billing/views.py:303
 msgid "You have multiple subscriptions. Please contact us."
 msgstr "У вас есть несколько подписок. Пожалуйста, свяжитесь с нами."
 
-#: billing/views.py:320
+#: billing/views.py:317
 msgid "Your subscription has expired."
 msgstr "Ваша подписка истекла."
 
-#: billing/views.py:326
+#: billing/views.py:323
 msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
 msgstr "Ваша подписка еще активна. Если у вас возникли проблемы с выставлением счетов, пожалуйста, свяжитесь с нами!"
 
-#: billing/views.py:330
+#: billing/views.py:327
 msgid "You are already subscribed!"
 msgstr "Вы уже оформили подписку!"
 
-#: billing/views.py:358
+#: billing/views.py:355
 msgid "Could not process subscription."
 msgstr "Не удалось обработать подписку."
 
-#: billing/views.py:375
+#: billing/views.py:372
 msgid "Your card declined the charge. Please contact your bank for information."
 msgstr "Операция по карте отклонена. Свяжитесь с вашим банком для выяснения подробностей."
 
-#: billing/views.py:377
+#: billing/views.py:374
 msgid "Your card does not support payments in USD. Please try a different card."
 msgstr "Ваша карта не поддерживает оплату в долларах. Пожалуйста, используйте другую карту."
 
-#: billing/views.py:379
+#: billing/views.py:376
 msgid "Your card has exceeded its credit limit. Please use a different one."
 msgstr "Кредитный лимит вашей карты исчерпан. Пожалуйста, используйте другую карту."
 
-#: billing/views.py:381
+#: billing/views.py:378
 msgid "Your card has insufficient funds to proceed."
 msgstr "На карте недостаточно средств."
 
-#: billing/views.py:385
+#: billing/views.py:382
 msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
 msgstr "Ваша карта отклонена, деньги не будут сняты. Пожалуйста, попробуйте другую карту и свяжитесь с нами, если это повторится."
 
-#: billing/views.py:421
+#: billing/views.py:418
 msgid " Please contact us if you are receiving this in error."
 msgstr " Пожалуйста, свяжитесь с нами, если это ошибка."
 
-#: billing/views.py:427
+#: billing/views.py:424
 msgid "You have multiple subscriptions - something is wrong."
 msgstr "У вас есть несколько подписок — что-то пошло не так."
 
-#: billing/views.py:433
+#: billing/views.py:430
 msgid "You are not subscribed."
 msgstr "У вас нет подписки."
 
-#: billing/views.py:448
+#: billing/views.py:445
 msgid "Your subscription cannot be canceled immediately."
 msgstr "Ваша подписка не может быть отменена немедленно."
 
-#: billing/views.py:450
+#: billing/views.py:447
 msgid "Could not cancel your subscription."
 msgstr "Не удалось отменить подписку."
 
-#: billing/views.py:459
+#: billing/views.py:456
 msgid "Your subscription has been cancelled."
 msgstr "Ваша подписка была отменена."
 
-#: billing/views.py:518
+#: billing/views.py:515
 msgid "Could not update default card."
 msgstr "Не удалось изменить карту по умолчанию."
 
-#: billing/views.py:536
+#: billing/views.py:533
 msgid " Please contact us if you are seeing this in error."
 msgstr " Пожалуйста, свяжитесь с нами, если это ошибка."
 
-#: billing/views.py:555
+#: billing/views.py:552
 msgid "Unable to complete subscription."
 msgstr "Не удается завершить оформление подписки."
 
-#: billing/views.py:560
+#: billing/views.py:557
 msgid "Invalid subscription token."
 msgstr "Недопустимый токен подписки."
 
-#: billing/views.py:563
+#: billing/views.py:560
 msgid "You are not logged in as the correct user."
 msgstr "Вы не вошли из под соответствующей учетной записи."
 
-#: billing/views.py:567
+#: billing/views.py:564
 msgid "You are now subscribed with PayPal!"
 msgstr "Ваша подписка через PayPal оформлена!"
 
-#: billing/views.py:579
+#: billing/views.py:576
 msgid "Invalid token while cancelling payment."
 msgstr "Недействительный токен при отмене подписки."
 
-#: billing/views.py:583
+#: billing/views.py:580
 msgid "Your payment was interrupted."
 msgstr "Ваш платеж прерван."
 
-#: billing/views.py:591
+#: billing/views.py:588
 msgid "Could not determine your plan."
 msgstr "Не удалось определить схему оплаты."
 
-#: billing/views.py:596
+#: billing/views.py:593
 msgid "Invalid Paypal plan."
 msgstr "Недействительный план оплаты PayPal."
 

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-06-29 01:40+0000\n"
-"PO-Revision-Date: 2018-07-01 17:24\n"
+"POT-Creation-Date: 2018-07-01 18:24+0000\n"
+"PO-Revision-Date: 2018-07-01 19:35\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -16,119 +16,119 @@ msgstr ""
 "X-Crowdin-Language: de\n"
 "X-Crowdin-File: /en/LC_MESSAGES/django.po\n"
 
-#: billing/views.py:258
+#: billing/views.py:255
 msgid "Error adding payment card"
 msgstr ""
 
-#: billing/views.py:262
+#: billing/views.py:259
 msgid "Your card was declined. Please use a different card."
-msgstr ""
+msgstr "Deine Karte wurde abgelehnt. Bitte verwende eine andere Karte."
 
-#: billing/views.py:278
+#: billing/views.py:275
 msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
-msgstr ""
+msgstr "Diese E-Mail-Adresse ist bereits mit einem anderen Konto verknüpft. Bitte kontaktiere uns, falls du Konten zusammenführen möchtest!"
 
-#: billing/views.py:306
+#: billing/views.py:303
 msgid "You have multiple subscriptions. Please contact us."
-msgstr ""
+msgstr "Du hast mehrere Abonnements. Bitte kontaktiere uns."
 
-#: billing/views.py:320
+#: billing/views.py:317
 msgid "Your subscription has expired."
-msgstr ""
+msgstr "Dein Abonnement ist abgelaufen."
 
-#: billing/views.py:326
+#: billing/views.py:323
 msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
-msgstr ""
+msgstr "Dein aktuelles Abonnement ist noch aktiv. Bitte kontaktiere uns falls du Zahlungsprobleme hast!"
 
-#: billing/views.py:330
+#: billing/views.py:327
 msgid "You are already subscribed!"
-msgstr ""
+msgstr "Du bist bereits Abonnent!"
 
-#: billing/views.py:358
+#: billing/views.py:355
 msgid "Could not process subscription."
-msgstr ""
+msgstr "Konnte Abonnement nicht verarbeiten."
 
-#: billing/views.py:375
+#: billing/views.py:372
 msgid "Your card declined the charge. Please contact your bank for information."
-msgstr ""
+msgstr "Deine Karte hat die Zahlung abgelehnt. Bitte kontaktiere deine Bank für mehr Informationen."
 
-#: billing/views.py:377
+#: billing/views.py:374
 msgid "Your card does not support payments in USD. Please try a different card."
-msgstr ""
+msgstr "Deine Karte unterstützt keine Zahlungen in US-Dollar. Bitte versuche eine andere Karte."
 
-#: billing/views.py:379
+#: billing/views.py:376
 msgid "Your card has exceeded its credit limit. Please use a different one."
-msgstr ""
+msgstr "Deine Karte hat ihr Kreditlimit überschritten. Bitte verwende eine andere."
 
-#: billing/views.py:381
+#: billing/views.py:378
 msgid "Your card has insufficient funds to proceed."
 msgstr ""
 
-#: billing/views.py:385
+#: billing/views.py:382
 msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
 msgstr ""
 
-#: billing/views.py:421
+#: billing/views.py:418
 msgid " Please contact us if you are receiving this in error."
-msgstr ""
+msgstr " Bitte kontaktiere uns, falls du dies fälschlicherweise siehst."
 
-#: billing/views.py:427
+#: billing/views.py:424
 msgid "You have multiple subscriptions - something is wrong."
-msgstr ""
+msgstr "Du hast mehrere Abonnements - etwas ist falsch."
 
-#: billing/views.py:433
+#: billing/views.py:430
 msgid "You are not subscribed."
 msgstr ""
 
-#: billing/views.py:448
+#: billing/views.py:445
 msgid "Your subscription cannot be canceled immediately."
-msgstr ""
+msgstr "Dein Abonnement kann nicht sofort gekündigt werden."
 
-#: billing/views.py:450
+#: billing/views.py:447
 msgid "Could not cancel your subscription."
-msgstr ""
+msgstr "Konnte dein Abonnement nicht kündigen."
 
-#: billing/views.py:459
+#: billing/views.py:456
 msgid "Your subscription has been cancelled."
-msgstr ""
+msgstr "Dein Abonnement wurde gekündigt."
 
-#: billing/views.py:518
+#: billing/views.py:515
 msgid "Could not update default card."
 msgstr ""
 
-#: billing/views.py:536
+#: billing/views.py:533
 msgid " Please contact us if you are seeing this in error."
-msgstr ""
+msgstr " Bitte kontaktiere uns, falls du dies fälschlicherweise siehst."
 
-#: billing/views.py:555
+#: billing/views.py:552
 msgid "Unable to complete subscription."
 msgstr ""
 
-#: billing/views.py:560
+#: billing/views.py:557
 msgid "Invalid subscription token."
 msgstr ""
 
-#: billing/views.py:563
+#: billing/views.py:560
 msgid "You are not logged in as the correct user."
 msgstr ""
 
-#: billing/views.py:567
+#: billing/views.py:564
 msgid "You are now subscribed with PayPal!"
 msgstr ""
 
-#: billing/views.py:579
+#: billing/views.py:576
 msgid "Invalid token while cancelling payment."
 msgstr ""
 
-#: billing/views.py:583
+#: billing/views.py:580
 msgid "Your payment was interrupted."
-msgstr ""
+msgstr "Deine Zahlung wurde abgebrochen."
 
-#: billing/views.py:591
+#: billing/views.py:588
 msgid "Could not determine your plan."
 msgstr ""
 
-#: billing/views.py:596
+#: billing/views.py:593
 msgid "Invalid Paypal plan."
 msgstr ""
 
@@ -330,7 +330,7 @@ msgstr "Nutze dein Blizzard-Konto, um dich bei HSReplay.net zu registrieren."
 
 #: templates/account/signup.html:16
 msgid "Alternatively, sign up with an email and password."
-msgstr ""
+msgstr "Melde dich anderenfalls mit E-Mail und Passwort an."
 
 #: templates/account/signup.html:30
 msgid "Email address"
@@ -488,7 +488,7 @@ msgstr "Du hast zurzeit keine sozialen Netzwerke mit diesem Konto verbunden."
 
 #: web/views/archetypes.py:16
 msgid "Hearthstone Meta"
-msgstr "Hearthstone Menta"
+msgstr "Hearthstone-Meta"
 
 #: web/views/archetypes.py:18
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
@@ -508,7 +508,7 @@ msgstr "Dieser Archetyp ist nicht mehr verfügbar."
 
 #: web/views/cards.py:19 web/views/cards.py:106
 msgid "Hearthstone Card Statistics"
-msgstr ""
+msgstr "Hearthstone-Kartenstatistiken"
 
 #: web/views/cards.py:21
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
@@ -528,7 +528,7 @@ msgstr "Statistiken und Decks!"
 
 #: web/views/cards.py:136
 msgid "Hearthstone Card Editor"
-msgstr ""
+msgstr "Hearthstone-Karteneditor"
 
 #: web/views/dashboard.py:32
 msgid "My Account"
