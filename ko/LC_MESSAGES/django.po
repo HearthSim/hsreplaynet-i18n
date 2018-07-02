@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-01 23:19+0000\n"
-"PO-Revision-Date: 2018-07-02 00:40\n"
+"PO-Revision-Date: 2018-07-02 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -170,7 +170,7 @@ msgstr "비밀번호"
 
 #: templates/account/base.html:22 templates/socialaccount/connections.html:9
 msgid "Connected accounts"
-msgstr ""
+msgstr "연결된 계정"
 
 #: templates/account/base.html:23
 msgid "Delete account"
@@ -192,11 +192,11 @@ msgstr "계속하시겠습니까?"
 
 #: templates/account/delete_replays.html:10
 msgid "Deleting your replays will unlink them from your account and make any previously-shared replay URL inaccessible."
-msgstr ""
+msgstr "리플레이를 삭제할 경우 리플레이는 계정과 분리되고 리플레이를 공유했던 URL도 연결 해제됩니다."
 
 #: templates/account/delete_replays.html:12
 msgid "Your personal statistics will not be reset. Are you sure you want to proceed?"
-msgstr ""
+msgstr "개인 통계정보는 재설정되지 않습니다. 계속하시겠습니까?"
 
 #: templates/account/delete_replays.html:18
 msgid "Cancel"
@@ -275,7 +275,8 @@ msgstr "%(oauth2_client)s으로 로그인"
 #: templates/account/login.html:19
 msgid "We'll send you to the offical Blizzard site where you can securely log in.<br/>\n"
 "\t\tBlizzard will redirect you back here once you're done."
-msgstr ""
+msgstr "안전하게 로그인 할 수 있도록 공식 블리자드 웹 사이트를 보내드립니다.<br/>\n"
+"\t\t로그인을 완료할 경우 이 곳으로 돌아옵니다."
 
 #: templates/account/login.html:29
 msgid "Log in with Blizzard"
@@ -394,7 +395,7 @@ msgstr "개인정보 보호정책"
 
 #: templates/footer.html:45
 msgid "Terms of Service"
-msgstr "서비스 이용 약관"
+msgstr "서비스 이용약관"
 
 #: templates/footer.html:49
 msgid "Help"
@@ -418,7 +419,7 @@ msgstr "보안"
 
 #: templates/footer.html:60
 msgid "Corporate"
-msgstr ""
+msgstr "회사소개"
 
 #: templates/footer.html:61
 msgid "Open source"
@@ -434,7 +435,7 @@ msgstr "보도자료"
 
 #: templates/footer.html:68
 msgid "This website is not affiliated with Blizzard Entertainment."
-msgstr "이 웹사이트는 블리자드 엔터테인먼트에 소속되지 않았습니다."
+msgstr "이 웹사이트는 블리자드 엔터테인먼트에 소속이 아닙니다."
 
 #: templates/navigation.html:10
 msgid "Toggle navigation"
@@ -480,7 +481,7 @@ msgstr "인증 오류"
 
 #: templates/socialaccount/authentication_error.html:28
 msgid "Back to the office."
-msgstr ""
+msgstr "뒤로가기"
 
 #: templates/socialaccount/connections.html:14
 msgid "The following social accounts are connected to your HSReplay.net account.\n"
@@ -498,7 +499,7 @@ msgstr ""
 
 #: web/views/__init__.py:38
 msgid "HSReplay.net - Unleash your potential"
-msgstr ""
+msgstr "HSReplay.net - 당신의 능력을 최대한 발휘하세요"
 
 #: web/views/archetypes.py:16
 msgid "Hearthstone Meta"
@@ -514,11 +515,11 @@ msgstr ""
 
 #: web/views/archetypes.py:41
 msgid "Archetype"
-msgstr ""
+msgstr "아키타입"
 
 #: web/views/archetypes.py:46
 msgid "This archetype is no longer available."
-msgstr ""
+msgstr "이 아키타입은 더 이상 유효하지 않습니다."
 
 #: web/views/cards.py:19 web/views/cards.py:106
 msgid "Hearthstone Card Statistics"
@@ -526,7 +527,7 @@ msgstr "하스스톤 카드 통계"
 
 #: web/views/cards.py:21
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
-msgstr ""
+msgstr "수집 가능한 모든 하스스톤 카드 통계를 비교합니다. 가장 승률이 높은 카드와 가장 많이 플레이한 카드를 찾아보세요."
 
 #: web/views/cards.py:32
 msgid "My Cards"
@@ -538,7 +539,7 @@ msgstr "해당 카드가 없습니다."
 
 #: web/views/cards.py:116
 msgid "Statistics and decks!"
-msgstr ""
+msgstr "통계와 덱!"
 
 #: web/views/cards.py:136
 msgid "Hearthstone Card Editor"
@@ -615,16 +616,16 @@ msgstr "떠오르는 하스스톤 덱"
 
 #: web/views/decks.py:73
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
-msgstr ""
+msgstr "매일 매일 업데이트되는 최신 인기 덱을 찾아보세요."
 
 #: web/views/oauth2.py:46
 msgid "Access has been revoked."
-msgstr ""
+msgstr "액세스가 취소되었습니다."
 
 #: web/views/oauth2.py:80
 #, python-brace-format
 msgid "{count} access tokens deleted."
-msgstr ""
+msgstr "{count} 액세스 토큰 삭제."
 
 #: web/views/premium.py:12
 msgid "HSReplay.net Premium"
@@ -632,7 +633,7 @@ msgstr "HSReplay.net 프리미엄"
 
 #: web/views/premium.py:14
 msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
-msgstr ""
+msgstr "더 많은 필터, 더 많은 기능, 더 많은 데이터: 수십만개의 게임으로 HSReplay.net이 산출해낸 고급 통계정보를 접해보세요."
 
 #: web/views/replays.py:18
 msgid "My Replays"
