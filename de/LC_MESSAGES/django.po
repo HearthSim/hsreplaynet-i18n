@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-01 18:24+0000\n"
-"PO-Revision-Date: 2018-07-01 19:35\n"
+"POT-Creation-Date: 2018-07-01 23:19+0000\n"
+"PO-Revision-Date: 2018-07-02 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -78,7 +78,7 @@ msgstr "Du hast mehrere Abonnements - etwas ist falsch."
 
 #: billing/views.py:430
 msgid "You are not subscribed."
-msgstr ""
+msgstr "Du bist kein Abonnent."
 
 #: billing/views.py:445
 msgid "Your subscription cannot be canceled immediately."
@@ -486,6 +486,14 @@ msgstr ""
 msgid "You currently have no social network accounts connected to this account."
 msgstr "Du hast zurzeit keine sozialen Netzwerke mit diesem Konto verbunden."
 
+#: web/views/__init__.py:15
+msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
+msgstr "Betrachte und teile Hearthstone-Aufzeichnungen direkt aus deinem Browser heraus. Erforsche ausführliche Deck- und Karten-Statistiken, basierend auf Millionen von Spielen pro Woche."
+
+#: web/views/__init__.py:38
+msgid "HSReplay.net - Unleash your potential"
+msgstr "HSReplay.net - Entfache dein Potential"
+
 #: web/views/archetypes.py:16
 msgid "Hearthstone Meta"
 msgstr "Hearthstone-Meta"
@@ -496,7 +504,7 @@ msgstr ""
 
 #: web/views/archetypes.py:29
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
-msgstr ""
+msgstr "Befasse dich mit dem Hearthstone-Meta von morgen um die neuesten Archetypen zu entdecken."
 
 #: web/views/archetypes.py:41
 msgid "Archetype"
@@ -601,11 +609,11 @@ msgstr "Hearthstone-Decks im Trend"
 
 #: web/views/decks.py:73
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
-msgstr ""
+msgstr "Finde die Hearthstone-Decks von morgen mittels steigender Beliebtheit, für jede Klasse, jeden Tag aufs Neue."
 
 #: web/views/oauth2.py:46
 msgid "Access has been revoked."
-msgstr ""
+msgstr "Zugriff wurde widerrufen."
 
 #: web/views/oauth2.py:80
 #, python-brace-format
