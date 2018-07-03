@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-01 23:19+0000\n"
-"PO-Revision-Date: 2018-07-03 00:40\n"
+"POT-Creation-Date: 2018-07-03 01:40+0000\n"
+"PO-Revision-Date: 2018-07-03 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -495,11 +495,11 @@ msgstr "В настоящее время у вас нет связанных у�
 
 #: web/views/__init__.py:15
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
-msgstr ""
+msgstr "Смотри и делись повторами своих игр в Hearthstone прямо в браузере. Откройте для себя расширенную статистику по картам и колодам, основанную на миллионах партий в неделю."
 
 #: web/views/__init__.py:38
 msgid "HSReplay.net - Unleash your potential"
-msgstr ""
+msgstr "HSReplay.net — раскрой свой потенциал"
 
 #: web/views/archetypes.py:16
 msgid "Hearthstone Meta"
@@ -639,7 +639,7 @@ msgstr "Больше фильтров, больше функций, больше
 msgid "My Replays"
 msgstr "Мои Повторы"
 
-#: web/views/replays.py:143
+#: web/views/replays.py:149
 msgid "Uploading replay…"
 msgstr "Загружаем повтор…"
 
