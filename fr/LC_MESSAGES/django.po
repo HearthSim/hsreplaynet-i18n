@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-03 01:40+0000\n"
-"PO-Revision-Date: 2018-07-05 12:40\n"
+"PO-Revision-Date: 2018-07-06 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -247,7 +247,7 @@ msgstr ""
 
 #: templates/account/email.html:91
 msgid "Save"
-msgstr ""
+msgstr "Enregistrer"
 
 #: templates/account/email/email_confirmation_message.txt:1
 #, python-format
@@ -263,7 +263,7 @@ msgstr ""
 #: templates/account/login.html:14
 #, python-format
 msgid "Log in to continue to %(oauth2_client)s"
-msgstr ""
+msgstr "Connectez-vous pour continuer sur %(oauth2_client)s"
 
 #: templates/account/login.html:19
 msgid "We'll send you to the offical Blizzard site where you can securely log in.<br/>\n"
@@ -272,7 +272,7 @@ msgstr ""
 
 #: templates/account/login.html:29
 msgid "Log in with Blizzard"
-msgstr ""
+msgstr "Connexion via Blizzard"
 
 #: templates/account/login.html:33
 msgid "Region"
@@ -385,15 +385,15 @@ msgstr ""
 
 #: templates/footer.html:45
 msgid "Terms of Service"
-msgstr ""
+msgstr "Conditions d’Utilisation"
 
 #: templates/footer.html:49
 msgid "Help"
-msgstr ""
+msgstr "Aide"
 
 #: templates/footer.html:51
 msgid "About Us"
-msgstr ""
+msgstr "A propos"
 
 #: templates/footer.html:52
 msgid "FAQ"
