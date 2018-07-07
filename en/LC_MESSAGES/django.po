@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-06 01:40+0000\n"
+"POT-Creation-Date: 2018-07-07 01:40+0000\n"
 "PO-Revision-Date: 2018-03-14 11:15+0000\n"
 "Last-Translator: Jerome Leclanche <jerome@leclan.ch>\n"
 "Language-Team: English <contact@hearthsim.net>\n"
@@ -230,7 +230,7 @@ msgstr ""
 msgid "Make Primary"
 msgstr ""
 
-#: templates/account/email.html:42
+#: templates/account/email.html:42 templates/socialaccount/connections.html:54
 msgid "Remove"
 msgstr ""
 
@@ -509,6 +509,14 @@ msgstr ""
 msgid ""
 "The following social accounts are connected to your HSReplay.net account.\n"
 "\t\tYou may log in with any connected Blizzard account."
+msgstr ""
+
+#: templates/socialaccount/connections.html:42
+msgid "Make primary"
+msgstr ""
+
+#: templates/socialaccount/connections.html:45
+msgid "Primary account"
 msgstr ""
 
 #: templates/socialaccount/connections.html:63
