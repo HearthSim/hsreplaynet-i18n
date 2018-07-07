@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-03 01:40+0000\n"
-"PO-Revision-Date: 2018-07-06 12:40\n"
+"POT-Creation-Date: 2018-07-07 01:40+0000\n"
+"PO-Revision-Date: 2018-07-07 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -218,7 +218,7 @@ msgstr "Повторно отправить письмо с подтвержде
 msgid "Make Primary"
 msgstr "Сделать основным"
 
-#: templates/account/email.html:42
+#: templates/account/email.html:42 templates/socialaccount/connections.html:54
 msgid "Remove"
 msgstr "Удалить"
 
@@ -488,6 +488,14 @@ msgid "The following social accounts are connected to your HSReplay.net account.
 "\t\tYou may log in with any connected Blizzard account."
 msgstr "Следующие учетные записи связаны с вашей учетной записью HSReplay.net.\n"
 "\t\tВы можете войти с любой связанной учетной записью Blizzard."
+
+#: templates/socialaccount/connections.html:42
+msgid "Make primary"
+msgstr ""
+
+#: templates/socialaccount/connections.html:45
+msgid "Primary account"
+msgstr ""
 
 #: templates/socialaccount/connections.html:63
 msgid "You currently have no social network accounts connected to this account."
