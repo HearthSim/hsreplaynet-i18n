@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-09 18:56+0000\n"
-"PO-Revision-Date: 2018-07-10 00:40\n"
+"PO-Revision-Date: 2018-07-10 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -144,7 +144,7 @@ msgstr ""
 
 #: templates/account/base.html:12
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 #: templates/account/base.html:13
 msgid "Email"
@@ -178,12 +178,12 @@ msgstr ""
 #: templates/account/base.html:27 templates/account/logout.html:6
 #: templates/account/logout.html:17
 msgid "Sign out"
-msgstr ""
+msgstr "注销"
 
 #: templates/account/delete_replays.html:6
 #: templates/account/delete_replays.html:19
 msgid "Delete my replays"
-msgstr ""
+msgstr "删除我的回放"
 
 #: templates/account/delete_replays.html:9
 msgid "Are you sure?"
@@ -373,51 +373,51 @@ msgstr ""
 
 #: templates/footer.html:42 templates/navigation.html:70
 msgid "Premium"
-msgstr ""
+msgstr "充值会员"
 
 #: templates/footer.html:43
 msgid "Downloads"
-msgstr ""
+msgstr "下载链接"
 
 #: templates/footer.html:44
 msgid "Privacy Policy"
-msgstr ""
+msgstr "隐私权政策"
 
 #: templates/footer.html:45
 msgid "Terms of Service"
-msgstr ""
+msgstr "服务条款"
 
 #: templates/footer.html:49
 msgid "Help"
-msgstr ""
+msgstr "帮助信息"
 
 #: templates/footer.html:51
 msgid "FAQ"
-msgstr ""
+msgstr "常见问题"
 
 #: templates/footer.html:52
 msgid "Contact"
-msgstr ""
+msgstr "联系我们"
 
 #: templates/footer.html:58
 msgid "About Us"
-msgstr ""
+msgstr "关于我们"
 
 #: templates/footer.html:59
 msgid "Open source"
-msgstr ""
+msgstr "开放源代码"
 
 #: templates/footer.html:60
 msgid "Careers"
-msgstr ""
+msgstr "招聘"
 
 #: templates/footer.html:61
 msgid "Press"
-msgstr ""
+msgstr "媒体联络"
 
 #: templates/footer.html:66
 msgid "This website is not affiliated with Blizzard Entertainment."
-msgstr ""
+msgstr "本网站与暴雪娱乐没有从属关系。"
 
 #: templates/navigation.html:10
 msgid "Toggle navigation"
@@ -425,27 +425,27 @@ msgstr ""
 
 #: templates/navigation.html:29
 msgid "Articles"
-msgstr ""
+msgstr "文章"
 
 #: templates/navigation.html:36
 msgid "Trending"
-msgstr ""
+msgstr "趋势"
 
 #: templates/navigation.html:43 web/views/archetypes.py:27
 msgid "Discover"
-msgstr ""
+msgstr "探索"
 
 #: templates/navigation.html:50
 msgid "Meta"
-msgstr ""
+msgstr "环境"
 
 #: templates/navigation.html:57
 msgid "Decks"
-msgstr ""
+msgstr "套牌"
 
 #: templates/navigation.html:64
 msgid "Cards"
-msgstr ""
+msgstr "卡牌"
 
 #: templates/navigation.html:70
 msgid "Refer a Friend"
@@ -519,7 +519,7 @@ msgstr ""
 
 #: web/views/cards.py:32
 msgid "My Cards"
-msgstr ""
+msgstr "我的卡牌"
 
 #: web/views/cards.py:98
 msgid "No card found matching the query."
@@ -535,7 +535,7 @@ msgstr ""
 
 #: web/views/dashboard.py:32
 msgid "My Account"
-msgstr ""
+msgstr "我的账户"
 
 #: web/views/dashboard.py:77
 msgid "Delete Account"
@@ -583,7 +583,7 @@ msgstr ""
 
 #: web/views/decks.py:25
 msgid "My Decks"
-msgstr ""
+msgstr "我的套牌"
 
 #: web/views/decks.py:37
 msgid "Deck does not exist."
@@ -625,7 +625,7 @@ msgstr ""
 
 #: web/views/replays.py:18
 msgid "My Replays"
-msgstr ""
+msgstr "我的回放"
 
 #: web/views/replays.py:149
 msgid "Uploading replay…"
