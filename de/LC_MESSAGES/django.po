@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-07 01:40+0000\n"
-"PO-Revision-Date: 2018-07-09 12:40\n"
+"POT-Creation-Date: 2018-07-09 18:56+0000\n"
+"PO-Revision-Date: 2018-07-10 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -397,38 +397,30 @@ msgid "Help"
 msgstr "Hilfe"
 
 #: templates/footer.html:51
-msgid "About Us"
-msgstr "Über Uns"
-
-#: templates/footer.html:52
 msgid "FAQ"
 msgstr "Häufig gestellte Fragen"
 
-#: templates/footer.html:53
+#: templates/footer.html:52
 msgid "Contact"
 msgstr "Kontakt"
 
-#: templates/footer.html:54
-msgid "Security"
-msgstr "Sicherheit"
+#: templates/footer.html:58
+msgid "About Us"
+msgstr "Über Uns"
 
-#: templates/footer.html:60
-msgid "Corporate"
-msgstr "Unternehmen"
-
-#: templates/footer.html:61
+#: templates/footer.html:59
 msgid "Open source"
 msgstr "Open Source"
 
-#: templates/footer.html:62
+#: templates/footer.html:60
 msgid "Careers"
 msgstr "Karrieren"
 
-#: templates/footer.html:63
+#: templates/footer.html:61
 msgid "Press"
 msgstr "Presse"
 
-#: templates/footer.html:68
+#: templates/footer.html:66
 msgid "This website is not affiliated with Blizzard Entertainment."
 msgstr "Diese Webseite ist nicht mit Blizzard Entertainment assoziiert."
 
