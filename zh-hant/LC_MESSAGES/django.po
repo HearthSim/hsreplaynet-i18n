@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-09 18:56+0000\n"
-"PO-Revision-Date: 2018-07-10 12:40\n"
+"POT-Creation-Date: 2018-07-11 01:40+0000\n"
+"PO-Revision-Date: 2018-07-11 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh\n"
@@ -516,27 +516,27 @@ msgstr ""
 msgid "This archetype is no longer available."
 msgstr ""
 
-#: web/views/cards.py:19 web/views/cards.py:106
+#: web/views/cards.py:21 web/views/cards.py:109
 msgid "Hearthstone Card Statistics"
 msgstr ""
 
-#: web/views/cards.py:21
+#: web/views/cards.py:23
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
 msgstr ""
 
-#: web/views/cards.py:32
+#: web/views/cards.py:34
 msgid "My Cards"
 msgstr ""
 
-#: web/views/cards.py:98
+#: web/views/cards.py:100
 msgid "No card found matching the query."
 msgstr ""
 
-#: web/views/cards.py:116
+#: web/views/cards.py:119
 msgid "Statistics and decks!"
 msgstr ""
 
-#: web/views/cards.py:136
+#: web/views/cards.py:145
 msgid "Hearthstone Card Editor"
 msgstr ""
 
