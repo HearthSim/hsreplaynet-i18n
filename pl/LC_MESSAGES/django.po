@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-14 01:40+0000\n"
-"PO-Revision-Date: 2018-07-16 12:40\n"
+"POT-Creation-Date: 2018-07-17 01:40+0000\n"
+"PO-Revision-Date: 2018-07-17 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -154,7 +154,7 @@ msgstr "Email"
 msgid "Billing"
 msgstr ""
 
-#: templates/account/base.html:17 web/views/dashboard.py:65
+#: templates/account/base.html:17 web/views/dashboard.py:80
 msgid "API Access"
 msgstr ""
 
@@ -537,39 +537,39 @@ msgstr ""
 msgid "My Account"
 msgstr ""
 
-#: web/views/dashboard.py:77
+#: web/views/dashboard.py:92
 msgid "Delete Account"
 msgstr ""
 
-#: web/views/dashboard.py:102
+#: web/views/dashboard.py:117
 msgid "This account cannot be deleted."
 msgstr ""
 
-#: web/views/dashboard.py:130
+#: web/views/dashboard.py:145
 msgid "Your replays have been deleted."
 msgstr ""
 
-#: web/views/dashboard.py:165
+#: web/views/dashboard.py:180
 msgid "Could not make account primary."
 msgstr ""
 
-#: web/views/dashboard.py:185
+#: web/views/dashboard.py:200
 msgid "Your email preferences have been saved."
 msgstr ""
 
-#: web/views/dashboard.py:201
+#: web/views/dashboard.py:216
 msgid "Create a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:212
+#: web/views/dashboard.py:227
 msgid "Update a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:238
+#: web/views/dashboard.py:253
 msgid "OAuth Applications"
 msgstr ""
 
-#: web/views/dashboard.py:285
+#: web/views/dashboard.py:300
 msgid "Your OAuth Application"
 msgstr ""
 

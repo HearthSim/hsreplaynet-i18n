@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-14 01:40+0000\n"
-"PO-Revision-Date: 2018-07-16 12:40\n"
+"POT-Creation-Date: 2018-07-17 01:40+0000\n"
+"PO-Revision-Date: 2018-07-17 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -102,7 +102,7 @@ msgstr " Bitte kontaktiere uns, falls du dies fälschlicherweise siehst."
 
 #: billing/views.py:552
 msgid "Unable to complete subscription."
-msgstr ""
+msgstr "Konnte Abonnement nicht abschließen."
 
 #: billing/views.py:557
 msgid "Invalid subscription token."
@@ -110,7 +110,7 @@ msgstr ""
 
 #: billing/views.py:560
 msgid "You are not logged in as the correct user."
-msgstr ""
+msgstr "Du bist nicht als der korrekte Benutzer angemeldet."
 
 #: billing/views.py:564
 msgid "You are now subscribed with PayPal!"
@@ -154,7 +154,7 @@ msgstr "E-Mail"
 msgid "Billing"
 msgstr "Zahlungen"
 
-#: templates/account/base.html:17 web/views/dashboard.py:65
+#: templates/account/base.html:17 web/views/dashboard.py:80
 msgid "API Access"
 msgstr "API-Zugriff"
 
@@ -309,7 +309,7 @@ msgstr "Passwort zurücksetzen"
 
 #: templates/account/password_reset.html:13
 msgid "Forgot your password? Enter your email below, we'll send you a link to reset it."
-msgstr ""
+msgstr "Du hast dein Passwort vergessen? Gib unten deine E-Mail-Adresse an, und wir senden dir einen Link zum Zurücksetzen."
 
 #: templates/account/password_reset.html:19
 msgid "Reset password"
@@ -476,11 +476,11 @@ msgstr ""
 
 #: templates/socialaccount/connections.html:42
 msgid "Make primary"
-msgstr ""
+msgstr "Primär setzen"
 
 #: templates/socialaccount/connections.html:45
 msgid "Primary account"
-msgstr ""
+msgstr "Primäres Konto"
 
 #: templates/socialaccount/connections.html:63
 msgid "You currently have no social network accounts connected to this account."
@@ -520,7 +520,7 @@ msgstr "Hearthstone-Kartenstatistiken"
 
 #: web/views/cards.py:23
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
-msgstr ""
+msgstr "Vergleiche Statistiken über alle sammelbaren Hearthstone-Karten. Finde die meistgespielten Karten oder die mit der höchsten Gewinnrate."
 
 #: web/views/cards.py:34
 msgid "My Cards"
@@ -542,39 +542,39 @@ msgstr "Hearthstone-Karteneditor"
 msgid "My Account"
 msgstr "Mein Konto"
 
-#: web/views/dashboard.py:77
+#: web/views/dashboard.py:92
 msgid "Delete Account"
 msgstr "Konto Löschen"
 
-#: web/views/dashboard.py:102
+#: web/views/dashboard.py:117
 msgid "This account cannot be deleted."
 msgstr "Dieses Konto kann nicht gelöscht werden."
 
-#: web/views/dashboard.py:130
+#: web/views/dashboard.py:145
 msgid "Your replays have been deleted."
 msgstr "Deine Aufzeichnungen wurden gelöscht."
 
-#: web/views/dashboard.py:165
+#: web/views/dashboard.py:180
 msgid "Could not make account primary."
-msgstr ""
+msgstr "Konnte Konto nicht primär setzen."
 
-#: web/views/dashboard.py:185
+#: web/views/dashboard.py:200
 msgid "Your email preferences have been saved."
 msgstr "Deine E-Mail-Präferenzen wurden gespeichert."
 
-#: web/views/dashboard.py:201
+#: web/views/dashboard.py:216
 msgid "Create a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:212
+#: web/views/dashboard.py:227
 msgid "Update a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:238
+#: web/views/dashboard.py:253
 msgid "OAuth Applications"
 msgstr ""
 
-#: web/views/dashboard.py:285
+#: web/views/dashboard.py:300
 msgid "Your OAuth Application"
 msgstr ""
 
@@ -596,7 +596,7 @@ msgstr "Deck ist nicht vorhanden."
 
 #: web/views/decks.py:41
 msgid "Deck list is too small."
-msgstr ""
+msgstr "Deckliste ist zu klein."
 
 #: web/views/decks.py:55
 #, python-brace-format
@@ -618,7 +618,7 @@ msgstr "Zugriff wurde widerrufen."
 #: web/views/oauth2.py:80
 #, python-brace-format
 msgid "{count} access tokens deleted."
-msgstr ""
+msgstr "{count} Zugangsschlüssel gelöscht."
 
 #: web/views/premium.py:12
 msgid "HSReplay.net Premium"
@@ -626,7 +626,7 @@ msgstr "HSReplay.net Premium"
 
 #: web/views/premium.py:14
 msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
-msgstr ""
+msgstr "Mehr Filter, mehr Funktionen, mehr Daten: Erhalte Zugriff auf detailliere Hearthstone-Statistiken basierend auf Millionen von Spielen mit HSReplay.net Premium."
 
 #: web/views/replays.py:18
 msgid "My Replays"
