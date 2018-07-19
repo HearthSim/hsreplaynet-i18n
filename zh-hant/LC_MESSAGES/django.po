@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-17 01:40+0000\n"
-"PO-Revision-Date: 2018-07-18 12:40\n"
+"POT-Creation-Date: 2018-07-19 09:55+0000\n"
+"PO-Revision-Date: 2018-07-19 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh\n"
@@ -138,10 +138,70 @@ msgstr "帳戶未啟動"
 
 #: templates/account/account_inactive.html:9
 #, python-format
-msgid "This account is inactive or has been banned.\n"
-"\t\tPlease <a href=\"mailto:%(site_email)s\">contact us</a> if this is in error."
-msgstr "此帳戶處於未啟動狀態或已被封鎖。\n"
-"\t\t請 <a href=\"mailto:%(site_email)s\">聯繫我們</a> 如果您有任何疑問。"
+msgid "This account is inactive or has been banned. Please <a href=\"mailto:%(site_email)s\">contact us</a> if this is in error."
+msgstr ""
+
+#: templates/account/api.html:7
+msgid "Authentication Tokens"
+msgstr ""
+
+#: templates/account/api.html:12
+#, python-format
+msgid "You do not have any upload client associated with your account. <a href=\"%(downloads_url)s\">Download Hearthstone Deck Tracker</a> and claim your account from there!"
+msgstr ""
+
+#: templates/account/api.html:19
+msgid "The following tokens can be used to upload your games. Keep them private!"
+msgstr ""
+
+#: templates/account/api.html:22
+msgid "Application"
+msgstr ""
+
+#: templates/account/api.html:23
+msgid "Token"
+msgstr ""
+
+#: templates/account/api.html:24
+msgid "Created on"
+msgstr ""
+
+#: templates/account/api.html:45
+msgid "Webhooks"
+msgstr ""
+
+#: templates/account/api.html:48
+msgid "Webhooks allow you, or an authorized application, to automatically POST to a URL whenever you complete a game and it is made available on HSReplay.net."
+msgstr ""
+
+#: templates/account/api.html:55
+msgid "This feature is still in beta."
+msgstr ""
+
+#: templates/account/api.html:56
+#, python-format
+msgid "The API objects are not final and the functionality is still being tested. If you are interested in using them or have any questions, <a href=\"mailto:%(site_email)s\">please contact us</a> so we can help!"
+msgstr ""
+
+#: templates/account/api.html:65
+msgid "You don't have any webhooks set up right now."
+msgstr ""
+
+#: templates/account/api.html:70
+msgid "UUID"
+msgstr ""
+
+#: templates/account/api.html:71
+msgid "URL"
+msgstr ""
+
+#: templates/account/api.html:72
+msgid "Active"
+msgstr ""
+
+#: templates/account/api.html:88
+msgid "New webhook…"
+msgstr ""
 
 #: templates/account/base.html:12
 msgid "Settings"
@@ -163,7 +223,7 @@ msgstr "取得API"
 msgid "OAuth Apps"
 msgstr ""
 
-#: templates/account/base.html:20 templates/account/login.html:68
+#: templates/account/base.html:20 templates/account/login.html:70
 #: templates/account/signup.html:33
 msgid "Password"
 msgstr "密碼"
@@ -218,7 +278,7 @@ msgstr "重新傳送驗證信件"
 msgid "Make Primary"
 msgstr "設為主要"
 
-#: templates/account/email.html:42 templates/socialaccount/connections.html:54
+#: templates/account/email.html:42 templates/socialaccount/connections.html:56
 msgid "Remove"
 msgstr "移除"
 
@@ -250,6 +310,11 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
+#: templates/account/email.html:99
+#, python-format
+msgid "Looking for a password setting? You can sign with any of <a href=\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there is no HSReplay.net password."
+msgstr ""
+
 #: templates/account/email/email_confirmation_message.txt:1
 #, python-format
 msgid "Hello %(user)s!\n\n"
@@ -273,31 +338,30 @@ msgid "Log in to continue to %(oauth2_client)s"
 msgstr ""
 
 #: templates/account/login.html:19
-msgid "We'll send you to the offical Blizzard site where you can securely log in.<br/>\n"
-"\t\tBlizzard will redirect you back here once you're done."
+msgid "We'll send you to the official Blizzard site where you can securely log in.<br/> Blizzard will redirect you back here once you're done."
 msgstr ""
 
-#: templates/account/login.html:29
+#: templates/account/login.html:31
 msgid "Log in with Blizzard"
 msgstr ""
 
-#: templates/account/login.html:33
+#: templates/account/login.html:35
 msgid "Region"
 msgstr ""
 
-#: templates/account/login.html:47
+#: templates/account/login.html:49
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
 msgstr ""
 
-#: templates/account/login.html:57
+#: templates/account/login.html:59
 msgid "Not using a Blizzard account? Sign in with your username and password here."
 msgstr ""
 
-#: templates/account/login.html:67 templates/account/signup.html:27
+#: templates/account/login.html:69 templates/account/signup.html:27
 msgid "Username"
 msgstr ""
 
-#: templates/account/login.html:71
+#: templates/account/login.html:73
 msgid "Log in"
 msgstr ""
 
@@ -357,9 +421,7 @@ msgstr ""
 
 #: templates/account/verification_sent.html:14
 #, python-format
-msgid "\n"
-"\t\t\tPlease <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes.\n"
-"\t\t"
+msgid "Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr ""
 
 #: templates/footer.html:7
@@ -459,8 +521,7 @@ msgid "Refer a Friend"
 msgstr ""
 
 #: templates/snippets/noscript.html:5
-msgid "It looks like you have Javascript turned off. This page will not work correctly.\n"
-"\t\t<a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
+msgid "It looks like you have Javascript turned off. This page will not work correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
 msgstr ""
 
 #: templates/socialaccount/authentication_error.html:7
@@ -472,19 +533,18 @@ msgid "Back to the office."
 msgstr ""
 
 #: templates/socialaccount/connections.html:14
-msgid "The following social accounts are connected to your HSReplay.net account.\n"
-"\t\tYou may log in with any connected Blizzard account."
+msgid "The following social accounts are connected to your HSReplay.net account. You may log in with any connected Blizzard account."
 msgstr ""
 
-#: templates/socialaccount/connections.html:42
+#: templates/socialaccount/connections.html:44
 msgid "Make primary"
 msgstr ""
 
-#: templates/socialaccount/connections.html:45
+#: templates/socialaccount/connections.html:47
 msgid "Primary account"
 msgstr ""
 
-#: templates/socialaccount/connections.html:63
+#: templates/socialaccount/connections.html:65
 msgid "You currently have no social network accounts connected to this account."
 msgstr ""
 
@@ -516,27 +576,27 @@ msgstr ""
 msgid "This archetype is no longer available."
 msgstr ""
 
-#: web/views/cards.py:21 web/views/cards.py:109
+#: web/views/cards.py:23 web/views/cards.py:111
 msgid "Hearthstone Card Statistics"
 msgstr ""
 
-#: web/views/cards.py:23
+#: web/views/cards.py:25
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
 msgstr ""
 
-#: web/views/cards.py:34
+#: web/views/cards.py:36
 msgid "My Cards"
 msgstr ""
 
-#: web/views/cards.py:100
+#: web/views/cards.py:102
 msgid "No card found matching the query."
 msgstr ""
 
-#: web/views/cards.py:119
+#: web/views/cards.py:121
 msgid "Statistics and decks!"
 msgstr ""
 
-#: web/views/cards.py:145
+#: web/views/cards.py:147
 msgid "Hearthstone Card Editor"
 msgstr ""
 
@@ -580,36 +640,36 @@ msgstr ""
 msgid "Your OAuth Application"
 msgstr ""
 
-#: web/views/decks.py:15
+#: web/views/decks.py:17
 msgid "Hearthstone Decks"
 msgstr ""
 
-#: web/views/decks.py:17
+#: web/views/decks.py:19
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
 msgstr ""
 
-#: web/views/decks.py:25
+#: web/views/decks.py:27
 msgid "My Decks"
 msgstr ""
 
-#: web/views/decks.py:37
+#: web/views/decks.py:39
 msgid "Deck does not exist."
 msgstr ""
 
-#: web/views/decks.py:41
+#: web/views/decks.py:43
 msgid "Deck list is too small."
 msgstr ""
 
-#: web/views/decks.py:55
+#: web/views/decks.py:57
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr ""
 
-#: web/views/decks.py:71
+#: web/views/decks.py:73
 msgid "Trending Hearthstone Decks"
 msgstr ""
 
-#: web/views/decks.py:73
+#: web/views/decks.py:75
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr ""
 
@@ -622,11 +682,11 @@ msgstr ""
 msgid "{count} access tokens deleted."
 msgstr ""
 
-#: web/views/premium.py:12
+#: web/views/premium.py:21
 msgid "HSReplay.net Premium"
 msgstr ""
 
-#: web/views/premium.py:14
+#: web/views/premium.py:23
 msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
 msgstr ""
 
