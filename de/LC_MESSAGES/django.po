@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-17 01:40+0000\n"
-"PO-Revision-Date: 2018-07-18 12:40\n"
+"PO-Revision-Date: 2018-07-19 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -18,7 +18,7 @@ msgstr ""
 
 #: billing/views.py:255
 msgid "Error adding payment card"
-msgstr ""
+msgstr "Fehler beim Hinzufügen der Kreditkarte"
 
 #: billing/views.py:259
 msgid "Your card was declined. Please use a different card."
@@ -62,11 +62,11 @@ msgstr "Deine Karte hat ihr Kreditlimit überschritten. Bitte verwende eine ande
 
 #: billing/views.py:378
 msgid "Your card has insufficient funds to proceed."
-msgstr ""
+msgstr "Das Guthaben deiner Kreditkarte reicht nicht aus."
 
 #: billing/views.py:382
 msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
-msgstr ""
+msgstr "Deine Kreditkarte wurde abgelehnt, sie wurde nicht belastet. Bitte versuche eine andere Karte; kontaktiere uns falls das Problem weiterhin besteht."
 
 #: billing/views.py:418
 msgid " Please contact us if you are receiving this in error."
@@ -94,7 +94,7 @@ msgstr "Dein Abonnement wurde gekündigt."
 
 #: billing/views.py:515
 msgid "Could not update default card."
-msgstr ""
+msgstr "Konnte Standardkarte nicht aktualisieren."
 
 #: billing/views.py:533
 msgid " Please contact us if you are seeing this in error."
@@ -106,7 +106,7 @@ msgstr "Konnte Abonnement nicht abschließen."
 
 #: billing/views.py:557
 msgid "Invalid subscription token."
-msgstr ""
+msgstr "Ungültiges Abonnement-Token."
 
 #: billing/views.py:560
 msgid "You are not logged in as the correct user."
@@ -114,7 +114,7 @@ msgstr "Du bist nicht als der korrekte Benutzer angemeldet."
 
 #: billing/views.py:564
 msgid "You are now subscribed with PayPal!"
-msgstr ""
+msgstr "Du bist jetzt PayPal-Abonnent!"
 
 #: billing/views.py:576
 msgid "Invalid token while cancelling payment."
@@ -140,7 +140,8 @@ msgstr "Account inaktiv"
 #, python-format
 msgid "This account is inactive or has been banned.\n"
 "\t\tPlease <a href=\"mailto:%(site_email)s\">contact us</a> if this is in error."
-msgstr ""
+msgstr "Dieses Konto ist inaktiv oder wurde gebannt.\n"
+"\t\tBitte <a href=\"mailto:%(site_email)s\">kontaktiere uns</a> falls es sich dabei um einen Fehler handelt."
 
 #: templates/account/base.html:12
 msgid "Settings"
@@ -467,7 +468,7 @@ msgstr "Authentifizierungsfehler"
 
 #: templates/socialaccount/authentication_error.html:28
 msgid "Back to the office."
-msgstr ""
+msgstr "Befreit mich!"
 
 #: templates/socialaccount/connections.html:14
 msgid "The following social accounts are connected to your HSReplay.net account.\n"
@@ -572,11 +573,11 @@ msgstr ""
 
 #: web/views/dashboard.py:253
 msgid "OAuth Applications"
-msgstr ""
+msgstr "OAuth-Anwedungen"
 
 #: web/views/dashboard.py:300
 msgid "Your OAuth Application"
-msgstr ""
+msgstr "Deine OAuth-Anwendung"
 
 #: web/views/decks.py:15
 msgid "Hearthstone Decks"
