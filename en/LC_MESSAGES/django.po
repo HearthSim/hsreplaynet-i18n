@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-19 01:40+0000\n"
+"POT-Creation-Date: 2018-07-19 09:55+0000\n"
 "PO-Revision-Date: 2018-03-14 11:15+0000\n"
 "Last-Translator: Jerome Leclanche <jerome@leclan.ch>\n"
 "Language-Team: English <contact@hearthsim.net>\n"
@@ -151,6 +151,77 @@ msgid ""
 "%(site_email)s\">contact us</a> if this is in error."
 msgstr ""
 
+#: templates/account/api.html:7
+msgid "Authentication Tokens"
+msgstr ""
+
+#: templates/account/api.html:12
+#, python-format
+msgid ""
+"You do not have any upload client associated with your account. <a href="
+"\"%(downloads_url)s\">Download Hearthstone Deck Tracker</a> and claim your "
+"account from there!"
+msgstr ""
+
+#: templates/account/api.html:19
+msgid ""
+"The following tokens can be used to upload your games. Keep them private!"
+msgstr ""
+
+#: templates/account/api.html:22
+msgid "Application"
+msgstr ""
+
+#: templates/account/api.html:23
+msgid "Token"
+msgstr ""
+
+#: templates/account/api.html:24
+msgid "Created on"
+msgstr ""
+
+#: templates/account/api.html:45
+msgid "Webhooks"
+msgstr ""
+
+#: templates/account/api.html:48
+msgid ""
+"Webhooks allow you, or an authorized application, to automatically POST to a "
+"URL whenever you complete a game and it is made available on HSReplay.net."
+msgstr ""
+
+#: templates/account/api.html:55
+msgid "This feature is still in beta."
+msgstr ""
+
+#: templates/account/api.html:56
+#, python-format
+msgid ""
+"The API objects are not final and the functionality is still being tested. "
+"If you are interested in using them or have any questions, <a href=\"mailto:"
+"%(site_email)s\">please contact us</a> so we can help!"
+msgstr ""
+
+#: templates/account/api.html:65
+msgid "You don't have any webhooks set up right now."
+msgstr ""
+
+#: templates/account/api.html:70
+msgid "UUID"
+msgstr ""
+
+#: templates/account/api.html:71
+msgid "URL"
+msgstr ""
+
+#: templates/account/api.html:72
+msgid "Active"
+msgstr ""
+
+#: templates/account/api.html:88
+msgid "New webhook…"
+msgstr ""
+
 #: templates/account/base.html:12
 msgid "Settings"
 msgstr ""
@@ -259,6 +330,14 @@ msgstr ""
 
 #: templates/account/email.html:91
 msgid "Save"
+msgstr ""
+
+#: templates/account/email.html:99
+#, python-format
+msgid ""
+"Looking for a password setting? You can sign with any of <a href="
+"\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there "
+"is no HSReplay.net password."
 msgstr ""
 
 #: templates/account/email/email_confirmation_message.txt:1
