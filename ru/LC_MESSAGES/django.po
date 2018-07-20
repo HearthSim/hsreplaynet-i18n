@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-19 09:55+0000\n"
-"PO-Revision-Date: 2018-07-19 12:40\n"
+"PO-Revision-Date: 2018-07-20 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -384,7 +384,7 @@ msgstr "Сбросить пароль"
 #: templates/account/password_reset.html:25
 #, python-format
 msgid "Need help? <a href=\"mailto:%(site_email)s\">Contact us</a>."
-msgstr "Нужна помощь? <a href=\"mailto:%(site_email)s\">Напишите нам</a>."
+msgstr "Нужна помощь? <a href=\"mailto:%(site_email)s\">Свяжитесь с нами</a>."
 
 #: templates/account/signup.html:8 templates/account/signup.html:39
 msgid "Sign up"
@@ -422,7 +422,7 @@ msgstr "Мы отправили тебе ссылку для подтвержд�
 #: templates/account/verification_sent.html:14
 #, python-format
 msgid "Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes."
-msgstr "Пожалуйста, <a href=\"mailto:%(site_email)s\">напишите нам</a>, если вы не получили ее в течение нескольких минут."
+msgstr "Пожалуйста, <a href=\"mailto:%(site_email)s\">свяжитесь с нами</a>, если вы не получили ее в течение нескольких минут."
 
 #: templates/footer.html:7
 msgid "Back to top"

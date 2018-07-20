@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-19 09:55+0000\n"
-"PO-Revision-Date: 2018-07-19 12:40\n"
+"PO-Revision-Date: 2018-07-20 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -122,7 +122,7 @@ msgstr ""
 
 #: billing/views.py:580
 msgid "Your payment was interrupted."
-msgstr "Deine Zahlung wurde abgebrochen."
+msgstr "Deine Zahlung wurde unterbrochen."
 
 #: billing/views.py:588
 msgid "Could not determine your plan."
@@ -338,7 +338,7 @@ msgstr "Anmelden, um bei %(oauth2_client)s fortzufahren"
 
 #: templates/account/login.html:19
 msgid "We'll send you to the official Blizzard site where you can securely log in.<br/> Blizzard will redirect you back here once you're done."
-msgstr "Wir schicken dich zur offiziellen Blizzard-Seite, wo du dich sicher amelden kannst.<br/>Blizzard schickt dich im Anschluss wieder hierhin zurück."
+msgstr "Wir schicken dich zur offiziellen Blizzard-Seite, wo du dich sicher anmelden kannst.<br/>Blizzard schickt dich im Anschluss wieder hierhin zurück."
 
 #: templates/account/login.html:31
 msgid "Log in with Blizzard"
@@ -633,7 +633,7 @@ msgstr "Einen Webhook aktualisieren"
 
 #: web/views/dashboard.py:253
 msgid "OAuth Applications"
-msgstr "OAuth-Anwedungen"
+msgstr "OAuth-Anwendungen"
 
 #: web/views/dashboard.py:300
 msgid "Your OAuth Application"
