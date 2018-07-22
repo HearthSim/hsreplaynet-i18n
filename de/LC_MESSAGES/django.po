@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-21 21:45+0000\n"
-"PO-Revision-Date: 2018-07-22 00:40\n"
+"PO-Revision-Date: 2018-07-22 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -134,11 +134,11 @@ msgstr "Ungültige PayPal-Abo-Wahl."
 
 #: settings.py:315
 msgid "Full access to your HSReplay.net account"
-msgstr ""
+msgstr "Vollständiger Zugriff auf dein HSReplay.net-Konto"
 
 #: settings.py:316
 msgid "Access information about your connected social accounts"
-msgstr ""
+msgstr "Zugriff auf Informationen über deine verknüpften sozialen Konten"
 
 #: settings.py:317
 msgid "View your Hearthstone card collection"
@@ -150,23 +150,23 @@ msgstr ""
 
 #: settings.py:319
 msgid "View your replays"
-msgstr ""
+msgstr "Deine Aufzeichnungen betrachten"
 
 #: settings.py:320
 msgid "Update and delete your replays"
-msgstr ""
+msgstr "Deine Aufzeichnungen hochladen und entfernen"
 
 #: settings.py:321
 msgid "Access the Partner API"
-msgstr ""
+msgstr "Zugriff auf die Partner-API"
 
 #: settings.py:322
 msgid "Read access to the tournaments service"
-msgstr ""
+msgstr "Lesezugriff auf den Turnierdienst"
 
 #: settings.py:323
 msgid "Write access to the tournaments service"
-msgstr ""
+msgstr "Schreibzugriff auf den Turnierdienst"
 
 #: settings.py:324
 msgid "View your webhooks"
