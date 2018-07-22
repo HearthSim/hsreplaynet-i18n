@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-21 01:40+0000\n"
-"PO-Revision-Date: 2018-07-21 12:40\n"
+"POT-Creation-Date: 2018-07-21 21:45+0000\n"
+"PO-Revision-Date: 2018-07-22 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -130,6 +130,50 @@ msgstr ""
 
 #: billing/views.py:593
 msgid "Invalid Paypal plan."
+msgstr ""
+
+#: settings.py:315
+msgid "Full access to your HSReplay.net account"
+msgstr ""
+
+#: settings.py:316
+msgid "Access information about your connected social accounts"
+msgstr ""
+
+#: settings.py:317
+msgid "View your Hearthstone card collection"
+msgstr ""
+
+#: settings.py:318
+msgid "Upload your Hearthstone card collection to the site"
+msgstr ""
+
+#: settings.py:319
+msgid "View your replays"
+msgstr ""
+
+#: settings.py:320
+msgid "Update and delete your replays"
+msgstr ""
+
+#: settings.py:321
+msgid "Access the Partner API"
+msgstr ""
+
+#: settings.py:322
+msgid "Read access to the tournaments service"
+msgstr ""
+
+#: settings.py:323
+msgid "Write access to the tournaments service"
+msgstr ""
+
+#: settings.py:324
+msgid "View your webhooks"
+msgstr ""
+
+#: settings.py:325
+msgid "Create and delete webhooks on your behalf"
 msgstr ""
 
 #: templates/account/account_inactive.html:6
