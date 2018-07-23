@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-21 21:45+0000\n"
-"PO-Revision-Date: 2018-07-22 12:40\n"
+"POT-Creation-Date: 2018-07-23 01:40+0000\n"
+"PO-Revision-Date: 2018-07-23 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish\n"
 "Language: es\n"
@@ -267,7 +267,7 @@ msgstr ""
 msgid "OAuth Apps"
 msgstr ""
 
-#: templates/account/base.html:20 templates/account/login.html:70
+#: templates/account/base.html:20 templates/account/login.html:69
 #: templates/account/signup.html:33
 msgid "Password"
 msgstr ""
@@ -376,30 +376,42 @@ msgid "Log in to continue to %(oauth2_client)s"
 msgstr ""
 
 #: templates/account/login.html:19
-msgid "We'll send you to the official Blizzard site where you can securely log in.<br/> Blizzard will redirect you back here once you're done."
+msgid "We'll send you to the official Blizzard site where you can securely log in."
 msgstr ""
 
-#: templates/account/login.html:31
+#: templates/account/login.html:21
+msgid "Blizzard will redirect you back here once you're done."
+msgstr ""
+
+#: templates/account/login.html:30
 msgid "Log in with Blizzard"
 msgstr ""
 
-#: templates/account/login.html:35
+#: templates/account/login.html:34
 msgid "Region"
 msgstr ""
 
-#: templates/account/login.html:49
+#: templates/account/login.html:36
+msgid "US / EU / SEA"
+msgstr ""
+
+#: templates/account/login.html:41
+msgid "China (CN)"
+msgstr ""
+
+#: templates/account/login.html:48
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
 msgstr ""
 
-#: templates/account/login.html:59
+#: templates/account/login.html:58
 msgid "Not using a Blizzard account? Sign in with your username and password here."
 msgstr ""
 
-#: templates/account/login.html:69 templates/account/signup.html:27
+#: templates/account/login.html:68 templates/account/signup.html:27
 msgid "Username"
 msgstr ""
 
-#: templates/account/login.html:73
+#: templates/account/login.html:72
 msgid "Log in"
 msgstr ""
 

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-21 21:45+0000\n"
-"PO-Revision-Date: 2018-07-23 00:40\n"
+"POT-Creation-Date: 2018-07-23 01:40+0000\n"
+"PO-Revision-Date: 2018-07-23 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -158,7 +158,7 @@ msgstr "更新和删除您的回放"
 
 #: settings.py:321
 msgid "Access the Partner API"
-msgstr ""
+msgstr "获取合作伙伴的API"
 
 #: settings.py:322
 msgid "Read access to the tournaments service"
@@ -174,7 +174,7 @@ msgstr "查看您的 webhooks"
 
 #: settings.py:325
 msgid "Create and delete webhooks on your behalf"
-msgstr ""
+msgstr "为您创建和删除 webhooks"
 
 #: templates/account/account_inactive.html:6
 msgid "Account inactive"
@@ -192,7 +192,7 @@ msgstr "身份验证令牌"
 #: templates/account/api.html:12
 #, python-format
 msgid "You do not have any upload client associated with your account. <a href=\"%(downloads_url)s\">Download Hearthstone Deck Tracker</a> and claim your account from there!"
-msgstr ""
+msgstr "您的帐户没有关联任何上传用的客户端。 <a href=\"%(downloads_url)s\">下载炉石传说记牌器</a> 并从那里登记您的帐户!"
 
 #: templates/account/api.html:19
 msgid "The following tokens can be used to upload your games. Keep them private!"
@@ -212,7 +212,7 @@ msgstr "创建于"
 
 #: templates/account/api.html:45
 msgid "Webhooks"
-msgstr ""
+msgstr "Webhooks"
 
 #: templates/account/api.html:48
 msgid "Webhooks allow you, or an authorized application, to automatically POST to a URL whenever you complete a game and it is made available on HSReplay.net."
@@ -225,11 +225,11 @@ msgstr "此功能仍在测试中。"
 #: templates/account/api.html:56
 #, python-format
 msgid "The API objects are not final and the functionality is still being tested. If you are interested in using them or have any questions, <a href=\"mailto:%(site_email)s\">please contact us</a> so we can help!"
-msgstr ""
+msgstr "API 并不是最终版本, 而且该功能仍在测试中。如果您有兴趣使用它们或有任何问题, <a href=\"mailto:%(site_email)s\">请与我们联系</a>, 以便我们可以提供帮助!"
 
 #: templates/account/api.html:65
 msgid "You don't have any webhooks set up right now."
-msgstr ""
+msgstr "现在你没有任何设置webhooks。"
 
 #: templates/account/api.html:70
 msgid "UUID"
@@ -237,11 +237,11 @@ msgstr "UUID"
 
 #: templates/account/api.html:71
 msgid "URL"
-msgstr ""
+msgstr "网址"
 
 #: templates/account/api.html:72
 msgid "Active"
-msgstr ""
+msgstr "活跃"
 
 #: templates/account/api.html:88
 msgid "New webhook…"
@@ -267,7 +267,7 @@ msgstr "API权限"
 msgid "OAuth Apps"
 msgstr "OAuth应用"
 
-#: templates/account/base.html:20 templates/account/login.html:70
+#: templates/account/base.html:20 templates/account/login.html:69
 #: templates/account/signup.html:33
 msgid "Password"
 msgstr "密码"
@@ -357,7 +357,7 @@ msgstr "保存"
 #: templates/account/email.html:99
 #, python-format
 msgid "Looking for a password setting? You can sign with any of <a href=\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there is no HSReplay.net password."
-msgstr ""
+msgstr "正在查找密码设置？您可以<a href=\"%(connected_accounts_url)s\">连接您的暴雪帐户</a>直接登陆，无需HSReplay.net 密码。"
 
 #: templates/account/email/email_confirmation_message.txt:1
 #, python-format
@@ -382,30 +382,42 @@ msgid "Log in to continue to %(oauth2_client)s"
 msgstr "登录后在%(oauth2_client)s继续"
 
 #: templates/account/login.html:19
-msgid "We'll send you to the official Blizzard site where you can securely log in.<br/> Blizzard will redirect you back here once you're done."
-msgstr ""
+msgid "We'll send you to the official Blizzard site where you can securely log in."
+msgstr "我们会将您导向至官方暴雪网站，您可以放心登录。"
 
-#: templates/account/login.html:31
+#: templates/account/login.html:21
+msgid "Blizzard will redirect you back here once you're done."
+msgstr "暴雪会在您完成后将您带回这里。"
+
+#: templates/account/login.html:30
 msgid "Log in with Blizzard"
 msgstr "使用暴雪账号登录"
 
-#: templates/account/login.html:35
+#: templates/account/login.html:34
 msgid "Region"
 msgstr "区域"
 
-#: templates/account/login.html:49
+#: templates/account/login.html:36
+msgid "US / EU / SEA"
+msgstr "美国/欧洲/东南亚"
+
+#: templates/account/login.html:41
+msgid "China (CN)"
+msgstr "中国"
+
+#: templates/account/login.html:48
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
 msgstr "HSReplay.net不会获取您的暴雪邮箱地址或密码。"
 
-#: templates/account/login.html:59
+#: templates/account/login.html:58
 msgid "Not using a Blizzard account? Sign in with your username and password here."
 msgstr "不用暴雪账号？用您的用户名和密码在此登录。"
 
-#: templates/account/login.html:69 templates/account/signup.html:27
+#: templates/account/login.html:68 templates/account/signup.html:27
 msgid "Username"
 msgstr "用户名"
 
-#: templates/account/login.html:73
+#: templates/account/login.html:72
 msgid "Log in"
 msgstr "登录"
 
@@ -466,7 +478,7 @@ msgstr "我们已经给你发了一封验证电子邮件。按照其中的链接
 #: templates/account/verification_sent.html:14
 #, python-format
 msgid "Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes."
-msgstr ""
+msgstr "如果几分钟内仍未收到邮件，请<a href=\"mailto:%(site_email)s\">联系我们</a>。"
 
 #: templates/footer.html:7
 msgid "Back to top"
@@ -566,7 +578,7 @@ msgstr "分享给好友"
 
 #: templates/snippets/noscript.html:5
 msgid "It looks like you have Javascript turned off. This page will not work correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
-msgstr ""
+msgstr "似乎您的Javascript没有打开。本页面可能表现不正常。<a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">查看打开方法</a>。"
 
 #: templates/socialaccount/authentication_error.html:7
 msgid "Authentication error"
@@ -578,7 +590,7 @@ msgstr "返回菜单"
 
 #: templates/socialaccount/connections.html:14
 msgid "The following social accounts are connected to your HSReplay.net account. You may log in with any connected Blizzard account."
-msgstr ""
+msgstr "以下社交账户已和您的HSReplay.net账号关联。您也可以连接暴雪账号登录。"
 
 #: templates/socialaccount/connections.html:41
 msgid "Make primary"

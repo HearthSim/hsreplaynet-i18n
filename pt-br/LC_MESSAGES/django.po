@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-21 21:45+0000\n"
-"PO-Revision-Date: 2018-07-23 00:40\n"
+"POT-Creation-Date: 2018-07-23 01:40+0000\n"
+"PO-Revision-Date: 2018-07-23 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -18,163 +18,163 @@ msgstr ""
 
 #: billing/views.py:255
 msgid "Error adding payment card"
-msgstr ""
+msgstr "Erro ao adicionar cartão de pagamento"
 
 #: billing/views.py:259
 msgid "Your card was declined. Please use a different card."
-msgstr ""
+msgstr "Seu cartão foi recusado. Por favor, use um cartão diferente."
 
 #: billing/views.py:275
 msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
-msgstr ""
+msgstr "O email informado está associado com outra conta. Se você desejar juntar as contas, por favor entre em contato conosco!"
 
 #: billing/views.py:303
 msgid "You have multiple subscriptions. Please contact us."
-msgstr ""
+msgstr "Você possui múltiplas assinaturas. Por favor, entre em contato conosco."
 
 #: billing/views.py:317
 msgid "Your subscription has expired."
-msgstr ""
+msgstr "Sua assinatura expirou."
 
 #: billing/views.py:323
 msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
-msgstr ""
+msgstr "Sua assinatura está ativa. Se você estiver tendo problemas com o faturamento, por favor entre em contato conosco!"
 
 #: billing/views.py:327
 msgid "You are already subscribed!"
-msgstr ""
+msgstr "Você já possui assinatura!"
 
 #: billing/views.py:355
 msgid "Could not process subscription."
-msgstr ""
+msgstr "Não foi possível processar a assinatura."
 
 #: billing/views.py:372
 msgid "Your card declined the charge. Please contact your bank for information."
-msgstr ""
+msgstr "Seu cartão recusou o pagamento. Por favor entre em contato com seu banco para informações."
 
 #: billing/views.py:374
 msgid "Your card does not support payments in USD. Please try a different card."
-msgstr ""
+msgstr "Seu cartão não aceita pagamentos em dólares. Por favor, utilize outro cartão."
 
 #: billing/views.py:376
 msgid "Your card has exceeded its credit limit. Please use a different one."
-msgstr ""
+msgstr "Seu cartão ultrapassou seu limite de crédito. Por favor, use outro cartão."
 
 #: billing/views.py:378
 msgid "Your card has insufficient funds to proceed."
-msgstr ""
+msgstr "Seu cartão não possui fundos o suficiente pra continuar."
 
 #: billing/views.py:382
 msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
-msgstr ""
+msgstr "Seu cartão foi rejeitado, você não foi cobrado. Por favor use um cartão diferente; entre em contato conosco se isso persistir."
 
 #: billing/views.py:418
 msgid " Please contact us if you are receiving this in error."
-msgstr ""
+msgstr " Por favor entre em contato conosco se você estiver recebendo isto em erro."
 
 #: billing/views.py:424
 msgid "You have multiple subscriptions - something is wrong."
-msgstr ""
+msgstr "Você possui múltiplas assinaturas - algo está errado."
 
 #: billing/views.py:430
 msgid "You are not subscribed."
-msgstr ""
+msgstr "Você não possui assinatura."
 
 #: billing/views.py:445
 msgid "Your subscription cannot be canceled immediately."
-msgstr ""
+msgstr "Sua assinatura não pode ser cancelada imediatamente."
 
 #: billing/views.py:447
 msgid "Could not cancel your subscription."
-msgstr ""
+msgstr "Não foi possível cancelar sua assinatura."
 
 #: billing/views.py:456
 msgid "Your subscription has been cancelled."
-msgstr ""
+msgstr "Sua assinatura foi cancelada."
 
 #: billing/views.py:515
 msgid "Could not update default card."
-msgstr ""
+msgstr "Não foi possível atualizar o cartão padrão."
 
 #: billing/views.py:533
 msgid " Please contact us if you are seeing this in error."
-msgstr ""
+msgstr " Por favor entre em contato conosco se você estiver vendo isto em erro."
 
 #: billing/views.py:552
 msgid "Unable to complete subscription."
-msgstr ""
+msgstr "Não foi possível completar a assinatura."
 
 #: billing/views.py:557
 msgid "Invalid subscription token."
-msgstr ""
+msgstr "ID de assinatura inválido."
 
 #: billing/views.py:560
 msgid "You are not logged in as the correct user."
-msgstr ""
+msgstr "Você não está logado como o usuário correto."
 
 #: billing/views.py:564
 msgid "You are now subscribed with PayPal!"
-msgstr ""
+msgstr "Você está inscrito com o PayPal!"
 
 #: billing/views.py:576
 msgid "Invalid token while cancelling payment."
-msgstr ""
+msgstr "ID inválido ao cancelar pagamento."
 
 #: billing/views.py:580
 msgid "Your payment was interrupted."
-msgstr ""
+msgstr "Seu pagamento foi interrompido."
 
 #: billing/views.py:588
 msgid "Could not determine your plan."
-msgstr ""
+msgstr "Não foi possível determinar seu plano."
 
 #: billing/views.py:593
 msgid "Invalid Paypal plan."
-msgstr ""
+msgstr "Plano do PayPal inválido."
 
 #: settings.py:315
 msgid "Full access to your HSReplay.net account"
-msgstr ""
+msgstr "Acesso completo de sua conta HSReplay.net"
 
 #: settings.py:316
 msgid "Access information about your connected social accounts"
-msgstr ""
+msgstr "Acesse informações sobre suas redes sociais conectadas"
 
 #: settings.py:317
 msgid "View your Hearthstone card collection"
-msgstr ""
+msgstr "Ver sua coleção de cartas do Hearthstone"
 
 #: settings.py:318
 msgid "Upload your Hearthstone card collection to the site"
-msgstr ""
+msgstr "Atualize sua coleção de cartas do Hearthstone para o site"
 
 #: settings.py:319
 msgid "View your replays"
-msgstr ""
+msgstr "Ver seus replays"
 
 #: settings.py:320
 msgid "Update and delete your replays"
-msgstr ""
+msgstr "Atualizar e deletar seus replays"
 
 #: settings.py:321
 msgid "Access the Partner API"
-msgstr ""
+msgstr "Acesso ao API dos parceiros"
 
 #: settings.py:322
 msgid "Read access to the tournaments service"
-msgstr ""
+msgstr "Acesso de leitura ao serviço de torneios"
 
 #: settings.py:323
 msgid "Write access to the tournaments service"
-msgstr ""
+msgstr "Acesso de escrita ao serviço de torneios"
 
 #: settings.py:324
 msgid "View your webhooks"
-msgstr ""
+msgstr "Visualizar seus webhooks"
 
 #: settings.py:325
 msgid "Create and delete webhooks on your behalf"
-msgstr ""
+msgstr "Criar e deletar webhooks ao seu favor"
 
 #: templates/account/account_inactive.html:6
 msgid "Account inactive"
@@ -183,20 +183,20 @@ msgstr "Conta inativa"
 #: templates/account/account_inactive.html:9
 #, python-format
 msgid "This account is inactive or has been banned. Please <a href=\"mailto:%(site_email)s\">contact us</a> if this is in error."
-msgstr ""
+msgstr "Essa conta é inativa ou foi banida. Por favor <a href=\"mailto:%(site_email)s\">nos contate</a> se isso for um engano."
 
 #: templates/account/api.html:7
 msgid "Authentication Tokens"
-msgstr ""
+msgstr "IDs de autenticação"
 
 #: templates/account/api.html:12
 #, python-format
 msgid "You do not have any upload client associated with your account. <a href=\"%(downloads_url)s\">Download Hearthstone Deck Tracker</a> and claim your account from there!"
-msgstr ""
+msgstr "Você não tem nenhum cliente de upload associado à sua conta. <a href=\"%(downloads_url)s\">Faça o download do Hearthstone Deck Tracker</a> e reivindique sua conta de lá!"
 
 #: templates/account/api.html:19
 msgid "The following tokens can be used to upload your games. Keep them private!"
-msgstr ""
+msgstr "Os seguintes IDs podem ser usados para carregar seus jogos. Mantenha-os seguros!"
 
 #: templates/account/api.html:22
 msgid "Application"
@@ -233,11 +233,11 @@ msgstr ""
 
 #: templates/account/api.html:70
 msgid "UUID"
-msgstr ""
+msgstr "UUID"
 
 #: templates/account/api.html:71
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: templates/account/api.html:72
 msgid "Active"
@@ -245,7 +245,7 @@ msgstr ""
 
 #: templates/account/api.html:88
 msgid "New webhook…"
-msgstr ""
+msgstr "Novo webhook…"
 
 #: templates/account/base.html:12
 msgid "Settings"
@@ -257,17 +257,17 @@ msgstr "E-mail"
 
 #: templates/account/base.html:15
 msgid "Billing"
-msgstr ""
+msgstr "Pagamento"
 
 #: templates/account/base.html:17 web/views/dashboard.py:80
 msgid "API Access"
-msgstr ""
+msgstr "Acesso à API"
 
 #: templates/account/base.html:18
 msgid "OAuth Apps"
-msgstr ""
+msgstr "Aplicativos OAuth"
 
-#: templates/account/base.html:20 templates/account/login.html:70
+#: templates/account/base.html:20 templates/account/login.html:69
 #: templates/account/signup.html:33
 msgid "Password"
 msgstr "Senha"
@@ -292,7 +292,7 @@ msgstr ""
 
 #: templates/account/delete_replays.html:9
 msgid "Are you sure?"
-msgstr ""
+msgstr "Você tem certeza disso?"
 
 #: templates/account/delete_replays.html:10
 msgid "Deleting your replays will unlink them from your account and make any previously-shared replay URL inaccessible."
@@ -304,7 +304,7 @@ msgstr ""
 
 #: templates/account/delete_replays.html:18
 msgid "Cancel"
-msgstr ""
+msgstr "Cancelar"
 
 #: templates/account/email.html:6
 msgid "Email Addresses"
@@ -320,7 +320,7 @@ msgstr ""
 
 #: templates/account/email.html:33
 msgid "Make Primary"
-msgstr ""
+msgstr "Tornar principal"
 
 #: templates/account/email.html:42 templates/socialaccount/connections.html:53
 msgid "Remove"
@@ -352,7 +352,7 @@ msgstr ""
 
 #: templates/account/email.html:91
 msgid "Save"
-msgstr ""
+msgstr "Salvar"
 
 #: templates/account/email.html:99
 #, python-format
@@ -368,40 +368,58 @@ msgid "Hello %(user)s!\n\n"
 "If this was not you, you can simply ignore this email.\n\n"
 "Cheers,\n"
 "The HSReplay.net Team\n"
-msgstr ""
+msgstr "Olá, %(user)s!\n\n"
+"Você adicionou este email à sua conta. Precisamos que você verifique que é seu.\n\n"
+"Se estiver de acordo, vá para o link à seguir em até 3 dias para confirmar:\n\n"
+"%(activate_url)s\n\n"
+"Se não foi você que se cadastrou no site, por favor ignore este email.\n\n"
+"Atenciosamente,\n"
+"Equipe HSReplay.net\n"
 
 #: templates/account/login.html:14
 #, python-format
 msgid "Log in to continue to %(oauth2_client)s"
-msgstr ""
+msgstr "Logue-se para continuar para %(oauth2_client)s"
 
 #: templates/account/login.html:19
-msgid "We'll send you to the official Blizzard site where you can securely log in.<br/> Blizzard will redirect you back here once you're done."
+msgid "We'll send you to the official Blizzard site where you can securely log in."
 msgstr ""
 
-#: templates/account/login.html:31
+#: templates/account/login.html:21
+msgid "Blizzard will redirect you back here once you're done."
+msgstr ""
+
+#: templates/account/login.html:30
 msgid "Log in with Blizzard"
 msgstr ""
 
-#: templates/account/login.html:35
+#: templates/account/login.html:34
 msgid "Region"
 msgstr "Região"
 
-#: templates/account/login.html:49
+#: templates/account/login.html:36
+msgid "US / EU / SEA"
+msgstr ""
+
+#: templates/account/login.html:41
+msgid "China (CN)"
+msgstr ""
+
+#: templates/account/login.html:48
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
 msgstr ""
 
-#: templates/account/login.html:59
+#: templates/account/login.html:58
 msgid "Not using a Blizzard account? Sign in with your username and password here."
 msgstr ""
 
-#: templates/account/login.html:69 templates/account/signup.html:27
+#: templates/account/login.html:68 templates/account/signup.html:27
 msgid "Username"
 msgstr "Nome de usuário"
 
-#: templates/account/login.html:73
+#: templates/account/login.html:72
 msgid "Log in"
-msgstr ""
+msgstr "Logar"
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
@@ -426,15 +444,15 @@ msgstr ""
 
 #: templates/account/signup.html:8 templates/account/signup.html:39
 msgid "Sign up"
-msgstr ""
+msgstr "Cadastre-se"
 
 #: templates/account/signup.html:10
 msgid "To sign up to HSReplay.net, use your Blizzard account."
-msgstr ""
+msgstr "Para se cadastrar no HSReplay.net, use sua conta Blizzard."
 
 #: templates/account/signup.html:16
 msgid "Alternatively, sign up with an email and password."
-msgstr ""
+msgstr "Ou cadastre-se utilizando um email e senha."
 
 #: templates/account/signup.html:30
 msgid "Email address"
@@ -504,7 +522,7 @@ msgstr ""
 
 #: templates/footer.html:52
 msgid "Contact"
-msgstr ""
+msgstr "Contato"
 
 #: templates/footer.html:58
 msgid "About Us"
@@ -544,7 +562,7 @@ msgstr ""
 
 #: templates/navigation.html:50
 msgid "Meta"
-msgstr ""
+msgstr "Meta"
 
 #: templates/navigation.html:57
 msgid "Decks"
@@ -580,7 +598,7 @@ msgstr ""
 
 #: templates/socialaccount/connections.html:44
 msgid "Primary account"
-msgstr ""
+msgstr "Conta principal"
 
 #: templates/socialaccount/connections.html:62
 msgid "You currently have no social network accounts connected to this account."
@@ -596,7 +614,7 @@ msgstr ""
 
 #: web/views/archetypes.py:16
 msgid "Hearthstone Meta"
-msgstr ""
+msgstr "Meta do Hearthstone"
 
 #: web/views/archetypes.py:18
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
@@ -608,7 +626,7 @@ msgstr ""
 
 #: web/views/archetypes.py:41
 msgid "Archetype"
-msgstr ""
+msgstr "Arquétipo"
 
 #: web/views/archetypes.py:46
 msgid "This archetype is no longer available."
@@ -624,7 +642,7 @@ msgstr ""
 
 #: web/views/cards.py:36
 msgid "My Cards"
-msgstr ""
+msgstr "Minhas cartas"
 
 #: web/views/cards.py:102
 msgid "No card found matching the query."
@@ -640,7 +658,7 @@ msgstr ""
 
 #: web/views/dashboard.py:32
 msgid "My Account"
-msgstr ""
+msgstr "Minha conta"
 
 #: web/views/dashboard.py:92
 msgid "Delete Account"
@@ -734,5 +752,5 @@ msgstr ""
 
 #: web/views/replays.py:149
 msgid "Uploading replay…"
-msgstr ""
+msgstr "Carregando replay…"
 
