@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-24 01:40+0000\n"
-"PO-Revision-Date: 2018-07-24 05:34\n"
+"PO-Revision-Date: 2018-07-24 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -300,7 +300,7 @@ msgstr "Das Löschen deiner Aufzeichnungen wird sie aus deinem Konto entfernen u
 
 #: templates/account/delete_replays.html:12
 msgid "Your personal statistics will not be reset. Are you sure you want to proceed?"
-msgstr "Deine persönlichen Statistiken werden nicht zurückgesetzt. Bist du sicher, dass du fortfahren möchtest?"
+msgstr "Deine personalisierten Statistiken werden nicht zurückgesetzt. Bist du sicher dass du fortfahren möchtest?"
 
 #: templates/account/delete_replays.html:18
 msgid "Cancel"
