@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-23 01:40+0000\n"
-"PO-Revision-Date: 2018-07-23 12:40\n"
+"PO-Revision-Date: 2018-07-24 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -34,7 +34,7 @@ msgstr ""
 
 #: billing/views.py:317
 msgid "Your subscription has expired."
-msgstr ""
+msgstr "Votre abonnement a expiré."
 
 #: billing/views.py:323
 msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
@@ -42,7 +42,7 @@ msgstr ""
 
 #: billing/views.py:327
 msgid "You are already subscribed!"
-msgstr ""
+msgstr "Vous êtes déjà abonné !"
 
 #: billing/views.py:355
 msgid "Could not process subscription."
@@ -130,7 +130,7 @@ msgstr ""
 
 #: billing/views.py:593
 msgid "Invalid Paypal plan."
-msgstr ""
+msgstr "Plan Paypal invalide."
 
 #: settings.py:315
 msgid "Full access to your HSReplay.net account"
@@ -178,7 +178,7 @@ msgstr ""
 
 #: templates/account/account_inactive.html:6
 msgid "Account inactive"
-msgstr ""
+msgstr "Compte inactif"
 
 #: templates/account/account_inactive.html:9
 #, python-format
@@ -187,7 +187,7 @@ msgstr ""
 
 #: templates/account/api.html:7
 msgid "Authentication Tokens"
-msgstr ""
+msgstr "Jetons d'authentification"
 
 #: templates/account/api.html:12
 #, python-format
@@ -204,11 +204,11 @@ msgstr ""
 
 #: templates/account/api.html:23
 msgid "Token"
-msgstr ""
+msgstr "Jeton"
 
 #: templates/account/api.html:24
 msgid "Created on"
-msgstr ""
+msgstr "Créé le"
 
 #: templates/account/api.html:45
 msgid "Webhooks"
@@ -249,15 +249,15 @@ msgstr ""
 
 #: templates/account/base.html:12
 msgid "Settings"
-msgstr ""
+msgstr "Paramètres"
 
 #: templates/account/base.html:13
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: templates/account/base.html:15
 msgid "Billing"
-msgstr ""
+msgstr "Facturation"
 
 #: templates/account/base.html:17 web/views/dashboard.py:80
 msgid "API Access"
@@ -270,7 +270,7 @@ msgstr ""
 #: templates/account/base.html:20 templates/account/login.html:69
 #: templates/account/signup.html:33
 msgid "Password"
-msgstr ""
+msgstr "Mot de passe"
 
 #: templates/account/base.html:22 templates/socialaccount/connections.html:9
 msgid "Connected accounts"
@@ -283,7 +283,7 @@ msgstr ""
 #: templates/account/base.html:27 templates/account/logout.html:6
 #: templates/account/logout.html:17
 msgid "Sign out"
-msgstr ""
+msgstr "Déconnexion"
 
 #: templates/account/delete_replays.html:6
 #: templates/account/delete_replays.html:19
@@ -292,7 +292,7 @@ msgstr ""
 
 #: templates/account/delete_replays.html:9
 msgid "Are you sure?"
-msgstr ""
+msgstr "Voulez-vous continuer ?"
 
 #: templates/account/delete_replays.html:10
 msgid "Deleting your replays will unlink them from your account and make any previously-shared replay URL inaccessible."
@@ -304,7 +304,7 @@ msgstr ""
 
 #: templates/account/delete_replays.html:18
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: templates/account/email.html:6
 msgid "Email Addresses"
@@ -332,7 +332,7 @@ msgstr "Ajouter une adresse e-mail"
 
 #: templates/account/email.html:73
 msgid "Notification settings"
-msgstr ""
+msgstr "Paramètres de notification"
 
 #: templates/account/email.html:77
 msgid "Control which types of emails you receive at your primary address."
@@ -340,11 +340,11 @@ msgstr ""
 
 #: templates/account/email.html:83
 msgid "Account & security (required)"
-msgstr ""
+msgstr "Compte & sécurité (obligatoire)"
 
 #: templates/account/email.html:84
 msgid "Billing (required)"
-msgstr ""
+msgstr "Facturation (obligatoire)"
 
 #: templates/account/email.html:87
 msgid "Product and feature announcements"
@@ -397,7 +397,7 @@ msgstr ""
 
 #: templates/account/login.html:41
 msgid "China (CN)"
-msgstr ""
+msgstr "Chine (CN)"
 
 #: templates/account/login.html:48
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
@@ -409,15 +409,15 @@ msgstr ""
 
 #: templates/account/login.html:68 templates/account/signup.html:27
 msgid "Username"
-msgstr ""
+msgstr "Nom d'utilisateur"
 
 #: templates/account/login.html:72
 msgid "Log in"
-msgstr ""
+msgstr "Connexion"
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
-msgstr ""
+msgstr "Êtes-vous certain de vouloir vous déconnecter?"
 
 #: templates/account/password_reset.html:11
 msgid "Password reset"
@@ -429,7 +429,7 @@ msgstr ""
 
 #: templates/account/password_reset.html:19
 msgid "Reset password"
-msgstr ""
+msgstr "Réinitialiser le mot de passe"
 
 #: templates/account/password_reset.html:25
 #, python-format
@@ -438,7 +438,7 @@ msgstr ""
 
 #: templates/account/signup.html:8 templates/account/signup.html:39
 msgid "Sign up"
-msgstr ""
+msgstr "Inscription"
 
 #: templates/account/signup.html:10
 msgid "To sign up to HSReplay.net, use your Blizzard account."
@@ -488,7 +488,7 @@ msgstr ""
 
 #: templates/footer.html:32
 msgid "Like us on Facebook"
-msgstr ""
+msgstr "Suivez-nous sur Facebook"
 
 #: templates/footer.html:42 templates/navigation.html:70
 msgid "Premium"
@@ -496,11 +496,11 @@ msgstr "Premium"
 
 #: templates/footer.html:43
 msgid "Downloads"
-msgstr ""
+msgstr "Téléchargements"
 
 #: templates/footer.html:44
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Confidentialité"
 
 #: templates/footer.html:45
 msgid "Terms of Service"
@@ -512,11 +512,11 @@ msgstr "Aide"
 
 #: templates/footer.html:51
 msgid "FAQ"
-msgstr ""
+msgstr "FAQ"
 
 #: templates/footer.html:52
 msgid "Contact"
-msgstr ""
+msgstr "Contacter"
 
 #: templates/footer.html:58
 msgid "About Us"
@@ -684,7 +684,7 @@ msgstr ""
 
 #: web/views/dashboard.py:253
 msgid "OAuth Applications"
-msgstr ""
+msgstr "Applications OAuth"
 
 #: web/views/dashboard.py:300
 msgid "Your OAuth Application"
@@ -700,20 +700,20 @@ msgstr ""
 
 #: web/views/decks.py:27
 msgid "My Decks"
-msgstr ""
+msgstr "Mes decks"
 
 #: web/views/decks.py:39
 msgid "Deck does not exist."
-msgstr ""
+msgstr "Le deck n'existe pas."
 
 #: web/views/decks.py:43
 msgid "Deck list is too small."
-msgstr ""
+msgstr "Le deck est trop petit."
 
 #: web/views/decks.py:57
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
-msgstr ""
+msgstr "{name} statistiques et cartes. Importez: {deckstring}"
 
 #: web/views/decks.py:73
 msgid "Trending Hearthstone Decks"
@@ -734,7 +734,7 @@ msgstr ""
 
 #: web/views/premium.py:21
 msgid "HSReplay.net Premium"
-msgstr ""
+msgstr "HSReplay.net Premium"
 
 #: web/views/premium.py:23
 msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
@@ -742,7 +742,7 @@ msgstr ""
 
 #: web/views/replays.py:18
 msgid "My Replays"
-msgstr ""
+msgstr "Mes replays"
 
 #: web/views/replays.py:149
 msgid "Uploading replay…"

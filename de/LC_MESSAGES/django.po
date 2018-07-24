@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-23 01:40+0000\n"
-"PO-Revision-Date: 2018-07-23 12:40\n"
+"PO-Revision-Date: 2018-07-24 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -42,7 +42,7 @@ msgstr "Dein aktuelles Abo ist noch aktiv. Bitte kontaktiere uns, falls du Zahlu
 
 #: billing/views.py:327
 msgid "You are already subscribed!"
-msgstr "Du bist bereits Abonnent!"
+msgstr "Du hast bereits ein Abo!"
 
 #: billing/views.py:355
 msgid "Could not process subscription."
@@ -142,7 +142,7 @@ msgstr "Zugriff auf Informationen über deine verknüpften sozialen Konten"
 
 #: settings.py:317
 msgid "View your Hearthstone card collection"
-msgstr ""
+msgstr "Betrachte deine Hearthstone-Kartensammlung"
 
 #: settings.py:318
 msgid "Upload your Hearthstone card collection to the site"
@@ -398,11 +398,11 @@ msgstr "Region"
 
 #: templates/account/login.html:36
 msgid "US / EU / SEA"
-msgstr ""
+msgstr "US / EU / SEA"
 
 #: templates/account/login.html:41
 msgid "China (CN)"
-msgstr ""
+msgstr "China (CN)"
 
 #: templates/account/login.html:48
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
