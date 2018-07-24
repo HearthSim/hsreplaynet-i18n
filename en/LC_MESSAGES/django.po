@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-19 10:18+0000\n"
+"POT-Creation-Date: 2018-07-24 05:36+0000\n"
 "PO-Revision-Date: 2018-03-14 11:15+0000\n"
 "Last-Translator: Jerome Leclanche <jerome@leclan.ch>\n"
 "Language-Team: English <contact@hearthsim.net>\n"
@@ -140,6 +140,50 @@ msgstr ""
 msgid "Invalid Paypal plan."
 msgstr ""
 
+#: settings.py:317
+msgid "Full access to your HSReplay.net account"
+msgstr ""
+
+#: settings.py:318
+msgid "Access information about your connected social accounts"
+msgstr ""
+
+#: settings.py:319
+msgid "View your Hearthstone card collection"
+msgstr ""
+
+#: settings.py:320
+msgid "Upload your Hearthstone card collection to the site"
+msgstr ""
+
+#: settings.py:321
+msgid "View your replays"
+msgstr ""
+
+#: settings.py:322
+msgid "Update and delete your replays"
+msgstr ""
+
+#: settings.py:323
+msgid "Access the Partner API"
+msgstr ""
+
+#: settings.py:324
+msgid "Read access to the tournaments service"
+msgstr ""
+
+#: settings.py:325
+msgid "Write access to the tournaments service"
+msgstr ""
+
+#: settings.py:326
+msgid "View your webhooks"
+msgstr ""
+
+#: settings.py:327
+msgid "Create and delete webhooks on your behalf"
+msgstr ""
+
 #: templates/account/account_inactive.html:6
 msgid "Account inactive"
 msgstr ""
@@ -242,7 +286,7 @@ msgstr ""
 msgid "OAuth Apps"
 msgstr ""
 
-#: templates/account/base.html:20 templates/account/login.html:70
+#: templates/account/base.html:20 templates/account/login.html:69
 #: templates/account/signup.html:33
 msgid "Password"
 msgstr ""
@@ -300,7 +344,7 @@ msgstr ""
 msgid "Make Primary"
 msgstr ""
 
-#: templates/account/email.html:42 templates/socialaccount/connections.html:56
+#: templates/account/email.html:42 templates/socialaccount/connections.html:53
 msgid "Remove"
 msgstr ""
 
@@ -366,32 +410,43 @@ msgstr ""
 #: templates/account/login.html:19
 msgid ""
 "We'll send you to the official Blizzard site where you can securely log in."
-"<br/> Blizzard will redirect you back here once you're done."
 msgstr ""
 
-#: templates/account/login.html:31
+#: templates/account/login.html:21
+msgid "Blizzard will redirect you back here once you're done."
+msgstr ""
+
+#: templates/account/login.html:30
 msgid "Log in with Blizzard"
 msgstr ""
 
-#: templates/account/login.html:35
+#: templates/account/login.html:34
 msgid "Region"
 msgstr ""
 
-#: templates/account/login.html:49
+#: templates/account/login.html:36
+msgid "US / EU / SEA"
+msgstr ""
+
+#: templates/account/login.html:41
+msgid "China (CN)"
+msgstr ""
+
+#: templates/account/login.html:48
 msgid ""
 "HSReplay.net never gains access to your Blizzard email address or password."
 msgstr ""
 
-#: templates/account/login.html:59
+#: templates/account/login.html:58
 msgid ""
 "Not using a Blizzard account? Sign in with your username and password here."
 msgstr ""
 
-#: templates/account/login.html:69 templates/account/signup.html:27
+#: templates/account/login.html:68 templates/account/signup.html:27
 msgid "Username"
 msgstr ""
 
-#: templates/account/login.html:73
+#: templates/account/login.html:72
 msgid "Log in"
 msgstr ""
 
@@ -577,15 +632,15 @@ msgid ""
 "You may log in with any connected Blizzard account."
 msgstr ""
 
-#: templates/socialaccount/connections.html:44
+#: templates/socialaccount/connections.html:41
 msgid "Make primary"
 msgstr ""
 
-#: templates/socialaccount/connections.html:47
+#: templates/socialaccount/connections.html:44
 msgid "Primary account"
 msgstr ""
 
-#: templates/socialaccount/connections.html:65
+#: templates/socialaccount/connections.html:62
 msgid ""
 "You currently have no social network accounts connected to this account."
 msgstr ""
