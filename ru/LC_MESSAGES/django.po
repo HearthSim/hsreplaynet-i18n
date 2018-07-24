@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-23 01:40+0000\n"
-"PO-Revision-Date: 2018-07-23 12:40\n"
+"POT-Creation-Date: 2018-07-24 01:40+0000\n"
+"PO-Revision-Date: 2018-07-24 05:35\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -132,47 +132,47 @@ msgstr "Не удалось определить схему оплаты."
 msgid "Invalid Paypal plan."
 msgstr "Недействительный план оплаты PayPal."
 
-#: settings.py:315
+#: settings.py:317
 msgid "Full access to your HSReplay.net account"
 msgstr "Полный доступ к вашей учетной записи HSReplay.net"
 
-#: settings.py:316
+#: settings.py:318
 msgid "Access information about your connected social accounts"
 msgstr "Доступ к списку ваших связанных учетных записей"
 
-#: settings.py:317
+#: settings.py:319
 msgid "View your Hearthstone card collection"
 msgstr "Просмотр вашей коллекции карт в Hearthstone"
 
-#: settings.py:318
+#: settings.py:320
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Загрузка вашей коллекции карт из Hearthstone на сайт"
 
-#: settings.py:319
+#: settings.py:321
 msgid "View your replays"
 msgstr "Просмотр ваших повторов"
 
-#: settings.py:320
+#: settings.py:322
 msgid "Update and delete your replays"
 msgstr "Изменение и удаление ваших повторов"
 
-#: settings.py:321
+#: settings.py:323
 msgid "Access the Partner API"
 msgstr "Доступ к партнерским API"
 
-#: settings.py:322
+#: settings.py:324
 msgid "Read access to the tournaments service"
 msgstr "Доступ на чтение к турнирным службам"
 
-#: settings.py:323
+#: settings.py:325
 msgid "Write access to the tournaments service"
 msgstr "Доступ на запись к турнирным службам"
 
-#: settings.py:324
+#: settings.py:326
 msgid "View your webhooks"
 msgstr "Просмотр ваших веб-хуков"
 
-#: settings.py:325
+#: settings.py:327
 msgid "Create and delete webhooks on your behalf"
 msgstr "Самостоятельно добавляйте и удаляйте веб-хуки"
 
