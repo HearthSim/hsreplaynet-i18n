@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-24 01:40+0000\n"
-"PO-Revision-Date: 2018-07-25 00:40\n"
+"POT-Creation-Date: 2018-07-25 01:40+0000\n"
+"PO-Revision-Date: 2018-07-25 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -378,11 +378,11 @@ msgstr "幸会，%(user)s！\n\n"
 
 #: templates/account/login.html:14
 #, python-format
-msgid "Log in to continue to %(oauth2_client)s"
-msgstr "登录后在%(oauth2_client)s继续"
+msgid "Sign in to continue to %(oauth2_client)s"
+msgstr ""
 
 #: templates/account/login.html:19
-msgid "We'll send you to the official Blizzard site where you can securely log in."
+msgid "We'll send you to the official Blizzard site where you can securely sign in."
 msgstr "我们会将您导向至官方暴雪网站，您可以放心登录。"
 
 #: templates/account/login.html:21
@@ -390,8 +390,8 @@ msgid "Blizzard will redirect you back here once you're done."
 msgstr "暴雪会在您完成后将您带回这里。"
 
 #: templates/account/login.html:30
-msgid "Log in with Blizzard"
-msgstr "使用暴雪账号登录"
+msgid "Sign in with Blizzard"
+msgstr ""
 
 #: templates/account/login.html:34
 msgid "Region"
@@ -418,8 +418,8 @@ msgid "Username"
 msgstr "用户名"
 
 #: templates/account/login.html:72
-msgid "Log in"
-msgstr "登录"
+msgid "Sign in"
+msgstr ""
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
@@ -589,7 +589,7 @@ msgid "Back to the office."
 msgstr "返回菜单"
 
 #: templates/socialaccount/connections.html:14
-msgid "The following social accounts are connected to your HSReplay.net account. You may log in with any connected Blizzard account."
+msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard account."
 msgstr "以下社交账户已和您的HSReplay.net账号关联。您也可以连接暴雪账号登录。"
 
 #: templates/socialaccount/connections.html:41

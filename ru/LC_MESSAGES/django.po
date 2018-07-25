@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-24 01:40+0000\n"
-"PO-Revision-Date: 2018-07-24 12:40\n"
+"POT-Creation-Date: 2018-07-25 01:40+0000\n"
+"PO-Revision-Date: 2018-07-25 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -378,11 +378,11 @@ msgstr "Привет, %(user)s!\n\n"
 
 #: templates/account/login.html:14
 #, python-format
-msgid "Log in to continue to %(oauth2_client)s"
+msgid "Sign in to continue to %(oauth2_client)s"
 msgstr "Войдите, чтобы продолжить %(oauth2_client)s"
 
 #: templates/account/login.html:19
-msgid "We'll send you to the official Blizzard site where you can securely log in."
+msgid "We'll send you to the official Blizzard site where you can securely sign in."
 msgstr "Мы перенаправим вас на официальный сайт Blizzard, где вы сможете безопасно авторизоваться."
 
 #: templates/account/login.html:21
@@ -390,7 +390,7 @@ msgid "Blizzard will redirect you back here once you're done."
 msgstr "Blizzard перенаправит вас обратно по завершении."
 
 #: templates/account/login.html:30
-msgid "Log in with Blizzard"
+msgid "Sign in with Blizzard"
 msgstr "Войти с учетной записью Blizzard"
 
 #: templates/account/login.html:34
@@ -418,7 +418,7 @@ msgid "Username"
 msgstr "Имя пользователя"
 
 #: templates/account/login.html:72
-msgid "Log in"
+msgid "Sign in"
 msgstr "Войти"
 
 #: templates/account/logout.html:10
@@ -589,7 +589,7 @@ msgid "Back to the office."
 msgstr "Вернуться на главную."
 
 #: templates/socialaccount/connections.html:14
-msgid "The following social accounts are connected to your HSReplay.net account. You may log in with any connected Blizzard account."
+msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard account."
 msgstr "Следующие учетные записи связаны с вашей учетной записью HSReplay.net. Вы можете войти с любой связанной учетной записью Blizzard."
 
 #: templates/socialaccount/connections.html:41
