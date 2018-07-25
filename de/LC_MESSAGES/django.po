@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-24 01:40+0000\n"
-"PO-Revision-Date: 2018-07-24 12:40\n"
+"PO-Revision-Date: 2018-07-25 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -382,7 +382,7 @@ msgstr "Anmelden, um bei %(oauth2_client)s fortzufahren"
 
 #: templates/account/login.html:19
 msgid "We'll send you to the official Blizzard site where you can securely log in."
-msgstr "Wir schicken dich zur offiziellen Blizzard-Seite, wo du dich sicher anmelden kannst.<br/>Blizzard schickt dich im Anschluss wieder hierhin zurück."
+msgstr "Wir schicken dich zur offiziellen Blizzard-Seite, wo du dich sicher anmelden kannst."
 
 #: templates/account/login.html:21
 msgid "Blizzard will redirect you back here once you're done."
