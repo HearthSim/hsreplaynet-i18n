@@ -6,8 +6,8 @@ preserve_hierarchy: true
 
 files:
 
-  - source: "/en/LC_MESSAGES/*.po"
-    translation: "/%locale%/LC_MESSAGES/%original_file_name%"
+  - source: "/hsreplaynet/django/en/LC_MESSAGES/*.po"
+    translation: "/hsreplaynet/django/%locale%/LC_MESSAGES/%original_file_name%"
     languages_mapping:
       locale:
         en: "en"
@@ -27,8 +27,29 @@ files:
         ja: "ja"
         th: "th"
 
-  - source: "/en/*.json"
-    translation: "/%locale%/%original_file_name%"
+  - source: "/archetypes/en/LC_MESSAGES/*.po"
+    translation: "/archetypes/%locale%/LC_MESSAGES/%original_file_name%"
+    languages_mapping:
+      locale:
+        en: "en"
+        en-GB: "en-gb"
+        fr: "fr"
+        de: "de"
+        ko: "ko"
+        es-ES: "es"
+        es-MX: "es-mx"
+        ru: "ru"
+        zh-TW: "zh-hant"
+        zh-CN: "zh-hans"
+        it: "it"
+        pl: "pl"
+        pt-BR: "pt-br"
+        pt-PT: "pt"
+        ja: "ja"
+        th: "th"
+
+  - source: "/hsreplaynet/frontend/en/*.json"
+    translation: "/hsreplaynet/frontend/%locale%/%original_file_name%"
     languages_mapping:
       locale:
         en: "en"

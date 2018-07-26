@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 
 let hearthstoneKeys = [];
-const hearthstoneDir = path.resolve(__dirname, "locale", "en", "hearthstone");
+const hearthstoneDir = path.resolve(__dirname, "hearthstone", "en");
 const filenames = fs.readdirSync(hearthstoneDir);
 for (const filename of filenames) {
 	const file = fs.readFileSync(path.resolve(hearthstoneDir, filename));
