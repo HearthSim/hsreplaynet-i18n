@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-25 01:40+0000\n"
-"PO-Revision-Date: 2018-07-25 12:41\n"
+"PO-Revision-Date: 2018-07-26 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -50,7 +50,7 @@ msgstr "Não foi possível processar a assinatura."
 
 #: billing/views.py:372
 msgid "Your card declined the charge. Please contact your bank for information."
-msgstr "Seu cartão recusou o pagamento. Por favor entre em contato com seu banco para informações."
+msgstr "Seu cartão recusou o pagamento. Por favor entre em contato com seu banco para mais informações."
 
 #: billing/views.py:374
 msgid "Your card does not support payments in USD. Please try a different card."
@@ -379,7 +379,7 @@ msgstr "Olá, %(user)s!\n\n"
 #: templates/account/login.html:14
 #, python-format
 msgid "Sign in to continue to %(oauth2_client)s"
-msgstr ""
+msgstr "Logar-se para continuar para %(oauth2_client)s"
 
 #: templates/account/login.html:19
 msgid "We'll send you to the official Blizzard site where you can securely sign in."
@@ -391,7 +391,7 @@ msgstr "Blizzard irá te redirecionar de volta pra cá quando estiver pronto."
 
 #: templates/account/login.html:30
 msgid "Sign in with Blizzard"
-msgstr ""
+msgstr "Logar com conta Blizzard"
 
 #: templates/account/login.html:34
 msgid "Region"
@@ -419,7 +419,7 @@ msgstr "Nome de usuário"
 
 #: templates/account/login.html:72
 msgid "Sign in"
-msgstr ""
+msgstr "Logar"
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
