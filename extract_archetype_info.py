@@ -33,7 +33,22 @@ def main():
 		entry = POEntry(
 			msgid=name,
 			msgstr="",
-			occurences=[("https://hsreplay.net" + url, "34")]
+			occurrences=[("https://hsreplay.net" + url, "")]
+		)
+		po.append(entry)
+
+	htd_r = requests.get("http://www.hearthstonetopdecks.com/wp-json/hsreplay/guides")
+	for archetype_desc in htd_r.json():
+		desc = archetype_desc.get("hsreplay_guide_snippet", "")
+		url = archetype_desc.get("url", "")
+
+		if not desc or not url:
+			continue
+
+		entry = POEntry(
+			msgid=desc,
+			msgstr="",
+			occurrences=[(url, "")]
 		)
 		po.append(entry)
 
