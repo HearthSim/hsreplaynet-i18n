@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-07-26 01:40+0000\n"
-"PO-Revision-Date: 2018-07-26 12:40\n"
+"PO-Revision-Date: 2018-07-26 13:14\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -78,7 +78,7 @@ msgstr ""
 
 #: billing/views.py:430
 msgid "You are not subscribed."
-msgstr ""
+msgstr "Vous n'êtes pas abonné."
 
 #: billing/views.py:445
 msgid "Your subscription cannot be canceled immediately."
@@ -200,7 +200,7 @@ msgstr ""
 
 #: templates/account/api.html:22
 msgid "Application"
-msgstr ""
+msgstr "Application"
 
 #: templates/account/api.html:23
 msgid "Token"
@@ -233,19 +233,19 @@ msgstr ""
 
 #: templates/account/api.html:70
 msgid "UUID"
-msgstr ""
+msgstr "UUID"
 
 #: templates/account/api.html:71
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: templates/account/api.html:72
 msgid "Active"
-msgstr ""
+msgstr "Actif"
 
 #: templates/account/api.html:88
 msgid "New webhook…"
-msgstr ""
+msgstr "Nouveau webhook…"
 
 #: templates/account/base.html:12
 msgid "Settings"
@@ -413,7 +413,7 @@ msgstr "Nom d'utilisateur"
 
 #: templates/account/login.html:72
 msgid "Sign in"
-msgstr ""
+msgstr "Connexion"
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
@@ -454,7 +454,7 @@ msgstr ""
 
 #: templates/account/signup.html:36
 msgid "Password (repeat)"
-msgstr ""
+msgstr "Mot de passe (confirmation)"
 
 #: templates/account/snippets/already_logged_in.html:3
 #, python-format
@@ -476,7 +476,7 @@ msgstr ""
 
 #: templates/footer.html:7
 msgid "Back to top"
-msgstr ""
+msgstr "Haut de page"
 
 #: templates/footer.html:20
 msgid "Follow us on Twitter"
@@ -524,15 +524,15 @@ msgstr "A propos"
 
 #: templates/footer.html:59
 msgid "Open source"
-msgstr ""
+msgstr "Open source"
 
 #: templates/footer.html:60
 msgid "Careers"
-msgstr ""
+msgstr "Carrières"
 
 #: templates/footer.html:61
 msgid "Press"
-msgstr ""
+msgstr "Presse"
 
 #: templates/footer.html:66
 msgid "This website is not affiliated with Blizzard Entertainment."
@@ -560,7 +560,7 @@ msgstr "Meta"
 
 #: templates/navigation.html:57
 msgid "Decks"
-msgstr ""
+msgstr "Decks"
 
 #: templates/navigation.html:64
 msgid "Cards"
@@ -688,7 +688,7 @@ msgstr "Applications OAuth"
 
 #: web/views/dashboard.py:300
 msgid "Your OAuth Application"
-msgstr ""
+msgstr "Votre application"
 
 #: web/views/decks.py:17
 msgid "Hearthstone Decks"
@@ -725,12 +725,12 @@ msgstr ""
 
 #: web/views/oauth2.py:46
 msgid "Access has been revoked."
-msgstr ""
+msgstr "L’accès a été révoqué."
 
 #: web/views/oauth2.py:80
 #, python-brace-format
 msgid "{count} access tokens deleted."
-msgstr ""
+msgstr "{count} jetons supprimés."
 
 #: web/views/premium.py:21
 msgid "HSReplay.net Premium"
