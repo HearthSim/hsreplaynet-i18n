@@ -7,11 +7,14 @@ from polib import POEntry, POFile
 
 
 def main():
-	po = POFile()
-	out_path = os.path.join(
-		os.path.dirname(__file__), "archetypes", "en", "LC_MESSAGES", "django.po"
+	out_dir = os.path.join(
+		os.path.dirname(__file__), "archetypes", "en", "LC_MESSAGES"
 	)
+	if not os.path.exists(out_dir):
+		os.makedirs(out_dir)
+	out_path = os.path.join(out_dir, "django.po")
 
+	po = POFile()
 	po.metadata = {
 		"Project-Id-Version": "hsreplaynet",
 		"Report-Msgid-Bugs-To": "",
