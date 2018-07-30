@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-07-29 01:40+0000\n"
+"POT-Creation-Date: 2018-07-30 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -280,7 +280,7 @@ msgstr ""
 msgid "Billing"
 msgstr ""
 
-#: templates/account/base.html:17 web/views/dashboard.py:80
+#: templates/account/base.html:17 web/views/dashboard.py:79
 msgid "API Access"
 msgstr ""
 
@@ -711,39 +711,39 @@ msgstr ""
 msgid "My Account"
 msgstr ""
 
-#: web/views/dashboard.py:92
+#: web/views/dashboard.py:91
 msgid "Delete Account"
 msgstr ""
 
-#: web/views/dashboard.py:117
+#: web/views/dashboard.py:116
 msgid "This account cannot be deleted."
 msgstr ""
 
-#: web/views/dashboard.py:145
+#: web/views/dashboard.py:144
 msgid "Your replays have been deleted."
 msgstr ""
 
-#: web/views/dashboard.py:180
+#: web/views/dashboard.py:179
 msgid "Could not make account primary."
 msgstr ""
 
-#: web/views/dashboard.py:200
+#: web/views/dashboard.py:199
 msgid "Your email preferences have been saved."
 msgstr ""
 
-#: web/views/dashboard.py:216
+#: web/views/dashboard.py:215
 msgid "Create a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:227
+#: web/views/dashboard.py:226
 msgid "Update a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:253
+#: web/views/dashboard.py:252
 msgid "OAuth Applications"
 msgstr ""
 
-#: web/views/dashboard.py:300
+#: web/views/dashboard.py:299
 msgid "Your OAuth Application"
 msgstr ""
 
@@ -808,6 +808,6 @@ msgstr ""
 msgid "My Replays"
 msgstr ""
 
-#: web/views/replays.py:149
+#: web/views/replays.py:147
 msgid "Uploading replay…"
 msgstr ""
