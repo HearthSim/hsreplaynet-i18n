@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-08T01:40:20.597844\n"
+"POT-Creation-Date: 2018-08-09T01:40:20.255984\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: ko\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2018-08-08 12:40\n"
+"PO-Revision-Date: 2018-08-09 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -552,6 +552,10 @@ msgstr ""
 msgid "Odd Warrior"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/247/mechathun-druid
+msgid "Mecha'thun Druid"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/228/resurrect-priest
 msgid "Resurrect Priest"
 msgstr ""
@@ -620,8 +624,32 @@ msgstr ""
 msgid "Emeriss Hunter"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/248/mech-hunter
+msgid "Mech Hunter"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/221/shudderwock-shaman
 msgid "Shudderwock Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/249/mech-paladin
+msgid "Mech Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/250/pogo-rogue
+msgid "Pogo Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/251/pain-warlock
+msgid "Pain Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/252/mechathun-warlock
+msgid "Mecha'thun Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/253/mech-warrior
+msgid "Mech Warrior"
 msgstr ""
 
 #: https://www.hearthstonetopdecks.com/decks/midrange-token-druid-deck-list-guide/

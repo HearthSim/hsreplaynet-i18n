@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-08T01:40:20.597844\n"
+"POT-Creation-Date: 2018-08-09T01:40:20.255984\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2018-08-08 12:40\n"
+"PO-Revision-Date: 2018-08-09 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -552,6 +552,10 @@ msgstr "奇数贼"
 msgid "Odd Warrior"
 msgstr "奇数战"
 
+#: https://hsreplay.net/archetypes/247/mechathun-druid
+msgid "Mecha'thun Druid"
+msgstr "机械克苏恩德"
+
 #: https://hsreplay.net/archetypes/228/resurrect-priest
 msgid "Resurrect Priest"
 msgstr "复活牧"
@@ -620,9 +624,33 @@ msgstr "魔块猎"
 msgid "Emeriss Hunter"
 msgstr "艾瑞莫斯猎"
 
+#: https://hsreplay.net/archetypes/248/mech-hunter
+msgid "Mech Hunter"
+msgstr "机械猎"
+
 #: https://hsreplay.net/archetypes/221/shudderwock-shaman
 msgid "Shudderwock Shaman"
 msgstr "战吼萨"
+
+#: https://hsreplay.net/archetypes/249/mech-paladin
+msgid "Mech Paladin"
+msgstr "机械骑"
+
+#: https://hsreplay.net/archetypes/250/pogo-rogue
+msgid "Pogo Rogue"
+msgstr "蹦蹦贼"
+
+#: https://hsreplay.net/archetypes/251/pain-warlock
+msgid "Pain Warlock"
+msgstr "自残术"
+
+#: https://hsreplay.net/archetypes/252/mechathun-warlock
+msgid "Mecha'thun Warlock"
+msgstr "机械克苏恩术"
+
+#: https://hsreplay.net/archetypes/253/mech-warrior
+msgid "Mech Warrior"
+msgstr "机械战"
 
 #: https://www.hearthstonetopdecks.com/decks/midrange-token-druid-deck-list-guide/
 msgid "Token Druid has been a long standing archetype in Hearthstone and it's one of the best Druid options right now. The deck is based around flooding the board with small, summoned minions (tokens), buffing them and bursting the opponent down."
@@ -670,7 +698,7 @@ msgstr "偶数萨是围绕场面展开的中速卡组，用buff来利用图腾�
 
 #: https://www.hearthstonetopdecks.com/decks/odd-paladin-deck-list-guide/
 msgid "Odd Paladin's main power is the upgraded Hero Power activated by Baku the Mooneater. The deck is built around flooding the board all the time - with 2x 1/1 Hero Power and a bunch of other ways to summon multiple small minions, the deck takes advantage of all kinds of AoE buffs, even cards that were only used in Basic decks before, such as Raid Leader or Stormwind Champion."
-msgstr "奇数骑的主要力量是噬月者巴库带来的技能升级，套牌是围绕在英雄技能可以额外召唤一个报告兵和一些其他方式来召唤报告兵，套牌有利于承受各种AOE，可以在被清场后迅速返场，甚至有些玩家带了团队领袖和暴风城勇士。"
+msgstr "奇数骑的强度主要来自于噬月者巴库的英雄技能升级。这套卡组围绕着铺场来构筑，英雄技能召唤的两个1/1与其他各种召唤大量小随从的手段使得卡组可以抵挡得住各式AoE效果，甚至有许多在基础卡组中才会使用到的卡牌都进入了构筑，例如团队领袖和暴风城勇士。"
 
 #: https://www.hearthstonetopdecks.com/decks/recruit-hunter-deck-list-guide/
 msgid "Centered around Kathrena Winterwisp (as well as Seeping Oozeling to copy her Deathrattle), Recruit Hunter can rip large minions from your deck directly into play. Given that Battlecries don't trigger when the minion is Recruited, the deck seeks to nullify the downsides of cards such as Witchwood Grizzly (losing health) and Charged Devilsaur (not being able to attack opponent's Hero on the first turn)."
