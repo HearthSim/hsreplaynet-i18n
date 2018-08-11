@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-09T01:40:20.255984\n"
+"POT-Creation-Date: 2018-08-11T01:40:20.517258\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2018-08-11 00:40\n"
+"PO-Revision-Date: 2018-08-11 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -46,7 +46,7 @@ msgstr "Мид шаман"
 
 #: https://hsreplay.net/archetypes/73/dragon-mage
 msgid "Dragon Mage"
-msgstr "Маг на драконах"
+msgstr "Драконо маг"
 
 #: https://hsreplay.net/archetypes/12/beast-druid
 msgid "Beast Druid"
@@ -58,7 +58,7 @@ msgstr "Малигос друид"
 
 #: https://hsreplay.net/archetypes/31/dragon-paladin
 msgid "Dragon Paladin"
-msgstr "Паладин на драконах"
+msgstr "Драконо паладин"
 
 #: https://hsreplay.net/archetypes/36/control-priest
 msgid "Control Priest"
@@ -94,7 +94,7 @@ msgstr "Квест паладин"
 
 #: https://hsreplay.net/archetypes/60/jade-shaman
 msgid "Jade Shaman"
-msgstr "Джейд шаман"
+msgstr "Нефритовый шаман"
 
 #: https://hsreplay.net/archetypes/9/aggro-hunter
 msgid "Aggro Hunter"
@@ -150,7 +150,7 @@ msgstr "Хэндлок"
 
 #: https://hsreplay.net/archetypes/1/freeze-mage
 msgid "Freeze Mage"
-msgstr "Фриз маг"
+msgstr "Ледяной маг"
 
 #: https://hsreplay.net/archetypes/136/highlander-warlock
 msgid "Highlander Warlock"
@@ -651,6 +651,14 @@ msgstr "Меха-К'Тун чернокнижник"
 #: https://hsreplay.net/archetypes/253/mech-warrior
 msgid "Mech Warrior"
 msgstr "Механо воин"
+
+#: https://hsreplay.net/archetypes/254/mechathun-priest
+msgid "Mecha'thun Priest"
+msgstr "Меха-К'Тун жрец"
+
+#: https://hsreplay.net/archetypes/255/mechathun-quest-priest
+msgid "Mecha'thun Quest Priest"
+msgstr "Меха-К'Тун квест жрец"
 
 #: https://www.hearthstonetopdecks.com/decks/midrange-token-druid-deck-list-guide/
 msgid "Token Druid has been a long standing archetype in Hearthstone and it's one of the best Druid options right now. The deck is based around flooding the board with small, summoned minions (tokens), buffing them and bursting the opponent down."
