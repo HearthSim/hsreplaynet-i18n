@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: fr\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2018-08-11 12:40\n"
+"PO-Revision-Date: 2018-08-12 00:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -166,7 +166,7 @@ msgstr "Voleur Malygos"
 
 #: https://hsreplay.net/archetypes/149/taunt-druid
 msgid "Taunt Druid"
-msgstr "Druide Provocation"
+msgstr "Druide provocations"
 
 #: https://hsreplay.net/archetypes/61/elemental-shaman
 msgid "Elemental Shaman"
@@ -182,7 +182,7 @@ msgstr "Prêtre élémentaires"
 
 #: https://hsreplay.net/archetypes/55/miracle-priest
 msgid "Miracle Priest"
-msgstr "Prêtre Miracle"
+msgstr "Prêtre miracle"
 
 #: https://hsreplay.net/archetypes/138/secret-hunter
 msgid "Secret Hunter"
@@ -194,7 +194,7 @@ msgstr "Paladin Exodia"
 
 #: https://hsreplay.net/archetypes/139/deathrattle-hunter
 msgid "Deathrattle Hunter"
-msgstr "Chasseur râle d'agonie"
+msgstr "Chasseur râles d'agonie"
 
 #: https://hsreplay.net/archetypes/137/midrange-hunter
 msgid "Midrange Hunter"
@@ -254,7 +254,7 @@ msgstr "Druide Invocatrice"
 
 #: https://hsreplay.net/archetypes/173/miracle-druid
 msgid "Miracle Druid"
-msgstr "Druide Miracle"
+msgstr "Druide miracle"
 
 #: https://hsreplay.net/archetypes/174/tempo-priest
 msgid "Tempo Priest"
@@ -310,7 +310,7 @@ msgstr "Démoniste cube"
 
 #: https://hsreplay.net/archetypes/198/deathrattle-rogue
 msgid "Deathrattle Rogue"
-msgstr "Voleur râle d'agonie"
+msgstr "Voleur râles d'agonie"
 
 #: https://hsreplay.net/archetypes/52/aggro-druid
 msgid "Aggro Druid"
@@ -350,7 +350,7 @@ msgstr "Prêtre combo"
 
 #: https://hsreplay.net/archetypes/77/mech-mage
 msgid "Mech Mage"
-msgstr "Mage mécas"
+msgstr "Mage méca"
 
 #: https://hsreplay.net/archetypes/210/hand-druid
 msgid "Hand Druid"
@@ -414,7 +414,7 @@ msgstr "Voleur élémentaires"
 
 #: https://hsreplay.net/archetypes/25/miracle-rogue
 msgid "Miracle Rogue"
-msgstr "Voleur Miracle"
+msgstr "Voleur miracle"
 
 #: https://hsreplay.net/archetypes/16/nzoth-paladin
 msgid "N'Zoth Paladin"
@@ -494,7 +494,7 @@ msgstr "Chaman tokens"
 
 #: https://hsreplay.net/archetypes/164/deathrattle-warrior
 msgid "Deathrattle Warrior"
-msgstr "Guerrier râle d'agonie"
+msgstr "Guerrier râles d'agonie"
 
 #: https://hsreplay.net/archetypes/179/spell-hunter
 msgid "Spell Hunter"
@@ -554,7 +554,7 @@ msgstr "Guerrier impair"
 
 #: https://hsreplay.net/archetypes/247/mechathun-druid
 msgid "Mecha'thun Druid"
-msgstr ""
+msgstr "Druide Méc'Thun"
 
 #: https://hsreplay.net/archetypes/228/resurrect-priest
 msgid "Resurrect Priest"
@@ -574,7 +574,7 @@ msgstr "Démoniste pair"
 
 #: https://hsreplay.net/archetypes/232/deathrattle-priest
 msgid "Deathrattle Priest"
-msgstr "Prêtre râle d'agonie"
+msgstr "Prêtre râles d'agonie"
 
 #: https://hsreplay.net/archetypes/233/otk-hunter
 msgid "OTK Hunter"
@@ -626,7 +626,7 @@ msgstr "Chasseur Emeriss"
 
 #: https://hsreplay.net/archetypes/248/mech-hunter
 msgid "Mech Hunter"
-msgstr ""
+msgstr "Chasseur méca"
 
 #: https://hsreplay.net/archetypes/221/shudderwock-shaman
 msgid "Shudderwock Shaman"
@@ -634,11 +634,11 @@ msgstr "Chaman Carniflore"
 
 #: https://hsreplay.net/archetypes/249/mech-paladin
 msgid "Mech Paladin"
-msgstr ""
+msgstr "Paladin méca"
 
 #: https://hsreplay.net/archetypes/250/pogo-rogue
 msgid "Pogo Rogue"
-msgstr ""
+msgstr "Voleur lapins"
 
 #: https://hsreplay.net/archetypes/251/pain-warlock
 msgid "Pain Warlock"
@@ -646,31 +646,31 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/252/mechathun-warlock
 msgid "Mecha'thun Warlock"
-msgstr ""
+msgstr "Démoniste Méc'Thun"
 
 #: https://hsreplay.net/archetypes/253/mech-warrior
 msgid "Mech Warrior"
-msgstr ""
+msgstr "Guerrier méca"
 
 #: https://hsreplay.net/archetypes/254/mechathun-priest
 msgid "Mecha'thun Priest"
-msgstr ""
+msgstr "Prêtre Méc'Thun"
 
 #: https://hsreplay.net/archetypes/255/mechathun-quest-priest
 msgid "Mecha'thun Quest Priest"
-msgstr ""
+msgstr "Prêtre quête Méc'Thun"
 
 #: https://www.hearthstonetopdecks.com/decks/midrange-token-druid-deck-list-guide/
 msgid "Token Druid has been a long standing archetype in Hearthstone and it's one of the best Druid options right now. The deck is based around flooding the board with small, summoned minions (tokens), buffing them and bursting the opponent down."
-msgstr "Druide token existe depuis longtemps et c’est l'un des meilleurs archétypes druide en ce moment. Le deck cherche à remplir le plateau de petites créatures (les tokens) puis les booster pour infliger des dommages à l'adversaire."
+msgstr "Le druide tokens existe depuis longtemps et c’est l'un des meilleurs archétypes druide du moment. Le deck cherche à remplir le plateau de petites créatures (les tokens) puis les améliorer pour infliger des dommages à l'adversaire."
 
 #: https://www.hearthstonetopdecks.com/decks/odd-rogue-deck-list-guide/
 msgid "Odd Rogue is the class’ latest tempo archetype that relies on Baku the Mooneater’s powerful ability to provide an extremely effective hero power alongside an aggressive package of cards to quickly close out games. It’s one of the strongest decks in the Witchwood metagame and one that can single-handedly get you to high ranks if you figure out its finicky little details in the more problematic matchups."
-msgstr "Voleur Impair est l'archétype le plus récent de voleur tempo. Il s'appuie sur Baku la Gobe-lune qui rend le pouvoir héroïque très puissant, ainsi que sur un ensemble de cartes agressives pour terminer la partie rapidement. C’est un des decks les plus forts dans la méta Bois Maudit, qui peut vous emmener très haut si vous comprenez les détails techniques importants dans les matchups les plus difficiles."
+msgstr "Voleur impair est l'archétype le plus récent de voleur tempo. Il s'appuie sur Baku la Gobe-lune qui rend le pouvoir héroïque très puissant, ainsi que sur un ensemble de cartes agressives pour terminer la partie rapidement. C’est un des decks les plus forts dans la méta Bois Maudit, qui peut vous emmener très haut si vous comprenez les détails techniques importants dans les matchups les plus difficiles."
 
 #: https://www.hearthstonetopdecks.com/decks/egg-cube-hunter-deck-list-guide/
 msgid "While Egg Cube Hunter or Deathrattle Hunter might look similar to another Hunter archetype, which got popular during this expansion - Recruit Hunter - in reality, these are vastly different archetypes. Recruit Hunter focuses on overwhelming the opponent with big minions dropped every turn starting from Turn 6, most notably Charged Devilsaur and King Krush to land a massive face hit right away. Egg Cube Hunter is a bit different. Instead, it wants to win the game through tempo gains from its Deathrattle minions and proccing them multiple times."
-msgstr "Même si le Chasseur œuf cube (ou chasseur Râle d'agonie) ressemble à un autre archétype de chasseur, devenu populaire avec le Bois Maudit (le Chasseur appel), ce sont en réalité des archétypes assez différents. Le Chasseur appel cherche à submerger l'adversaire de grosses créatures à partir du tour 6, notamment Diablosaure chargé et Roi Krush, pour infliger beaucoup de dégâts immédiats à l'adversaire. Le Chasseur œuf cube est un peu différent : il cherche à gagner grâce à la tempo venant des serviteurs avec râle d'agonie qu'il tente d'activer plusieurs fois."
+msgstr "Même si le Chasseur œuf cube (ou chasseur râles d'agonie) ressemble à un autre archétype de chasseur, devenu populaire avec le Bois Maudit (le Chasseur appel), ce sont en réalité des archétypes assez différents. Le Chasseur appel cherche à submerger l'adversaire de grosses créatures à partir du tour 6, notamment Diablosaure chargé et Roi Krush, pour infliger beaucoup de dégâts immédiats à l'adversaire. Le Chasseur œuf cube est un peu différent : il cherche à gagner grâce à la tempo venant des serviteurs avec râle d'agonie qu'il tente d'activer plusieurs fois."
 
 #: https://www.hearthstonetopdecks.com/decks/heal-zoo-warlock-deck-list-guide/
 msgid "While Zoo Warlock is a very old archetype, one of the Hearthstone's classic, players have tried a new approach to the deck late in The Witchwood meta. Zoo is naturally a deck that takes a lot of damage. Usually, it doesn't matter - if you're the aggressive one, your health total is not a big deal. There seemed to be no point in playing healing before. However, this build plays healing not only for the sake of gaining health, but also because of the synergies."
@@ -694,7 +694,7 @@ msgstr "On pourrait dire que l'histoire du Mage Big Spells a commencé après Un
 
 #: https://www.hearthstonetopdecks.com/decks/spell-hunter-deck-list-guide/
 msgid "Spell Hunter is a very unique archetype, in a way that it doesn't run any minions for the sake of cards such as To My Side! and Rhok'delar. The class still has multiple ways to flood the board or drop big bodies, but in order to do that, it uses spells (e.g. Emerald Spellstone) and a Hero card - Deathstalker Rexxar."
-msgstr "Chasseur worts est un archétype unique puisqu'il ne joue aucun serviteur afin que des cartes telles que À mes côtés et Rhok'delar s'activent. La classe a malgré cela de multiples façons de remplir le plateau ou de jouer de gros serviteurs, mais utilise pour cela des sorts (par exemple Émeraude de sort inférieure) et une carte héros, Rexxar le nécrotraqueur."
+msgstr "Chasseur sorts est un archétype unique puisqu'il ne joue aucun serviteur afin que des cartes telles que À mes côtés et Rhok'delar s'activent. La classe a malgré cela de multiples façons de remplir le plateau ou de jouer de gros serviteurs, mais utilise pour cela des sorts (par exemple Émeraude de sort inférieure) et une carte héros, Rexxar le nécrotraqueur."
 
 #: https://www.hearthstonetopdecks.com/decks/even-warlock-handlock-deck-guide-witchwood/
 msgid "Even Warlock is a new version of Handlock, a classic deck that got its name from massive hand sizes it could attain easily thanks to the Warlock's Hero Power - Life Tap - and Genn Greymane made it even easier to do so. Thanks to that hand size, Even Warlock can play big threats such as Mountain Giant or Twilight Drake as early as Turn 4, overwhelming most of the meta decks with the sheer amount of stats it places on the board each turn."
@@ -702,7 +702,7 @@ msgstr "Démoniste pair est une nouvelle version de démoniste Handlock, un deck
 
 #: https://www.hearthstonetopdecks.com/decks/even-shaman-deck-guide/
 msgid "Even Shaman is a board-centric midrange deck that uses buffs to make use of the Totem boards it is able to build, and also makes good use of Charge minions to get even more value from its buffs. It is ready to fight for the board against any other deck and can deliver a lot of damage quickly if left uncontested."
-msgstr "Chaman pair est un deck midrange centré sur le plateau, qui utilise des buffs pour rendre utiles les plateaux de totems qu'il est capable de construire, et utilise des serviteurs avec charge pour tirer encore plus profit de ces buffs. Il est prêt à se battre pour le board contre n'importe quel autre deck et peut rapidement infliger beaucoup de dégâts s'il n'est pas géré."
+msgstr "Chaman pair est un deck midrange centré sur le plateau, qui utilise des buffs pour rendre utiles les plateaux de totems qu'il est capable de construire, et utilise des serviteurs avec charge pour tirer encore plus profit de ces buffs. Il est prêt à se battre pour le plateau contre n'importe quel autre deck et peut rapidement infliger beaucoup de dégâts s'il n'est pas géré."
 
 #: https://www.hearthstonetopdecks.com/decks/odd-paladin-deck-list-guide/
 msgid "Odd Paladin's main power is the upgraded Hero Power activated by Baku the Mooneater. The deck is built around flooding the board all the time - with 2x 1/1 Hero Power and a bunch of other ways to summon multiple small minions, the deck takes advantage of all kinds of AoE buffs, even cards that were only used in Basic decks before, such as Raid Leader or Stormwind Champion."
@@ -722,7 +722,7 @@ msgstr "Le Druide Malygos est un deck combo construit autour de son éponyme, Ma
 
 #: https://www.hearthstonetopdecks.com/decks/quest-warrior-deck-list-guide-witchwood/
 msgid "Quest Warrior's main game plan is to play defensively throughout the early and mid game, dropping Taunt after Taunt to finish the Quest. Quest's reward turns your Hero Power into \"Deal 8 damage to a random enemy\" - so at the cost of 2 mana per turn, you basically become a Ragnaros the Firelord for the rest of the game. Clearing a minion or dealing 8 damage to the opponent every turn becomes your main win condition."
-msgstr "Le plan de jeu principal du Guerrier quête est de jouer de manière défensive early et mid-game, posant provocation après provocation pour terminer la quête. Sa récompense transforme votre pouvoir héroïque en « Inflige 8 points de dégâts à un adversaire aléatoire ». Ainsi, pour 2 mana par tour, vous devenez virtuellement Ragnaros, le seigneur du feu pour le reste de la partie. Tuer un serviteur ou infliger 8 dégâts à l'adversaire à chaque tour devient votre principale condition de victoire."
+msgstr "Le plan de jeu principal du Guerrier quête est de jouer de manière défensive en début et en milieu de partie, posant provocation après provocation pour terminer la quête. Sa récompense transforme votre pouvoir héroïque en « Inflige 8 points de dégâts à un adversaire aléatoire ». Ainsi, pour 2 mana par tour, vous devenez virtuellement Ragnaros, seigneur du feu pour le reste de la partie. Tuer un serviteur ou infliger 8 dégâts à l'adversaire à chaque tour devient votre principale condition de victoire."
 
 #: https://www.hearthstonetopdecks.com/decks/miracle-rogue-deck-list-guide-standard/
 msgid "Miracle Rogue has changed many times since its inception, and the original concept of growing minions comes and goes, but many features of Miracle decks have remained the same, especially their heavy emphasis on card draw and swing turns. The deck is all about cycling (Gadgetzan Auctioneer or Sprint) and swinging the tempo in many ways (clearing big minions, flooding the board etc.), thanks to the cards like Sap, Vilespine Slayer, Edwin VanCleef or Fal'dorei Strider."
@@ -738,7 +738,7 @@ msgstr "Démoniste Cube est un archétype lent, apparu pour la première fois av
 
 #: https://www.hearthstonetopdecks.com/decks/combo-priest-deck-list-guide-standard/
 msgid "Priest's Divine Spirit + Inner Fire shenanigans are as old as the game itself, but they have spawned the first viable builds only after Radiant Elemental and Shadow Visions were printed in Journey to Un'Goro. In Year of the Raven, there is no universally accepted build, and the deck has lots of clear weaknesses, but it's still possible to snatch some wins thanks to the massive minions you can build during the early and mid game."
-msgstr "Les combos avec Esprit divin + Feu intérieur sont aussi anciennes que le jeu lui-même, mais les premiers decks vraiment sont apparus avec Élémentaire radieux et Visions de l'Ombre dans Un'Goro. Il n'y a pas de liste universellement adoptée, et le deck présente de nombreuses faiblesses évidentes, mais il est toujours possible de gagner grâce aux gros serviteurs que vous pouvez construire en début et en milieu de partie."
+msgstr "Les combos avec Esprit divin + Feu intérieur sont aussi anciennes que le jeu lui-même, mais les premiers decks viables ne sont apparus qu'avec Élémentaire radieux et Visions de l'Ombre dans Un'Goro. Il n'y a pas de liste universellement adoptée, et le deck présente de nombreuses faiblesses évidentes, mais il est toujours possible de gagner grâce aux gros serviteurs que vous pouvez construire en début et en milieu de partie."
 
 #: https://www.hearthstonetopdecks.com/decks/midrange-hunter-deck-list-guide/
 msgid "Midrange Hunter is one of the oldest archetypes in Hearthstone, it was present in nearly every meta in one form or the other, but always with a similar basic strategy and Beast synergies. Current version is often called Hybrid Hunter, because the build is something between the classic Aggro and Midrange versions, dropping some of the late game minions and focusing more on the early and mid game pressure."
@@ -746,11 +746,11 @@ msgstr "Chasseur Midrange est l'un des plus anciens archétypes d'Hearthstone, i
 
 #: https://www.hearthstonetopdecks.com/decks/aggro-tempo-rogue-deck-list-guide-standard/
 msgid "Tempo Rogue is an aggressive Rogue deck. It is not a pure face deck, but rather seeks to establish board control, push damage with minions, and optionally end the game with a burst finish of up to 20 points of damage, but more often closer to 10 points of damage."
-msgstr "Voleur tempo est un deck agressif. Ce n'est pas un deck qui va toujours attaquer le héros adverse, mais essaie plutôt d'établir un contrôle de board, d'infliger des dommages avec ses serviteurs et souvent de terminer la partie avec un grand nombre de dégâts sur le board."
+msgstr "Voleur tempo est un deck agressif. Ce n'est pas un deck qui va toujours attaquer le héros adverse, mais essaie plutôt d'établir un contrôle du plateau, d'infliger des dommages avec ses serviteurs et souvent de terminer la partie avec un burst jusqu'à 20 points de dégâts, mais en général plus proche de 10."
 
 #: https://www.hearthstonetopdecks.com/decks/odd-face-hunter-deck-list-guide/
 msgid "Baku Odd Face Hunter, or just Face Hunter, is the most aggressive deck on the ladder right now. It's a revival of a very old Hearthstone deck - Hunter was always known for its aggression, thanks to the Hero Power and cards that let you deal additional damage on top of that (such as Kill Command or Eaglehorn Bow). With the introduction of Baku the Mooneater, the build is now able to deal 3 damage every turn instead of 2 thanks to the upgraded Hero Power."
-msgstr "Le Chasseur Face Baku (aussi appelé Chasseur Face ou Chasseur Impair) est le deck le plus agressif en ce moment. C'est le renouveau d'un deck très ancien (chasseur a toujours été tourné vers l'agression de par son pouvoir héroïque mais aussi des cartes comme Ordre de tuer). Avec l'apparition de Baku la Gobe-lune, la version est capable d'infliger 3 dégâts par tour à la place de 2 grâce au pouvoir héroïque amélioré."
+msgstr "Le Chasseur Face Baku (aussi appelé Chasseur Face ou Chasseur impair) est le deck le plus agressif en mode classé actuellement. C'est la renaissance d'un deck très ancien (chasseur a toujours été tourné vers l'agression de par son pouvoir héroïque mais aussi des cartes comme Ordre de tuer ou Arc cornedaigle). Avec l'apparition de Baku la Gobe-lune, la version est capable d'infliger 3 dégâts par tour au lieu de 2 grâce au pouvoir héroïque amélioré."
 
 #: https://www.hearthstonetopdecks.com/decks/spiteful-priest-deck-list-guide/
 msgid "Spiteful Priest sacrifices all of the cheap spells and plays only two expensive ones - Free from Amber and Mind Control. Thanks to that, both Spiteful Summoner and Grand Archivist (two of the deck's main win conditions) always pull a big spell for their powerful effects."
@@ -758,9 +758,9 @@ msgstr "Le Prêtre Invocatrice (Prêtre Spiteful) ne joue que 2 sorts de coût �
 
 #: https://www.hearthstonetopdecks.com/decks/control-warlock-deck-list-guide/
 msgid "Demon Control Warlock is a deck first created in Kobolds & Catacombs, which shares a lot of similarities with Cube Warlock - both rely on cheating out bigger minions early, as well as massive late game tempo swing with Bloodreaver Gul'dan. However, unlike Cube Warlock, Control version takes a much more reactive route, switching out threats for removals. The deck was hurt heavily by the Witchwood nerf patch, but some players are still trying to keep it alive."
-msgstr "Le Démoniste Contrôle Démons est un deck apparu avec Kobolds et Catacombes. Il partage de nombreuses similitudes avec le Démoniste Cube - les deux cherchent à mettre des gros serviteurs tôt dans la partie, mais aussi en ramener beaucoup avec Gul'dan le saccage-sang. Cependant, contrairement à Démoniste Cube, il prend un chemin beaucoup plus réactif, avec moins de menaces et plus de removals. Le deck a été nerfé, mais certains joueurs essaient toujours de le maintenir en vie."
+msgstr "Le Démoniste Contrôle Démons est un deck apparu avec Kobolds et Catacombes. Il partage de nombreuses similitudes avec le Démoniste Cube - les deux cherchent à mettre des gros serviteurs tôt dans la partie, mais aussi en ramener beaucoup avec Gul'dan le saccage-sang. Cependant, contrairement à Démoniste Cube, il prend un chemin beaucoup plus réactif, avec moins de menaces et plus de removals. Le deck a été nerfé avec le patch du Bois Maudit, mais certains joueurs essaient malgré tout de le maintenir en vie."
 
 #: https://www.hearthstonetopdecks.com/?post_type=revision&p=101281
 msgid "Odd Paladin's main power is the upgraded Hero Power activated by Baku the Mooneater. The deck is built around flooding the board all the time - with 2x 1/1 Hero Power and a bunch of other ways to summon multiple small minions, the deck takes advantage of all kinds of AoE buffs, even cards that were only used in Basic decks before, such as Raid Leader or Stormwind Champion."
-msgstr ""
+msgstr "L'atout principal du paladin impair, c’est son pouvoir héroïque amélioré par Baku la Gobe-lune. Le deck cherche à remplir le plateau en permanence, avec les doubles recrues 1/1 du pouvoir héroïque et un tas d’autres façons d’invoquer plusieurs petits serviteurs. Le deck profite de toutes sortes de buffs de zone, et même de cartes qui n'ont été utilisées que dans des decks de base auparavant comme Chef de raid ou Champion de Hurlevent."
 
