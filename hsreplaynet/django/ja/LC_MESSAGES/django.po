@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-01 01:40+0000\n"
-"PO-Revision-Date: 2018-08-15 00:40\n"
+"POT-Creation-Date: 2018-08-15 01:40+0000\n"
+"PO-Revision-Date: 2018-08-15 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -718,16 +718,20 @@ msgstr ""
 msgid "Deck list is too small."
 msgstr ""
 
-#: web/views/decks.py:57
+#: web/views/decks.py:47
+msgid "Deck list contains uncollectible cards."
+msgstr ""
+
+#: web/views/decks.py:61
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr ""
 
-#: web/views/decks.py:73
+#: web/views/decks.py:77
 msgid "Trending Hearthstone Decks"
 msgstr ""
 
-#: web/views/decks.py:75
+#: web/views/decks.py:79
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr ""
 

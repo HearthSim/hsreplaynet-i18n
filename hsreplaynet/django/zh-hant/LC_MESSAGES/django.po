@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-01 01:40+0000\n"
-"PO-Revision-Date: 2018-08-14 12:40\n"
+"POT-Creation-Date: 2018-08-15 01:40+0000\n"
+"PO-Revision-Date: 2018-08-15 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -727,16 +727,20 @@ msgstr "套牌不存在。"
 msgid "Deck list is too small."
 msgstr "套牌清單太少。"
 
-#: web/views/decks.py:57
+#: web/views/decks.py:47
+msgid "Deck list contains uncollectible cards."
+msgstr ""
+
+#: web/views/decks.py:61
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "{name} 數據和套牌。 導入它: {deckstring}"
 
-#: web/views/decks.py:73
+#: web/views/decks.py:77
 msgid "Trending Hearthstone Decks"
 msgstr "趨勢中爐石套牌"
 
-#: web/views/decks.py:75
+#: web/views/decks.py:79
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "看看每天最新最人氣的各職業套牌。"
 
