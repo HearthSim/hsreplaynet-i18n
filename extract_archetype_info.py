@@ -53,6 +53,11 @@ def main():
 			msgstr="",
 			occurrences=[(url, "")]
 		)
+
+		if entry in po:
+			# upstream duplicate
+			continue
+
 		po.append(entry)
 
 	po.save(out_path)
