@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-07 01:40+0000\n"
+"POT-Creation-Date: 2018-08-15 20:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -689,7 +689,7 @@ msgstr ""
 msgid "This archetype is no longer available."
 msgstr ""
 
-#: web/views/cards.py:23 web/views/cards.py:111
+#: web/views/cards.py:23 web/views/cards.py:108
 msgid "Hearthstone Card Statistics"
 msgstr ""
 
@@ -703,16 +703,24 @@ msgstr ""
 msgid "My Cards"
 msgstr ""
 
-#: web/views/cards.py:102
+#: web/views/cards.py:99
 msgid "No card found matching the query."
 msgstr ""
 
-#: web/views/cards.py:121
+#: web/views/cards.py:118
 msgid "Statistics and decks!"
 msgstr ""
 
-#: web/views/cards.py:147
+#: web/views/cards.py:144
 msgid "Hearthstone Card Editor"
+msgstr ""
+
+#: web/views/collections.py:10
+msgid "My Collection"
+msgstr ""
+
+#: web/views/collections.py:23
+msgid "Collection"
 msgstr ""
 
 #: web/views/dashboard.py:32
@@ -777,16 +785,20 @@ msgstr ""
 msgid "Deck list is too small."
 msgstr ""
 
-#: web/views/decks.py:57
+#: web/views/decks.py:47
+msgid "Deck list contains uncollectible cards."
+msgstr ""
+
+#: web/views/decks.py:61
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr ""
 
-#: web/views/decks.py:73
+#: web/views/decks.py:77
 msgid "Trending Hearthstone Decks"
 msgstr ""
 
-#: web/views/decks.py:75
+#: web/views/decks.py:79
 msgid ""
 "Find the up-and-coming decks with rising popularity in Hearthstone for each "
 "class updated every single day."
