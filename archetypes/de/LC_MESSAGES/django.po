@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-15T20:20:50.683860\n"
+"POT-Creation-Date: 2018-08-17T01:40:21.053787\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: de\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-08-16 12:40\n"
+"PO-Revision-Date: 2018-08-17 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -39,10 +39,6 @@ msgstr "N'Zoth-Priester"
 #: https://hsreplay.net/archetypes/29/nzoth-rogue
 msgid "N'Zoth Rogue"
 msgstr "N'Zoth-Schurke"
-
-#: https://hsreplay.net/archetypes/26/mid-range-shaman
-msgid "Mid-Range Shaman"
-msgstr ""
 
 #: https://hsreplay.net/archetypes/73/dragon-mage
 msgid "Dragon Mage"
@@ -658,6 +654,10 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/255/mechathun-quest-priest
 msgid "Mecha'thun Quest Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/26/midrange-shaman
+msgid "Midrange Shaman"
 msgstr ""
 
 #: https://www.hearthstonetopdecks.com/decks/midrange-token-druid-deck-list-guide/
