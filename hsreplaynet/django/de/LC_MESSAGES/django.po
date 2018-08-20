@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-17 01:40+0000\n"
-"PO-Revision-Date: 2018-08-19 12:40\n"
+"PO-Revision-Date: 2018-08-20 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -70,7 +70,7 @@ msgstr "Deine Kreditkarte wurde abgelehnt, sie wurde nicht belastet. Bitte versu
 
 #: billing/views.py:401
 msgid "You are now subscribed!"
-msgstr ""
+msgstr "Du bist jetzt Abonnent!"
 
 #: billing/views.py:410
 msgid " Please contact us if you are receiving this in error."
@@ -678,7 +678,7 @@ msgstr "Sammlung"
 #: web/views/collections.py:37
 #, python-brace-format
 msgid "{user}'s Hearthstone Collection"
-msgstr ""
+msgstr "{user}'s Hearthstone-Sammlung"
 
 #: web/views/dashboard.py:32
 msgid "My Account"
@@ -742,7 +742,7 @@ msgstr "Deckliste ist zu klein."
 
 #: web/views/decks.py:47
 msgid "Deck list contains uncollectible cards."
-msgstr ""
+msgstr "Deckliste enthält nicht-sammelbare Karten."
 
 #: web/views/decks.py:61
 #, python-brace-format

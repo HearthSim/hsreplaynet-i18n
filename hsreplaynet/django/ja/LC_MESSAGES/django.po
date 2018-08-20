@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-17 01:40+0000\n"
-"PO-Revision-Date: 2018-08-19 12:40\n"
+"PO-Revision-Date: 2018-08-20 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -462,11 +462,11 @@ msgstr ""
 
 #: templates/account/signup.html:30
 msgid "Email address"
-msgstr ""
+msgstr "メールアドレス"
 
 #: templates/account/signup.html:36
 msgid "Password (repeat)"
-msgstr ""
+msgstr "パスワード(再入力)"
 
 #: templates/account/snippets/already_logged_in.html:3
 #, python-format
@@ -488,7 +488,7 @@ msgstr ""
 
 #: templates/footer.html:7
 msgid "Back to top"
-msgstr ""
+msgstr "トップに戻る"
 
 #: templates/footer.html:19
 msgid "Follow us on Twitter"
@@ -664,20 +664,20 @@ msgstr ""
 
 #: web/views/collections.py:11
 msgid "My Collection"
-msgstr ""
+msgstr "マイコレクション"
 
 #: web/views/collections.py:24
 msgid "Collection"
-msgstr ""
+msgstr "コレクション"
 
 #: web/views/collections.py:37
 #, python-brace-format
 msgid "{user}'s Hearthstone Collection"
-msgstr ""
+msgstr "{user} のハースストーンコレクション"
 
 #: web/views/dashboard.py:32
 msgid "My Account"
-msgstr ""
+msgstr "マイアカウント"
 
 #: web/views/dashboard.py:91
 msgid "Delete Account"
@@ -725,11 +725,11 @@ msgstr ""
 
 #: web/views/decks.py:27
 msgid "My Decks"
-msgstr ""
+msgstr "マイデッキ"
 
 #: web/views/decks.py:39
 msgid "Deck does not exist."
-msgstr ""
+msgstr "デッキが存在しません。"
 
 #: web/views/decks.py:43
 msgid "Deck list is too small."
@@ -771,7 +771,7 @@ msgstr ""
 
 #: web/views/replays.py:18
 msgid "My Replays"
-msgstr ""
+msgstr "マイリプレイ"
 
 #: web/views/replays.py:147
 msgid "Uploading replay…"
