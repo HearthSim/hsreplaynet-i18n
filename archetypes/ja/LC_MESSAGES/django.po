@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-17T01:40:21.053787\n"
+"POT-Creation-Date: 2018-08-24T01:40:22.608344\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2018-08-23 12:40\n"
+"PO-Revision-Date: 2018-08-24 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -39,6 +39,10 @@ msgstr "ン＝ゾスプリースト"
 #: https://hsreplay.net/archetypes/29/nzoth-rogue
 msgid "N'Zoth Rogue"
 msgstr "ン＝ゾスローグ"
+
+#: https://hsreplay.net/archetypes/257/odd-mech-paladin
+msgid "Odd Mech Paladin"
+msgstr "奇数メカパラディン"
 
 #: https://hsreplay.net/archetypes/73/dragon-mage
 msgid "Dragon Mage"
@@ -322,7 +326,7 @@ msgstr "トーテムシャーマン"
 
 #: https://hsreplay.net/archetypes/142/quest-mage
 msgid "Quest Mage"
-msgstr "クエストローグ"
+msgstr "クエストメイジ"
 
 #: https://hsreplay.net/archetypes/203/tempo-druid
 msgid "Tempo Druid"
@@ -346,7 +350,7 @@ msgstr "コンボプリースト"
 
 #: https://hsreplay.net/archetypes/77/mech-mage
 msgid "Mech Mage"
-msgstr "メックメイジ"
+msgstr "メカメイジ"
 
 #: https://hsreplay.net/archetypes/210/hand-druid
 msgid "Hand Druid"
@@ -622,7 +626,7 @@ msgstr "エメリスハンター"
 
 #: https://hsreplay.net/archetypes/248/mech-hunter
 msgid "Mech Hunter"
-msgstr "メックハンター"
+msgstr "メカハンター"
 
 #: https://hsreplay.net/archetypes/221/shudderwock-shaman
 msgid "Shudderwock Shaman"
@@ -630,7 +634,7 @@ msgstr "シャダウォックシャーマン"
 
 #: https://hsreplay.net/archetypes/249/mech-paladin
 msgid "Mech Paladin"
-msgstr "メックパラディン"
+msgstr "メカパラディン"
 
 #: https://hsreplay.net/archetypes/250/pogo-rogue
 msgid "Pogo Rogue"
@@ -646,7 +650,7 @@ msgstr "メックトゥーンウォーロック"
 
 #: https://hsreplay.net/archetypes/253/mech-warrior
 msgid "Mech Warrior"
-msgstr "メックウォリアー"
+msgstr "メカウォリアー"
 
 #: https://hsreplay.net/archetypes/254/mechathun-priest
 msgid "Mecha'thun Priest"

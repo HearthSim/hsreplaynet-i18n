@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-17T01:40:21.053787\n"
+"POT-Creation-Date: 2018-08-24T01:40:22.608344\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: de\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-08-23 12:40\n"
+"PO-Revision-Date: 2018-08-24 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -39,6 +39,10 @@ msgstr "N'Zoth-Priester"
 #: https://hsreplay.net/archetypes/29/nzoth-rogue
 msgid "N'Zoth Rogue"
 msgstr "N'Zoth-Schurke"
+
+#: https://hsreplay.net/archetypes/257/odd-mech-paladin
+msgid "Odd Mech Paladin"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/73/dragon-mage
 msgid "Dragon Mage"
@@ -162,7 +166,7 @@ msgstr "Malygos-Schurke"
 
 #: https://hsreplay.net/archetypes/149/taunt-druid
 msgid "Taunt Druid"
-msgstr ""
+msgstr "Spott-Druide"
 
 #: https://hsreplay.net/archetypes/61/elemental-shaman
 msgid "Elemental Shaman"
@@ -550,7 +554,7 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/247/mechathun-druid
 msgid "Mecha'thun Druid"
-msgstr ""
+msgstr "Mecha'thun-Druide"
 
 #: https://hsreplay.net/archetypes/228/resurrect-priest
 msgid "Resurrect Priest"
@@ -642,7 +646,7 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/252/mechathun-warlock
 msgid "Mecha'thun Warlock"
-msgstr ""
+msgstr "Mecha'thun-Hexenmeister"
 
 #: https://hsreplay.net/archetypes/253/mech-warrior
 msgid "Mech Warrior"
@@ -650,7 +654,7 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/254/mechathun-priest
 msgid "Mecha'thun Priest"
-msgstr ""
+msgstr "Mecha'thun-Priester"
 
 #: https://hsreplay.net/archetypes/255/mechathun-quest-priest
 msgid "Mecha'thun Quest Priest"
