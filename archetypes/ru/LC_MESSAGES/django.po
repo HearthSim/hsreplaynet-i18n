@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-25T01:40:22.498050\n"
+"POT-Creation-Date: 2018-09-06T01:40:23.422365\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2018-09-05 12:40\n"
+"PO-Revision-Date: 2018-09-06 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -660,9 +660,17 @@ msgstr "Меха-К'Тун жрец"
 msgid "Mecha'thun Quest Priest"
 msgstr "Меха-К'Тун квест жрец"
 
+#: https://hsreplay.net/archetypes/258/spiteful-mage
+msgid "Spiteful Mage"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/26/midrange-shaman
 msgid "Midrange Shaman"
 msgstr "Мид шаман"
+
+#: https://hsreplay.net/archetypes/259/mechathun-warrior
+msgid "Mecha'thun Warrior"
+msgstr ""
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/
 msgid "Token Druid has been a long standing archetype in Hearthstone. The deck is based around flooding the board with small, summoned minions (tokens), buffing them and bursting the opponent down."
