@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-12 01:40+0000\n"
-"PO-Revision-Date: 2018-09-13 12:40\n"
+"PO-Revision-Date: 2018-09-14 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -70,7 +70,7 @@ msgstr "Seu cartão foi rejeitado, você não foi cobrado. Por favor use um cart
 
 #: billing/views.py:401
 msgid "You are now subscribed!"
-msgstr ""
+msgstr "Agora você é um assinante!"
 
 #: billing/views.py:410
 msgid " Please contact us if you are receiving this in error."
@@ -320,7 +320,7 @@ msgstr "Os seguintes endereços de e-mail estão associados à sua conta:"
 
 #: templates/account/email.html:18
 msgid "✔ Verified"
-msgstr ""
+msgstr "✔ Verificada"
 
 #: templates/account/email.html:23
 msgid "Re-send Verification"
@@ -328,7 +328,7 @@ msgstr "Reenviar email de verificação"
 
 #: templates/account/email.html:28
 msgid "✔ Primary"
-msgstr ""
+msgstr "✔ Principal"
 
 #: templates/account/email.html:33
 msgid "Make Primary"
@@ -498,7 +498,7 @@ msgstr "Voltar ao topo"
 
 #: templates/footer.html:17
 msgid "Social Media"
-msgstr ""
+msgstr "Mídias Sociais"
 
 #: templates/footer.html:21
 msgid "Follow us on Twitter"
@@ -558,7 +558,7 @@ msgstr "Imprensa"
 
 #: templates/footer.html:68
 msgid "Copyright"
-msgstr ""
+msgstr "Direitos autorais"
 
 #: templates/footer.html:69
 msgid "This website is not affiliated with Blizzard Entertainment."
@@ -634,15 +634,15 @@ msgstr "HSReplay.net - Liberte seu potencial"
 
 #: web/views/__init__.py:134
 msgid "Download Hearthstone Deck Tracker"
-msgstr ""
+msgstr "Baixe o Hearthstone Deck Tracker"
 
 #: web/views/__init__.py:136
 msgid "HSReplay.net Companion App"
-msgstr ""
+msgstr "Aplicativo Companheiro do HSReplay.net"
 
 #: web/views/__init__.py:138
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
-msgstr ""
+msgstr "Hearthstone Deck Tracker é um aplicativo gratuito para ajudá-lo a jogar como os profissionais."
 
 #: web/views/archetypes.py:17
 msgid "Hearthstone Meta"
@@ -667,7 +667,7 @@ msgstr "Esse arquétipo não está mais disponível."
 #: web/views/archetypes.py:55
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
-msgstr ""
+msgstr "Encontre estatísticas e diferentes decks de {name}."
 
 #: web/views/cards.py:23 web/views/cards.py:108
 msgid "Hearthstone Card Statistics"
@@ -695,16 +695,16 @@ msgstr "Editor de carta do Hearthstone"
 
 #: web/views/collections.py:11
 msgid "My Collection"
-msgstr ""
+msgstr "Minha Coleção"
 
 #: web/views/collections.py:24
 msgid "Collection"
-msgstr ""
+msgstr "Coleção"
 
 #: web/views/collections.py:37
 #, python-brace-format
 msgid "{user}'s Hearthstone Collection"
-msgstr ""
+msgstr "Coleção de Hearthstone do {user}"
 
 #: web/views/dashboard.py:32
 msgid "My Account"
@@ -768,7 +768,7 @@ msgstr "A lista do deck é muito pequena."
 
 #: web/views/decks.py:47
 msgid "Deck list contains uncollectible cards."
-msgstr ""
+msgstr "Deck contém cartas não colecionáveis."
 
 #: web/views/decks.py:61
 #, python-brace-format
