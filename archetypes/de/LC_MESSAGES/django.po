@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-18T01:40:24.286820\n"
+"POT-Creation-Date: 2018-09-22T01:40:20.491177\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: de\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2018-09-21 23:36\n"
+"PO-Revision-Date: 2018-09-22 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -658,7 +658,7 @@ msgstr "Mecha'thun-Priester"
 
 #: https://hsreplay.net/archetypes/255/mechathun-quest-priest
 msgid "Mecha'thun Quest Priest"
-msgstr "Mecha'thun-Quest-Druide"
+msgstr "Mecha'thun-Quest-Priester"
 
 #: https://hsreplay.net/archetypes/258/spiteful-mage
 msgid "Spiteful Mage"
@@ -679,6 +679,14 @@ msgstr ""
 #: https://hsreplay.net/archetypes/261/deathrattle-paladin
 msgid "Deathrattle Paladin"
 msgstr "Todesröchelnpaladin"
+
+#: https://hsreplay.net/archetypes/262/dead-mans-hand-warrior
+msgid "Dead Man's Hand Warrior"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/263/basic-mage
+msgid "Basic Mage"
+msgstr ""
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/
 msgid "Token Druid has been a long standing archetype in Hearthstone. The deck is based around flooding the board with small, summoned minions (tokens), buffing them and bursting the opponent down."
