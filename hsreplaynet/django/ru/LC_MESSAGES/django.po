@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-20 01:40+0000\n"
-"PO-Revision-Date: 2018-09-23 12:40\n"
+"PO-Revision-Date: 2018-09-24 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -126,7 +126,7 @@ msgstr "Недействительный токен при отмене подп
 
 #: billing/views.py:582
 msgid "Payment has already completed and cannot be cancelled."
-msgstr ""
+msgstr "Платеж уже совершен и не может быть отменен."
 
 #: billing/views.py:586
 msgid "Your payment was interrupted."
