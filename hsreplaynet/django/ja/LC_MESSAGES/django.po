@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-20 01:40+0000\n"
+"POT-Creation-Date: 2018-10-09 01:40+0000\n"
 "PO-Revision-Date: 2018-10-08 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Japanese\n"
@@ -16,171 +16,183 @@ msgstr ""
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: /hsreplaynet/django/en/LC_MESSAGES/django.po\n"
 
-#: billing/views.py:248
+#: billing/views.py:250
 msgid "Error adding payment card"
 msgstr "支払いカードの追加エラー"
 
-#: billing/views.py:252
+#: billing/views.py:254
 msgid "Your card was declined. Please use a different card."
 msgstr "あなたのカードは拒否されました。別のカードを使用してください。"
 
-#: billing/views.py:268
-msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
-msgstr "このメールアドレスは別のアカウントに紐づいています。アカウントを統一したい場合はお問い合わせください！"
+#: billing/views.py:270
+msgid ""
+"That email address is associated with another account. If you'd like to "
+"merge accounts, please contact us!"
+msgstr ""
+"このメールアドレスは別のアカウントに紐づいています。アカウントを統一したい場"
+"合はお問い合わせください！"
 
-#: billing/views.py:296
+#: billing/views.py:298
 msgid "You have multiple subscriptions. Please contact us."
 msgstr "複数のサブスクリプションがあります。お問い合わせください。"
 
-#: billing/views.py:310
+#: billing/views.py:312
 msgid "Your subscription has expired."
 msgstr "サブスクリプションの有効期限が切れています。"
 
-#: billing/views.py:316
-msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
+#: billing/views.py:318
+msgid ""
+"Your current subscription is still active. If you are having billing issues, "
+"please contact us!"
 msgstr ""
 
-#: billing/views.py:320
+#: billing/views.py:322
 msgid "You are already subscribed!"
 msgstr "サブスクライブ済みです！"
 
-#: billing/views.py:348
+#: billing/views.py:350
 msgid "Could not process subscription."
 msgstr ""
 
-#: billing/views.py:365
-msgid "Your card declined the charge. Please contact your bank for information."
+#: billing/views.py:367
+msgid ""
+"Your card declined the charge. Please contact your bank for information."
 msgstr ""
 
-#: billing/views.py:367
-msgid "Your card does not support payments in USD. Please try a different card."
-msgstr "あなたのカードは米ドルでの支払いをサポートしていません。別のカードをお試しください。"
-
 #: billing/views.py:369
+msgid ""
+"Your card does not support payments in USD. Please try a different card."
+msgstr ""
+"あなたのカードは米ドルでの支払いをサポートしていません。別のカードをお試しく"
+"ださい。"
+
+#: billing/views.py:371
 msgid "Your card has exceeded its credit limit. Please use a different one."
 msgstr ""
 
-#: billing/views.py:371
+#: billing/views.py:373
 msgid "Your card has insufficient funds to proceed."
 msgstr "あなたのカードは残高不足のため、続行できません。"
 
-#: billing/views.py:375
-msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
+#: billing/views.py:377
+msgid ""
+"Your card was declined, you have not been charged. Please try a different "
+"card; contact us if this persists."
 msgstr ""
 
-#: billing/views.py:401
+#: billing/views.py:410
 msgid "You are now subscribed!"
 msgstr "サブスクライブしました！"
 
-#: billing/views.py:410
+#: billing/views.py:419
 msgid " Please contact us if you are receiving this in error."
 msgstr ""
 
-#: billing/views.py:416
+#: billing/views.py:425
 msgid "You have multiple subscriptions - something is wrong."
 msgstr ""
 
-#: billing/views.py:422
+#: billing/views.py:431
 msgid "You are not subscribed."
 msgstr "サブスクライブしていません。"
 
-#: billing/views.py:437
+#: billing/views.py:446
 msgid "Your subscription cannot be canceled immediately."
 msgstr ""
 
-#: billing/views.py:439
+#: billing/views.py:448
 msgid "Could not cancel your subscription."
 msgstr "サブスクリプションをキャンセルできませんでした。"
 
-#: billing/views.py:448
+#: billing/views.py:457
 msgid "Your subscription has been cancelled."
 msgstr "サブスクリプションはキャンセルされました。"
 
-#: billing/views.py:507
+#: billing/views.py:516
 msgid "Could not update default card."
 msgstr "既定のカードを更新できませんでした。"
 
-#: billing/views.py:525
+#: billing/views.py:534
 msgid " Please contact us if you are seeing this in error."
 msgstr ""
 
-#: billing/views.py:544
+#: billing/views.py:553
 msgid "Unable to complete subscription."
 msgstr "サブスクリプションを完了できません。"
 
-#: billing/views.py:549
+#: billing/views.py:558
 msgid "Invalid subscription token."
 msgstr "無効なサブスクリプショントークンです。"
 
-#: billing/views.py:552
+#: billing/views.py:561
 msgid "You are not logged in as the correct user."
 msgstr "正しいユーザーとしてログインしていません。"
 
-#: billing/views.py:556
+#: billing/views.py:571
 msgid "You are now subscribed with PayPal!"
 msgstr "PayPalでサブスクライブしました！"
 
-#: billing/views.py:577
+#: billing/views.py:592
 msgid "Invalid token while cancelling payment."
 msgstr ""
 
-#: billing/views.py:582
+#: billing/views.py:597
 msgid "Payment has already completed and cannot be cancelled."
 msgstr ""
 
-#: billing/views.py:586
+#: billing/views.py:601
 msgid "Your payment was interrupted."
 msgstr "支払いが中断されました。"
 
-#: billing/views.py:594
+#: billing/views.py:609
 msgid "Could not determine your plan."
 msgstr ""
 
-#: billing/views.py:599
+#: billing/views.py:614
 msgid "Invalid Paypal plan."
 msgstr ""
 
-#: settings.py:319
+#: settings.py:320
 msgid "Full access to your HSReplay.net account"
 msgstr ""
 
-#: settings.py:320
+#: settings.py:321
 msgid "Access information about your connected social accounts"
 msgstr ""
 
-#: settings.py:321
+#: settings.py:322
 msgid "View your Hearthstone card collection"
 msgstr ""
 
-#: settings.py:322
+#: settings.py:323
 msgid "Upload your Hearthstone card collection to the site"
 msgstr ""
 
-#: settings.py:323
+#: settings.py:324
 msgid "View your replays"
 msgstr ""
 
-#: settings.py:324
+#: settings.py:325
 msgid "Update and delete your replays"
 msgstr ""
 
-#: settings.py:325
+#: settings.py:326
 msgid "Access the Partner API"
 msgstr ""
 
-#: settings.py:326
+#: settings.py:327
 msgid "Read access to the tournaments service"
 msgstr ""
 
-#: settings.py:327
+#: settings.py:328
 msgid "Write access to the tournaments service"
 msgstr ""
 
-#: settings.py:328
+#: settings.py:329
 msgid "View your webhooks"
 msgstr ""
 
-#: settings.py:329
+#: settings.py:330
 msgid "Create and delete webhooks on your behalf"
 msgstr ""
 
@@ -190,7 +202,9 @@ msgstr ""
 
 #: templates/account/account_inactive.html:9
 #, python-format
-msgid "This account is inactive or has been banned. Please <a href=\"mailto:%(site_email)s\">contact us</a> if this is in error."
+msgid ""
+"This account is inactive or has been banned. Please <a href=\"mailto:"
+"%(site_email)s\">contact us</a> if this is in error."
 msgstr ""
 
 #: templates/account/api.html:7
@@ -199,11 +213,15 @@ msgstr ""
 
 #: templates/account/api.html:12
 #, python-format
-msgid "You do not have any upload client associated with your account. <a href=\"%(downloads_url)s\">Download Hearthstone Deck Tracker</a> and claim your account from there!"
+msgid ""
+"You do not have any upload client associated with your account. <a href="
+"\"%(downloads_url)s\">Download Hearthstone Deck Tracker</a> and claim your "
+"account from there!"
 msgstr ""
 
 #: templates/account/api.html:19
-msgid "The following tokens can be used to upload your games. Keep them private!"
+msgid ""
+"The following tokens can be used to upload your games. Keep them private!"
 msgstr ""
 
 #: templates/account/api.html:22
@@ -223,7 +241,9 @@ msgid "Webhooks"
 msgstr ""
 
 #: templates/account/api.html:48
-msgid "Webhooks allow you, or an authorized application, to automatically POST to a URL whenever you complete a game and it is made available on HSReplay.net."
+msgid ""
+"Webhooks allow you, or an authorized application, to automatically POST to a "
+"URL whenever you complete a game and it is made available on HSReplay.net."
 msgstr ""
 
 #: templates/account/api.html:55
@@ -232,7 +252,10 @@ msgstr "この機能はまだベータテスト中です。"
 
 #: templates/account/api.html:56
 #, python-format
-msgid "The API objects are not final and the functionality is still being tested. If you are interested in using them or have any questions, <a href=\"mailto:%(site_email)s\">please contact us</a> so we can help!"
+msgid ""
+"The API objects are not final and the functionality is still being tested. "
+"If you are interested in using them or have any questions, <a href=\"mailto:"
+"%(site_email)s\">please contact us</a> so we can help!"
 msgstr ""
 
 #: templates/account/api.html:65
@@ -267,7 +290,7 @@ msgstr "電子メール"
 msgid "Billing"
 msgstr ""
 
-#: templates/account/base.html:17 web/views/dashboard.py:79
+#: templates/account/base.html:17 web/views/dashboard.py:84
 msgid "API Access"
 msgstr ""
 
@@ -303,11 +326,14 @@ msgid "Are you sure?"
 msgstr ""
 
 #: templates/account/delete_replays.html:10
-msgid "Deleting your replays will unlink them from your account and make any previously-shared replay URL inaccessible."
+msgid ""
+"Deleting your replays will unlink them from your account and make any "
+"previously-shared replay URL inaccessible."
 msgstr ""
 
 #: templates/account/delete_replays.html:12
-msgid "Your personal statistics will not be reset. Are you sure you want to proceed?"
+msgid ""
+"Your personal statistics will not be reset. Are you sure you want to proceed?"
 msgstr ""
 
 #: templates/account/delete_replays.html:18
@@ -372,16 +398,26 @@ msgstr "保存"
 
 #: templates/account/email.html:99
 #, python-format
-msgid "Looking for a password setting? You can sign with any of <a href=\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there is no HSReplay.net password."
+msgid ""
+"Looking for a password setting? You can sign with any of <a href="
+"\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there "
+"is no HSReplay.net password."
 msgstr ""
 
 #: templates/account/email/email_confirmation_message.txt:1
 #, python-format
-msgid "Hello %(user)s!\n\n"
-"You've added this email address to your account. We need to verify that you own it.\n\n"
-"If this is correct, go to the following URL within three days to confirm:\n\n"
-"%(activate_url)s\n\n"
-"If this was not you, you can simply ignore this email.\n\n"
+msgid ""
+"Hello %(user)s!\n"
+"\n"
+"You've added this email address to your account. We need to verify that you "
+"own it.\n"
+"\n"
+"If this is correct, go to the following URL within three days to confirm:\n"
+"\n"
+"%(activate_url)s\n"
+"\n"
+"If this was not you, you can simply ignore this email.\n"
+"\n"
 "Cheers,\n"
 "The HSReplay.net Team\n"
 msgstr ""
@@ -392,7 +428,8 @@ msgid "Sign in to continue to %(oauth2_client)s"
 msgstr ""
 
 #: templates/account/login.html:19
-msgid "We'll send you to the official Blizzard site where you can securely sign in."
+msgid ""
+"We'll send you to the official Blizzard site where you can securely sign in."
 msgstr ""
 
 #: templates/account/login.html:21
@@ -416,11 +453,15 @@ msgid "China (CN)"
 msgstr ""
 
 #: templates/account/login.html:48
-msgid "HSReplay.net never gains access to your Blizzard email address or password."
-msgstr "HSReplay.netは決してあなたのBlizzardのメールアドレスやパスワードにアクセスしません。"
+msgid ""
+"HSReplay.net never gains access to your Blizzard email address or password."
+msgstr ""
+"HSReplay.netは決してあなたのBlizzardのメールアドレスやパスワードにアクセスし"
+"ません。"
 
 #: templates/account/login.html:58
-msgid "Not using a Blizzard account? Sign in with your username and password here."
+msgid ""
+"Not using a Blizzard account? Sign in with your username and password here."
 msgstr ""
 
 #: templates/account/login.html:68 templates/account/signup.html:27
@@ -440,7 +481,9 @@ msgid "Password reset"
 msgstr "パスワードリセット"
 
 #: templates/account/password_reset.html:13
-msgid "Forgot your password? Enter your email below, we'll send you a link to reset it."
+msgid ""
+"Forgot your password? Enter your email below, we'll send you a link to reset "
+"it."
 msgstr ""
 
 #: templates/account/password_reset.html:19
@@ -482,12 +525,16 @@ msgid "Verify your e-mail address"
 msgstr ""
 
 #: templates/account/verification_sent.html:11
-msgid "We have sent you an e-mail for verification. Follow the link in it to finalize the signup process."
+msgid ""
+"We have sent you an e-mail for verification. Follow the link in it to "
+"finalize the signup process."
 msgstr ""
 
 #: templates/account/verification_sent.html:14
 #, python-format
-msgid "Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes."
+msgid ""
+"Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not "
+"receive it within a few minutes."
 msgstr ""
 
 #: templates/footer.html:7
@@ -595,7 +642,10 @@ msgid "Refer a Friend"
 msgstr ""
 
 #: templates/snippets/noscript.html:5
-msgid "It looks like you have Javascript turned off. This page will not work correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
+msgid ""
+"It looks like you have Javascript turned off. This page will not work "
+"correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel="
+"\"noopener\">Here is how to enable it</a>."
 msgstr ""
 
 #: templates/socialaccount/authentication_error.html:7
@@ -607,7 +657,9 @@ msgid "Back to the office."
 msgstr ""
 
 #: templates/socialaccount/connections.html:14
-msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard account."
+msgid ""
+"The following social accounts are connected to your HSReplay.net account. "
+"You may sign in with any connected Blizzard account."
 msgstr ""
 
 #: templates/socialaccount/connections.html:41
@@ -619,11 +671,15 @@ msgid "Primary account"
 msgstr ""
 
 #: templates/socialaccount/connections.html:62
-msgid "You currently have no social network accounts connected to this account."
+msgid ""
+"You currently have no social network accounts connected to this account."
 msgstr ""
 
 #: web/views/__init__.py:15
-msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
+msgid ""
+"Watch and share Hearthstone replays directly from your web browser. Explore "
+"advanced statistics about decks and cards based on millions of games per "
+"week."
 msgstr ""
 
 #: web/views/__init__.py:38
@@ -647,11 +703,14 @@ msgid "Hearthstone Meta"
 msgstr "ハースストーン メタ"
 
 #: web/views/archetypes.py:19
-msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
+msgid ""
+"Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr ""
 
 #: web/views/archetypes.py:30
-msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
+msgid ""
+"Engage with the up-and-coming Hearthstone meta game to discover the newest "
+"archetypes and what's next."
 msgstr ""
 
 #: web/views/archetypes.py:42
@@ -672,7 +731,9 @@ msgid "Hearthstone Card Statistics"
 msgstr ""
 
 #: web/views/cards.py:25
-msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
+msgid ""
+"Compare statistics about all collectible Hearthstone cards. Find the cards "
+"that are played the most or have the highest winrate."
 msgstr ""
 
 #: web/views/cards.py:36
@@ -704,43 +765,43 @@ msgstr "コレクション"
 msgid "{user}'s Hearthstone Collection"
 msgstr "{user} のハースストーンコレクション"
 
-#: web/views/dashboard.py:32
+#: web/views/dashboard.py:37
 msgid "My Account"
 msgstr "マイアカウント"
 
-#: web/views/dashboard.py:91
+#: web/views/dashboard.py:96
 msgid "Delete Account"
 msgstr "アカウント削除"
 
-#: web/views/dashboard.py:116
+#: web/views/dashboard.py:121
 msgid "This account cannot be deleted."
 msgstr "このアカウントは削除できません。"
 
-#: web/views/dashboard.py:144
+#: web/views/dashboard.py:149
 msgid "Your replays have been deleted."
 msgstr "あなたのリプレイが削除されました。"
 
-#: web/views/dashboard.py:179
+#: web/views/dashboard.py:184
 msgid "Could not make account primary."
 msgstr ""
 
-#: web/views/dashboard.py:199
+#: web/views/dashboard.py:217
 msgid "Your email preferences have been saved."
 msgstr ""
 
-#: web/views/dashboard.py:215
+#: web/views/dashboard.py:233
 msgid "Create a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:226
+#: web/views/dashboard.py:244
 msgid "Update a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:252
+#: web/views/dashboard.py:270
 msgid "OAuth Applications"
 msgstr "OAuthアプリ"
 
-#: web/views/dashboard.py:299
+#: web/views/dashboard.py:317
 msgid "Your OAuth Application"
 msgstr "あなたのOAuthアプリ"
 
@@ -749,7 +810,9 @@ msgid "Hearthstone Decks"
 msgstr "ハースストーンデッキ"
 
 #: web/views/decks.py:19
-msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
+msgid ""
+"Find popular Hearthstone decks for every class, card and game mode. Compare "
+"winrates and find the deck for you!"
 msgstr ""
 
 #: web/views/decks.py:27
@@ -778,7 +841,9 @@ msgid "Trending Hearthstone Decks"
 msgstr ""
 
 #: web/views/decks.py:79
-msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
+msgid ""
+"Find the up-and-coming decks with rising popularity in Hearthstone for each "
+"class updated every single day."
 msgstr ""
 
 #: web/views/oauth2.py:46
@@ -795,7 +860,10 @@ msgid "HSReplay.net Premium"
 msgstr "HSReplay.net Premium"
 
 #: web/views/premium.py:22
-msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
+msgid ""
+"More filters, more features, more data: Gain access to advanced Hearthstone "
+"statistics backed by millions of games with HSReplay.net Premium for "
+"HSReplay.net."
 msgstr ""
 
 #: web/views/replays.py:18
@@ -805,4 +873,3 @@ msgstr "マイリプレイ"
 #: web/views/replays.py:147
 msgid "Uploading replay…"
 msgstr "リプレイのアップロード中…"
-
