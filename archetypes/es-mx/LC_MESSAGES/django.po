@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-09-22T01:40:20.491177\n"
+"POT-Creation-Date: 2018-10-14T01:40:22.604331\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: es-MX\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2018-10-13 12:40\n"
+"PO-Revision-Date: 2018-10-14 12:41\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -687,6 +687,10 @@ msgstr "Guerrero Mano del Muerto"
 #: https://hsreplay.net/archetypes/263/basic-mage
 msgid "Basic Mage"
 msgstr "Mago Básico"
+
+#: https://hsreplay.net/archetypes/264/aggro-priest
+msgid "Aggro Priest"
+msgstr ""
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/
 msgid "Token Druid has been a long standing archetype in Hearthstone. The deck is based around flooding the board with small, summoned minions (tokens), buffing them and bursting the opponent down."
