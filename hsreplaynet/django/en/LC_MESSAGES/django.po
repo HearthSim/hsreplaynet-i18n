@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-18 01:40+0000\n"
+"POT-Creation-Date: 2018-10-19 01:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -23,135 +23,135 @@ msgstr ""
 msgid "{input} is not a valid member of {enum}."
 msgstr ""
 
-#: billing/views.py:250
+#: billing/views.py:251
 msgid "Error adding payment card"
 msgstr ""
 
-#: billing/views.py:254
+#: billing/views.py:255
 msgid "Your card was declined. Please use a different card."
 msgstr ""
 
-#: billing/views.py:270
+#: billing/views.py:271
 msgid ""
 "That email address is associated with another account. If you'd like to "
 "merge accounts, please contact us!"
 msgstr ""
 
-#: billing/views.py:298
+#: billing/views.py:299
 msgid "You have multiple subscriptions. Please contact us."
 msgstr ""
 
-#: billing/views.py:312
+#: billing/views.py:313
 msgid "Your subscription has expired."
 msgstr ""
 
-#: billing/views.py:318
+#: billing/views.py:319
 msgid ""
 "Your current subscription is still active. If you are having billing issues, "
 "please contact us!"
 msgstr ""
 
-#: billing/views.py:322
+#: billing/views.py:323
 msgid "You are already subscribed!"
 msgstr ""
 
-#: billing/views.py:350
+#: billing/views.py:351
 msgid "Could not process subscription."
 msgstr ""
 
-#: billing/views.py:367
+#: billing/views.py:368
 msgid ""
 "Your card declined the charge. Please contact your bank for information."
 msgstr ""
 
-#: billing/views.py:369
+#: billing/views.py:370
 msgid ""
 "Your card does not support payments in USD. Please try a different card."
 msgstr ""
 
-#: billing/views.py:371
+#: billing/views.py:372
 msgid "Your card has exceeded its credit limit. Please use a different one."
 msgstr ""
 
-#: billing/views.py:373
+#: billing/views.py:374
 msgid "Your card has insufficient funds to proceed."
 msgstr ""
 
-#: billing/views.py:377
+#: billing/views.py:378
 msgid ""
 "Your card was declined, you have not been charged. Please try a different "
 "card; contact us if this persists."
 msgstr ""
 
-#: billing/views.py:410
+#: billing/views.py:411
 msgid "You are now subscribed!"
 msgstr ""
 
-#: billing/views.py:419
+#: billing/views.py:420
 msgid " Please contact us if you are receiving this in error."
 msgstr ""
 
-#: billing/views.py:425
+#: billing/views.py:426
 msgid "You have multiple subscriptions - something is wrong."
 msgstr ""
 
-#: billing/views.py:431
+#: billing/views.py:432
 msgid "You are not subscribed."
 msgstr ""
 
-#: billing/views.py:446
+#: billing/views.py:447
 msgid "Your subscription cannot be canceled immediately."
 msgstr ""
 
-#: billing/views.py:448
+#: billing/views.py:449
 msgid "Could not cancel your subscription."
 msgstr ""
 
-#: billing/views.py:457
+#: billing/views.py:458
 msgid "Your subscription has been cancelled."
 msgstr ""
 
-#: billing/views.py:516
+#: billing/views.py:517
 msgid "Could not update default card."
 msgstr ""
 
-#: billing/views.py:534
+#: billing/views.py:535
 msgid " Please contact us if you are seeing this in error."
 msgstr ""
 
-#: billing/views.py:553
+#: billing/views.py:554
 msgid "Unable to complete subscription."
 msgstr ""
 
-#: billing/views.py:558
+#: billing/views.py:559
 msgid "Invalid subscription token."
 msgstr ""
 
-#: billing/views.py:561
+#: billing/views.py:562
 msgid "You are not logged in as the correct user."
 msgstr ""
 
-#: billing/views.py:571
+#: billing/views.py:581
 msgid "You are now subscribed with PayPal!"
 msgstr ""
 
-#: billing/views.py:592
+#: billing/views.py:602
 msgid "Invalid token while cancelling payment."
 msgstr ""
 
-#: billing/views.py:597
+#: billing/views.py:607
 msgid "Payment has already completed and cannot be cancelled."
 msgstr ""
 
-#: billing/views.py:601
+#: billing/views.py:611
 msgid "Your payment was interrupted."
 msgstr ""
 
-#: billing/views.py:609
+#: billing/views.py:619
 msgid "Could not determine your plan."
 msgstr ""
 
-#: billing/views.py:614
+#: billing/views.py:624
 msgid "Invalid Paypal plan."
 msgstr ""
 
