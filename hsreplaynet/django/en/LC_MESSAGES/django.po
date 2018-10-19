@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-19 01:40+0000\n"
+"POT-Creation-Date: 2018-10-19 22:11+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -131,71 +131,71 @@ msgstr ""
 msgid "You are not logged in as the correct user."
 msgstr ""
 
-#: billing/views.py:581
+#: billing/views.py:584
 msgid "You are now subscribed with PayPal!"
 msgstr ""
 
-#: billing/views.py:602
+#: billing/views.py:605
 msgid "Invalid token while cancelling payment."
 msgstr ""
 
-#: billing/views.py:607
+#: billing/views.py:610
 msgid "Payment has already completed and cannot be cancelled."
 msgstr ""
 
-#: billing/views.py:611
+#: billing/views.py:614
 msgid "Your payment was interrupted."
 msgstr ""
 
-#: billing/views.py:619
+#: billing/views.py:622
 msgid "Could not determine your plan."
 msgstr ""
 
-#: billing/views.py:624
+#: billing/views.py:627
 msgid "Invalid Paypal plan."
 msgstr ""
 
-#: settings.py:320
+#: settings.py:321
 msgid "Full access to your HSReplay.net account"
 msgstr ""
 
-#: settings.py:321
+#: settings.py:322
 msgid "Access information about your connected social accounts"
 msgstr ""
 
-#: settings.py:322
+#: settings.py:323
 msgid "View your Hearthstone card collection"
 msgstr ""
 
-#: settings.py:323
+#: settings.py:324
 msgid "Upload your Hearthstone card collection to the site"
 msgstr ""
 
-#: settings.py:324
+#: settings.py:325
 msgid "View your replays"
 msgstr ""
 
-#: settings.py:325
+#: settings.py:326
 msgid "Update and delete your replays"
 msgstr ""
 
-#: settings.py:326
+#: settings.py:327
 msgid "Access the Partner API"
 msgstr ""
 
-#: settings.py:327
+#: settings.py:328
 msgid "Read access to the tournaments service"
 msgstr ""
 
-#: settings.py:328
+#: settings.py:329
 msgid "Write access to the tournaments service"
 msgstr ""
 
-#: settings.py:329
+#: settings.py:330
 msgid "View your webhooks"
 msgstr ""
 
-#: settings.py:330
+#: settings.py:331
 msgid "Create and delete webhooks on your behalf"
 msgstr ""
 
