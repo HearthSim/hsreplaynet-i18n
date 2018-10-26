@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-14T01:40:22.604331\n"
+"POT-Creation-Date: 2018-10-26T01:40:23.348533\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2018-10-25 12:40\n"
+"PO-Revision-Date: 2018-10-26 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -556,10 +556,6 @@ msgstr "Guerreiro Ímpar"
 msgid "Mecha'thun Druid"
 msgstr "Druida Mecha'thun"
 
-#: https://hsreplay.net/archetypes/228/resurrect-priest
-msgid "Resurrect Priest"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/229/echo-warlock
 msgid "Echo Warlock"
 msgstr ""
@@ -690,6 +686,14 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/264/aggro-priest
 msgid "Aggro Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/228/clone-priest
+msgid "Clone Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/266/resurrect-priest
+msgid "Resurrect Priest"
 msgstr ""
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/
