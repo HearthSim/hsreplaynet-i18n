@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-25 01:40+0000\n"
+"POT-Creation-Date: 2018-10-26 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,6 +21,26 @@ msgstr ""
 #: api/fields.py:9
 #, python-brace-format
 msgid "{input} is not a valid member of {enum}."
+msgstr ""
+
+#: api/views/features.py:32
+msgid "Code has already been used."
+msgstr ""
+
+#: api/views/features.py:34
+msgid "Code does not apply to this account."
+msgstr ""
+
+#: api/views/features.py:43
+msgid "Code is invalid or has expired."
+msgstr ""
+
+#: api/views/features.py:47
+msgid "Code did not affect this account and remains valid."
+msgstr ""
+
+#: api/views/features.py:49
+msgid "Code has been applied to your account."
 msgstr ""
 
 #: billing/views.py:251
@@ -676,26 +696,26 @@ msgid ""
 "You currently have no social network accounts connected to this account."
 msgstr ""
 
-#: web/views/__init__.py:15
+#: web/views/__init__.py:18
 msgid ""
 "Watch and share Hearthstone replays directly from your web browser. Explore "
 "advanced statistics about decks and cards based on millions of games per "
 "week."
 msgstr ""
 
-#: web/views/__init__.py:38
+#: web/views/__init__.py:41
 msgid "HSReplay.net - Unleash your potential"
 msgstr ""
 
-#: web/views/__init__.py:134
+#: web/views/__init__.py:137
 msgid "Download Hearthstone Deck Tracker"
 msgstr ""
 
-#: web/views/__init__.py:136
+#: web/views/__init__.py:139
 msgid "HSReplay.net Companion App"
 msgstr ""
 
-#: web/views/__init__.py:138
+#: web/views/__init__.py:141
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr ""
 
