@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-10-27 01:40+0000\n"
+"POT-Creation-Date: 2018-10-28 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -171,7 +171,11 @@ msgstr ""
 msgid "Could not determine your plan."
 msgstr ""
 
-#: billing/views.py:627
+#: billing/views.py:625
+msgid "You have a pending subscription."
+msgstr ""
+
+#: billing/views.py:630
 msgid "Invalid Paypal plan."
 msgstr ""
 
