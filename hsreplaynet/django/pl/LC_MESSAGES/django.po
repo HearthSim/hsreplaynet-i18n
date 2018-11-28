@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-11-25 01:40+0000\n"
-"PO-Revision-Date: 2018-11-27 12:40\n"
+"PO-Revision-Date: 2018-11-28 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -123,7 +123,7 @@ msgstr "Twoja subskrypcja nie może zostać anulowana od razu."
 
 #: billing/views.py:473
 msgid "Could not cancel your subscription."
-msgstr "Nie można było anulować subskrypcji."
+msgstr "Nie można było anulować twojej subskrypcji."
 
 #: billing/views.py:482
 msgid "Your subscription has been cancelled."
@@ -155,11 +155,11 @@ msgstr "Teraz subskrybujesz z PayPal!"
 
 #: billing/views.py:634
 msgid "Invalid token while cancelling payment."
-msgstr "Nieprawidłowy token podczas anulowania płatności."
+msgstr "Nieprawidłowy token podczas anulowywania płatności."
 
 #: billing/views.py:639
 msgid "Payment has already completed and cannot be cancelled."
-msgstr "Płatność została już ukończona i nie można jej anulować."
+msgstr "Płatność została już zakończona i nie można jej anulować."
 
 #: billing/views.py:643
 msgid "Your payment was interrupted."
@@ -224,7 +224,7 @@ msgstr "Konto nieaktywne"
 #: templates/account/account_inactive.html:9
 #, python-format
 msgid "This account is inactive or has been banned. Please <a href=\"mailto:%(site_email)s\">contact us</a> if this is in error."
-msgstr "To konto jest nieaktywne lub zostało zbanowane. Prosimy<a href=\"mailto:%(site_email)s\">skontaktować się z nami</a>jeśli jest to błąd."
+msgstr "To konto jest nieaktywne lub zostało zablokowane. Prosimy <a href=\"mailto:%(site_email)s\">skontaktować się z nami</a> jeśli jest to błąd."
 
 #: templates/account/api.html:7
 msgid "Authentication Tokens"
@@ -466,7 +466,7 @@ msgstr "Zaloguj się"
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
-msgstr "Na pewno chcesz się wylogować?"
+msgstr "Czy na pewno chcesz się wylogować?"
 
 #: templates/account/password_reset.html:11
 msgid "Password reset"
@@ -491,11 +491,11 @@ msgstr "Rejestracja"
 
 #: templates/account/signup.html:10
 msgid "To sign up to HSReplay.net, use your Blizzard account."
-msgstr "By zarejestrować się na HSReplay.net, użyj swojego konta Blizzard."
+msgstr "Aby zarejestrować się na HSReplay.net, użyj swojego konta Blizzard."
 
 #: templates/account/signup.html:16
 msgid "Alternatively, sign up with an email and password."
-msgstr "Możesz też zarejestrować się przy pomocy konta email i hasła."
+msgstr "Alternatywnie, możesz zarejestrować się przy pomocy konta email i hasła."
 
 #: templates/account/signup.html:30
 msgid "Email address"
@@ -508,7 +508,7 @@ msgstr "Hasło (powtórz)"
 #: templates/account/snippets/already_logged_in.html:3
 #, python-format
 msgid "You are already logged in as <em>%(user)s</em>."
-msgstr "Jesteś już zalogowany/-a jako<em>%(user)s</em>."
+msgstr "Jesteś już zalogowany/-a jako <em>%(user)s</em>."
 
 #: templates/account/verification_sent.html:7
 msgid "Verify your e-mail address"
@@ -521,7 +521,7 @@ msgstr "Wysłaliśmy ci wiadomość e-mail w celu weryfikacji. Wejdź w link, by
 #: templates/account/verification_sent.html:14
 #, python-format
 msgid "Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes."
-msgstr "Prosimy <a href=\"mailto:%(site_email)s\">skontaktuj się z nami</a>jeśli nie otrzymasz go w ciągu paru minut."
+msgstr "Prosimy <a href=\"mailto:%(site_email)s\">skontaktuj się z nami</a> jeśli nie otrzymasz go w ciągu paru minut."
 
 #: templates/footer.html:7
 msgid "Back to top"
@@ -537,7 +537,7 @@ msgstr "Śledź nas na Twitterze"
 
 #: templates/footer.html:27
 msgid "Join our Discord server"
-msgstr "Dołącz do naszego serwera na Discord"
+msgstr "Dołącz do naszego serwera na Discordzie"
 
 #: templates/footer.html:33
 msgid "Like us on Facebook"
@@ -637,7 +637,7 @@ msgstr "Błąd uwierzytelniania"
 
 #: templates/socialaccount/authentication_error.html:28
 msgid "Back to the office."
-msgstr "Wracam do biura."
+msgstr "I myk do lobby."
 
 #: templates/socialaccount/connections.html:14
 msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard account."
