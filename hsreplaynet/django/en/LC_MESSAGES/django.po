@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-11-29 01:40+0000\n"
+"POT-Creation-Date: 2018-11-30 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -309,40 +309,40 @@ msgstr ""
 msgid "New webhook…"
 msgstr ""
 
-#: templates/account/base.html:12
+#: templates/account/base.html:14
 msgid "Settings"
 msgstr ""
 
-#: templates/account/base.html:13
+#: templates/account/base.html:15
 msgid "Email"
 msgstr ""
 
-#: templates/account/base.html:15
+#: templates/account/base.html:17
 msgid "Billing"
 msgstr ""
 
-#: templates/account/base.html:17 web/views/dashboard.py:84
+#: templates/account/base.html:19 web/views/dashboard.py:84
 msgid "API Access"
 msgstr ""
 
-#: templates/account/base.html:18
+#: templates/account/base.html:20
 msgid "OAuth Apps"
 msgstr ""
 
-#: templates/account/base.html:20 templates/account/login.html:69
+#: templates/account/base.html:22 templates/account/login.html:69
 #: templates/account/signup.html:33
 msgid "Password"
 msgstr ""
 
-#: templates/account/base.html:22 templates/socialaccount/connections.html:9
+#: templates/account/base.html:24 templates/socialaccount/connections.html:9
 msgid "Connected accounts"
 msgstr ""
 
-#: templates/account/base.html:23
+#: templates/account/base.html:25
 msgid "Delete account"
 msgstr ""
 
-#: templates/account/base.html:27 templates/account/logout.html:6
+#: templates/account/base.html:29 templates/account/logout.html:6
 #: templates/account/logout.html:17
 msgid "Sign out"
 msgstr ""
