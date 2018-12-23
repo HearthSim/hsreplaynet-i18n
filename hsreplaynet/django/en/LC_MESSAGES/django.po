@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-22 01:40+0000\n"
+"POT-Creation-Date: 2018-12-23 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -79,7 +79,7 @@ msgstr ""
 msgid "You are already subscribed!"
 msgstr ""
 
-#: billing/views.py:352 billing/views.py:584 billing/views.py:658
+#: billing/views.py:352 billing/views.py:596 billing/views.py:658
 msgid "You already have an active or a pending subscription."
 msgstr ""
 
@@ -147,15 +147,15 @@ msgstr ""
 msgid " Please contact us if you are seeing this in error."
 msgstr ""
 
-#: billing/views.py:588
+#: billing/views.py:585
 msgid "Unable to complete subscription."
 msgstr ""
 
-#: billing/views.py:593
+#: billing/views.py:590
 msgid "Invalid subscription token."
 msgstr ""
 
-#: billing/views.py:596
+#: billing/views.py:593
 msgid "You are not logged in as the correct user."
 msgstr ""
 
