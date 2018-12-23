@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-19 17:36+0000\n"
-"PO-Revision-Date: 2018-12-22 12:40\n"
+"PO-Revision-Date: 2018-12-23 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -31,7 +31,7 @@ msgstr "Kod nie ma zastosowania dla tego konta."
 
 #: api/views/features.py:37
 msgid "Code has not been activated yet."
-msgstr ""
+msgstr "Kod nie został jeszcze aktywowany."
 
 #: api/views/features.py:46
 msgid "Code is invalid or has expired."
@@ -440,7 +440,7 @@ msgstr "Blizzard przekieruje cię tutaj z powrotem gdy już skończysz."
 
 #: templates/account/login.html:30
 msgid "Log in with Blizzard"
-msgstr "Zaloguj się przez Blizzard"
+msgstr "Zaloguj się przez Blizzarda"
 
 #: templates/account/login.html:34
 msgid "Region"
