@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-12-28 01:40+0000\n"
+"POT-Creation-Date: 2018-12-29 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -271,42 +271,30 @@ msgstr ""
 msgid "Webhooks"
 msgstr ""
 
-#: templates/account/api.html:48
-msgid ""
-"Webhooks allow you, or an authorized application, to automatically POST to a "
-"URL whenever you complete a game and it is made available on HSReplay.net."
+#: templates/account/api.html:48 templates/webhooks/detail.html:11
+msgid "Webhooks have been deprecated"
 msgstr ""
 
-#: templates/account/api.html:55
-msgid "This feature is still in beta."
+#: templates/account/api.html:49 templates/webhooks/detail.html:12
+msgid ""
+"No new endpoints can be added. We will continue to deliver existing webhooks "
+"for the time being."
 msgstr ""
 
 #: templates/account/api.html:56
-#, python-format
-msgid ""
-"The API objects are not final and the functionality is still being tested. "
-"If you are interested in using them or have any questions, <a href=\"mailto:"
-"%(site_email)s\">please contact us</a> so we can help!"
-msgstr ""
-
-#: templates/account/api.html:65
 msgid "You don't have any webhooks set up right now."
 msgstr ""
 
-#: templates/account/api.html:70
+#: templates/account/api.html:61
 msgid "UUID"
 msgstr ""
 
-#: templates/account/api.html:71
+#: templates/account/api.html:62
 msgid "URL"
 msgstr ""
 
-#: templates/account/api.html:72
+#: templates/account/api.html:63
 msgid "Active"
-msgstr ""
-
-#: templates/account/api.html:88
-msgid "New webhook…"
 msgstr ""
 
 #: templates/account/base.html:14
