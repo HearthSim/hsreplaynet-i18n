@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-29 01:40+0000\n"
-"PO-Revision-Date: 2018-12-29 12:40\n"
+"PO-Revision-Date: 2018-12-30 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -31,7 +31,7 @@ msgstr "El código no se aplica a esta cuenta."
 
 #: api/views/features.py:37
 msgid "Code has not been activated yet."
-msgstr ""
+msgstr "El código no ha sido activado aún."
 
 #: api/views/features.py:46
 msgid "Code is invalid or has expired."
