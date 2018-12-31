@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-12-29 01:40+0000\n"
-"PO-Revision-Date: 2018-12-30 12:40\n"
+"PO-Revision-Date: 2018-12-31 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -257,11 +257,11 @@ msgstr "Webhooks"
 
 #: templates/account/api.html:48 templates/webhooks/detail.html:11
 msgid "Webhooks have been deprecated"
-msgstr ""
+msgstr "Webhooks已被废止"
 
 #: templates/account/api.html:49 templates/webhooks/detail.html:12
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
-msgstr ""
+msgstr "无法再添加新的终端。目前我们仍继续为现存webhooks提供服务。"
 
 #: templates/account/api.html:56
 msgid "You don't have any webhooks set up right now."
