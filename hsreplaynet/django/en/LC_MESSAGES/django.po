@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-02 01:40+0000\n"
+"POT-Creation-Date: 2019-01-03 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -79,7 +79,7 @@ msgstr ""
 msgid "You are already subscribed!"
 msgstr ""
 
-#: billing/views.py:367 billing/views.py:611 billing/views.py:673
+#: billing/views.py:367 billing/views.py:611 billing/views.py:678
 msgid "You already have an active or a pending subscription."
 msgstr ""
 
@@ -159,27 +159,31 @@ msgstr ""
 msgid "You are not logged in as the correct user."
 msgstr ""
 
-#: billing/views.py:633
+#: billing/views.py:630
+msgid "Subscription was cancelled by PayPal."
+msgstr ""
+
+#: billing/views.py:638
 msgid "You are now subscribed with PayPal!"
 msgstr ""
 
-#: billing/views.py:654
+#: billing/views.py:659
 msgid "Invalid token while cancelling payment."
 msgstr ""
 
-#: billing/views.py:659
+#: billing/views.py:664
 msgid "Payment has already completed and cannot be cancelled."
 msgstr ""
 
-#: billing/views.py:663
+#: billing/views.py:668
 msgid "Your payment was interrupted."
 msgstr ""
 
-#: billing/views.py:677
+#: billing/views.py:682
 msgid "Could not determine your plan."
 msgstr ""
 
-#: billing/views.py:682
+#: billing/views.py:687
 msgid "Invalid Paypal plan."
 msgstr ""
 
@@ -686,6 +690,24 @@ msgstr ""
 #: templates/socialaccount/connections.html:62
 msgid ""
 "You currently have no social network accounts connected to this account."
+msgstr ""
+
+#: templates/socialaccount/signup.html:55
+msgid "Already have an account?"
+msgstr ""
+
+#: templates/socialaccount/signup.html:56
+#, python-format
+msgid ""
+"\n"
+"\t\t\t\t\tIf you keep seeing this page, despite having already registered, "
+"you may be logged into the wrong Blizzard account.<br />\n"
+"\t\t\t\t\t<a href=\"https://www.blizzard.com\" target=\"_blank\" rel="
+"\"noopener\">Go to Blizzard.com</a>, sign in to the correct account, then "
+"try again.<br/>\n"
+"\t\t\t\t\t<a href=\"mailto:%(site_email)s\">Contact us</a> if you need help "
+"signing in to an existing account. We can merge accounts for you!\n"
+"\t\t\t\t"
 msgstr ""
 
 #: web/views/__init__.py:18
