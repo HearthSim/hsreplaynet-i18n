@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-03 01:40+0000\n"
-"PO-Revision-Date: 2019-01-04 12:40\n"
+"PO-Revision-Date: 2019-01-05 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -151,7 +151,7 @@ msgstr "Du bist nicht als der korrekte Benutzer angemeldet."
 
 #: billing/views.py:630
 msgid "Subscription was cancelled by PayPal."
-msgstr ""
+msgstr "Das Abonnement wurde von PayPal abgebrochen."
 
 #: billing/views.py:638
 msgid "You are now subscribed with PayPal!"
@@ -261,11 +261,11 @@ msgstr "Webhooks"
 
 #: templates/account/api.html:48 templates/webhooks/detail.html:11
 msgid "Webhooks have been deprecated"
-msgstr ""
+msgstr "Webhooks werden nicht mehr unterstützt"
 
 #: templates/account/api.html:49 templates/webhooks/detail.html:12
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
-msgstr ""
+msgstr "Es können keine neuen Endpunkte hinzugefügt werden. Bestehende Webhooks werden zurzeit noch zugestellt."
 
 #: templates/account/api.html:56
 msgid "You don't have any webhooks set up right now."
@@ -653,7 +653,7 @@ msgstr "Du hast zurzeit keine sozialen Netzwerke mit diesem Konto verbunden."
 
 #: templates/socialaccount/signup.html:55
 msgid "Already have an account?"
-msgstr ""
+msgstr "Du hast bereits ein Konto?"
 
 #: templates/socialaccount/signup.html:56
 #, python-format
