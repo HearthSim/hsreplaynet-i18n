@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-05 01:40+0000\n"
+"POT-Creation-Date: 2019-01-06 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -529,7 +529,7 @@ msgstr ""
 msgid "Alternatively, sign up with an email and password."
 msgstr ""
 
-#: templates/account/signup.html:30 templates/socialaccount/signup.html:40
+#: templates/account/signup.html:30 templates/socialaccount/signup.html:46
 msgid "Email address"
 msgstr ""
 
@@ -722,53 +722,53 @@ msgstr ""
 msgid "Battletag"
 msgstr ""
 
-#: templates/socialaccount/signup.html:35
+#: templates/socialaccount/signup.html:41
 msgid "You can change this later by connecting additional accounts."
 msgstr ""
 
-#: templates/socialaccount/signup.html:48
+#: templates/socialaccount/signup.html:54
 msgid ""
 "Used for account and billing purposes and for optional product updates. "
 "Email confirmation is required."
 msgstr ""
 
-#: templates/socialaccount/signup.html:55
+#: templates/socialaccount/signup.html:61
 #, python-format
 msgid "I agree to the <a href=\"%(tos_url)s\">Terms of Service</a>."
 msgstr ""
 
-#: templates/socialaccount/signup.html:61
+#: templates/socialaccount/signup.html:67
 msgid "I want to receive product updates by email."
 msgstr ""
 
-#: templates/socialaccount/signup.html:69
+#: templates/socialaccount/signup.html:75
 msgid "Already have an HSReplay.net account?"
 msgstr ""
 
-#: templates/socialaccount/signup.html:70
+#: templates/socialaccount/signup.html:76
 msgid ""
 "If you keep seeing this page despite having registered an HSReplay.net "
 "account in the past, you may be logged into the wrong Blizzard account."
 msgstr ""
 
-#: templates/socialaccount/signup.html:71
+#: templates/socialaccount/signup.html:77
 msgid ""
 "You can sign in to a different Blizzard account by following these steps:"
 msgstr ""
 
-#: templates/socialaccount/signup.html:75
+#: templates/socialaccount/signup.html:81
 msgid "Sign out of your Blizzard account"
 msgstr ""
 
-#: templates/socialaccount/signup.html:80
+#: templates/socialaccount/signup.html:86
 msgid "Return to the HSReplay.net sign in page"
 msgstr ""
 
-#: templates/socialaccount/signup.html:83
+#: templates/socialaccount/signup.html:89
 msgid "Sign into the correct Blizzard account"
 msgstr ""
 
-#: templates/socialaccount/signup.html:87
+#: templates/socialaccount/signup.html:93
 #, python-format
 msgid ""
 "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an "
