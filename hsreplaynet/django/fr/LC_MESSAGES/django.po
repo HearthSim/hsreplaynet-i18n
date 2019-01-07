@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 01:40+0000\n"
-"PO-Revision-Date: 2019-01-06 12:40\n"
+"PO-Revision-Date: 2019-01-07 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -31,7 +31,7 @@ msgstr "Ce code ne s’applique pas à ce compte."
 
 #: api/views/features.py:37
 msgid "Code has not been activated yet."
-msgstr ""
+msgstr "Le code n'a pas encore été activé."
 
 #: api/views/features.py:46
 msgid "Code is invalid or has expired."
@@ -151,7 +151,7 @@ msgstr "Vous n’êtes pas connecté sur le même compte qu'avant : nom d'utilis
 
 #: billing/views.py:630
 msgid "Subscription was cancelled by PayPal."
-msgstr ""
+msgstr "L'abonnement a été annulé par PayPal."
 
 #: billing/views.py:638
 msgid "You are now subscribed with PayPal!"
@@ -654,32 +654,32 @@ msgstr "Aucun compte de réseau social n'est actuellement associé à ce compte.
 
 #: templates/socialaccount/signup.html:17
 msgid "The Blizzard account you are signing up with does not have a confirmed battletag yet, and cannot play Hearthstone."
-msgstr ""
+msgstr "Le compte Blizzard avec lequel vous vous connectez n'a pas encore de battletag confirmé, et ne peut jouer à Hearthstone."
 
 #: templates/socialaccount/signup.html:18
 msgid "Please <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">visit Blizzard.com</a> and sign out to choose a different account."
-msgstr ""
+msgstr "Veuillez <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">visiter Blizzard.com</a> et vous déconnecter pour choisir un autre compte."
 
 #: templates/socialaccount/signup.html:22
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account."
-msgstr ""
+msgstr "<a href=\"%(contact_url)s\">Contactez-nous</a> si vous avez besoin d'aide pour vous connecter à un compte existant."
 
 #: templates/socialaccount/signup.html:26
 msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
-msgstr ""
+msgstr "Vous êtes sur le point de créer un nouveau compte HSReplay.net. Veuillez entrer et confirmer vos détails ci-après :"
 
 #: templates/socialaccount/signup.html:32
 msgid "Battletag"
-msgstr ""
+msgstr "Battletag"
 
 #: templates/socialaccount/signup.html:41
 msgid "You can change this later by connecting additional accounts."
-msgstr ""
+msgstr "Vous pouvez effectuer des modifications ultérieurement en connectant des comptes additionnels."
 
 #: templates/socialaccount/signup.html:54
 msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
-msgstr ""
+msgstr "Utilisé pour la gestion de compte, la facturation et les mises à jour optionnelles de produits. Un email de confirmation est requis."
 
 #: templates/socialaccount/signup.html:61
 #, python-format
@@ -745,7 +745,7 @@ msgstr "Méta Hearthstone"
 
 #: web/views/archetypes.py:19
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
-msgstr "Explorez la méta de Hearthstone et trouvez contre quels archétypes votre deck est fort."
+msgstr "Explorez la méta Hearthstone et trouvez contre quels archétypes votre deck est fort."
 
 #: web/views/archetypes.py:28
 msgid "Discover"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 01:40+0000\n"
-"PO-Revision-Date: 2019-01-06 12:40\n"
+"PO-Revision-Date: 2019-01-07 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -151,7 +151,7 @@ msgstr "Вы не вошли из под соответствующей учет
 
 #: billing/views.py:630
 msgid "Subscription was cancelled by PayPal."
-msgstr ""
+msgstr "Подписка была отменена в PayPal."
 
 #: billing/views.py:638
 msgid "You are now subscribed with PayPal!"
@@ -261,11 +261,11 @@ msgstr "Веб-хуки"
 
 #: templates/account/api.html:48 templates/webhooks/detail.html:11
 msgid "Webhooks have been deprecated"
-msgstr ""
+msgstr "Webhook'и более не поддерживаются"
 
 #: templates/account/api.html:49 templates/webhooks/detail.html:12
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
-msgstr ""
+msgstr "Новые конечные точки добавляться не будут. Существующие webhook'и пока будут работать."
 
 #: templates/account/api.html:56
 msgid "You don't have any webhooks set up right now."
@@ -655,70 +655,70 @@ msgstr "В настоящее время у вас нет связанных у�
 
 #: templates/socialaccount/signup.html:17
 msgid "The Blizzard account you are signing up with does not have a confirmed battletag yet, and cannot play Hearthstone."
-msgstr ""
+msgstr "Использованная учетная запись Blizzard, не содержит подтвержденного battletag и не может играть в Hearthstone."
 
 #: templates/socialaccount/signup.html:18
 msgid "Please <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">visit Blizzard.com</a> and sign out to choose a different account."
-msgstr ""
+msgstr "Пожалуйста, <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">зайдите на Blizzard.com</a> и выйдите, чтобы использовать другую учетную запись."
 
 #: templates/socialaccount/signup.html:22
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account."
-msgstr ""
+msgstr "<a href=\"%(contact_url)s\">Свяжитесь с нами</a>, если у вас не получается войти с существующей учетной записью."
 
 #: templates/socialaccount/signup.html:26
 msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
-msgstr ""
+msgstr "Сейчас будет создана ваша новая учетная запись HSReplay.net. Пожалуйста, введите и подтвердите ниже данные о себе:"
 
 #: templates/socialaccount/signup.html:32
 msgid "Battletag"
-msgstr ""
+msgstr "Battletag"
 
 #: templates/socialaccount/signup.html:41
 msgid "You can change this later by connecting additional accounts."
-msgstr ""
+msgstr "Вы можете изменить это позже, подключив дополнительные учетные записи."
 
 #: templates/socialaccount/signup.html:54
 msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
-msgstr ""
+msgstr "Используется для идентификации, оплаты и (опционально) для уведомления об обновлениях. Потребуется подтверждение."
 
 #: templates/socialaccount/signup.html:61
 #, python-format
 msgid "I agree to the <a href=\"%(tos_url)s\">Terms of Service</a>."
-msgstr ""
+msgstr "Я согласен с <a href=\"%(tos_url)s\">пользовательским соглашением</a>."
 
 #: templates/socialaccount/signup.html:67
 msgid "I want to receive product updates by email."
-msgstr ""
+msgstr "Я хочу получать обновления по электронной почте."
 
 #: templates/socialaccount/signup.html:75
 msgid "Already have an HSReplay.net account?"
-msgstr ""
+msgstr "Уже есть учетная запись HSReplay.net?"
 
 #: templates/socialaccount/signup.html:76
 msgid "If you keep seeing this page despite having registered an HSReplay.net account in the past, you may be logged into the wrong Blizzard account."
-msgstr ""
+msgstr "Если вы продолжаете видеть эту страницу после регистрации на HSReplay.net, возможно вы вошли под другой учетной записью Blizzard."
 
 #: templates/socialaccount/signup.html:77
 msgid "You can sign in to a different Blizzard account by following these steps:"
-msgstr ""
+msgstr "Вы можете войти с другой учетной записью Blizzard, выполнив следующие действия:"
 
 #: templates/socialaccount/signup.html:81
 msgid "Sign out of your Blizzard account"
-msgstr ""
+msgstr "Выйдите из учетной записи Blizzard"
 
 #: templates/socialaccount/signup.html:86
 msgid "Return to the HSReplay.net sign in page"
-msgstr ""
+msgstr "Вернитесь к странице входа HSReplay.net"
 
 #: templates/socialaccount/signup.html:89
 msgid "Sign into the correct Blizzard account"
-msgstr ""
+msgstr "Войдите с правильной учетной записью Blizzard"
 
 #: templates/socialaccount/signup.html:93
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
-msgstr ""
+msgstr "<a href=\"%(contact_url)s\">Свяжитесь с нами</a>, если у вас не получается войти с существующей учетной записью. Мы можем объединить ваши учетные записи!"
 
 #: web/views/__init__.py:18
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
@@ -767,7 +767,7 @@ msgstr "Этот Архетип больше не доступен."
 #: web/views/archetypes.py:55
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
-msgstr "Просматривайте статистику и другие колоды {name}."
+msgstr "Просматривайте статистику и другие колоды архетипа {name}."
 
 #: web/views/cards.py:23 web/views/cards.py:108
 msgid "Hearthstone Card Statistics"
