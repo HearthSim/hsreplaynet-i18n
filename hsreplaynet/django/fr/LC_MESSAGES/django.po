@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 01:40+0000\n"
-"PO-Revision-Date: 2019-01-07 12:40\n"
+"PO-Revision-Date: 2019-01-08 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -684,15 +684,15 @@ msgstr "Utilisé pour la gestion de compte, la facturation et les mises à jour 
 #: templates/socialaccount/signup.html:61
 #, python-format
 msgid "I agree to the <a href=\"%(tos_url)s\">Terms of Service</a>."
-msgstr ""
+msgstr "J'accepte les <a href=\"%(tos_url)s\">Conditions du service</a>."
 
 #: templates/socialaccount/signup.html:67
 msgid "I want to receive product updates by email."
-msgstr ""
+msgstr "Je désire recevoir des mises à jour du produit par mail."
 
 #: templates/socialaccount/signup.html:75
 msgid "Already have an HSReplay.net account?"
-msgstr ""
+msgstr "Vous avez déjà un compte HSReplay.net ?"
 
 #: templates/socialaccount/signup.html:76
 msgid "If you keep seeing this page despite having registered an HSReplay.net account in the past, you may be logged into the wrong Blizzard account."
