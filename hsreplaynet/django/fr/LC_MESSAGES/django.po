@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 01:40+0000\n"
-"PO-Revision-Date: 2019-01-08 12:40\n"
+"PO-Revision-Date: 2019-01-09 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -692,32 +692,32 @@ msgstr "Je désire recevoir des mises à jour du produit par mail."
 
 #: templates/socialaccount/signup.html:75
 msgid "Already have an HSReplay.net account?"
-msgstr "Vous avez déjà un compte HSReplay.net ?"
+msgstr "Avez-vous déjà un compte HSReplay.net ?"
 
 #: templates/socialaccount/signup.html:76
 msgid "If you keep seeing this page despite having registered an HSReplay.net account in the past, you may be logged into the wrong Blizzard account."
-msgstr ""
+msgstr "Si vous voyez encore cette page alors que vous avez déjà enregistré un compte HSReplay.net par le passé, vous pouvez être connecté(e) au mauvais compte Blizzard."
 
 #: templates/socialaccount/signup.html:77
 msgid "You can sign in to a different Blizzard account by following these steps:"
-msgstr ""
+msgstr "Vous pouvez vous connecter à un compte Blizzard différent en suivant ces étapes :"
 
 #: templates/socialaccount/signup.html:81
 msgid "Sign out of your Blizzard account"
-msgstr ""
+msgstr "Déconnectez-vous de votre compte Blizzard"
 
 #: templates/socialaccount/signup.html:86
 msgid "Return to the HSReplay.net sign in page"
-msgstr ""
+msgstr "Revenir à la page de connexion de HSReplay.net"
 
 #: templates/socialaccount/signup.html:89
 msgid "Sign into the correct Blizzard account"
-msgstr ""
+msgstr "Connectez-vous au compte Blizzard correct"
 
 #: templates/socialaccount/signup.html:93
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
-msgstr ""
+msgstr "<a href=\"%(contact_url)s\">Contactez-nous</a> si vous avez besoin d'aide pour vous connecter à un compte existant. Nous pouvons fusionner des comptes pour vous !"
 
 #: web/views/__init__.py:18
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."

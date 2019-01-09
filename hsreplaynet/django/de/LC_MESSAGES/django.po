@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-01-06 01:40+0000\n"
-"PO-Revision-Date: 2019-01-08 12:40\n"
+"PO-Revision-Date: 2019-01-09 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -496,7 +496,7 @@ msgstr "Nutze dein Blizzard-Konto, um dich bei HSReplay.net zu registrieren."
 
 #: templates/account/signup.html:16
 msgid "Alternatively, sign up with an email and password."
-msgstr "Melde dich anderenfalls mit E-Mail und Passwort an."
+msgstr "Melde dich andernfalls mit E-Mail und Passwort an."
 
 #: templates/account/signup.html:30 templates/socialaccount/signup.html:46
 msgid "Email address"
@@ -658,12 +658,12 @@ msgstr ""
 
 #: templates/socialaccount/signup.html:18
 msgid "Please <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">visit Blizzard.com</a> and sign out to choose a different account."
-msgstr ""
+msgstr "Bitte <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">besuche Blizzard.com</a> und melde dich dort ab um ein anderes Konto auszuwählen."
 
 #: templates/socialaccount/signup.html:22
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account."
-msgstr ""
+msgstr "<a href=\"%(contact_url)s\">Kontaktiere uns</a> falls du Hilfe bei der Anmeldung in ein bestehendes Konto benötigst."
 
 #: templates/socialaccount/signup.html:26
 msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
