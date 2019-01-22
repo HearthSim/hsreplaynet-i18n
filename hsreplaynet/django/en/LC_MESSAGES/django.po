@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-21 01:40+0000\n"
+"POT-Creation-Date: 2019-01-22 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -313,7 +313,7 @@ msgstr ""
 msgid "Billing"
 msgstr ""
 
-#: templates/account/base.html:19 web/views/dashboard.py:84
+#: templates/account/base.html:19 web/views/dashboard.py:85
 msgid "API Access"
 msgstr ""
 
@@ -869,43 +869,43 @@ msgstr ""
 msgid "{user}'s Hearthstone Collection"
 msgstr ""
 
-#: web/views/dashboard.py:37
+#: web/views/dashboard.py:38
 msgid "My Account"
 msgstr ""
 
-#: web/views/dashboard.py:96
+#: web/views/dashboard.py:97
 msgid "Delete Account"
 msgstr ""
 
-#: web/views/dashboard.py:121
+#: web/views/dashboard.py:122
 msgid "This account cannot be deleted."
 msgstr ""
 
-#: web/views/dashboard.py:149
+#: web/views/dashboard.py:150
 msgid "Your replays have been deleted."
 msgstr ""
 
-#: web/views/dashboard.py:184
+#: web/views/dashboard.py:185
 msgid "Could not make account primary."
 msgstr ""
 
-#: web/views/dashboard.py:217
+#: web/views/dashboard.py:222
 msgid "Your email preferences have been saved."
 msgstr ""
 
-#: web/views/dashboard.py:233
+#: web/views/dashboard.py:238
 msgid "Create a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:244
+#: web/views/dashboard.py:249
 msgid "Update a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:270
+#: web/views/dashboard.py:275
 msgid "OAuth Applications"
 msgstr ""
 
-#: web/views/dashboard.py:317
+#: web/views/dashboard.py:322
 msgid "Your OAuth Application"
 msgstr ""
 
