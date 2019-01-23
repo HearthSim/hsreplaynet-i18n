@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-22 01:40+0000\n"
+"POT-Creation-Date: 2019-01-23 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -313,7 +313,7 @@ msgstr ""
 msgid "Billing"
 msgstr ""
 
-#: templates/account/base.html:19 web/views/dashboard.py:85
+#: templates/account/base.html:19 web/views/dashboard.py:86
 msgid "API Access"
 msgstr ""
 
@@ -869,43 +869,53 @@ msgstr ""
 msgid "{user}'s Hearthstone Collection"
 msgstr ""
 
-#: web/views/dashboard.py:38
+#: web/views/dashboard.py:39
 msgid "My Account"
 msgstr ""
 
-#: web/views/dashboard.py:97
+#: web/views/dashboard.py:98
 msgid "Delete Account"
 msgstr ""
 
-#: web/views/dashboard.py:122
+#: web/views/dashboard.py:123
 msgid "This account cannot be deleted."
 msgstr ""
 
-#: web/views/dashboard.py:150
+#: web/views/dashboard.py:151
 msgid "Your replays have been deleted."
 msgstr ""
 
-#: web/views/dashboard.py:185
+#: web/views/dashboard.py:186
 msgid "Could not make account primary."
 msgstr ""
 
-#: web/views/dashboard.py:222
+#: web/views/dashboard.py:260
+msgid ""
+"Check your inbox! We've sent an email to confirm your \t\t\t\t\t\t"
+"\tsubscription preferences."
+msgstr ""
+
+#: web/views/dashboard.py:268 web/views/dashboard.py:274
+msgid "Failed to save your email preferences. Please try again later!"
+msgstr ""
+
+#: web/views/dashboard.py:284
 msgid "Your email preferences have been saved."
 msgstr ""
 
-#: web/views/dashboard.py:238
+#: web/views/dashboard.py:300
 msgid "Create a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:249
+#: web/views/dashboard.py:311
 msgid "Update a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:275
+#: web/views/dashboard.py:337
 msgid "OAuth Applications"
 msgstr ""
 
-#: web/views/dashboard.py:322
+#: web/views/dashboard.py:384
 msgid "Your OAuth Application"
 msgstr ""
 
