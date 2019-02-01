@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-01 01:40+0000\n"
+"POT-Creation-Date: 2019-02-01 15:11+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -891,31 +891,31 @@ msgstr ""
 
 #: web/views/dashboard.py:260
 msgid ""
-"Check your inbox! We've sent an email to confirm your \t\t\t\t\t\t"
-"\tsubscription preferences."
+"Check your inbox! We've sent an email to confirm your subscription "
+"preferences."
 msgstr ""
 
-#: web/views/dashboard.py:268 web/views/dashboard.py:274
+#: web/views/dashboard.py:267 web/views/dashboard.py:273
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr ""
 
-#: web/views/dashboard.py:284
+#: web/views/dashboard.py:283
 msgid "Your email preferences have been saved."
 msgstr ""
 
-#: web/views/dashboard.py:300
+#: web/views/dashboard.py:299
 msgid "Create a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:311
+#: web/views/dashboard.py:310
 msgid "Update a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:337
+#: web/views/dashboard.py:336
 msgid "OAuth Applications"
 msgstr ""
 
-#: web/views/dashboard.py:384
+#: web/views/dashboard.py:383
 msgid "Your OAuth Application"
 msgstr ""
 
