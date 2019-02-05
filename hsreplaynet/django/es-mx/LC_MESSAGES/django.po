@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-05 01:40+0000\n"
-"PO-Revision-Date: 2019-02-04 12:41\n"
+"POT-Creation-Date: 2019-02-01 15:11+0000\n"
+"PO-Revision-Date: 2019-02-05 12:41\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -54,29 +54,20 @@ msgid "Your card was declined. Please use a different card."
 msgstr "Tu tarjeta ha sido rechazada. Por favor usa una tarjeta diferente."
 
 #: billing/views.py:309
-msgid ""
-"That email address is associated with another account. If you'd like to "
-"merge accounts, please contact us!"
-msgstr ""
-"La cuenta de correo esta asociada con otra cuenta. Si quiere unir cuentas, "
-"por favor ponte en contacto con nosotros!"
+msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
+msgstr "La cuenta de correo esta asociada con otra cuenta. Si quiere unir cuentas, por favor ponte en contacto con nosotros!"
 
 #: billing/views.py:337
 msgid "You have multiple subscriptions. Please contact us."
-msgstr ""
-"Tienes múltiples subscripciones. Por favor ponte en contacto con nosotros."
+msgstr "Tienes múltiples subscripciones. Por favor ponte en contacto con nosotros."
 
 #: billing/views.py:351
 msgid "Your subscription has expired."
 msgstr "Tu subscripción ha expirado."
 
 #: billing/views.py:357
-msgid ""
-"Your current subscription is still active. If you are having billing issues, "
-"please contact us!"
-msgstr ""
-"Tu subscripción esta aun activa. Si tienes problemas de facturación, por "
-"favor ponte en contacto con nosotros!"
+msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
+msgstr "Tu subscripción esta aun activa. Si tienes problemas de facturación, por favor ponte en contacto con nosotros!"
 
 #: billing/views.py:361
 msgid "You are already subscribed!"
@@ -91,18 +82,12 @@ msgid "Could not process subscription."
 msgstr "No se puede completar la subscripción."
 
 #: billing/views.py:412
-msgid ""
-"Your card declined the charge. Please contact your bank for information."
-msgstr ""
-"Tu tarjeta ha declinado el pago. Por favor contacta con tu banco para "
-"informarte."
+msgid "Your card declined the charge. Please contact your bank for information."
+msgstr "Tu tarjeta ha declinado el pago. Por favor contacta con tu banco para informarte."
 
 #: billing/views.py:414
-msgid ""
-"Your card does not support payments in USD. Please try a different card."
-msgstr ""
-"Tu tarjeta no admite pagos en dólares. Por favor intenta con una tarjeta "
-"diferente."
+msgid "Your card does not support payments in USD. Please try a different card."
+msgstr "Tu tarjeta no admite pagos en dólares. Por favor intenta con una tarjeta diferente."
 
 #: billing/views.py:416
 msgid "Your card has exceeded its credit limit. Please use a different one."
@@ -113,12 +98,8 @@ msgid "Your card has insufficient funds to proceed."
 msgstr "Tu tarjeta tiene fondos insuficientes para proceder."
 
 #: billing/views.py:422
-msgid ""
-"Your card was declined, you have not been charged. Please try a different "
-"card; contact us if this persists."
-msgstr ""
-"Tu tarjeta ha sido rechazada, no se ha realizado ningún cargo. Por favor "
-"prueba con una tarjeta diferente, contacta con nosotros si el fallo persiste."
+msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
+msgstr "Tu tarjeta ha sido rechazada, no se ha realizado ningún cargo. Por favor prueba con una tarjeta diferente, contacta con nosotros si el fallo persiste."
 
 #: billing/views.py:455
 msgid "You are now subscribed!"
@@ -246,12 +227,8 @@ msgstr "Cuenta inactiva"
 
 #: templates/account/account_inactive.html:9
 #, python-format
-msgid ""
-"This account is inactive or has been banned. Please <a href=\"mailto:"
-"%(site_email)s\">contact us</a> if this is in error."
-msgstr ""
-"Esta cuenta esta inactiva o ha sido baneada. Por favor<a href=\"mailto:"
-"%(site_email)s\">contacta con nosotros </a> si es un error."
+msgid "This account is inactive or has been banned. Please <a href=\"mailto:%(site_email)s\">contact us</a> if this is in error."
+msgstr "Esta cuenta esta inactiva o ha sido baneada. Por favor<a href=\"mailto:%(site_email)s\">contacta con nosotros </a> si es un error."
 
 #: templates/account/api.html:7
 msgid "Authentication Tokens"
@@ -259,21 +236,12 @@ msgstr "Identificación de autentificación."
 
 #: templates/account/api.html:12
 #, python-format
-msgid ""
-"You do not have any upload client associated with your account. <a href="
-"\"%(downloads_url)s\">Download Hearthstone Deck Tracker</a> and claim your "
-"account from there!"
-msgstr ""
-"No tienes subido ningún cliente asociado con esta cuenta. <a href="
-"\"%(downloads_url)s\">Descarga Hearthstone Deck Tracker</a> y reclama tu "
-"cuenta desde ahí!"
+msgid "You do not have any upload client associated with your account. <a href=\"%(downloads_url)s\">Download Hearthstone Deck Tracker</a> and claim your account from there!"
+msgstr "No tienes subido ningún cliente asociado con esta cuenta. <a href=\"%(downloads_url)s\">Descarga Hearthstone Deck Tracker</a> y reclama tu cuenta desde ahí!"
 
 #: templates/account/api.html:19
-msgid ""
-"The following tokens can be used to upload your games. Keep them private!"
-msgstr ""
-"Estos datos identificativos serán usados para subir tus partidas. Guardalos "
-"en un lugar seguro!"
+msgid "The following tokens can be used to upload your games. Keep them private!"
+msgstr "Estos datos identificativos serán usados para subir tus partidas. Guardalos en un lugar seguro!"
 
 #: templates/account/api.html:22
 msgid "Application"
@@ -296,9 +264,7 @@ msgid "Webhooks have been deprecated"
 msgstr ""
 
 #: templates/account/api.html:49 templates/webhooks/detail.html:12
-msgid ""
-"No new endpoints can be added. We will continue to deliver existing webhooks "
-"for the time being."
+msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
 msgstr ""
 
 #: templates/account/api.html:56
@@ -365,18 +331,12 @@ msgid "Are you sure?"
 msgstr "Estás seguro?"
 
 #: templates/account/delete_replays.html:10
-msgid ""
-"Deleting your replays will unlink them from your account and make any "
-"previously-shared replay URL inaccessible."
-msgstr ""
-"Borrar tus repeticiones las desvinculara de tu cuenta y hará que cualquier "
-"repetición compartida sea inaccesible."
+msgid "Deleting your replays will unlink them from your account and make any previously-shared replay URL inaccessible."
+msgstr "Borrar tus repeticiones las desvinculara de tu cuenta y hará que cualquier repetición compartida sea inaccesible."
 
 #: templates/account/delete_replays.html:12
-msgid ""
-"Your personal statistics will not be reset. Are you sure you want to proceed?"
-msgstr ""
-"Tus estadísticas personales no se resetaran. Estas seguro que quieres seguir?"
+msgid "Your personal statistics will not be reset. Are you sure you want to proceed?"
+msgstr "Tus estadísticas personales no se resetaran. Estas seguro que quieres seguir?"
 
 #: templates/account/delete_replays.html:18
 msgid "Cancel"
@@ -440,43 +400,23 @@ msgstr "Guardar"
 
 #: templates/account/email.html:99
 #, python-format
-msgid ""
-"Looking for a password setting? You can sign with any of <a href="
-"\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there "
-"is no HSReplay.net password."
-msgstr ""
-"Buscando los ajustes de contraseñas? Puedes iniciar sesión con cualquier <a "
-"href=\"%(connected_accounts_url)s\"> cuentas vinculadas de Blizzard</a>, asi "
-"que no hay una contraseña de HSReplay.net."
+msgid "Looking for a password setting? You can sign with any of <a href=\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there is no HSReplay.net password."
+msgstr "Buscando los ajustes de contraseñas? Puedes iniciar sesión con cualquier <a href=\"%(connected_accounts_url)s\"> cuentas vinculadas de Blizzard</a>, asi que no hay una contraseña de HSReplay.net."
 
 #: templates/account/email/email_confirmation_message.txt:1
 #, python-format
-msgid ""
-"Hello %(user)s!\n"
-"\n"
-"You've added this email address to your account. We need to verify that you "
-"own it.\n"
-"\n"
-"If this is correct, go to the following URL within three days to confirm:\n"
-"\n"
-"%(activate_url)s\n"
-"\n"
-"If this was not you, you can simply ignore this email.\n"
-"\n"
+msgid "Hello %(user)s!\n\n"
+"You've added this email address to your account. We need to verify that you own it.\n\n"
+"If this is correct, go to the following URL within three days to confirm:\n\n"
+"%(activate_url)s\n\n"
+"If this was not you, you can simply ignore this email.\n\n"
 "Cheers,\n"
 "The HSReplay.net Team\n"
-msgstr ""
-"Hola %(user)s!\n"
-"\n"
-"Has añadido esta dirección de correo a tu cuenta. Necesitamos que verifiques "
-"que eres el dueño.\n"
-"\n"
-"Si es asi, sigue el siguiente enlace URL dentro de 3 días para confirmar:\n"
-"\n"
-"%(activate_url)s\n"
-"\n"
-"Si no eres el dueño simplemente ignora este correo.\n"
-"\n"
+msgstr "Hola %(user)s!\n\n"
+"Has añadido esta dirección de correo a tu cuenta. Necesitamos que verifiques que eres el dueño.\n\n"
+"Si es asi, sigue el siguiente enlace URL dentro de 3 días para confirmar:\n\n"
+"%(activate_url)s\n\n"
+"Si no eres el dueño simplemente ignora este correo.\n\n"
 "Saludos,\n"
 "el equipo HSReplay.net\n"
 
@@ -486,11 +426,8 @@ msgid "Sign in to continue to %(oauth2_client)s"
 msgstr "Inicia sesión para continuar como %(oauth2_client)s"
 
 #: templates/account/login.html:19
-msgid ""
-"We'll send you to the official Blizzard site where you can securely sign in."
-msgstr ""
-"Te enviaremos a la pagina principal de Blizzard donde podrás iniciar sesión "
-"de manera segura."
+msgid "We'll send you to the official Blizzard site where you can securely sign in."
+msgstr "Te enviaremos a la pagina principal de Blizzard donde podrás iniciar sesión de manera segura."
 
 #: templates/account/login.html:21
 msgid "Blizzard will redirect you back here once you're done."
@@ -513,15 +450,12 @@ msgid "China (CN)"
 msgstr "China (CN)"
 
 #: templates/account/login.html:48
-msgid ""
-"HSReplay.net never gains access to your Blizzard email address or password."
+msgid "HSReplay.net never gains access to your Blizzard email address or password."
 msgstr "HSReplay.net nunca tendrá acceso a tu email o contraseña de Blizzard."
 
 #: templates/account/login.html:58
-msgid ""
-"Not using a Blizzard account? Sign in with your username and password here."
-msgstr ""
-"No usas una cuenta de Blizzard? Inicia sesión con usuario y contraseña aquí."
+msgid "Not using a Blizzard account? Sign in with your username and password here."
+msgstr "No usas una cuenta de Blizzard? Inicia sesión con usuario y contraseña aquí."
 
 #: templates/account/login.html:68 templates/account/signup.html:27
 msgid "Username"
@@ -540,12 +474,8 @@ msgid "Password reset"
 msgstr "Resetear contraseña"
 
 #: templates/account/password_reset.html:13
-msgid ""
-"Forgot your password? Enter your email below, we'll send you a link to reset "
-"it."
-msgstr ""
-"Has olvidado tu contraseña? Introduce tu email abajo, te enviaremos un "
-"enlace para reestablecerla."
+msgid "Forgot your password? Enter your email below, we'll send you a link to reset it."
+msgstr "Has olvidado tu contraseña? Introduce tu email abajo, te enviaremos un enlace para reestablecerla."
 
 #: templates/account/password_reset.html:19
 msgid "Reset password"
@@ -554,8 +484,7 @@ msgstr "Resetear contraseña"
 #: templates/account/password_reset.html:25
 #, python-format
 msgid "Need help? <a href=\"mailto:%(site_email)s\">Contact us</a>."
-msgstr ""
-"Necesitas ayuda? <a href=\"mailto:%(site_email)s\">Contacta con nosotros</a>."
+msgstr "Necesitas ayuda? <a href=\"mailto:%(site_email)s\">Contacta con nosotros</a>."
 
 #: templates/account/signup.html:8 templates/account/signup.html:39
 #: templates/socialaccount/signup.html:12
@@ -588,21 +517,13 @@ msgid "Verify your e-mail address"
 msgstr "Verifica tu dirección de email"
 
 #: templates/account/verification_sent.html:11
-msgid ""
-"We have sent you an e-mail for verification. Follow the link in it to "
-"finalize the signup process."
-msgstr ""
-"Te hemos mandado un email de verificación. Sigue el enlace para finalizar el "
-"proceso de identificación."
+msgid "We have sent you an e-mail for verification. Follow the link in it to finalize the signup process."
+msgstr "Te hemos mandado un email de verificación. Sigue el enlace para finalizar el proceso de identificación."
 
 #: templates/account/verification_sent.html:14
 #, python-format
-msgid ""
-"Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not "
-"receive it within a few minutes."
-msgstr ""
-"Por favor <a href=\"mailto:%(site_email)s\">contacto con nosotros</a> si no "
-"lo recibes en unos minutos."
+msgid "Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes."
+msgstr "Por favor <a href=\"mailto:%(site_email)s\">contacto con nosotros</a> si no lo recibes en unos minutos."
 
 #: templates/footer.html:7
 msgid "Back to top"
@@ -705,14 +626,8 @@ msgid "Refer a Friend"
 msgstr "Trae a un amigo"
 
 #: templates/snippets/noscript.html:5
-msgid ""
-"It looks like you have Javascript turned off. This page will not work "
-"correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel="
-"\"noopener\">Here is how to enable it</a>."
-msgstr ""
-"Parece que tienes JavaScript apagado. Esta pagina no funcionara "
-"correctamente.<a href=\"https://enable-javascript.com/\" target=\"_blank\" "
-"rel=\"noopener\">Aquí puede ver como activarlo</a>."
+msgid "It looks like you have Javascript turned off. This page will not work correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
+msgstr "Parece que tienes JavaScript apagado. Esta pagina no funcionara correctamente.<a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Aquí puede ver como activarlo</a>."
 
 #: templates/socialaccount/authentication_error.html:7
 msgid "Authentication error"
@@ -723,12 +638,8 @@ msgid "Back to the office."
 msgstr "Volver atrás."
 
 #: templates/socialaccount/connections.html:14
-msgid ""
-"The following social accounts are connected to your HSReplay.net account. "
-"You may sign in with any connected Blizzard account."
-msgstr ""
-"Las siguientes redes sociales están vinculadas a tu cuenta HSRepplay.net. "
-"Puedes conectarte con cualquier cuenta de Blizzard."
+msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard account."
+msgstr "Las siguientes redes sociales están vinculadas a tu cuenta HSRepplay.net. Puedes conectarte con cualquier cuenta de Blizzard."
 
 #: templates/socialaccount/connections.html:41
 msgid "Make primary"
@@ -739,33 +650,24 @@ msgid "Primary account"
 msgstr "Cuenta principal"
 
 #: templates/socialaccount/connections.html:62
-msgid ""
-"You currently have no social network accounts connected to this account."
+msgid "You currently have no social network accounts connected to this account."
 msgstr "Actualmente no tienen ninguna red social vinculada a esta cuenta."
 
 #: templates/socialaccount/signup.html:17
-msgid ""
-"The Blizzard account you are signing up with does not have a confirmed "
-"battletag yet, and cannot play Hearthstone."
+msgid "The Blizzard account you are signing up with does not have a confirmed battletag yet, and cannot play Hearthstone."
 msgstr ""
 
 #: templates/socialaccount/signup.html:18
-msgid ""
-"Please <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener"
-"\">visit Blizzard.com</a> and sign out to choose a different account."
+msgid "Please <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">visit Blizzard.com</a> and sign out to choose a different account."
 msgstr ""
 
 #: templates/socialaccount/signup.html:22
 #, python-format
-msgid ""
-"<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an "
-"existing account."
+msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account."
 msgstr ""
 
 #: templates/socialaccount/signup.html:26
-msgid ""
-"You are about to create a new HSReplay.net account. Please enter and confirm "
-"your details below:"
+msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
 msgstr ""
 
 #: templates/socialaccount/signup.html:32
@@ -777,9 +679,7 @@ msgid "You can change this later by connecting additional accounts."
 msgstr ""
 
 #: templates/socialaccount/signup.html:54
-msgid ""
-"Used for account and billing purposes and for optional product updates. "
-"Email confirmation is required."
+msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
 msgstr ""
 
 #: templates/socialaccount/signup.html:61
@@ -796,14 +696,11 @@ msgid "Already have an HSReplay.net account?"
 msgstr ""
 
 #: templates/socialaccount/signup.html:76
-msgid ""
-"If you keep seeing this page despite having registered an HSReplay.net "
-"account in the past, you may be logged into the wrong Blizzard account."
+msgid "If you keep seeing this page despite having registered an HSReplay.net account in the past, you may be logged into the wrong Blizzard account."
 msgstr ""
 
 #: templates/socialaccount/signup.html:77
-msgid ""
-"You can sign in to a different Blizzard account by following these steps:"
+msgid "You can sign in to a different Blizzard account by following these steps:"
 msgstr ""
 
 #: templates/socialaccount/signup.html:81
@@ -820,20 +717,12 @@ msgstr ""
 
 #: templates/socialaccount/signup.html:93
 #, python-format
-msgid ""
-"<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an "
-"existing account. We can merge accounts for you!"
+msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
 msgstr ""
 
 #: web/views/__init__.py:18
-msgid ""
-"Watch and share Hearthstone replays directly from your web browser. Explore "
-"advanced statistics about decks and cards based on millions of games per "
-"week."
-msgstr ""
-"Mira y comparte repeticiones de Heartstone directamente desde tu navegador. "
-"Explorar estadísticas avanzadas sobre mazos y cartas basadas en millones de "
-"partidas por semana."
+msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
+msgstr "Mira y comparte repeticiones de Heartstone directamente desde tu navegador. Explorar estadísticas avanzadas sobre mazos y cartas basadas en millones de partidas por semana."
 
 #: web/views/__init__.py:41
 msgid "HSReplay.net - Unleash your potential"
@@ -849,31 +738,23 @@ msgstr "Aplicación HSReplay.net"
 
 #: web/views/__init__.py:141
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
-msgstr ""
-"Hearthstone Deck Tracker es una aplicación gratuita que te ayuda a jugar "
-"como los profesionales."
+msgstr "Hearthstone Deck Tracker es una aplicación gratuita que te ayuda a jugar como los profesionales."
 
 #: web/views/archetypes.py:17
 msgid "Hearthstone Meta"
 msgstr "Hearthstone Meta"
 
 #: web/views/archetypes.py:19
-msgid ""
-"Explore the Hearthstone meta game and find out how the archetypes match up."
-msgstr ""
-"Explora el metajuego Hearthstone y descubre como coinciden los arquetipos."
+msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
+msgstr "Explora el metajuego Hearthstone y descubre como coinciden los arquetipos."
 
 #: web/views/archetypes.py:28
 msgid "Discover"
 msgstr "Descubrir"
 
 #: web/views/archetypes.py:30
-msgid ""
-"Engage with the up-and-coming Hearthstone meta game to discover the newest "
-"archetypes and what's next."
-msgstr ""
-"Descubre el metajuego de Heartstone para descubrir los arquetipos mas "
-"recientes y los que vendrán."
+msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
+msgstr "Descubre el metajuego de Heartstone para descubrir los arquetipos mas recientes y los que vendrán."
 
 #: web/views/archetypes.py:42
 msgid "Archetype"
@@ -893,13 +774,8 @@ msgid "Hearthstone Card Statistics"
 msgstr "Estadísticas de cartas Heartstone"
 
 #: web/views/cards.py:25
-msgid ""
-"Compare statistics about all collectible Hearthstone cards. Find the cards "
-"that are played the most or have the highest winrate."
-msgstr ""
-"Compara estadísticas sobre todas las cartas coleccionables de Hearstone. "
-"Encuentra las cartas mas jugadas o las que tienen el porcentaje de victorias "
-"mas alto."
+msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
+msgstr "Compara estadísticas sobre todas las cartas coleccionables de Hearstone. Encuentra las cartas mas jugadas o las que tienen el porcentaje de victorias mas alto."
 
 #: web/views/cards.py:36
 msgid "My Cards"
@@ -951,9 +827,7 @@ msgid "Could not make account primary."
 msgstr "No es posible hacer la cuenta principal."
 
 #: web/views/dashboard.py:260
-msgid ""
-"Check your inbox! We've sent an email to confirm your subscription "
-"preferences."
+msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr ""
 
 #: web/views/dashboard.py:267 web/views/dashboard.py:273
@@ -985,12 +859,8 @@ msgid "Hearthstone Decks"
 msgstr "Mazos Heartstone"
 
 #: web/views/decks.py:19
-msgid ""
-"Find popular Hearthstone decks for every class, card and game mode. Compare "
-"winrates and find the deck for you!"
-msgstr ""
-"Encuentra los mazos populares para cada clase, cartas y modo de juego. "
-"Compara porcentaje de victorias y encuentra el mazo perfecto para ti!"
+msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
+msgstr "Encuentra los mazos populares para cada clase, cartas y modo de juego. Compara porcentaje de victorias y encuentra el mazo perfecto para ti!"
 
 #: web/views/decks.py:27
 msgid "My Decks"
@@ -1018,12 +888,8 @@ msgid "Trending Hearthstone Decks"
 msgstr "Mazos Heartstone Tendencias"
 
 #: web/views/decks.py:79
-msgid ""
-"Find the up-and-coming decks with rising popularity in Hearthstone for each "
-"class updated every single day."
-msgstr ""
-"Encuentra los mazos prometedores que están ganando popularidad en Heartstone "
-"para cada clase actualizados a diario."
+msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
+msgstr "Encuentra los mazos prometedores que están ganando popularidad en Heartstone para cada clase actualizados a diario."
 
 #: web/views/oauth2.py:46
 msgid "Access has been revoked."
@@ -1039,14 +905,8 @@ msgid "HSReplay.net Premium"
 msgstr "HSReplay.net Premium"
 
 #: web/views/premium.py:22
-msgid ""
-"More filters, more features, more data: Gain access to advanced Hearthstone "
-"statistics backed by millions of games with HSReplay.net Premium for "
-"HSReplay.net."
-msgstr ""
-"Más filtros, mas opciones, mas datos: obtén acceso a las estadísticas "
-"avanzadas de Heartstone obtenidas de millones de partidas con HSReplay.net "
-"Premium por HSReplay.net."
+msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
+msgstr "Más filtros, mas opciones, mas datos: obtén acceso a las estadísticas avanzadas de Heartstone obtenidas de millones de partidas con HSReplay.net Premium por HSReplay.net."
 
 #: web/views/profiles.py:27
 msgid "User does not exist."
@@ -1059,3 +919,4 @@ msgstr "Mis Repeticiones"
 #: web/views/replays.py:147
 msgid "Uploading replay…"
 msgstr "Subiendo repetición…"
+
