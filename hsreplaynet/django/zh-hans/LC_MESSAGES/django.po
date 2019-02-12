@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-01 15:11+0000\n"
-"PO-Revision-Date: 2019-02-11 12:40\n"
+"PO-Revision-Date: 2019-02-12 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -591,7 +591,7 @@ msgstr "媒体联络"
 
 #: templates/footer.html:68
 msgid "Copyright"
-msgstr "版权所有"
+msgstr "著作权"
 
 #: templates/footer.html:69
 msgid "This website is not affiliated with Blizzard Entertainment."
@@ -655,70 +655,70 @@ msgstr "您目前尚未将此账户与任何社交账号绑定。"
 
 #: templates/socialaccount/signup.html:17
 msgid "The Blizzard account you are signing up with does not have a confirmed battletag yet, and cannot play Hearthstone."
-msgstr ""
+msgstr "您登录的暴雪账户尚无有效战网号，还不能游玩炉石传说。"
 
 #: templates/socialaccount/signup.html:18
 msgid "Please <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">visit Blizzard.com</a> and sign out to choose a different account."
-msgstr ""
+msgstr "请访问<a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">Blizzard.com</a>并登出，然后选择另外一个账号。"
 
 #: templates/socialaccount/signup.html:22
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account."
-msgstr ""
+msgstr "如果您无法登录已有账号，请<a href=\"%(contact_url)s\">联系我们</a>。"
 
 #: templates/socialaccount/signup.html:26
 msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
-msgstr ""
+msgstr "您将要创建一个新的HSReplay.net账号。请输入并检查下列详情："
 
 #: templates/socialaccount/signup.html:32
 msgid "Battletag"
-msgstr ""
+msgstr "战网号"
 
 #: templates/socialaccount/signup.html:41
 msgid "You can change this later by connecting additional accounts."
-msgstr ""
+msgstr "您稍后可以通过绑定额外账户更改。"
 
 #: templates/socialaccount/signup.html:54
 msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
-msgstr ""
+msgstr "用于账户与付款，以及可选的产品消息。需要接收验证邮件。"
 
 #: templates/socialaccount/signup.html:61
 #, python-format
 msgid "I agree to the <a href=\"%(tos_url)s\">Terms of Service</a>."
-msgstr ""
+msgstr "我同意<a href=\"%(tos_url)s\">服务条款</a>。"
 
 #: templates/socialaccount/signup.html:67
 msgid "I want to receive product updates by email."
-msgstr ""
+msgstr "我想要用邮件接收产品消息"
 
 #: templates/socialaccount/signup.html:75
 msgid "Already have an HSReplay.net account?"
-msgstr ""
+msgstr "已经有HSReplay.net账号啦？"
 
 #: templates/socialaccount/signup.html:76
 msgid "If you keep seeing this page despite having registered an HSReplay.net account in the past, you may be logged into the wrong Blizzard account."
-msgstr ""
+msgstr "如果您已经注册了HSReplay.net账户还是持续看到这个页面，您可能登录的错误的暴雪账号。"
 
 #: templates/socialaccount/signup.html:77
 msgid "You can sign in to a different Blizzard account by following these steps:"
-msgstr ""
+msgstr "您可以通过下列步骤登录另外一个暴雪账号："
 
 #: templates/socialaccount/signup.html:81
 msgid "Sign out of your Blizzard account"
-msgstr ""
+msgstr "注销您的暴雪账户"
 
 #: templates/socialaccount/signup.html:86
 msgid "Return to the HSReplay.net sign in page"
-msgstr ""
+msgstr "返回HSReplay.net登录页面"
 
 #: templates/socialaccount/signup.html:89
 msgid "Sign into the correct Blizzard account"
-msgstr ""
+msgstr "登录正确的暴雪账号"
 
 #: templates/socialaccount/signup.html:93
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
-msgstr ""
+msgstr "如果您无法登录已有账号，请<a href=\"%(contact_url)s\">联系我们</a>。我们可以为您合并账户！"
 
 #: web/views/__init__.py:18
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
@@ -828,11 +828,11 @@ msgstr "无法设为首要账号。"
 
 #: web/views/dashboard.py:260
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
-msgstr ""
+msgstr "请检查收件箱！我们已经向您发送了一封电子邮件来核实您的订阅偏好。"
 
 #: web/views/dashboard.py:267 web/views/dashboard.py:273
 msgid "Failed to save your email preferences. Please try again later!"
-msgstr ""
+msgstr "无法保存电子邮件偏好。请稍后再试！"
 
 #: web/views/dashboard.py:283
 msgid "Your email preferences have been saved."
