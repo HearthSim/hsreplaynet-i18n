@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-01 15:11+0000\n"
-"PO-Revision-Date: 2019-02-23 12:47\n"
+"POT-Creation-Date: 2019-02-24 01:40+0000\n"
+"PO-Revision-Date: 2019-02-24 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -869,28 +869,28 @@ msgstr "看看每個職業、每張卡片、每個模式的最佳套牌。比較
 msgid "My Decks"
 msgstr "我的套牌"
 
-#: web/views/decks.py:39
+#: web/views/decks.py:45
 msgid "Deck does not exist."
 msgstr "套牌不存在。"
 
-#: web/views/decks.py:43
+#: web/views/decks.py:55
 msgid "Deck list is too small."
 msgstr "套牌清單太少。"
 
-#: web/views/decks.py:47
+#: web/views/decks.py:59
 msgid "Deck list contains uncollectible cards."
 msgstr ""
 
-#: web/views/decks.py:61
+#: web/views/decks.py:73
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "{name} 數據和套牌。 導入它: {deckstring}"
 
-#: web/views/decks.py:77
+#: web/views/decks.py:89
 msgid "Trending Hearthstone Decks"
 msgstr "趨勢中爐石套牌"
 
-#: web/views/decks.py:79
+#: web/views/decks.py:91
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "看看每天最新最人氣的各職業套牌。"
 
