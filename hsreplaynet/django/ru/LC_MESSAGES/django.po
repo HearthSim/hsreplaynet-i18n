@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-24 01:40+0000\n"
-"PO-Revision-Date: 2019-03-06 12:40\n"
+"POT-Creation-Date: 2019-03-07 01:40+0000\n"
+"PO-Revision-Date: 2019-03-07 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -525,75 +525,75 @@ msgstr "Мы отправили тебе ссылку для подтвержд�
 msgid "Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr "Пожалуйста, <a href=\"mailto:%(site_email)s\">свяжитесь с нами</a>, если вы не получили ее в течение нескольких минут."
 
-#: templates/footer.html:7
+#: templates/footer.html:8
 msgid "Back to top"
 msgstr "В начало"
 
-#: templates/footer.html:17
+#: templates/footer.html:18
 msgid "Social Media"
 msgstr "Социальные сети"
 
-#: templates/footer.html:21
+#: templates/footer.html:22
 msgid "Follow us on Twitter"
 msgstr "Мы в Twitter"
 
-#: templates/footer.html:27
+#: templates/footer.html:28
 msgid "Join our Discord server"
 msgstr "Заходите на наш сервер Discord"
 
-#: templates/footer.html:33
+#: templates/footer.html:34
 msgid "Like us on Facebook"
 msgstr "Страница Facebook"
 
-#: templates/footer.html:44 templates/navigation.html:71
+#: templates/footer.html:45 templates/navigation.html:71
 msgid "Premium"
 msgstr "Премиум"
 
-#: templates/footer.html:45 templates/navigation.html:65
+#: templates/footer.html:46 templates/navigation.html:65
 msgid "Downloads"
 msgstr "Скачать"
 
-#: templates/footer.html:46
+#: templates/footer.html:47
 msgid "Privacy Policy"
 msgstr "Конфиденциальность"
 
-#: templates/footer.html:47
+#: templates/footer.html:48
 msgid "Terms of Service"
 msgstr "Пользоват. соглашение"
 
-#: templates/footer.html:51
+#: templates/footer.html:52
 msgid "Help"
 msgstr "Справка"
 
-#: templates/footer.html:53
+#: templates/footer.html:54
 msgid "FAQ"
 msgstr "ЧАВО"
 
-#: templates/footer.html:54
+#: templates/footer.html:55
 msgid "Contact"
 msgstr "Контакты"
 
-#: templates/footer.html:60
+#: templates/footer.html:61
 msgid "About Us"
 msgstr "О нас"
 
-#: templates/footer.html:61
+#: templates/footer.html:62
 msgid "Open source"
 msgstr "Открытый код"
 
-#: templates/footer.html:62
+#: templates/footer.html:66 templates/footer.html:68
 msgid "Careers"
 msgstr "Карьера"
 
-#: templates/footer.html:63
+#: templates/footer.html:71
 msgid "Press"
 msgstr "Пресса"
 
-#: templates/footer.html:68
+#: templates/footer.html:76
 msgid "Copyright"
 msgstr "Все права защищены"
 
-#: templates/footer.html:69
+#: templates/footer.html:77
 msgid "This website is not affiliated with Blizzard Entertainment."
 msgstr "Этот сайт не имеет отношения к Blizzard Entertainment."
 

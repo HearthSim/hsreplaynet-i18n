@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-02-24 01:40+0000\n"
-"PO-Revision-Date: 2019-03-06 12:40\n"
+"POT-Creation-Date: 2019-03-07 01:40+0000\n"
+"PO-Revision-Date: 2019-03-07 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -528,75 +528,75 @@ msgstr "我們已經寄給妳Email認證信，請點擊連結來完成註冊手�
 msgid "Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr "若幾分鐘後都還沒收到信件，請<a href=\"mailto:%(site_email)s\">聯繫我們</a>。"
 
-#: templates/footer.html:7
+#: templates/footer.html:8
 msgid "Back to top"
 msgstr "返回頂部"
 
-#: templates/footer.html:17
+#: templates/footer.html:18
 msgid "Social Media"
 msgstr ""
 
-#: templates/footer.html:21
+#: templates/footer.html:22
 msgid "Follow us on Twitter"
 msgstr "關注我們的Twitter"
 
-#: templates/footer.html:27
+#: templates/footer.html:28
 msgid "Join our Discord server"
 msgstr "加入我們的Discord伺服器"
 
-#: templates/footer.html:33
+#: templates/footer.html:34
 msgid "Like us on Facebook"
 msgstr "到 Facebook 給我們按讚"
 
-#: templates/footer.html:44 templates/navigation.html:71
+#: templates/footer.html:45 templates/navigation.html:71
 msgid "Premium"
 msgstr "尊榮會員"
 
-#: templates/footer.html:45 templates/navigation.html:65
+#: templates/footer.html:46 templates/navigation.html:65
 msgid "Downloads"
 msgstr "下載"
 
-#: templates/footer.html:46
+#: templates/footer.html:47
 msgid "Privacy Policy"
 msgstr "隱私權政策"
 
-#: templates/footer.html:47
+#: templates/footer.html:48
 msgid "Terms of Service"
 msgstr "服務條款"
 
-#: templates/footer.html:51
+#: templates/footer.html:52
 msgid "Help"
 msgstr "幫助"
 
-#: templates/footer.html:53
+#: templates/footer.html:54
 msgid "FAQ"
 msgstr "FAQ"
 
-#: templates/footer.html:54
+#: templates/footer.html:55
 msgid "Contact"
 msgstr "聯絡我們"
 
-#: templates/footer.html:60
+#: templates/footer.html:61
 msgid "About Us"
 msgstr "關於我們"
 
-#: templates/footer.html:61
+#: templates/footer.html:62
 msgid "Open source"
 msgstr "開放原始碼"
 
-#: templates/footer.html:62
+#: templates/footer.html:66 templates/footer.html:68
 msgid "Careers"
 msgstr "徵才專區"
 
-#: templates/footer.html:63
+#: templates/footer.html:71
 msgid "Press"
 msgstr "媒體"
 
-#: templates/footer.html:68
+#: templates/footer.html:76
 msgid "Copyright"
 msgstr ""
 
-#: templates/footer.html:69
+#: templates/footer.html:77
 msgid "This website is not affiliated with Blizzard Entertainment."
 msgstr "本網站不隸屬暴雪娛樂。"
 
