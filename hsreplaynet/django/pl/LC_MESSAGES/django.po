@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-07 01:40+0000\n"
-"PO-Revision-Date: 2019-03-08 12:40\n"
+"PO-Revision-Date: 2019-03-09 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -672,7 +672,7 @@ msgstr ""
 
 #: templates/socialaccount/signup.html:32
 msgid "Battletag"
-msgstr ""
+msgstr "Battletag"
 
 #: templates/socialaccount/signup.html:41
 msgid "You can change this later by connecting additional accounts."
@@ -685,7 +685,7 @@ msgstr ""
 #: templates/socialaccount/signup.html:61
 #, python-format
 msgid "I agree to the <a href=\"%(tos_url)s\">Terms of Service</a>."
-msgstr ""
+msgstr "Zgadzam się na <a href=\"%(tos_url)s\">Warunki Usługi</a>."
 
 #: templates/socialaccount/signup.html:67
 msgid "I want to receive product updates by email."
@@ -718,7 +718,7 @@ msgstr ""
 #: templates/socialaccount/signup.html:93
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
-msgstr ""
+msgstr "<a href=\"%(contact_url)s\">Skontaktuj się z nami</a> jeśli potrzebujesz pomocy z zalogowaniem się do istniejącego konta. Możemy połączyć dla ciebie konta!"
 
 #: web/views/__init__.py:18
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
