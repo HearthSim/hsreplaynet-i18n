@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-07 01:40+0000\n"
-"PO-Revision-Date: 2019-03-09 12:40\n"
+"PO-Revision-Date: 2019-03-10 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -827,11 +827,11 @@ msgstr "Impossible de faire de ce compte votre principal."
 
 #: web/views/dashboard.py:260
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
-msgstr ""
+msgstr "Vérifiez votre boîte de réception ! Nous avons envoyé un email pour confirmer vos préférences d'abonnement."
 
 #: web/views/dashboard.py:267 web/views/dashboard.py:273
 msgid "Failed to save your email preferences. Please try again later!"
-msgstr ""
+msgstr "Impossible de sauvegarder vos préférences de courriel. Veuillez réessayer plus tard !"
 
 #: web/views/dashboard.py:283
 msgid "Your email preferences have been saved."
