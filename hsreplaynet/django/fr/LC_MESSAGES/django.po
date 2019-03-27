@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-26 01:40+0000\n"
-"PO-Revision-Date: 2019-03-26 12:40\n"
+"POT-Creation-Date: 2019-03-27 01:40+0000\n"
+"PO-Revision-Date: 2019-03-27 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -560,39 +560,43 @@ msgstr "Confidentialité"
 msgid "Terms of Service"
 msgstr "Conditions d’utilisation"
 
-#: templates/footer.html:58
+#: templates/footer.html:53
+msgid "Manage Cookie Settings"
+msgstr ""
+
+#: templates/footer.html:60
 msgid "Help"
 msgstr "Aide"
 
-#: templates/footer.html:60
+#: templates/footer.html:62
 msgid "FAQ"
 msgstr "FAQ"
 
-#: templates/footer.html:61
+#: templates/footer.html:63
 msgid "Contact"
 msgstr "Contactez-nous"
 
-#: templates/footer.html:67
+#: templates/footer.html:69
 msgid "About Us"
 msgstr "À propos"
 
-#: templates/footer.html:68
+#: templates/footer.html:70
 msgid "Open source"
 msgstr "Open source"
 
-#: templates/footer.html:72 templates/footer.html:74
+#: templates/footer.html:74 templates/footer.html:76
 msgid "Careers"
 msgstr "Carrières"
 
-#: templates/footer.html:77
+#: templates/footer.html:79
 msgid "Press"
 msgstr "Presse"
 
-#: templates/footer.html:82
+#: templates/footer.html:84
 msgid "Copyright"
 msgstr "Droit d’auteur"
 
-#: templates/footer.html:83
+#: templates/footer.html:85
 msgid "This website is not affiliated with Blizzard Entertainment."
 msgstr "Ce site n’est pas affilié à Blizzard Entertainment."
 
