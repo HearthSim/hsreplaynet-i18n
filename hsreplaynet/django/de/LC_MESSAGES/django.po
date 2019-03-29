@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-03-27 01:40+0000\n"
-"PO-Revision-Date: 2019-03-28 12:40\n"
+"PO-Revision-Date: 2019-03-29 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -562,7 +562,7 @@ msgstr "Nutzungsbedingungen"
 
 #: templates/footer.html:53
 msgid "Manage Cookie Settings"
-msgstr ""
+msgstr "Cookie-Einstellungen verwalten"
 
 #: templates/footer.html:60
 msgid "Help"
@@ -831,11 +831,11 @@ msgstr "Konnte Konto nicht primär setzen."
 
 #: web/views/dashboard.py:260
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
-msgstr ""
+msgstr "Überprüfe deinen Posteingang! Wir haben eine E-Mail gesendet um deine Abonnements zu bestätigen."
 
 #: web/views/dashboard.py:267 web/views/dashboard.py:273
 msgid "Failed to save your email preferences. Please try again later!"
-msgstr ""
+msgstr "Fehler beim Speichern der E-Mail-Einstellungen. Bitte versuche es später erneut!"
 
 #: web/views/dashboard.py:283
 msgid "Your email preferences have been saved."
