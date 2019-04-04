@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-27 01:40+0000\n"
-"PO-Revision-Date: 2019-04-03 12:40\n"
+"POT-Creation-Date: 2019-04-03 13:53+0000\n"
+"PO-Revision-Date: 2019-04-04 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -525,79 +525,79 @@ msgstr "인증메일을 보냈습니다. 메일 안 링크를 눌러 가입을 �
 msgid "Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr ""
 
-#: templates/footer.html:8
+#: templates/footer.html:9
 msgid "Back to top"
 msgstr "맨 위로"
 
-#: templates/footer.html:18
+#: templates/footer.html:19
 msgid "Social Media"
 msgstr ""
 
-#: templates/footer.html:22
+#: templates/footer.html:23
 msgid "Follow us on Twitter"
 msgstr "트위터에서 팔로우하세요"
 
-#: templates/footer.html:28
+#: templates/footer.html:29
 msgid "Join our Discord server"
 msgstr "디스코드에 참여하세요"
 
-#: templates/footer.html:34
+#: templates/footer.html:35
 msgid "Like us on Facebook"
 msgstr "페이스북에서 좋아요를 눌러주세요"
-
-#: templates/footer.html:45 templates/navigation.html:71
-msgid "Premium"
-msgstr "프리미엄"
 
 #: templates/footer.html:46 templates/navigation.html:65
 msgid "Downloads"
 msgstr "다운로드"
 
-#: templates/footer.html:47
-msgid "Privacy Policy"
-msgstr "개인정보 보호정책"
+#: templates/footer.html:47 templates/navigation.html:71
+msgid "Premium"
+msgstr "프리미엄"
 
 #: templates/footer.html:48
-msgid "Terms of Service"
-msgstr "서비스 이용약관"
-
-#: templates/footer.html:53
-msgid "Manage Cookie Settings"
+msgid "Your Account"
 msgstr ""
 
-#: templates/footer.html:60
+#: templates/footer.html:52
 msgid "Help"
 msgstr "고객센터"
 
-#: templates/footer.html:62
-msgid "FAQ"
-msgstr "FAQ"
+#: templates/footer.html:55
+msgid "Support Center"
+msgstr ""
 
-#: templates/footer.html:63
+#: templates/footer.html:58
 msgid "Contact"
 msgstr "문의하기"
 
-#: templates/footer.html:69
+#: templates/footer.html:63
+msgid "Legal"
+msgstr ""
+
+#: templates/footer.html:66
+msgid "Terms of Service"
+msgstr "서비스 이용약관"
+
+#: templates/footer.html:70
+msgid "Privacy Policy"
+msgstr "개인정보 보호정책"
+
+#: templates/footer.html:75
+msgid "Manage Cookie Settings"
+msgstr ""
+
+#: templates/footer.html:84
 msgid "About Us"
 msgstr "소개"
 
-#: templates/footer.html:70
-msgid "Open source"
-msgstr "오픈소스"
-
-#: templates/footer.html:74 templates/footer.html:76
+#: templates/footer.html:88
 msgid "Careers"
 msgstr "채용정보"
 
-#: templates/footer.html:79
-msgid "Press"
-msgstr "보도자료"
-
-#: templates/footer.html:84
+#: templates/footer.html:99
 msgid "Copyright"
 msgstr "저작권"
 
-#: templates/footer.html:85
+#: templates/footer.html:100
 msgid "This website is not affiliated with Blizzard Entertainment."
 msgstr "이 웹사이트는 블리자드 엔터테인먼트 소속이 아닙니다."
 

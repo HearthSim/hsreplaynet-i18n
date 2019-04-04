@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-03-27 01:40+0000\n"
-"PO-Revision-Date: 2019-04-03 12:40\n"
+"POT-Creation-Date: 2019-04-03 13:53+0000\n"
+"PO-Revision-Date: 2019-04-04 00:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -525,79 +525,79 @@ msgstr "Wysłaliśmy ci wiadomość e-mail w celu weryfikacji. Wejdź w link, by
 msgid "Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr "Prosimy <a href=\"mailto:%(site_email)s\">skontaktuj się z nami</a> jeśli nie otrzymasz go w ciągu paru minut."
 
-#: templates/footer.html:8
+#: templates/footer.html:9
 msgid "Back to top"
 msgstr "Powrót na górę"
 
-#: templates/footer.html:18
+#: templates/footer.html:19
 msgid "Social Media"
 msgstr "Media Społecznościowe"
 
-#: templates/footer.html:22
+#: templates/footer.html:23
 msgid "Follow us on Twitter"
 msgstr "Śledź nas na Twitterze"
 
-#: templates/footer.html:28
+#: templates/footer.html:29
 msgid "Join our Discord server"
 msgstr "Dołącz do naszego serwera na Discordzie"
 
-#: templates/footer.html:34
+#: templates/footer.html:35
 msgid "Like us on Facebook"
 msgstr "Polub nas na Facebooku"
-
-#: templates/footer.html:45 templates/navigation.html:71
-msgid "Premium"
-msgstr "Premium"
 
 #: templates/footer.html:46 templates/navigation.html:65
 msgid "Downloads"
 msgstr "Pobieranie"
 
-#: templates/footer.html:47
-msgid "Privacy Policy"
-msgstr "Polityka Prywatności"
+#: templates/footer.html:47 templates/navigation.html:71
+msgid "Premium"
+msgstr "Premium"
 
 #: templates/footer.html:48
-msgid "Terms of Service"
-msgstr "Warunki Użytkowania"
-
-#: templates/footer.html:53
-msgid "Manage Cookie Settings"
+msgid "Your Account"
 msgstr ""
 
-#: templates/footer.html:60
+#: templates/footer.html:52
 msgid "Help"
 msgstr "Pomoc"
 
-#: templates/footer.html:62
-msgid "FAQ"
-msgstr "FAQ"
+#: templates/footer.html:55
+msgid "Support Center"
+msgstr ""
 
-#: templates/footer.html:63
+#: templates/footer.html:58
 msgid "Contact"
 msgstr "Kontakt"
 
-#: templates/footer.html:69
+#: templates/footer.html:63
+msgid "Legal"
+msgstr ""
+
+#: templates/footer.html:66
+msgid "Terms of Service"
+msgstr "Warunki Użytkowania"
+
+#: templates/footer.html:70
+msgid "Privacy Policy"
+msgstr "Polityka Prywatności"
+
+#: templates/footer.html:75
+msgid "Manage Cookie Settings"
+msgstr ""
+
+#: templates/footer.html:84
 msgid "About Us"
 msgstr "O Nas"
 
-#: templates/footer.html:70
-msgid "Open source"
-msgstr "Open source"
-
-#: templates/footer.html:74 templates/footer.html:76
+#: templates/footer.html:88
 msgid "Careers"
 msgstr "Praca"
 
-#: templates/footer.html:79
-msgid "Press"
-msgstr "Prasa"
-
-#: templates/footer.html:84
+#: templates/footer.html:99
 msgid "Copyright"
 msgstr "Prawa Autorskie"
 
-#: templates/footer.html:85
+#: templates/footer.html:100
 msgid "This website is not affiliated with Blizzard Entertainment."
 msgstr "Ta strona nie jest powiązana z Blizzard Entertainment."
 
