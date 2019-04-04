@@ -38,6 +38,11 @@ def main():
 			msgstr="",
 			occurrences=[("https://hsreplay.net" + url, "")]
 		)
+
+		if entry in po:
+			# duplicate
+			continue
+
 		po.append(entry)
 
 	htd_r = requests.get("http://www.hearthstonetopdecks.com/wp-json/hsreplay/guides")
