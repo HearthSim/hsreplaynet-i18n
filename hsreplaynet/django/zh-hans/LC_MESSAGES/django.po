@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-04 19:02+0000\n"
+"POT-Creation-Date: 2019-04-07 01:40+0000\n"
 "PO-Revision-Date: 2019-04-06 12:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
@@ -54,7 +54,9 @@ msgid "Your card was declined. Please use a different card."
 msgstr "您的支付卡遭到拒绝。请用另一张卡。"
 
 #: billing/views.py:314
-msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
+msgid ""
+"That email address is associated with another account. If you'd like to "
+"merge accounts, please contact us!"
 msgstr "那个邮箱地址已经与其他账户绑定。如果您想要合并账户，请联系我们！"
 
 #: billing/views.py:342
@@ -66,7 +68,9 @@ msgid "Your subscription has expired."
 msgstr "您的会员订购已经过期了。"
 
 #: billing/views.py:362
-msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
+msgid ""
+"Your current subscription is still active. If you are having billing issues, "
+"please contact us!"
 msgstr "您的当前订购仍然有效。如果您有支付问题，请联系我们！"
 
 #: billing/views.py:366
@@ -82,11 +86,13 @@ msgid "Could not process subscription."
 msgstr "无法处理订单。"
 
 #: billing/views.py:417
-msgid "Your card declined the charge. Please contact your bank for information."
+msgid ""
+"Your card declined the charge. Please contact your bank for information."
 msgstr "您的支付卡拒绝收款。请联系您的银行了解详情。"
 
 #: billing/views.py:419
-msgid "Your card does not support payments in USD. Please try a different card."
+msgid ""
+"Your card does not support payments in USD. Please try a different card."
 msgstr "您的支付卡不支持用美元支付。请用另一张卡。"
 
 #: billing/views.py:421
@@ -98,8 +104,12 @@ msgid "Your card has insufficient funds to proceed."
 msgstr "您的支付卡没有足够余额继续操作。"
 
 #: billing/views.py:427
-msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
-msgstr "您的支付卡遭到拒绝，您可能仍未被收费。请用另一张卡；如果这种情况仍然存在，请联系我们。"
+msgid ""
+"Your card was declined, you have not been charged. Please try a different "
+"card; contact us if this persists."
+msgstr ""
+"您的支付卡遭到拒绝，您可能仍未被收费。请用另一张卡；如果这种情况仍然存在，请"
+"联系我们。"
 
 #: billing/views.py:460
 msgid "You are now subscribed!"
@@ -227,8 +237,12 @@ msgstr "非活跃账户"
 
 #: templates/account/account_inactive.html:9
 #, python-format
-msgid "This account is inactive or has been banned. Please <a href=\"mailto:%(site_email)s\">contact us</a> if this is in error."
-msgstr "此帐户处于非活动状态或已被封禁。如果有问题，请 <a href=\"mailto:%(site_email)s\">联系我们</a> 。"
+msgid ""
+"This account is inactive or has been banned. Please <a href=\"mailto:"
+"%(site_email)s\">contact us</a> if this is in error."
+msgstr ""
+"此帐户处于非活动状态或已被封禁。如果有问题，请 <a href=\"mailto:"
+"%(site_email)s\">联系我们</a> 。"
 
 #: templates/account/api.html:7
 msgid "Authentication Tokens"
@@ -236,11 +250,17 @@ msgstr "身份验证令牌"
 
 #: templates/account/api.html:12
 #, python-format
-msgid "You do not have any upload client associated with your account. <a href=\"%(downloads_url)s\">Download Hearthstone Deck Tracker</a> and claim your account from there!"
-msgstr "您的帐户没有关联任何上传用的客户端。 <a href=\"%(downloads_url)s\">下载炉石传说记牌器</a> 并从那里登记您的帐户!"
+msgid ""
+"You do not have any upload client associated with your account. <a href="
+"\"%(downloads_url)s\">Download Hearthstone Deck Tracker</a> and claim your "
+"account from there!"
+msgstr ""
+"您的帐户没有关联任何上传用的客户端。 <a href=\"%(downloads_url)s\">下载炉石传"
+"说记牌器</a> 并从那里登记您的帐户!"
 
 #: templates/account/api.html:19
-msgid "The following tokens can be used to upload your games. Keep them private!"
+msgid ""
+"The following tokens can be used to upload your games. Keep them private!"
 msgstr "以下密匙可用于上传您的游戏记录。不要泄露!"
 
 #: templates/account/api.html:22
@@ -264,7 +284,9 @@ msgid "Webhooks have been deprecated"
 msgstr "Webhooks已被废止"
 
 #: templates/account/api.html:49 templates/webhooks/detail.html:12
-msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
+msgid ""
+"No new endpoints can be added. We will continue to deliver existing webhooks "
+"for the time being."
 msgstr "无法再添加新的终端。目前我们仍继续为现存webhooks提供服务。"
 
 #: templates/account/api.html:56
@@ -331,11 +353,14 @@ msgid "Are you sure?"
 msgstr "是否确定？"
 
 #: templates/account/delete_replays.html:10
-msgid "Deleting your replays will unlink them from your account and make any previously-shared replay URL inaccessible."
+msgid ""
+"Deleting your replays will unlink them from your account and make any "
+"previously-shared replay URL inaccessible."
 msgstr "删除你的回放代表它们与您账户的联系断开，之前分享的回放URL也将失效。"
 
 #: templates/account/delete_replays.html:12
-msgid "Your personal statistics will not be reset. Are you sure you want to proceed?"
+msgid ""
+"Your personal statistics will not be reset. Are you sure you want to proceed?"
 msgstr "您的个人统计不会被重置。确定要继续吗？"
 
 #: templates/account/delete_replays.html:18
@@ -400,23 +425,41 @@ msgstr "保存"
 
 #: templates/account/email.html:99
 #, python-format
-msgid "Looking for a password setting? You can sign with any of <a href=\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there is no HSReplay.net password."
-msgstr "正在查找密码设置？您可以<a href=\"%(connected_accounts_url)s\">连接您的暴雪帐户</a>直接登陆，无需HSReplay.net 密码。"
+msgid ""
+"Looking for a password setting? You can sign with any of <a href="
+"\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there "
+"is no HSReplay.net password."
+msgstr ""
+"正在查找密码设置？您可以<a href=\"%(connected_accounts_url)s\">连接您的暴雪帐"
+"户</a>直接登陆，无需HSReplay.net 密码。"
 
 #: templates/account/email/email_confirmation_message.txt:1
 #, python-format
-msgid "Hello %(user)s!\n\n"
-"You've added this email address to your account. We need to verify that you own it.\n\n"
-"If this is correct, go to the following URL within three days to confirm:\n\n"
-"%(activate_url)s\n\n"
-"If this was not you, you can simply ignore this email.\n\n"
+msgid ""
+"Hello %(user)s!\n"
+"\n"
+"You've added this email address to your account. We need to verify that you "
+"own it.\n"
+"\n"
+"If this is correct, go to the following URL within three days to confirm:\n"
+"\n"
+"%(activate_url)s\n"
+"\n"
+"If this was not you, you can simply ignore this email.\n"
+"\n"
 "Cheers,\n"
 "The HSReplay.net Team\n"
-msgstr "幸会，%(user)s！\n\n"
-"您已经将本邮箱地址添加到您的账号。我们需要验证您确实拥有此账号。\n\n"
-"如果确实如此，请在3日内进入下列链接验证：\n\n"
-"%(activate_url)s\n\n"
-"如果不是您的操作，请忽视这封邮件。\n\n"
+msgstr ""
+"幸会，%(user)s！\n"
+"\n"
+"您已经将本邮箱地址添加到您的账号。我们需要验证您确实拥有此账号。\n"
+"\n"
+"如果确实如此，请在3日内进入下列链接验证：\n"
+"\n"
+"%(activate_url)s\n"
+"\n"
+"如果不是您的操作，请忽视这封邮件。\n"
+"\n"
 "谢谢配合，\n"
 "HSReplay.net团队\n"
 
@@ -426,7 +469,8 @@ msgid "Sign in to continue to %(oauth2_client)s"
 msgstr "登录以前进到 %(oauth2_client)s"
 
 #: templates/account/login.html:19
-msgid "We'll send you to the official Blizzard site where you can securely sign in."
+msgid ""
+"We'll send you to the official Blizzard site where you can securely sign in."
 msgstr "我们会将您导向至官方暴雪网站，您可以放心登录。"
 
 #: templates/account/login.html:21
@@ -450,11 +494,13 @@ msgid "China (CN)"
 msgstr "中国"
 
 #: templates/account/login.html:48
-msgid "HSReplay.net never gains access to your Blizzard email address or password."
+msgid ""
+"HSReplay.net never gains access to your Blizzard email address or password."
 msgstr "HSReplay.net不会获取您的暴雪邮箱地址或密码。"
 
 #: templates/account/login.html:58
-msgid "Not using a Blizzard account? Sign in with your username and password here."
+msgid ""
+"Not using a Blizzard account? Sign in with your username and password here."
 msgstr "不用暴雪账号？用您的用户名和密码在此登录。"
 
 #: templates/account/login.html:68 templates/account/signup.html:27
@@ -474,7 +520,9 @@ msgid "Password reset"
 msgstr "密码重置"
 
 #: templates/account/password_reset.html:13
-msgid "Forgot your password? Enter your email below, we'll send you a link to reset it."
+msgid ""
+"Forgot your password? Enter your email below, we'll send you a link to reset "
+"it."
 msgstr "忘记了密码？请在下面输入您的电子邮件地址，我们将向您发送重置链接。"
 
 #: templates/account/password_reset.html:19
@@ -517,13 +565,18 @@ msgid "Verify your e-mail address"
 msgstr "请验证您的邮箱地址"
 
 #: templates/account/verification_sent.html:11
-msgid "We have sent you an e-mail for verification. Follow the link in it to finalize the signup process."
+msgid ""
+"We have sent you an e-mail for verification. Follow the link in it to "
+"finalize the signup process."
 msgstr "我们已经给你发了一封验证电子邮件。按照其中的链接完成注册过程。"
 
 #: templates/account/verification_sent.html:14
 #, python-format
-msgid "Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes."
-msgstr "如果几分钟内仍未收到邮件，请<a href=\"mailto:%(site_email)s\">联系我们</a>。"
+msgid ""
+"Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not "
+"receive it within a few minutes."
+msgstr ""
+"如果几分钟内仍未收到邮件，请<a href=\"mailto:%(site_email)s\">联系我们</a>。"
 
 #: templates/footer.html:9
 msgid "Back to top"
@@ -630,8 +683,13 @@ msgid "Refer a Friend"
 msgstr "分享给好友"
 
 #: templates/snippets/noscript.html:5
-msgid "It looks like you have Javascript turned off. This page will not work correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
-msgstr "似乎您的Javascript没有打开。本页面可能表现不正常。<a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">查看打开方法</a>。"
+msgid ""
+"It looks like you have Javascript turned off. This page will not work "
+"correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel="
+"\"noopener\">Here is how to enable it</a>."
+msgstr ""
+"似乎您的Javascript没有打开。本页面可能表现不正常。<a href=\"https://enable-"
+"javascript.com/\" target=\"_blank\" rel=\"noopener\">查看打开方法</a>。"
 
 #: templates/socialaccount/authentication_error.html:7
 msgid "Authentication error"
@@ -642,7 +700,9 @@ msgid "Back to the office."
 msgstr "返回菜单"
 
 #: templates/socialaccount/connections.html:14
-msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard account."
+msgid ""
+"The following social accounts are connected to your HSReplay.net account. "
+"You may sign in with any connected Blizzard account."
 msgstr "以下社交账户已和您的HSReplay.net账号关联。您也可以连接暴雪账号登录。"
 
 #: templates/socialaccount/connections.html:41
@@ -654,24 +714,35 @@ msgid "Primary account"
 msgstr "首选账号"
 
 #: templates/socialaccount/connections.html:62
-msgid "You currently have no social network accounts connected to this account."
+msgid ""
+"You currently have no social network accounts connected to this account."
 msgstr "您目前尚未将此账户与任何社交账号绑定。"
 
 #: templates/socialaccount/signup.html:17
-msgid "The Blizzard account you are signing up with does not have a confirmed battletag yet, and cannot play Hearthstone."
+msgid ""
+"The Blizzard account you are signing up with does not have a confirmed "
+"battletag yet, and cannot play Hearthstone."
 msgstr "您登录的暴雪账户尚无有效战网号，还不能游玩炉石传说。"
 
 #: templates/socialaccount/signup.html:18
-msgid "Please <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">visit Blizzard.com</a> and sign out to choose a different account."
-msgstr "请访问<a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">Blizzard.com</a>并登出，然后选择另外一个账号。"
+msgid ""
+"Please <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener"
+"\">visit Blizzard.com</a> and sign out to choose a different account."
+msgstr ""
+"请访问<a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener"
+"\">Blizzard.com</a>并登出，然后选择另外一个账号。"
 
 #: templates/socialaccount/signup.html:22
 #, python-format
-msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account."
+msgid ""
+"<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an "
+"existing account."
 msgstr "如果您无法登录已有账号，请<a href=\"%(contact_url)s\">联系我们</a>。"
 
 #: templates/socialaccount/signup.html:26
-msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
+msgid ""
+"You are about to create a new HSReplay.net account. Please enter and confirm "
+"your details below:"
 msgstr "您将要创建一个新的HSReplay.net账号。请输入并检查下列详情："
 
 #: templates/socialaccount/signup.html:32
@@ -683,7 +754,9 @@ msgid "You can change this later by connecting additional accounts."
 msgstr "您稍后可以通过绑定额外账户更改。"
 
 #: templates/socialaccount/signup.html:54
-msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
+msgid ""
+"Used for account and billing purposes and for optional product updates. "
+"Email confirmation is required."
 msgstr "用于账户与付款，以及可选的产品消息。需要接收验证邮件。"
 
 #: templates/socialaccount/signup.html:61
@@ -700,11 +773,16 @@ msgid "Already have an HSReplay.net account?"
 msgstr "已经有HSReplay.net账号啦？"
 
 #: templates/socialaccount/signup.html:76
-msgid "If you keep seeing this page despite having registered an HSReplay.net account in the past, you may be logged into the wrong Blizzard account."
-msgstr "如果您已经注册了HSReplay.net账户还是持续看到这个页面，您可能登录的错误的暴雪账号。"
+msgid ""
+"If you keep seeing this page despite having registered an HSReplay.net "
+"account in the past, you may be logged into the wrong Blizzard account."
+msgstr ""
+"如果您已经注册了HSReplay.net账户还是持续看到这个页面，您可能登录的错误的暴雪"
+"账号。"
 
 #: templates/socialaccount/signup.html:77
-msgid "You can sign in to a different Blizzard account by following these steps:"
+msgid ""
+"You can sign in to a different Blizzard account by following these steps:"
 msgstr "您可以通过下列步骤登录另外一个暴雪账号："
 
 #: templates/socialaccount/signup.html:81
@@ -721,12 +799,21 @@ msgstr "登录正确的暴雪账号"
 
 #: templates/socialaccount/signup.html:93
 #, python-format
-msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
-msgstr "如果您无法登录已有账号，请<a href=\"%(contact_url)s\">联系我们</a>。我们可以为您合并账户！"
+msgid ""
+"<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an "
+"existing account. We can merge accounts for you!"
+msgstr ""
+"如果您无法登录已有账号，请<a href=\"%(contact_url)s\">联系我们</a>。我们可以"
+"为您合并账户！"
 
 #: web/views/__init__.py:18
-msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
-msgstr "从浏览器中直接观看、分享你的炉石回放。探索套牌、卡牌的高级统计信息，这些都基于数以万计的对局。"
+msgid ""
+"Watch and share Hearthstone replays directly from your web browser. Explore "
+"advanced statistics about decks and cards based on millions of games per "
+"week."
+msgstr ""
+"从浏览器中直接观看、分享你的炉石回放。探索套牌、卡牌的高级统计信息，这些都基"
+"于数以万计的对局。"
 
 #: web/views/__init__.py:41
 msgid "HSReplay.net - Unleash your potential"
@@ -749,7 +836,8 @@ msgid "Hearthstone Meta"
 msgstr "炉石环境"
 
 #: web/views/archetypes.py:19
-msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
+msgid ""
+"Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr "探索炉石对局环境，搜索各个卡组的优劣对抗。"
 
 #: web/views/archetypes.py:28
@@ -757,7 +845,9 @@ msgid "Discover"
 msgstr "探索"
 
 #: web/views/archetypes.py:30
-msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
+msgid ""
+"Engage with the up-and-coming Hearthstone meta game to discover the newest "
+"archetypes and what's next."
 msgstr "迎接炉石即将到来的新环境，搜索最新卡组与后起之秀。"
 
 #: web/views/archetypes.py:42
@@ -778,7 +868,9 @@ msgid "Hearthstone Card Statistics"
 msgstr "炉石卡牌统计"
 
 #: web/views/cards.py:25
-msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
+msgid ""
+"Compare statistics about all collectible Hearthstone cards. Find the cards "
+"that are played the most or have the highest winrate."
 msgstr "横向对比所有的可收集炉石卡牌。搜索打出最多的或胜率最高的卡牌。"
 
 #: web/views/cards.py:36
@@ -831,7 +923,9 @@ msgid "Could not make account primary."
 msgstr "无法设为首要账号。"
 
 #: web/views/dashboard.py:260
-msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
+msgid ""
+"Check your inbox! We've sent an email to confirm your subscription "
+"preferences."
 msgstr "请检查收件箱！我们已经向您发送了一封电子邮件来核实您的订阅偏好。"
 
 #: web/views/dashboard.py:267 web/views/dashboard.py:273
@@ -863,8 +957,11 @@ msgid "Hearthstone Decks"
 msgstr "炉石套牌"
 
 #: web/views/decks.py:19
-msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
-msgstr "深入探索炉石环境，按职业、卡牌、模式寻找套牌。了解它们在天梯上的胜率与热度。"
+msgid ""
+"Find popular Hearthstone decks for every class, card and game mode. Compare "
+"winrates and find the deck for you!"
+msgstr ""
+"深入探索炉石环境，按职业、卡牌、模式寻找套牌。了解它们在天梯上的胜率与热度。"
 
 #: web/views/decks.py:27
 msgid "My Decks"
@@ -892,7 +989,9 @@ msgid "Trending Hearthstone Decks"
 msgstr "流行炉石套牌"
 
 #: web/views/decks.py:91
-msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
+msgid ""
+"Find the up-and-coming decks with rising popularity in Hearthstone for each "
+"class updated every single day."
 msgstr "按职业寻找后来居上的炉石套牌，每日更新。"
 
 #: web/views/oauth2.py:46
@@ -909,8 +1008,13 @@ msgid "HSReplay.net Premium"
 msgstr "HSReplay.net充值会员"
 
 #: web/views/premium.py:22
-msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
-msgstr "更丰富的过滤器、更全面的功能、更完善的数据：在HSReplay.net上获取充值会员，获取数以万计份对局数据支撑的高级炉石统计数据。"
+msgid ""
+"More filters, more features, more data: Gain access to advanced Hearthstone "
+"statistics backed by millions of games with HSReplay.net Premium for "
+"HSReplay.net."
+msgstr ""
+"更丰富的过滤器、更全面的功能、更完善的数据：在HSReplay.net上获取充值会员，获"
+"取数以万计份对局数据支撑的高级炉石统计数据。"
 
 #: web/views/profiles.py:27
 msgid "User does not exist."
@@ -923,4 +1027,3 @@ msgstr "我的回放"
 #: web/views/replays.py:147
 msgid "Uploading replay…"
 msgstr "回放上传中…"
-
