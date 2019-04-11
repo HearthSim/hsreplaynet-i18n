@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-04T21:09:30.667284\n"
+"POT-Creation-Date: 2019-04-11T01:40:38.438607\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2019-04-10 12:40\n"
+"PO-Revision-Date: 2019-04-11 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -235,10 +235,6 @@ msgstr "Разбойник на маскировке"
 #: https://hsreplay.net/archetypes/129/big-priest
 msgid "Big Priest"
 msgstr "Большой жрец"
-
-#: https://hsreplay.net/archetypes/169/tempo-rogue
-msgid "Tempo Rogue"
-msgstr "Темпо разбойник"
 
 #: https://hsreplay.net/archetypes/134/zoo-warlock
 msgid "Zoo Warlock"
@@ -496,10 +492,6 @@ msgstr "Токен-шаман"
 msgid "Deathrattle Warrior"
 msgstr "Воин на хрипах"
 
-#: https://hsreplay.net/archetypes/179/spell-hunter
-msgid "Spell Hunter"
-msgstr "Охотник на заклинаниях"
-
 #: https://hsreplay.net/archetypes/181/leyline-mage
 msgid "Leyline Mage"
 msgstr "Манипулятор маг"
@@ -747,6 +739,46 @@ msgstr "Эврика шаман"
 #: https://hsreplay.net/archetypes/280/wall-priest
 msgid "Wall Priest"
 msgstr "Жрец на стенках"
+
+#: https://hsreplay.net/archetypes/284/heal-druid
+msgid "Heal Druid"
+msgstr "Друид на исцелении"
+
+#: https://hsreplay.net/archetypes/179/spell-hunter
+msgid "Spell Hunter"
+msgstr "Охотник на заклинаниях"
+
+#: https://hsreplay.net/archetypes/285/spell-mage
+msgid "Spell Mage"
+msgstr "Маг на заклинаниях"
+
+#: https://hsreplay.net/archetypes/286/khadgar-mage
+msgid "Khadgar Mage"
+msgstr "Кадгар маг"
+
+#: https://hsreplay.net/archetypes/287/immortal-paladin
+msgid "Immortal Paladin"
+msgstr "Бессмертный паладин"
+
+#: https://hsreplay.net/archetypes/288/big-paladin
+msgid "Big Paladin"
+msgstr "Большой паладин"
+
+#: https://hsreplay.net/archetypes/169/tempo-rogue
+msgid "Tempo Rogue"
+msgstr "Темпо разбойник"
+
+#: https://hsreplay.net/archetypes/289/plot-twist-warlock
+msgid "Plot Twist Warlock"
+msgstr "Неожиданный чернокнижник"
+
+#: https://hsreplay.net/archetypes/291/big-warrior
+msgid "Big Warrior"
+msgstr "Большой воин"
+
+#: https://hsreplay.net/archetypes/290/bomb-warrior
+msgid "Bomb Warrior"
+msgstr "Воин на бомбах"
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/
 msgid "Token Druid has been a long standing archetype in Hearthstone. The deck is based around flooding the board with small, summoned minions (tokens), buffing them and bursting the opponent down."
