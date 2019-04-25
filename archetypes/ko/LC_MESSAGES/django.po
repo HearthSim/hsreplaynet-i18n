@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-04-18T01:40:40.038698\n"
+"POT-Creation-Date: 2019-04-25T01:40:38.550887\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: ko\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2019-04-23 12:40\n"
+"PO-Revision-Date: 2019-04-25 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -195,10 +195,6 @@ msgstr "비밀 사냥꾼"
 #: https://hsreplay.net/archetypes/168/otk-dk-paladin
 msgid "OTK DK Paladin"
 msgstr "원턴킬 죽기 성기사"
-
-#: https://hsreplay.net/archetypes/139/deathrattle-hunter
-msgid "Deathrattle Hunter"
-msgstr "죽음의 메아리 사냥꾼"
 
 #: https://hsreplay.net/archetypes/137/midrange-hunter
 msgid "Midrange Hunter"
@@ -496,6 +492,10 @@ msgstr "토큰 주술사"
 msgid "Deathrattle Warrior"
 msgstr "죽음의 메아리 전사"
 
+#: https://hsreplay.net/archetypes/139/deathrattle-hunter
+msgid "Deathrattle Hunter"
+msgstr "죽음의 메아리 사냥꾼"
+
 #: https://hsreplay.net/archetypes/181/leyline-mage
 msgid "Leyline Mage"
 msgstr ""
@@ -791,6 +791,10 @@ msgstr "카드가 용 마법사"
 #: https://hsreplay.net/archetypes/293/otk-priest
 msgid "OTK Priest"
 msgstr "원턴킬 사제"
+
+#: https://hsreplay.net/archetypes/295/villain-paladin
+msgid "Villain Paladin"
+msgstr ""
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/
 msgid "Token Druid has been a long standing archetype in Hearthstone. The deck is based around flooding the board with small, summoned minions (tokens), buffing them and bursting the opponent down."
