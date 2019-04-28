@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-04-19 01:40+0000\n"
-"PO-Revision-Date: 2019-04-27 12:40\n"
+"PO-Revision-Date: 2019-04-28 00:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -75,7 +75,7 @@ msgstr "Vous êtes déjà abonné !"
 
 #: billing/views.py:372 billing/views.py:616 billing/views.py:683
 msgid "You already have an active or a pending subscription."
-msgstr ""
+msgstr "Vous avez déjà un abonnement actif ou en attente de validation."
 
 #: billing/views.py:400
 msgid "Could not process subscription."
@@ -261,11 +261,11 @@ msgstr "Webhooks"
 
 #: templates/account/api.html:48 templates/webhooks/detail.html:11
 msgid "Webhooks have been deprecated"
-msgstr ""
+msgstr "Les Webhooks sont obsolètes"
 
 #: templates/account/api.html:49 templates/webhooks/detail.html:12
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
-msgstr ""
+msgstr "Aucun nouveau connecteur ne peut être rajouté. Nous continuerons à livrer des webhooks existants pour l'instant."
 
 #: templates/account/api.html:56
 msgid "You don't have any webhooks set up right now."
