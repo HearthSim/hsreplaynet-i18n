@@ -1,0 +1,926 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hsreplaynet\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-02 01:40+0000\n"
+"PO-Revision-Date: 2019-05-17 12:40\n"
+"Last-Translator: HearthSim\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=((n%10==1 && n%100!=11) ? 0 : ((n%10 >= 2 && n%10 <=4 && (n%100 < 12 || n%100 > 14)) ? 1 : ((n%10 == 0 || (n%10 >= 5 && n%10 <=9)) || (n%100 >= 11 && n%100 <= 14)) ? 2 : 3));\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: hsreplaynet\n"
+"X-Crowdin-Language: ru\n"
+"X-Crowdin-File: /hsreplaynet/django/en/LC_MESSAGES/django.po\n"
+
+#: api/fields.py:9
+#, python-brace-format
+msgid "{input} is not a valid member of {enum}."
+msgstr "{input} не является допустимым членом {enum}."
+
+#: api/views/features.py:33
+msgid "Code has already been used."
+msgstr "Код уже использован."
+
+#: api/views/features.py:35
+msgid "Code does not apply to this account."
+msgstr "Код не применим к этой учетной записи."
+
+#: api/views/features.py:37
+msgid "Code has not been activated yet."
+msgstr "Код еще не активирован."
+
+#: api/views/features.py:46
+msgid "Code is invalid or has expired."
+msgstr "Код недействителен или истек."
+
+#: api/views/features.py:50
+msgid "Code did not affect this account and remains valid."
+msgstr "Код не применился и остается действительным."
+
+#: api/views/features.py:52
+msgid "Code has been applied to your account."
+msgstr "Код применен к вашей учетной записи."
+
+#: billing/views.py:294
+msgid "Error adding payment card"
+msgstr "Ошибка добавления банковской карты"
+
+#: billing/views.py:298
+msgid "Your card was declined. Please use a different card."
+msgstr "Ваша карта была отклонена. Пожалуйста, используйте другую карту."
+
+#: billing/views.py:314
+msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
+msgstr "Этот адрес электронной почты связан с другой учетной записью. Если вы хотите объединить учетные записи, пожалуйста, свяжитесь с нами!"
+
+#: billing/views.py:342
+msgid "You have multiple subscriptions. Please contact us."
+msgstr "У вас есть несколько подписок. Пожалуйста, свяжитесь с нами."
+
+#: billing/views.py:356
+msgid "Your subscription has expired."
+msgstr "Ваша подписка истекла."
+
+#: billing/views.py:362
+msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
+msgstr "Ваша подписка еще активна. Если у вас возникли проблемы с выставлением счетов, пожалуйста, свяжитесь с нами!"
+
+#: billing/views.py:366
+msgid "You are already subscribed!"
+msgstr "Вы уже оформили подписку!"
+
+#: billing/views.py:372 billing/views.py:616 billing/views.py:683
+msgid "You already have an active or a pending subscription."
+msgstr "У вас уже есть активная или отложенная подписка."
+
+#: billing/views.py:400
+msgid "Could not process subscription."
+msgstr "Не удалось обработать подписку."
+
+#: billing/views.py:417
+msgid "Your card declined the charge. Please contact your bank for information."
+msgstr "Операция по карте отклонена. Свяжитесь с вашим банком для выяснения подробностей."
+
+#: billing/views.py:419
+msgid "Your card does not support payments in USD. Please try a different card."
+msgstr "Ваша карта не поддерживает оплату в долларах. Пожалуйста, используйте другую карту."
+
+#: billing/views.py:421
+msgid "Your card has exceeded its credit limit. Please use a different one."
+msgstr "Кредитный лимит вашей карты исчерпан. Пожалуйста, используйте другую карту."
+
+#: billing/views.py:423
+msgid "Your card has insufficient funds to proceed."
+msgstr "На карте недостаточно средств."
+
+#: billing/views.py:427
+msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
+msgstr "Ваша карта отклонена, деньги не будут сняты. Пожалуйста, попробуйте другую карту и свяжитесь с нами, если это повторится."
+
+#: billing/views.py:460
+msgid "You are now subscribed!"
+msgstr "Подписка оформлена!"
+
+#: billing/views.py:469
+msgid " Please contact us if you are receiving this in error."
+msgstr " Пожалуйста, свяжитесь с нами, если это ошибка."
+
+#: billing/views.py:475
+msgid "You have multiple subscriptions - something is wrong."
+msgstr "У вас есть несколько подписок — что-то пошло не так."
+
+#: billing/views.py:481
+msgid "You are not subscribed."
+msgstr "У вас нет подписки."
+
+#: billing/views.py:496
+msgid "Your subscription cannot be canceled immediately."
+msgstr "Ваша подписка не может быть отменена немедленно."
+
+#: billing/views.py:498
+msgid "Could not cancel your subscription."
+msgstr "Не удалось отменить подписку."
+
+#: billing/views.py:507
+msgid "Your subscription has been cancelled."
+msgstr "Ваша подписка была отменена."
+
+#: billing/views.py:566
+msgid "Could not update default card."
+msgstr "Не удалось изменить карту по умолчанию."
+
+#: billing/views.py:584
+msgid " Please contact us if you are seeing this in error."
+msgstr " Пожалуйста, свяжитесь с нами, если это ошибка."
+
+#: billing/views.py:605
+msgid "Unable to complete subscription."
+msgstr "Не удается завершить оформление подписки."
+
+#: billing/views.py:610
+msgid "Invalid subscription token."
+msgstr "Недопустимый токен подписки."
+
+#: billing/views.py:613
+msgid "You are not logged in as the correct user."
+msgstr "Вы не вошли из под соответствующей учетной записи."
+
+#: billing/views.py:635
+msgid "Subscription was cancelled by PayPal."
+msgstr "Подписка была отменена в PayPal."
+
+#: billing/views.py:643
+msgid "You are now subscribed with PayPal!"
+msgstr "Ваша подписка через PayPal оформлена!"
+
+#: billing/views.py:664
+msgid "Invalid token while cancelling payment."
+msgstr "Недействительный токен при отмене подписки."
+
+#: billing/views.py:669
+msgid "Payment has already completed and cannot be cancelled."
+msgstr "Платеж уже совершен и не может быть отменен."
+
+#: billing/views.py:673
+msgid "Your payment was interrupted."
+msgstr "Ваш платеж прерван."
+
+#: billing/views.py:687
+msgid "Could not determine your plan."
+msgstr "Не удалось определить схему оплаты."
+
+#: billing/views.py:692
+msgid "Invalid Paypal plan."
+msgstr "Недействительный план оплаты PayPal."
+
+#: settings.py:322
+msgid "Full access to your HSReplay.net account"
+msgstr "Полный доступ к вашей учетной записи HSReplay.net"
+
+#: settings.py:323
+msgid "Access information about your connected social accounts"
+msgstr "Доступ к списку ваших связанных учетных записей"
+
+#: settings.py:324
+msgid "View your Hearthstone card collection"
+msgstr "Просмотр вашей коллекции карт в Hearthstone"
+
+#: settings.py:325
+msgid "Upload your Hearthstone card collection to the site"
+msgstr "Загрузка вашей коллекции карт из Hearthstone на сайт"
+
+#: settings.py:326
+msgid "View your replays"
+msgstr "Просмотр ваших повторов"
+
+#: settings.py:327
+msgid "Update and delete your replays"
+msgstr "Изменение и удаление ваших повторов"
+
+#: settings.py:328
+msgid "Access the Partner API"
+msgstr "Доступ к партнерским API"
+
+#: settings.py:329
+msgid "Read access to the tournaments service"
+msgstr "Доступ на чтение к турнирным службам"
+
+#: settings.py:330
+msgid "Write access to the tournaments service"
+msgstr "Доступ на запись к турнирным службам"
+
+#: settings.py:331
+msgid "View your webhooks"
+msgstr "Просмотр ваших веб-хуков"
+
+#: settings.py:332
+msgid "Create and delete webhooks on your behalf"
+msgstr "Создавать и удалять веб-хуки от вашего имени"
+
+#: templates/account/account_inactive.html:6
+msgid "Account inactive"
+msgstr "Учетная запись отключена"
+
+#: templates/account/account_inactive.html:9
+#, python-format
+msgid "This account is inactive or has been banned. Please <a href=\"mailto:%(site_email)s\">contact us</a> if this is in error."
+msgstr "Эта учетная запись отключена или заблокирована администратором. Если это ошибка, пожалуйста <a href=\"mailto:%(site_email)s\">свяжитесь с нами</a>."
+
+#: templates/account/api.html:7
+msgid "Authentication Tokens"
+msgstr "Токены аутентификации"
+
+#: templates/account/api.html:12
+#, python-format
+msgid "You do not have any upload client associated with your account. <a href=\"%(downloads_url)s\">Download Hearthstone Deck Tracker</a> and claim your account from there!"
+msgstr "К вашей учетной записи не привязаны клиенты для загрузки. <a href=\"%(downloads_url)s\">Скачайте Hearthstone Deck Tracker</a>, чтобы связать ваши учетные записи!"
+
+#: templates/account/api.html:19
+msgid "The following tokens can be used to upload your games. Keep them private!"
+msgstr "Следующие токены могут быть использованы для загрузки ваших повторов. Никому их не показывайте и не передавайте!"
+
+#: templates/account/api.html:22
+msgid "Application"
+msgstr "Приложение"
+
+#: templates/account/api.html:23
+msgid "Token"
+msgstr "Токен"
+
+#: templates/account/api.html:24
+msgid "Created on"
+msgstr "Создан"
+
+#: templates/account/api.html:45
+msgid "Webhooks"
+msgstr "Веб-хуки"
+
+#: templates/account/api.html:48 templates/webhooks/detail.html:11
+msgid "Webhooks have been deprecated"
+msgstr "Webhook'и более не поддерживаются"
+
+#: templates/account/api.html:49 templates/webhooks/detail.html:12
+msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
+msgstr "Новые конечные точки добавляться не будут. Существующие webhook'и пока будут работать."
+
+#: templates/account/api.html:56
+msgid "You don't have any webhooks set up right now."
+msgstr "У вас нет сконфигурированных веб-хуков."
+
+#: templates/account/api.html:61
+msgid "UUID"
+msgstr "UUID"
+
+#: templates/account/api.html:62
+msgid "URL"
+msgstr "URL"
+
+#: templates/account/api.html:63
+msgid "Active"
+msgstr "Активировать"
+
+#: templates/account/base.html:14
+msgid "Settings"
+msgstr "Настройки"
+
+#: templates/account/base.html:15
+msgid "Email"
+msgstr "Email"
+
+#: templates/account/base.html:17
+msgid "Billing"
+msgstr "Оплата"
+
+#: templates/account/base.html:19 web/views/dashboard.py:86
+msgid "API Access"
+msgstr "Доступ к API"
+
+#: templates/account/base.html:20
+msgid "OAuth Apps"
+msgstr "OAuth"
+
+#: templates/account/base.html:22 templates/account/login.html:69
+#: templates/account/signup.html:33
+msgid "Password"
+msgstr "Пароль"
+
+#: templates/account/base.html:24 templates/socialaccount/connections.html:9
+msgid "Connected accounts"
+msgstr "Связанные учетные записи"
+
+#: templates/account/base.html:25
+msgid "Delete account"
+msgstr "Удалить учетную запись"
+
+#: templates/account/base.html:29 templates/account/logout.html:6
+#: templates/account/logout.html:17
+msgid "Sign out"
+msgstr "Выход"
+
+#: templates/account/delete_replays.html:6
+#: templates/account/delete_replays.html:19
+msgid "Delete my replays"
+msgstr "Удалить мои повторы"
+
+#: templates/account/delete_replays.html:9
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#: templates/account/delete_replays.html:10
+msgid "Deleting your replays will unlink them from your account and make any previously-shared replay URL inaccessible."
+msgstr "После удаления повтора, он будет отвязан от вашей учетной записи и все старые ссылки на него станут недействительны."
+
+#: templates/account/delete_replays.html:12
+msgid "Your personal statistics will not be reset. Are you sure you want to proceed?"
+msgstr "Ваша личная статистика не будет сброшена. Хотите продолжить?"
+
+#: templates/account/delete_replays.html:18
+msgid "Cancel"
+msgstr "Отмена"
+
+#: templates/account/email.html:6
+msgid "Email Addresses"
+msgstr "Адреса электронной почты"
+
+#: templates/account/email.html:10
+msgid "The following email addresses are associated with your account:"
+msgstr "Адреса электронной почты, связанные с вашей учетной записью:"
+
+#: templates/account/email.html:18
+msgid "✔ Verified"
+msgstr "✔ Подтвержден"
+
+#: templates/account/email.html:23
+msgid "Re-send Verification"
+msgstr "Повторно отправить письмо с подтверждением"
+
+#: templates/account/email.html:28
+msgid "✔ Primary"
+msgstr "✔ Основной"
+
+#: templates/account/email.html:33
+msgid "Make Primary"
+msgstr "Сделать основным"
+
+#: templates/account/email.html:42 templates/socialaccount/connections.html:53
+msgid "Remove"
+msgstr "Удалить"
+
+#: templates/account/email.html:64
+msgid "Add email address"
+msgstr "Добавить адрес эл. почты"
+
+#: templates/account/email.html:73
+msgid "Notification settings"
+msgstr "Настройки оповещений"
+
+#: templates/account/email.html:77
+msgid "Control which types of emails you receive at your primary address."
+msgstr "Выберите типы уведомлений, которые хотите получать на свой email."
+
+#: templates/account/email.html:83
+msgid "Account & security (required)"
+msgstr "Учетная запись и безопасность (обязательно)"
+
+#: templates/account/email.html:84
+msgid "Billing (required)"
+msgstr "Оплата (обязательно)"
+
+#: templates/account/email.html:87
+msgid "Product and feature announcements"
+msgstr "Анонсы новых возможностей"
+
+#: templates/account/email.html:91
+msgid "Save"
+msgstr "Сохранить"
+
+#: templates/account/email.html:99
+#, python-format
+msgid "Looking for a password setting? You can sign with any of <a href=\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there is no HSReplay.net password."
+msgstr "Ищите настройки пароля? Вы можете войти, используя <a href=\"%(connected_accounts_url)s\">связанные учетные записи Blizzard</a>, у учетной записи HSReplay.net нет своего пароля."
+
+#: templates/account/email/email_confirmation_message.txt:1
+#, python-format
+msgid "Hello %(user)s!\n\n"
+"You've added this email address to your account. We need to verify that you own it.\n\n"
+"If this is correct, go to the following URL within three days to confirm:\n\n"
+"%(activate_url)s\n\n"
+"If this was not you, you can simply ignore this email.\n\n"
+"Cheers,\n"
+"The HSReplay.net Team\n"
+msgstr "Привет, %(user)s!\n\n"
+"Ты добавил этот email к своему аккаунту. Нам нужно убедиться, что ты являешься его владельцем.\n\n"
+"Перейди по ссылке в течение трех дней, чтобы подтвердить адрес:\n\n"
+"%(activate_url)s\n\n"
+"Если это был не ты, просто проигнорируй этот email. \n\n"
+"С уважением,\n"
+"Команда HSReplay.net\n"
+
+#: templates/account/login.html:14
+#, python-format
+msgid "Sign in to continue to %(oauth2_client)s"
+msgstr "Войдите, чтобы продолжить %(oauth2_client)s"
+
+#: templates/account/login.html:19
+msgid "We'll send you to the official Blizzard site where you can securely sign in."
+msgstr "Мы перенаправим вас на официальный сайт Blizzard, где вы сможете безопасно авторизоваться."
+
+#: templates/account/login.html:21
+msgid "Blizzard will redirect you back here once you're done."
+msgstr "Blizzard перенаправит вас обратно по завершении."
+
+#: templates/account/login.html:30
+msgid "Log in with Blizzard"
+msgstr "Войти с учетной записью Blizzard"
+
+#: templates/account/login.html:34
+msgid "Region"
+msgstr "Регион"
+
+#: templates/account/login.html:36
+msgid "US / EU / SEA"
+msgstr "US / EU / SEA"
+
+#: templates/account/login.html:41
+msgid "China (CN)"
+msgstr "Китай (CN)"
+
+#: templates/account/login.html:48
+msgid "HSReplay.net never gains access to your Blizzard email address or password."
+msgstr "HSReplay.net не получит доступа к email адресу и паролю, используемых в вашей учетной записи Blizzard."
+
+#: templates/account/login.html:58
+msgid "Not using a Blizzard account? Sign in with your username and password here."
+msgstr "Не пользуетесь учетной записью Blizzard? Войдите, используя свой логин и пароль."
+
+#: templates/account/login.html:68 templates/account/signup.html:27
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: templates/account/login.html:72
+msgid "Sign in"
+msgstr "Войти"
+
+#: templates/account/logout.html:10
+msgid "Are you sure you want to sign out?"
+msgstr "Вы уверены, что хотите выйти?"
+
+#: templates/account/password_reset.html:11
+msgid "Password reset"
+msgstr "Восстановление пароля"
+
+#: templates/account/password_reset.html:13
+msgid "Forgot your password? Enter your email below, we'll send you a link to reset it."
+msgstr "Забыли пароль? Введите адрес электронной почты ниже, мы вышлем вам ссылку для сброса пароля."
+
+#: templates/account/password_reset.html:19
+msgid "Reset password"
+msgstr "Сбросить пароль"
+
+#: templates/account/password_reset.html:25
+#, python-format
+msgid "Need help? <a href=\"mailto:%(site_email)s\">Contact us</a>."
+msgstr "Нужна помощь? <a href=\"mailto:%(site_email)s\">Свяжитесь с нами</a>."
+
+#: templates/account/signup.html:8 templates/account/signup.html:39
+#: templates/socialaccount/signup.html:12
+msgid "Sign up"
+msgstr "Регистрация"
+
+#: templates/account/signup.html:10
+msgid "To sign up to HSReplay.net, use your Blizzard account."
+msgstr "Чтобы зарегистрироваться на HSReplay.net, используйте свою учетную запись Blizzard."
+
+#: templates/account/signup.html:16
+msgid "Alternatively, sign up with an email and password."
+msgstr "Или зарегистрируйтесь с email и паролем."
+
+#: templates/account/signup.html:30 templates/socialaccount/signup.html:46
+msgid "Email address"
+msgstr "Адрес электронной почты"
+
+#: templates/account/signup.html:36
+msgid "Password (repeat)"
+msgstr "Пароль (повторно)"
+
+#: templates/account/snippets/already_logged_in.html:3
+#, python-format
+msgid "You are already logged in as <em>%(user)s</em>."
+msgstr "Вы уже вошли как <em>%(user)s</em>."
+
+#: templates/account/verification_sent.html:7
+msgid "Verify your e-mail address"
+msgstr "Подтвердите адрес электронной почты"
+
+#: templates/account/verification_sent.html:11
+msgid "We have sent you an e-mail for verification. Follow the link in it to finalize the signup process."
+msgstr "Мы отправили тебе ссылку для подтверждения e-mail адреса. Пройди по ней для завершения регистрации."
+
+#: templates/account/verification_sent.html:14
+#, python-format
+msgid "Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes."
+msgstr "Пожалуйста, <a href=\"mailto:%(site_email)s\">свяжитесь с нами</a>, если вы не получили ее в течение нескольких минут."
+
+#: templates/footer.html:9
+msgid "Back to top"
+msgstr "В начало"
+
+#: templates/footer.html:19
+msgid "Social Media"
+msgstr "Социальные сети"
+
+#: templates/footer.html:23
+msgid "Follow us on Twitter"
+msgstr "Мы в Twitter"
+
+#: templates/footer.html:29
+msgid "Join our Discord server"
+msgstr "Заходите на наш сервер Discord"
+
+#: templates/footer.html:35
+msgid "Like us on Facebook"
+msgstr "Страница Facebook"
+
+#: templates/footer.html:46 templates/navigation.html:65
+msgid "Downloads"
+msgstr "Скачать"
+
+#: templates/footer.html:47 templates/navigation.html:71
+msgid "Premium"
+msgstr "Премиум"
+
+#: templates/footer.html:48
+msgid "Your Account"
+msgstr "Личный кабинет"
+
+#: templates/footer.html:52
+msgid "Help"
+msgstr "Справка"
+
+#: templates/footer.html:55
+msgid "Support Center"
+msgstr "Центр поддержки"
+
+#: templates/footer.html:58
+msgid "Contact"
+msgstr "Контакты"
+
+#: templates/footer.html:63
+msgid "Legal"
+msgstr "Правила"
+
+#: templates/footer.html:66
+msgid "Terms of Service"
+msgstr "Пользоват. соглашение"
+
+#: templates/footer.html:70
+msgid "Privacy Policy"
+msgstr "Конфиденциальность"
+
+#: templates/footer.html:75
+msgid "Manage Cookie Settings"
+msgstr "Настройки Cookie"
+
+#: templates/footer.html:84
+msgid "About Us"
+msgstr "О нас"
+
+#: templates/footer.html:88
+msgid "Careers"
+msgstr "Карьера"
+
+#: templates/footer.html:99
+msgid "Copyright"
+msgstr "Все права защищены"
+
+#: templates/footer.html:100
+msgid "This website is not affiliated with Blizzard Entertainment."
+msgstr "Этот сайт не имеет отношения к Blizzard Entertainment."
+
+#: templates/navigation.html:10
+msgid "Toggle navigation"
+msgstr "Вкл/выкл навигацию"
+
+#: templates/navigation.html:30
+msgid "Articles"
+msgstr "Статьи"
+
+#: templates/navigation.html:37
+msgid "Trending"
+msgstr "Популярное"
+
+#: templates/navigation.html:44
+msgid "Meta"
+msgstr "Мета"
+
+#: templates/navigation.html:51
+msgid "Decks"
+msgstr "Колоды"
+
+#: templates/navigation.html:58
+msgid "Cards"
+msgstr "Карты"
+
+#: templates/navigation.html:71
+msgid "Refer a Friend"
+msgstr "Пригласи друга"
+
+#: templates/snippets/noscript.html:5
+msgid "It looks like you have Javascript turned off. This page will not work correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
+msgstr "Похоже, у вас отключен Javascript. Эта страница не будет отображаться корректно. <a href=\"https://enable-javascript.com/ru/\" target=\"_blank\" rel=\"noopener\">Инструкция по включению</a>."
+
+#: templates/socialaccount/authentication_error.html:7
+msgid "Authentication error"
+msgstr "Ошибка аутентификации"
+
+#: templates/socialaccount/authentication_error.html:28
+msgid "Back to the office."
+msgstr "Вернуться на главную."
+
+#: templates/socialaccount/connections.html:14
+msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard account."
+msgstr "Следующие учетные записи связаны с вашей учетной записью HSReplay.net. Вы можете войти с любой связанной учетной записью Blizzard."
+
+#: templates/socialaccount/connections.html:41
+msgid "Make primary"
+msgstr "Сделать основной"
+
+#: templates/socialaccount/connections.html:44
+msgid "Primary account"
+msgstr "Основная учетная запись"
+
+#: templates/socialaccount/connections.html:62
+msgid "You currently have no social network accounts connected to this account."
+msgstr "В настоящее время у вас нет связанных учетных записей."
+
+#: templates/socialaccount/signup.html:17
+msgid "The Blizzard account you are signing up with does not have a confirmed battletag yet, and cannot play Hearthstone."
+msgstr "Использованная учетная запись Blizzard, не содержит подтвержденного battletag и не может играть в Hearthstone."
+
+#: templates/socialaccount/signup.html:18
+msgid "Please <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">visit Blizzard.com</a> and sign out to choose a different account."
+msgstr "Пожалуйста, <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">зайдите на Blizzard.com</a> и выйдите, чтобы использовать другую учетную запись."
+
+#: templates/socialaccount/signup.html:22
+#, python-format
+msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account."
+msgstr "<a href=\"%(contact_url)s\">Свяжитесь с нами</a>, если у вас не получается войти с существующей учетной записью."
+
+#: templates/socialaccount/signup.html:26
+msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
+msgstr "Сейчас будет создана ваша новая учетная запись HSReplay.net. Пожалуйста, введите и подтвердите ниже данные о себе:"
+
+#: templates/socialaccount/signup.html:32
+msgid "Battletag"
+msgstr "Battletag"
+
+#: templates/socialaccount/signup.html:41
+msgid "You can change this later by connecting additional accounts."
+msgstr "Вы можете изменить это позже, подключив дополнительные учетные записи."
+
+#: templates/socialaccount/signup.html:54
+msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
+msgstr "Используется для идентификации, оплаты и (опционально) для уведомления об обновлениях. Потребуется подтверждение."
+
+#: templates/socialaccount/signup.html:61
+#, python-format
+msgid "I agree to the <a href=\"%(tos_url)s\">Terms of Service</a>."
+msgstr "Я согласен с <a href=\"%(tos_url)s\">пользовательским соглашением</a>."
+
+#: templates/socialaccount/signup.html:68
+msgid "I want to receive product updates by email."
+msgstr "Я хочу получать обновления по электронной почте."
+
+#: templates/socialaccount/signup.html:76
+msgid "Already have an HSReplay.net account?"
+msgstr "Уже есть учетная запись HSReplay.net?"
+
+#: templates/socialaccount/signup.html:77
+msgid "If you keep seeing this page despite having registered an HSReplay.net account in the past, you may be logged into the wrong Blizzard account."
+msgstr "Если вы продолжаете видеть эту страницу после регистрации на HSReplay.net, возможно вы вошли под другой учетной записью Blizzard."
+
+#: templates/socialaccount/signup.html:78
+msgid "You can sign in to a different Blizzard account by following these steps:"
+msgstr "Вы можете войти с другой учетной записью Blizzard, выполнив следующие действия:"
+
+#: templates/socialaccount/signup.html:82
+msgid "Sign out of your Blizzard account"
+msgstr "Выйдите из учетной записи Blizzard"
+
+#: templates/socialaccount/signup.html:87
+msgid "Return to the HSReplay.net sign in page"
+msgstr "Вернитесь к странице входа HSReplay.net"
+
+#: templates/socialaccount/signup.html:90
+msgid "Sign into the correct Blizzard account"
+msgstr "Войдите с правильной учетной записью Blizzard"
+
+#: templates/socialaccount/signup.html:94
+#, python-format
+msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
+msgstr "<a href=\"%(contact_url)s\">Свяжитесь с нами</a>, если у вас не получается войти с существующей учетной записью. Мы можем объединить ваши учетные записи!"
+
+#: web/views/__init__.py:18
+msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
+msgstr "Смотри и делись повторами своих игр в Hearthstone прямо в браузере. Открой для себя расширенную статистику по картам и колодам, основанную на миллионах партий в неделю."
+
+#: web/views/__init__.py:41
+msgid "HSReplay.net - Unleash your potential"
+msgstr "HSReplay.net — раскрой свой потенциал"
+
+#: web/views/__init__.py:137
+msgid "Download Hearthstone Deck Tracker"
+msgstr "Скачать Hearthstone Deck Tracker"
+
+#: web/views/__init__.py:139
+msgid "HSReplay.net Companion App"
+msgstr "Приложение для синхронизации с HSReplay.net"
+
+#: web/views/__init__.py:141
+msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
+msgstr "Hearthstone Deck Tracker — бесплатное приложение, которое поднимет уровень вашей игры."
+
+#: web/views/archetypes.py:17
+msgid "Hearthstone Meta"
+msgstr "Мета Hearthstone"
+
+#: web/views/archetypes.py:19
+msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
+msgstr "Исследуйте Мету Hearthstone, чтобы узнать как показывают себя разные архетипы."
+
+#: web/views/archetypes.py:28
+msgid "Discover"
+msgstr "Детектор"
+
+#: web/views/archetypes.py:30
+msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
+msgstr "Включайтесь в многообещающую мету Hearthstone, чтобы узнать о новейших архетипах и грядущих изменениях."
+
+#: web/views/archetypes.py:42
+msgid "Archetype"
+msgstr "Архетип"
+
+#: web/views/archetypes.py:47
+msgid "This archetype is no longer available."
+msgstr "Этот Архетип больше не доступен."
+
+#: web/views/archetypes.py:53
+#, python-brace-format
+msgid "Find stats and different {name} decklists."
+msgstr "Просматривайте статистику и другие колоды архетипа {name}."
+
+#: web/views/cards.py:23 web/views/cards.py:108
+msgid "Hearthstone Card Statistics"
+msgstr "Статистика карт Hearthstone"
+
+#: web/views/cards.py:25
+msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
+msgstr "Сравнивайте статистику коллекционных карт Hearthstone. Выявите самые популярные и наиболее эффективные карты."
+
+#: web/views/cards.py:36
+msgid "My Cards"
+msgstr "Мои Карты"
+
+#: web/views/cards.py:99
+msgid "No card found matching the query."
+msgstr "Ни одна карта не соответствует запросу."
+
+#: web/views/cards.py:118
+msgid "Statistics and decks!"
+msgstr "Статистика и колоды!"
+
+#: web/views/cards.py:144
+msgid "Hearthstone Card Editor"
+msgstr "Редактор карт Hearthstone"
+
+#: web/views/collections.py:11
+msgid "My Collection"
+msgstr "Моя коллекция"
+
+#: web/views/collections.py:24
+msgid "Collection"
+msgstr "Коллекция"
+
+#: web/views/collections.py:37
+#, python-brace-format
+msgid "{user}'s Hearthstone Collection"
+msgstr "Коллекция игрока {user}"
+
+#: web/views/dashboard.py:39
+msgid "My Account"
+msgstr "Учетная запись"
+
+#: web/views/dashboard.py:98
+msgid "Delete Account"
+msgstr "Удалить учетную запись"
+
+#: web/views/dashboard.py:123
+msgid "This account cannot be deleted."
+msgstr "Эта учетная запись не может быть удалена."
+
+#: web/views/dashboard.py:151
+msgid "Your replays have been deleted."
+msgstr "Ваши повторы были удалены."
+
+#: web/views/dashboard.py:186
+msgid "Could not make account primary."
+msgstr "Эту учетную запись нельзя сделать основной."
+
+#: web/views/dashboard.py:260
+msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
+msgstr "Проверьте входящие! Мы отправили письмо для подтверждения настроек подписки."
+
+#: web/views/dashboard.py:267 web/views/dashboard.py:273
+msgid "Failed to save your email preferences. Please try again later!"
+msgstr "Не удалось сохранить параметры почтовых уведомлений. Попробуйте позже!"
+
+#: web/views/dashboard.py:283
+msgid "Your email preferences have been saved."
+msgstr "Настройки почты сохранены."
+
+#: web/views/dashboard.py:299
+msgid "Create a webhook"
+msgstr "Создать веб-хук"
+
+#: web/views/dashboard.py:310
+msgid "Update a webhook"
+msgstr "Обновить веб-хук"
+
+#: web/views/dashboard.py:336
+msgid "OAuth Applications"
+msgstr "Приложения OAuth"
+
+#: web/views/dashboard.py:383
+msgid "Your OAuth Application"
+msgstr "Ваше приложение OAuth"
+
+#: web/views/decks.py:17
+msgid "Hearthstone Decks"
+msgstr "Колоды Hearthstone"
+
+#: web/views/decks.py:19
+msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
+msgstr "Погрузитесь в Мету Hearthstone и найдите новые колоды, исходя из класса, используемых карт или режима игры. Проверьте их успешность и популярность в рейтинге."
+
+#: web/views/decks.py:27
+msgid "My Decks"
+msgstr "Мои колоды"
+
+#: web/views/decks.py:45
+msgid "Deck does not exist."
+msgstr "Колода не существует."
+
+#: web/views/decks.py:55
+msgid "Deck list is too small."
+msgstr "Недостаточно карт в колоде."
+
+#: web/views/decks.py:59
+msgid "Deck list contains uncollectible cards."
+msgstr "Колода содержит не коллекционные карты."
+
+#: web/views/decks.py:71
+#, python-brace-format
+msgid "{name} stats and decklist. Import it: {deckstring}"
+msgstr "Статистика и колоды {name}. Импортировать: {deckstring}"
+
+#: web/views/decks.py:90
+msgid "Trending Hearthstone Decks"
+msgstr "Набирающие популярность колоды"
+
+#: web/views/decks.py:92
+msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
+msgstr "Здесь вы найдете многообещающие колоды с растущей популярностью для каждого класса. Список обновляется ежедневно."
+
+#: web/views/oauth2.py:46
+msgid "Access has been revoked."
+msgstr "Доступ был отозван."
+
+#: web/views/oauth2.py:80
+#, python-brace-format
+msgid "{count} access tokens deleted."
+msgstr "удалено {count} токенов доступа."
+
+#: web/views/premium.py:20
+msgid "HSReplay.net Premium"
+msgstr "HSReplay.net Премиум"
+
+#: web/views/premium.py:22
+msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
+msgstr "Больше фильтров, больше функций, больше данных! Получите доступ к расширенной статистике на основе миллионов игр с Премиум подпиской HSReplay.net."
+
+#: web/views/profiles.py:27
+msgid "User does not exist."
+msgstr "Пользователь не существует."
+
+#: web/views/replays.py:18
+msgid "My Replays"
+msgstr "Мои Повторы"
+
+#: web/views/replays.py:147
+msgid "Uploading replay…"
+msgstr "Загружаем повтор…"
+
