@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-27T01:40:37.580749\n"
+"POT-Creation-Date: 2019-05-31T01:40:37.861368\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: de\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2019-05-29 12:40\n"
+"PO-Revision-Date: 2019-05-31 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -224,10 +224,6 @@ msgstr "Kontroll-Magier"
 msgid "Elemental Mage"
 msgstr "Elementar-Magier"
 
-#: https://hsreplay.net/archetypes/11/tempo-mage
-msgid "Tempo Mage"
-msgstr "Tempo-Magier"
-
 #: https://hsreplay.net/archetypes/170/beast-hunter
 msgid "Beast Hunter"
 msgstr "Wildtier-Jäger"
@@ -239,6 +235,10 @@ msgstr "Verstohlener Schurke"
 #: https://hsreplay.net/archetypes/129/big-priest
 msgid "Big Priest"
 msgstr "Großer Priester"
+
+#: https://hsreplay.net/archetypes/298/secret-mech-paladin
+msgid "Secret Mech Paladin"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/134/zoo-warlock
 msgid "Zoo Warlock"
@@ -798,6 +798,14 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/295/villain-paladin
 msgid "Villain Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/299/mech-zoo-warlock
+msgid "Mech Zoo Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/11/cyclone-mage
+msgid "Cyclone Mage"
 msgstr ""
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/

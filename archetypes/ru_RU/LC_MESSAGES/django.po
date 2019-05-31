@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-27T01:40:37.580749\n"
+"POT-Creation-Date: 2019-05-31T01:40:37.861368\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2019-05-29 12:40\n"
+"PO-Revision-Date: 2019-05-31 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -224,10 +224,6 @@ msgstr "Контроль маг"
 msgid "Elemental Mage"
 msgstr "Элементаль маг"
 
-#: https://hsreplay.net/archetypes/11/tempo-mage
-msgid "Tempo Mage"
-msgstr "Темпо маг"
-
 #: https://hsreplay.net/archetypes/170/beast-hunter
 msgid "Beast Hunter"
 msgstr "Охотник на зверях"
@@ -239,6 +235,10 @@ msgstr "Разбойник на маскировке"
 #: https://hsreplay.net/archetypes/129/big-priest
 msgid "Big Priest"
 msgstr "Большой жрец"
+
+#: https://hsreplay.net/archetypes/298/secret-mech-paladin
+msgid "Secret Mech Paladin"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/134/zoo-warlock
 msgid "Zoo Warlock"
@@ -799,6 +799,14 @@ msgstr "ОТК жрец"
 #: https://hsreplay.net/archetypes/295/villain-paladin
 msgid "Villain Paladin"
 msgstr "Рецидивист паладин"
+
+#: https://hsreplay.net/archetypes/299/mech-zoo-warlock
+msgid "Mech Zoo Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/11/cyclone-mage
+msgid "Cyclone Mage"
+msgstr ""
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/
 msgid "Token Druid has been a long standing archetype in Hearthstone. The deck is based around flooding the board with small, summoned minions (tokens), buffing them and bursting the opponent down."
