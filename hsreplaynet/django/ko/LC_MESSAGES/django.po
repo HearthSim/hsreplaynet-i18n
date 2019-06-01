@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-31 01:40+0000\n"
+"POT-Creation-Date: 2019-06-01 01:40+0000\n"
 "PO-Revision-Date: 2019-05-13 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Korean\n"
@@ -341,7 +341,7 @@ msgid "Sign out"
 msgstr "로그아웃"
 
 #: templates/account/delete_replays.html:6
-#: templates/account/delete_replays.html:19
+#: templates/account/delete_replays.html:18
 msgid "Delete my replays"
 msgstr "리플레이 삭제"
 
@@ -362,7 +362,7 @@ msgid ""
 "Your personal statistics will not be reset. Are you sure you want to proceed?"
 msgstr "개인 통계정보는 재설정되지 않습니다. 계속하시겠습니까?"
 
-#: templates/account/delete_replays.html:18
+#: templates/account/delete_replays.html:19
 msgid "Cancel"
 msgstr "취소"
 
