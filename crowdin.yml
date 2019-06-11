@@ -8,9 +8,17 @@ files:
 
   - source: "/hsreplaynet/django/en/LC_MESSAGES/*.po"
     translation: "/hsreplaynet/django/%locale_with_underscore%/LC_MESSAGES/%original_file_name%"
+    languages_mapping:
+      locale_with_underscore:
+        zh_CN: "zh_Hans"
+        zh_TW: "zh_Hant"
 
   - source: "/archetypes/en/LC_MESSAGES/*.po"
     translation: "/archetypes/%locale_with_underscore%/LC_MESSAGES/%original_file_name%"
+    languages_mapping:
+      locale_with_underscore:
+        zh_CN: "zh_Hans"
+        zh_TW: "zh_Hant"
 
   - source: "/hsreplaynet/frontend/en/*.json"
     translation: "/hsreplaynet/frontend/%locale%/%original_file_name%"
