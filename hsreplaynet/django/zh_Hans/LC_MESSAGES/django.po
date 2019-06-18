@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-17 01:40+0000\n"
+"POT-Creation-Date: 2019-06-18 01:43+0000\n"
 "PO-Revision-Date: 2019-06-10 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Chinese Simplified\n"
@@ -587,12 +587,12 @@ msgid "Social Media"
 msgstr "社交媒体"
 
 #: templates/footer.html:23
-msgid "Follow us on Twitter"
-msgstr "在推特上关注我们"
-
-#: templates/footer.html:29
 msgid "Join our Discord server"
 msgstr "加入我们的Discord服务器"
+
+#: templates/footer.html:29
+msgid "Follow us on Twitter"
+msgstr "在推特上关注我们"
 
 #: templates/footer.html:35
 msgid "Like us on Facebook"
