@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-19 01:40+0000\n"
+"POT-Creation-Date: 2019-06-20 01:40+0000\n"
 "PO-Revision-Date: 2019-06-10 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Portuguese, Brazilian\n"
@@ -198,47 +198,47 @@ msgstr "Não foi possível determinar seu plano."
 msgid "Invalid Paypal plan."
 msgstr "Plano do PayPal inválido."
 
-#: settings.py:322
+#: settings.py:327
 msgid "Full access to your HSReplay.net account"
 msgstr "Acesso completo de sua conta HSReplay.net"
 
-#: settings.py:323
+#: settings.py:328
 msgid "Access information about your connected social accounts"
 msgstr "Acesse informações sobre suas redes sociais conectadas"
 
-#: settings.py:324
+#: settings.py:329
 msgid "View your Hearthstone card collection"
 msgstr "Ver sua coleção de cartas do Hearthstone"
 
-#: settings.py:325
+#: settings.py:330
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Atualize sua coleção de cartas do Hearthstone para o site"
 
-#: settings.py:326
+#: settings.py:331
 msgid "View your replays"
 msgstr "Ver seus replays"
 
-#: settings.py:327
+#: settings.py:332
 msgid "Update and delete your replays"
 msgstr "Atualizar e deletar seus replays"
 
-#: settings.py:328
+#: settings.py:333
 msgid "Access the Partner API"
 msgstr "Acesso ao API dos parceiros"
 
-#: settings.py:329
+#: settings.py:334
 msgid "Read access to the tournaments service"
 msgstr "Acesso de leitura ao serviço de torneios"
 
-#: settings.py:330
+#: settings.py:335
 msgid "Write access to the tournaments service"
 msgstr "Acesso de escrita ao serviço de torneios"
 
-#: settings.py:331
+#: settings.py:336
 msgid "View your webhooks"
 msgstr "Visualizar seus webhooks"
 
-#: settings.py:332
+#: settings.py:337
 msgid "Create and delete webhooks on your behalf"
 msgstr "Criar e deletar webhooks ao seu favor"
 
@@ -1057,10 +1057,10 @@ msgstr ""
 msgid "User does not exist."
 msgstr ""
 
-#: web/views/replays.py:18
+#: web/views/replays.py:21
 msgid "My Replays"
 msgstr "Meus Replays"
 
-#: web/views/replays.py:147
+#: web/views/replays.py:160
 msgid "Uploading replay…"
 msgstr "Carregando replay…"

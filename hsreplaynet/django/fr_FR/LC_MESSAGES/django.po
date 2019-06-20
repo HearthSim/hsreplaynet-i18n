@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-19 01:40+0000\n"
+"POT-Creation-Date: 2019-06-20 01:40+0000\n"
 "PO-Revision-Date: 2019-06-10 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: French\n"
@@ -202,47 +202,47 @@ msgstr "Une erreur s'est produite avec votre plan."
 msgid "Invalid Paypal plan."
 msgstr "Plan Paypal invalide."
 
-#: settings.py:322
+#: settings.py:327
 msgid "Full access to your HSReplay.net account"
 msgstr "Accès complet à votre compte HSReplay.net"
 
-#: settings.py:323
+#: settings.py:328
 msgid "Access information about your connected social accounts"
 msgstr "Accéder aux informations relatives à vos comptes sociaux liés"
 
-#: settings.py:324
+#: settings.py:329
 msgid "View your Hearthstone card collection"
 msgstr "Voir votre collection de cartes Hearthstone"
 
-#: settings.py:325
+#: settings.py:330
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Importer votre collection de cartes Hearthstone sur le site"
 
-#: settings.py:326
+#: settings.py:331
 msgid "View your replays"
 msgstr "Regarder vos rediffusions"
 
-#: settings.py:327
+#: settings.py:332
 msgid "Update and delete your replays"
 msgstr "Mettre à jour et supprimer vos rediffusions"
 
-#: settings.py:328
+#: settings.py:333
 msgid "Access the Partner API"
 msgstr "Accéder à l’API du Partenaire"
 
-#: settings.py:329
+#: settings.py:334
 msgid "Read access to the tournaments service"
 msgstr "Accès en lecture au service de tournois"
 
-#: settings.py:330
+#: settings.py:335
 msgid "Write access to the tournaments service"
 msgstr "Accès en écriture au service de tournois"
 
-#: settings.py:331
+#: settings.py:336
 msgid "View your webhooks"
 msgstr "Voir vos webhooks"
 
-#: settings.py:332
+#: settings.py:337
 msgid "Create and delete webhooks on your behalf"
 msgstr "Donner l'autorisation de créer et effacer des webhooks"
 
@@ -1094,10 +1094,10 @@ msgstr ""
 msgid "User does not exist."
 msgstr "L’utilisateur n’existe pas."
 
-#: web/views/replays.py:18
+#: web/views/replays.py:21
 msgid "My Replays"
 msgstr "Mes replays"
 
-#: web/views/replays.py:147
+#: web/views/replays.py:160
 msgid "Uploading replay…"
 msgstr "Replay en cours de téléversement…"

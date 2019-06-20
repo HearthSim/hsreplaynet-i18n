@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-19 01:40+0000\n"
+"POT-Creation-Date: 2019-06-20 01:40+0000\n"
 "PO-Revision-Date: 2019-06-10 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Russian\n"
@@ -198,47 +198,47 @@ msgstr "Не удалось определить схему оплаты."
 msgid "Invalid Paypal plan."
 msgstr "Недействительный план оплаты PayPal."
 
-#: settings.py:322
+#: settings.py:327
 msgid "Full access to your HSReplay.net account"
 msgstr "Полный доступ к вашей учетной записи HSReplay.net"
 
-#: settings.py:323
+#: settings.py:328
 msgid "Access information about your connected social accounts"
 msgstr "Доступ к списку ваших связанных учетных записей"
 
-#: settings.py:324
+#: settings.py:329
 msgid "View your Hearthstone card collection"
 msgstr "Просмотр вашей коллекции карт в Hearthstone"
 
-#: settings.py:325
+#: settings.py:330
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Загрузка вашей коллекции карт из Hearthstone на сайт"
 
-#: settings.py:326
+#: settings.py:331
 msgid "View your replays"
 msgstr "Просмотр ваших повторов"
 
-#: settings.py:327
+#: settings.py:332
 msgid "Update and delete your replays"
 msgstr "Изменение и удаление ваших повторов"
 
-#: settings.py:328
+#: settings.py:333
 msgid "Access the Partner API"
 msgstr "Доступ к партнерским API"
 
-#: settings.py:329
+#: settings.py:334
 msgid "Read access to the tournaments service"
 msgstr "Доступ на чтение к турнирным службам"
 
-#: settings.py:330
+#: settings.py:335
 msgid "Write access to the tournaments service"
 msgstr "Доступ на запись к турнирным службам"
 
-#: settings.py:331
+#: settings.py:336
 msgid "View your webhooks"
 msgstr "Просмотр ваших веб-хуков"
 
-#: settings.py:332
+#: settings.py:337
 msgid "Create and delete webhooks on your behalf"
 msgstr "Создавать и удалять веб-хуки от вашего имени"
 
@@ -1083,10 +1083,10 @@ msgstr ""
 msgid "User does not exist."
 msgstr "Пользователь не существует."
 
-#: web/views/replays.py:18
+#: web/views/replays.py:21
 msgid "My Replays"
 msgstr "Мои Повторы"
 
-#: web/views/replays.py:147
+#: web/views/replays.py:160
 msgid "Uploading replay…"
 msgstr "Загружаем повтор…"
