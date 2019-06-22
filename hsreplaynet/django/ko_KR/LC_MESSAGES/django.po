@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-21 01:40+0000\n"
+"POT-Creation-Date: 2019-06-22 01:40+0000\n"
 "PO-Revision-Date: 2019-06-10 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Korean\n"
@@ -1020,6 +1020,6 @@ msgstr "존재하지 않는 사용자입니다."
 msgid "My Replays"
 msgstr "내 리플레이"
 
-#: web/views/replays.py:160
+#: web/views/replays.py:177
 msgid "Uploading replay…"
 msgstr "리플레이 업로드 중…"
