@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-27 01:40+0000\n"
+"POT-Creation-Date: 2019-06-28 01:40+0000\n"
 "PO-Revision-Date: 2019-06-10 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Chinese Simplified\n"
@@ -863,7 +863,7 @@ msgstr "此卡组已不再可用。"
 msgid "Find stats and different {name} decklists."
 msgstr "查找统计信息和不同的 {name} 套牌。"
 
-#: web/views/cards.py:23 web/views/cards.py:108
+#: web/views/cards.py:23 web/views/cards.py:110
 msgid "Hearthstone Card Statistics"
 msgstr "炉石卡牌统计"
 
@@ -877,15 +877,15 @@ msgstr "横向对比所有的可收集炉石卡牌。搜索打出最多的或胜
 msgid "My Cards"
 msgstr "我的卡牌"
 
-#: web/views/cards.py:99
+#: web/views/cards.py:101
 msgid "No card found matching the query."
 msgstr "没有与条件对应的卡牌。"
 
-#: web/views/cards.py:118
+#: web/views/cards.py:120
 msgid "Statistics and decks!"
 msgstr "统计信息和套牌！"
 
-#: web/views/cards.py:144
+#: web/views/cards.py:146
 msgid "Hearthstone Card Editor"
 msgstr "炉石卡牌编辑器"
 
@@ -984,11 +984,11 @@ msgstr "套牌中包含不可收集的卡牌。"
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "{name}的统计与套牌列表。导入：{deckstring}"
 
-#: web/views/decks.py:90
+#: web/views/decks.py:92
 msgid "Trending Hearthstone Decks"
 msgstr "流行炉石套牌"
 
-#: web/views/decks.py:92
+#: web/views/decks.py:94
 msgid ""
 "Find the up-and-coming decks with rising popularity in Hearthstone for each "
 "class updated every single day."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-27 01:40+0000\n"
+"POT-Creation-Date: 2019-06-28 01:40+0000\n"
 "PO-Revision-Date: 2019-06-10 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Portuguese, Brazilian\n"
@@ -894,7 +894,7 @@ msgstr "Esse arquétipo não está mais disponível."
 msgid "Find stats and different {name} decklists."
 msgstr "Encontre estatísticas e diferentes decks de {name}."
 
-#: web/views/cards.py:23 web/views/cards.py:108
+#: web/views/cards.py:23 web/views/cards.py:110
 msgid "Hearthstone Card Statistics"
 msgstr "Estatísticas da Carta de Hearthstone"
 
@@ -910,15 +910,15 @@ msgstr ""
 msgid "My Cards"
 msgstr "Minhas cartas"
 
-#: web/views/cards.py:99
+#: web/views/cards.py:101
 msgid "No card found matching the query."
 msgstr "Nenhuma carta encontrada correspondente à busca."
 
-#: web/views/cards.py:118
+#: web/views/cards.py:120
 msgid "Statistics and decks!"
 msgstr "Decks e estatísticas!"
 
-#: web/views/cards.py:144
+#: web/views/cards.py:146
 msgid "Hearthstone Card Editor"
 msgstr "Editor de carta do Hearthstone"
 
@@ -1018,11 +1018,11 @@ msgstr "Deck contém cartas não colecionáveis."
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "{name} estatísticas e lista do deck. Importar: {deckstring}"
 
-#: web/views/decks.py:90
+#: web/views/decks.py:92
 msgid "Trending Hearthstone Decks"
 msgstr "Decks de Hearthstone populares"
 
-#: web/views/decks.py:92
+#: web/views/decks.py:94
 msgid ""
 "Find the up-and-coming decks with rising popularity in Hearthstone for each "
 "class updated every single day."

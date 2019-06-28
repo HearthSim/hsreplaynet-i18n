@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-27 01:40+0000\n"
+"POT-Creation-Date: 2019-06-28 01:40+0000\n"
 "PO-Revision-Date: 2019-06-10 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Polish\n"
@@ -923,7 +923,7 @@ msgstr "Ten archetyp nie jest już dostępny."
 msgid "Find stats and different {name} decklists."
 msgstr "Znajdź statystyki i inne {name} listy talii."
 
-#: web/views/cards.py:23 web/views/cards.py:108
+#: web/views/cards.py:23 web/views/cards.py:110
 msgid "Hearthstone Card Statistics"
 msgstr "Statystyki Kart Hearthstone"
 
@@ -939,15 +939,15 @@ msgstr ""
 msgid "My Cards"
 msgstr "Moje Karty"
 
-#: web/views/cards.py:99
+#: web/views/cards.py:101
 msgid "No card found matching the query."
 msgstr "Żadna karta nie pasuje do zapytania."
 
-#: web/views/cards.py:118
+#: web/views/cards.py:120
 msgid "Statistics and decks!"
 msgstr "Statystyki i talie!"
 
-#: web/views/cards.py:144
+#: web/views/cards.py:146
 msgid "Hearthstone Card Editor"
 msgstr "Edytor Kart Hearthstone"
 
@@ -1050,11 +1050,11 @@ msgstr "Talia zawiera karty nie do zdobycia."
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "{name} statystyki i lista talii. Zaimportuj to: {deckstring}"
 
-#: web/views/decks.py:90
+#: web/views/decks.py:92
 msgid "Trending Hearthstone Decks"
 msgstr "Popularne Talie Hearthstone"
 
-#: web/views/decks.py:92
+#: web/views/decks.py:94
 msgid ""
 "Find the up-and-coming decks with rising popularity in Hearthstone for each "
 "class updated every single day."

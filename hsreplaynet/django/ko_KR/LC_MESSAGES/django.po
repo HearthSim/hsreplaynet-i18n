@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-27 01:40+0000\n"
+"POT-Creation-Date: 2019-06-28 01:40+0000\n"
 "PO-Revision-Date: 2019-06-10 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Korean\n"
@@ -858,7 +858,7 @@ msgstr "이 아키타입은 더 이상 유효하지 않습니다."
 msgid "Find stats and different {name} decklists."
 msgstr ""
 
-#: web/views/cards.py:23 web/views/cards.py:108
+#: web/views/cards.py:23 web/views/cards.py:110
 msgid "Hearthstone Card Statistics"
 msgstr "하스스톤 카드 통계"
 
@@ -874,15 +874,15 @@ msgstr ""
 msgid "My Cards"
 msgstr "내 카드"
 
-#: web/views/cards.py:99
+#: web/views/cards.py:101
 msgid "No card found matching the query."
 msgstr "해당 카드가 없습니다."
 
-#: web/views/cards.py:118
+#: web/views/cards.py:120
 msgid "Statistics and decks!"
 msgstr "통계와 덱!"
 
-#: web/views/cards.py:144
+#: web/views/cards.py:146
 msgid "Hearthstone Card Editor"
 msgstr "하스스톤 카드 에디터"
 
@@ -980,11 +980,11 @@ msgstr "덱 리스트에 수집 불가능한 카드가 포함되어 있습니다
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr ""
 
-#: web/views/decks.py:90
+#: web/views/decks.py:92
 msgid "Trending Hearthstone Decks"
 msgstr "떠오르는 하스스톤 덱"
 
-#: web/views/decks.py:92
+#: web/views/decks.py:94
 msgid ""
 "Find the up-and-coming decks with rising popularity in Hearthstone for each "
 "class updated every single day."
