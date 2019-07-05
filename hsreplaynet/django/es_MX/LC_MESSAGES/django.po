@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-04 01:40+0000\n"
-"PO-Revision-Date: 2019-07-04 12:41\n"
+"POT-Creation-Date: 2019-07-05 01:40+0000\n"
+"PO-Revision-Date: 2019-07-05 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -773,7 +773,7 @@ msgstr "Este arquetipo ya no esta disponible."
 msgid "Find stats and different {name} decklists."
 msgstr "Buscar estadísticas y diferentes {name} listas de mazos."
 
-#: web/views/cards.py:23 web/views/cards.py:110
+#: web/views/cards.py:23 web/views/cards.py:113
 msgid "Hearthstone Card Statistics"
 msgstr "Estadísticas de cartas Heartstone"
 
@@ -789,11 +789,11 @@ msgstr "Mis cartas"
 msgid "No card found matching the query."
 msgstr "No hay cartas que coincidan con la búsqueda."
 
-#: web/views/cards.py:120
+#: web/views/cards.py:123
 msgid "Statistics and decks!"
 msgstr "Estadísticas y mazos!"
 
-#: web/views/cards.py:146
+#: web/views/cards.py:149
 msgid "Hearthstone Card Editor"
 msgstr "Editor de cartas Heartstone"
 

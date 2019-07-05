@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-04 01:40+0000\n"
-"PO-Revision-Date: 2019-07-04 12:40\n"
+"POT-Creation-Date: 2019-07-05 01:40+0000\n"
+"PO-Revision-Date: 2019-07-05 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -773,7 +773,7 @@ msgstr "이 아키타입은 더 이상 유효하지 않습니다."
 msgid "Find stats and different {name} decklists."
 msgstr ""
 
-#: web/views/cards.py:23 web/views/cards.py:110
+#: web/views/cards.py:23 web/views/cards.py:113
 msgid "Hearthstone Card Statistics"
 msgstr "하스스톤 카드 통계"
 
@@ -789,11 +789,11 @@ msgstr "내 카드"
 msgid "No card found matching the query."
 msgstr "해당 카드가 없습니다."
 
-#: web/views/cards.py:120
+#: web/views/cards.py:123
 msgid "Statistics and decks!"
 msgstr "통계와 덱!"
 
-#: web/views/cards.py:146
+#: web/views/cards.py:149
 msgid "Hearthstone Card Editor"
 msgstr "하스스톤 카드 에디터"
 
