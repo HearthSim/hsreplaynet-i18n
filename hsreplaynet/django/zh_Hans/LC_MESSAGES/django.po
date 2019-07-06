@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-05 01:40+0000\n"
-"PO-Revision-Date: 2019-07-05 12:40\n"
+"POT-Creation-Date: 2019-07-06 01:40+0000\n"
+"PO-Revision-Date: 2019-07-06 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -773,7 +773,7 @@ msgstr "此卡组已不再可用。"
 msgid "Find stats and different {name} decklists."
 msgstr "查找统计信息和不同的 {name} 套牌。"
 
-#: web/views/cards.py:23 web/views/cards.py:113
+#: web/views/cards.py:23 web/views/cards.py:117
 msgid "Hearthstone Card Statistics"
 msgstr "炉石卡牌统计"
 
@@ -789,11 +789,11 @@ msgstr "我的卡牌"
 msgid "No card found matching the query."
 msgstr "没有与条件对应的卡牌。"
 
-#: web/views/cards.py:123
+#: web/views/cards.py:127
 msgid "Statistics and decks!"
 msgstr "统计信息和套牌！"
 
-#: web/views/cards.py:149
+#: web/views/cards.py:153
 msgid "Hearthstone Card Editor"
 msgstr "炉石卡牌编辑器"
 
