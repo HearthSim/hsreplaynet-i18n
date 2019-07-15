@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-06 01:40+0000\n"
-"PO-Revision-Date: 2019-07-13 00:41\n"
+"POT-Creation-Date: 2019-07-15 01:40+0000\n"
+"PO-Revision-Date: 2019-07-15 12:41\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -767,7 +767,7 @@ msgstr ""
 msgid "Find stats and different {name} decklists."
 msgstr ""
 
-#: web/views/cards.py:23 web/views/cards.py:117
+#: web/views/cards.py:23 web/views/cards.py:113
 msgid "Hearthstone Card Statistics"
 msgstr ""
 
@@ -783,11 +783,11 @@ msgstr ""
 msgid "No card found matching the query."
 msgstr ""
 
-#: web/views/cards.py:127
+#: web/views/cards.py:123
 msgid "Statistics and decks!"
 msgstr ""
 
-#: web/views/cards.py:153
+#: web/views/cards.py:149
 msgid "Hearthstone Card Editor"
 msgstr ""
 
