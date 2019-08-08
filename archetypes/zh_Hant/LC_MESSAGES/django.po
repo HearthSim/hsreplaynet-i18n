@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-12T01:40:38.160740\n"
+"POT-Creation-Date: 2019-08-08T01:40:32.466715\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: zh-TW\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2019-08-08 00:40\n"
+"PO-Revision-Date: 2019-08-08 12:41\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -64,10 +64,6 @@ msgstr "龍聖"
 msgid "Control Priest"
 msgstr "控制牧"
 
-#: https://hsreplay.net/archetypes/56/quest-priest
-msgid "Quest Priest"
-msgstr "任務牧"
-
 #: https://hsreplay.net/archetypes/66/water-rogue
 msgid "Water Rogue"
 msgstr "海盜魚人賊"
@@ -87,10 +83,6 @@ msgstr "元素聖"
 #: https://hsreplay.net/archetypes/71/elemental-warrior
 msgid "Elemental Warrior"
 msgstr "元素戰"
-
-#: https://hsreplay.net/archetypes/79/quest-paladin
-msgid "Quest Paladin"
-msgstr "任務聖"
 
 #: https://hsreplay.net/archetypes/60/jade-shaman
 msgid "Jade Shaman"
@@ -152,10 +144,6 @@ msgstr "棄牌術"
 msgid "Handlock"
 msgstr "手牌術"
 
-#: https://hsreplay.net/archetypes/1/freeze-mage
-msgid "Freeze Mage"
-msgstr "冰凍法"
-
 #: https://hsreplay.net/archetypes/136/highlander-warlock
 msgid "Highlander Warlock"
 msgstr "無雙術"
@@ -188,13 +176,13 @@ msgstr "元素牧"
 msgid "Miracle Priest"
 msgstr "奇蹟牧"
 
-#: https://hsreplay.net/archetypes/138/secret-hunter
-msgid "Secret Hunter"
-msgstr "秘密獵"
-
 #: https://hsreplay.net/archetypes/168/otk-dk-paladin
 msgid "OTK DK Paladin"
 msgstr "OTK死騎聖"
+
+#: https://hsreplay.net/archetypes/150/quest-druid
+msgid "Quest Druid"
+msgstr "任務德"
 
 #: https://hsreplay.net/archetypes/137/midrange-hunter
 msgid "Midrange Hunter"
@@ -219,6 +207,10 @@ msgstr "控制法"
 #: https://hsreplay.net/archetypes/145/elemental-mage
 msgid "Elemental Mage"
 msgstr "元素法"
+
+#: https://hsreplay.net/archetypes/302/highlander-hunter
+msgid "Highlander Hunter"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/170/beast-hunter
 msgid "Beast Hunter"
@@ -272,10 +264,6 @@ msgstr "號召德"
 msgid "Recruit Hunter"
 msgstr "號召獵"
 
-#: https://hsreplay.net/archetypes/182/big-spell-mage
-msgid "Big Spell Mage"
-msgstr "控制法"
-
 #: https://hsreplay.net/archetypes/193/oakheart-druid
 msgid "Oakheart Druid"
 msgstr "橡心德"
@@ -320,9 +308,9 @@ msgstr "那個戰"
 msgid "Totem Shaman"
 msgstr "圖騰薩"
 
-#: https://hsreplay.net/archetypes/142/quest-mage
-msgid "Quest Mage"
-msgstr "任務法"
+#: https://hsreplay.net/archetypes/303/highlander-quest-mage
+msgid "Highlander Quest Mage"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/203/tempo-druid
 msgid "Tempo Druid"
@@ -396,6 +384,14 @@ msgstr "國王德"
 msgid "Even Mage"
 msgstr "偶數法"
 
+#: https://hsreplay.net/archetypes/182/big-spell-mage
+msgid "Big Spell Mage"
+msgstr "控制法"
+
+#: https://hsreplay.net/archetypes/56/quest-priest
+msgid "Quest Priest"
+msgstr "任務牧"
+
 #: https://hsreplay.net/archetypes/147/jade-druid
 msgid "Jade Druid"
 msgstr "翠玉德"
@@ -436,41 +432,29 @@ msgstr "狂怒戰"
 msgid "C'Thun Warrior"
 msgstr "克蘇恩戰"
 
-#: https://hsreplay.net/archetypes/162/quest-warrior
-msgid "Quest Warrior"
-msgstr "任務戰"
-
 #: https://hsreplay.net/archetypes/163/blood-warrior
 msgid "Blood Warrior"
 msgstr "亡手戰"
-
-#: https://hsreplay.net/archetypes/157/murloc-paladin
-msgid "Murloc Paladin"
-msgstr "魚人聖"
 
 #: https://hsreplay.net/archetypes/156/control-paladin
 msgid "Control Paladin"
 msgstr "控制聖"
 
-#: https://hsreplay.net/archetypes/211/quest-hunter
-msgid "Quest Hunter"
-msgstr "任務獵"
-
 #: https://hsreplay.net/archetypes/192/control-shaman
 msgid "Control Shaman"
 msgstr "控制薩"
 
-#: https://hsreplay.net/archetypes/155/quest-rogue
-msgid "Quest Rogue"
-msgstr "任務賊"
+#: https://hsreplay.net/archetypes/162/quest-warrior
+msgid "Quest Warrior"
+msgstr "任務戰"
 
 #: https://hsreplay.net/archetypes/213/dragon-hunter
 msgid "Dragon Hunter"
 msgstr "龍獵"
 
-#: https://hsreplay.net/archetypes/150/quest-druid
-msgid "Quest Druid"
-msgstr "任務德"
+#: https://hsreplay.net/archetypes/211/quest-hunter
+msgid "Quest Hunter"
+msgstr "任務獵"
 
 #: https://hsreplay.net/archetypes/72/pirate-murloc-paladin
 msgid "Pirate Murloc Paladin"
@@ -716,6 +700,14 @@ msgstr "瘋狂牧"
 msgid "Big Secret Hunter"
 msgstr "大大秘密獵"
 
+#: https://hsreplay.net/archetypes/157/murloc-paladin
+msgid "Murloc Paladin"
+msgstr "魚人聖"
+
+#: https://hsreplay.net/archetypes/155/quest-rogue
+msgid "Quest Rogue"
+msgstr "任務賊"
+
 #: https://hsreplay.net/archetypes/273/secret-odd-mage
 msgid "Secret Odd Mage"
 msgstr "秘密奇數法"
@@ -800,10 +792,6 @@ msgstr "壞蛋聖"
 msgid "Mech Zoo Warlock"
 msgstr "機械Zoo術"
 
-#: https://hsreplay.net/archetypes/11/cyclone-mage
-msgid "Cyclone Mage"
-msgstr "奇蹟法"
-
 #: https://hsreplay.net/archetypes/300/mech-priest
 msgid "Mech Priest"
 msgstr "機械牧"
@@ -811,6 +799,46 @@ msgstr "機械牧"
 #: https://hsreplay.net/archetypes/301/hooktusk-rogue
 msgid "Hooktusk Rogue"
 msgstr "鉤牙賊"
+
+#: https://hsreplay.net/archetypes/138/secret-hunter
+msgid "Secret Hunter"
+msgstr "秘密獵"
+
+#: https://hsreplay.net/archetypes/11/cyclone-mage
+msgid "Cyclone Mage"
+msgstr "奇蹟法"
+
+#: https://hsreplay.net/archetypes/142/quest-mage
+msgid "Quest Mage"
+msgstr "任務法"
+
+#: https://hsreplay.net/archetypes/1/freeze-mage
+msgid "Freeze Mage"
+msgstr "冰凍法"
+
+#: https://hsreplay.net/archetypes/79/quest-paladin
+msgid "Quest Paladin"
+msgstr "任務聖"
+
+#: https://hsreplay.net/archetypes/304/highlander-paladin
+msgid "Highlander Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/305/highlander-quest-druid
+msgid "Highlander Quest Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/306/quest-shaman
+msgid "Quest Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/307/quest-warlock
+msgid "Quest Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/308/aggro-warrior
+msgid "Aggro Warrior"
+msgstr ""
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/
 msgid "Token Druid has been a long standing archetype in Hearthstone. The deck is based around flooding the board with small, summoned minions (tokens), buffing them and bursting the opponent down."

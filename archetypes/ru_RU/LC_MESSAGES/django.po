@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-12T01:40:38.160740\n"
+"POT-Creation-Date: 2019-08-08T01:40:32.466715\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2019-08-08 00:40\n"
+"PO-Revision-Date: 2019-08-08 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -64,10 +64,6 @@ msgstr "Драконо-паладин"
 msgid "Control Priest"
 msgstr "Контроль жрец"
 
-#: https://hsreplay.net/archetypes/56/quest-priest
-msgid "Quest Priest"
-msgstr "Квест жрец"
-
 #: https://hsreplay.net/archetypes/66/water-rogue
 msgid "Water Rogue"
 msgstr "Морской разбойник"
@@ -87,10 +83,6 @@ msgstr "Элементаль паладин"
 #: https://hsreplay.net/archetypes/71/elemental-warrior
 msgid "Elemental Warrior"
 msgstr "Элементаль воин"
-
-#: https://hsreplay.net/archetypes/79/quest-paladin
-msgid "Quest Paladin"
-msgstr "Квест паладин"
 
 #: https://hsreplay.net/archetypes/60/jade-shaman
 msgid "Jade Shaman"
@@ -152,10 +144,6 @@ msgstr "Чернокнижник на сбросе"
 msgid "Handlock"
 msgstr "Хэндлок"
 
-#: https://hsreplay.net/archetypes/1/freeze-mage
-msgid "Freeze Mage"
-msgstr "Ледяной маг"
-
 #: https://hsreplay.net/archetypes/136/highlander-warlock
 msgid "Highlander Warlock"
 msgstr "Хайлэндер чернокнижник"
@@ -188,13 +176,13 @@ msgstr "Элементаль жрец"
 msgid "Miracle Priest"
 msgstr "Миракл жрец"
 
-#: https://hsreplay.net/archetypes/138/secret-hunter
-msgid "Secret Hunter"
-msgstr "Секрет охотник"
-
 #: https://hsreplay.net/archetypes/168/otk-dk-paladin
 msgid "OTK DK Paladin"
 msgstr "ОТК ДК паладин"
+
+#: https://hsreplay.net/archetypes/150/quest-druid
+msgid "Quest Druid"
+msgstr "Квест друид"
 
 #: https://hsreplay.net/archetypes/137/midrange-hunter
 msgid "Midrange Hunter"
@@ -219,6 +207,10 @@ msgstr "Контроль маг"
 #: https://hsreplay.net/archetypes/145/elemental-mage
 msgid "Elemental Mage"
 msgstr "Элементаль маг"
+
+#: https://hsreplay.net/archetypes/302/highlander-hunter
+msgid "Highlander Hunter"
+msgstr "Хайлендер охотник"
 
 #: https://hsreplay.net/archetypes/170/beast-hunter
 msgid "Beast Hunter"
@@ -272,10 +264,6 @@ msgstr "Друид на вербовке"
 msgid "Recruit Hunter"
 msgstr "Охотник на вербовке"
 
-#: https://hsreplay.net/archetypes/182/big-spell-mage
-msgid "Big Spell Mage"
-msgstr "Маг на дорогих заклинаниях"
-
 #: https://hsreplay.net/archetypes/193/oakheart-druid
 msgid "Oakheart Druid"
 msgstr "Сердцедуб друид"
@@ -320,9 +308,9 @@ msgstr "Воин на призывательнице"
 msgid "Totem Shaman"
 msgstr "Тотем шаман"
 
-#: https://hsreplay.net/archetypes/142/quest-mage
-msgid "Quest Mage"
-msgstr "Квест маг"
+#: https://hsreplay.net/archetypes/303/highlander-quest-mage
+msgid "Highlander Quest Mage"
+msgstr "Хайлендер квест маг"
 
 #: https://hsreplay.net/archetypes/203/tempo-druid
 msgid "Tempo Druid"
@@ -396,6 +384,14 @@ msgstr "Милл друид"
 msgid "Even Mage"
 msgstr "Четный маг"
 
+#: https://hsreplay.net/archetypes/182/big-spell-mage
+msgid "Big Spell Mage"
+msgstr "Маг на дорогих заклинаниях"
+
+#: https://hsreplay.net/archetypes/56/quest-priest
+msgid "Quest Priest"
+msgstr "Квест жрец"
+
 #: https://hsreplay.net/archetypes/147/jade-druid
 msgid "Jade Druid"
 msgstr "Нефритовый друид"
@@ -436,41 +432,29 @@ msgstr "Воин на исступлении"
 msgid "C'Thun Warrior"
 msgstr "К'Тун воин"
 
-#: https://hsreplay.net/archetypes/162/quest-warrior
-msgid "Quest Warrior"
-msgstr "Квест воин"
-
 #: https://hsreplay.net/archetypes/163/blood-warrior
 msgid "Blood Warrior"
 msgstr "Кровавый воин"
-
-#: https://hsreplay.net/archetypes/157/murloc-paladin
-msgid "Murloc Paladin"
-msgstr "Мурлок паладин"
 
 #: https://hsreplay.net/archetypes/156/control-paladin
 msgid "Control Paladin"
 msgstr "Контроль паладин"
 
-#: https://hsreplay.net/archetypes/211/quest-hunter
-msgid "Quest Hunter"
-msgstr "Квест охотник"
-
 #: https://hsreplay.net/archetypes/192/control-shaman
 msgid "Control Shaman"
 msgstr "Контроль шаман"
 
-#: https://hsreplay.net/archetypes/155/quest-rogue
-msgid "Quest Rogue"
-msgstr "Квест разбойник"
+#: https://hsreplay.net/archetypes/162/quest-warrior
+msgid "Quest Warrior"
+msgstr "Квест воин"
 
 #: https://hsreplay.net/archetypes/213/dragon-hunter
 msgid "Dragon Hunter"
 msgstr "Драконо-охотник"
 
-#: https://hsreplay.net/archetypes/150/quest-druid
-msgid "Quest Druid"
-msgstr "Квест друид"
+#: https://hsreplay.net/archetypes/211/quest-hunter
+msgid "Quest Hunter"
+msgstr "Квест охотник"
 
 #: https://hsreplay.net/archetypes/72/pirate-murloc-paladin
 msgid "Pirate Murloc Paladin"
@@ -716,6 +700,14 @@ msgstr "Жрец на безумии"
 msgid "Big Secret Hunter"
 msgstr "Большой секрет охотник"
 
+#: https://hsreplay.net/archetypes/157/murloc-paladin
+msgid "Murloc Paladin"
+msgstr "Мурлок паладин"
+
+#: https://hsreplay.net/archetypes/155/quest-rogue
+msgid "Quest Rogue"
+msgstr "Квест разбойник"
+
 #: https://hsreplay.net/archetypes/273/secret-odd-mage
 msgid "Secret Odd Mage"
 msgstr "Нечетный секрет маг"
@@ -800,10 +792,6 @@ msgstr "Рецидивист паладин"
 msgid "Mech Zoo Warlock"
 msgstr "Механо-зоолок"
 
-#: https://hsreplay.net/archetypes/11/cyclone-mage
-msgid "Cyclone Mage"
-msgstr "Маг смерча"
-
 #: https://hsreplay.net/archetypes/300/mech-priest
 msgid "Mech Priest"
 msgstr "Механо-жрец"
@@ -811,6 +799,46 @@ msgstr "Механо-жрец"
 #: https://hsreplay.net/archetypes/301/hooktusk-rogue
 msgid "Hooktusk Rogue"
 msgstr "Кривоклык разбойник"
+
+#: https://hsreplay.net/archetypes/138/secret-hunter
+msgid "Secret Hunter"
+msgstr "Секрет охотник"
+
+#: https://hsreplay.net/archetypes/11/cyclone-mage
+msgid "Cyclone Mage"
+msgstr "Маг смерча"
+
+#: https://hsreplay.net/archetypes/142/quest-mage
+msgid "Quest Mage"
+msgstr "Квест маг"
+
+#: https://hsreplay.net/archetypes/1/freeze-mage
+msgid "Freeze Mage"
+msgstr "Морозный маг"
+
+#: https://hsreplay.net/archetypes/79/quest-paladin
+msgid "Quest Paladin"
+msgstr "Квест паладин"
+
+#: https://hsreplay.net/archetypes/304/highlander-paladin
+msgid "Highlander Paladin"
+msgstr "Хайлендер паладин"
+
+#: https://hsreplay.net/archetypes/305/highlander-quest-druid
+msgid "Highlander Quest Druid"
+msgstr "Хайлендер квест друид"
+
+#: https://hsreplay.net/archetypes/306/quest-shaman
+msgid "Quest Shaman"
+msgstr "Квест шаман"
+
+#: https://hsreplay.net/archetypes/307/quest-warlock
+msgid "Quest Warlock"
+msgstr "Квест чернокнижник"
+
+#: https://hsreplay.net/archetypes/308/aggro-warrior
+msgid "Aggro Warrior"
+msgstr "Агро воин"
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/
 msgid "Token Druid has been a long standing archetype in Hearthstone. The deck is based around flooding the board with small, summoned minions (tokens), buffing them and bursting the opponent down."

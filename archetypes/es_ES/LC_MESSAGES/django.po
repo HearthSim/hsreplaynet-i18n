@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-06-12T01:40:38.160740\n"
+"POT-Creation-Date: 2019-08-08T01:40:32.466715\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2019-08-08 00:40\n"
+"PO-Revision-Date: 2019-08-08 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -64,10 +64,6 @@ msgstr "Paladin Dragones"
 msgid "Control Priest"
 msgstr "Sacerdote Control"
 
-#: https://hsreplay.net/archetypes/56/quest-priest
-msgid "Quest Priest"
-msgstr "Sacerdote Misión"
-
 #: https://hsreplay.net/archetypes/66/water-rogue
 msgid "Water Rogue"
 msgstr "Pícaro Agua"
@@ -87,10 +83,6 @@ msgstr "Paladin Elementales"
 #: https://hsreplay.net/archetypes/71/elemental-warrior
 msgid "Elemental Warrior"
 msgstr "Guerrero Elementales"
-
-#: https://hsreplay.net/archetypes/79/quest-paladin
-msgid "Quest Paladin"
-msgstr "Paladín Misión"
 
 #: https://hsreplay.net/archetypes/60/jade-shaman
 msgid "Jade Shaman"
@@ -152,10 +144,6 @@ msgstr "Brujo Descartes"
 msgid "Handlock"
 msgstr "Handlock"
 
-#: https://hsreplay.net/archetypes/1/freeze-mage
-msgid "Freeze Mage"
-msgstr "Mago Congelar"
-
 #: https://hsreplay.net/archetypes/136/highlander-warlock
 msgid "Highlander Warlock"
 msgstr "Brujo Highlander"
@@ -188,13 +176,13 @@ msgstr "Sacerdote Elementales"
 msgid "Miracle Priest"
 msgstr "Sacerdote Milagro"
 
-#: https://hsreplay.net/archetypes/138/secret-hunter
-msgid "Secret Hunter"
-msgstr "Cazador Secretos"
-
 #: https://hsreplay.net/archetypes/168/otk-dk-paladin
 msgid "OTK DK Paladin"
 msgstr "Paladín OTK DK"
+
+#: https://hsreplay.net/archetypes/150/quest-druid
+msgid "Quest Druid"
+msgstr "Druida Misión"
 
 #: https://hsreplay.net/archetypes/137/midrange-hunter
 msgid "Midrange Hunter"
@@ -219,6 +207,10 @@ msgstr "Mago Control"
 #: https://hsreplay.net/archetypes/145/elemental-mage
 msgid "Elemental Mage"
 msgstr "Mago Elementales"
+
+#: https://hsreplay.net/archetypes/302/highlander-hunter
+msgid "Highlander Hunter"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/170/beast-hunter
 msgid "Beast Hunter"
@@ -272,10 +264,6 @@ msgstr "Druida Reclutar"
 msgid "Recruit Hunter"
 msgstr "Cazador Hunter"
 
-#: https://hsreplay.net/archetypes/182/big-spell-mage
-msgid "Big Spell Mage"
-msgstr "Mago Grandes Hechizos"
-
 #: https://hsreplay.net/archetypes/193/oakheart-druid
 msgid "Oakheart Druid"
 msgstr "Druida Corazón de Roble"
@@ -320,9 +308,9 @@ msgstr "Guerrero Invocadora Maliciosa"
 msgid "Totem Shaman"
 msgstr "Chaman Totems"
 
-#: https://hsreplay.net/archetypes/142/quest-mage
-msgid "Quest Mage"
-msgstr "Mago Misión"
+#: https://hsreplay.net/archetypes/303/highlander-quest-mage
+msgid "Highlander Quest Mage"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/203/tempo-druid
 msgid "Tempo Druid"
@@ -396,6 +384,14 @@ msgstr "Druida Fatiga"
 msgid "Even Mage"
 msgstr "Mago Par"
 
+#: https://hsreplay.net/archetypes/182/big-spell-mage
+msgid "Big Spell Mage"
+msgstr "Mago Grandes Hechizos"
+
+#: https://hsreplay.net/archetypes/56/quest-priest
+msgid "Quest Priest"
+msgstr "Sacerdote Misión"
+
 #: https://hsreplay.net/archetypes/147/jade-druid
 msgid "Jade Druid"
 msgstr "Druida Jades"
@@ -436,41 +432,29 @@ msgstr "Guerrero Enfurecer"
 msgid "C'Thun Warrior"
 msgstr "Guerrero C'Thun"
 
-#: https://hsreplay.net/archetypes/162/quest-warrior
-msgid "Quest Warrior"
-msgstr "Guerrero Misión"
-
 #: https://hsreplay.net/archetypes/163/blood-warrior
 msgid "Blood Warrior"
 msgstr "Guerrero Sangriento"
-
-#: https://hsreplay.net/archetypes/157/murloc-paladin
-msgid "Murloc Paladin"
-msgstr "Paladín Murlocs"
 
 #: https://hsreplay.net/archetypes/156/control-paladin
 msgid "Control Paladin"
 msgstr "Paladín Control"
 
-#: https://hsreplay.net/archetypes/211/quest-hunter
-msgid "Quest Hunter"
-msgstr "Cazador Misión"
-
 #: https://hsreplay.net/archetypes/192/control-shaman
 msgid "Control Shaman"
 msgstr "Chaman Control"
 
-#: https://hsreplay.net/archetypes/155/quest-rogue
-msgid "Quest Rogue"
-msgstr "Pícaro Misión"
+#: https://hsreplay.net/archetypes/162/quest-warrior
+msgid "Quest Warrior"
+msgstr "Guerrero Misión"
 
 #: https://hsreplay.net/archetypes/213/dragon-hunter
 msgid "Dragon Hunter"
 msgstr "Cazador Dragones"
 
-#: https://hsreplay.net/archetypes/150/quest-druid
-msgid "Quest Druid"
-msgstr "Druida Misión"
+#: https://hsreplay.net/archetypes/211/quest-hunter
+msgid "Quest Hunter"
+msgstr "Cazador Misión"
 
 #: https://hsreplay.net/archetypes/72/pirate-murloc-paladin
 msgid "Pirate Murloc Paladin"
@@ -716,6 +700,14 @@ msgstr "Sacerdote Surrender"
 msgid "Big Secret Hunter"
 msgstr "Cazador Secretos"
 
+#: https://hsreplay.net/archetypes/157/murloc-paladin
+msgid "Murloc Paladin"
+msgstr "Paladín Murlocs"
+
+#: https://hsreplay.net/archetypes/155/quest-rogue
+msgid "Quest Rogue"
+msgstr "Pícaro Misión"
+
 #: https://hsreplay.net/archetypes/273/secret-odd-mage
 msgid "Secret Odd Mage"
 msgstr "Mago Secretos Impar"
@@ -800,16 +792,52 @@ msgstr ""
 msgid "Mech Zoo Warlock"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/11/cyclone-mage
-msgid "Cyclone Mage"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/300/mech-priest
 msgid "Mech Priest"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/301/hooktusk-rogue
 msgid "Hooktusk Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/138/secret-hunter
+msgid "Secret Hunter"
+msgstr "Cazador Secretos"
+
+#: https://hsreplay.net/archetypes/11/cyclone-mage
+msgid "Cyclone Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/142/quest-mage
+msgid "Quest Mage"
+msgstr "Mago Misión"
+
+#: https://hsreplay.net/archetypes/1/freeze-mage
+msgid "Freeze Mage"
+msgstr "Mago Congelar"
+
+#: https://hsreplay.net/archetypes/79/quest-paladin
+msgid "Quest Paladin"
+msgstr "Paladín Misión"
+
+#: https://hsreplay.net/archetypes/304/highlander-paladin
+msgid "Highlander Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/305/highlander-quest-druid
+msgid "Highlander Quest Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/306/quest-shaman
+msgid "Quest Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/307/quest-warlock
+msgid "Quest Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/308/aggro-warrior
+msgid "Aggro Warrior"
 msgstr ""
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/
