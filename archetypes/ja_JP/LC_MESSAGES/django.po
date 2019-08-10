@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-08T01:40:32.466715\n"
+"POT-Creation-Date: 2019-08-10T01:40:32.057565\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2019-08-08 12:40\n"
+"PO-Revision-Date: 2019-08-10 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -200,17 +200,13 @@ msgstr "秘策メイジ"
 msgid "Mill Rogue"
 msgstr "ミルローグ"
 
-#: https://hsreplay.net/archetypes/144/control-mage
-msgid "Control Mage"
-msgstr "コントロールメイジ"
-
 #: https://hsreplay.net/archetypes/145/elemental-mage
 msgid "Elemental Mage"
 msgstr "エレメンタルメイジ"
 
 #: https://hsreplay.net/archetypes/302/highlander-hunter
 msgid "Highlander Hunter"
-msgstr ""
+msgstr "ハイランダーハンター"
 
 #: https://hsreplay.net/archetypes/170/beast-hunter
 msgid "Beast Hunter"
@@ -310,7 +306,7 @@ msgstr "トーテムシャーマン"
 
 #: https://hsreplay.net/archetypes/303/highlander-quest-mage
 msgid "Highlander Quest Mage"
-msgstr ""
+msgstr "ハイランダークエストメイジ"
 
 #: https://hsreplay.net/archetypes/203/tempo-druid
 msgid "Tempo Druid"
@@ -391,6 +387,10 @@ msgstr "ビッグスペルメイジ"
 #: https://hsreplay.net/archetypes/56/quest-priest
 msgid "Quest Priest"
 msgstr "クエストプリースト"
+
+#: https://hsreplay.net/archetypes/144/control-mage
+msgid "Control Mage"
+msgstr "コントロールメイジ"
 
 #: https://hsreplay.net/archetypes/147/jade-druid
 msgid "Jade Druid"
@@ -822,23 +822,43 @@ msgstr "クエストパラディン"
 
 #: https://hsreplay.net/archetypes/304/highlander-paladin
 msgid "Highlander Paladin"
-msgstr ""
+msgstr "ハイランダーパラディン"
 
 #: https://hsreplay.net/archetypes/305/highlander-quest-druid
 msgid "Highlander Quest Druid"
-msgstr ""
+msgstr "ハイランダークエストドルイド"
 
 #: https://hsreplay.net/archetypes/306/quest-shaman
 msgid "Quest Shaman"
-msgstr ""
+msgstr "クエストシャーマン"
 
 #: https://hsreplay.net/archetypes/307/quest-warlock
 msgid "Quest Warlock"
-msgstr ""
+msgstr "クエストウォーロック"
 
 #: https://hsreplay.net/archetypes/308/aggro-warrior
 msgid "Aggro Warrior"
-msgstr ""
+msgstr "アグロウォリアー"
+
+#: https://hsreplay.net/archetypes/309/spell-paladin
+msgid "Spell Paladin"
+msgstr "呪文パラディン"
+
+#: https://hsreplay.net/archetypes/310/quest-resurrect-priest
+msgid "Quest Resurrect Priest"
+msgstr "クエスト復活プリースト"
+
+#: https://hsreplay.net/archetypes/311/quest-wall-priest
+msgid "Quest Wall Priest"
+msgstr "クエスト壁プリースト"
+
+#: https://hsreplay.net/archetypes/312/highlander-quest-rogue
+msgid "Highlander Quest Rogue"
+msgstr "ハイランダークエストローグ"
+
+#: https://hsreplay.net/archetypes/313/highlander-quest-shaman
+msgid "Highlander Quest Shaman"
+msgstr "ハイランダークエストシャーマン"
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/
 msgid "Token Druid has been a long standing archetype in Hearthstone. The deck is based around flooding the board with small, summoned minions (tokens), buffing them and bursting the opponent down."

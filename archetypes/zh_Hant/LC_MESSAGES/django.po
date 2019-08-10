@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-08T01:40:32.466715\n"
+"POT-Creation-Date: 2019-08-10T01:40:32.057565\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: zh-TW\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2019-08-09 00:40\n"
+"PO-Revision-Date: 2019-08-10 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -199,10 +199,6 @@ msgstr "秘密法"
 #: https://hsreplay.net/archetypes/151/mill-rogue
 msgid "Mill Rogue"
 msgstr "爆牌賊"
-
-#: https://hsreplay.net/archetypes/144/control-mage
-msgid "Control Mage"
-msgstr "控制法"
 
 #: https://hsreplay.net/archetypes/145/elemental-mage
 msgid "Elemental Mage"
@@ -392,6 +388,10 @@ msgstr "控制法"
 msgid "Quest Priest"
 msgstr "任務牧"
 
+#: https://hsreplay.net/archetypes/144/control-mage
+msgid "Control Mage"
+msgstr "控制法"
+
 #: https://hsreplay.net/archetypes/147/jade-druid
 msgid "Jade Druid"
 msgstr "翠玉德"
@@ -454,7 +454,7 @@ msgstr "龍獵"
 
 #: https://hsreplay.net/archetypes/211/quest-hunter
 msgid "Quest Hunter"
-msgstr "任務獵"
+msgstr "卡韓獵"
 
 #: https://hsreplay.net/archetypes/72/pirate-murloc-paladin
 msgid "Pirate Murloc Paladin"
@@ -839,6 +839,26 @@ msgstr "任務術"
 #: https://hsreplay.net/archetypes/308/aggro-warrior
 msgid "Aggro Warrior"
 msgstr "尻頭戰"
+
+#: https://hsreplay.net/archetypes/309/spell-paladin
+msgid "Spell Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/310/quest-resurrect-priest
+msgid "Quest Resurrect Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/311/quest-wall-priest
+msgid "Quest Wall Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/312/highlander-quest-rogue
+msgid "Highlander Quest Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/313/highlander-quest-shaman
+msgid "Highlander Quest Shaman"
+msgstr ""
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/
 msgid "Token Druid has been a long standing archetype in Hearthstone. The deck is based around flooding the board with small, summoned minions (tokens), buffing them and bursting the opponent down."

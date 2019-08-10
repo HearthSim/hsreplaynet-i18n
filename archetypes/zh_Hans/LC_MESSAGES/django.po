@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-08T01:40:32.466715\n"
+"POT-Creation-Date: 2019-08-10T01:40:32.057565\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2019-08-09 00:40\n"
+"PO-Revision-Date: 2019-08-10 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -200,10 +200,6 @@ msgstr "奥秘法"
 msgid "Mill Rogue"
 msgstr "爆牌贼"
 
-#: https://hsreplay.net/archetypes/144/control-mage
-msgid "Control Mage"
-msgstr "控制法"
-
 #: https://hsreplay.net/archetypes/145/elemental-mage
 msgid "Elemental Mage"
 msgstr "元素法"
@@ -386,11 +382,15 @@ msgstr "偶数法"
 
 #: https://hsreplay.net/archetypes/182/big-spell-mage
 msgid "Big Spell Mage"
-msgstr "控制法"
+msgstr "国王法"
 
 #: https://hsreplay.net/archetypes/56/quest-priest
 msgid "Quest Priest"
 msgstr "任务牧"
+
+#: https://hsreplay.net/archetypes/144/control-mage
+msgid "Control Mage"
+msgstr "控制法"
 
 #: https://hsreplay.net/archetypes/147/jade-druid
 msgid "Jade Druid"
@@ -839,6 +839,26 @@ msgstr "任务术"
 #: https://hsreplay.net/archetypes/308/aggro-warrior
 msgid "Aggro Warrior"
 msgstr "打脸战"
+
+#: https://hsreplay.net/archetypes/309/spell-paladin
+msgid "Spell Paladin"
+msgstr "国王骑"
+
+#: https://hsreplay.net/archetypes/310/quest-resurrect-priest
+msgid "Quest Resurrect Priest"
+msgstr "任务复活牧"
+
+#: https://hsreplay.net/archetypes/311/quest-wall-priest
+msgid "Quest Wall Priest"
+msgstr "任务墙牧"
+
+#: https://hsreplay.net/archetypes/312/highlander-quest-rogue
+msgid "Highlander Quest Rogue"
+msgstr "宇宙任务贼"
+
+#: https://hsreplay.net/archetypes/313/highlander-quest-shaman
+msgid "Highlander Quest Shaman"
+msgstr "宇宙任务萨"
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/
 msgid "Token Druid has been a long standing archetype in Hearthstone. The deck is based around flooding the board with small, summoned minions (tokens), buffing them and bursting the opponent down."

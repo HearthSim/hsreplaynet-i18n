@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-08T01:40:32.466715\n"
+"POT-Creation-Date: 2019-08-10T01:40:32.057565\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: fr\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2019-08-08 12:40\n"
+"PO-Revision-Date: 2019-08-10 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -199,10 +199,6 @@ msgstr "Mage secrets"
 #: https://hsreplay.net/archetypes/151/mill-rogue
 msgid "Mill Rogue"
 msgstr "Voleur meule"
-
-#: https://hsreplay.net/archetypes/144/control-mage
-msgid "Control Mage"
-msgstr "Mage contrôle"
 
 #: https://hsreplay.net/archetypes/145/elemental-mage
 msgid "Elemental Mage"
@@ -391,6 +387,10 @@ msgstr "Mage gros sorts"
 #: https://hsreplay.net/archetypes/56/quest-priest
 msgid "Quest Priest"
 msgstr "Prêtre quête"
+
+#: https://hsreplay.net/archetypes/144/control-mage
+msgid "Control Mage"
+msgstr "Mage contrôle"
 
 #: https://hsreplay.net/archetypes/147/jade-druid
 msgid "Jade Druid"
@@ -838,6 +838,26 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/308/aggro-warrior
 msgid "Aggro Warrior"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/309/spell-paladin
+msgid "Spell Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/310/quest-resurrect-priest
+msgid "Quest Resurrect Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/311/quest-wall-priest
+msgid "Quest Wall Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/312/highlander-quest-rogue
+msgid "Highlander Quest Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/313/highlander-quest-shaman
+msgid "Highlander Quest Shaman"
 msgstr ""
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/
