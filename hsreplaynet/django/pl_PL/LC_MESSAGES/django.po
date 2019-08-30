@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-07-15 01:40+0000\n"
-"PO-Revision-Date: 2019-08-30 00:40\n"
+"POT-Creation-Date: 2019-08-30 01:40+0000\n"
+"PO-Revision-Date: 2019-08-30 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -904,11 +904,11 @@ msgstr "Dostęp został cofnięty."
 msgid "{count} access tokens deleted."
 msgstr "{count} tokeny dostępu usunięte."
 
-#: web/views/premium.py:20
+#: web/views/premium.py:18
 msgid "HSReplay.net Premium"
 msgstr "HSReplay.net Premium"
 
-#: web/views/premium.py:22
+#: web/views/premium.py:20
 msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
 msgstr "Więcej filtrów, więcej funkcji, więcej danych: Uzyskaj dostęp do zaawansowanych statystyk Hearthstone, stworzonych na podstawie milionów gier z HSReplay.net Premium."
 
