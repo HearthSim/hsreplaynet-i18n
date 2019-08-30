@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-29 01:40+0000\n"
+"POT-Creation-Date: 2019-08-30 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -973,11 +973,11 @@ msgstr ""
 msgid "{count} access tokens deleted."
 msgstr ""
 
-#: web/views/premium.py:20
+#: web/views/premium.py:18
 msgid "HSReplay.net Premium"
 msgstr ""
 
-#: web/views/premium.py:22
+#: web/views/premium.py:20
 msgid ""
 "More filters, more features, more data: Gain access to advanced Hearthstone "
 "statistics backed by millions of games with HSReplay.net Premium for "
