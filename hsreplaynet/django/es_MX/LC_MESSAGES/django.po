@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-30 01:40+0000\n"
-"PO-Revision-Date: 2019-09-03 12:41\n"
+"POT-Creation-Date: 2019-09-06 01:40+0000\n"
+"PO-Revision-Date: 2019-09-06 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -533,71 +533,75 @@ msgstr "Volver arriba"
 msgid "Social Media"
 msgstr "Redes Sociales"
 
-#: templates/footer.html:23
+#: templates/footer.html:24
 msgid "Join our Discord server"
 msgstr "Únete a nuestro servidor Discord"
 
-#: templates/footer.html:29
+#: templates/footer.html:30
 msgid "Follow us on Twitter"
 msgstr "Síguenos en Twitter"
 
-#: templates/footer.html:35
+#: templates/footer.html:36
 msgid "Like us on Facebook"
 msgstr "Danos un like en Facebook"
 
-#: templates/footer.html:46 templates/navigation.html:65
+#: templates/footer.html:42
+msgid "Follow us on Instagram"
+msgstr ""
+
+#: templates/footer.html:54 templates/navigation.html:65
 msgid "Downloads"
 msgstr "Descargas"
 
-#: templates/footer.html:47 templates/navigation.html:71
+#: templates/footer.html:55 templates/navigation.html:71
 msgid "Premium"
 msgstr "Premium"
 
-#: templates/footer.html:48
+#: templates/footer.html:56
 msgid "Your Account"
 msgstr "Tu Cuenta"
 
-#: templates/footer.html:52
+#: templates/footer.html:60
 msgid "Help"
 msgstr "Ayuda"
 
-#: templates/footer.html:55
+#: templates/footer.html:63
 msgid "Support Center"
 msgstr "Centro de soporte"
 
-#: templates/footer.html:58
+#: templates/footer.html:66
 msgid "Contact"
 msgstr "Contacta"
 
-#: templates/footer.html:63
+#: templates/footer.html:71
 msgid "Legal"
 msgstr "Legal"
 
-#: templates/footer.html:66
+#: templates/footer.html:74
 msgid "Terms of Service"
 msgstr "Terminos de Servicio"
 
-#: templates/footer.html:70
+#: templates/footer.html:78
 msgid "Privacy Policy"
 msgstr "Política de Privacidad"
 
-#: templates/footer.html:75
+#: templates/footer.html:83
 msgid "Manage Cookie Settings"
 msgstr "Administrar opciones de cookies"
 
-#: templates/footer.html:84
+#: templates/footer.html:92
 msgid "About Us"
 msgstr "Sobre nosotros"
 
-#: templates/footer.html:88
+#: templates/footer.html:96
 msgid "Careers"
 msgstr "Carreras"
 
-#: templates/footer.html:99
+#: templates/footer.html:107
 msgid "Copyright"
 msgstr "Copyright"
 
-#: templates/footer.html:100
+#: templates/footer.html:108
 msgid "This website is not affiliated with Blizzard Entertainment."
 msgstr "Esta pagina web no esta asociada con Blizzard Entertaiment,."
 

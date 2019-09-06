@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-08-30 01:40+0000\n"
-"PO-Revision-Date: 2019-09-03 12:40\n"
+"POT-Creation-Date: 2019-09-06 01:40+0000\n"
+"PO-Revision-Date: 2019-09-06 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -533,71 +533,75 @@ msgstr "返回顶部"
 msgid "Social Media"
 msgstr "社交媒体"
 
-#: templates/footer.html:23
+#: templates/footer.html:24
 msgid "Join our Discord server"
 msgstr "加入我们的Discord服务器"
 
-#: templates/footer.html:29
+#: templates/footer.html:30
 msgid "Follow us on Twitter"
 msgstr "在推特上关注我们"
 
-#: templates/footer.html:35
+#: templates/footer.html:36
 msgid "Like us on Facebook"
 msgstr "在Facebook为我们点赞"
 
-#: templates/footer.html:46 templates/navigation.html:65
+#: templates/footer.html:42
+msgid "Follow us on Instagram"
+msgstr ""
+
+#: templates/footer.html:54 templates/navigation.html:65
 msgid "Downloads"
 msgstr "下载"
 
-#: templates/footer.html:47 templates/navigation.html:71
+#: templates/footer.html:55 templates/navigation.html:71
 msgid "Premium"
 msgstr "充值会员"
 
-#: templates/footer.html:48
+#: templates/footer.html:56
 msgid "Your Account"
 msgstr "您的账户"
 
-#: templates/footer.html:52
+#: templates/footer.html:60
 msgid "Help"
 msgstr "帮助信息"
 
-#: templates/footer.html:55
+#: templates/footer.html:63
 msgid "Support Center"
 msgstr "帮助中心"
 
-#: templates/footer.html:58
+#: templates/footer.html:66
 msgid "Contact"
 msgstr "联系我们"
 
-#: templates/footer.html:63
+#: templates/footer.html:71
 msgid "Legal"
 msgstr "法律条款"
 
-#: templates/footer.html:66
+#: templates/footer.html:74
 msgid "Terms of Service"
 msgstr "服务条款"
 
-#: templates/footer.html:70
+#: templates/footer.html:78
 msgid "Privacy Policy"
 msgstr "隐私权政策"
 
-#: templates/footer.html:75
+#: templates/footer.html:83
 msgid "Manage Cookie Settings"
 msgstr "管理 Cookie 设置"
 
-#: templates/footer.html:84
+#: templates/footer.html:92
 msgid "About Us"
 msgstr "关于我们"
 
-#: templates/footer.html:88
+#: templates/footer.html:96
 msgid "Careers"
 msgstr "招聘"
 
-#: templates/footer.html:99
+#: templates/footer.html:107
 msgid "Copyright"
 msgstr "著作权"
 
-#: templates/footer.html:100
+#: templates/footer.html:108
 msgid "This website is not affiliated with Blizzard Entertainment."
 msgstr "本网站与暴雪娱乐没有从属关系。"
 
