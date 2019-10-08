@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-07 01:40+0000\n"
-"PO-Revision-Date: 2019-09-30 12:40\n"
+"POT-Creation-Date: 2019-10-08 01:40+0000\n"
+"PO-Revision-Date: 2019-10-08 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -45,135 +45,135 @@ msgstr ""
 msgid "Code has been applied to your account."
 msgstr ""
 
-#: billing/views.py:294
+#: billing/views.py:315
 msgid "Error adding payment card"
 msgstr "新增信用卡時發生錯誤"
 
-#: billing/views.py:298
+#: billing/views.py:319
 msgid "Your card was declined. Please use a different card."
 msgstr "您的卡片被拒絕付款，請使用其他卡片。"
 
-#: billing/views.py:314
+#: billing/views.py:335
 msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
 msgstr "這個Email地址已經和另一個帳戶關聯。如果您想要合併帳戶，請聯繫我們!"
 
-#: billing/views.py:342
+#: billing/views.py:363
 msgid "You have multiple subscriptions. Please contact us."
 msgstr "您有重複訂閱，請聯絡我們。"
 
-#: billing/views.py:356
+#: billing/views.py:377
 msgid "Your subscription has expired."
 msgstr "您的訂閱已經過期。"
 
-#: billing/views.py:362
+#: billing/views.py:383
 msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
 msgstr "您的訂閱依然有效中。如果您對帳務有任何問題，請聯繫我們。"
 
-#: billing/views.py:366
+#: billing/views.py:387
 msgid "You are already subscribed!"
 msgstr "您已訂閱!"
 
-#: billing/views.py:372 billing/views.py:616 billing/views.py:683
+#: billing/views.py:393 billing/views.py:637 billing/views.py:704
 msgid "You already have an active or a pending subscription."
 msgstr ""
 
-#: billing/views.py:400
+#: billing/views.py:421
 msgid "Could not process subscription."
 msgstr "無法處理訂閱。"
 
-#: billing/views.py:417
+#: billing/views.py:438
 msgid "Your card declined the charge. Please contact your bank for information."
 msgstr "您的卡片拒絕付款。請聯繫你的銀行以了解更多資訊。"
 
-#: billing/views.py:419
+#: billing/views.py:440
 msgid "Your card does not support payments in USD. Please try a different card."
 msgstr "您的卡片不支援美金計價付款。請試用其他卡片。"
 
-#: billing/views.py:421
+#: billing/views.py:442
 msgid "Your card has exceeded its credit limit. Please use a different one."
 msgstr "您的卡片已經超額。請試用其他卡片。"
 
-#: billing/views.py:423
+#: billing/views.py:444
 msgid "Your card has insufficient funds to proceed."
 msgstr "您的卡片沒有足夠餘額。"
 
-#: billing/views.py:427
+#: billing/views.py:448
 msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
 msgstr "您的卡片被拒絕了。您並沒有被扣款。請嘗試其他卡片。如果這持續發生，請聯絡我們。"
 
-#: billing/views.py:460
+#: billing/views.py:481
 msgid "You are now subscribed!"
 msgstr ""
 
-#: billing/views.py:469
+#: billing/views.py:490
 msgid " Please contact us if you are receiving this in error."
 msgstr " 如果您收到此錯誤資訊, 請與我們聯繫。"
 
-#: billing/views.py:475
+#: billing/views.py:496
 msgid "You have multiple subscriptions - something is wrong."
 msgstr "您有多個訂閱-似乎有些錯誤。"
 
-#: billing/views.py:481
+#: billing/views.py:502
 msgid "You are not subscribed."
 msgstr "您沒有訂閱。"
 
-#: billing/views.py:496
+#: billing/views.py:517
 msgid "Your subscription cannot be canceled immediately."
 msgstr "您的訂閱不能立即取消。"
 
-#: billing/views.py:498
+#: billing/views.py:519
 msgid "Could not cancel your subscription."
 msgstr "無法取消您的訂閱。"
 
-#: billing/views.py:507
+#: billing/views.py:528
 msgid "Your subscription has been cancelled."
 msgstr "您的訂閱已被取消。"
 
-#: billing/views.py:566
+#: billing/views.py:587
 msgid "Could not update default card."
 msgstr "無法更新預設支付方式。"
 
-#: billing/views.py:584
+#: billing/views.py:605
 msgid " Please contact us if you are seeing this in error."
 msgstr " 如果您收到此錯誤資訊, 請與我們聯繫。"
 
-#: billing/views.py:605
+#: billing/views.py:626
 msgid "Unable to complete subscription."
 msgstr "無法完成訂閱。"
 
-#: billing/views.py:610
+#: billing/views.py:631
 msgid "Invalid subscription token."
 msgstr "訂閱TOKEN無效。"
 
-#: billing/views.py:613
+#: billing/views.py:634
 msgid "You are not logged in as the correct user."
 msgstr "您沒有作為正確的使用者登錄。"
 
-#: billing/views.py:635
+#: billing/views.py:656
 msgid "Subscription was cancelled by PayPal."
 msgstr ""
 
-#: billing/views.py:643
+#: billing/views.py:664
 msgid "You are now subscribed with PayPal!"
 msgstr "你已用Paypal訂閱!"
 
-#: billing/views.py:664
+#: billing/views.py:685
 msgid "Invalid token while cancelling payment."
 msgstr "在取消付款時發生了錯誤。"
 
-#: billing/views.py:669
+#: billing/views.py:690
 msgid "Payment has already completed and cannot be cancelled."
 msgstr ""
 
-#: billing/views.py:673
+#: billing/views.py:694
 msgid "Your payment was interrupted."
 msgstr "你的付款中斷了。"
 
-#: billing/views.py:687
+#: billing/views.py:708
 msgid "Could not determine your plan."
 msgstr "無法確定您的支付選項。"
 
-#: billing/views.py:692
+#: billing/views.py:713
 msgid "Invalid Paypal plan."
 msgstr "不正確的Paypal資訊。"
 
