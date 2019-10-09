@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-08 01:40+0000\n"
-"PO-Revision-Date: 2019-10-08 12:41\n"
+"POT-Creation-Date: 2019-10-08 19:37+0000\n"
+"PO-Revision-Date: 2019-10-09 00:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -20,6 +20,34 @@ msgstr ""
 #, python-brace-format
 msgid "{input} is not a valid member of {enum}."
 msgstr "{input} не является допустимым членом {enum}."
+
+#: api/serializers/billing.py:71
+msgid "Disputed"
+msgstr "Оспаривается"
+
+#: api/serializers/billing.py:73 api/serializers/billing.py:146
+msgid "Refunded"
+msgstr "Возвращено"
+
+#: api/serializers/billing.py:75 api/serializers/billing.py:142
+msgid "Partially refunded"
+msgstr "Частично возвращено"
+
+#: api/serializers/billing.py:77
+msgid "Failed"
+msgstr "Не прошло"
+
+#: api/serializers/billing.py:79 api/serializers/billing.py:144
+msgid "Pending"
+msgstr "В обработке"
+
+#: api/serializers/billing.py:81 api/serializers/billing.py:140
+msgid "Completed"
+msgstr "Завершен"
+
+#: api/serializers/billing.py:148
+msgid "Denied"
+msgstr "Отклонен"
 
 #: api/views/features.py:33
 msgid "Code has already been used."
@@ -45,135 +73,135 @@ msgstr "Код не применился и остается действите�
 msgid "Code has been applied to your account."
 msgstr "Код применен к вашей учетной записи."
 
-#: billing/views.py:315
+#: billing/views.py:317
 msgid "Error adding payment card"
 msgstr "Ошибка добавления банковской карты"
 
-#: billing/views.py:319
+#: billing/views.py:321
 msgid "Your card was declined. Please use a different card."
 msgstr "Ваша карта была отклонена. Пожалуйста, используйте другую карту."
 
-#: billing/views.py:335
+#: billing/views.py:337
 msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
 msgstr "Этот адрес электронной почты связан с другой учетной записью. Если вы хотите объединить учетные записи, пожалуйста, свяжитесь с нами!"
 
-#: billing/views.py:363
+#: billing/views.py:365
 msgid "You have multiple subscriptions. Please contact us."
 msgstr "У вас есть несколько подписок. Пожалуйста, свяжитесь с нами."
 
-#: billing/views.py:377
+#: billing/views.py:379
 msgid "Your subscription has expired."
 msgstr "Ваша подписка истекла."
 
-#: billing/views.py:383
+#: billing/views.py:385
 msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
 msgstr "Ваша подписка еще активна. Если у вас возникли проблемы с выставлением счетов, пожалуйста, свяжитесь с нами!"
 
-#: billing/views.py:387
+#: billing/views.py:389
 msgid "You are already subscribed!"
 msgstr "Вы уже оформили подписку!"
 
-#: billing/views.py:393 billing/views.py:637 billing/views.py:704
+#: billing/views.py:395 billing/views.py:654 billing/views.py:721
 msgid "You already have an active or a pending subscription."
 msgstr "У вас уже есть активная или отложенная подписка."
 
-#: billing/views.py:421
+#: billing/views.py:438
 msgid "Could not process subscription."
 msgstr "Не удалось обработать подписку."
 
-#: billing/views.py:438
+#: billing/views.py:455
 msgid "Your card declined the charge. Please contact your bank for information."
 msgstr "Операция по карте отклонена. Свяжитесь с вашим банком для выяснения подробностей."
 
-#: billing/views.py:440
+#: billing/views.py:457
 msgid "Your card does not support payments in USD. Please try a different card."
 msgstr "Ваша карта не поддерживает оплату в долларах. Пожалуйста, используйте другую карту."
 
-#: billing/views.py:442
+#: billing/views.py:459
 msgid "Your card has exceeded its credit limit. Please use a different one."
 msgstr "Кредитный лимит вашей карты исчерпан. Пожалуйста, используйте другую карту."
 
-#: billing/views.py:444
+#: billing/views.py:461
 msgid "Your card has insufficient funds to proceed."
 msgstr "На карте недостаточно средств."
 
-#: billing/views.py:448
+#: billing/views.py:465
 msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
 msgstr "Ваша карта отклонена, деньги не будут сняты. Пожалуйста, попробуйте другую карту и свяжитесь с нами, если это повторится."
 
-#: billing/views.py:481
+#: billing/views.py:498
 msgid "You are now subscribed!"
 msgstr "Подписка оформлена!"
 
-#: billing/views.py:490
+#: billing/views.py:507
 msgid " Please contact us if you are receiving this in error."
 msgstr " Пожалуйста, свяжитесь с нами, если это ошибка."
 
-#: billing/views.py:496
+#: billing/views.py:513
 msgid "You have multiple subscriptions - something is wrong."
 msgstr "У вас есть несколько подписок — что-то пошло не так."
 
-#: billing/views.py:502
+#: billing/views.py:519
 msgid "You are not subscribed."
 msgstr "У вас нет подписки."
 
-#: billing/views.py:517
+#: billing/views.py:534
 msgid "Your subscription cannot be canceled immediately."
 msgstr "Ваша подписка не может быть отменена немедленно."
 
-#: billing/views.py:519
+#: billing/views.py:536
 msgid "Could not cancel your subscription."
 msgstr "Не удалось отменить подписку."
 
-#: billing/views.py:528
+#: billing/views.py:545
 msgid "Your subscription has been cancelled."
 msgstr "Ваша подписка была отменена."
 
-#: billing/views.py:587
+#: billing/views.py:604
 msgid "Could not update default card."
 msgstr "Не удалось изменить карту по умолчанию."
 
-#: billing/views.py:605
+#: billing/views.py:622
 msgid " Please contact us if you are seeing this in error."
 msgstr " Пожалуйста, свяжитесь с нами, если это ошибка."
 
-#: billing/views.py:626
+#: billing/views.py:643
 msgid "Unable to complete subscription."
 msgstr "Не удается завершить оформление подписки."
 
-#: billing/views.py:631
+#: billing/views.py:648
 msgid "Invalid subscription token."
 msgstr "Недопустимый токен подписки."
 
-#: billing/views.py:634
+#: billing/views.py:651
 msgid "You are not logged in as the correct user."
 msgstr "Вы не вошли из под соответствующей учетной записи."
 
-#: billing/views.py:656
+#: billing/views.py:673
 msgid "Subscription was cancelled by PayPal."
 msgstr "Подписка была отменена в PayPal."
 
-#: billing/views.py:664
+#: billing/views.py:681
 msgid "You are now subscribed with PayPal!"
 msgstr "Ваша подписка через PayPal оформлена!"
 
-#: billing/views.py:685
+#: billing/views.py:702
 msgid "Invalid token while cancelling payment."
 msgstr "Недействительный токен при отмене подписки."
 
-#: billing/views.py:690
+#: billing/views.py:707
 msgid "Payment has already completed and cannot be cancelled."
 msgstr "Платеж уже совершен и не может быть отменен."
 
-#: billing/views.py:694
+#: billing/views.py:711
 msgid "Your payment was interrupted."
 msgstr "Ваш платеж прерван."
 
-#: billing/views.py:708
+#: billing/views.py:725
 msgid "Could not determine your plan."
 msgstr "Не удалось определить схему оплаты."
 
-#: billing/views.py:713
+#: billing/views.py:730
 msgid "Invalid Paypal plan."
 msgstr "Недействительный план оплаты PayPal."
 
@@ -553,7 +581,8 @@ msgstr "Мы в Instagram"
 msgid "Downloads"
 msgstr "Скачать"
 
-#: templates/footer.html:55 templates/navigation.html:71
+#: templates/footer.html:55 templates/navigation.html:74
+#: templates/navigation.html:79
 msgid "Premium"
 msgstr "Премиум"
 
@@ -629,7 +658,11 @@ msgstr "Колоды"
 msgid "Cards"
 msgstr "Карты"
 
-#: templates/navigation.html:71
+#: templates/navigation.html:75
+msgid "SALE!"
+msgstr "Распродажа!"
+
+#: templates/navigation.html:77
 msgid "Refer a Friend"
 msgstr "Пригласи друга"
 
@@ -908,11 +941,11 @@ msgstr "Доступ был отозван."
 msgid "{count} access tokens deleted."
 msgstr "удалено {count} токенов доступа."
 
-#: web/views/premium.py:18
+#: web/views/premium.py:19
 msgid "HSReplay.net Premium"
 msgstr "HSReplay.net Премиум"
 
-#: web/views/premium.py:20
+#: web/views/premium.py:21
 msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
 msgstr "Больше фильтров, больше функций, больше данных! Получите доступ к расширенной статистике на основе миллионов игр с Премиум подпиской HSReplay.net."
 
