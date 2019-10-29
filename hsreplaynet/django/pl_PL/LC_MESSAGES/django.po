@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-08 19:37+0000\n"
-"PO-Revision-Date: 2019-10-27 00:40\n"
+"PO-Revision-Date: 2019-10-29 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -23,31 +23,31 @@ msgstr "{input} nie jest prawidłową wartością {enum}."
 
 #: api/serializers/billing.py:71
 msgid "Disputed"
-msgstr ""
+msgstr "Zakwestionowane"
 
 #: api/serializers/billing.py:73 api/serializers/billing.py:146
 msgid "Refunded"
-msgstr ""
+msgstr "Zwrócono"
 
 #: api/serializers/billing.py:75 api/serializers/billing.py:142
 msgid "Partially refunded"
-msgstr ""
+msgstr "Częściowo zwrócono"
 
 #: api/serializers/billing.py:77
 msgid "Failed"
-msgstr ""
+msgstr "Niepowodzenie"
 
 #: api/serializers/billing.py:79 api/serializers/billing.py:144
 msgid "Pending"
-msgstr ""
+msgstr "Oczekujące"
 
 #: api/serializers/billing.py:81 api/serializers/billing.py:140
 msgid "Completed"
-msgstr ""
+msgstr "Zakończono"
 
 #: api/serializers/billing.py:148
 msgid "Denied"
-msgstr ""
+msgstr "Odrzucono"
 
 #: api/views/features.py:33
 msgid "Code has already been used."
@@ -575,7 +575,7 @@ msgstr "Polub nas na Facebooku"
 
 #: templates/footer.html:42
 msgid "Follow us on Instagram"
-msgstr ""
+msgstr "Śledź nas na Instagramie"
 
 #: templates/footer.html:54 templates/navigation.html:65
 msgid "Downloads"
@@ -592,11 +592,11 @@ msgstr "Twoje Konto"
 
 #: templates/footer.html:60
 msgid "Support"
-msgstr ""
+msgstr "Wsparcie"
 
 #: templates/footer.html:63
 msgid "Help Center"
-msgstr ""
+msgstr "Centrum Pomocy"
 
 #: templates/footer.html:66
 msgid "Contact"
@@ -660,7 +660,7 @@ msgstr "Karty"
 
 #: templates/navigation.html:75
 msgid "SALE!"
-msgstr ""
+msgstr "WYPRZEDAŻ!"
 
 #: templates/navigation.html:77
 msgid "Refer a Friend"
