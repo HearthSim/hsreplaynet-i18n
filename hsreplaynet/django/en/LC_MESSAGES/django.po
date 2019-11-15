@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-14 01:40+0000\n"
+"POT-Creation-Date: 2019-11-15 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -215,47 +215,47 @@ msgstr ""
 msgid "Invalid Paypal plan."
 msgstr ""
 
-#: settings.py:327
+#: settings.py:328
 msgid "Full access to your HSReplay.net account"
 msgstr ""
 
-#: settings.py:328
+#: settings.py:329
 msgid "Access information about your connected social accounts"
 msgstr ""
 
-#: settings.py:329
+#: settings.py:330
 msgid "View your Hearthstone card collection"
 msgstr ""
 
-#: settings.py:330
+#: settings.py:331
 msgid "Upload your Hearthstone card collection to the site"
 msgstr ""
 
-#: settings.py:331
+#: settings.py:332
 msgid "View your replays"
 msgstr ""
 
-#: settings.py:332
+#: settings.py:333
 msgid "Update and delete your replays"
 msgstr ""
 
-#: settings.py:333
+#: settings.py:334
 msgid "Access the Partner API"
 msgstr ""
 
-#: settings.py:334
+#: settings.py:335
 msgid "Read access to the tournaments service"
 msgstr ""
 
-#: settings.py:335
+#: settings.py:336
 msgid "Write access to the tournaments service"
 msgstr ""
 
-#: settings.py:336
+#: settings.py:337
 msgid "View your webhooks"
 msgstr ""
 
-#: settings.py:337
+#: settings.py:338
 msgid "Create and delete webhooks on your behalf"
 msgstr ""
 
@@ -839,61 +839,61 @@ msgstr ""
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr ""
 
-#: web/views/archetypes.py:17
+#: web/views/archetypes.py:20
 msgid "Hearthstone Meta"
 msgstr ""
 
-#: web/views/archetypes.py:19
+#: web/views/archetypes.py:22
 msgid ""
 "Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr ""
 
-#: web/views/archetypes.py:28
+#: web/views/archetypes.py:31
 msgid "Discover"
 msgstr ""
 
-#: web/views/archetypes.py:30
+#: web/views/archetypes.py:33
 msgid ""
 "Engage with the up-and-coming Hearthstone meta game to discover the newest "
 "archetypes and what's next."
 msgstr ""
 
-#: web/views/archetypes.py:42
+#: web/views/archetypes.py:46
 msgid "Archetype"
 msgstr ""
 
-#: web/views/archetypes.py:47
+#: web/views/archetypes.py:51
 msgid "This archetype is no longer available."
 msgstr ""
 
-#: web/views/archetypes.py:53
+#: web/views/archetypes.py:57
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr ""
 
-#: web/views/cards.py:23 web/views/cards.py:113
+#: web/views/cards.py:25 web/views/cards.py:115
 msgid "Hearthstone Card Statistics"
 msgstr ""
 
-#: web/views/cards.py:25
+#: web/views/cards.py:27
 msgid ""
 "Compare statistics about all collectible Hearthstone cards. Find the cards "
 "that are played the most or have the highest winrate."
 msgstr ""
 
-#: web/views/cards.py:36
+#: web/views/cards.py:38
 msgid "My Cards"
 msgstr ""
 
-#: web/views/cards.py:101
+#: web/views/cards.py:103
 msgid "No card found matching the query."
 msgstr ""
 
-#: web/views/cards.py:123
+#: web/views/cards.py:125
 msgid "Statistics and decks!"
 msgstr ""
 
-#: web/views/cards.py:149
+#: web/views/cards.py:151
 msgid "Hearthstone Card Editor"
 msgstr ""
 
@@ -960,42 +960,42 @@ msgstr ""
 msgid "Your OAuth Application"
 msgstr ""
 
-#: web/views/decks.py:17
+#: web/views/decks.py:20
 msgid "Hearthstone Decks"
 msgstr ""
 
-#: web/views/decks.py:19
+#: web/views/decks.py:22
 msgid ""
 "Find popular Hearthstone decks for every class, card and game mode. Compare "
 "winrates and find the deck for you!"
 msgstr ""
 
-#: web/views/decks.py:27
+#: web/views/decks.py:30
 msgid "My Decks"
 msgstr ""
 
-#: web/views/decks.py:45
+#: web/views/decks.py:49
 msgid "Deck does not exist."
 msgstr ""
 
-#: web/views/decks.py:55
+#: web/views/decks.py:59
 msgid "Deck list is too small."
 msgstr ""
 
-#: web/views/decks.py:59
+#: web/views/decks.py:63
 msgid "Deck list contains uncollectible cards."
 msgstr ""
 
-#: web/views/decks.py:71
+#: web/views/decks.py:75
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr ""
 
-#: web/views/decks.py:92
+#: web/views/decks.py:97
 msgid "Trending Hearthstone Decks"
 msgstr ""
 
-#: web/views/decks.py:94
+#: web/views/decks.py:99
 msgid ""
 "Find the up-and-coming decks with rising popularity in Hearthstone for each "
 "class updated every single day."
