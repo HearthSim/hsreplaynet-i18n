@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-08 19:37+0000\n"
-"PO-Revision-Date: 2019-11-13 00:40\n"
+"POT-Creation-Date: 2019-11-15 01:40+0000\n"
+"PO-Revision-Date: 2019-11-15 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -205,47 +205,47 @@ msgstr "無法確定您的支付選項。"
 msgid "Invalid Paypal plan."
 msgstr "不正確的Paypal資訊。"
 
-#: settings.py:327
+#: settings.py:328
 msgid "Full access to your HSReplay.net account"
 msgstr "完全存取你的HSReplay.net帳戶"
 
-#: settings.py:328
+#: settings.py:329
 msgid "Access information about your connected social accounts"
 msgstr "存取您的社交帳戶資訊"
 
-#: settings.py:329
+#: settings.py:330
 msgid "View your Hearthstone card collection"
 msgstr "檢視你的爐石卡片收藏"
 
-#: settings.py:330
+#: settings.py:331
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "上傳你的爐石卡片收藏到網站"
 
-#: settings.py:331
+#: settings.py:332
 msgid "View your replays"
 msgstr "檢視你的重播"
 
-#: settings.py:332
+#: settings.py:333
 msgid "Update and delete your replays"
 msgstr "上傳和刪除你的重播"
 
-#: settings.py:333
+#: settings.py:334
 msgid "Access the Partner API"
 msgstr "存取夥伴API"
 
-#: settings.py:334
+#: settings.py:335
 msgid "Read access to the tournaments service"
 msgstr "存取賽事服務權限"
 
-#: settings.py:335
+#: settings.py:336
 msgid "Write access to the tournaments service"
 msgstr "寫入賽事服務權限"
 
-#: settings.py:336
+#: settings.py:337
 msgid "View your webhooks"
 msgstr "查看你的Webhooks"
 
-#: settings.py:337
+#: settings.py:338
 msgid "Create and delete webhooks on your behalf"
 msgstr "代表您創建和刪除 Webhooks"
 
@@ -784,56 +784,56 @@ msgstr ""
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr ""
 
-#: web/views/archetypes.py:17
+#: web/views/archetypes.py:20
 msgid "Hearthstone Meta"
 msgstr "爐石傳說天梯生態"
 
-#: web/views/archetypes.py:19
+#: web/views/archetypes.py:22
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr "探索爐石傳說天梯生態，並了解各套牌類型的對戰大小。"
 
-#: web/views/archetypes.py:28
+#: web/views/archetypes.py:31
 msgid "Discover"
 msgstr "探索"
 
-#: web/views/archetypes.py:30
+#: web/views/archetypes.py:33
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr "參與並發現最新以及未來的套牌類型。"
 
-#: web/views/archetypes.py:42
+#: web/views/archetypes.py:46
 msgid "Archetype"
 msgstr "套牌類型"
 
-#: web/views/archetypes.py:47
+#: web/views/archetypes.py:51
 msgid "This archetype is no longer available."
 msgstr "這個套牌類型已不存在。"
 
-#: web/views/archetypes.py:53
+#: web/views/archetypes.py:57
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr ""
 
-#: web/views/cards.py:23 web/views/cards.py:113
+#: web/views/cards.py:25 web/views/cards.py:115
 msgid "Hearthstone Card Statistics"
 msgstr "爐石卡牌數據"
 
-#: web/views/cards.py:25
+#: web/views/cards.py:27
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
 msgstr "比較爐石卡牌數據。看看最多人打出的卡牌或勝率最高的卡牌。"
 
-#: web/views/cards.py:36
+#: web/views/cards.py:38
 msgid "My Cards"
 msgstr "我的卡片"
 
-#: web/views/cards.py:101
+#: web/views/cards.py:103
 msgid "No card found matching the query."
 msgstr "找不到匹配條件的卡。"
 
-#: web/views/cards.py:123
+#: web/views/cards.py:125
 msgid "Statistics and decks!"
 msgstr "統計數據和套牌!"
 
-#: web/views/cards.py:149
+#: web/views/cards.py:151
 msgid "Hearthstone Card Editor"
 msgstr "爐石卡牌編輯器"
 
@@ -898,40 +898,40 @@ msgstr "OAuth 應用"
 msgid "Your OAuth Application"
 msgstr "您的 OAuth 應用程式"
 
-#: web/views/decks.py:17
+#: web/views/decks.py:20
 msgid "Hearthstone Decks"
 msgstr "爐石套牌"
 
-#: web/views/decks.py:19
+#: web/views/decks.py:22
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
 msgstr "看看每個職業、每張卡片、每個模式的最佳套牌。比較勝率，並找出最適合你的套牌!"
 
-#: web/views/decks.py:27
+#: web/views/decks.py:30
 msgid "My Decks"
 msgstr "我的套牌"
 
-#: web/views/decks.py:45
+#: web/views/decks.py:49
 msgid "Deck does not exist."
 msgstr "套牌不存在。"
 
-#: web/views/decks.py:55
+#: web/views/decks.py:59
 msgid "Deck list is too small."
 msgstr "套牌清單太少。"
 
-#: web/views/decks.py:59
+#: web/views/decks.py:63
 msgid "Deck list contains uncollectible cards."
 msgstr ""
 
-#: web/views/decks.py:71
+#: web/views/decks.py:75
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "{name} 數據和套牌。 導入它: {deckstring}"
 
-#: web/views/decks.py:92
+#: web/views/decks.py:97
 msgid "Trending Hearthstone Decks"
 msgstr "趨勢中爐石套牌"
 
-#: web/views/decks.py:94
+#: web/views/decks.py:99
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "看看每天最新最人氣的各職業套牌。"
 

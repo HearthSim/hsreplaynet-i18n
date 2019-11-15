@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-11T23:16:47.564859\n"
+"POT-Creation-Date: 2019-11-15T01:40:32.452467\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2019-11-13 00:40\n"
+"PO-Revision-Date: 2019-11-15 12:41\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -922,7 +922,7 @@ msgstr "Секрет хайлендер охотник"
 
 #: https://hsreplay.net/archetypes/333/mechathun-mage
 msgid "Mecha'thun Mage"
-msgstr ""
+msgstr "Меха-К'Тун маг"
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/
 msgid "Token Druid has been a long standing archetype in Hearthstone. The deck is based around flooding the board with small, summoned minions (tokens), buffing them and bursting the opponent down."
@@ -967,10 +967,6 @@ msgstr "Главная сила нечетного паладина — его �
 #: https://www.hearthstonetopdecks.com/deck-guide/control-priest-deck-list-guide/
 msgid "In the past, Control Priest was a very slow, reactive deck, which put attrition as its main win condition. Right now, while the deck still keeps its reactive nature, its main win condition shifted to chip damage from Shadowreaper Anduin and burst from Mind Blasts (hence the deck's second name - Mind Blast Priest)."
 msgstr "В прошлом контроль жрец был медленной колодой, которая отвечала на угрозы противника, потихоньку истощая его ресурсы, что и было основным условием для победы. Нынешняя колода осталась такой же медленной, но план на игру изменился. Теперь жрец использует дешевый урон с Темного жнеца Андуина и взрывной урон Взрыва разума (который дал колоде второе название — жрец на взрыве разума)."
-
-#: https://www.hearthstonetopdecks.com/deck-guide/malygos-druid-deck-list-guide__trashed/
-msgid "Malygos Druid is a combo deck built around its namesake, Malygos. Thanks to the +5 Spell Damage provided by the Dragon, even the weakest damage spells (such as Moonfire) turn into powerful burns. Given the card's high 9 mana cost, normally you can't do much with the remaining 1 mana. That problem is fixed by Twig of the World Tree, giving Druid extra 10 mana to copy Malygos or play more expensive spells."
-msgstr "Малигос друид — колода построенная вокруг одноименной карты, Малигоса. Со способностью +5 к урону заклинаний даже самые слабые заклинания, типа Лунного огня, превращаются в мощный взрывной урон. Конечно, Малигос стоит 9 маны и обычно с оставшейся одной маной много не сделаешь. Проблему решает Ветвь Древа Жизни, которая дает еще 10 маны на копирование Малигоса или разыгрывание заклинаний подороже."
 
 #: https://www.hearthstonetopdecks.com/deck-guide/control-warlock-deck-list-guide/
 msgid "Control Warlock is a deck first created in Kobolds & Catacombs, which shares a lot of similarities with Cube Warlock - both rely on cheating out bigger minions early, as well as massive late game tempo swing with Bloodreaver Gul'dan. However, unlike Cube Warlock, Control version takes a much more reactive route, switching out threats for removals."

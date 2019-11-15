@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-10-08 19:37+0000\n"
-"PO-Revision-Date: 2019-11-13 00:40\n"
+"POT-Creation-Date: 2019-11-15 01:40+0000\n"
+"PO-Revision-Date: 2019-11-15 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -205,47 +205,47 @@ msgstr "Não foi possível determinar seu plano."
 msgid "Invalid Paypal plan."
 msgstr "Plano do PayPal inválido."
 
-#: settings.py:327
+#: settings.py:328
 msgid "Full access to your HSReplay.net account"
 msgstr "Acesso completo de sua conta HSReplay.net"
 
-#: settings.py:328
+#: settings.py:329
 msgid "Access information about your connected social accounts"
 msgstr "Acesse informações sobre suas redes sociais conectadas"
 
-#: settings.py:329
+#: settings.py:330
 msgid "View your Hearthstone card collection"
 msgstr "Ver sua coleção de cartas do Hearthstone"
 
-#: settings.py:330
+#: settings.py:331
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Atualize sua coleção de cartas do Hearthstone para o site"
 
-#: settings.py:331
+#: settings.py:332
 msgid "View your replays"
 msgstr "Ver seus replays"
 
-#: settings.py:332
+#: settings.py:333
 msgid "Update and delete your replays"
 msgstr "Atualizar e deletar seus replays"
 
-#: settings.py:333
+#: settings.py:334
 msgid "Access the Partner API"
 msgstr "Acesso ao API dos parceiros"
 
-#: settings.py:334
+#: settings.py:335
 msgid "Read access to the tournaments service"
 msgstr "Acesso de leitura ao serviço de torneios"
 
-#: settings.py:335
+#: settings.py:336
 msgid "Write access to the tournaments service"
 msgstr "Acesso de escrita ao serviço de torneios"
 
-#: settings.py:336
+#: settings.py:337
 msgid "View your webhooks"
 msgstr "Visualizar seus webhooks"
 
-#: settings.py:337
+#: settings.py:338
 msgid "Create and delete webhooks on your behalf"
 msgstr "Criar e deletar webhooks ao seu favor"
 
@@ -781,56 +781,56 @@ msgstr "Aplicativo Companheiro do HSReplay.net"
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "Hearthstone Deck Tracker é um aplicativo gratuito para ajudá-lo a jogar como os profissionais."
 
-#: web/views/archetypes.py:17
+#: web/views/archetypes.py:20
 msgid "Hearthstone Meta"
 msgstr "Meta do Hearthstone"
 
-#: web/views/archetypes.py:19
+#: web/views/archetypes.py:22
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr "Explore o meta do Hearthstone e descubra as match ups por arquétipos."
 
-#: web/views/archetypes.py:28
+#: web/views/archetypes.py:31
 msgid "Discover"
 msgstr "Descobrir"
 
-#: web/views/archetypes.py:30
+#: web/views/archetypes.py:33
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr "Envolva-se com o meta de Hearthstone para descobrir os mais novos arquétipos e o que está por vir."
 
-#: web/views/archetypes.py:42
+#: web/views/archetypes.py:46
 msgid "Archetype"
 msgstr "Arquétipo"
 
-#: web/views/archetypes.py:47
+#: web/views/archetypes.py:51
 msgid "This archetype is no longer available."
 msgstr "Esse arquétipo não está mais disponível."
 
-#: web/views/archetypes.py:53
+#: web/views/archetypes.py:57
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr "Encontre estatísticas e diferentes decks de {name}."
 
-#: web/views/cards.py:23 web/views/cards.py:113
+#: web/views/cards.py:25 web/views/cards.py:115
 msgid "Hearthstone Card Statistics"
 msgstr "Estatísticas da Carta de Hearthstone"
 
-#: web/views/cards.py:25
+#: web/views/cards.py:27
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
 msgstr "Compare as estatísticas sobre todos as cartas colecionáveis de Hearthstone. Encontre as cartas que são mais jogadas ou têm a maior taxa de vitórias."
 
-#: web/views/cards.py:36
+#: web/views/cards.py:38
 msgid "My Cards"
 msgstr "Minhas cartas"
 
-#: web/views/cards.py:101
+#: web/views/cards.py:103
 msgid "No card found matching the query."
 msgstr "Nenhuma carta encontrada correspondente à busca."
 
-#: web/views/cards.py:123
+#: web/views/cards.py:125
 msgid "Statistics and decks!"
 msgstr "Decks e estatísticas!"
 
-#: web/views/cards.py:149
+#: web/views/cards.py:151
 msgid "Hearthstone Card Editor"
 msgstr "Editor de carta do Hearthstone"
 
@@ -895,40 +895,40 @@ msgstr "Aplicações OAuth"
 msgid "Your OAuth Application"
 msgstr "Sua aplicação OAuth"
 
-#: web/views/decks.py:17
+#: web/views/decks.py:20
 msgid "Hearthstone Decks"
 msgstr "Decks do Hearthstone"
 
-#: web/views/decks.py:19
+#: web/views/decks.py:22
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
 msgstr "Encontre os decks mais populares de Hearthstone para cada classe, carta e modo de jogo. Compare taxas de vitória e encontre o deck para você!"
 
-#: web/views/decks.py:27
+#: web/views/decks.py:30
 msgid "My Decks"
 msgstr "Meus Decks"
 
-#: web/views/decks.py:45
+#: web/views/decks.py:49
 msgid "Deck does not exist."
 msgstr "O deck não existe."
 
-#: web/views/decks.py:55
+#: web/views/decks.py:59
 msgid "Deck list is too small."
 msgstr "A lista do deck é muito pequena."
 
-#: web/views/decks.py:59
+#: web/views/decks.py:63
 msgid "Deck list contains uncollectible cards."
 msgstr "Deck contém cartas não colecionáveis."
 
-#: web/views/decks.py:71
+#: web/views/decks.py:75
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "{name} estatísticas e lista do deck. Importar: {deckstring}"
 
-#: web/views/decks.py:92
+#: web/views/decks.py:97
 msgid "Trending Hearthstone Decks"
 msgstr "Decks de Hearthstone populares"
 
-#: web/views/decks.py:94
+#: web/views/decks.py:99
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "Encontre os decks com maior popularidade em Hearthstone para cada classe, atualizada todos os dias."
 
