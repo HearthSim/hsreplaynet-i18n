@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-11-15 01:40+0000\n"
-"PO-Revision-Date: 2019-11-15 12:40\n"
+"PO-Revision-Date: 2019-11-17 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -27,7 +27,7 @@ msgstr ""
 
 #: api/serializers/billing.py:73 api/serializers/billing.py:146
 msgid "Refunded"
-msgstr ""
+msgstr "환불됨"
 
 #: api/serializers/billing.py:75 api/serializers/billing.py:142
 msgid "Partially refunded"
