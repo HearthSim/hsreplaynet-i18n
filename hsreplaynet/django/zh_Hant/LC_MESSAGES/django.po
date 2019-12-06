@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-15 01:40+0000\n"
-"PO-Revision-Date: 2019-12-03 12:40\n"
+"POT-Creation-Date: 2019-12-06 11:48+0000\n"
+"PO-Revision-Date: 2019-12-06 11:53\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -927,11 +927,11 @@ msgstr ""
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "{name} 數據和套牌。 導入它: {deckstring}"
 
-#: web/views/decks.py:97
+#: web/views/decks.py:96
 msgid "Trending Hearthstone Decks"
 msgstr "趨勢中爐石套牌"
 
-#: web/views/decks.py:99
+#: web/views/decks.py:98
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "看看每天最新最人氣的各職業套牌。"
 
