@@ -23,7 +23,10 @@ module.exports = {
 			savePath: "{{lng}}/{{ns}}.json",
 		},
 		func: false,
-		trans: false,
+		trans: {
+			component: "Trans",
+			fallbackKey: true,
+		},
 		defaultValue: (language, namespace, key) => key,
 	},
 	transform(file, enc, done) {
@@ -37,21 +40,10 @@ module.exports = {
 				list: ["t"],
 			},
 			(key, options) => {
-				if (hearthstoneKeys.indexOf(key) !== -1) {
+				if (hearthstoneKeys.indexOf(key) !== -1 || key.startsWith("GLOBAL_")) {
 					return;
 				}
 				parser.set(key, options);
-			},
-		);
-
-		parser.parseTransFromString(
-			content,
-			{
-				component: "Trans",
-				i18nKey: false,
-			},
-			(key, options) => {
-				parser.set(options.defaultValue, options);
 			},
 		);
 
