@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-06 11:48+0000\n"
-"PO-Revision-Date: 2019-12-06 11:53\n"
+"POT-Creation-Date: 2019-12-07 01:40+0000\n"
+"PO-Revision-Date: 2019-12-07 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -283,31 +283,27 @@ msgstr "Token"
 msgid "Created on"
 msgstr "Data utworzenia"
 
-#: templates/account/api.html:45
+#: templates/account/api.html:46
 msgid "Webhooks"
 msgstr "Webhooki"
 
-#: templates/account/api.html:48 templates/webhooks/detail.html:11
+#: templates/account/api.html:49 templates/webhooks/detail.html:11
 msgid "Webhooks have been deprecated"
 msgstr "Webhooki zostały przeterminowane"
 
-#: templates/account/api.html:49 templates/webhooks/detail.html:12
+#: templates/account/api.html:50 templates/webhooks/detail.html:12
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
 msgstr "Nie można już dodawać nowych punktów końcowych. Póki co będziemy kontynuować obsługę już istniejących webhooków."
 
-#: templates/account/api.html:56
-msgid "You don't have any webhooks set up right now."
-msgstr "Nie masz stworzonych żadnych webhooków."
-
-#: templates/account/api.html:61
+#: templates/account/api.html:57
 msgid "UUID"
 msgstr "UUID"
 
-#: templates/account/api.html:62
+#: templates/account/api.html:58
 msgid "URL"
 msgstr "URL"
 
-#: templates/account/api.html:63
+#: templates/account/api.html:59
 msgid "Active"
 msgstr "Aktywny"
 
@@ -553,7 +549,7 @@ msgstr "Wysłaliśmy ci wiadomość e-mail w celu weryfikacji. Wejdź w link, by
 msgid "Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr "Prosimy <a href=\"mailto:%(site_email)s\">skontaktuj się z nami</a> jeśli nie otrzymasz go w ciągu paru minut."
 
-#: templates/footer.html:9
+#: templates/footer.html:8
 msgid "Back to top"
 msgstr "Powrót na górę"
 
@@ -561,108 +557,108 @@ msgstr "Powrót na górę"
 msgid "Social Media"
 msgstr "Media Społecznościowe"
 
-#: templates/footer.html:24
+#: templates/footer.html:25
 msgid "Join our Discord server"
 msgstr "Dołącz do naszego serwera na Discordzie"
 
-#: templates/footer.html:30
+#: templates/footer.html:31
 msgid "Follow us on Twitter"
 msgstr "Śledź nas na Twitterze"
 
-#: templates/footer.html:36
+#: templates/footer.html:37
 msgid "Like us on Facebook"
 msgstr "Polub nas na Facebooku"
 
-#: templates/footer.html:42
+#: templates/footer.html:43
 msgid "Follow us on Instagram"
 msgstr "Śledź nas na Instagramie"
 
-#: templates/footer.html:54 templates/navigation.html:65
+#: templates/footer.html:56
+msgid "Not affiliated with Blizzard Entertainment."
+msgstr ""
+
+#: templates/footer.html:64 templates/navigation.html:97
 msgid "Downloads"
 msgstr "Pobieranie"
 
-#: templates/footer.html:55 templates/navigation.html:74
-#: templates/navigation.html:79
+#: templates/footer.html:65 templates/navigation.html:107
+#: templates/navigation.html:112
 msgid "Premium"
 msgstr "Premium"
 
-#: templates/footer.html:56
+#: templates/footer.html:66
 msgid "Your Account"
 msgstr "Twoje Konto"
 
-#: templates/footer.html:60
+#: templates/footer.html:70
 msgid "Support"
 msgstr "Wsparcie"
 
-#: templates/footer.html:63
+#: templates/footer.html:73
 msgid "Help Center"
 msgstr "Centrum Pomocy"
 
-#: templates/footer.html:66
-msgid "Contact"
-msgstr "Kontakt"
+#: templates/footer.html:75
+msgid "Contact Us"
+msgstr ""
 
-#: templates/footer.html:71
+#: templates/footer.html:80
 msgid "Legal"
 msgstr "Polityka"
 
-#: templates/footer.html:74
+#: templates/footer.html:83
 msgid "Terms of Service"
 msgstr "Warunki Użytkowania"
 
-#: templates/footer.html:78
+#: templates/footer.html:86
 msgid "Privacy Policy"
 msgstr "Polityka Prywatności"
 
-#: templates/footer.html:83
+#: templates/footer.html:90
 msgid "Manage Cookie Settings"
 msgstr "Zarządzaj Ustawieniami Ciastek"
 
-#: templates/footer.html:92
+#: templates/footer.html:99
 msgid "About Us"
 msgstr "O Nas"
-
-#: templates/footer.html:96
-msgid "Careers"
-msgstr "Praca"
-
-#: templates/footer.html:107
-msgid "Copyright"
-msgstr "Prawa Autorskie"
-
-#: templates/footer.html:108
-msgid "This website is not affiliated with Blizzard Entertainment."
-msgstr "Ta strona nie jest powiązana z Blizzard Entertainment."
 
 #: templates/navigation.html:10
 msgid "Toggle navigation"
 msgstr "Schowaj/pokaż nawigację"
 
-#: templates/navigation.html:30
+#: templates/navigation.html:35
+msgid "Go to Classic"
+msgstr ""
+
+#: templates/navigation.html:49
+msgid "Go to Battlegrounds"
+msgstr ""
+
+#: templates/navigation.html:60
 msgid "Articles"
 msgstr "Artykuły"
 
-#: templates/navigation.html:37
+#: templates/navigation.html:67
 msgid "Trending"
 msgstr "Na czasie"
 
-#: templates/navigation.html:44
+#: templates/navigation.html:74
 msgid "Meta"
 msgstr "Meta"
 
-#: templates/navigation.html:51
+#: templates/navigation.html:81
 msgid "Decks"
 msgstr "Talie"
 
-#: templates/navigation.html:58
+#: templates/navigation.html:88
 msgid "Cards"
 msgstr "Karty"
 
-#: templates/navigation.html:75
+#: templates/navigation.html:108
 msgid "SALE!"
 msgstr "WYPRZEDAŻ!"
 
-#: templates/navigation.html:77
+#: templates/navigation.html:110
 msgid "Refer a Friend"
 msgstr "Poleć Znajomego"
 
@@ -809,6 +805,14 @@ msgstr "Ten archetyp nie jest już dostępny."
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr "Znajdź statystyki i inne {name} listy talii."
+
+#: web/views/battlegrounds.py:11
+msgid "Hearthstone Battlegrounds"
+msgstr ""
+
+#: web/views/battlegrounds.py:13
+msgid "Battlegrounds draft helper."
+msgstr ""
 
 #: web/views/cards.py:25 web/views/cards.py:115
 msgid "Hearthstone Card Statistics"

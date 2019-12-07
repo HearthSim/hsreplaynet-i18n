@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-06 11:48+0000\n"
-"PO-Revision-Date: 2019-12-06 11:53\n"
+"POT-Creation-Date: 2019-12-07 01:40+0000\n"
+"PO-Revision-Date: 2019-12-07 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -283,31 +283,27 @@ msgstr "秘钥"
 msgid "Created on"
 msgstr "创建于"
 
-#: templates/account/api.html:45
+#: templates/account/api.html:46
 msgid "Webhooks"
 msgstr "Webhooks"
 
-#: templates/account/api.html:48 templates/webhooks/detail.html:11
+#: templates/account/api.html:49 templates/webhooks/detail.html:11
 msgid "Webhooks have been deprecated"
 msgstr "Webhooks已被废止"
 
-#: templates/account/api.html:49 templates/webhooks/detail.html:12
+#: templates/account/api.html:50 templates/webhooks/detail.html:12
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
 msgstr "无法再添加新的终端。目前我们仍继续为现存webhooks提供服务。"
 
-#: templates/account/api.html:56
-msgid "You don't have any webhooks set up right now."
-msgstr "现在你没有任何设置webhooks。"
-
-#: templates/account/api.html:61
+#: templates/account/api.html:57
 msgid "UUID"
 msgstr "UUID"
 
-#: templates/account/api.html:62
+#: templates/account/api.html:58
 msgid "URL"
 msgstr "网址"
 
-#: templates/account/api.html:63
+#: templates/account/api.html:59
 msgid "Active"
 msgstr "活跃"
 
@@ -553,7 +549,7 @@ msgstr "我们已经给你发了一封验证电子邮件。按照其中的链接
 msgid "Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr "如果几分钟内仍未收到邮件，请<a href=\"mailto:%(site_email)s\">联系我们</a>。"
 
-#: templates/footer.html:9
+#: templates/footer.html:8
 msgid "Back to top"
 msgstr "返回顶部"
 
@@ -561,108 +557,108 @@ msgstr "返回顶部"
 msgid "Social Media"
 msgstr "社交媒体"
 
-#: templates/footer.html:24
+#: templates/footer.html:25
 msgid "Join our Discord server"
 msgstr "加入我们的Discord服务器"
 
-#: templates/footer.html:30
+#: templates/footer.html:31
 msgid "Follow us on Twitter"
 msgstr "在推特上关注我们"
 
-#: templates/footer.html:36
+#: templates/footer.html:37
 msgid "Like us on Facebook"
 msgstr "在Facebook为我们点赞"
 
-#: templates/footer.html:42
+#: templates/footer.html:43
 msgid "Follow us on Instagram"
 msgstr "在Instagram上关注我们"
 
-#: templates/footer.html:54 templates/navigation.html:65
+#: templates/footer.html:56
+msgid "Not affiliated with Blizzard Entertainment."
+msgstr ""
+
+#: templates/footer.html:64 templates/navigation.html:97
 msgid "Downloads"
 msgstr "下载"
 
-#: templates/footer.html:55 templates/navigation.html:74
-#: templates/navigation.html:79
+#: templates/footer.html:65 templates/navigation.html:107
+#: templates/navigation.html:112
 msgid "Premium"
 msgstr "充值会员"
 
-#: templates/footer.html:56
+#: templates/footer.html:66
 msgid "Your Account"
 msgstr "您的账户"
 
-#: templates/footer.html:60
+#: templates/footer.html:70
 msgid "Support"
 msgstr "用户支持"
 
-#: templates/footer.html:63
+#: templates/footer.html:73
 msgid "Help Center"
 msgstr "帮助中心"
 
-#: templates/footer.html:66
-msgid "Contact"
-msgstr "联系我们"
+#: templates/footer.html:75
+msgid "Contact Us"
+msgstr ""
 
-#: templates/footer.html:71
+#: templates/footer.html:80
 msgid "Legal"
 msgstr "法律条款"
 
-#: templates/footer.html:74
+#: templates/footer.html:83
 msgid "Terms of Service"
 msgstr "服务条款"
 
-#: templates/footer.html:78
+#: templates/footer.html:86
 msgid "Privacy Policy"
 msgstr "隐私权政策"
 
-#: templates/footer.html:83
+#: templates/footer.html:90
 msgid "Manage Cookie Settings"
 msgstr "管理 Cookie 设置"
 
-#: templates/footer.html:92
+#: templates/footer.html:99
 msgid "About Us"
 msgstr "关于我们"
-
-#: templates/footer.html:96
-msgid "Careers"
-msgstr "招聘"
-
-#: templates/footer.html:107
-msgid "Copyright"
-msgstr "著作权"
-
-#: templates/footer.html:108
-msgid "This website is not affiliated with Blizzard Entertainment."
-msgstr "本网站与暴雪娱乐没有从属关系。"
 
 #: templates/navigation.html:10
 msgid "Toggle navigation"
 msgstr "切换导航"
 
-#: templates/navigation.html:30
+#: templates/navigation.html:35
+msgid "Go to Classic"
+msgstr ""
+
+#: templates/navigation.html:49
+msgid "Go to Battlegrounds"
+msgstr ""
+
+#: templates/navigation.html:60
 msgid "Articles"
 msgstr "文章"
 
-#: templates/navigation.html:37
+#: templates/navigation.html:67
 msgid "Trending"
 msgstr "趋势"
 
-#: templates/navigation.html:44
+#: templates/navigation.html:74
 msgid "Meta"
 msgstr "环境"
 
-#: templates/navigation.html:51
+#: templates/navigation.html:81
 msgid "Decks"
 msgstr "套牌"
 
-#: templates/navigation.html:58
+#: templates/navigation.html:88
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:75
+#: templates/navigation.html:108
 msgid "SALE!"
 msgstr "实惠！"
 
-#: templates/navigation.html:77
+#: templates/navigation.html:110
 msgid "Refer a Friend"
 msgstr "分享给好友"
 
@@ -809,6 +805,14 @@ msgstr "此卡组已不再可用。"
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr "查找统计信息和不同的 {name} 套牌。"
+
+#: web/views/battlegrounds.py:11
+msgid "Hearthstone Battlegrounds"
+msgstr ""
+
+#: web/views/battlegrounds.py:13
+msgid "Battlegrounds draft helper."
+msgstr ""
 
 #: web/views/cards.py:25 web/views/cards.py:115
 msgid "Hearthstone Card Statistics"
