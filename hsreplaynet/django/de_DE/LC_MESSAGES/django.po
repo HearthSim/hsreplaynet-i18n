@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-07 01:40+0000\n"
-"PO-Revision-Date: 2019-12-07 12:40\n"
+"PO-Revision-Date: 2019-12-09 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -23,7 +23,7 @@ msgstr "{input} ist kein gültiges Element von {enum}."
 
 #: api/serializers/billing.py:71
 msgid "Disputed"
-msgstr ""
+msgstr "Angefochten"
 
 #: api/serializers/billing.py:73 api/serializers/billing.py:146
 msgid "Refunded"
@@ -574,7 +574,7 @@ msgstr "Folge uns auf Instagram"
 
 #: templates/footer.html:56
 msgid "Not affiliated with Blizzard Entertainment."
-msgstr ""
+msgstr "Nicht mit Blizzard Entertainment assoziiert."
 
 #: templates/footer.html:64 templates/navigation.html:97
 msgid "Downloads"
@@ -599,7 +599,7 @@ msgstr "Hilfezentrum"
 
 #: templates/footer.html:75
 msgid "Contact Us"
-msgstr ""
+msgstr "Kontaktiere Uns"
 
 #: templates/footer.html:80
 msgid "Legal"
@@ -631,7 +631,7 @@ msgstr ""
 
 #: templates/navigation.html:49
 msgid "Go to Battlegrounds"
-msgstr ""
+msgstr "Zum Schlachtfeld"
 
 #: templates/navigation.html:60
 msgid "Articles"
@@ -807,7 +807,7 @@ msgstr "Finde Statistiken und verschiedene {name}-Decklisten."
 
 #: web/views/battlegrounds.py:11
 msgid "Hearthstone Battlegrounds"
-msgstr ""
+msgstr "Hearthstone Schlachtfeld"
 
 #: web/views/battlegrounds.py:13
 msgid "Battlegrounds draft helper."
