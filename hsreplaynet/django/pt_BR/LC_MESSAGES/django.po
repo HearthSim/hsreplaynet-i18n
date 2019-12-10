@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-07 01:40+0000\n"
-"PO-Revision-Date: 2019-12-09 12:40\n"
+"POT-Creation-Date: 2019-12-10 01:40+0000\n"
+"PO-Revision-Date: 2019-12-10 12:40\n"
 "Last-Translator: HearthSim\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -757,23 +757,23 @@ msgstr ""
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
 msgstr ""
 
-#: web/views/__init__.py:18
+#: web/views/__init__.py:21
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr "Assista e compartilhe replays do Hearthstone diretamente do seu navegador. Explore estatísticas avançadas sobre decks e cartas baseados em milhões de jogos por semana."
 
-#: web/views/__init__.py:41
+#: web/views/__init__.py:44
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - Liberte seu potencial"
 
-#: web/views/__init__.py:138
+#: web/views/__init__.py:153
 msgid "Download Hearthstone Deck Tracker"
 msgstr "Baixe o Hearthstone Deck Tracker"
 
-#: web/views/__init__.py:140
+#: web/views/__init__.py:155
 msgid "HSReplay.net Companion App"
 msgstr "Aplicativo Companheiro do HSReplay.net"
 
-#: web/views/__init__.py:142
+#: web/views/__init__.py:157
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "Hearthstone Deck Tracker é um aplicativo gratuito para ajudá-lo a jogar como os profissionais."
 
@@ -806,12 +806,20 @@ msgstr "Esse arquétipo não está mais disponível."
 msgid "Find stats and different {name} decklists."
 msgstr "Encontre estatísticas e diferentes decks de {name}."
 
-#: web/views/battlegrounds.py:11
+#: web/views/battlegrounds.py:8
 msgid "Hearthstone Battlegrounds"
 msgstr ""
 
-#: web/views/battlegrounds.py:13
-msgid "Battlegrounds draft helper."
+#: web/views/battlegrounds.py:10
+msgid "Battlegrounds helper."
+msgstr ""
+
+#: web/views/battlegrounds.py:16
+msgid "Hearthstone Battlegrounds Heroes"
+msgstr ""
+
+#: web/views/battlegrounds.py:21
+msgid "Hearthstone Battlegrounds Hero"
 msgstr ""
 
 #: web/views/cards.py:25 web/views/cards.py:115
