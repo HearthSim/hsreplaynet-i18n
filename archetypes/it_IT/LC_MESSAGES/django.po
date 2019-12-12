@@ -2,19 +2,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-11-20T01:40:32.669639\n"
-"Last-Translator: HearthSim\n"
+"POT-Creation-Date: 2019-12-12T01:40:32.200496\n"
+"Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Italian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: crowdin.com\n"
 "X-Crowdin-Project: hsreplaynet\n"
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2019-12-11 12:40\n"
+"PO-Revision-Date: 2019-12-12 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -154,10 +153,6 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/22/pirate-warrior
 msgid "Pirate Warrior"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/3/malygos-rogue
-msgid "Malygos Rogue"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/149/taunt-druid
@@ -922,6 +917,62 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/333/mechathun-mage
 msgid "Mecha'thun Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/334/treant-druid
+msgid "Treant Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/335/dragon-druid
+msgid "Dragon Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/336/highlander-quest-hunter
+msgid "Highlander Quest Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/337/highlander-dragon-hunter
+msgid "Highlander Dragon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/338/pure-paladin
+msgid "Pure Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/339/highlander-dragon-paladin
+msgid "Highlander Dragon Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/340/galakrond-priest
+msgid "Galakrond Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/342/highlander-galakrond-priest
+msgid "Highlander Galakrond Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/343/galakrond-deathrattle-rogue
+msgid "Galakrond Deathrattle Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/3/malygos-otk-rogue
+msgid "Malygos OTK Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/344/galakrond-rogue
+msgid "Galakrond Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/345/galakrond-quest-shaman
+msgid "Galakrond Quest Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/346/galakrond-shaman
+msgid "Galakrond Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/347/galakrond-overload-shaman
+msgid "Galakrond Overload Shaman"
 msgstr ""
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/
