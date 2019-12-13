@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-12T01:40:32.200496\n"
+"POT-Creation-Date: 2019-12-13T01:40:33.527829\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2019-12-12 12:40\n"
+"PO-Revision-Date: 2019-12-13 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -143,9 +143,9 @@ msgstr "沈黙プリースト"
 msgid "Discard Warlock"
 msgstr "ディスカードウォーロック"
 
-#: https://hsreplay.net/archetypes/132/handlock
-msgid "Handlock"
-msgstr "ハンドロック"
+#: https://hsreplay.net/archetypes/132/hand-warlock
+msgid "Hand Warlock"
+msgstr "ハンドウォーロック"
 
 #: https://hsreplay.net/archetypes/136/highlander-warlock
 msgid "Highlander Warlock"
@@ -621,7 +621,7 @@ msgstr "ホッパーローグ"
 
 #: https://hsreplay.net/archetypes/251/pain-warlock
 msgid "Pain Warlock"
-msgstr ""
+msgstr "自傷ウォーロック"
 
 #: https://hsreplay.net/archetypes/252/mechathun-warlock
 msgid "Mecha'thun Warlock"
@@ -921,59 +921,71 @@ msgstr "メックトゥーンメイジ"
 
 #: https://hsreplay.net/archetypes/334/treant-druid
 msgid "Treant Druid"
-msgstr ""
+msgstr "トレントドルイド"
 
 #: https://hsreplay.net/archetypes/335/dragon-druid
 msgid "Dragon Druid"
-msgstr ""
+msgstr "ドラゴンドルイド"
 
 #: https://hsreplay.net/archetypes/336/highlander-quest-hunter
 msgid "Highlander Quest Hunter"
-msgstr ""
+msgstr "ハイランダークエストハンター"
 
 #: https://hsreplay.net/archetypes/337/highlander-dragon-hunter
 msgid "Highlander Dragon Hunter"
-msgstr ""
+msgstr "ハイランダードラゴンハンター"
 
 #: https://hsreplay.net/archetypes/338/pure-paladin
 msgid "Pure Paladin"
-msgstr ""
+msgstr "ピュアパラディン"
 
 #: https://hsreplay.net/archetypes/339/highlander-dragon-paladin
 msgid "Highlander Dragon Paladin"
-msgstr ""
+msgstr "ハイランダードラゴンパラディン"
 
 #: https://hsreplay.net/archetypes/340/galakrond-priest
 msgid "Galakrond Priest"
-msgstr ""
+msgstr "ガラクロンドプリースト"
 
 #: https://hsreplay.net/archetypes/342/highlander-galakrond-priest
 msgid "Highlander Galakrond Priest"
-msgstr ""
+msgstr "ハイランダーガラクロンドプリースト"
 
 #: https://hsreplay.net/archetypes/343/galakrond-deathrattle-rogue
 msgid "Galakrond Deathrattle Rogue"
-msgstr ""
+msgstr "ガラクロンド断末魔ローグ"
 
 #: https://hsreplay.net/archetypes/3/malygos-otk-rogue
 msgid "Malygos OTK Rogue"
-msgstr ""
+msgstr "マリゴスOTKローグ"
 
 #: https://hsreplay.net/archetypes/344/galakrond-rogue
 msgid "Galakrond Rogue"
-msgstr ""
+msgstr "ガラクロンドローグ"
 
 #: https://hsreplay.net/archetypes/345/galakrond-quest-shaman
 msgid "Galakrond Quest Shaman"
-msgstr ""
+msgstr "ガラクロンドクエストシャーマン"
 
 #: https://hsreplay.net/archetypes/346/galakrond-shaman
 msgid "Galakrond Shaman"
-msgstr ""
+msgstr "ガラクロンドシャーマン"
 
 #: https://hsreplay.net/archetypes/347/galakrond-overload-shaman
 msgid "Galakrond Overload Shaman"
-msgstr ""
+msgstr "ガラクロンドオーバーロードシャーマン"
+
+#: https://hsreplay.net/archetypes/348/galakrond-zoo-warlock
+msgid "Galakrond Zoo Warlock"
+msgstr "ガラクロンドズーウォーロック"
+
+#: https://hsreplay.net/archetypes/349/pirate-galakrond-warrior
+msgid "Pirate Galakrond Warrior"
+msgstr "海賊ガラクロンドウォリアー"
+
+#: https://hsreplay.net/archetypes/350/galakrond-warrior
+msgid "Galakrond Warrior"
+msgstr "ガラクロンドウォリアー"
 
 #: https://www.hearthstonetopdecks.com/deck-guide/token-druid-deck-list-guide/
 msgid "Token Druid has been a long standing archetype in Hearthstone. The deck is based around flooding the board with small, summoned minions (tokens), buffing them and bursting the opponent down."
