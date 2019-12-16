@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-11 01:41+0000\n"
-"PO-Revision-Date: 2019-12-14 12:40\n"
+"PO-Revision-Date: 2019-12-16 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -811,11 +811,11 @@ msgstr "炉石战棋"
 
 #: web/views/battlegrounds.py:16
 msgid "Draft Helper - Choose Hero"
-msgstr "模拟助手 - 选择英雄"
+msgstr "推演助手 - 选择英雄"
 
 #: web/views/battlegrounds.py:21
 msgid "Draft Helper - Team Builder"
-msgstr "模拟助手 - 组建队伍"
+msgstr "推演助手 - 组建队伍"
 
 #: web/views/cards.py:25 web/views/cards.py:115
 msgid "Hearthstone Card Statistics"
