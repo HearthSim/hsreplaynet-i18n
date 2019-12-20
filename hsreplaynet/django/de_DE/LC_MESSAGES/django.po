@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-19 01:40+0000\n"
-"PO-Revision-Date: 2019-12-20 00:41\n"
+"POT-Creation-Date: 2019-12-20 01:40+0000\n"
+"PO-Revision-Date: 2019-12-20 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -204,47 +204,47 @@ msgstr "Konnte deine Abo-Wahl nicht bestimmen."
 msgid "Invalid Paypal plan."
 msgstr "Ungültige PayPal-Abo-Wahl."
 
-#: settings.py:328
+#: settings.py:329
 msgid "Full access to your HSReplay.net account"
 msgstr "Vollständiger Zugriff auf dein HSReplay.net-Konto"
 
-#: settings.py:329
+#: settings.py:330
 msgid "Access information about your connected social accounts"
 msgstr "Zugriff auf Informationen über deine verknüpften sozialen Konten"
 
-#: settings.py:330
+#: settings.py:331
 msgid "View your Hearthstone card collection"
 msgstr "Betrachte deine Hearthstone-Kartensammlung"
 
-#: settings.py:331
+#: settings.py:332
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Deine Hearthstone-Kartensammlung zur Seite hochladen"
 
-#: settings.py:332
+#: settings.py:333
 msgid "View your replays"
 msgstr "Deine Aufzeichnungen betrachten"
 
-#: settings.py:333
+#: settings.py:334
 msgid "Update and delete your replays"
 msgstr "Deine Aufzeichnungen hochladen und entfernen"
 
-#: settings.py:334
+#: settings.py:335
 msgid "Access the Partner API"
 msgstr "Zugriff auf die Partner-API"
 
-#: settings.py:335
+#: settings.py:336
 msgid "Read access to the tournaments service"
 msgstr "Lesezugriff auf den Turnierdienst"
 
-#: settings.py:336
+#: settings.py:337
 msgid "Write access to the tournaments service"
 msgstr "Schreibzugriff auf den Turnierdienst"
 
-#: settings.py:337
+#: settings.py:338
 msgid "View your webhooks"
 msgstr "Deine Webhooks betrachten"
 
-#: settings.py:338
+#: settings.py:339
 msgid "Create and delete webhooks on your behalf"
 msgstr "Webhooks für dich erstellen und löschen"
 
