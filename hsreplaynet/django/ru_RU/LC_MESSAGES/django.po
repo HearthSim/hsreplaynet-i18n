@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-20 01:40+0000\n"
-"PO-Revision-Date: 2019-12-20 12:40\n"
+"PO-Revision-Date: 2019-12-21 00:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -574,7 +574,7 @@ msgstr "Мы в Instagram"
 
 #: templates/footer.html:56
 msgid "Not affiliated with Blizzard Entertainment."
-msgstr ""
+msgstr "Не связан с Blizzard Entertainment."
 
 #: templates/footer.html:64 templates/navigation.html:97
 msgid "Downloads"
@@ -599,7 +599,7 @@ msgstr "Справка"
 
 #: templates/footer.html:75
 msgid "Contact Us"
-msgstr ""
+msgstr "Контакты"
 
 #: templates/footer.html:80
 msgid "Legal"
@@ -627,11 +627,11 @@ msgstr "Вкл/выкл навигацию"
 
 #: templates/navigation.html:35
 msgid "Go to Classic"
-msgstr ""
+msgstr "Классика"
 
 #: templates/navigation.html:49
 msgid "Go to Battlegrounds"
-msgstr ""
+msgstr "Поля сражений"
 
 #: templates/navigation.html:60
 msgid "Articles"
@@ -807,19 +807,19 @@ msgstr "Просматривайте статистику и другие кол
 
 #: web/views/battlegrounds.py:8 web/views/battlegrounds.py:10
 msgid "Hearthstone Battlegrounds"
-msgstr ""
+msgstr "Поля сражений"
 
 #: web/views/battlegrounds.py:16
 msgid "Draft Helper - Introduction"
-msgstr ""
+msgstr "Помощник драфта — введение"
 
 #: web/views/battlegrounds.py:21
 msgid "Draft Helper - Choose Hero"
-msgstr ""
+msgstr "Помощник драфта — выбор героя"
 
 #: web/views/battlegrounds.py:26
 msgid "Draft Helper - Team Builder"
-msgstr ""
+msgstr "Помощник драфта — сбор команды"
 
 #: web/views/cards.py:25 web/views/cards.py:115
 msgid "Hearthstone Card Statistics"
