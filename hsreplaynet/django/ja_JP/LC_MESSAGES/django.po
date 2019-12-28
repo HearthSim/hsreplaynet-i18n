@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-23 01:40+0000\n"
-"PO-Revision-Date: 2019-12-24 12:40\n"
+"POT-Creation-Date: 2019-12-28 01:40+0000\n"
+"PO-Revision-Date: 2019-12-28 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -570,12 +570,12 @@ msgstr ""
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Blizzard Entertainmentとは提携しておりません。"
 
-#: templates/footer.html:64 templates/navigation.html:97
+#: templates/footer.html:64 templates/navigation.html:110
 msgid "Downloads"
 msgstr "ダウンロード"
 
-#: templates/footer.html:65 templates/navigation.html:107
-#: templates/navigation.html:112
+#: templates/footer.html:65 templates/navigation.html:120
+#: templates/navigation.html:125
 msgid "Premium"
 msgstr "Premium"
 
@@ -627,31 +627,35 @@ msgstr ""
 msgid "Go to Battlegrounds"
 msgstr ""
 
-#: templates/navigation.html:60
-msgid "Articles"
-msgstr "記事"
-
-#: templates/navigation.html:67
-msgid "Trending"
-msgstr "トレンド"
-
-#: templates/navigation.html:74
+#: templates/navigation.html:60 templates/navigation.html:87
 msgid "Meta"
 msgstr "メタ"
 
-#: templates/navigation.html:81
+#: templates/navigation.html:66
+msgid "Draft Helper"
+msgstr ""
+
+#: templates/navigation.html:73
+msgid "Articles"
+msgstr "記事"
+
+#: templates/navigation.html:80
+msgid "Trending"
+msgstr "トレンド"
+
+#: templates/navigation.html:94
 msgid "Decks"
 msgstr "デッキ"
 
-#: templates/navigation.html:88
+#: templates/navigation.html:101
 msgid "Cards"
 msgstr "カード"
 
-#: templates/navigation.html:108
+#: templates/navigation.html:121
 msgid "SALE!"
 msgstr ""
 
-#: templates/navigation.html:110
+#: templates/navigation.html:123
 msgid "Refer a Friend"
 msgstr "友達に紹介する"
 
@@ -804,14 +808,18 @@ msgid "Hearthstone Battlegrounds"
 msgstr ""
 
 #: web/views/battlegrounds.py:16
-msgid "Draft Helper - Introduction"
+msgid "Battlegrounds Meta"
 msgstr ""
 
 #: web/views/battlegrounds.py:21
-msgid "Draft Helper - Choose Hero"
+msgid "Draft Helper - Introduction"
 msgstr ""
 
 #: web/views/battlegrounds.py:26
+msgid "Draft Helper - Choose Hero"
+msgstr ""
+
+#: web/views/battlegrounds.py:31
 msgid "Draft Helper - Sync Mode"
 msgstr ""
 

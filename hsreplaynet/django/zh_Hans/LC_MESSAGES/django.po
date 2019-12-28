@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-12-23 01:40+0000\n"
-"PO-Revision-Date: 2019-12-24 12:40\n"
+"POT-Creation-Date: 2019-12-28 01:40+0000\n"
+"PO-Revision-Date: 2019-12-28 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -576,12 +576,12 @@ msgstr "在Instagram上关注我们"
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "与暴雪娱乐没有从属关系。"
 
-#: templates/footer.html:64 templates/navigation.html:97
+#: templates/footer.html:64 templates/navigation.html:110
 msgid "Downloads"
 msgstr "下载"
 
-#: templates/footer.html:65 templates/navigation.html:107
-#: templates/navigation.html:112
+#: templates/footer.html:65 templates/navigation.html:120
+#: templates/navigation.html:125
 msgid "Premium"
 msgstr "充值会员"
 
@@ -633,31 +633,35 @@ msgstr "切换到原版"
 msgid "Go to Battlegrounds"
 msgstr "切换到战棋"
 
-#: templates/navigation.html:60
-msgid "Articles"
-msgstr "文章"
-
-#: templates/navigation.html:67
-msgid "Trending"
-msgstr "趋势"
-
-#: templates/navigation.html:74
+#: templates/navigation.html:60 templates/navigation.html:87
 msgid "Meta"
 msgstr "环境"
 
-#: templates/navigation.html:81
+#: templates/navigation.html:66
+msgid "Draft Helper"
+msgstr ""
+
+#: templates/navigation.html:73
+msgid "Articles"
+msgstr "文章"
+
+#: templates/navigation.html:80
+msgid "Trending"
+msgstr "趋势"
+
+#: templates/navigation.html:94
 msgid "Decks"
 msgstr "套牌"
 
-#: templates/navigation.html:88
+#: templates/navigation.html:101
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:108
+#: templates/navigation.html:121
 msgid "SALE!"
 msgstr "实惠！"
 
-#: templates/navigation.html:110
+#: templates/navigation.html:123
 msgid "Refer a Friend"
 msgstr "分享给好友"
 
@@ -810,14 +814,18 @@ msgid "Hearthstone Battlegrounds"
 msgstr "炉石战棋"
 
 #: web/views/battlegrounds.py:16
+msgid "Battlegrounds Meta"
+msgstr ""
+
+#: web/views/battlegrounds.py:21
 msgid "Draft Helper - Introduction"
 msgstr "推演助手 - 介绍"
 
-#: web/views/battlegrounds.py:21
+#: web/views/battlegrounds.py:26
 msgid "Draft Helper - Choose Hero"
 msgstr "推演助手 - 选择英雄"
 
-#: web/views/battlegrounds.py:26
+#: web/views/battlegrounds.py:31
 msgid "Draft Helper - Sync Mode"
 msgstr ""
 
