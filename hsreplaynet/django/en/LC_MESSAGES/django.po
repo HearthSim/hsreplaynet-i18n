@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-07 01:40+0000\n"
+"POT-Creation-Date: 2020-01-08 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,6 +17,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: api/exceptions.py:8
+msgid "An upstream gateway returned an invalid response."
+msgstr ""
 
 #: api/fields.py:9
 #, python-brace-format
@@ -28,6 +32,7 @@ msgid "Disputed"
 msgstr ""
 
 #: api/serializers/billing.py:73 api/serializers/billing.py:146
+#: api/serializers/billing.py:200
 msgid "Refunded"
 msgstr ""
 
@@ -35,20 +40,26 @@ msgstr ""
 msgid "Partially refunded"
 msgstr ""
 
-#: api/serializers/billing.py:77
+#: api/serializers/billing.py:77 api/serializers/billing.py:208
 msgid "Failed"
 msgstr ""
 
 #: api/serializers/billing.py:79 api/serializers/billing.py:144
+#: api/serializers/billing.py:202
 msgid "Pending"
 msgstr ""
 
 #: api/serializers/billing.py:81 api/serializers/billing.py:140
+#: api/serializers/billing.py:204
 msgid "Completed"
 msgstr ""
 
 #: api/serializers/billing.py:148
 msgid "Denied"
+msgstr ""
+
+#: api/serializers/billing.py:206
+msgid "Canceled"
 msgstr ""
 
 #: api/views/features.py:33
