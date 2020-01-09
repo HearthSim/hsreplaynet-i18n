@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-08 01:40+0000\n"
-"PO-Revision-Date: 2020-01-08 12:40\n"
+"POT-Creation-Date: 2020-01-09 01:40+0000\n"
+"PO-Revision-Date: 2020-01-09 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -24,39 +24,28 @@ msgstr ""
 msgid "{input} is not a valid member of {enum}."
 msgstr ""
 
-#: api/serializers/billing.py:71
-msgid "Disputed"
-msgstr ""
-
-#: api/serializers/billing.py:73 api/serializers/billing.py:146
-#: api/serializers/billing.py:200
-msgid "Refunded"
-msgstr ""
-
-#: api/serializers/billing.py:75 api/serializers/billing.py:142
-msgid "Partially refunded"
-msgstr ""
-
-#: api/serializers/billing.py:77 api/serializers/billing.py:208
+#: api/serializers/billing.py:18
 msgid "Failed"
 msgstr ""
 
-#: api/serializers/billing.py:79 api/serializers/billing.py:144
-#: api/serializers/billing.py:202
+#: api/serializers/billing.py:19
 msgid "Pending"
 msgstr ""
 
-#: api/serializers/billing.py:81 api/serializers/billing.py:140
-#: api/serializers/billing.py:204
+#: api/serializers/billing.py:20
 msgid "Completed"
 msgstr ""
 
-#: api/serializers/billing.py:148
-msgid "Denied"
+#: api/serializers/billing.py:21
+msgid "Disputed"
 msgstr ""
 
-#: api/serializers/billing.py:206
-msgid "Canceled"
+#: api/serializers/billing.py:22
+msgid "Refunded"
+msgstr ""
+
+#: api/serializers/billing.py:23
+msgid "Partially refunded"
 msgstr ""
 
 #: api/views/features.py:33
