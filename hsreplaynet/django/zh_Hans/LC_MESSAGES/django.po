@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-09 01:40+0000\n"
-"PO-Revision-Date: 2020-01-12 00:40\n"
+"POT-Creation-Date: 2020-01-13 01:40+0000\n"
+"PO-Revision-Date: 2020-01-13 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -638,7 +638,7 @@ msgid "Meta"
 msgstr "环境"
 
 #: templates/navigation.html:66
-msgid "Draft Helper"
+msgid "Guide"
 msgstr ""
 
 #: templates/navigation.html:73
@@ -818,15 +818,15 @@ msgid "Battlegrounds Meta"
 msgstr "战棋环境"
 
 #: web/views/battlegrounds.py:36
-msgid "Draft Helper - Introduction"
-msgstr "推演助手 - 介绍"
+msgid "Battlegrounds Guide - Introduction"
+msgstr ""
 
-#: web/views/battlegrounds.py:41
-msgid "Draft Helper - Choose Hero"
-msgstr "推演助手 - 选择英雄"
+#: web/views/battlegrounds.py:43
+msgid "Battlegrounds Guide - Choose Hero"
+msgstr ""
 
-#: web/views/battlegrounds.py:46
-msgid "Draft Helper - Sync Mode"
+#: web/views/battlegrounds.py:48
+msgid "Battlegrounds Guide"
 msgstr ""
 
 #: web/views/cards.py:25 web/views/cards.py:115
