@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-12 01:40+0000\n"
+"POT-Creation-Date: 2020-01-13 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -673,7 +673,7 @@ msgid "Meta"
 msgstr ""
 
 #: templates/navigation.html:66
-msgid "Draft Helper"
+msgid "Guide"
 msgstr ""
 
 #: templates/navigation.html:73
@@ -880,15 +880,15 @@ msgid "Battlegrounds Meta"
 msgstr ""
 
 #: web/views/battlegrounds.py:36
-msgid "Draft Helper - Introduction"
+msgid "Battlegrounds Guide - Introduction"
 msgstr ""
 
-#: web/views/battlegrounds.py:41
-msgid "Draft Helper - Choose Hero"
+#: web/views/battlegrounds.py:43
+msgid "Battlegrounds Guide - Choose Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:46
-msgid "Draft Helper - Sync Mode"
+#: web/views/battlegrounds.py:48
+msgid "Battlegrounds Guide"
 msgstr ""
 
 #: web/views/cards.py:25 web/views/cards.py:115
