@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-13 01:40+0000\n"
-"PO-Revision-Date: 2020-01-18 12:40\n"
+"POT-Creation-Date: 2020-01-20 01:40+0000\n"
+"PO-Revision-Date: 2020-01-20 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -204,47 +204,47 @@ msgstr "Une erreur s'est produite avec votre plan."
 msgid "Invalid Paypal plan."
 msgstr "Plan Paypal invalide."
 
-#: settings.py:330
+#: settings.py:339
 msgid "Full access to your HSReplay.net account"
 msgstr "Accès complet à votre compte HSReplay.net"
 
-#: settings.py:331
+#: settings.py:340
 msgid "Access information about your connected social accounts"
 msgstr "Accéder aux informations relatives à vos comptes sociaux liés"
 
-#: settings.py:332
+#: settings.py:341
 msgid "View your Hearthstone card collection"
 msgstr "Voir votre collection de cartes Hearthstone"
 
-#: settings.py:333
+#: settings.py:342
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Importer votre collection de cartes Hearthstone sur le site"
 
-#: settings.py:334
+#: settings.py:343
 msgid "View your replays"
 msgstr "Regarder vos rediffusions"
 
-#: settings.py:335
+#: settings.py:344
 msgid "Update and delete your replays"
 msgstr "Mettre à jour et supprimer vos rediffusions"
 
-#: settings.py:336
+#: settings.py:345
 msgid "Access the Partner API"
 msgstr "Accéder à l’API du Partenaire"
 
-#: settings.py:337
+#: settings.py:346
 msgid "Read access to the tournaments service"
 msgstr "Accès en lecture au service de tournois"
 
-#: settings.py:338
+#: settings.py:347
 msgid "Write access to the tournaments service"
 msgstr "Accès en écriture au service de tournois"
 
-#: settings.py:339
+#: settings.py:348
 msgid "View your webhooks"
 msgstr "Voir vos webhooks"
 
-#: settings.py:340
+#: settings.py:349
 msgid "Create and delete webhooks on your behalf"
 msgstr "Donner l'autorisation de créer et effacer des webhooks"
 
