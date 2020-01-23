@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-20 01:40+0000\n"
-"PO-Revision-Date: 2020-01-22 12:40\n"
+"POT-Creation-Date: 2020-01-23 01:40+0000\n"
+"PO-Revision-Date: 2020-01-23 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -24,27 +24,27 @@ msgstr ""
 msgid "{input} is not a valid member of {enum}."
 msgstr "{input}不是{enum}的有效组分。"
 
-#: api/serializers/billing.py:18
+#: api/serializers/billing.py:23
 msgid "Failed"
 msgstr "已失败"
 
-#: api/serializers/billing.py:19
+#: api/serializers/billing.py:24
 msgid "Pending"
 msgstr "处理中"
 
-#: api/serializers/billing.py:20
+#: api/serializers/billing.py:25
 msgid "Completed"
 msgstr "已完成"
 
-#: api/serializers/billing.py:21
+#: api/serializers/billing.py:26
 msgid "Disputed"
 msgstr "发生冲突"
 
-#: api/serializers/billing.py:22
+#: api/serializers/billing.py:27
 msgid "Refunded"
 msgstr "已退款"
 
-#: api/serializers/billing.py:23
+#: api/serializers/billing.py:28
 msgid "Partially refunded"
 msgstr "已部分退款"
 
@@ -306,43 +306,34 @@ msgstr "网址"
 msgid "Active"
 msgstr "活跃"
 
-#: templates/account/base.html:14
-msgid "Settings"
-msgstr "设置"
+#: templates/account/base.html:15 web/views/dashboard.py:39
+msgid "Preferences"
+msgstr ""
 
-#: templates/account/base.html:15
-msgid "Email"
-msgstr "电子邮件"
+#: templates/account/base.html:16 web/views/allauth.py:13
+msgid "Emails"
+msgstr ""
 
 #: templates/account/base.html:17
 msgid "Billing"
 msgstr "会员订单"
 
-#: templates/account/base.html:19 web/views/dashboard.py:86
-msgid "API Access"
-msgstr "API权限"
+#: templates/account/base.html:18 web/views/allauth.py:9
+msgid "Connections"
+msgstr ""
 
-#: templates/account/base.html:20
-msgid "OAuth Apps"
-msgstr "OAuth应用"
+#: templates/account/base.html:19 web/views/dashboard.py:336
+msgid "Applications"
+msgstr ""
 
-#: templates/account/base.html:22 templates/account/login.html:69
+#: templates/account/base.html:23 templates/account/login.html:69
 #: templates/account/signup.html:33
 msgid "Password"
 msgstr "密码"
 
-#: templates/account/base.html:24 templates/socialaccount/connections.html:9
-msgid "Connected accounts"
-msgstr "关联的帐户"
-
-#: templates/account/base.html:25
-msgid "Delete account"
-msgstr "删除账户"
-
-#: templates/account/base.html:29 templates/account/logout.html:6
-#: templates/account/logout.html:17
-msgid "Sign out"
-msgstr "注销"
+#: templates/account/base.html:25 web/views/dashboard.py:98
+msgid "Delete Account"
+msgstr "删除帐户"
 
 #: templates/account/delete_replays.html:6
 #: templates/account/delete_replays.html:18
@@ -487,6 +478,10 @@ msgstr "用户名"
 #: templates/account/login.html:72
 msgid "Sign in"
 msgstr "登录"
+
+#: templates/account/logout.html:6 templates/account/logout.html:17
+msgid "Sign out"
+msgstr "注销"
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
@@ -677,6 +672,10 @@ msgstr "验证出错"
 msgid "Back to the office."
 msgstr "返回菜单"
 
+#: templates/socialaccount/connections.html:9
+msgid "Connected accounts"
+msgstr "关联的帐户"
+
 #: templates/socialaccount/connections.html:14
 msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard account."
 msgstr "以下社交账户已和您的HSReplay.net账号关联。您也可以连接暴雪账号登录。"
@@ -866,13 +865,9 @@ msgstr "收藏"
 msgid "{user}'s Hearthstone Collection"
 msgstr "{user} 的卡牌收藏"
 
-#: web/views/dashboard.py:39
-msgid "My Account"
-msgstr "我的账户"
-
-#: web/views/dashboard.py:98
-msgid "Delete Account"
-msgstr "删除帐户"
+#: web/views/dashboard.py:86
+msgid "API Access"
+msgstr "API权限"
 
 #: web/views/dashboard.py:123
 msgid "This account cannot be deleted."
@@ -906,13 +901,9 @@ msgstr "创建链接"
 msgid "Update a webhook"
 msgstr "更新链接"
 
-#: web/views/dashboard.py:336
-msgid "OAuth Applications"
-msgstr "OAuth应用"
-
 #: web/views/dashboard.py:383
-msgid "Your OAuth Application"
-msgstr "您的OAuth应用"
+msgid "Your Application"
+msgstr ""
 
 #: web/views/decks.py:20
 msgid "Hearthstone Decks"

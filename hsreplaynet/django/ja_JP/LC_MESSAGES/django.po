@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-20 01:40+0000\n"
-"PO-Revision-Date: 2020-01-22 12:40\n"
+"POT-Creation-Date: 2020-01-23 01:40+0000\n"
+"PO-Revision-Date: 2020-01-23 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -24,27 +24,27 @@ msgstr ""
 msgid "{input} is not a valid member of {enum}."
 msgstr "{input} は {enum} の有効なメンバーではありません。"
 
-#: api/serializers/billing.py:18
+#: api/serializers/billing.py:23
 msgid "Failed"
 msgstr ""
 
-#: api/serializers/billing.py:19
+#: api/serializers/billing.py:24
 msgid "Pending"
 msgstr "保留中"
 
-#: api/serializers/billing.py:20
+#: api/serializers/billing.py:25
 msgid "Completed"
 msgstr ""
 
-#: api/serializers/billing.py:21
+#: api/serializers/billing.py:26
 msgid "Disputed"
 msgstr ""
 
-#: api/serializers/billing.py:22
+#: api/serializers/billing.py:27
 msgid "Refunded"
 msgstr "払い戻し済み"
 
-#: api/serializers/billing.py:23
+#: api/serializers/billing.py:28
 msgid "Partially refunded"
 msgstr ""
 
@@ -306,43 +306,34 @@ msgstr "URL"
 msgid "Active"
 msgstr ""
 
-#: templates/account/base.html:14
-msgid "Settings"
-msgstr "設定"
+#: templates/account/base.html:15 web/views/dashboard.py:39
+msgid "Preferences"
+msgstr ""
 
-#: templates/account/base.html:15
-msgid "Email"
-msgstr "電子メール"
+#: templates/account/base.html:16 web/views/allauth.py:13
+msgid "Emails"
+msgstr ""
 
 #: templates/account/base.html:17
 msgid "Billing"
 msgstr ""
 
-#: templates/account/base.html:19 web/views/dashboard.py:86
-msgid "API Access"
-msgstr "APIへのアクセス"
+#: templates/account/base.html:18 web/views/allauth.py:9
+msgid "Connections"
+msgstr ""
 
-#: templates/account/base.html:20
-msgid "OAuth Apps"
-msgstr "OAuth アプリ"
+#: templates/account/base.html:19 web/views/dashboard.py:336
+msgid "Applications"
+msgstr ""
 
-#: templates/account/base.html:22 templates/account/login.html:69
+#: templates/account/base.html:23 templates/account/login.html:69
 #: templates/account/signup.html:33
 msgid "Password"
 msgstr "パスワード"
 
-#: templates/account/base.html:24 templates/socialaccount/connections.html:9
-msgid "Connected accounts"
-msgstr ""
-
-#: templates/account/base.html:25
-msgid "Delete account"
-msgstr "アカウントの削除"
-
-#: templates/account/base.html:29 templates/account/logout.html:6
-#: templates/account/logout.html:17
-msgid "Sign out"
-msgstr "サインアウト"
+#: templates/account/base.html:25 web/views/dashboard.py:98
+msgid "Delete Account"
+msgstr "アカウント削除"
 
 #: templates/account/delete_replays.html:6
 #: templates/account/delete_replays.html:18
@@ -481,6 +472,10 @@ msgstr "ユーザー名"
 #: templates/account/login.html:72
 msgid "Sign in"
 msgstr "サインイン"
+
+#: templates/account/logout.html:6 templates/account/logout.html:17
+msgid "Sign out"
+msgstr "サインアウト"
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
@@ -669,6 +664,10 @@ msgstr "認証エラー"
 
 #: templates/socialaccount/authentication_error.html:28
 msgid "Back to the office."
+msgstr ""
+
+#: templates/socialaccount/connections.html:9
+msgid "Connected accounts"
 msgstr ""
 
 #: templates/socialaccount/connections.html:14
@@ -860,13 +859,9 @@ msgstr "コレクション"
 msgid "{user}'s Hearthstone Collection"
 msgstr "{user} のハースストーンコレクション"
 
-#: web/views/dashboard.py:39
-msgid "My Account"
-msgstr "マイアカウント"
-
-#: web/views/dashboard.py:98
-msgid "Delete Account"
-msgstr "アカウント削除"
+#: web/views/dashboard.py:86
+msgid "API Access"
+msgstr "APIへのアクセス"
 
 #: web/views/dashboard.py:123
 msgid "This account cannot be deleted."
@@ -900,13 +895,9 @@ msgstr ""
 msgid "Update a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:336
-msgid "OAuth Applications"
-msgstr "OAuthアプリ"
-
 #: web/views/dashboard.py:383
-msgid "Your OAuth Application"
-msgstr "あなたのOAuthアプリ"
+msgid "Your Application"
+msgstr ""
 
 #: web/views/decks.py:20
 msgid "Hearthstone Decks"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-20 01:40+0000\n"
-"PO-Revision-Date: 2020-01-22 12:40\n"
+"POT-Creation-Date: 2020-01-23 01:40+0000\n"
+"PO-Revision-Date: 2020-01-23 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -24,27 +24,27 @@ msgstr ""
 msgid "{input} is not a valid member of {enum}."
 msgstr "{input} ist kein gültiges Element von {enum}."
 
-#: api/serializers/billing.py:18
+#: api/serializers/billing.py:23
 msgid "Failed"
 msgstr "Fehlgeschlagen"
 
-#: api/serializers/billing.py:19
+#: api/serializers/billing.py:24
 msgid "Pending"
 msgstr "Ausstehend"
 
-#: api/serializers/billing.py:20
+#: api/serializers/billing.py:25
 msgid "Completed"
 msgstr "Abgeschlossen"
 
-#: api/serializers/billing.py:21
+#: api/serializers/billing.py:26
 msgid "Disputed"
 msgstr "Angefochten"
 
-#: api/serializers/billing.py:22
+#: api/serializers/billing.py:27
 msgid "Refunded"
 msgstr "Erstattet"
 
-#: api/serializers/billing.py:23
+#: api/serializers/billing.py:28
 msgid "Partially refunded"
 msgstr "Teilweise erstattet"
 
@@ -306,43 +306,34 @@ msgstr "URL"
 msgid "Active"
 msgstr "Aktiv"
 
-#: templates/account/base.html:14
-msgid "Settings"
-msgstr "Einstellungen"
+#: templates/account/base.html:15 web/views/dashboard.py:39
+msgid "Preferences"
+msgstr ""
 
-#: templates/account/base.html:15
-msgid "Email"
-msgstr "E-Mail"
+#: templates/account/base.html:16 web/views/allauth.py:13
+msgid "Emails"
+msgstr ""
 
 #: templates/account/base.html:17
 msgid "Billing"
 msgstr "Zahlungen"
 
-#: templates/account/base.html:19 web/views/dashboard.py:86
-msgid "API Access"
-msgstr "API-Zugriff"
+#: templates/account/base.html:18 web/views/allauth.py:9
+msgid "Connections"
+msgstr ""
 
-#: templates/account/base.html:20
-msgid "OAuth Apps"
-msgstr "OAuth-Anwendungen"
+#: templates/account/base.html:19 web/views/dashboard.py:336
+msgid "Applications"
+msgstr ""
 
-#: templates/account/base.html:22 templates/account/login.html:69
+#: templates/account/base.html:23 templates/account/login.html:69
 #: templates/account/signup.html:33
 msgid "Password"
 msgstr "Passwort"
 
-#: templates/account/base.html:24 templates/socialaccount/connections.html:9
-msgid "Connected accounts"
-msgstr "Verknüpfte Konten"
-
-#: templates/account/base.html:25
-msgid "Delete account"
-msgstr "Konto löschen"
-
-#: templates/account/base.html:29 templates/account/logout.html:6
-#: templates/account/logout.html:17
-msgid "Sign out"
-msgstr "Abmelden"
+#: templates/account/base.html:25 web/views/dashboard.py:98
+msgid "Delete Account"
+msgstr "Konto Löschen"
 
 #: templates/account/delete_replays.html:6
 #: templates/account/delete_replays.html:18
@@ -486,6 +477,10 @@ msgstr "Benutzername"
 #: templates/account/login.html:72
 msgid "Sign in"
 msgstr "Anmelden"
+
+#: templates/account/logout.html:6 templates/account/logout.html:17
+msgid "Sign out"
+msgstr "Abmelden"
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
@@ -676,6 +671,10 @@ msgstr "Authentifizierungsfehler"
 msgid "Back to the office."
 msgstr "Befreit mich!"
 
+#: templates/socialaccount/connections.html:9
+msgid "Connected accounts"
+msgstr "Verknüpfte Konten"
+
 #: templates/socialaccount/connections.html:14
 msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard account."
 msgstr "Die folgenden sozialen Konten sind mit deinem HSReplay.net-Konto verknüpft. Du kannst du mit jedem verknüpften Blizzard-Konto anmelden."
@@ -865,13 +864,9 @@ msgstr "Sammlung"
 msgid "{user}'s Hearthstone Collection"
 msgstr "{user}'s Hearthstone-Sammlung"
 
-#: web/views/dashboard.py:39
-msgid "My Account"
-msgstr "Mein Konto"
-
-#: web/views/dashboard.py:98
-msgid "Delete Account"
-msgstr "Konto Löschen"
+#: web/views/dashboard.py:86
+msgid "API Access"
+msgstr "API-Zugriff"
 
 #: web/views/dashboard.py:123
 msgid "This account cannot be deleted."
@@ -905,13 +900,9 @@ msgstr "Einen Webhook erstellen"
 msgid "Update a webhook"
 msgstr "Einen Webhook aktualisieren"
 
-#: web/views/dashboard.py:336
-msgid "OAuth Applications"
-msgstr "OAuth-Anwendungen"
-
 #: web/views/dashboard.py:383
-msgid "Your OAuth Application"
-msgstr "Deine OAuth-Anwendung"
+msgid "Your Application"
+msgstr ""
 
 #: web/views/decks.py:20
 msgid "Hearthstone Decks"
