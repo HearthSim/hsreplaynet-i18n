@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-01-28 01:40+0000\n"
-"PO-Revision-Date: 2020-01-29 12:40\n"
+"PO-Revision-Date: 2020-01-30 12:41\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: api/exceptions.py:8
 msgid "An upstream gateway returned an invalid response."
-msgstr ""
+msgstr "Вышестоящий шлюз вернул неверный ответ."
 
 #: api/fields.py:9
 #, python-brace-format
@@ -308,11 +308,11 @@ msgstr "Активировать"
 
 #: templates/account/base.html:15 web/views/dashboard.py:39
 msgid "Preferences"
-msgstr ""
+msgstr "Параметры"
 
 #: templates/account/base.html:16 web/views/allauth.py:13
 msgid "Emails"
-msgstr ""
+msgstr "Адреса электронной почты"
 
 #: templates/account/base.html:17
 msgid "Billing"
@@ -320,11 +320,11 @@ msgstr "Оплата"
 
 #: templates/account/base.html:18 web/views/allauth.py:9
 msgid "Connections"
-msgstr ""
+msgstr "Подключения"
 
 #: templates/account/base.html:19 web/views/dashboard.py:336
 msgid "Applications"
-msgstr ""
+msgstr "Приложения"
 
 #: templates/account/base.html:23 templates/account/login.html:69
 #: templates/account/signup.html:33
@@ -634,7 +634,7 @@ msgstr "Мета"
 
 #: templates/navigation.html:66
 msgid "Guide"
-msgstr ""
+msgstr "Руководство"
 
 #: templates/navigation.html:73
 msgid "Articles"
@@ -814,19 +814,19 @@ msgstr "Поля сражений"
 
 #: web/views/battlegrounds.py:31
 msgid "Battlegrounds Meta"
-msgstr ""
+msgstr "Мета Полей сражений"
 
 #: web/views/battlegrounds.py:36
 msgid "Battlegrounds Guide - Introduction"
-msgstr ""
+msgstr "Руководство по Полям сражений — Введение"
 
 #: web/views/battlegrounds.py:43
 msgid "Battlegrounds Guide - Choose Hero"
-msgstr ""
+msgstr "Руководство по Полям сражений — Выбор героя"
 
 #: web/views/battlegrounds.py:48
 msgid "Battlegrounds Guide"
-msgstr ""
+msgstr "Руководство по Полям сражений"
 
 #: web/views/cards.py:25 web/views/cards.py:115
 msgid "Hearthstone Card Statistics"
@@ -903,7 +903,7 @@ msgstr "Обновить веб-хук"
 
 #: web/views/dashboard.py:383
 msgid "Your Application"
-msgstr ""
+msgstr "Ваше приложение"
 
 #: web/views/decks.py:20
 msgid "Hearthstone Decks"
