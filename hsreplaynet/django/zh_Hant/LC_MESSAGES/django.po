@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-28 01:40+0000\n"
-"PO-Revision-Date: 2020-01-30 12:40\n"
+"POT-Creation-Date: 2020-01-31 01:40+0000\n"
+"PO-Revision-Date: 2020-01-31 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -579,7 +579,7 @@ msgid "Downloads"
 msgstr "下載"
 
 #: templates/footer.html:65 templates/navigation.html:120
-#: templates/navigation.html:125
+#: templates/navigation.html:123
 msgid "Premium"
 msgstr "尊榮會員"
 
@@ -658,10 +658,6 @@ msgstr "卡牌"
 #: templates/navigation.html:121
 msgid "SALE!"
 msgstr ""
-
-#: templates/navigation.html:123
-msgid "Refer a Friend"
-msgstr "告訴朋友"
 
 #: templates/snippets/noscript.html:5
 msgid "It looks like you have Javascript turned off. This page will not work correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
