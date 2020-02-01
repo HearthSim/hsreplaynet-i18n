@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-31 01:40+0000\n"
-"PO-Revision-Date: 2020-01-31 12:40\n"
+"POT-Creation-Date: 2020-02-01 01:40+0000\n"
+"PO-Revision-Date: 2020-02-01 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -571,12 +571,12 @@ msgstr "在Instagram上关注我们"
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "与暴雪娱乐没有从属关系。"
 
-#: templates/footer.html:64 templates/navigation.html:110
+#: templates/footer.html:64 templates/navigation.html:116
 msgid "Downloads"
 msgstr "下载"
 
-#: templates/footer.html:65 templates/navigation.html:120
-#: templates/navigation.html:123
+#: templates/footer.html:65 templates/navigation.html:126
+#: templates/navigation.html:129
 msgid "Premium"
 msgstr "充值会员"
 
@@ -628,7 +628,7 @@ msgstr "切换到原版"
 msgid "Go to Battlegrounds"
 msgstr "切换到战棋"
 
-#: templates/navigation.html:60 templates/navigation.html:87
+#: templates/navigation.html:60 templates/navigation.html:93
 msgid "Meta"
 msgstr "环境"
 
@@ -636,23 +636,27 @@ msgstr "环境"
 msgid "Guide"
 msgstr ""
 
-#: templates/navigation.html:73
+#: templates/navigation.html:72
+msgid "Heroes"
+msgstr ""
+
+#: templates/navigation.html:79
 msgid "Articles"
 msgstr "文章"
 
-#: templates/navigation.html:80
+#: templates/navigation.html:86
 msgid "Trending"
 msgstr "趋势"
 
-#: templates/navigation.html:94
+#: templates/navigation.html:100
 msgid "Decks"
 msgstr "套牌"
 
-#: templates/navigation.html:101
+#: templates/navigation.html:107
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:121
+#: templates/navigation.html:127
 msgid "SALE!"
 msgstr "实惠！"
 
@@ -822,6 +826,10 @@ msgstr ""
 
 #: web/views/battlegrounds.py:48
 msgid "Battlegrounds Guide"
+msgstr ""
+
+#: web/views/battlegrounds.py:60
+msgid "Battlegrounds Heroes"
 msgstr ""
 
 #: web/views/cards.py:25 web/views/cards.py:115

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-31 01:40+0000\n"
-"PO-Revision-Date: 2020-01-31 12:40\n"
+"POT-Creation-Date: 2020-02-01 01:40+0000\n"
+"PO-Revision-Date: 2020-02-01 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -570,12 +570,12 @@ msgstr "Folge uns auf Instagram"
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Nicht mit Blizzard Entertainment assoziiert."
 
-#: templates/footer.html:64 templates/navigation.html:110
+#: templates/footer.html:64 templates/navigation.html:116
 msgid "Downloads"
 msgstr "Downloads"
 
-#: templates/footer.html:65 templates/navigation.html:120
-#: templates/navigation.html:123
+#: templates/footer.html:65 templates/navigation.html:126
+#: templates/navigation.html:129
 msgid "Premium"
 msgstr "Premium"
 
@@ -627,7 +627,7 @@ msgstr ""
 msgid "Go to Battlegrounds"
 msgstr "Zum Schlachtfeld"
 
-#: templates/navigation.html:60 templates/navigation.html:87
+#: templates/navigation.html:60 templates/navigation.html:93
 msgid "Meta"
 msgstr "Meta"
 
@@ -635,23 +635,27 @@ msgstr "Meta"
 msgid "Guide"
 msgstr ""
 
-#: templates/navigation.html:73
+#: templates/navigation.html:72
+msgid "Heroes"
+msgstr ""
+
+#: templates/navigation.html:79
 msgid "Articles"
 msgstr "Artikel"
 
-#: templates/navigation.html:80
+#: templates/navigation.html:86
 msgid "Trending"
 msgstr "Im Trend"
 
-#: templates/navigation.html:94
+#: templates/navigation.html:100
 msgid "Decks"
 msgstr "Decks"
 
-#: templates/navigation.html:101
+#: templates/navigation.html:107
 msgid "Cards"
 msgstr "Karten"
 
-#: templates/navigation.html:121
+#: templates/navigation.html:127
 msgid "SALE!"
 msgstr ""
 
@@ -821,6 +825,10 @@ msgstr ""
 
 #: web/views/battlegrounds.py:48
 msgid "Battlegrounds Guide"
+msgstr ""
+
+#: web/views/battlegrounds.py:60
+msgid "Battlegrounds Heroes"
 msgstr ""
 
 #: web/views/cards.py:25 web/views/cards.py:115
