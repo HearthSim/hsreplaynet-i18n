@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-01-31 01:40+0000\n"
+"POT-Creation-Date: 2020-02-01 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -606,12 +606,12 @@ msgstr ""
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr ""
 
-#: templates/footer.html:64 templates/navigation.html:110
+#: templates/footer.html:64 templates/navigation.html:116
 msgid "Downloads"
 msgstr ""
 
-#: templates/footer.html:65 templates/navigation.html:120
-#: templates/navigation.html:123
+#: templates/footer.html:65 templates/navigation.html:126
+#: templates/navigation.html:129
 msgid "Premium"
 msgstr ""
 
@@ -663,7 +663,7 @@ msgstr ""
 msgid "Go to Battlegrounds"
 msgstr ""
 
-#: templates/navigation.html:60 templates/navigation.html:87
+#: templates/navigation.html:60 templates/navigation.html:93
 msgid "Meta"
 msgstr ""
 
@@ -671,23 +671,27 @@ msgstr ""
 msgid "Guide"
 msgstr ""
 
-#: templates/navigation.html:73
+#: templates/navigation.html:72
+msgid "Heroes"
+msgstr ""
+
+#: templates/navigation.html:79
 msgid "Articles"
 msgstr ""
 
-#: templates/navigation.html:80
+#: templates/navigation.html:86
 msgid "Trending"
 msgstr ""
 
-#: templates/navigation.html:94
+#: templates/navigation.html:100
 msgid "Decks"
 msgstr ""
 
-#: templates/navigation.html:101
+#: templates/navigation.html:107
 msgid "Cards"
 msgstr ""
 
-#: templates/navigation.html:121
+#: templates/navigation.html:127
 msgid "SALE!"
 msgstr ""
 
@@ -884,6 +888,10 @@ msgstr ""
 
 #: web/views/battlegrounds.py:48
 msgid "Battlegrounds Guide"
+msgstr ""
+
+#: web/views/battlegrounds.py:60
+msgid "Battlegrounds Heroes"
 msgstr ""
 
 #: web/views/cards.py:25 web/views/cards.py:115
