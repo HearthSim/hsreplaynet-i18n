@@ -26,7 +26,7 @@ def main():
 		"Content-Transfer-Encoding": "8bit",
 	}
 
-	r = requests.get("https://api.hsreplay.net/v1/archetypes/")
+	r = requests.get("https://hsreplay.net/api/v1/archetypes/")
 	for archetype in r.json():
 		name = archetype.get("name", "")
 		url = archetype.get("url", "")
@@ -44,6 +44,26 @@ def main():
 			continue
 
 		po.append(entry)
+
+	r = requests.get("https://hsreplay.net/api/v1/compositions/")
+	for archetype in r.json():
+		name = archetype.get("name", "")
+		url = archetype.get("url", "")
+		if not name or not url:
+			continue
+
+		entry = POEntry(
+			msgid=name,
+			msgstr="",
+			occurrences=[("https://hsreplay.net" + url, "")]
+		)
+
+		if entry in po:
+			# duplicate
+			continue
+
+		po.append(entry)
+
 
 	po.save(out_path)
 	print(f"Written {out_path}")
