@@ -20,6 +20,13 @@ files:
         zh-CN: "zh_Hans"
         zh-TW: "zh_Hant"
 
+  - source: "/compositions/en/LC_MESSAGES/*.po"
+    translation: "/compositions/%locale_with_underscore%/LC_MESSAGES/%original_file_name%"
+    languages_mapping:
+      locale_with_underscore:
+        zh-CN: "zh_Hans"
+        zh-TW: "zh_Hant"
+
   - source: "/hsreplaynet/frontend/en/*.json"
     translation: "/hsreplaynet/frontend/%locale%/%original_file_name%"
     languages_mapping:
