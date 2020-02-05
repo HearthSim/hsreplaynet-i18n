@@ -8,7 +8,7 @@ from polib import POEntry, POFile
 
 def main():
 	out_dir = os.path.join(
-		os.path.dirname(__file__), "archetypes", "en", "LC_MESSAGES"
+		os.path.dirname(__file__), "compositions", "en", "LC_MESSAGES"
 	)
 	if not os.path.exists(out_dir):
 		os.makedirs(out_dir)
@@ -26,17 +26,15 @@ def main():
 		"Content-Transfer-Encoding": "8bit",
 	}
 
-	r = requests.get("https://hsreplay.net/api/v1/archetypes/")
-	for archetype in r.json():
-		name = archetype.get("name", "")
-		url = archetype.get("url", "")
-		if not name or not url:
+	r = requests.get("https://hsreplay.net/api/v1/compositions/")
+	for composition in r.json():
+		name = composition.get("name", "")
+		if not name:
 			continue
 
 		entry = POEntry(
 			msgid=name,
 			msgstr="",
-			occurrences=[("https://hsreplay.net" + url, "")]
 		)
 
 		if entry in po:
@@ -44,6 +42,7 @@ def main():
 			continue
 
 		po.append(entry)
+
 
 	po.save(out_path)
 	print(f"Written {out_path}")
