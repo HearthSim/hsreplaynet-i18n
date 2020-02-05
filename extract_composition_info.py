@@ -43,7 +43,6 @@ def main():
 
 		po.append(entry)
 
-
 	po.save(out_path)
 	print(f"Written {out_path}")
 
