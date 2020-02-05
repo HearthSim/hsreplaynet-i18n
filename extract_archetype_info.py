@@ -45,26 +45,6 @@ def main():
 
 		po.append(entry)
 
-	htd_r = requests.get("http://www.hearthstonetopdecks.com/wp-json/hsreplay/guides")
-	for archetype_desc in htd_r.json():
-		desc = archetype_desc.get("hsreplay_guide_snippet", "")
-		url = archetype_desc.get("url", "")
-
-		if not desc or not url:
-			continue
-
-		entry = POEntry(
-			msgid=desc,
-			msgstr="",
-			occurrences=[(url, "")]
-		)
-
-		if entry in po:
-			# upstream duplicate
-			continue
-
-		po.append(entry)
-
 	po.save(out_path)
 	print(f"Written {out_path}")
 
