@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-05 22:21+0000\n"
-"PO-Revision-Date: 2020-02-06 00:40\n"
+"POT-Creation-Date: 2020-02-06 01:40+0000\n"
+"PO-Revision-Date: 2020-02-06 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -250,7 +250,7 @@ msgstr "Webhooks für dich erstellen und löschen"
 
 #: templates/account/account_inactive.html:6
 msgid "Account inactive"
-msgstr "Account inaktiv"
+msgstr "Konto inaktiv"
 
 #: templates/account/account_inactive.html:9
 #, python-format
@@ -307,8 +307,8 @@ msgid "Active"
 msgstr "Aktiv"
 
 #: templates/account/base.html:15 web/views/dashboard.py:39
-msgid "Preferences"
-msgstr ""
+msgid "Account"
+msgstr "Konto"
 
 #: templates/account/base.html:16 web/views/allauth.py:16
 msgid "Emails"
@@ -362,7 +362,7 @@ msgstr "E-Mail-Adressen"
 
 #: templates/account/email.html:10
 msgid "The following email addresses are associated with your account:"
-msgstr "Die folgenden E-Mail-Adressen sind mit deinem Account verknüpft:"
+msgstr "Die folgenden E-Mail-Adressen sind mit deinem Konto verknüpft:"
 
 #: templates/account/email.html:18
 msgid "✔ Verified"

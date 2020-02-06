@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-05 22:21+0000\n"
-"PO-Revision-Date: 2020-02-06 00:40\n"
+"POT-Creation-Date: 2020-02-06 01:40+0000\n"
+"PO-Revision-Date: 2020-02-06 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -307,7 +307,7 @@ msgid "Active"
 msgstr "Aktywny"
 
 #: templates/account/base.html:15 web/views/dashboard.py:39
-msgid "Preferences"
+msgid "Account"
 msgstr ""
 
 #: templates/account/base.html:16 web/views/allauth.py:16
