@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-06 01:40+0000\n"
-"PO-Revision-Date: 2020-02-06 12:41\n"
+"POT-Creation-Date: 2020-02-06 20:52+0000\n"
+"PO-Revision-Date: 2020-02-07 00:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -23,30 +23,6 @@ msgstr "Вышестоящий шлюз вернул неверный ответ
 #, python-brace-format
 msgid "{input} is not a valid member of {enum}."
 msgstr "{input} не является допустимым членом {enum}."
-
-#: api/serializers/billing.py:23
-msgid "Failed"
-msgstr "Не прошло"
-
-#: api/serializers/billing.py:24
-msgid "Pending"
-msgstr "В обработке"
-
-#: api/serializers/billing.py:25
-msgid "Completed"
-msgstr "Завершен"
-
-#: api/serializers/billing.py:26
-msgid "Disputed"
-msgstr "Оспаривается"
-
-#: api/serializers/billing.py:27
-msgid "Refunded"
-msgstr "Возвращено"
-
-#: api/serializers/billing.py:28
-msgid "Partially refunded"
-msgstr "Частично возвращено"
 
 #: api/views/features.py:33
 msgid "Code has already been used."
@@ -808,32 +784,36 @@ msgstr "Этот Архетип больше не доступен."
 msgid "Find stats and different {name} decklists."
 msgstr "Просматривайте статистику и другие колоды архетипа {name}."
 
-#: web/views/battlegrounds.py:29 web/views/battlegrounds.py:31
+#: web/views/battlegrounds.py:31 web/views/battlegrounds.py:33
 msgid "Hearthstone Battlegrounds"
 msgstr "Поля сражений"
 
-#: web/views/battlegrounds.py:37
+#: web/views/battlegrounds.py:39
 msgid "Battlegrounds Meta"
 msgstr "Мета Полей сражений"
 
-#: web/views/battlegrounds.py:42
+#: web/views/battlegrounds.py:44
 msgid "Battlegrounds Guide - Introduction"
 msgstr "Руководство по Полям сражений — Введение"
 
-#: web/views/battlegrounds.py:49
+#: web/views/battlegrounds.py:51
 msgid "Battlegrounds Guide - Choose Hero"
 msgstr "Руководство по Полям сражений — Выбор героя"
 
-#: web/views/battlegrounds.py:54 web/views/battlegrounds.py:78
+#: web/views/battlegrounds.py:56 web/views/battlegrounds.py:80
 msgid "Battlegrounds Guide"
 msgstr "Руководство по Полям сражений"
 
-#: web/views/battlegrounds.py:71
+#: web/views/battlegrounds.py:73
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:91
+#: web/views/battlegrounds.py:93
 msgid "Battlegrounds Heroes"
+msgstr ""
+
+#: web/views/battlegrounds.py:102
+msgid "Battlegrounds Debug"
 msgstr ""
 
 #: web/views/cards.py:25 web/views/cards.py:115

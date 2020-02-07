@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-06 01:40+0000\n"
-"PO-Revision-Date: 2020-02-06 12:40\n"
+"POT-Creation-Date: 2020-02-06 20:52+0000\n"
+"PO-Revision-Date: 2020-02-07 00:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -23,30 +23,6 @@ msgstr ""
 #, python-brace-format
 msgid "{input} is not a valid member of {enum}."
 msgstr "{input} nie jest prawidłową wartością {enum}."
-
-#: api/serializers/billing.py:23
-msgid "Failed"
-msgstr "Niepowodzenie"
-
-#: api/serializers/billing.py:24
-msgid "Pending"
-msgstr "Oczekujące"
-
-#: api/serializers/billing.py:25
-msgid "Completed"
-msgstr "Zakończono"
-
-#: api/serializers/billing.py:26
-msgid "Disputed"
-msgstr "Zakwestionowane"
-
-#: api/serializers/billing.py:27
-msgid "Refunded"
-msgstr "Zwrócono"
-
-#: api/serializers/billing.py:28
-msgid "Partially refunded"
-msgstr "Częściowo zwrócono"
 
 #: api/views/features.py:33
 msgid "Code has already been used."
@@ -308,11 +284,11 @@ msgstr "Aktywny"
 
 #: templates/account/base.html:15 web/views/dashboard.py:39
 msgid "Account"
-msgstr ""
+msgstr "Konto"
 
 #: templates/account/base.html:16 web/views/allauth.py:16
 msgid "Emails"
-msgstr ""
+msgstr "Emaile"
 
 #: templates/account/base.html:17
 msgid "Billing"
@@ -594,7 +570,7 @@ msgstr "Centrum Pomocy"
 
 #: templates/footer.html:75
 msgid "Contact Us"
-msgstr ""
+msgstr "Skontaktuj się z nami"
 
 #: templates/footer.html:80
 msgid "Legal"
@@ -634,11 +610,11 @@ msgstr "Meta"
 
 #: templates/navigation.html:66
 msgid "Guide"
-msgstr ""
+msgstr "Poradnik"
 
 #: templates/navigation.html:72
 msgid "Heroes"
-msgstr ""
+msgstr "Bohaterowie"
 
 #: templates/navigation.html:79
 msgid "Articles"
@@ -808,32 +784,36 @@ msgstr "Ten archetyp nie jest już dostępny."
 msgid "Find stats and different {name} decklists."
 msgstr "Znajdź statystyki i inne {name} listy talii."
 
-#: web/views/battlegrounds.py:29 web/views/battlegrounds.py:31
+#: web/views/battlegrounds.py:31 web/views/battlegrounds.py:33
 msgid "Hearthstone Battlegrounds"
-msgstr ""
+msgstr "Ustawki Hearthstone"
 
-#: web/views/battlegrounds.py:37
+#: web/views/battlegrounds.py:39
 msgid "Battlegrounds Meta"
-msgstr ""
+msgstr "Meta Ustawek"
 
-#: web/views/battlegrounds.py:42
+#: web/views/battlegrounds.py:44
 msgid "Battlegrounds Guide - Introduction"
-msgstr ""
+msgstr "Poradnik Ustawek - Wprowadzenie"
 
-#: web/views/battlegrounds.py:49
+#: web/views/battlegrounds.py:51
 msgid "Battlegrounds Guide - Choose Hero"
-msgstr ""
+msgstr "Poradnik Ustawek - Wybór Bohatera"
 
-#: web/views/battlegrounds.py:54 web/views/battlegrounds.py:78
+#: web/views/battlegrounds.py:56 web/views/battlegrounds.py:80
 msgid "Battlegrounds Guide"
-msgstr ""
+msgstr "Poradnik Ustawek"
 
-#: web/views/battlegrounds.py:71
+#: web/views/battlegrounds.py:73
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:91
+#: web/views/battlegrounds.py:93
 msgid "Battlegrounds Heroes"
+msgstr "Bohaterowie Ustawek"
+
+#: web/views/battlegrounds.py:102
+msgid "Battlegrounds Debug"
 msgstr ""
 
 #: web/views/cards.py:25 web/views/cards.py:115
