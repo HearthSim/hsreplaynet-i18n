@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-06 20:52+0000\n"
-"PO-Revision-Date: 2020-02-07 00:40\n"
+"POT-Creation-Date: 2020-02-07 01:41+0000\n"
+"PO-Revision-Date: 2020-02-07 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -18,6 +18,14 @@ msgstr ""
 #: api/exceptions.py:8
 msgid "An upstream gateway returned an invalid response."
 msgstr "Вышестоящий шлюз вернул неверный ответ."
+
+#: api/exceptions.py:14
+msgid "The entity cannot be processed."
+msgstr ""
+
+#: api/exceptions.py:20
+msgid "A resource is not in the expected state."
+msgstr ""
 
 #: api/fields.py:9
 #, python-brace-format
@@ -547,12 +555,12 @@ msgstr "Мы в Instagram"
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Не связан с Blizzard Entertainment."
 
-#: templates/footer.html:64 templates/navigation.html:116
+#: templates/footer.html:64 templates/navigation.html:104
 msgid "Downloads"
 msgstr "Скачать"
 
-#: templates/footer.html:65 templates/navigation.html:126
-#: templates/navigation.html:129
+#: templates/footer.html:65 templates/navigation.html:114
+#: templates/navigation.html:117
 msgid "Premium"
 msgstr "Премиум"
 
@@ -604,35 +612,31 @@ msgstr "Классика"
 msgid "Go to Battlegrounds"
 msgstr "Поля сражений"
 
-#: templates/navigation.html:60 templates/navigation.html:93
-msgid "Meta"
-msgstr "Мета"
-
-#: templates/navigation.html:66
-msgid "Guide"
-msgstr "Руководство"
-
-#: templates/navigation.html:72
+#: templates/navigation.html:60
 msgid "Heroes"
 msgstr ""
 
-#: templates/navigation.html:79
+#: templates/navigation.html:67
 msgid "Articles"
 msgstr "Статьи"
 
-#: templates/navigation.html:86
+#: templates/navigation.html:74
 msgid "Trending"
 msgstr "Популярное"
 
-#: templates/navigation.html:100
+#: templates/navigation.html:81
+msgid "Meta"
+msgstr "Мета"
+
+#: templates/navigation.html:88
 msgid "Decks"
 msgstr "Колоды"
 
-#: templates/navigation.html:107
+#: templates/navigation.html:95
 msgid "Cards"
 msgstr "Карты"
 
-#: templates/navigation.html:127
+#: templates/navigation.html:115
 msgid "SALE!"
 msgstr "Распродажа!"
 
@@ -743,15 +747,15 @@ msgstr "Смотри и делись повторами своих игр в Hea
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net — раскрой свой потенциал"
 
-#: web/views/__init__.py:153
+#: web/views/__init__.py:156
 msgid "Download Hearthstone Deck Tracker"
 msgstr "Скачать Hearthstone Deck Tracker"
 
-#: web/views/__init__.py:155
+#: web/views/__init__.py:158
 msgid "HSReplay.net Companion App"
 msgstr "Приложение для синхронизации с HSReplay.net"
 
-#: web/views/__init__.py:157
+#: web/views/__init__.py:160
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "Hearthstone Deck Tracker — бесплатное приложение, которое поднимет уровень вашей игры."
 
