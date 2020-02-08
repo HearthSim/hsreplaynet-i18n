@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-07 01:41+0000\n"
-"PO-Revision-Date: 2020-02-07 12:40\n"
+"POT-Creation-Date: 2020-02-08 01:40+0000\n"
+"PO-Revision-Date: 2020-02-08 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -788,35 +788,35 @@ msgstr "Ten archetyp nie jest już dostępny."
 msgid "Find stats and different {name} decklists."
 msgstr "Znajdź statystyki i inne {name} listy talii."
 
-#: web/views/battlegrounds.py:31 web/views/battlegrounds.py:33
+#: web/views/battlegrounds.py:32 web/views/battlegrounds.py:34
 msgid "Hearthstone Battlegrounds"
 msgstr "Ustawki Hearthstone"
 
-#: web/views/battlegrounds.py:39
+#: web/views/battlegrounds.py:43
 msgid "Battlegrounds Meta"
 msgstr "Meta Ustawek"
 
-#: web/views/battlegrounds.py:44
+#: web/views/battlegrounds.py:48
 msgid "Battlegrounds Guide - Introduction"
 msgstr "Poradnik Ustawek - Wprowadzenie"
 
-#: web/views/battlegrounds.py:51
+#: web/views/battlegrounds.py:55
 msgid "Battlegrounds Guide - Choose Hero"
 msgstr "Poradnik Ustawek - Wybór Bohatera"
 
-#: web/views/battlegrounds.py:56 web/views/battlegrounds.py:80
+#: web/views/battlegrounds.py:60 web/views/battlegrounds.py:84
 msgid "Battlegrounds Guide"
 msgstr "Poradnik Ustawek"
 
-#: web/views/battlegrounds.py:73
+#: web/views/battlegrounds.py:77
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:93
+#: web/views/battlegrounds.py:97
 msgid "Battlegrounds Heroes"
 msgstr "Bohaterowie Ustawek"
 
-#: web/views/battlegrounds.py:102
+#: web/views/battlegrounds.py:106
 msgid "Battlegrounds Debug"
 msgstr ""
 
