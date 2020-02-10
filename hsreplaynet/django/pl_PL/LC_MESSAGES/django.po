@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-02-08 01:40+0000\n"
-"PO-Revision-Date: 2020-02-09 12:40\n"
+"PO-Revision-Date: 2020-02-10 00:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -17,15 +17,15 @@ msgstr ""
 
 #: api/exceptions.py:8
 msgid "An upstream gateway returned an invalid response."
-msgstr ""
+msgstr "Brama strumieniowania zwróciła nieprawidłową odpowiedź."
 
 #: api/exceptions.py:14
 msgid "The entity cannot be processed."
-msgstr ""
+msgstr "Jednostka nie może zostać przetworzona."
 
 #: api/exceptions.py:20
 msgid "A resource is not in the expected state."
-msgstr ""
+msgstr "Zasób nie jest w oczekiwanym stanie."
 
 #: api/fields.py:9
 #, python-brace-format
@@ -304,11 +304,11 @@ msgstr "Płatności"
 
 #: templates/account/base.html:18 web/views/allauth.py:12
 msgid "Connections"
-msgstr ""
+msgstr "Połączenia"
 
 #: templates/account/base.html:19 web/views/dashboard.py:336
 msgid "Applications"
-msgstr ""
+msgstr "Aplikacje"
 
 #: templates/account/base.html:23 templates/account/login.html:69
 #: templates/account/signup.html:33
@@ -553,7 +553,7 @@ msgstr "Śledź nas na Instagramie"
 
 #: templates/footer.html:56
 msgid "Not affiliated with Blizzard Entertainment."
-msgstr ""
+msgstr "Ta strona nie jest powiązana z Blizzard Entertainment."
 
 #: templates/footer.html:64 templates/navigation.html:104
 msgid "Downloads"
@@ -606,11 +606,11 @@ msgstr "Schowaj/pokaż nawigację"
 
 #: templates/navigation.html:35
 msgid "Go to Classic"
-msgstr ""
+msgstr "Przejdź do Klasycznego"
 
 #: templates/navigation.html:49
 msgid "Go to Battlegrounds"
-msgstr ""
+msgstr "Przejdź do Ustawek"
 
 #: templates/navigation.html:60
 msgid "Heroes"
@@ -810,7 +810,7 @@ msgstr "Poradnik Ustawek"
 
 #: web/views/battlegrounds.py:77
 msgid "No matching hero found."
-msgstr ""
+msgstr "Nie znaleziono pasującego bohatera."
 
 #: web/views/battlegrounds.py:97
 msgid "Battlegrounds Heroes"
@@ -818,7 +818,7 @@ msgstr "Bohaterowie Ustawek"
 
 #: web/views/battlegrounds.py:106
 msgid "Battlegrounds Debug"
-msgstr ""
+msgstr "Debugowanie Ustawki"
 
 #: web/views/cards.py:25 web/views/cards.py:115
 msgid "Hearthstone Card Statistics"
@@ -895,7 +895,7 @@ msgstr "Zaktualizuj webhook"
 
 #: web/views/dashboard.py:383
 msgid "Your Application"
-msgstr ""
+msgstr "Twoja Aplikacja"
 
 #: web/views/decks.py:20
 msgid "Hearthstone Decks"
