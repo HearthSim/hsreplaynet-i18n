@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-13 01:40+0000\n"
-"PO-Revision-Date: 2020-02-13 12:40\n"
+"POT-Creation-Date: 2020-02-14 01:40+0000\n"
+"PO-Revision-Date: 2020-02-14 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -577,12 +577,12 @@ msgid "Toggle navigation"
 msgstr "Вкл/выкл навигацию"
 
 #: templates/navigation.html:35
-msgid "Go to Classic"
-msgstr "Классика"
+msgid "Classic"
+msgstr ""
 
 #: templates/navigation.html:49
-msgid "Go to Battlegrounds"
-msgstr "Поля сражений"
+msgid "Battlegrounds"
+msgstr ""
 
 #: templates/navigation.html:60
 msgid "Heroes"
