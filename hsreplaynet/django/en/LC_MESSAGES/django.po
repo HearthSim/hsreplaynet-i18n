@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-16 01:40+0000\n"
+"POT-Creation-Date: 2020-02-17 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -566,8 +566,8 @@ msgstr ""
 msgid "Downloads"
 msgstr ""
 
-#: templates/footer.html:65 templates/navigation.html:112
-#: templates/navigation.html:122 templates/navigation.html:125
+#: templates/footer.html:65 templates/navigation.html:122
+#: templates/navigation.html:125
 msgid "Premium"
 msgstr ""
 
@@ -641,6 +641,10 @@ msgstr ""
 
 #: templates/navigation.html:95
 msgid "Cards"
+msgstr ""
+
+#: templates/navigation.html:112
+msgid "Subscribe"
 msgstr ""
 
 #: templates/navigation.html:123
