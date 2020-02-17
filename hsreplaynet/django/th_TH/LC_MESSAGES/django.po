@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-14 01:40+0000\n"
-"PO-Revision-Date: 2020-02-15 12:40\n"
+"POT-Creation-Date: 2020-02-17 01:40+0000\n"
+"PO-Revision-Date: 2020-02-17 12:41\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -525,8 +525,8 @@ msgstr ""
 msgid "Downloads"
 msgstr ""
 
-#: templates/footer.html:65 templates/navigation.html:112
-#: templates/navigation.html:122 templates/navigation.html:125
+#: templates/footer.html:65 templates/navigation.html:122
+#: templates/navigation.html:125
 msgid "Premium"
 msgstr ""
 
@@ -600,6 +600,10 @@ msgstr ""
 
 #: templates/navigation.html:95
 msgid "Cards"
+msgstr ""
+
+#: templates/navigation.html:112
+msgid "Subscribe"
 msgstr ""
 
 #: templates/navigation.html:123
