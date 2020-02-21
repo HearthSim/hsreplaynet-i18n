@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-19 01:41+0000\n"
-"PO-Revision-Date: 2020-02-20 12:40\n"
+"POT-Creation-Date: 2020-02-21 01:40+0000\n"
+"PO-Revision-Date: 2020-02-21 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -526,12 +526,12 @@ msgstr "Folge uns auf Instagram"
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Nicht mit Blizzard Entertainment assoziiert."
 
-#: templates/footer.html:64 templates/navigation.html:104
+#: templates/footer.html:64 templates/navigation.html:110
 msgid "Downloads"
 msgstr "Downloads"
 
-#: templates/footer.html:65 templates/navigation.html:122
-#: templates/navigation.html:125
+#: templates/footer.html:65 templates/navigation.html:128
+#: templates/navigation.html:131
 msgid "Premium"
 msgstr "Premium"
 
@@ -587,31 +587,35 @@ msgstr ""
 msgid "Heroes"
 msgstr "Helden"
 
-#: templates/navigation.html:67
+#: templates/navigation.html:66
+msgid "Compositions"
+msgstr ""
+
+#: templates/navigation.html:73
 msgid "Articles"
 msgstr "Artikel"
 
-#: templates/navigation.html:74
+#: templates/navigation.html:80
 msgid "Trending"
 msgstr "Im Trend"
 
-#: templates/navigation.html:81
+#: templates/navigation.html:87
 msgid "Meta"
 msgstr "Meta"
 
-#: templates/navigation.html:88
+#: templates/navigation.html:94
 msgid "Decks"
 msgstr "Decks"
 
-#: templates/navigation.html:95
+#: templates/navigation.html:101
 msgid "Cards"
 msgstr "Karten"
 
-#: templates/navigation.html:112
+#: templates/navigation.html:118
 msgid "Subscribe"
 msgstr ""
 
-#: templates/navigation.html:123
+#: templates/navigation.html:129
 msgid "SALE!"
 msgstr ""
 
@@ -791,8 +795,24 @@ msgstr ""
 msgid "Battlegrounds Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:106
+#: web/views/battlegrounds.py:102
+msgid "Battlegrounds Minions"
+msgstr ""
+
+#: web/views/battlegrounds.py:107 web/views/battlegrounds.py:131
+msgid "Battlegrounds Minion"
+msgstr ""
+
+#: web/views/battlegrounds.py:124
+msgid "No matching minion found."
+msgstr ""
+
+#: web/views/battlegrounds.py:148
 msgid "Battlegrounds Debug"
+msgstr ""
+
+#: web/views/battlegrounds.py:153
+msgid "Battlegrounds Compositions"
 msgstr ""
 
 #: web/views/cards.py:25 web/views/cards.py:115
