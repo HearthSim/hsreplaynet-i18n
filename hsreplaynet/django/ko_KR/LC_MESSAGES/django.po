@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-21 01:40+0000\n"
-"PO-Revision-Date: 2020-02-21 12:40\n"
+"POT-Creation-Date: 2020-02-22 01:40+0000\n"
+"PO-Revision-Date: 2020-02-22 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -527,12 +527,12 @@ msgstr ""
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr ""
 
-#: templates/footer.html:64 templates/navigation.html:110
+#: templates/footer.html:64 templates/navigation.html:116
 msgid "Downloads"
 msgstr "다운로드"
 
-#: templates/footer.html:65 templates/navigation.html:128
-#: templates/navigation.html:131
+#: templates/footer.html:65 templates/navigation.html:134
+#: templates/navigation.html:137
 msgid "Premium"
 msgstr "프리미엄"
 
@@ -592,31 +592,35 @@ msgstr ""
 msgid "Compositions"
 msgstr ""
 
-#: templates/navigation.html:73
+#: templates/navigation.html:72
+msgid "Minions"
+msgstr ""
+
+#: templates/navigation.html:79
 msgid "Articles"
 msgstr "최근소식"
 
-#: templates/navigation.html:80
+#: templates/navigation.html:86
 msgid "Trending"
 msgstr "떠오르는 덱"
 
-#: templates/navigation.html:87
+#: templates/navigation.html:93
 msgid "Meta"
 msgstr "최신유행"
 
-#: templates/navigation.html:94
+#: templates/navigation.html:100
 msgid "Decks"
 msgstr "덱"
 
-#: templates/navigation.html:101
+#: templates/navigation.html:107
 msgid "Cards"
 msgstr "카드목록"
 
-#: templates/navigation.html:118
+#: templates/navigation.html:124
 msgid "Subscribe"
 msgstr ""
 
-#: templates/navigation.html:129
+#: templates/navigation.html:135
 msgid "SALE!"
 msgstr ""
 
@@ -814,6 +818,10 @@ msgstr ""
 
 #: web/views/battlegrounds.py:153
 msgid "Battlegrounds Compositions"
+msgstr ""
+
+#: web/views/battlegrounds.py:158
+msgid "Battlegrounds Composition"
 msgstr ""
 
 #: web/views/cards.py:25 web/views/cards.py:115
