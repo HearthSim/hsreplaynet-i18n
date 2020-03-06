@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-26 19:46+0000\n"
-"PO-Revision-Date: 2020-03-05 00:40\n"
+"POT-Creation-Date: 2020-03-06 01:40+0000\n"
+"PO-Revision-Date: 2020-03-06 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -25,6 +25,10 @@ msgstr ""
 
 #: api/exceptions.py:20
 msgid "A resource is not in the expected state."
+msgstr ""
+
+#: api/exceptions.py:26
+msgid "The card has been rejected."
 msgstr ""
 
 #: api/fields.py:9
@@ -784,7 +788,7 @@ msgid "Battlegrounds Guide - Choose Hero"
 msgstr ""
 
 #: web/views/battlegrounds.py:60 web/views/battlegrounds.py:84
-msgid "Battlegrounds Guide"
+msgid "Battlegrounds Hero"
 msgstr ""
 
 #: web/views/battlegrounds.py:77
