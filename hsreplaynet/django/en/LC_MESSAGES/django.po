@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-07 01:40+0000\n"
+"POT-Creation-Date: 2020-03-08 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -784,26 +784,26 @@ msgid ""
 "existing account. We can merge accounts for you!"
 msgstr ""
 
-#: web/views/__init__.py:21
+#: web/views/__init__.py:18
 msgid ""
 "Watch and share Hearthstone replays directly from your web browser. Explore "
 "advanced statistics about decks and cards based on millions of games per "
 "week."
 msgstr ""
 
-#: web/views/__init__.py:44
+#: web/views/__init__.py:41
 msgid "HSReplay.net - Unleash your potential"
 msgstr ""
 
-#: web/views/__init__.py:156 web/views/__init__.py:180
+#: web/views/__init__.py:138 web/views/battlegrounds.py:36
 msgid "Download Hearthstone Deck Tracker"
 msgstr ""
 
-#: web/views/__init__.py:158 web/views/__init__.py:182
+#: web/views/__init__.py:140 web/views/battlegrounds.py:38
 msgid "HSReplay.net Companion App"
 msgstr ""
 
-#: web/views/__init__.py:160 web/views/__init__.py:184
+#: web/views/__init__.py:142 web/views/battlegrounds.py:40
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr ""
 
@@ -839,55 +839,47 @@ msgstr ""
 msgid "Find stats and different {name} decklists."
 msgstr ""
 
-#: web/views/battlegrounds.py:32 web/views/battlegrounds.py:34
-msgid "Hearthstone Battlegrounds"
-msgstr ""
-
-#: web/views/battlegrounds.py:43
-msgid "Battlegrounds Meta"
-msgstr ""
-
-#: web/views/battlegrounds.py:48
+#: web/views/battlegrounds.py:55
 msgid "Battlegrounds Guide - Premium"
 msgstr ""
 
-#: web/views/battlegrounds.py:55
+#: web/views/battlegrounds.py:60
 msgid "Battlegrounds Guide - Choose Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:60 web/views/battlegrounds.py:84
+#: web/views/battlegrounds.py:65 web/views/battlegrounds.py:95
 msgid "Battlegrounds Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:77
+#: web/views/battlegrounds.py:82
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:97
+#: web/views/battlegrounds.py:117
 msgid "Battlegrounds Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:102
+#: web/views/battlegrounds.py:122
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:107 web/views/battlegrounds.py:131
+#: web/views/battlegrounds.py:127 web/views/battlegrounds.py:157
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:124
+#: web/views/battlegrounds.py:144
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:148
+#: web/views/battlegrounds.py:183
 msgid "Battlegrounds Debug"
 msgstr ""
 
-#: web/views/battlegrounds.py:153
+#: web/views/battlegrounds.py:188
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:158
+#: web/views/battlegrounds.py:193
 msgid "Battlegrounds Composition"
 msgstr ""
 
