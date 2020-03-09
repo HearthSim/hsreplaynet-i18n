@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-08 01:40+0000\n"
-"PO-Revision-Date: 2020-03-08 12:40\n"
+"POT-Creation-Date: 2020-03-09 01:40+0000\n"
+"PO-Revision-Date: 2020-03-09 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -60,107 +60,107 @@ msgstr "コードがアカウントに影響せず有効なままです。"
 msgid "Code has been applied to your account."
 msgstr "コードが適用されています。"
 
-#: billing/views.py:171
+#: billing/views.py:173
 msgid "Error adding payment card"
 msgstr "支払いカードの追加エラー"
 
-#: billing/views.py:175
+#: billing/views.py:177
 msgid "Your card was declined. Please use a different card."
 msgstr "あなたのカードは拒否されました。別のカードを使用してください。"
 
-#: billing/views.py:191
+#: billing/views.py:193
 msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
 msgstr "このメールアドレスは別のアカウントに紐づいています。アカウントを統一したい場合はお問い合わせください！"
 
-#: billing/views.py:219
+#: billing/views.py:221
 msgid "You have multiple subscriptions. Please contact us."
 msgstr "複数のサブスクリプションがあります。お問い合わせください。"
 
-#: billing/views.py:233
+#: billing/views.py:235
 msgid "Your subscription has expired."
 msgstr "サブスクリプションの有効期限が切れています。"
 
-#: billing/views.py:239
+#: billing/views.py:241
 msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
 msgstr "定期購入がまだ有効になっています。課金に関する問題につきましてはご連絡ください！"
 
-#: billing/views.py:243
+#: billing/views.py:245
 msgid "You are already subscribed!"
 msgstr "サブスクライブ済みです！"
 
-#: billing/views.py:249 billing/views.py:391 billing/views.py:458
+#: billing/views.py:251 billing/views.py:393 billing/views.py:460
 msgid "You already have an active or a pending subscription."
 msgstr "定期購入はすでに有効になっているか、課金が完了しています。"
 
-#: billing/views.py:292
+#: billing/views.py:294
 msgid "Could not process subscription."
 msgstr "定期購入をキャンセルできませんでした。"
 
-#: billing/views.py:309
+#: billing/views.py:311
 msgid "Your card declined the charge. Please contact your bank for information."
 msgstr "カードの支払いが拒否されました。お使いの銀行にお問い合わせください。"
 
-#: billing/views.py:311
+#: billing/views.py:313
 msgid "Your card does not support payments in USD. Please try a different card."
 msgstr "あなたのカードは米ドルでの支払いをサポートしていません。別のカードをお試しください。"
 
-#: billing/views.py:313
+#: billing/views.py:315
 msgid "Your card has exceeded its credit limit. Please use a different one."
 msgstr "お使いのカードは限度額を超えています。別のカードを使用してください。"
 
-#: billing/views.py:315
+#: billing/views.py:317
 msgid "Your card has insufficient funds to proceed."
 msgstr "あなたのカードは残高不足のため、続行できません。"
 
-#: billing/views.py:319
+#: billing/views.py:321
 msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
 msgstr "お使いのカードは拒否されました。支払いはまだ完了していません。別のカードをお試しの上、問題がある場合は我々にご連絡ください。"
 
-#: billing/views.py:350
+#: billing/views.py:352
 msgid "You are now subscribed!"
 msgstr "サブスクライブしました！"
 
-#: billing/views.py:359
+#: billing/views.py:361
 msgid " Please contact us if you are seeing this in error."
 msgstr " このエラーが表示された時はご連絡ください。"
 
-#: billing/views.py:380
+#: billing/views.py:382
 msgid "Unable to complete subscription."
 msgstr "サブスクリプションを完了できません。"
 
-#: billing/views.py:385
+#: billing/views.py:387
 msgid "Invalid subscription token."
 msgstr "無効なサブスクリプショントークンです。"
 
-#: billing/views.py:388
+#: billing/views.py:390
 msgid "You are not logged in as the correct user."
 msgstr "正しいユーザーとしてログインしていません。"
 
-#: billing/views.py:410
+#: billing/views.py:412
 msgid "Subscription was cancelled by PayPal."
 msgstr "サブスクリプションはPayPalによってキャンセルされました。"
 
-#: billing/views.py:418
+#: billing/views.py:420
 msgid "You are now subscribed with PayPal!"
 msgstr "PayPalでサブスクライブしました！"
 
-#: billing/views.py:439
+#: billing/views.py:441
 msgid "Invalid token while cancelling payment."
 msgstr ""
 
-#: billing/views.py:444
+#: billing/views.py:446
 msgid "Payment has already completed and cannot be cancelled."
 msgstr ""
 
-#: billing/views.py:448
+#: billing/views.py:450
 msgid "Your payment was interrupted."
 msgstr "支払いが中断されました。"
 
-#: billing/views.py:462
+#: billing/views.py:464
 msgid "Could not determine your plan."
 msgstr ""
 
-#: billing/views.py:467
+#: billing/views.py:469
 msgid "Invalid Paypal plan."
 msgstr ""
 
