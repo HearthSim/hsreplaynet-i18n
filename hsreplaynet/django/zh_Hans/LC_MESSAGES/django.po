@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-09 01:40+0000\n"
-"PO-Revision-Date: 2020-03-11 00:40\n"
+"POT-Creation-Date: 2020-03-11 01:40+0000\n"
+"PO-Revision-Date: 2020-03-11 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -531,13 +531,12 @@ msgstr "在Instagram上关注我们"
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "与暴雪娱乐没有从属关系。"
 
-#: templates/footer.html:64 templates/navigation.html:78
-#: templates/navigation.html:139
+#: templates/footer.html:64 templates/navigation.html:147
 msgid "Downloads"
 msgstr "下载"
 
-#: templates/footer.html:65 templates/navigation.html:128
-#: templates/navigation.html:131
+#: templates/footer.html:65 templates/navigation.html:136
+#: templates/navigation.html:139
 msgid "Premium"
 msgstr "充值会员"
 
@@ -589,43 +588,43 @@ msgstr ""
 msgid "Battlegrounds"
 msgstr ""
 
-#: templates/navigation.html:60
+#: templates/navigation.html:64
 msgid "Heroes"
 msgstr ""
 
-#: templates/navigation.html:66
-msgid "Compositions"
-msgstr ""
-
-#: templates/navigation.html:72
+#: templates/navigation.html:74
 msgid "Minions"
 msgstr ""
 
 #: templates/navigation.html:84
-msgid "Subscribe"
+msgid "Compositions"
 msgstr ""
 
-#: templates/navigation.html:92
+#: templates/navigation.html:91
+msgid "Field Pass"
+msgstr ""
+
+#: templates/navigation.html:99
 msgid "Articles"
 msgstr "文章"
 
-#: templates/navigation.html:99
+#: templates/navigation.html:106
 msgid "Trending"
 msgstr "趋势"
 
-#: templates/navigation.html:106
+#: templates/navigation.html:113
 msgid "Meta"
 msgstr "环境"
 
-#: templates/navigation.html:113
+#: templates/navigation.html:120
 msgid "Decks"
 msgstr "套牌"
 
-#: templates/navigation.html:120
+#: templates/navigation.html:127
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:129
+#: templates/navigation.html:137
 msgid "SALE!"
 msgstr "实惠！"
 
@@ -778,7 +777,7 @@ msgid "Find stats and different {name} decklists."
 msgstr "查找统计信息和不同的 {name} 套牌。"
 
 #: web/views/battlegrounds.py:55
-msgid "Battlegrounds Guide - Premium"
+msgid "Battlegrounds Field Pass"
 msgstr ""
 
 #: web/views/battlegrounds.py:60
