@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-11 01:40+0000\n"
-"PO-Revision-Date: 2020-03-12 12:40\n"
+"POT-Creation-Date: 2020-03-13 01:40+0000\n"
+"PO-Revision-Date: 2020-03-13 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -529,14 +529,14 @@ msgstr "在Instagram上关注我们"
 
 #: templates/footer.html:56
 msgid "Not affiliated with Blizzard Entertainment."
-msgstr "与暴雪娱乐没有从属关系。"
+msgstr "与Blizzard Entertainment没有从属关系。"
 
-#: templates/footer.html:64 templates/navigation.html:147
+#: templates/footer.html:64 templates/navigation.html:150
 msgid "Downloads"
 msgstr "下载"
 
-#: templates/footer.html:65 templates/navigation.html:136
-#: templates/navigation.html:139
+#: templates/footer.html:65 templates/navigation.html:139
+#: templates/navigation.html:142
 msgid "Premium"
 msgstr "充值会员"
 
@@ -600,31 +600,31 @@ msgstr ""
 msgid "Compositions"
 msgstr ""
 
-#: templates/navigation.html:91
+#: templates/navigation.html:93
 msgid "Field Pass"
 msgstr ""
 
-#: templates/navigation.html:99
+#: templates/navigation.html:102
 msgid "Articles"
 msgstr "文章"
 
-#: templates/navigation.html:106
+#: templates/navigation.html:109
 msgid "Trending"
 msgstr "趋势"
 
-#: templates/navigation.html:113
+#: templates/navigation.html:116
 msgid "Meta"
 msgstr "环境"
 
-#: templates/navigation.html:120
+#: templates/navigation.html:123
 msgid "Decks"
 msgstr "套牌"
 
-#: templates/navigation.html:127
+#: templates/navigation.html:130
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:137
+#: templates/navigation.html:140
 msgid "SALE!"
 msgstr "实惠！"
 
@@ -735,15 +735,15 @@ msgstr "从浏览器中直接观看、分享你的炉石回放。探索套牌、
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - 释放你的潜能"
 
-#: web/views/__init__.py:138 web/views/battlegrounds.py:36
+#: web/views/__init__.py:138 web/views/battlegrounds.py:44
 msgid "Download Hearthstone Deck Tracker"
 msgstr "下载HDT记牌器"
 
-#: web/views/__init__.py:140 web/views/battlegrounds.py:38
+#: web/views/__init__.py:140 web/views/battlegrounds.py:46
 msgid "HSReplay.net Companion App"
 msgstr "HSReplay.net随身应用程序"
 
-#: web/views/__init__.py:142 web/views/battlegrounds.py:40
+#: web/views/__init__.py:142 web/views/battlegrounds.py:48
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "HDT记牌器是一款免费的应用，可以帮助您拥有职业选手游戏发挥。"
 
@@ -776,47 +776,47 @@ msgstr "此卡组已不再可用。"
 msgid "Find stats and different {name} decklists."
 msgstr "查找统计信息和不同的 {name} 套牌。"
 
-#: web/views/battlegrounds.py:55
+#: web/views/battlegrounds.py:67
 msgid "Battlegrounds Field Pass"
 msgstr ""
 
-#: web/views/battlegrounds.py:60
+#: web/views/battlegrounds.py:72
 msgid "Battlegrounds Guide - Choose Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:65 web/views/battlegrounds.py:95
+#: web/views/battlegrounds.py:77 web/views/battlegrounds.py:107
 msgid "Battlegrounds Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:82
+#: web/views/battlegrounds.py:94
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:117
+#: web/views/battlegrounds.py:129
 msgid "Battlegrounds Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:122
+#: web/views/battlegrounds.py:134
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:127 web/views/battlegrounds.py:157
+#: web/views/battlegrounds.py:139 web/views/battlegrounds.py:169
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:144
+#: web/views/battlegrounds.py:156
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:183
+#: web/views/battlegrounds.py:195
 msgid "Battlegrounds Debug"
 msgstr ""
 
-#: web/views/battlegrounds.py:188
+#: web/views/battlegrounds.py:200
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:193
+#: web/views/battlegrounds.py:205
 msgid "Battlegrounds Composition"
 msgstr ""
 
