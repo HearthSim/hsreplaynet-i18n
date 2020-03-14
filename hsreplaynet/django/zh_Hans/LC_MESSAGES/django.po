@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-13 01:40+0000\n"
-"PO-Revision-Date: 2020-03-13 12:40\n"
+"POT-Creation-Date: 2020-03-13 21:48+0000\n"
+"PO-Revision-Date: 2020-03-14 00:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -735,15 +735,15 @@ msgstr "从浏览器中直接观看、分享你的炉石回放。探索套牌、
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - 释放你的潜能"
 
-#: web/views/__init__.py:138 web/views/battlegrounds.py:44
+#: web/views/__init__.py:138 web/views/battlegrounds.py:50
 msgid "Download Hearthstone Deck Tracker"
 msgstr "下载HDT记牌器"
 
-#: web/views/__init__.py:140 web/views/battlegrounds.py:46
+#: web/views/__init__.py:140 web/views/battlegrounds.py:52
 msgid "HSReplay.net Companion App"
 msgstr "HSReplay.net随身应用程序"
 
-#: web/views/__init__.py:142 web/views/battlegrounds.py:48
+#: web/views/__init__.py:142 web/views/battlegrounds.py:54
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "HDT记牌器是一款免费的应用，可以帮助您拥有职业选手游戏发挥。"
 
@@ -776,47 +776,47 @@ msgstr "此卡组已不再可用。"
 msgid "Find stats and different {name} decklists."
 msgstr "查找统计信息和不同的 {name} 套牌。"
 
-#: web/views/battlegrounds.py:67
+#: web/views/battlegrounds.py:73
 msgid "Battlegrounds Field Pass"
 msgstr ""
 
-#: web/views/battlegrounds.py:72
+#: web/views/battlegrounds.py:78
 msgid "Battlegrounds Guide - Choose Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:77 web/views/battlegrounds.py:107
+#: web/views/battlegrounds.py:83 web/views/battlegrounds.py:113
 msgid "Battlegrounds Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:94
+#: web/views/battlegrounds.py:100
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:129
+#: web/views/battlegrounds.py:135
 msgid "Battlegrounds Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:134
+#: web/views/battlegrounds.py:140
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:139 web/views/battlegrounds.py:169
+#: web/views/battlegrounds.py:145 web/views/battlegrounds.py:175
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:156
+#: web/views/battlegrounds.py:162
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:195
+#: web/views/battlegrounds.py:201
 msgid "Battlegrounds Debug"
 msgstr ""
 
-#: web/views/battlegrounds.py:200
+#: web/views/battlegrounds.py:206
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:205
+#: web/views/battlegrounds.py:211
 msgid "Battlegrounds Composition"
 msgstr ""
 
