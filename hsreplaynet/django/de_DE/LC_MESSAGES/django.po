@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-14 20:31+0000\n"
-"PO-Revision-Date: 2020-03-15 00:40\n"
+"PO-Revision-Date: 2020-03-15 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -25,7 +25,7 @@ msgstr ""
 
 #: api/exceptions.py:20
 msgid "A resource is not in the expected state."
-msgstr ""
+msgstr "Eine Ressource ist nicht im erwarteten Zustand."
 
 #: api/exceptions.py:26
 msgid "The card has been rejected."

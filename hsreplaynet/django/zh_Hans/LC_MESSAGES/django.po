@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-14 20:31+0000\n"
-"PO-Revision-Date: 2020-03-15 00:40\n"
+"PO-Revision-Date: 2020-03-15 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -17,19 +17,19 @@ msgstr ""
 
 #: api/exceptions.py:8
 msgid "An upstream gateway returned an invalid response."
-msgstr ""
+msgstr "网关返回了无效的相应。"
 
 #: api/exceptions.py:14
 msgid "The entity cannot be processed."
-msgstr ""
+msgstr "实体无法处理。"
 
 #: api/exceptions.py:20
 msgid "A resource is not in the expected state."
-msgstr ""
+msgstr "资源错误。"
 
 #: api/exceptions.py:26
 msgid "The card has been rejected."
-msgstr ""
+msgstr "信用卡被拒绝。"
 
 #: api/fields.py:9
 #, python-brace-format
@@ -268,11 +268,11 @@ msgstr "活跃"
 
 #: templates/account/base.html:15 web/views/dashboard.py:39
 msgid "Account"
-msgstr ""
+msgstr "账号"
 
 #: templates/account/base.html:16 web/views/allauth.py:16
 msgid "Emails"
-msgstr ""
+msgstr "电子邮件"
 
 #: templates/account/base.html:17
 msgid "Billing"
@@ -280,11 +280,11 @@ msgstr "会员订单"
 
 #: templates/account/base.html:18 web/views/allauth.py:12
 msgid "Connections"
-msgstr ""
+msgstr "关联的账户"
 
 #: templates/account/base.html:19 web/views/dashboard.py:336
 msgid "Applications"
-msgstr ""
+msgstr "应用授权"
 
 #: templates/account/base.html:23 templates/account/login.html:69
 #: templates/account/signup.html:33
@@ -582,27 +582,27 @@ msgstr "切换导航"
 
 #: templates/navigation.html:35
 msgid "Classic"
-msgstr ""
+msgstr "经典"
 
 #: templates/navigation.html:49
 msgid "Battlegrounds"
-msgstr ""
+msgstr "酒馆战棋"
 
 #: templates/navigation.html:64
 msgid "Heroes"
-msgstr ""
+msgstr "英雄"
 
 #: templates/navigation.html:74
 msgid "Minions"
-msgstr ""
+msgstr "随从"
 
 #: templates/navigation.html:84
 msgid "Compositions"
-msgstr ""
+msgstr "三连"
 
 #: templates/navigation.html:93
 msgid "Field Pass"
-msgstr ""
+msgstr "以前回合"
 
 #: templates/navigation.html:102
 msgid "Articles"
@@ -778,39 +778,39 @@ msgstr "查找统计信息和不同的 {name} 套牌。"
 
 #: web/views/battlegrounds.py:73
 msgid "Battlegrounds Field Pass"
-msgstr ""
+msgstr "以前回合"
 
 #: web/views/battlegrounds.py:78 web/views/battlegrounds.py:108
 msgid "Battlegrounds Hero"
-msgstr ""
+msgstr "酒馆战棋英雄"
 
 #: web/views/battlegrounds.py:95
 msgid "No matching hero found."
-msgstr ""
+msgstr "未找到匹配的英雄。"
 
 #: web/views/battlegrounds.py:130
 msgid "Battlegrounds Heroes"
-msgstr ""
+msgstr "酒馆战棋英雄"
 
 #: web/views/battlegrounds.py:135
 msgid "Battlegrounds Minions"
-msgstr ""
+msgstr "酒馆战棋随从"
 
 #: web/views/battlegrounds.py:140 web/views/battlegrounds.py:170
 msgid "Battlegrounds Minion"
-msgstr ""
+msgstr "酒馆战棋随从"
 
 #: web/views/battlegrounds.py:157
 msgid "No matching minion found."
-msgstr ""
+msgstr "未找到匹配的随从。"
 
 #: web/views/battlegrounds.py:201
 msgid "Battlegrounds Compositions"
-msgstr ""
+msgstr "酒馆战棋 流派"
 
 #: web/views/battlegrounds.py:206
 msgid "Battlegrounds Composition"
-msgstr ""
+msgstr "酒馆战棋 流派"
 
 #: web/views/cards.py:25 web/views/cards.py:115
 msgid "Hearthstone Card Statistics"
@@ -887,7 +887,7 @@ msgstr "更新链接"
 
 #: web/views/dashboard.py:383
 msgid "Your Application"
-msgstr ""
+msgstr "您的应用"
 
 #: web/views/decks.py:20
 msgid "Hearthstone Decks"
