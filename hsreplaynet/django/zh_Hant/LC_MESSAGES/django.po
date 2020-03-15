@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-13 21:48+0000\n"
-"PO-Revision-Date: 2020-03-14 08:23\n"
+"POT-Creation-Date: 2020-03-14 20:31+0000\n"
+"PO-Revision-Date: 2020-03-15 00:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -783,43 +783,35 @@ msgstr ""
 msgid "Battlegrounds Field Pass"
 msgstr ""
 
-#: web/views/battlegrounds.py:78
-msgid "Battlegrounds Guide - Choose Hero"
-msgstr ""
-
-#: web/views/battlegrounds.py:83 web/views/battlegrounds.py:113
+#: web/views/battlegrounds.py:78 web/views/battlegrounds.py:108
 msgid "Battlegrounds Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:100
+#: web/views/battlegrounds.py:95
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:135
+#: web/views/battlegrounds.py:130
 msgid "Battlegrounds Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:140
+#: web/views/battlegrounds.py:135
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:145 web/views/battlegrounds.py:175
+#: web/views/battlegrounds.py:140 web/views/battlegrounds.py:170
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:162
+#: web/views/battlegrounds.py:157
 msgid "No matching minion found."
 msgstr ""
 
 #: web/views/battlegrounds.py:201
-msgid "Battlegrounds Debug"
-msgstr ""
-
-#: web/views/battlegrounds.py:206
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:211
+#: web/views/battlegrounds.py:206
 msgid "Battlegrounds Composition"
 msgstr ""
 
