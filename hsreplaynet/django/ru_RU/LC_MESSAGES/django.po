@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-14 20:31+0000\n"
-"PO-Revision-Date: 2020-03-15 12:40\n"
+"POT-Creation-Date: 2020-03-16 01:43+0000\n"
+"PO-Revision-Date: 2020-03-16 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -540,39 +540,43 @@ msgstr "Скачать"
 msgid "Premium"
 msgstr "Премиум"
 
-#: templates/footer.html:66
-msgid "Your Account"
-msgstr "Личный кабинет"
+#: templates/footer.html:69 templates/navigation.html:49
+msgid "Battlegrounds"
+msgstr "Поля сражений"
 
-#: templates/footer.html:70
+#: templates/footer.html:77
 msgid "Support"
 msgstr "Поддержка"
 
-#: templates/footer.html:73
+#: templates/footer.html:79
+msgid "Your Account"
+msgstr "Личный кабинет"
+
+#: templates/footer.html:81
 msgid "Help Center"
 msgstr "Справка"
 
-#: templates/footer.html:75
+#: templates/footer.html:83
 msgid "Contact Us"
 msgstr "Контакты"
 
-#: templates/footer.html:80
+#: templates/footer.html:88
 msgid "Legal"
 msgstr "Правила"
 
-#: templates/footer.html:83
+#: templates/footer.html:91
 msgid "Terms of Service"
 msgstr "Пользоват. соглашение"
 
-#: templates/footer.html:86
+#: templates/footer.html:94
 msgid "Privacy Policy"
 msgstr "Конфиденциальность"
 
-#: templates/footer.html:90
+#: templates/footer.html:98
 msgid "Manage Cookie Settings"
 msgstr "Настройки Cookie"
 
-#: templates/footer.html:99
+#: templates/footer.html:107
 msgid "About Us"
 msgstr "О нас"
 
@@ -583,10 +587,6 @@ msgstr "Вкл/выкл навигацию"
 #: templates/navigation.html:35
 msgid "Classic"
 msgstr "Классический"
-
-#: templates/navigation.html:49
-msgid "Battlegrounds"
-msgstr "Поля сражений"
 
 #: templates/navigation.html:64
 msgid "Heroes"
@@ -599,10 +599,6 @@ msgstr "Существа"
 #: templates/navigation.html:84
 msgid "Compositions"
 msgstr "Составы"
-
-#: templates/navigation.html:93
-msgid "Field Pass"
-msgstr "Билет в поля"
 
 #: templates/navigation.html:102
 msgid "Articles"
@@ -735,15 +731,15 @@ msgstr "Смотри и делись повторами своих игр в Hea
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net — раскрой свой потенциал"
 
-#: web/views/__init__.py:138 web/views/battlegrounds.py:50
+#: web/views/__init__.py:138 web/views/battlegrounds.py:51
 msgid "Download Hearthstone Deck Tracker"
 msgstr "Скачать Hearthstone Deck Tracker"
 
-#: web/views/__init__.py:140 web/views/battlegrounds.py:52
+#: web/views/__init__.py:140 web/views/battlegrounds.py:53
 msgid "HSReplay.net Companion App"
 msgstr "Приложение для синхронизации с HSReplay.net"
 
-#: web/views/__init__.py:142 web/views/battlegrounds.py:54
+#: web/views/__init__.py:142 web/views/battlegrounds.py:55
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "Hearthstone Deck Tracker — бесплатное приложение, которое поднимет уровень вашей игры."
 
@@ -776,41 +772,45 @@ msgstr "Этот Архетип больше не доступен."
 msgid "Find stats and different {name} decklists."
 msgstr "Просматривайте статистику и другие колоды архетипа {name}."
 
-#: web/views/battlegrounds.py:73
-msgid "Battlegrounds Field Pass"
-msgstr "Билет для полей сражений"
+#: web/views/battlegrounds.py:74
+msgid "Battlegrounds Tier7"
+msgstr ""
 
-#: web/views/battlegrounds.py:78 web/views/battlegrounds.py:108
+#: web/views/battlegrounds.py:79 web/views/battlegrounds.py:109
 msgid "Battlegrounds Hero"
 msgstr "Герой Полей сражений"
 
-#: web/views/battlegrounds.py:95
+#: web/views/battlegrounds.py:96
 msgid "No matching hero found."
 msgstr "Подходящих героев не найдено."
 
-#: web/views/battlegrounds.py:130
+#: web/views/battlegrounds.py:131
 msgid "Battlegrounds Heroes"
 msgstr "Герои Полей сражений"
 
-#: web/views/battlegrounds.py:135
+#: web/views/battlegrounds.py:136
 msgid "Battlegrounds Minions"
 msgstr "Существа Полей сражений"
 
-#: web/views/battlegrounds.py:140 web/views/battlegrounds.py:170
+#: web/views/battlegrounds.py:141 web/views/battlegrounds.py:171
 msgid "Battlegrounds Minion"
 msgstr "Существо Полей сражений"
 
-#: web/views/battlegrounds.py:157
+#: web/views/battlegrounds.py:158
 msgid "No matching minion found."
 msgstr "Подходящих существ не найдено."
 
-#: web/views/battlegrounds.py:201
+#: web/views/battlegrounds.py:202
 msgid "Battlegrounds Compositions"
 msgstr "Составы Полей сражений"
 
-#: web/views/battlegrounds.py:206
+#: web/views/battlegrounds.py:207 web/views/battlegrounds.py:229
 msgid "Battlegrounds Composition"
 msgstr "Состав Полей сражений"
+
+#: web/views/battlegrounds.py:224
+msgid "No matching composition found."
+msgstr "Подходящий состав не найден."
 
 #: web/views/cards.py:25 web/views/cards.py:115
 msgid "Hearthstone Card Statistics"

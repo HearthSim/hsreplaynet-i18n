@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-14 20:31+0000\n"
-"PO-Revision-Date: 2020-03-16 00:40\n"
+"POT-Creation-Date: 2020-03-16 01:43+0000\n"
+"PO-Revision-Date: 2020-03-16 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -540,39 +540,43 @@ msgstr "下载"
 msgid "Premium"
 msgstr "充值会员"
 
-#: templates/footer.html:66
-msgid "Your Account"
-msgstr "您的账户"
+#: templates/footer.html:69 templates/navigation.html:49
+msgid "Battlegrounds"
+msgstr "酒馆战棋"
 
-#: templates/footer.html:70
+#: templates/footer.html:77
 msgid "Support"
 msgstr "用户支持"
 
-#: templates/footer.html:73
+#: templates/footer.html:79
+msgid "Your Account"
+msgstr "您的账户"
+
+#: templates/footer.html:81
 msgid "Help Center"
 msgstr "帮助中心"
 
-#: templates/footer.html:75
+#: templates/footer.html:83
 msgid "Contact Us"
 msgstr "联系我们"
 
-#: templates/footer.html:80
+#: templates/footer.html:88
 msgid "Legal"
 msgstr "法律条款"
 
-#: templates/footer.html:83
+#: templates/footer.html:91
 msgid "Terms of Service"
 msgstr "服务条款"
 
-#: templates/footer.html:86
+#: templates/footer.html:94
 msgid "Privacy Policy"
 msgstr "隐私权政策"
 
-#: templates/footer.html:90
+#: templates/footer.html:98
 msgid "Manage Cookie Settings"
 msgstr "管理 Cookie 设置"
 
-#: templates/footer.html:99
+#: templates/footer.html:107
 msgid "About Us"
 msgstr "关于我们"
 
@@ -584,10 +588,6 @@ msgstr "切换导航"
 msgid "Classic"
 msgstr "经典"
 
-#: templates/navigation.html:49
-msgid "Battlegrounds"
-msgstr "酒馆战棋"
-
 #: templates/navigation.html:64
 msgid "Heroes"
 msgstr "英雄"
@@ -598,11 +598,7 @@ msgstr "随从"
 
 #: templates/navigation.html:84
 msgid "Compositions"
-msgstr "三连"
-
-#: templates/navigation.html:93
-msgid "Field Pass"
-msgstr "以前回合"
+msgstr "流派"
 
 #: templates/navigation.html:102
 msgid "Articles"
@@ -735,15 +731,15 @@ msgstr "从浏览器中直接观看、分享你的炉石回放。探索套牌、
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - 释放你的潜能"
 
-#: web/views/__init__.py:138 web/views/battlegrounds.py:50
+#: web/views/__init__.py:138 web/views/battlegrounds.py:51
 msgid "Download Hearthstone Deck Tracker"
 msgstr "下载HDT记牌器"
 
-#: web/views/__init__.py:140 web/views/battlegrounds.py:52
+#: web/views/__init__.py:140 web/views/battlegrounds.py:53
 msgid "HSReplay.net Companion App"
 msgstr "HSReplay.net随身应用程序"
 
-#: web/views/__init__.py:142 web/views/battlegrounds.py:54
+#: web/views/__init__.py:142 web/views/battlegrounds.py:55
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "HDT记牌器是一款免费的应用，可以帮助您拥有职业选手游戏发挥。"
 
@@ -776,41 +772,45 @@ msgstr "此卡组已不再可用。"
 msgid "Find stats and different {name} decklists."
 msgstr "查找统计信息和不同的 {name} 套牌。"
 
-#: web/views/battlegrounds.py:73
-msgid "Battlegrounds Field Pass"
-msgstr "以前回合"
+#: web/views/battlegrounds.py:74
+msgid "Battlegrounds Tier7"
+msgstr "酒馆战棋 7级"
 
-#: web/views/battlegrounds.py:78 web/views/battlegrounds.py:108
+#: web/views/battlegrounds.py:79 web/views/battlegrounds.py:109
 msgid "Battlegrounds Hero"
 msgstr "酒馆战棋英雄"
 
-#: web/views/battlegrounds.py:95
+#: web/views/battlegrounds.py:96
 msgid "No matching hero found."
 msgstr "未找到匹配的英雄。"
 
-#: web/views/battlegrounds.py:130
+#: web/views/battlegrounds.py:131
 msgid "Battlegrounds Heroes"
 msgstr "酒馆战棋英雄"
 
-#: web/views/battlegrounds.py:135
+#: web/views/battlegrounds.py:136
 msgid "Battlegrounds Minions"
 msgstr "酒馆战棋随从"
 
-#: web/views/battlegrounds.py:140 web/views/battlegrounds.py:170
+#: web/views/battlegrounds.py:141 web/views/battlegrounds.py:171
 msgid "Battlegrounds Minion"
 msgstr "酒馆战棋随从"
 
-#: web/views/battlegrounds.py:157
+#: web/views/battlegrounds.py:158
 msgid "No matching minion found."
 msgstr "未找到匹配的随从。"
 
-#: web/views/battlegrounds.py:201
+#: web/views/battlegrounds.py:202
 msgid "Battlegrounds Compositions"
 msgstr "酒馆战棋 流派"
 
-#: web/views/battlegrounds.py:206
+#: web/views/battlegrounds.py:207 web/views/battlegrounds.py:229
 msgid "Battlegrounds Composition"
 msgstr "酒馆战棋 流派"
+
+#: web/views/battlegrounds.py:224
+msgid "No matching composition found."
+msgstr "没有找到对应的流派。"
 
 #: web/views/cards.py:25 web/views/cards.py:115
 msgid "Hearthstone Card Statistics"
