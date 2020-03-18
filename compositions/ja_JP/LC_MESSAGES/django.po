@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-11T01:40:37.901631\n"
+"POT-Creation-Date: 2020-03-18T01:43:39.085644\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -13,19 +13,16 @@ msgstr ""
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: /compositions/en/LC_MESSAGES/django.po\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2020-03-18 00:40\n"
+"PO-Revision-Date: 2020-03-18 12:40\n"
 
 msgid "Menagerie"
 msgstr "動物園"
 
 msgid "Bubble Menagerie"
-msgstr ""
+msgstr "聖なる盾動物園"
 
 msgid "No Type"
-msgstr ""
-
-msgid "Tall Demons"
-msgstr "巨大悪魔"
+msgstr "種族なし"
 
 msgid "Deathrattle Beasts"
 msgstr "断末魔獣"
@@ -52,7 +49,7 @@ msgid "Token Beasts"
 msgstr "トークン獣"
 
 msgid "Basic Dragons"
-msgstr "ベーシック悪魔"
+msgstr "ベーシックドラゴン"
 
 msgid "Dragon Mechs"
 msgstr "ドラゴンメカ"
@@ -63,11 +60,17 @@ msgstr "巨大悪魔"
 msgid "Divine Shield Dragons"
 msgstr "聖なる盾ドラゴン"
 
+msgid "Big Demons"
+msgstr "巨大悪魔"
+
 msgid "Dragons"
 msgstr "ドラゴン"
 
 msgid "Murlocs"
 msgstr "マーロック"
+
+msgid "Divine Shield"
+msgstr "聖なる盾"
 
 msgid "Deathrattle Mechs"
 msgstr "断末魔メカ"
@@ -79,7 +82,7 @@ msgid "Mechs"
 msgstr "メカ"
 
 msgid "Token Demons"
-msgstr "悪魔トークン"
+msgstr "トークン悪魔"
 
 msgid "Beasts"
 msgstr "獣"
