@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-17 01:40+0000\n"
-"PO-Revision-Date: 2020-03-17 12:40\n"
+"POT-Creation-Date: 2020-03-17 13:18+0000\n"
+"PO-Revision-Date: 2020-03-18 00:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -538,6 +538,10 @@ msgstr "Premium"
 msgid "Battlegrounds"
 msgstr "バトルグラウンド"
 
+#: templates/footer.html:71
+msgid "Tier7"
+msgstr ""
+
 #: templates/footer.html:77
 msgid "Support"
 msgstr "サポート"
@@ -580,7 +584,7 @@ msgstr ""
 
 #: templates/navigation.html:35
 msgid "Classic"
-msgstr ""
+msgstr "クラシック"
 
 #: templates/navigation.html:64
 msgid "Heroes"
@@ -592,7 +596,7 @@ msgstr "ミニオン"
 
 #: templates/navigation.html:84
 msgid "Compositions"
-msgstr ""
+msgstr "構成"
 
 #: templates/navigation.html:106
 msgid "Articles"

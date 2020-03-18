@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-17 01:40+0000\n"
-"PO-Revision-Date: 2020-03-17 12:40\n"
+"POT-Creation-Date: 2020-03-17 13:18+0000\n"
+"PO-Revision-Date: 2020-03-18 00:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -543,6 +543,10 @@ msgstr "充值会员"
 #: templates/footer.html:69 templates/navigation.html:49
 msgid "Battlegrounds"
 msgstr "酒馆战棋"
+
+#: templates/footer.html:71
+msgid "Tier7"
+msgstr ""
 
 #: templates/footer.html:77
 msgid "Support"
