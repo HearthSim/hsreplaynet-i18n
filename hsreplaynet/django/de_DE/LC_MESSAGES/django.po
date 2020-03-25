@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-23 01:40+0000\n"
-"PO-Revision-Date: 2020-03-24 12:40\n"
+"POT-Creation-Date: 2020-03-25 01:40+0000\n"
+"PO-Revision-Date: 2020-03-25 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -137,8 +137,8 @@ msgid "You are not logged in as the correct user."
 msgstr "Du bist nicht als der korrekte Benutzer angemeldet."
 
 #: billing/views.py:444
-msgid "Subscription was cancelled by PayPal."
-msgstr "Das Abonnement wurde von PayPal abgebrochen."
+msgid "Subscription was canceled by PayPal."
+msgstr ""
 
 #: billing/views.py:452
 msgid "You are now subscribed with PayPal!"
@@ -149,8 +149,8 @@ msgid "Invalid token while cancelling payment."
 msgstr "Ungültiger Schlüssel beim Abbruch der Zahlung."
 
 #: billing/views.py:478
-msgid "Payment has already completed and cannot be cancelled."
-msgstr "Zahlung ist bereits abgeschlossen und kann nicht storniert werden."
+msgid "Payment has already completed and cannot be canceled."
+msgstr ""
 
 #: billing/views.py:482
 msgid "Your payment was interrupted."
@@ -266,7 +266,7 @@ msgstr "URL"
 msgid "Active"
 msgstr "Aktiv"
 
-#: templates/account/base.html:15 web/views/dashboard.py:39
+#: templates/account/base.html:15 web/views/dashboard.py:40
 msgid "Account"
 msgstr "Konto"
 
@@ -282,7 +282,7 @@ msgstr "Zahlungen"
 msgid "Connections"
 msgstr "Verbindungen"
 
-#: templates/account/base.html:19 web/views/dashboard.py:336
+#: templates/account/base.html:19 web/views/dashboard.py:330
 msgid "Applications"
 msgstr "Anwendungen"
 
@@ -291,7 +291,7 @@ msgstr "Anwendungen"
 msgid "Password"
 msgstr "Passwort"
 
-#: templates/account/base.html:25 web/views/dashboard.py:98
+#: templates/account/base.html:25 web/views/dashboard.py:99
 msgid "Delete Account"
 msgstr "Konto Löschen"
 
@@ -852,43 +852,43 @@ msgstr "Sammlung"
 msgid "{user}'s Hearthstone Collection"
 msgstr "{user}'s Hearthstone-Sammlung"
 
-#: web/views/dashboard.py:86
+#: web/views/dashboard.py:87
 msgid "API Access"
 msgstr "API-Zugriff"
 
-#: web/views/dashboard.py:123
+#: web/views/dashboard.py:117
 msgid "This account cannot be deleted."
 msgstr "Dieses Konto kann nicht gelöscht werden."
 
-#: web/views/dashboard.py:151
+#: web/views/dashboard.py:145
 msgid "Your replays have been deleted."
 msgstr "Deine Aufzeichnungen wurden gelöscht."
 
-#: web/views/dashboard.py:186
+#: web/views/dashboard.py:180
 msgid "Could not make account primary."
 msgstr "Konnte Konto nicht primär setzen."
 
-#: web/views/dashboard.py:260
+#: web/views/dashboard.py:254
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr "Überprüfe deinen Posteingang! Wir haben eine E-Mail gesendet um deine Abonnements zu bestätigen."
 
-#: web/views/dashboard.py:267 web/views/dashboard.py:273
+#: web/views/dashboard.py:261 web/views/dashboard.py:267
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "Fehler beim Speichern der E-Mail-Einstellungen. Bitte versuche es später erneut!"
 
-#: web/views/dashboard.py:283
+#: web/views/dashboard.py:277
 msgid "Your email preferences have been saved."
 msgstr "Deine E-Mail-Präferenzen wurden gespeichert."
 
-#: web/views/dashboard.py:299
+#: web/views/dashboard.py:293
 msgid "Create a webhook"
 msgstr "Einen Webhook erstellen"
 
-#: web/views/dashboard.py:310
+#: web/views/dashboard.py:304
 msgid "Update a webhook"
 msgstr "Einen Webhook aktualisieren"
 
-#: web/views/dashboard.py:383
+#: web/views/dashboard.py:377
 msgid "Your Application"
 msgstr "Deine Anwendung"
 
