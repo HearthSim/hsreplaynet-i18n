@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-25 01:40+0000\n"
-"PO-Revision-Date: 2020-03-25 12:40\n"
+"PO-Revision-Date: 2020-03-26 00:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -138,7 +138,7 @@ msgstr "Du bist nicht als der korrekte Benutzer angemeldet."
 
 #: billing/views.py:444
 msgid "Subscription was canceled by PayPal."
-msgstr ""
+msgstr "Das Abonnement wurde von PayPal abgebrochen."
 
 #: billing/views.py:452
 msgid "You are now subscribed with PayPal!"
@@ -150,7 +150,7 @@ msgstr "Ungültiger Schlüssel beim Abbruch der Zahlung."
 
 #: billing/views.py:478
 msgid "Payment has already completed and cannot be canceled."
-msgstr ""
+msgstr "Zahlung ist bereits abgeschlossen und kann nicht storniert werden."
 
 #: billing/views.py:482
 msgid "Your payment was interrupted."
@@ -777,7 +777,7 @@ msgstr "Finde Statistiken und verschiedene {name}-Decklisten."
 
 #: web/views/battlegrounds.py:92
 msgid "HSReplay.net Tier7 for Battlegrounds"
-msgstr ""
+msgstr "HSReplay.net Tier7 für Schlachtfeld"
 
 #: web/views/battlegrounds.py:97
 msgid "Battlegrounds Heroes"
