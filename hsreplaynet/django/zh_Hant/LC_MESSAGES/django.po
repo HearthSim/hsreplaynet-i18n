@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-25 01:40+0000\n"
-"PO-Revision-Date: 2020-03-26 12:18\n"
+"POT-Creation-Date: 2020-03-26 23:20+0000\n"
+"PO-Revision-Date: 2020-03-27 00:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -212,10 +212,10 @@ msgstr "代表您創建和刪除 Webhooks"
 msgid "Account inactive"
 msgstr "帳戶未啟動"
 
-#: templates/account/account_inactive.html:9
+#: templates/account/account_inactive.html:10
 #, python-format
-msgid "This account is inactive or has been banned. Please <a href=\"mailto:%(site_email)s\">contact us</a> if this is in error."
-msgstr "這個帳號處於未啟動狀態，或是已被封鎖。<a href=\"mailto:%(site_email)s\">請聯絡我們</a>，如有錯誤。"
+msgid "This account is inactive or has been banned. Please <a href=\"%(contact_url)s\">contact us</a> if this is in error."
+msgstr ""
 
 #: templates/account/api.html:7
 msgid "Authentication Tokens"
@@ -266,7 +266,7 @@ msgstr "URL"
 msgid "Active"
 msgstr "啟用中"
 
-#: templates/account/base.html:15 web/views/dashboard.py:40
+#: templates/account/base.html:15 web/views/dashboard.py:41
 msgid "Account"
 msgstr ""
 
@@ -282,7 +282,7 @@ msgstr "帳單"
 msgid "Connections"
 msgstr ""
 
-#: templates/account/base.html:19 web/views/dashboard.py:330
+#: templates/account/base.html:19 web/views/dashboard.py:331
 msgid "Applications"
 msgstr ""
 
@@ -291,7 +291,7 @@ msgstr ""
 msgid "Password"
 msgstr "密碼"
 
-#: templates/account/base.html:25 web/views/dashboard.py:99
+#: templates/account/base.html:25 web/views/dashboard.py:100
 msgid "Delete Account"
 msgstr "刪除帳號"
 
@@ -462,10 +462,10 @@ msgstr "忘記了你的密碼?\n"
 msgid "Reset password"
 msgstr "重設密碼"
 
-#: templates/account/password_reset.html:25
+#: templates/account/password_reset.html:26
 #, python-format
-msgid "Need help? <a href=\"mailto:%(site_email)s\">Contact us</a>."
-msgstr "需要幫助嗎?<a href=\"mailto:%(site_email)s\">聯絡我們</a>。"
+msgid "Need help? <a href=\"%(contact_url)s\">Contact us</a>."
+msgstr ""
 
 #: templates/account/signup.html:8 templates/account/signup.html:39
 #: templates/socialaccount/signup.html:12
@@ -480,7 +480,7 @@ msgstr "使用暴雪帳號來登入HSReplay.net"
 msgid "Alternatively, sign up with an email and password."
 msgstr "或是，用信箱來註冊。"
 
-#: templates/account/signup.html:30 templates/socialaccount/signup.html:46
+#: templates/account/signup.html:30 templates/socialaccount/signup.html:45
 msgid "Email address"
 msgstr "電子郵件地址"
 
@@ -501,10 +501,10 @@ msgstr "驗證您的電子郵件地址"
 msgid "We have sent you an e-mail for verification. Follow the link in it to finalize the signup process."
 msgstr "我們已經寄給妳Email認證信，請點擊連結來完成註冊手續。"
 
-#: templates/account/verification_sent.html:14
+#: templates/account/verification_sent.html:15
 #, python-format
-msgid "Please <a href=\"mailto:%(site_email)s\">contact us</a> if you do not receive it within a few minutes."
-msgstr "若幾分鐘後都還沒收到信件，請<a href=\"mailto:%(site_email)s\">聯繫我們</a>。"
+msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
+msgstr ""
 
 #: templates/footer.html:8
 msgid "Back to top"
@@ -631,6 +631,19 @@ msgstr "卡牌"
 msgid "SALE!"
 msgstr ""
 
+#: templates/oauth2_provider/authorize.html:12
+msgid "Some error happened during authorization."
+msgstr ""
+
+#: templates/oauth2_provider/authorize.html:16
+#, python-format
+msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help."
+msgstr ""
+
+#: templates/oauth2_provider/authorize.html:19
+msgid "Permission request"
+msgstr ""
+
 #: templates/snippets/noscript.html:5
 msgid "It looks like you have Javascript turned off. This page will not work correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
 msgstr "您似乎將Javascript關掉了，這將使得這個頁面無法正常顯示。<a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">將它開啟</a>。"
@@ -639,7 +652,12 @@ msgstr "您似乎將Javascript關掉了，這將使得這個頁面無法正常�
 msgid "Authentication error"
 msgstr "驗證錯誤"
 
-#: templates/socialaccount/authentication_error.html:28
+#: templates/socialaccount/authentication_error.html:11
+#, python-format
+msgid "We could not authenticate you with %(name)s.<br/> If this persists, <a href=\"%(contact_url)s\">contact us</a>."
+msgstr ""
+
+#: templates/socialaccount/authentication_error.html:32
 msgid "Back to the office."
 msgstr "我先回辦公室了"
 
@@ -676,78 +694,86 @@ msgstr ""
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account."
 msgstr ""
 
-#: templates/socialaccount/signup.html:26
+#: templates/socialaccount/signup.html:25
 msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
 msgstr ""
 
-#: templates/socialaccount/signup.html:32
+#: templates/socialaccount/signup.html:31
 msgid "Battletag"
 msgstr ""
 
-#: templates/socialaccount/signup.html:41
+#: templates/socialaccount/signup.html:40
 msgid "You can change this later by connecting additional accounts."
 msgstr ""
 
-#: templates/socialaccount/signup.html:54
+#: templates/socialaccount/signup.html:53
 msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
 msgstr ""
 
-#: templates/socialaccount/signup.html:61
+#: templates/socialaccount/signup.html:60
 #, python-format
 msgid "I agree to the <a href=\"%(tos_url)s\">Terms of Service</a>."
 msgstr ""
 
-#: templates/socialaccount/signup.html:68
+#: templates/socialaccount/signup.html:67
 msgid "I want to receive product updates by email."
 msgstr ""
 
-#: templates/socialaccount/signup.html:76
+#: templates/socialaccount/signup.html:75
 msgid "Already have an HSReplay.net account?"
 msgstr ""
 
-#: templates/socialaccount/signup.html:77
+#: templates/socialaccount/signup.html:76
 msgid "If you keep seeing this page despite having registered an HSReplay.net account in the past, you may be logged into the wrong Blizzard account."
 msgstr ""
 
-#: templates/socialaccount/signup.html:78
+#: templates/socialaccount/signup.html:77
 msgid "You can sign in to a different Blizzard account by following these steps:"
 msgstr ""
 
-#: templates/socialaccount/signup.html:82
+#: templates/socialaccount/signup.html:81
 msgid "Sign out of your Blizzard account"
 msgstr ""
 
-#: templates/socialaccount/signup.html:87
+#: templates/socialaccount/signup.html:86
 msgid "Return to the HSReplay.net sign in page"
 msgstr ""
 
-#: templates/socialaccount/signup.html:90
+#: templates/socialaccount/signup.html:89
 msgid "Sign into the correct Blizzard account"
 msgstr ""
 
-#: templates/socialaccount/signup.html:94
+#: templates/socialaccount/signup.html:93
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
 msgstr ""
 
-#: web/views/__init__.py:18
+#: web/views/__init__.py:19
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr "從瀏覽器上直接觀看並分享爐石重播。探索以百萬計的套牌進階數據。"
 
-#: web/views/__init__.py:41
+#: web/views/__init__.py:42
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - 釋放你的潛力"
 
-#: web/views/__init__.py:138 web/views/battlegrounds.py:65
+#: web/views/__init__.py:139 web/views/battlegrounds.py:65
 msgid "Download Hearthstone Deck Tracker"
 msgstr ""
 
-#: web/views/__init__.py:140 web/views/battlegrounds.py:67
+#: web/views/__init__.py:141 web/views/battlegrounds.py:67
 msgid "HSReplay.net Companion App"
 msgstr ""
 
-#: web/views/__init__.py:142 web/views/battlegrounds.py:69
+#: web/views/__init__.py:143 web/views/battlegrounds.py:69
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
+msgstr ""
+
+#: web/views/__init__.py:159
+msgid "Contact our Support Team"
+msgstr ""
+
+#: web/views/__init__.py:161
+msgid "Get in touch with the HSReplay.net Support Team."
 msgstr ""
 
 #: web/views/archetypes.py:20
@@ -856,43 +882,43 @@ msgstr ""
 msgid "{user}'s Hearthstone Collection"
 msgstr ""
 
-#: web/views/dashboard.py:87
+#: web/views/dashboard.py:88
 msgid "API Access"
 msgstr "取得API"
 
-#: web/views/dashboard.py:117
+#: web/views/dashboard.py:118
 msgid "This account cannot be deleted."
 msgstr "這個帳號不能被刪除。"
 
-#: web/views/dashboard.py:145
+#: web/views/dashboard.py:146
 msgid "Your replays have been deleted."
 msgstr "你的重播已被刪除。"
 
-#: web/views/dashboard.py:180
+#: web/views/dashboard.py:181
 msgid "Could not make account primary."
 msgstr "無法將此帳號變為主要帳號。"
 
-#: web/views/dashboard.py:254
+#: web/views/dashboard.py:255
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr ""
 
-#: web/views/dashboard.py:261 web/views/dashboard.py:267
+#: web/views/dashboard.py:262 web/views/dashboard.py:268
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr ""
 
-#: web/views/dashboard.py:277
+#: web/views/dashboard.py:278
 msgid "Your email preferences have been saved."
 msgstr "您的電子郵件偏好已保存。"
 
-#: web/views/dashboard.py:293
+#: web/views/dashboard.py:294
 msgid "Create a webhook"
 msgstr "創建 webhook"
 
-#: web/views/dashboard.py:304
+#: web/views/dashboard.py:305
 msgid "Update a webhook"
 msgstr "上傳 webhook"
 
-#: web/views/dashboard.py:377
+#: web/views/dashboard.py:378
 msgid "Your Application"
 msgstr ""
 
