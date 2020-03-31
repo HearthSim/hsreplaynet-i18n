@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-03-30 01:40+0000\n"
-"PO-Revision-Date: 2020-03-31 00:40\n"
+"PO-Revision-Date: 2020-03-31 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -138,7 +138,7 @@ msgstr "Вы не вошли из под соответствующей учет
 
 #: billing/views.py:445
 msgid "Subscription was canceled by PayPal."
-msgstr ""
+msgstr "Подписка была отменена в PayPal."
 
 #: billing/views.py:453
 msgid "You are now subscribed with PayPal!"
@@ -150,7 +150,7 @@ msgstr "Недействительный токен при отмене подп
 
 #: billing/views.py:479
 msgid "Payment has already completed and cannot be canceled."
-msgstr ""
+msgstr "Платеж уже совершен и не может быть отменен."
 
 #: billing/views.py:483
 msgid "Your payment was interrupted."
@@ -215,7 +215,7 @@ msgstr "Учетная запись отключена"
 #: templates/account/account_inactive.html:10
 #, python-format
 msgid "This account is inactive or has been banned. Please <a href=\"%(contact_url)s\">contact us</a> if this is in error."
-msgstr ""
+msgstr "Эта учетная запись отключена или заблокирована администратором. Если это ошибка, пожалуйста <a href=\"%(contact_url)s\">свяжитесь с нами</a>."
 
 #: templates/account/api.html:7
 msgid "Authentication Tokens"
@@ -462,7 +462,7 @@ msgstr "Сбросить пароль"
 #: templates/account/password_reset.html:26
 #, python-format
 msgid "Need help? <a href=\"%(contact_url)s\">Contact us</a>."
-msgstr ""
+msgstr "Нужна помощь? <a href=\"%(contact_url)s\">Свяжитесь с нами</a>."
 
 #: templates/account/signup.html:8 templates/account/signup.html:39
 #: templates/socialaccount/signup.html:12
@@ -501,7 +501,7 @@ msgstr "Мы отправили тебе ссылку для подтвержд�
 #: templates/account/verification_sent.html:15
 #, python-format
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
-msgstr ""
+msgstr "Пожалуйста, <a href=\"%(contact_url)s\">свяжитесь с нами</a>, если вы не получили ее в течение нескольких минут."
 
 #: templates/footer.html:8
 msgid "Back to top"
@@ -630,16 +630,16 @@ msgstr "Распродажа!"
 
 #: templates/oauth2_provider/authorize.html:12
 msgid "Some error happened during authorization."
-msgstr ""
+msgstr "Во время авторизации произошла ошибка."
 
 #: templates/oauth2_provider/authorize.html:16
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help."
-msgstr ""
+msgstr "<a href=\"%(contact_url)s\">Свяжитесь с нами</a>, если вам нужна помощь."
 
 #: templates/oauth2_provider/authorize.html:19
 msgid "Permission request"
-msgstr ""
+msgstr "Запрос разрешения"
 
 #: templates/snippets/noscript.html:5
 msgid "It looks like you have Javascript turned off. This page will not work correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
@@ -652,7 +652,7 @@ msgstr "Ошибка аутентификации"
 #: templates/socialaccount/authentication_error.html:11
 #, python-format
 msgid "We could not authenticate you with %(name)s.<br/> If this persists, <a href=\"%(contact_url)s\">contact us</a>."
-msgstr ""
+msgstr "Мы не смогли аутентифицировать вас как %(name)s.<br/> Если это повторится, <a href=\"%(contact_url)s\">свяжитесь с нами</a>."
 
 #: templates/socialaccount/authentication_error.html:32
 msgid "Back to the office."
@@ -767,11 +767,11 @@ msgstr "Hearthstone Deck Tracker — бесплатное приложение, 
 
 #: web/views/__init__.py:160
 msgid "Contact our Support Team"
-msgstr ""
+msgstr "Свяжитесь со службой поддержки"
 
 #: web/views/__init__.py:162
 msgid "Get in touch with the HSReplay.net Support Team."
-msgstr ""
+msgstr "Свяжитесь с командой поддержки HSReplay.net."
 
 #: web/views/archetypes.py:20
 msgid "Hearthstone Meta"
