@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-03-30 01:40+0000\n"
-"PO-Revision-Date: 2020-04-02 00:40\n"
+"POT-Creation-Date: 2020-04-02 01:40+0000\n"
+"PO-Revision-Date: 2020-04-02 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -534,56 +534,56 @@ msgstr ""
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr ""
 
-#: templates/footer.html:64 templates/navigation.html:154
+#: templates/footer.html:64 templates/navigation.html:148
 msgid "Downloads"
 msgstr "下載"
 
-#: templates/footer.html:65 templates/navigation.html:143
-#: templates/navigation.html:146
+#: templates/footer.html:65 templates/navigation.html:137
+#: templates/navigation.html:140
 msgid "Premium"
 msgstr "尊榮會員"
 
-#: templates/footer.html:69 templates/navigation.html:49
+#: templates/footer.html:66 templates/navigation.html:47
 msgid "Battlegrounds"
 msgstr ""
 
-#: templates/footer.html:71
+#: templates/footer.html:67
 msgid "Tier7"
 msgstr ""
 
-#: templates/footer.html:77
+#: templates/footer.html:71
 msgid "Support"
 msgstr ""
 
-#: templates/footer.html:79
+#: templates/footer.html:73
 msgid "Your Account"
 msgstr ""
 
-#: templates/footer.html:81
+#: templates/footer.html:75
 msgid "Help Center"
 msgstr ""
 
-#: templates/footer.html:83
+#: templates/footer.html:77
 msgid "Contact Us"
 msgstr ""
 
-#: templates/footer.html:88
+#: templates/footer.html:82
 msgid "Legal"
 msgstr ""
 
-#: templates/footer.html:91
+#: templates/footer.html:85
 msgid "Terms of Service"
 msgstr "服務條款"
 
-#: templates/footer.html:94
+#: templates/footer.html:88
 msgid "Privacy Policy"
 msgstr "隱私權政策"
 
-#: templates/footer.html:98
+#: templates/footer.html:92
 msgid "Manage Cookie Settings"
 msgstr ""
 
-#: templates/footer.html:107
+#: templates/footer.html:101
 msgid "About Us"
 msgstr "關於我們"
 
@@ -595,39 +595,39 @@ msgstr "開啟/關閉導航工具列"
 msgid "Classic"
 msgstr ""
 
-#: templates/navigation.html:64
+#: templates/navigation.html:61
 msgid "Heroes"
 msgstr ""
 
-#: templates/navigation.html:74
+#: templates/navigation.html:71
 msgid "Minions"
 msgstr ""
 
-#: templates/navigation.html:84
+#: templates/navigation.html:81
 msgid "Compositions"
 msgstr ""
 
-#: templates/navigation.html:106
+#: templates/navigation.html:100
 msgid "Articles"
 msgstr "文章"
 
-#: templates/navigation.html:113
+#: templates/navigation.html:107
 msgid "Trending"
 msgstr "趨勢分析"
 
-#: templates/navigation.html:120
+#: templates/navigation.html:114
 msgid "Meta"
 msgstr "環境主流"
 
-#: templates/navigation.html:127
+#: templates/navigation.html:121
 msgid "Decks"
 msgstr "牌組"
 
-#: templates/navigation.html:134
+#: templates/navigation.html:128
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:144
+#: templates/navigation.html:138
 msgid "SALE!"
 msgstr ""
 
@@ -756,15 +756,15 @@ msgstr "從瀏覽器上直接觀看並分享爐石重播。探索以百萬計的
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - 釋放你的潛力"
 
-#: web/views/__init__.py:140 web/views/battlegrounds.py:65
+#: web/views/__init__.py:140 web/views/battlegrounds.py:58
 msgid "Download Hearthstone Deck Tracker"
 msgstr ""
 
-#: web/views/__init__.py:142 web/views/battlegrounds.py:67
+#: web/views/__init__.py:142 web/views/battlegrounds.py:60
 msgid "HSReplay.net Companion App"
 msgstr ""
 
-#: web/views/__init__.py:144 web/views/battlegrounds.py:69
+#: web/views/__init__.py:144 web/views/battlegrounds.py:62
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr ""
 
@@ -805,43 +805,43 @@ msgstr "這個套牌類型已不存在。"
 msgid "Find stats and different {name} decklists."
 msgstr ""
 
-#: web/views/battlegrounds.py:92
+#: web/views/battlegrounds.py:81
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr ""
 
-#: web/views/battlegrounds.py:97
+#: web/views/battlegrounds.py:86
 msgid "Battlegrounds Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:102 web/views/battlegrounds.py:132
+#: web/views/battlegrounds.py:91 web/views/battlegrounds.py:121
 msgid "Battlegrounds Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:119
+#: web/views/battlegrounds.py:108
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:154
+#: web/views/battlegrounds.py:143
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:159 web/views/battlegrounds.py:189
+#: web/views/battlegrounds.py:148 web/views/battlegrounds.py:178
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:176
+#: web/views/battlegrounds.py:165
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:220
+#: web/views/battlegrounds.py:209
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:225 web/views/battlegrounds.py:247
+#: web/views/battlegrounds.py:214 web/views/battlegrounds.py:236
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:242
+#: web/views/battlegrounds.py:231
 msgid "No matching composition found."
 msgstr ""
 
