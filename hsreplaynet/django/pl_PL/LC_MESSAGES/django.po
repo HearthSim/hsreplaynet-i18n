@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-03 01:40+0000\n"
-"PO-Revision-Date: 2020-04-04 12:40\n"
+"POT-Creation-Date: 2020-04-05 01:40+0000\n"
+"PO-Revision-Date: 2020-04-05 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -745,31 +745,31 @@ msgstr "Zaloguj się do poprawnego konta Blizzarda"
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
 msgstr "<a href=\"%(contact_url)s\">Skontaktuj się z nami</a> jeśli potrzebujesz pomocy z zalogowaniem się do istniejącego konta. Możemy połączyć dla ciebie konta!"
 
-#: web/views/__init__.py:19
+#: web/views/__init__.py:20
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr "Oglądaj i udostępniaj powtórki gier Hearthstone bezpośrednio z twojej przeglądarki. Odkrywaj zaawansowane statystyki talii i kart opartych na milionach gier tygodniowo."
 
-#: web/views/__init__.py:43
+#: web/views/__init__.py:44
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - Uwolnij swój potencjał"
 
-#: web/views/__init__.py:140 web/views/battlegrounds.py:60
+#: web/views/__init__.py:141 web/views/battlegrounds.py:60
 msgid "Download Hearthstone Deck Tracker"
 msgstr "Pobierz Hearthstone Deck Tracker"
 
-#: web/views/__init__.py:142 web/views/battlegrounds.py:62
+#: web/views/__init__.py:143 web/views/battlegrounds.py:62
 msgid "HSReplay.net Companion App"
 msgstr "HSReplay.net Companion App"
 
-#: web/views/__init__.py:144 web/views/battlegrounds.py:64
+#: web/views/__init__.py:145 web/views/battlegrounds.py:64
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "Hearthstone Deck Tracker to darmowa aplikacja, która pomoże ci grać jak zawodowcy."
 
-#: web/views/__init__.py:160
+#: web/views/__init__.py:161
 msgid "Contact our Support Team"
 msgstr ""
 
-#: web/views/__init__.py:162
+#: web/views/__init__.py:163
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr ""
 
