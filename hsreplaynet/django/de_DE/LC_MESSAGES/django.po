@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-05 01:40+0000\n"
-"PO-Revision-Date: 2020-04-05 12:40\n"
+"PO-Revision-Date: 2020-04-06 00:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -215,7 +215,7 @@ msgstr "Konto inaktiv"
 #: templates/account/account_inactive.html:10
 #, python-format
 msgid "This account is inactive or has been banned. Please <a href=\"%(contact_url)s\">contact us</a> if this is in error."
-msgstr ""
+msgstr "Dieses Konto ist inaktiv oder wurde gebannt. Bitte <a href=\"%(contact_url)s\">kontaktiere uns</a>, falls es sich dabei um einen Fehler handelt."
 
 #: templates/account/api.html:7
 msgid "Authentication Tokens"
@@ -461,7 +461,7 @@ msgstr "Passwort zurücksetzen"
 #: templates/account/password_reset.html:26
 #, python-format
 msgid "Need help? <a href=\"%(contact_url)s\">Contact us</a>."
-msgstr ""
+msgstr "Benötigst du Hilfe? <a href=\"%(contact_url)s\">Kontaktiere uns</a>."
 
 #: templates/account/signup.html:8 templates/account/signup.html:39
 #: templates/socialaccount/signup.html:12
@@ -634,7 +634,7 @@ msgstr ""
 #: templates/oauth2_provider/authorize.html:16
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help."
-msgstr ""
+msgstr "<a href=\"%(contact_url)s\">Kontaktiere uns</a>, falls du Hilfe benötigst."
 
 #: templates/oauth2_provider/authorize.html:19
 msgid "Permission request"
@@ -651,7 +651,7 @@ msgstr "Authentifizierungsfehler"
 #: templates/socialaccount/authentication_error.html:11
 #, python-format
 msgid "We could not authenticate you with %(name)s.<br/> If this persists, <a href=\"%(contact_url)s\">contact us</a>."
-msgstr ""
+msgstr "Wir konnten dich nicht mit %(name)s authentifizieren.<br/><a href=\"%(contact_url)s\">Kontaktiere uns</a>, falls dieses Problem dauerhaft besteht."
 
 #: templates/socialaccount/authentication_error.html:32
 msgid "Back to the office."
@@ -766,11 +766,11 @@ msgstr "Hearthstone Deck Tracker ist eine kostenlose Anwendung, mit der du wie d
 
 #: web/views/__init__.py:161
 msgid "Contact our Support Team"
-msgstr ""
+msgstr "Kontaktiere unser Support-Team"
 
 #: web/views/__init__.py:163
 msgid "Get in touch with the HSReplay.net Support Team."
-msgstr ""
+msgstr "Kontaktiere das HSReplay.net Support-Team."
 
 #: web/views/archetypes.py:20
 msgid "Hearthstone Meta"
