@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-05 01:40+0000\n"
-"PO-Revision-Date: 2020-04-06 12:40\n"
+"PO-Revision-Date: 2020-04-07 00:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -21,11 +21,11 @@ msgstr ""
 
 #: api/exceptions.py:14
 msgid "The entity cannot be processed."
-msgstr ""
+msgstr "L'entità non può essere elaborata."
 
 #: api/exceptions.py:20
 msgid "A resource is not in the expected state."
-msgstr ""
+msgstr "Una risorsa non è nello stato previsto."
 
 #: api/exceptions.py:26
 msgid "The card has been rejected."
@@ -38,95 +38,95 @@ msgstr ""
 
 #: api/views/features.py:33
 msgid "Code has already been used."
-msgstr ""
+msgstr "Il codice è già stato utilizzato."
 
 #: api/views/features.py:35
 msgid "Code does not apply to this account."
-msgstr ""
+msgstr "Il codice non si applica a questo account."
 
 #: api/views/features.py:37
 msgid "Code has not been activated yet."
-msgstr ""
+msgstr "Il codice non è stato ancora attivato."
 
 #: api/views/features.py:46
 msgid "Code is invalid or has expired."
-msgstr ""
+msgstr "Codice non valido o scaduto."
 
 #: api/views/features.py:50
 msgid "Code did not affect this account and remains valid."
-msgstr ""
+msgstr "Il codice non ha influenzato l'account e rimane valido."
 
 #: api/views/features.py:52
 msgid "Code has been applied to your account."
-msgstr ""
+msgstr "Il codice è stato applicato al tuo account."
 
 #: billing/views.py:206
 msgid "Error adding payment card"
-msgstr ""
+msgstr "Errore nell'aggiunta della carta di credito"
 
 #: billing/views.py:210
 msgid "Your card was declined. Please use a different card."
-msgstr ""
+msgstr "La tua carta è stata rifiutata. Per favore utilizza una carta diversa."
 
 #: billing/views.py:226
 msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
-msgstr ""
+msgstr "Questo indirizzo email è associato ad un altro account. Se desideri unire gli account, contattaci!"
 
 #: billing/views.py:254
 msgid "You have multiple subscriptions. Please contact us."
-msgstr ""
+msgstr "Hai abbonamenti multipli. Per favore contattaci."
 
 #: billing/views.py:268
 msgid "Your subscription has expired."
-msgstr ""
+msgstr "Il tuo abbonamento è scaduto."
 
 #: billing/views.py:274
 msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
-msgstr ""
+msgstr "Il tuo abbonamento attuale è ancora attivo. Se hai problemi di fatturazione, per favore contattaci!"
 
 #: billing/views.py:278
 msgid "You are already subscribed!"
-msgstr ""
+msgstr "Sei già iscritto!"
 
 #: billing/views.py:284 billing/views.py:426 billing/views.py:493
 msgid "You already have an active or a pending subscription."
-msgstr ""
+msgstr "Hai già un abbonamento attivo o in sospeso."
 
 #: billing/views.py:327
 msgid "Could not process subscription."
-msgstr ""
+msgstr "Non è stato possibile elaborare l'iscrizione."
 
 #: billing/views.py:344
 msgid "Your card declined the charge. Please contact your bank for information."
-msgstr ""
+msgstr "La tua carta ha rifiutato l'addebito. Contatta la tua banca per informazioni."
 
 #: billing/views.py:346
 msgid "Your card does not support payments in USD. Please try a different card."
-msgstr ""
+msgstr "La tua carta non supporta pagamenti in USD. Prova con una carta diversa."
 
 #: billing/views.py:348
 msgid "Your card has exceeded its credit limit. Please use a different one."
-msgstr ""
+msgstr "La tua carta ha superato il suo limite di credito. Scegline una diversa."
 
 #: billing/views.py:350
 msgid "Your card has insufficient funds to proceed."
-msgstr ""
+msgstr "La tua carta non dispone di fondi sufficienti per procedere."
 
 #: billing/views.py:354
 msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
-msgstr ""
+msgstr "La tua carta è stata rifiutata, non ti è stato addebitato nulla. Per favore prova con una carta diversa; contattaci se persiste."
 
 #: billing/views.py:385
 msgid "You are now subscribed!"
-msgstr ""
+msgstr "Ora sei iscritto!"
 
 #: billing/views.py:394
 msgid " Please contact us if you are seeing this in error."
-msgstr ""
+msgstr " Ti preghiamo di contattarci se vedi questo in modo errato."
 
 #: billing/views.py:415
 msgid "Unable to complete subscription."
-msgstr ""
+msgstr "Impossibile completare l'abbonamento."
 
 #: billing/views.py:420
 msgid "Invalid subscription token."
@@ -134,88 +134,88 @@ msgstr ""
 
 #: billing/views.py:423
 msgid "You are not logged in as the correct user."
-msgstr ""
+msgstr "Non hai effettuato l'accesso come utente corretto."
 
 #: billing/views.py:445
 msgid "Subscription was canceled by PayPal."
-msgstr ""
+msgstr "La sottoscrizione è stata annullata da PayPal."
 
 #: billing/views.py:453
 msgid "You are now subscribed with PayPal!"
-msgstr ""
+msgstr "Ora sei iscritto con PayPal!"
 
 #: billing/views.py:474
 msgid "Invalid token while cancelling payment."
-msgstr ""
+msgstr "Token non valido durante l'annullamento del pagamento."
 
 #: billing/views.py:479
 msgid "Payment has already completed and cannot be canceled."
-msgstr ""
+msgstr "Il pagamento è già stato completato e non può essere annullato."
 
 #: billing/views.py:483
 msgid "Your payment was interrupted."
-msgstr ""
+msgstr "Il tuo pagamento è stato interrotto."
 
 #: billing/views.py:497
 msgid "Could not determine your plan."
-msgstr ""
+msgstr "Impossibile determinare il tuo piano."
 
 #: billing/views.py:502
 msgid "Invalid Paypal plan."
-msgstr ""
+msgstr "Piano Paypal invalido."
 
 #: settings.py:338
 msgid "Full access to your HSReplay.net account"
-msgstr ""
+msgstr "Accesso completo al tuo account HSReplay.net"
 
 #: settings.py:339
 msgid "Access information about your connected social accounts"
-msgstr ""
+msgstr "Accedi alle informazioni sui tuoi account social connessi"
 
 #: settings.py:340
 msgid "View your Hearthstone card collection"
-msgstr ""
+msgstr "Vedi la tua collezione di carte di Hearthstone"
 
 #: settings.py:341
 msgid "Upload your Hearthstone card collection to the site"
-msgstr ""
+msgstr "Carica la tua collezione di carte di Hearthstone sul sito"
 
 #: settings.py:342
 msgid "View your replays"
-msgstr ""
+msgstr "Visualizza i tuoi replay"
 
 #: settings.py:343
 msgid "Update and delete your replays"
-msgstr ""
+msgstr "Aggiorna ed elimina i tuoi replay"
 
 #: settings.py:344
 msgid "Access the Partner API"
-msgstr ""
+msgstr "Accedi all'API dei Partner"
 
 #: settings.py:345
 msgid "Read access to the tournaments service"
-msgstr ""
+msgstr "Accesso in modalità sola lettura al servizio tornei"
 
 #: settings.py:346
 msgid "Write access to the tournaments service"
-msgstr ""
+msgstr "Accesso in modalità scrittura al servizio tornei"
 
 #: settings.py:347
 msgid "View your webhooks"
-msgstr ""
+msgstr "Visualizza i tuoi webhooks"
 
 #: settings.py:348
 msgid "Create and delete webhooks on your behalf"
-msgstr ""
+msgstr "Crea ed elimina i webhooks per tuo conto"
 
 #: templates/account/account_inactive.html:6
 msgid "Account inactive"
-msgstr ""
+msgstr "Account inattivo"
 
 #: templates/account/account_inactive.html:10
 #, python-format
 msgid "This account is inactive or has been banned. Please <a href=\"%(contact_url)s\">contact us</a> if this is in error."
-msgstr ""
+msgstr "Questo account è inattivo o è stato bandito. Si prega di <a href=\"%(contact_url)s\">contattarci</a> se si tratta di un errore."
 
 #: templates/account/api.html:7
 msgid "Authentication Tokens"
