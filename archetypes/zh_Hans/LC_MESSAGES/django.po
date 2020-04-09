@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-13T01:40:34.645750\n"
+"POT-Creation-Date: 2020-04-09T01:40:40.685406\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2020-04-08 12:40\n"
+"PO-Revision-Date: 2020-04-09 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -137,7 +137,7 @@ msgstr "心火蛋牧"
 
 #: https://hsreplay.net/archetypes/131/silence-priest
 msgid "Silence Priest"
-msgstr "沉默牧"
+msgstr "沉默心火牧"
 
 #: https://hsreplay.net/archetypes/135/discard-warlock
 msgid "Discard Warlock"
@@ -169,7 +169,7 @@ msgstr "元素萨"
 
 #: https://hsreplay.net/archetypes/27/aggro-shaman
 msgid "Aggro Shaman"
-msgstr "打脸萨"
+msgstr "快攻萨"
 
 #: https://hsreplay.net/archetypes/68/elemental-priest
 msgid "Elemental Priest"
@@ -193,7 +193,7 @@ msgstr "中速猎"
 
 #: https://hsreplay.net/archetypes/186/prince-warlock
 msgid "Prince Warlock"
-msgstr "二王子术"
+msgstr "二王子节奏术"
 
 #: https://hsreplay.net/archetypes/141/secret-mage
 msgid "Secret Mage"
@@ -217,7 +217,7 @@ msgstr "野兽猎"
 
 #: https://hsreplay.net/archetypes/172/stealth-rogue
 msgid "Stealth Rogue"
-msgstr "剽窃贼"
+msgstr "潜行贼"
 
 #: https://hsreplay.net/archetypes/129/big-priest
 msgid "Big Priest"
@@ -265,7 +265,7 @@ msgstr "招募猎"
 
 #: https://hsreplay.net/archetypes/193/oakheart-druid
 msgid "Oakheart Druid"
-msgstr "欧克哈特德"
+msgstr "大师德"
 
 #: https://hsreplay.net/archetypes/188/recruit-warrior
 msgid "Recruit Warrior"
@@ -273,7 +273,7 @@ msgstr "招募战"
 
 #: https://hsreplay.net/archetypes/189/shield-warrior
 msgid "Shield Warrior"
-msgstr "防战"
+msgstr "叠甲战"
 
 #: https://hsreplay.net/archetypes/167/fatigue-warrior
 msgid "Fatigue Warrior"
@@ -325,7 +325,7 @@ msgstr "控制术"
 
 #: https://hsreplay.net/archetypes/184/kingsbane-rogue
 msgid "Kingsbane Rogue"
-msgstr "海君贼"
+msgstr "弑君贼"
 
 #: https://hsreplay.net/archetypes/206/combo-priest
 msgid "Combo Priest"
@@ -377,7 +377,7 @@ msgstr "奇数德"
 
 #: https://hsreplay.net/archetypes/226/mill-druid
 msgid "Mill Druid"
-msgstr "疲劳德"
+msgstr "换家德"
 
 #: https://hsreplay.net/archetypes/227/even-mage
 msgid "Even Mage"
@@ -385,7 +385,7 @@ msgstr "偶数法"
 
 #: https://hsreplay.net/archetypes/182/big-spell-mage
 msgid "Big Spell Mage"
-msgstr "国王法"
+msgstr "龙怒法"
 
 #: https://hsreplay.net/archetypes/56/quest-priest
 msgid "Quest Priest"
@@ -469,7 +469,7 @@ msgstr "海鱼骑"
 
 #: https://hsreplay.net/archetypes/158/murloc-aggro-paladin
 msgid "Murloc Aggro Paladin"
-msgstr "快鱼骑"
+msgstr "快攻鱼人骑"
 
 #: https://hsreplay.net/archetypes/171/aggro-paladin
 msgid "Aggro Paladin"
@@ -493,7 +493,7 @@ msgstr "无限火球法"
 
 #: https://hsreplay.net/archetypes/183/silver-hand-paladin
 msgid "Silver Hand Paladin"
-msgstr "阅兵骑"
+msgstr "报告骑"
 
 #: https://hsreplay.net/archetypes/215/even-paladin
 msgid "Even Paladin"
@@ -501,7 +501,7 @@ msgstr "偶数骑"
 
 #: https://hsreplay.net/archetypes/187/oakheart-warrior
 msgid "Oakheart Warrior"
-msgstr "欧克哈特战"
+msgstr "大师战"
 
 #: https://hsreplay.net/archetypes/194/spiteful-summoner-hunter
 msgid "Spiteful Summoner Hunter"
@@ -510,10 +510,6 @@ msgstr "恶毒猎"
 #: https://hsreplay.net/archetypes/196/spiteful-priest
 msgid "Spiteful Priest"
 msgstr "恶毒牧"
-
-#: https://hsreplay.net/archetypes/202/evolve-shaman
-msgid "Evolve Shaman"
-msgstr "进化萨"
 
 #: https://hsreplay.net/archetypes/185/demon-warlock
 msgid "Demon Warlock"
@@ -541,7 +537,7 @@ msgstr "奇数战"
 
 #: https://hsreplay.net/archetypes/247/mechathun-druid
 msgid "Mecha'thun Druid"
-msgstr "机械克苏恩德"
+msgstr "机克德"
 
 #: https://hsreplay.net/archetypes/229/echo-warlock
 msgid "Echo Warlock"
@@ -549,7 +545,7 @@ msgstr "回响术"
 
 #: https://hsreplay.net/archetypes/230/whirlwind-warrior
 msgid "Whirlwind Warrior"
-msgstr "旋风斩战"
+msgstr "激怒控制战"
 
 #: https://hsreplay.net/archetypes/231/even-warlock
 msgid "Even Warlock"
@@ -613,7 +609,7 @@ msgstr "机械猎"
 
 #: https://hsreplay.net/archetypes/221/shudderwock-shaman
 msgid "Shudderwock Shaman"
-msgstr "战吼萨"
+msgstr "沙德沃克战吼萨"
 
 #: https://hsreplay.net/archetypes/249/mech-paladin
 msgid "Mech Paladin"
@@ -657,7 +653,7 @@ msgstr "机克战"
 
 #: https://hsreplay.net/archetypes/260/turvy-otk-priest
 msgid "Turvy OTK Priest"
-msgstr "OTK翻转牧"
+msgstr "翻转牧"
 
 #: https://hsreplay.net/archetypes/261/deathrattle-paladin
 msgid "Deathrattle Paladin"
@@ -677,7 +673,7 @@ msgstr "快攻牧"
 
 #: https://hsreplay.net/archetypes/228/clone-priest
 msgid "Clone Priest"
-msgstr "展览牧"
+msgstr "展览馆牧"
 
 #: https://hsreplay.net/archetypes/266/resurrect-priest
 msgid "Resurrect Priest"
@@ -701,7 +697,7 @@ msgstr "安德提卡德"
 
 #: https://hsreplay.net/archetypes/271/surrender-priest
 msgid "Surrender Priest"
-msgstr "掉费牧"
+msgstr "病入膏肓牧"
 
 #: https://hsreplay.net/archetypes/272/big-secret-hunter
 msgid "Big Secret Hunter"
@@ -737,7 +733,7 @@ msgstr "鱼人德"
 
 #: https://hsreplay.net/archetypes/279/eureka-shaman
 msgid "Eureka Shaman"
-msgstr "下饺子萨"
+msgstr "饺子萨"
 
 #: https://hsreplay.net/archetypes/280/wall-priest
 msgid "Wall Priest"
@@ -789,7 +785,7 @@ msgstr "卡德加龙法"
 
 #: https://hsreplay.net/archetypes/293/otk-priest
 msgid "OTK Priest"
-msgstr "OTK牧"
+msgstr "核弹牧"
 
 #: https://hsreplay.net/archetypes/295/villain-paladin
 msgid "Villain Paladin"
@@ -809,7 +805,7 @@ msgstr "机械牧"
 
 #: https://hsreplay.net/archetypes/301/hooktusk-rogue
 msgid "Hooktusk Rogue"
-msgstr "钩牙贼"
+msgstr "钩牙海盗贼"
 
 #: https://hsreplay.net/archetypes/138/secret-hunter
 msgid "Secret Hunter"
@@ -877,7 +873,7 @@ msgstr "手牌骑"
 
 #: https://hsreplay.net/archetypes/357/highlander-galakrond-shaman
 msgid "Highlander Galakrond Shaman"
-msgstr "宇宙祈求萨"
+msgstr "宇宙迦拉克隆萨"
 
 #: https://hsreplay.net/archetypes/321/malygos-highlander-hunter
 msgid "Malygos Highlander Hunter"
@@ -897,7 +893,7 @@ msgstr "宇宙贼"
 
 #: https://hsreplay.net/archetypes/331/highlander-big-spell-mage
 msgid "Highlander Big Spell Mage"
-msgstr "高费宇宙法"
+msgstr "国王宇宙法"
 
 #: https://hsreplay.net/archetypes/332/mogu-quest-warlock
 msgid "Mogu Quest Warlock"
@@ -925,7 +921,7 @@ msgstr "奥秘宇宙猎"
 
 #: https://hsreplay.net/archetypes/333/mechathun-mage
 msgid "Mecha'thun Mage"
-msgstr "机械克苏恩法"
+msgstr "机克法"
 
 #: https://hsreplay.net/archetypes/334/treant-druid
 msgid "Treant Druid"
@@ -953,11 +949,11 @@ msgstr "宇宙龙骑"
 
 #: https://hsreplay.net/archetypes/340/galakrond-priest
 msgid "Galakrond Priest"
-msgstr "祈求牧"
+msgstr "迦拉克隆牧"
 
 #: https://hsreplay.net/archetypes/358/galakrond-warlock
 msgid "Galakrond Warlock"
-msgstr "祈求术"
+msgstr "迦拉克隆术"
 
 #: https://hsreplay.net/archetypes/359/highlander-deathrattle-rogue
 msgid "Highlander Deathrattle Rogue"
@@ -965,11 +961,11 @@ msgstr "亡语宇宙贼"
 
 #: https://hsreplay.net/archetypes/342/highlander-galakrond-priest
 msgid "Highlander Galakrond Priest"
-msgstr "宇宙祈求牧"
+msgstr "迦拉克隆宇宙牧"
 
 #: https://hsreplay.net/archetypes/343/galakrond-deathrattle-rogue
 msgid "Galakrond Deathrattle Rogue"
-msgstr "亡语祈求贼"
+msgstr "迦拉克隆亡语贼"
 
 #: https://hsreplay.net/archetypes/3/malygos-otk-rogue
 msgid "Malygos OTK Rogue"
@@ -977,39 +973,39 @@ msgstr "蓝龙贼"
 
 #: https://hsreplay.net/archetypes/344/galakrond-rogue
 msgid "Galakrond Rogue"
-msgstr "祈求贼"
+msgstr "迦拉克隆贼"
 
 #: https://hsreplay.net/archetypes/345/galakrond-quest-shaman
 msgid "Galakrond Quest Shaman"
-msgstr "祈求任务萨"
+msgstr "迦拉克隆任务萨"
 
 #: https://hsreplay.net/archetypes/346/galakrond-shaman
 msgid "Galakrond Shaman"
-msgstr "祈求萨"
+msgstr "迦拉克隆萨"
 
 #: https://hsreplay.net/archetypes/347/galakrond-overload-shaman
 msgid "Galakrond Overload Shaman"
-msgstr "过载祈求萨"
+msgstr "迦拉克隆过载萨"
 
 #: https://hsreplay.net/archetypes/348/galakrond-zoo-warlock
 msgid "Galakrond Zoo Warlock"
-msgstr "祈求动物园"
+msgstr "迦拉克隆动物园"
 
 #: https://hsreplay.net/archetypes/349/pirate-galakrond-warrior
 msgid "Pirate Galakrond Warrior"
-msgstr "海盗祈求战"
+msgstr "迦拉克隆海盗战"
 
 #: https://hsreplay.net/archetypes/350/galakrond-warrior
 msgid "Galakrond Warrior"
-msgstr "祈求战"
+msgstr "迦拉克隆战"
 
 #: https://hsreplay.net/archetypes/351/highlander-galakrond-rogue
 msgid "Highlander Galakrond Rogue"
-msgstr "宇宙祈求贼"
+msgstr "迦拉克隆宇宙贼"
 
 #: https://hsreplay.net/archetypes/352/galakrond-hand-warlock
 msgid "Galakrond Hand Warlock"
-msgstr "祈求手牌术"
+msgstr "迦拉克隆手牌术"
 
 #: https://hsreplay.net/archetypes/353/highlander-druid
 msgid "Highlander Druid"
@@ -1021,7 +1017,7 @@ msgstr "巨化德"
 
 #: https://hsreplay.net/archetypes/355/face-hunter
 msgid "Face Hunter"
-msgstr "T7猎"
+msgstr "打脸猎"
 
 #: https://hsreplay.net/archetypes/360/highlander-shaman
 msgid "Highlander Shaman"
@@ -1033,7 +1029,7 @@ msgstr "墙德"
 
 #: https://hsreplay.net/archetypes/362/quest-galakrond-rogue
 msgid "Quest Galakrond Rogue"
-msgstr "任务祈求贼"
+msgstr "迦拉克隆任务贼"
 
 #: https://hsreplay.net/archetypes/363/tempo-warrior
 msgid "Tempo Warrior"
@@ -1042,4 +1038,60 @@ msgstr "节奏战"
 #: https://hsreplay.net/archetypes/364/quest-highlander-hunter
 msgid "Quest Highlander Hunter"
 msgstr "任务宇宙猎"
+
+#: https://hsreplay.net/archetypes/366/highlander-demon-hunter
+msgid "Highlander Demon Hunter"
+msgstr "宇宙恶魔猎手"
+
+#: https://hsreplay.net/archetypes/367/tempo-demon-hunter
+msgid "Tempo Demon Hunter"
+msgstr "节奏恶魔猎手"
+
+#: https://hsreplay.net/archetypes/368/otk-demon-hunter
+msgid "OTK Demon Hunter"
+msgstr "OTK恶魔猎手"
+
+#: https://hsreplay.net/archetypes/369/test-demon-hunter
+msgid "Test Demon Hunter"
+msgstr "测试用恶魔猎手"
+
+#: https://hsreplay.net/archetypes/370/token-demon-hunter
+msgid "Token Demon Hunter"
+msgstr "超生恶魔猎手"
+
+#: https://hsreplay.net/archetypes/371/big-demon-hunter
+msgid "Big Demon Hunter"
+msgstr "大哥恶魔猎手"
+
+#: https://hsreplay.net/archetypes/372/spell-druid
+msgid "Spell Druid"
+msgstr "法术德"
+
+#: https://hsreplay.net/archetypes/373/quest-spell-mage
+msgid "Quest Spell Mage"
+msgstr "任务法术法"
+
+#: https://hsreplay.net/archetypes/374/libram-paladin
+msgid "Libram Paladin"
+msgstr "圣契骑"
+
+#: https://hsreplay.net/archetypes/375/secret-rogue
+msgid "Secret Rogue"
+msgstr "奥秘贼"
+
+#: https://hsreplay.net/archetypes/377/galakrond-secret-rogue
+msgid "Galakrond Secret Rogue"
+msgstr "奥秘迦拉克隆贼"
+
+#: https://hsreplay.net/archetypes/378/reliquary-shaman
+msgid "Reliquary Shaman"
+msgstr "灵魂之匣莱登萨"
+
+#: https://hsreplay.net/archetypes/379/spell-shaman
+msgid "Spell Shaman"
+msgstr "法术萨"
+
+#: https://hsreplay.net/archetypes/202/evolve-shaman
+msgid "Evolve Shaman"
+msgstr "进化萨"
 

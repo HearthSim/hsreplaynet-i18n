@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-05 01:40+0000\n"
-"PO-Revision-Date: 2020-04-08 12:40\n"
+"POT-Creation-Date: 2020-04-09 01:40+0000\n"
+"PO-Revision-Date: 2020-04-09 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -17,7 +17,7 @@ msgstr ""
 
 #: api/exceptions.py:8
 msgid "An upstream gateway returned an invalid response."
-msgstr "网关返回了无效的相应。"
+msgstr "网关返回了无效的回复。"
 
 #: api/exceptions.py:14
 msgid "The entity cannot be processed."
@@ -150,7 +150,7 @@ msgstr "取消支付的秘钥无效。"
 
 #: billing/views.py:479
 msgid "Payment has already completed and cannot be canceled."
-msgstr "付款已经完成，不能取消。"
+msgstr "付款已经完成，不能被取消。"
 
 #: billing/views.py:483
 msgid "Your payment was interrupted."
@@ -164,47 +164,47 @@ msgstr "无法确定您的套餐状态。"
 msgid "Invalid Paypal plan."
 msgstr "无效PayPal套餐。"
 
-#: settings.py:338
+#: settings.py:348
 msgid "Full access to your HSReplay.net account"
 msgstr "完全访问您的 HSReplay.net 帐户"
 
-#: settings.py:339
+#: settings.py:349
 msgid "Access information about your connected social accounts"
 msgstr "访问您已连接的社交帐户的信息"
 
-#: settings.py:340
+#: settings.py:350
 msgid "View your Hearthstone card collection"
 msgstr "查看您的炉石卡牌收藏"
 
-#: settings.py:341
+#: settings.py:351
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "上传您的炉石卡牌收藏到网站"
 
-#: settings.py:342
+#: settings.py:352
 msgid "View your replays"
 msgstr "查看您的回放"
 
-#: settings.py:343
+#: settings.py:353
 msgid "Update and delete your replays"
 msgstr "更新和删除您的回放"
 
-#: settings.py:344
+#: settings.py:354
 msgid "Access the Partner API"
 msgstr "获取合作伙伴的API"
 
-#: settings.py:345
+#: settings.py:355
 msgid "Read access to the tournaments service"
 msgstr "获得锦标赛服务的读取权限"
 
-#: settings.py:346
+#: settings.py:356
 msgid "Write access to the tournaments service"
 msgstr "获得锦标赛服务的写入权限"
 
-#: settings.py:347
+#: settings.py:357
 msgid "View your webhooks"
 msgstr "查看您的 webhooks"
 
-#: settings.py:348
+#: settings.py:358
 msgid "Create and delete webhooks on your behalf"
 msgstr "为您创建和删除 webhooks"
 
@@ -529,14 +529,14 @@ msgstr "在Instagram上关注我们"
 
 #: templates/footer.html:56
 msgid "Not affiliated with Blizzard Entertainment."
-msgstr "与Blizzard Entertainment没有从属关系。"
+msgstr "本网站与暴雪娱乐不存在从属关系"
 
-#: templates/footer.html:64 templates/navigation.html:148
+#: templates/footer.html:64 templates/navigation.html:157
 msgid "Downloads"
 msgstr "下载"
 
-#: templates/footer.html:65 templates/navigation.html:137
-#: templates/navigation.html:140
+#: templates/footer.html:65 templates/navigation.html:146
+#: templates/navigation.html:149
 msgid "Premium"
 msgstr "充值会员"
 
@@ -612,19 +612,23 @@ msgstr "文章"
 msgid "Trending"
 msgstr "趋势"
 
-#: templates/navigation.html:114
+#: templates/navigation.html:116 templates/navigation.html:122
 msgid "Meta"
 msgstr "环境"
 
-#: templates/navigation.html:121
+#: templates/navigation.html:117
+msgid "Back soon!"
+msgstr "马上回来！"
+
+#: templates/navigation.html:130
 msgid "Decks"
 msgstr "套牌"
 
-#: templates/navigation.html:128
+#: templates/navigation.html:137
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:138
+#: templates/navigation.html:147
 msgid "SALE!"
 msgstr "实惠！"
 
@@ -639,7 +643,7 @@ msgstr "<a href=\"%(contact_url)s\">如果您需要帮助，请联系我们</a>�
 
 #: templates/oauth2_provider/authorize.html:19
 msgid "Permission request"
-msgstr "权限请求"
+msgstr "需要授权"
 
 #: templates/snippets/noscript.html:5
 msgid "It looks like you have Javascript turned off. This page will not work correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
@@ -652,7 +656,7 @@ msgstr "验证出错"
 #: templates/socialaccount/authentication_error.html:11
 #, python-format
 msgid "We could not authenticate you with %(name)s.<br/> If this persists, <a href=\"%(contact_url)s\">contact us</a>."
-msgstr "我们无法认证您的 %(name)s。<br/> 如果这仍然存在， <a href=\"%(contact_url)s\">联系我们</a>。"
+msgstr "我们无法认证您的 %(name)s。<br/> 如果这仍然存在，请 <a href=\"%(contact_url)s\">联系我们</a>。"
 
 #: templates/socialaccount/authentication_error.html:32
 msgid "Back to the office."

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-02-13T01:40:34.645750\n"
+"POT-Creation-Date: 2020-04-09T01:40:40.685406\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-Language: pl\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2020-04-08 12:40\n"
+"PO-Revision-Date: 2020-04-09 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -510,10 +510,6 @@ msgstr "Spiteful Summoner Hunter"
 #: https://hsreplay.net/archetypes/196/spiteful-priest
 msgid "Spiteful Priest"
 msgstr "Spiteful Priest"
-
-#: https://hsreplay.net/archetypes/202/evolve-shaman
-msgid "Evolve Shaman"
-msgstr "Evolve Shaman"
 
 #: https://hsreplay.net/archetypes/185/demon-warlock
 msgid "Demon Warlock"
@@ -1042,4 +1038,60 @@ msgstr ""
 #: https://hsreplay.net/archetypes/364/quest-highlander-hunter
 msgid "Quest Highlander Hunter"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/366/highlander-demon-hunter
+msgid "Highlander Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/367/tempo-demon-hunter
+msgid "Tempo Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/368/otk-demon-hunter
+msgid "OTK Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/369/test-demon-hunter
+msgid "Test Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/370/token-demon-hunter
+msgid "Token Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/371/big-demon-hunter
+msgid "Big Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/372/spell-druid
+msgid "Spell Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/373/quest-spell-mage
+msgid "Quest Spell Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/374/libram-paladin
+msgid "Libram Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/375/secret-rogue
+msgid "Secret Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/377/galakrond-secret-rogue
+msgid "Galakrond Secret Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/378/reliquary-shaman
+msgid "Reliquary Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/379/spell-shaman
+msgid "Spell Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/202/evolve-shaman
+msgid "Evolve Shaman"
+msgstr "Evolve Shaman"
 

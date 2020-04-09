@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-05 01:40+0000\n"
-"PO-Revision-Date: 2020-04-08 12:40\n"
+"POT-Creation-Date: 2020-04-09 01:40+0000\n"
+"PO-Revision-Date: 2020-04-09 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -164,47 +164,47 @@ msgstr "Une erreur s'est produite avec votre plan."
 msgid "Invalid Paypal plan."
 msgstr "Plan Paypal invalide."
 
-#: settings.py:338
+#: settings.py:348
 msgid "Full access to your HSReplay.net account"
 msgstr "Accès complet à votre compte HSReplay.net"
 
-#: settings.py:339
+#: settings.py:349
 msgid "Access information about your connected social accounts"
 msgstr "Accéder aux informations relatives à vos comptes sociaux liés"
 
-#: settings.py:340
+#: settings.py:350
 msgid "View your Hearthstone card collection"
 msgstr "Voir votre collection de cartes Hearthstone"
 
-#: settings.py:341
+#: settings.py:351
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Importer votre collection de cartes Hearthstone sur le site"
 
-#: settings.py:342
+#: settings.py:352
 msgid "View your replays"
 msgstr "Regarder vos rediffusions"
 
-#: settings.py:343
+#: settings.py:353
 msgid "Update and delete your replays"
 msgstr "Mettre à jour et supprimer vos rediffusions"
 
-#: settings.py:344
+#: settings.py:354
 msgid "Access the Partner API"
 msgstr "Accéder à l’API du Partenaire"
 
-#: settings.py:345
+#: settings.py:355
 msgid "Read access to the tournaments service"
 msgstr "Accès en lecture au service de tournois"
 
-#: settings.py:346
+#: settings.py:356
 msgid "Write access to the tournaments service"
 msgstr "Accès en écriture au service de tournois"
 
-#: settings.py:347
+#: settings.py:357
 msgid "View your webhooks"
 msgstr "Voir vos webhooks"
 
-#: settings.py:348
+#: settings.py:358
 msgid "Create and delete webhooks on your behalf"
 msgstr "Donner l'autorisation de créer et effacer des webhooks"
 
@@ -530,12 +530,12 @@ msgstr ""
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr ""
 
-#: templates/footer.html:64 templates/navigation.html:148
+#: templates/footer.html:64 templates/navigation.html:157
 msgid "Downloads"
 msgstr "Téléchargements"
 
-#: templates/footer.html:65 templates/navigation.html:137
-#: templates/navigation.html:140
+#: templates/footer.html:65 templates/navigation.html:146
+#: templates/navigation.html:149
 msgid "Premium"
 msgstr "Premium"
 
@@ -611,19 +611,23 @@ msgstr "Articles"
 msgid "Trending"
 msgstr "Tendances"
 
-#: templates/navigation.html:114
+#: templates/navigation.html:116 templates/navigation.html:122
 msgid "Meta"
 msgstr "Meta"
 
-#: templates/navigation.html:121
+#: templates/navigation.html:117
+msgid "Back soon!"
+msgstr ""
+
+#: templates/navigation.html:130
 msgid "Decks"
 msgstr "Decks"
 
-#: templates/navigation.html:128
+#: templates/navigation.html:137
 msgid "Cards"
 msgstr "Cartes"
 
-#: templates/navigation.html:138
+#: templates/navigation.html:147
 msgid "SALE!"
 msgstr ""
 
