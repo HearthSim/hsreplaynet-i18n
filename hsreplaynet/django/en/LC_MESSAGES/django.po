@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-08 01:40+0000\n"
+"POT-Creation-Date: 2020-04-09 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -175,47 +175,47 @@ msgstr ""
 msgid "Invalid Paypal plan."
 msgstr ""
 
-#: settings.py:338
+#: settings.py:348
 msgid "Full access to your HSReplay.net account"
 msgstr ""
 
-#: settings.py:339
+#: settings.py:349
 msgid "Access information about your connected social accounts"
 msgstr ""
 
-#: settings.py:340
+#: settings.py:350
 msgid "View your Hearthstone card collection"
 msgstr ""
 
-#: settings.py:341
+#: settings.py:351
 msgid "Upload your Hearthstone card collection to the site"
 msgstr ""
 
-#: settings.py:342
+#: settings.py:352
 msgid "View your replays"
 msgstr ""
 
-#: settings.py:343
+#: settings.py:353
 msgid "Update and delete your replays"
 msgstr ""
 
-#: settings.py:344
+#: settings.py:354
 msgid "Access the Partner API"
 msgstr ""
 
-#: settings.py:345
+#: settings.py:355
 msgid "Read access to the tournaments service"
 msgstr ""
 
-#: settings.py:346
+#: settings.py:356
 msgid "Write access to the tournaments service"
 msgstr ""
 
-#: settings.py:347
+#: settings.py:357
 msgid "View your webhooks"
 msgstr ""
 
-#: settings.py:348
+#: settings.py:358
 msgid "Create and delete webhooks on your behalf"
 msgstr ""
 
@@ -566,12 +566,12 @@ msgstr ""
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr ""
 
-#: templates/footer.html:64 templates/navigation.html:148
+#: templates/footer.html:64 templates/navigation.html:157
 msgid "Downloads"
 msgstr ""
 
-#: templates/footer.html:65 templates/navigation.html:137
-#: templates/navigation.html:140
+#: templates/footer.html:65 templates/navigation.html:146
+#: templates/navigation.html:149
 msgid "Premium"
 msgstr ""
 
@@ -647,19 +647,23 @@ msgstr ""
 msgid "Trending"
 msgstr ""
 
-#: templates/navigation.html:114
+#: templates/navigation.html:116 templates/navigation.html:122
 msgid "Meta"
 msgstr ""
 
-#: templates/navigation.html:121
+#: templates/navigation.html:117
+msgid "Back soon!"
+msgstr ""
+
+#: templates/navigation.html:130
 msgid "Decks"
 msgstr ""
 
-#: templates/navigation.html:128
+#: templates/navigation.html:137
 msgid "Cards"
 msgstr ""
 
-#: templates/navigation.html:138
+#: templates/navigation.html:147
 msgid "SALE!"
 msgstr ""
 
