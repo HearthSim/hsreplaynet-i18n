@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-09 01:40+0000\n"
-"PO-Revision-Date: 2020-04-09 12:40\n"
+"POT-Creation-Date: 2020-04-09 20:45+0000\n"
+"PO-Revision-Date: 2020-04-10 00:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -29,6 +29,10 @@ msgstr ""
 
 #: api/exceptions.py:26
 msgid "The card has been rejected."
+msgstr ""
+
+#: api/exceptions.py:31
+msgid "You do not have permission to view this collection."
 msgstr ""
 
 #: api/fields.py:9
