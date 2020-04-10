@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-09T01:40:40.685406\n"
+"POT-Creation-Date: 2020-04-10T01:40:39.033120\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-Language: ko\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2020-04-10 00:40\n"
+"PO-Revision-Date: 2020-04-10 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -142,10 +142,6 @@ msgstr "침묵 사제"
 #: https://hsreplay.net/archetypes/135/discard-warlock
 msgid "Discard Warlock"
 msgstr "버리기 흑마법사"
-
-#: https://hsreplay.net/archetypes/132/hand-warlock
-msgid "Hand Warlock"
-msgstr "손패 흑마법사"
 
 #: https://hsreplay.net/archetypes/136/highlander-warlock
 msgid "Highlander Warlock"
@@ -1094,4 +1090,16 @@ msgstr ""
 #: https://hsreplay.net/archetypes/202/evolve-shaman
 msgid "Evolve Shaman"
 msgstr "진화 주술사"
+
+#: https://hsreplay.net/archetypes/380/embiggen-quest-druid
+msgid "Embiggen Quest Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/381/secret-stealth-rogue
+msgid "Secret Stealth Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/132/hand-warlock
+msgid "Hand Warlock"
+msgstr "손패 흑마법사"
 
