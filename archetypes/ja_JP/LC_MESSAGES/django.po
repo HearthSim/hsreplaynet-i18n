@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-10T01:40:39.033120\n"
+"POT-Creation-Date: 2020-04-21T01:41:48.321136\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2020-04-18 12:40\n"
+"PO-Revision-Date: 2020-04-21 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -70,10 +70,6 @@ msgstr "ウォーターローグ"
 #: https://hsreplay.net/archetypes/19/dragon-warrior
 msgid "Dragon Warrior"
 msgstr "ドラゴンウォリアー"
-
-#: https://hsreplay.net/archetypes/2/control-warrior
-msgid "Control Warrior"
-msgstr "コントロールウォリアー"
 
 #: https://hsreplay.net/archetypes/69/elemental-paladin
 msgid "Elemental Paladin"
@@ -506,6 +502,10 @@ msgstr "性悪ハンター"
 #: https://hsreplay.net/archetypes/196/spiteful-priest
 msgid "Spiteful Priest"
 msgstr "性悪プリースト"
+
+#: https://hsreplay.net/archetypes/383/galakrond-stealth-rogue
+msgid "Galakrond Stealth Rogue"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/185/demon-warlock
 msgid "Demon Warlock"
@@ -1075,6 +1075,10 @@ msgstr "聖典パラディン"
 msgid "Secret Rogue"
 msgstr "秘策ローグ"
 
+#: https://hsreplay.net/archetypes/384/egg-warrior
+msgid "Egg Warrior"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/377/galakrond-secret-rogue
 msgid "Galakrond Secret Rogue"
 msgstr "ガラクロンド秘策ローグ"
@@ -1102,4 +1106,8 @@ msgstr "秘策隠れ身ローグ"
 #: https://hsreplay.net/archetypes/132/hand-warlock
 msgid "Hand Warlock"
 msgstr "ハンドウォーロック"
+
+#: https://hsreplay.net/archetypes/2/control-warrior
+msgid "Control Warrior"
+msgstr "コントロールウォリアー"
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-10T01:40:39.033120\n"
+"POT-Creation-Date: 2020-04-21T01:41:48.321136\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2020-04-18 12:40\n"
+"PO-Revision-Date: 2020-04-21 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -70,10 +70,6 @@ msgstr "巨人鲨鱼贼"
 #: https://hsreplay.net/archetypes/19/dragon-warrior
 msgid "Dragon Warrior"
 msgstr "龙战"
-
-#: https://hsreplay.net/archetypes/2/control-warrior
-msgid "Control Warrior"
-msgstr "防战"
 
 #: https://hsreplay.net/archetypes/69/elemental-paladin
 msgid "Elemental Paladin"
@@ -506,6 +502,10 @@ msgstr "恶毒猎"
 #: https://hsreplay.net/archetypes/196/spiteful-priest
 msgid "Spiteful Priest"
 msgstr "恶毒牧"
+
+#: https://hsreplay.net/archetypes/383/galakrond-stealth-rogue
+msgid "Galakrond Stealth Rogue"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/185/demon-warlock
 msgid "Demon Warlock"
@@ -1075,6 +1075,10 @@ msgstr "圣契骑"
 msgid "Secret Rogue"
 msgstr "奥秘贼"
 
+#: https://hsreplay.net/archetypes/384/egg-warrior
+msgid "Egg Warrior"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/377/galakrond-secret-rogue
 msgid "Galakrond Secret Rogue"
 msgstr "奥秘祈求贼"
@@ -1102,4 +1106,8 @@ msgstr "奥秘潜行贼"
 #: https://hsreplay.net/archetypes/132/hand-warlock
 msgid "Hand Warlock"
 msgstr "手牌术"
+
+#: https://hsreplay.net/archetypes/2/control-warrior
+msgid "Control Warrior"
+msgstr "防战"
 
