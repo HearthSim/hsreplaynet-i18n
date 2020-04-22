@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-09 20:45+0000\n"
-"PO-Revision-Date: 2020-04-21 12:40\n"
+"POT-Creation-Date: 2020-04-22 01:41+0000\n"
+"PO-Revision-Date: 2020-04-22 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -168,47 +168,47 @@ msgstr "No podemos determinar tu plan."
 msgid "Invalid Paypal plan."
 msgstr "Plan de PayPal invalido."
 
-#: settings.py:348
+#: settings.py:349
 msgid "Full access to your HSReplay.net account"
 msgstr "Acceso total a tu cuenta de HSReplay.net"
 
-#: settings.py:349
+#: settings.py:350
 msgid "Access information about your connected social accounts"
 msgstr "Información de tu cuenta sobre tus cuentas de redes sociales"
 
-#: settings.py:350
+#: settings.py:351
 msgid "View your Hearthstone card collection"
 msgstr "Ver colección de Hearthstone"
 
-#: settings.py:351
+#: settings.py:352
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Subir colección de cartas de Hearthstone a la web"
 
-#: settings.py:352
+#: settings.py:353
 msgid "View your replays"
 msgstr "Ver tus repeticiones"
 
-#: settings.py:353
+#: settings.py:354
 msgid "Update and delete your replays"
 msgstr "Subir y borrar tus repeticiones"
 
-#: settings.py:354
+#: settings.py:355
 msgid "Access the Partner API"
 msgstr "Acceder al API asociada"
 
-#: settings.py:355
+#: settings.py:356
 msgid "Read access to the tournaments service"
 msgstr "Leer accesos al servicio de torneos"
 
-#: settings.py:356
+#: settings.py:357
 msgid "Write access to the tournaments service"
 msgstr "Acceder al servicio de torneos"
 
-#: settings.py:357
+#: settings.py:358
 msgid "View your webhooks"
 msgstr "Ver tus webhooks"
 
-#: settings.py:358
+#: settings.py:359
 msgid "Create and delete webhooks on your behalf"
 msgstr "Crear y borrar webhooks en tu posesión"
 
@@ -560,31 +560,31 @@ msgstr ""
 msgid "Your Account"
 msgstr "Tu Cuenta"
 
-#: templates/footer.html:75
+#: templates/footer.html:85
 msgid "Help Center"
 msgstr ""
 
-#: templates/footer.html:77
+#: templates/footer.html:87
 msgid "Contact Us"
 msgstr ""
 
-#: templates/footer.html:82
+#: templates/footer.html:92
 msgid "Legal"
 msgstr "Legal"
 
-#: templates/footer.html:85
+#: templates/footer.html:95
 msgid "Terms of Service"
 msgstr "Terminos de Servicio"
 
-#: templates/footer.html:88
+#: templates/footer.html:98
 msgid "Privacy Policy"
 msgstr "Política de Privacidad"
 
-#: templates/footer.html:92
+#: templates/footer.html:102
 msgid "Manage Cookie Settings"
 msgstr "Administrar opciones de cookies"
 
-#: templates/footer.html:101
+#: templates/footer.html:111
 msgid "About Us"
 msgstr "Sobre nosotros"
 

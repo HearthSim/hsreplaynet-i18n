@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-09 20:45+0000\n"
-"PO-Revision-Date: 2020-04-21 12:40\n"
+"POT-Creation-Date: 2020-04-22 01:41+0000\n"
+"PO-Revision-Date: 2020-04-22 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -168,47 +168,47 @@ msgstr ""
 msgid "Invalid Paypal plan."
 msgstr ""
 
-#: settings.py:348
+#: settings.py:349
 msgid "Full access to your HSReplay.net account"
 msgstr ""
 
-#: settings.py:349
+#: settings.py:350
 msgid "Access information about your connected social accounts"
 msgstr ""
 
-#: settings.py:350
+#: settings.py:351
 msgid "View your Hearthstone card collection"
 msgstr "あなたのハースストーンのカード・コレクションを見る"
 
-#: settings.py:351
+#: settings.py:352
 msgid "Upload your Hearthstone card collection to the site"
 msgstr ""
 
-#: settings.py:352
+#: settings.py:353
 msgid "View your replays"
 msgstr "自分のリプレイを見る"
 
-#: settings.py:353
+#: settings.py:354
 msgid "Update and delete your replays"
 msgstr ""
 
-#: settings.py:354
+#: settings.py:355
 msgid "Access the Partner API"
 msgstr "パートナーAPIにアクセスします。"
 
-#: settings.py:355
+#: settings.py:356
 msgid "Read access to the tournaments service"
 msgstr "トーナメントサービスへの読み取りアクセス"
 
-#: settings.py:356
+#: settings.py:357
 msgid "Write access to the tournaments service"
 msgstr "トーナメントサービスへの書き込みアクセス"
 
-#: settings.py:357
+#: settings.py:358
 msgid "View your webhooks"
 msgstr "あなたのwebhooksを表示します。"
 
-#: settings.py:358
+#: settings.py:359
 msgid "Create and delete webhooks on your behalf"
 msgstr "webhooksを作成、削除"
 
@@ -554,31 +554,31 @@ msgstr "サポート"
 msgid "Your Account"
 msgstr "あなたのアカウント"
 
-#: templates/footer.html:75
+#: templates/footer.html:85
 msgid "Help Center"
 msgstr "ヘルプセンター（英語）"
 
-#: templates/footer.html:77
+#: templates/footer.html:87
 msgid "Contact Us"
 msgstr "お問い合わせ"
 
-#: templates/footer.html:82
+#: templates/footer.html:92
 msgid "Legal"
 msgstr "法的事項"
 
-#: templates/footer.html:85
+#: templates/footer.html:95
 msgid "Terms of Service"
 msgstr "サービス利用規約"
 
-#: templates/footer.html:88
+#: templates/footer.html:98
 msgid "Privacy Policy"
 msgstr "プライバシーポリシー"
 
-#: templates/footer.html:92
+#: templates/footer.html:102
 msgid "Manage Cookie Settings"
 msgstr "クッキーの設定"
 
-#: templates/footer.html:101
+#: templates/footer.html:111
 msgid "About Us"
 msgstr "私たちについて"
 

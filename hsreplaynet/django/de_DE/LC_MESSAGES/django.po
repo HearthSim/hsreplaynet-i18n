@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-09 20:45+0000\n"
-"PO-Revision-Date: 2020-04-21 12:40\n"
+"POT-Creation-Date: 2020-04-22 01:41+0000\n"
+"PO-Revision-Date: 2020-04-22 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -168,47 +168,47 @@ msgstr "Konnte deine Abo-Wahl nicht bestimmen."
 msgid "Invalid Paypal plan."
 msgstr "Ungültige PayPal-Abo-Wahl."
 
-#: settings.py:348
+#: settings.py:349
 msgid "Full access to your HSReplay.net account"
 msgstr "Vollständiger Zugriff auf dein HSReplay.net-Konto"
 
-#: settings.py:349
+#: settings.py:350
 msgid "Access information about your connected social accounts"
 msgstr "Zugriff auf Informationen über deine verknüpften sozialen Konten"
 
-#: settings.py:350
+#: settings.py:351
 msgid "View your Hearthstone card collection"
 msgstr "Betrachte deine Hearthstone-Kartensammlung"
 
-#: settings.py:351
+#: settings.py:352
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Deine Hearthstone-Kartensammlung zur Seite hochladen"
 
-#: settings.py:352
+#: settings.py:353
 msgid "View your replays"
 msgstr "Deine Aufzeichnungen betrachten"
 
-#: settings.py:353
+#: settings.py:354
 msgid "Update and delete your replays"
 msgstr "Deine Aufzeichnungen hochladen und entfernen"
 
-#: settings.py:354
+#: settings.py:355
 msgid "Access the Partner API"
 msgstr "Zugriff auf die Partner-API"
 
-#: settings.py:355
+#: settings.py:356
 msgid "Read access to the tournaments service"
 msgstr "Lesezugriff auf den Turnierdienst"
 
-#: settings.py:356
+#: settings.py:357
 msgid "Write access to the tournaments service"
 msgstr "Schreibzugriff auf den Turnierdienst"
 
-#: settings.py:357
+#: settings.py:358
 msgid "View your webhooks"
 msgstr "Deine Webhooks betrachten"
 
-#: settings.py:358
+#: settings.py:359
 msgid "Create and delete webhooks on your behalf"
 msgstr "Webhooks für dich erstellen und löschen"
 
@@ -559,31 +559,31 @@ msgstr "Support"
 msgid "Your Account"
 msgstr "Dein Konto"
 
-#: templates/footer.html:75
+#: templates/footer.html:85
 msgid "Help Center"
 msgstr "Hilfezentrum"
 
-#: templates/footer.html:77
+#: templates/footer.html:87
 msgid "Contact Us"
 msgstr "Kontaktiere Uns"
 
-#: templates/footer.html:82
+#: templates/footer.html:92
 msgid "Legal"
 msgstr "Rechtliches"
 
-#: templates/footer.html:85
+#: templates/footer.html:95
 msgid "Terms of Service"
 msgstr "Nutzungsbedingungen"
 
-#: templates/footer.html:88
+#: templates/footer.html:98
 msgid "Privacy Policy"
 msgstr "Datenschutzerklärung"
 
-#: templates/footer.html:92
+#: templates/footer.html:102
 msgid "Manage Cookie Settings"
 msgstr "Cookie-Einstellungen verwalten"
 
-#: templates/footer.html:101
+#: templates/footer.html:111
 msgid "About Us"
 msgstr "Über uns"
 
