@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-28 01:40+0000\n"
+"POT-Creation-Date: 2020-04-29 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -623,6 +623,14 @@ msgstr ""
 msgid "About Us"
 msgstr ""
 
+#: templates/games/replay_detail.html:33
+msgid "Replay not available"
+msgstr ""
+
+#: templates/games/replay_detail.html:35
+msgid "This replay is no longer available."
+msgstr ""
+
 #: templates/navigation.html:10
 msgid "Toggle navigation"
 msgstr ""
@@ -1060,10 +1068,10 @@ msgstr ""
 msgid "User does not exist."
 msgstr ""
 
-#: web/views/replays.py:21
+#: web/views/replays.py:23
 msgid "My Replays"
 msgstr ""
 
-#: web/views/replays.py:177
+#: web/views/replays.py:195
 msgid "Uploading replay…"
 msgstr ""
