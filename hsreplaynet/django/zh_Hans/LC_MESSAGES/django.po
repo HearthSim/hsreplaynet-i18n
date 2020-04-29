@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-22 01:41+0000\n"
-"PO-Revision-Date: 2020-04-28 11:49\n"
+"POT-Creation-Date: 2020-04-29 01:40+0000\n"
+"PO-Revision-Date: 2020-04-29 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -588,6 +588,14 @@ msgstr "管理 Cookie 设置"
 msgid "About Us"
 msgstr "关于我们"
 
+#: templates/games/replay_detail.html:33
+msgid "Replay not available"
+msgstr "不支持回放"
+
+#: templates/games/replay_detail.html:35
+msgid "This replay is no longer available."
+msgstr "这个录像已不可用"
+
 #: templates/navigation.html:10
 msgid "Toggle navigation"
 msgstr "切换导航"
@@ -985,11 +993,11 @@ msgstr "更丰富的过滤器、更全面的功能、更完善的数据：在HSR
 msgid "User does not exist."
 msgstr "用户不存在。"
 
-#: web/views/replays.py:21
+#: web/views/replays.py:23
 msgid "My Replays"
 msgstr "我的回放"
 
-#: web/views/replays.py:177
+#: web/views/replays.py:195
 msgid "Uploading replay…"
 msgstr "回放上传中…"
 

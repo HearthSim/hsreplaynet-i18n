@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-22 01:41+0000\n"
-"PO-Revision-Date: 2020-04-28 11:49\n"
+"POT-Creation-Date: 2020-04-29 01:40+0000\n"
+"PO-Revision-Date: 2020-04-29 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -588,6 +588,14 @@ msgstr "Administrar opciones de cookies"
 msgid "About Us"
 msgstr "Sobre nosotros"
 
+#: templates/games/replay_detail.html:33
+msgid "Replay not available"
+msgstr ""
+
+#: templates/games/replay_detail.html:35
+msgid "This replay is no longer available."
+msgstr ""
+
 #: templates/navigation.html:10
 msgid "Toggle navigation"
 msgstr "Cambiar el modo de navegación"
@@ -985,11 +993,11 @@ msgstr "Más filtros, mas opciones, mas datos: obtén acceso a las estadísticas
 msgid "User does not exist."
 msgstr "El usuario no existe."
 
-#: web/views/replays.py:21
+#: web/views/replays.py:23
 msgid "My Replays"
 msgstr "Mis Repeticiones"
 
-#: web/views/replays.py:177
+#: web/views/replays.py:195
 msgid "Uploading replay…"
 msgstr "Subiendo repetición…"
 
