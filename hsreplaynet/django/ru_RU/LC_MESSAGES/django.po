@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-04-29 01:40+0000\n"
-"PO-Revision-Date: 2020-04-29 12:40\n"
+"PO-Revision-Date: 2020-04-30 00:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -590,11 +590,11 @@ msgstr "О нас"
 
 #: templates/games/replay_detail.html:33
 msgid "Replay not available"
-msgstr ""
+msgstr "Повтор отсутствует"
 
 #: templates/games/replay_detail.html:35
 msgid "This replay is no longer available."
-msgstr ""
+msgstr "Этот повтор больше не доступен."
 
 #: templates/navigation.html:10
 msgid "Toggle navigation"
