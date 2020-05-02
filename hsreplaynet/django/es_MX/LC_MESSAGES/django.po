@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-29 01:40+0000\n"
-"PO-Revision-Date: 2020-05-01 12:40\n"
+"POT-Creation-Date: 2020-05-02 01:40+0000\n"
+"PO-Revision-Date: 2020-05-02 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -286,7 +286,7 @@ msgstr "Facturación"
 msgid "Connections"
 msgstr ""
 
-#: templates/account/base.html:19 web/views/dashboard.py:331
+#: templates/account/base.html:19 web/views/dashboard.py:332
 msgid "Applications"
 msgstr ""
 
@@ -903,35 +903,35 @@ msgstr "Acceso API"
 msgid "This account cannot be deleted."
 msgstr "Esta cuenta no puede ser borrada."
 
-#: web/views/dashboard.py:146
+#: web/views/dashboard.py:147
 msgid "Your replays have been deleted."
 msgstr "Tus repeticiones se han borrado."
 
-#: web/views/dashboard.py:181
+#: web/views/dashboard.py:182
 msgid "Could not make account primary."
 msgstr "No es posible hacer la cuenta principal."
 
-#: web/views/dashboard.py:255
+#: web/views/dashboard.py:256
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr "¡Comprueba tu bandeja de entrada! Hemos enviado un correo electrónico para confirmar tus preferencias de suscripción."
 
-#: web/views/dashboard.py:262 web/views/dashboard.py:268
+#: web/views/dashboard.py:263 web/views/dashboard.py:269
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "Error al guardar tus preferencias de correo electrónico. ¡Por favor, inténtalo de nuevo más tarde!"
 
-#: web/views/dashboard.py:278
+#: web/views/dashboard.py:279
 msgid "Your email preferences have been saved."
 msgstr "Tus preferencias de correo se han guardado."
 
-#: web/views/dashboard.py:294
+#: web/views/dashboard.py:295
 msgid "Create a webhook"
 msgstr "Crear un webhook"
 
-#: web/views/dashboard.py:305
+#: web/views/dashboard.py:306
 msgid "Update a webhook"
 msgstr "Actualizar webhook"
 
-#: web/views/dashboard.py:378
+#: web/views/dashboard.py:379
 msgid "Your Application"
 msgstr ""
 

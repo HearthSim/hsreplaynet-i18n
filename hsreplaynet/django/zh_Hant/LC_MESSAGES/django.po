@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-29 01:40+0000\n"
-"PO-Revision-Date: 2020-05-01 12:40\n"
+"POT-Creation-Date: 2020-05-02 01:40+0000\n"
+"PO-Revision-Date: 2020-05-02 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -286,7 +286,7 @@ msgstr "帳單"
 msgid "Connections"
 msgstr ""
 
-#: templates/account/base.html:19 web/views/dashboard.py:331
+#: templates/account/base.html:19 web/views/dashboard.py:332
 msgid "Applications"
 msgstr ""
 
@@ -906,35 +906,35 @@ msgstr "取得API"
 msgid "This account cannot be deleted."
 msgstr "這個帳號不能被刪除。"
 
-#: web/views/dashboard.py:146
+#: web/views/dashboard.py:147
 msgid "Your replays have been deleted."
 msgstr "你的重播已被刪除。"
 
-#: web/views/dashboard.py:181
+#: web/views/dashboard.py:182
 msgid "Could not make account primary."
 msgstr "無法將此帳號變為主要帳號。"
 
-#: web/views/dashboard.py:255
+#: web/views/dashboard.py:256
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr ""
 
-#: web/views/dashboard.py:262 web/views/dashboard.py:268
+#: web/views/dashboard.py:263 web/views/dashboard.py:269
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr ""
 
-#: web/views/dashboard.py:278
+#: web/views/dashboard.py:279
 msgid "Your email preferences have been saved."
 msgstr "您的電子郵件偏好已保存。"
 
-#: web/views/dashboard.py:294
+#: web/views/dashboard.py:295
 msgid "Create a webhook"
 msgstr "創建 webhook"
 
-#: web/views/dashboard.py:305
+#: web/views/dashboard.py:306
 msgid "Update a webhook"
 msgstr "上傳 webhook"
 
-#: web/views/dashboard.py:378
+#: web/views/dashboard.py:379
 msgid "Your Application"
 msgstr ""
 

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-29 01:40+0000\n"
-"PO-Revision-Date: 2020-05-01 12:40\n"
+"POT-Creation-Date: 2020-05-02 01:40+0000\n"
+"PO-Revision-Date: 2020-05-02 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -286,7 +286,7 @@ msgstr "Оплата"
 msgid "Connections"
 msgstr "Подключения"
 
-#: templates/account/base.html:19 web/views/dashboard.py:331
+#: templates/account/base.html:19 web/views/dashboard.py:332
 msgid "Applications"
 msgstr "Приложения"
 
@@ -903,35 +903,35 @@ msgstr "Доступ к API"
 msgid "This account cannot be deleted."
 msgstr "Эта учетная запись не может быть удалена."
 
-#: web/views/dashboard.py:146
+#: web/views/dashboard.py:147
 msgid "Your replays have been deleted."
 msgstr "Ваши повторы были удалены."
 
-#: web/views/dashboard.py:181
+#: web/views/dashboard.py:182
 msgid "Could not make account primary."
 msgstr "Эту учетную запись нельзя сделать основной."
 
-#: web/views/dashboard.py:255
+#: web/views/dashboard.py:256
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr "Проверьте входящие! Мы отправили письмо для подтверждения настроек подписки."
 
-#: web/views/dashboard.py:262 web/views/dashboard.py:268
+#: web/views/dashboard.py:263 web/views/dashboard.py:269
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "Не удалось сохранить параметры почтовых уведомлений. Попробуйте позже!"
 
-#: web/views/dashboard.py:278
+#: web/views/dashboard.py:279
 msgid "Your email preferences have been saved."
 msgstr "Настройки почты сохранены."
 
-#: web/views/dashboard.py:294
+#: web/views/dashboard.py:295
 msgid "Create a webhook"
 msgstr "Создать веб-хук"
 
-#: web/views/dashboard.py:305
+#: web/views/dashboard.py:306
 msgid "Update a webhook"
 msgstr "Обновить веб-хук"
 
-#: web/views/dashboard.py:378
+#: web/views/dashboard.py:379
 msgid "Your Application"
 msgstr "Ваше приложение"
 

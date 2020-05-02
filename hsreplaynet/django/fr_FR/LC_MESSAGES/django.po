@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-04-29 01:40+0000\n"
-"PO-Revision-Date: 2020-05-01 12:40\n"
+"POT-Creation-Date: 2020-05-02 01:40+0000\n"
+"PO-Revision-Date: 2020-05-02 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -286,7 +286,7 @@ msgstr "Facturation"
 msgid "Connections"
 msgstr "Connexions"
 
-#: templates/account/base.html:19 web/views/dashboard.py:331
+#: templates/account/base.html:19 web/views/dashboard.py:332
 msgid "Applications"
 msgstr "Applications"
 
@@ -902,35 +902,35 @@ msgstr "Accès à l'API"
 msgid "This account cannot be deleted."
 msgstr "Ce compte ne peut pas être supprimé."
 
-#: web/views/dashboard.py:146
+#: web/views/dashboard.py:147
 msgid "Your replays have been deleted."
 msgstr "Vos rediffusions ont été supprimées."
 
-#: web/views/dashboard.py:181
+#: web/views/dashboard.py:182
 msgid "Could not make account primary."
 msgstr "Impossible de faire de ce compte votre principal."
 
-#: web/views/dashboard.py:255
+#: web/views/dashboard.py:256
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr "Vérifiez votre boîte de réception ! Nous avons envoyé un email pour confirmer vos préférences d'abonnement."
 
-#: web/views/dashboard.py:262 web/views/dashboard.py:268
+#: web/views/dashboard.py:263 web/views/dashboard.py:269
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "Impossible de sauvegarder vos préférences de courriel. Veuillez réessayer plus tard !"
 
-#: web/views/dashboard.py:278
+#: web/views/dashboard.py:279
 msgid "Your email preferences have been saved."
 msgstr "Vos préférences de courrier électronique ont été enregistrées."
 
-#: web/views/dashboard.py:294
+#: web/views/dashboard.py:295
 msgid "Create a webhook"
 msgstr "Créer un webhook"
 
-#: web/views/dashboard.py:305
+#: web/views/dashboard.py:306
 msgid "Update a webhook"
 msgstr "Éditer un webhook"
 
-#: web/views/dashboard.py:378
+#: web/views/dashboard.py:379
 msgid "Your Application"
 msgstr "Votre demande"
 
