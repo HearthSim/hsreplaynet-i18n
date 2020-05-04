@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-05-02 01:40+0000\n"
-"PO-Revision-Date: 2020-05-02 12:40\n"
+"PO-Revision-Date: 2020-05-04 00:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -276,61 +276,61 @@ msgstr ""
 
 #: templates/account/base.html:16 web/views/allauth.py:19
 msgid "Emails"
-msgstr ""
+msgstr "Emails"
 
 #: templates/account/base.html:17
 msgid "Billing"
-msgstr ""
+msgstr "Fatturazione"
 
 #: templates/account/base.html:18 web/views/allauth.py:13
 msgid "Connections"
-msgstr ""
+msgstr "Connessioni"
 
 #: templates/account/base.html:19 web/views/dashboard.py:332
 msgid "Applications"
-msgstr ""
+msgstr "Applicazioni"
 
 #: templates/account/base.html:23 templates/account/login.html:80
 #: templates/account/signup.html:33
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 #: templates/account/base.html:25 web/views/dashboard.py:100
 msgid "Delete Account"
-msgstr ""
+msgstr "Elimina Account"
 
 #: templates/account/delete_replays.html:6
 #: templates/account/delete_replays.html:18
 msgid "Delete my replays"
-msgstr ""
+msgstr "Elimina i miei replay"
 
 #: templates/account/delete_replays.html:9
 msgid "Are you sure?"
-msgstr ""
+msgstr "Sei sicuro?"
 
 #: templates/account/delete_replays.html:10
 msgid "Deleting your replays will unlink them from your account and make any previously-shared replay URL inaccessible."
-msgstr ""
+msgstr "L'eliminazione dei replay li scollegherà dal tuo account e renderà inaccessibile qualsiasi URL di replay precedentemente condiviso."
 
 #: templates/account/delete_replays.html:12
 msgid "Your personal statistics will not be reset. Are you sure you want to proceed?"
-msgstr ""
+msgstr "Le tue statistiche personali non verranno azzerate. Sei sicuro di voler procedere?"
 
 #: templates/account/delete_replays.html:19
 msgid "Cancel"
-msgstr ""
+msgstr "Annulla"
 
 #: templates/account/email.html:6
 msgid "Email Addresses"
-msgstr ""
+msgstr "Indirizzi email"
 
 #: templates/account/email.html:10
 msgid "The following email addresses are associated with your account:"
-msgstr ""
+msgstr "I seguenti indirizzi email sono associati al tuo account:"
 
 #: templates/account/email.html:18
 msgid "✔ Verified"
-msgstr ""
+msgstr "✔ Verificato"
 
 #: templates/account/email.html:23
 msgid "Re-send Verification"
@@ -338,43 +338,43 @@ msgstr ""
 
 #: templates/account/email.html:28
 msgid "✔ Primary"
-msgstr ""
+msgstr "✔ Principale"
 
 #: templates/account/email.html:33
 msgid "Make Primary"
-msgstr ""
+msgstr "Imposta come Principale"
 
 #: templates/account/email.html:42 templates/socialaccount/connections.html:53
 msgid "Remove"
-msgstr ""
+msgstr "Elimina"
 
 #: templates/account/email.html:64
 msgid "Add email address"
-msgstr ""
+msgstr "Aggiungi indirizzo email"
 
 #: templates/account/email.html:73
 msgid "Notification settings"
-msgstr ""
+msgstr "Impostazioni di notifica"
 
 #: templates/account/email.html:77
 msgid "Control which types of emails you receive at your primary address."
-msgstr ""
+msgstr "Controlla quali tipi di email ricevi al tuo indirizzo principale."
 
 #: templates/account/email.html:83
 msgid "Account & security (required)"
-msgstr ""
+msgstr "Account e sicurezza (obbligatorio)"
 
 #: templates/account/email.html:84
 msgid "Billing (required)"
-msgstr ""
+msgstr "Fatturazione (obbligatoria)"
 
 #: templates/account/email.html:87
 msgid "Product and feature announcements"
-msgstr ""
+msgstr "Annunci su prodotti e nuove funzionalità"
 
 #: templates/account/email.html:91
 msgid "Save"
-msgstr ""
+msgstr "Salva"
 
 #: templates/account/email.html:99
 #, python-format
@@ -395,19 +395,19 @@ msgstr ""
 #: templates/account/login.html:25
 #, python-format
 msgid "Sign in to continue to %(oauth2_client)s"
-msgstr ""
+msgstr "Accedi per continuare a %(oauth2_client)s"
 
 #: templates/account/login.html:30
 msgid "We'll send you to the official Blizzard site where you can securely sign in."
-msgstr ""
+msgstr "Ti reindirizzeremo al sito ufficiale Blizzard, dove potrai accedere in modo sicuro."
 
 #: templates/account/login.html:32
 msgid "Blizzard will redirect you back here once you're done."
-msgstr ""
+msgstr "Blizzard ti reindirizzerà qui una volta terminato."
 
 #: templates/account/login.html:41
 msgid "Log in with Blizzard"
-msgstr ""
+msgstr "Accedi tramite Blizzard"
 
 #: templates/account/login.html:45
 msgid "Region"
@@ -536,7 +536,7 @@ msgstr ""
 #: templates/footer.html:65 templates/navigation.html:146
 #: templates/navigation.html:149
 msgid "Premium"
-msgstr ""
+msgstr "Premium"
 
 #: templates/footer.html:66 templates/navigation.html:47
 msgid "Battlegrounds"
@@ -548,71 +548,71 @@ msgstr ""
 
 #: templates/footer.html:71
 msgid "Support"
-msgstr ""
+msgstr "Assistenza"
 
 #: templates/footer.html:73
 msgid "Your Account"
-msgstr ""
+msgstr "Il tuo Account"
 
 #: templates/footer.html:85
 msgid "Help Center"
-msgstr ""
+msgstr "Centro Assistenza"
 
 #: templates/footer.html:87
 msgid "Contact Us"
-msgstr ""
+msgstr "Contattaci"
 
 #: templates/footer.html:92
 msgid "Legal"
-msgstr ""
+msgstr "Informazioni legali"
 
 #: templates/footer.html:95
 msgid "Terms of Service"
-msgstr ""
+msgstr "Condizioni d'uso"
 
 #: templates/footer.html:98
 msgid "Privacy Policy"
-msgstr ""
+msgstr "Informativa sulla privacy"
 
 #: templates/footer.html:102
 msgid "Manage Cookie Settings"
-msgstr ""
+msgstr "Gestisci Impostazioni Cookie"
 
 #: templates/footer.html:111
 msgid "About Us"
-msgstr ""
+msgstr "Chi Siamo"
 
 #: templates/games/replay_detail.html:33
 msgid "Replay not available"
-msgstr ""
+msgstr "Replay non disponibile"
 
 #: templates/games/replay_detail.html:35
 msgid "This replay is no longer available."
-msgstr ""
+msgstr "Questo replay non è più disponibile."
 
 #: templates/navigation.html:10
 msgid "Toggle navigation"
-msgstr ""
+msgstr "Attiva/disattiva navigazione"
 
 #: templates/navigation.html:35
 msgid "Classic"
-msgstr ""
+msgstr "Classico"
 
 #: templates/navigation.html:61
 msgid "Heroes"
-msgstr ""
+msgstr "Eroi"
 
 #: templates/navigation.html:71
 msgid "Minions"
-msgstr ""
+msgstr "Servitori"
 
 #: templates/navigation.html:81
 msgid "Compositions"
-msgstr ""
+msgstr "Composizioni"
 
 #: templates/navigation.html:100
 msgid "Articles"
-msgstr ""
+msgstr "Articoli"
 
 #: templates/navigation.html:107
 msgid "Trending"
@@ -620,7 +620,7 @@ msgstr ""
 
 #: templates/navigation.html:116 templates/navigation.html:122
 msgid "Meta"
-msgstr ""
+msgstr "Meta"
 
 #: templates/navigation.html:117
 msgid "Back soon!"
@@ -628,11 +628,11 @@ msgstr ""
 
 #: templates/navigation.html:130
 msgid "Decks"
-msgstr ""
+msgstr "Mazzi"
 
 #: templates/navigation.html:137
 msgid "Cards"
-msgstr ""
+msgstr "Carte"
 
 #: templates/navigation.html:147
 msgid "SALE!"
@@ -640,24 +640,24 @@ msgstr ""
 
 #: templates/oauth2_provider/authorize.html:12
 msgid "Some error happened during authorization."
-msgstr ""
+msgstr "Si è verificato un errore durante l'autorizzazione."
 
 #: templates/oauth2_provider/authorize.html:16
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help."
-msgstr ""
+msgstr "<a href=\"%(contact_url)s\">Contattaci</a> se hai bisogno di aiuto."
 
 #: templates/oauth2_provider/authorize.html:19
 msgid "Permission request"
-msgstr ""
+msgstr "Richiesta di autorizzazione"
 
 #: templates/snippets/noscript.html:5
 msgid "It looks like you have Javascript turned off. This page will not work correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
-msgstr ""
+msgstr "Sembra che hai disattivato Javascript. Questa pagina non funzionerà correttamente. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Ecco come attivarla</a>."
 
 #: templates/socialaccount/authentication_error.html:7
 msgid "Authentication error"
-msgstr ""
+msgstr "Errore di autenticazione"
 
 #: templates/socialaccount/authentication_error.html:11
 #, python-format
@@ -670,23 +670,23 @@ msgstr ""
 
 #: templates/socialaccount/connections.html:9
 msgid "Connected accounts"
-msgstr ""
+msgstr "Account collegati"
 
 #: templates/socialaccount/connections.html:14
 msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard account."
-msgstr ""
+msgstr "I seguenti account social sono connessi al tuo account HSReplay.net. Puoi accedere con qualsiasi account Blizzard collegato."
 
 #: templates/socialaccount/connections.html:41
 msgid "Make primary"
-msgstr ""
+msgstr "Rendi principale"
 
 #: templates/socialaccount/connections.html:44
 msgid "Primary account"
-msgstr ""
+msgstr "Account principale"
 
 #: templates/socialaccount/connections.html:62
 msgid "You currently have no social network accounts connected to this account."
-msgstr ""
+msgstr "Al momento non hai alcun account di social network collegato a questo account."
 
 #: templates/socialaccount/signup.html:17
 msgid "The Blizzard account you are signing up with does not have a confirmed battletag yet, and cannot play Hearthstone."
@@ -728,7 +728,7 @@ msgstr ""
 
 #: templates/socialaccount/signup.html:75
 msgid "Already have an HSReplay.net account?"
-msgstr ""
+msgstr "Hai già un account HSReplay.net?"
 
 #: templates/socialaccount/signup.html:76
 msgid "If you keep seeing this page despite having registered an HSReplay.net account in the past, you may be logged into the wrong Blizzard account."
