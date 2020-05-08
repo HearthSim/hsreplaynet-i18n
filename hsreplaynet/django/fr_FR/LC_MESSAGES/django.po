@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-02 01:40+0000\n"
-"PO-Revision-Date: 2020-05-05 12:40\n"
+"POT-Creation-Date: 2020-05-08 01:40+0000\n"
+"PO-Revision-Date: 2020-05-08 12:40\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -731,6 +731,10 @@ msgstr "J'accepte les <a href=\"%(tos_url)s\">Conditions du service</a>."
 msgid "I want to receive product updates by email."
 msgstr "Je désire recevoir des mises à jour du produit par mail."
 
+#: templates/socialaccount/signup.html:69
+msgid "You can change this at any time."
+msgstr ""
+
 #: templates/socialaccount/signup.html:75
 msgid "Already have an HSReplay.net account?"
 msgstr "Avez-vous déjà un compte HSReplay.net ?"
@@ -817,43 +821,43 @@ msgstr "Cet archétype n'est plus disponible."
 msgid "Find stats and different {name} decklists."
 msgstr "Trouver les stats et les différentes decklists {name}."
 
-#: web/views/battlegrounds.py:84
+#: web/views/battlegrounds.py:85
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr "HSReplay.net Tier7 pour Champs de Bataille"
 
-#: web/views/battlegrounds.py:89
+#: web/views/battlegrounds.py:90
 msgid "Battlegrounds Heroes"
 msgstr "Héros des Champs de bataille"
 
-#: web/views/battlegrounds.py:94 web/views/battlegrounds.py:124
+#: web/views/battlegrounds.py:96 web/views/battlegrounds.py:127
 msgid "Battlegrounds Hero"
 msgstr "Héros des Champs de bataille"
 
-#: web/views/battlegrounds.py:111
+#: web/views/battlegrounds.py:114
 msgid "No matching hero found."
 msgstr "Pas de héros correspondant trouvé."
 
-#: web/views/battlegrounds.py:146
+#: web/views/battlegrounds.py:149
 msgid "Battlegrounds Minions"
 msgstr "Serviteurs des Champs de bataille"
 
-#: web/views/battlegrounds.py:151 web/views/battlegrounds.py:181
+#: web/views/battlegrounds.py:155 web/views/battlegrounds.py:186
 msgid "Battlegrounds Minion"
 msgstr "Serviteur des Champs de bataille"
 
-#: web/views/battlegrounds.py:168
+#: web/views/battlegrounds.py:173
 msgid "No matching minion found."
 msgstr "Pas de serviteur correspondant trouvé."
 
-#: web/views/battlegrounds.py:212
+#: web/views/battlegrounds.py:218
 msgid "Battlegrounds Compositions"
 msgstr "Compositions des Champs de bataille"
 
-#: web/views/battlegrounds.py:217 web/views/battlegrounds.py:239
+#: web/views/battlegrounds.py:224 web/views/battlegrounds.py:247
 msgid "Battlegrounds Composition"
 msgstr "Composition des Champs de bataille"
 
-#: web/views/battlegrounds.py:234
+#: web/views/battlegrounds.py:242
 msgid "No matching composition found."
 msgstr "Pas de composition correspondante trouvée."
 
