@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-02T01:40:53.054368\n"
+"POT-Creation-Date: 2020-05-15T01:41:18.416977\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2020-05-14 12:40\n"
+"PO-Revision-Date: 2020-05-15 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1118,4 +1118,12 @@ msgstr "コントロールウォリアー"
 #: https://hsreplay.net/archetypes/387/galakrond
 msgid "Galakrond"
 msgstr "ガラクロンド"
+
+#: https://hsreplay.net/archetypes/391/small-spell-mage
+msgid "Small Spell Mage"
+msgstr "スモールスペルメイジ"
+
+#: https://hsreplay.net/archetypes/392/no-minion-mage
+msgid "No Minion Mage"
+msgstr "ノーミニオンメイジ"
 
