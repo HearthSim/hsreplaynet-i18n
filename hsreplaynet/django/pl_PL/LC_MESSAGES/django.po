@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-16 01:40+0000\n"
-"PO-Revision-Date: 2020-06-18 00:40\n"
+"POT-Creation-Date: 2020-06-20 01:40+0000\n"
+"PO-Revision-Date: 2020-06-20 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -288,7 +288,7 @@ msgstr "Płatności"
 msgid "Connections"
 msgstr "Połączenia"
 
-#: templates/account/base.html:19 web/views/dashboard.py:332
+#: templates/account/base.html:19 web/views/dashboard.py:336
 msgid "Applications"
 msgstr "Aplikacje"
 
@@ -646,6 +646,10 @@ msgstr "Karty"
 msgid "SALE!"
 msgstr "WYPRZEDAŻ!"
 
+#: templates/navigation.html:177
+msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
+msgstr ""
+
 #: templates/oauth2_provider/authorize.html:12
 msgid "Some error happened during authorization."
 msgstr ""
@@ -905,39 +909,39 @@ msgstr "Kolekcja Kart Hearthstone {user}'a"
 msgid "API Access"
 msgstr "Dostęp do API"
 
-#: web/views/dashboard.py:118
+#: web/views/dashboard.py:122
 msgid "This account cannot be deleted."
 msgstr "To konto nie może zostać usunięte."
 
-#: web/views/dashboard.py:147
+#: web/views/dashboard.py:151
 msgid "Your replays have been deleted."
 msgstr "Twoje powtórki zostały usunięte."
 
-#: web/views/dashboard.py:182
+#: web/views/dashboard.py:186
 msgid "Could not make account primary."
 msgstr "Nie udało się ustawić konta jako główne."
 
-#: web/views/dashboard.py:256
+#: web/views/dashboard.py:260
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr "Sprawdź swoją skrzynkę odbiorczą! Wysłaliśmy do ciebie wiadomość email, aby potwierdzić Twoje ustawienia subskrypcji."
 
-#: web/views/dashboard.py:263 web/views/dashboard.py:269
+#: web/views/dashboard.py:267 web/views/dashboard.py:273
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "Nie udało się zapisać Twoich ustawień emaila. Spróbuj ponownie później!"
 
-#: web/views/dashboard.py:279
+#: web/views/dashboard.py:283
 msgid "Your email preferences have been saved."
 msgstr "Twoje preferencje email zostały zapisane."
 
-#: web/views/dashboard.py:295
+#: web/views/dashboard.py:299
 msgid "Create a webhook"
 msgstr "Stwórz webhook"
 
-#: web/views/dashboard.py:306
+#: web/views/dashboard.py:310
 msgid "Update a webhook"
 msgstr "Zaktualizuj webhook"
 
-#: web/views/dashboard.py:379
+#: web/views/dashboard.py:383
 msgid "Your Application"
 msgstr "Twoja Aplikacja"
 
