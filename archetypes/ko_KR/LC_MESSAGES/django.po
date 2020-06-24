@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-06-03T01:40:54.237655\n"
+"POT-Creation-Date: 2020-06-24T01:40:39.842532\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2020-06-20 12:40\n"
+"PO-Revision-Date: 2020-06-24 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -929,10 +929,6 @@ msgstr "메카툰 마법사"
 msgid "Treant Druid"
 msgstr "나무정령 드루이드"
 
-#: https://hsreplay.net/archetypes/335/dragon-druid
-msgid "Dragon Druid"
-msgstr "용 드루이드"
-
 #: https://hsreplay.net/archetypes/336/highlander-quest-hunter
 msgid "Highlander Quest Hunter"
 msgstr "하이랜더 퀘스트 사냥꾼"
@@ -1132,4 +1128,12 @@ msgstr ""
 #: https://hsreplay.net/archetypes/393/highlander-dragon-mage
 msgid "Highlander Dragon Mage"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/394/control-demon-hunter
+msgid "Control Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/335/dragon-druid
+msgid "Dragon Druid"
+msgstr "용 드루이드"
 
