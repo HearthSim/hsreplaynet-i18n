@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-29 01:40+0000\n"
-"PO-Revision-Date: 2020-07-31 00:40\n"
+"POT-Creation-Date: 2020-08-03 10:44+0000\n"
+"PO-Revision-Date: 2020-08-03 12:42\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -900,7 +900,7 @@ msgstr "Моя коллекция"
 msgid "Collection"
 msgstr "Коллекция"
 
-#: web/views/collections.py:37
+#: web/views/collections.py:38
 #, python-brace-format
 msgid "{user}'s Hearthstone Collection"
 msgstr "Коллекция игрока {user}"
