@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-03 10:44+0000\n"
-"PO-Revision-Date: 2020-08-03 12:40\n"
+"POT-Creation-Date: 2020-08-04 01:40+0000\n"
+"PO-Revision-Date: 2020-08-04 12:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -968,16 +968,20 @@ msgstr "Le deck est trop petit."
 msgid "Deck list contains uncollectible cards."
 msgstr "Le deck contient des cartes non collectionables."
 
-#: web/views/decks.py:75
+#: web/views/decks.py:67
+msgid "Neutral Deck"
+msgstr ""
+
+#: web/views/decks.py:81
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "{name} statistiques et cartes. Importez: {deckstring}"
 
-#: web/views/decks.py:96
+#: web/views/decks.py:102
 msgid "Trending Hearthstone Decks"
 msgstr "Decks populaires"
 
-#: web/views/decks.py:98
+#: web/views/decks.py:104
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "Trouvez les decks qui gagnent en popularité pour chaque classe, mis à jour quotidiennement."
 
