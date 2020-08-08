@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-08T01:40:39.631785\n"
+"POT-Creation-Date: 2020-08-08T01:41:00.649447\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2020-08-04 12:40\n"
+"PO-Revision-Date: 2020-08-08 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -517,10 +517,6 @@ msgstr ""
 msgid "Demon Warlock"
 msgstr "Dämonen-Hexenmeister"
 
-#: https://hsreplay.net/archetypes/159/buff-paladin
-msgid "Buff Paladin"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/199/big-shaman
 msgid "Big Shaman"
 msgstr "Großer Schamane"
@@ -772,10 +768,6 @@ msgstr "Tempo-Schurke"
 #: https://hsreplay.net/archetypes/289/plot-twist-warlock
 msgid "Plot Twist Warlock"
 msgstr "Überraschende-Wendungs-Hexenmeister"
-
-#: https://hsreplay.net/archetypes/291/big-warrior
-msgid "Big Warrior"
-msgstr "Großer Krieger"
 
 #: https://hsreplay.net/archetypes/290/bomb-warrior
 msgid "Bomb Warrior"
@@ -1140,4 +1132,56 @@ msgstr ""
 #: https://hsreplay.net/archetypes/395/cube-priest
 msgid "Cube Priest"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/396/aggro-demon-hunter
+msgid "Aggro Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/397/soul-demon-hunter
+msgid "Soul Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/398/guardian-druid
+msgid "Guardian Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/399/gibberling-druid
+msgid "Gibberling Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/400/exodia-mage
+msgid "Exodia Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/401/spell-damage-mage
+msgid "Spell Damage Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/402/duel-paladin
+msgid "Duel Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/159/buff-paladin
+msgid "Buff Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/403/galakrond-dragon-priest
+msgid "Galakrond Dragon Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/404/aggro-rogue
+msgid "Aggro Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/405/face-rogue
+msgid "Face Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/406/spell-damage-shaman
+msgid "Spell Damage Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/291/big-warrior
+msgid "Big Warrior"
+msgstr "Großer Krieger"
 

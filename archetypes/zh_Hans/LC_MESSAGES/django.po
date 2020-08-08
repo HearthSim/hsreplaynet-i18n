@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-07-08T01:40:39.631785\n"
+"POT-Creation-Date: 2020-08-08T01:41:00.649447\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2020-08-04 12:40\n"
+"PO-Revision-Date: 2020-08-08 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -517,10 +517,6 @@ msgstr "潜行祈求贼"
 msgid "Demon Warlock"
 msgstr "恶魔术"
 
-#: https://hsreplay.net/archetypes/159/buff-paladin
-msgid "Buff Paladin"
-msgstr "Buff骑"
-
 #: https://hsreplay.net/archetypes/199/big-shaman
 msgid "Big Shaman"
 msgstr "大哥萨"
@@ -772,10 +768,6 @@ msgstr "节奏贼"
 #: https://hsreplay.net/archetypes/289/plot-twist-warlock
 msgid "Plot Twist Warlock"
 msgstr "麻将术"
-
-#: https://hsreplay.net/archetypes/291/big-warrior
-msgid "Big Warrior"
-msgstr "大哥战"
 
 #: https://hsreplay.net/archetypes/290/bomb-warrior
 msgid "Bomb Warrior"
@@ -1140,4 +1132,56 @@ msgstr "龙德"
 #: https://hsreplay.net/archetypes/395/cube-priest
 msgid "Cube Priest"
 msgstr "魔块术"
+
+#: https://hsreplay.net/archetypes/396/aggro-demon-hunter
+msgid "Aggro Demon Hunter"
+msgstr "快攻瞎"
+
+#: https://hsreplay.net/archetypes/397/soul-demon-hunter
+msgid "Soul Demon Hunter"
+msgstr "残片瞎"
+
+#: https://hsreplay.net/archetypes/398/guardian-druid
+msgid "Guardian Druid"
+msgstr "保镖德"
+
+#: https://hsreplay.net/archetypes/399/gibberling-druid
+msgid "Gibberling Druid"
+msgstr "超生德"
+
+#: https://hsreplay.net/archetypes/400/exodia-mage
+msgid "Exodia Mage"
+msgstr "无限火球法"
+
+#: https://hsreplay.net/archetypes/401/spell-damage-mage
+msgid "Spell Damage Mage"
+msgstr "法强法"
+
+#: https://hsreplay.net/archetypes/402/duel-paladin
+msgid "Duel Paladin"
+msgstr "决斗骑"
+
+#: https://hsreplay.net/archetypes/159/buff-paladin
+msgid "Buff Paladin"
+msgstr "Buff骑"
+
+#: https://hsreplay.net/archetypes/403/galakrond-dragon-priest
+msgid "Galakrond Dragon Priest"
+msgstr "祈求龙牧"
+
+#: https://hsreplay.net/archetypes/404/aggro-rogue
+msgid "Aggro Rogue"
+msgstr "快攻贼"
+
+#: https://hsreplay.net/archetypes/405/face-rogue
+msgid "Face Rogue"
+msgstr "打脸贼"
+
+#: https://hsreplay.net/archetypes/406/spell-damage-shaman
+msgid "Spell Damage Shaman"
+msgstr "法强萨"
+
+#: https://hsreplay.net/archetypes/291/big-warrior
+msgid "Big Warrior"
+msgstr "大哥战"
 
