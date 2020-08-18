@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-17 01:40+0000\n"
+"POT-Creation-Date: 2020-08-18 01:41+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -289,7 +289,7 @@ msgstr ""
 msgid "Active"
 msgstr ""
 
-#: templates/account/base.html:15 web/views/dashboard.py:41
+#: templates/account/base.html:15 web/views/dashboard.py:39
 msgid "Account"
 msgstr ""
 
@@ -305,7 +305,7 @@ msgstr ""
 msgid "Connections"
 msgstr ""
 
-#: templates/account/base.html:19 web/views/dashboard.py:336
+#: templates/account/base.html:19 web/views/dashboard.py:319
 msgid "Applications"
 msgstr ""
 
@@ -314,7 +314,7 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
-#: templates/account/base.html:25 web/views/dashboard.py:100
+#: templates/account/base.html:25 web/views/dashboard.py:83
 msgid "Delete Account"
 msgstr ""
 
@@ -971,45 +971,45 @@ msgstr ""
 msgid "{user}'s Hearthstone Collection"
 msgstr ""
 
-#: web/views/dashboard.py:88
+#: web/views/dashboard.py:71
 msgid "API Access"
 msgstr ""
 
-#: web/views/dashboard.py:122
+#: web/views/dashboard.py:105
 msgid "This account cannot be deleted."
 msgstr ""
 
-#: web/views/dashboard.py:151
+#: web/views/dashboard.py:134
 msgid "Your replays have been deleted."
 msgstr ""
 
-#: web/views/dashboard.py:186
+#: web/views/dashboard.py:169
 msgid "Could not make account primary."
 msgstr ""
 
-#: web/views/dashboard.py:260
+#: web/views/dashboard.py:243
 msgid ""
 "Check your inbox! We've sent an email to confirm your subscription "
 "preferences."
 msgstr ""
 
-#: web/views/dashboard.py:267 web/views/dashboard.py:273
+#: web/views/dashboard.py:250 web/views/dashboard.py:256
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr ""
 
-#: web/views/dashboard.py:283
+#: web/views/dashboard.py:266
 msgid "Your email preferences have been saved."
 msgstr ""
 
-#: web/views/dashboard.py:299
+#: web/views/dashboard.py:282
 msgid "Create a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:310
+#: web/views/dashboard.py:293
 msgid "Update a webhook"
 msgstr ""
 
-#: web/views/dashboard.py:383
+#: web/views/dashboard.py:366
 msgid "Your Application"
 msgstr ""
 
@@ -1067,11 +1067,11 @@ msgstr ""
 msgid "{count} access tokens deleted."
 msgstr ""
 
-#: web/views/premium.py:20
+#: web/views/premium.py:18
 msgid "HSReplay.net Premium"
 msgstr ""
 
-#: web/views/premium.py:22
+#: web/views/premium.py:20
 msgid ""
 "More filters, more features, more data: Gain access to advanced Hearthstone "
 "statistics backed by millions of games with HSReplay.net Premium for "
