@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-18 01:41+0000\n"
-"PO-Revision-Date: 2020-08-20 12:40\n"
+"POT-Creation-Date: 2020-08-21 01:41+0000\n"
+"PO-Revision-Date: 2020-08-21 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -582,11 +582,11 @@ msgstr "서비스 이용약관"
 msgid "Privacy Policy"
 msgstr "개인정보 보호정책"
 
-#: templates/footer.html:103
+#: templates/footer.html:104
 msgid "Manage Cookie Settings"
 msgstr ""
 
-#: templates/footer.html:113
+#: templates/footer.html:114
 msgid "About Us"
 msgstr "소개"
 
@@ -771,59 +771,59 @@ msgstr ""
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
 msgstr ""
 
-#: web/views/__init__.py:22
+#: web/views/__init__.py:23
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr ""
 
-#: web/views/__init__.py:46
+#: web/views/__init__.py:47
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - 하스스톤 승률통계"
 
-#: web/views/__init__.py:149 web/views/battlegrounds.py:67
+#: web/views/__init__.py:151 web/views/battlegrounds.py:67
 msgid "Download Hearthstone Deck Tracker"
 msgstr "하스스톤 덱 트래커 다운로드"
 
-#: web/views/__init__.py:151 web/views/battlegrounds.py:69
+#: web/views/__init__.py:153 web/views/battlegrounds.py:69
 msgid "HSReplay.net Companion App"
 msgstr "HSReplay.net 컴패니언 앱"
 
-#: web/views/__init__.py:153 web/views/battlegrounds.py:71
+#: web/views/__init__.py:155 web/views/battlegrounds.py:71
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "하스스톤 덱 트래커는 당신이 프로들처럼 플레이 할 수 있게 도와주는 무료 프로그램입니다."
 
-#: web/views/__init__.py:179
+#: web/views/__init__.py:181
 msgid "Contact our Support Team"
 msgstr ""
 
-#: web/views/__init__.py:181
+#: web/views/__init__.py:183
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr ""
 
-#: web/views/archetypes.py:20
+#: web/views/archetypes.py:22
 msgid "Hearthstone Meta"
 msgstr "하스스톤 메타"
 
-#: web/views/archetypes.py:22
+#: web/views/archetypes.py:24
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr ""
 
-#: web/views/archetypes.py:31
+#: web/views/archetypes.py:33
 msgid "Discover"
 msgstr "발견하기"
 
-#: web/views/archetypes.py:33
+#: web/views/archetypes.py:35
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr ""
 
-#: web/views/archetypes.py:46
+#: web/views/archetypes.py:48
 msgid "Archetype"
 msgstr "아키타입"
 
-#: web/views/archetypes.py:51
+#: web/views/archetypes.py:53
 msgid "This archetype is no longer available."
 msgstr "이 아키타입은 더 이상 유효하지 않습니다."
 
-#: web/views/archetypes.py:57
+#: web/views/archetypes.py:59
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr ""
@@ -868,27 +868,27 @@ msgstr ""
 msgid "No matching composition found."
 msgstr ""
 
-#: web/views/cards.py:25 web/views/cards.py:115
+#: web/views/cards.py:26 web/views/cards.py:116
 msgid "Hearthstone Card Statistics"
 msgstr "하스스톤 카드 통계"
 
-#: web/views/cards.py:27
+#: web/views/cards.py:28
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
 msgstr "수집 가능한 모든 하스스톤 카드 통계를 비교합니다. 가장 승률이 높은 카드와 가장 많이 플레이한 카드를 찾아보세요."
 
-#: web/views/cards.py:38
+#: web/views/cards.py:39
 msgid "My Cards"
 msgstr "내 카드"
 
-#: web/views/cards.py:103
+#: web/views/cards.py:104
 msgid "No card found matching the query."
 msgstr "해당 카드가 없습니다."
 
-#: web/views/cards.py:125
+#: web/views/cards.py:126
 msgid "Statistics and decks!"
 msgstr "통계와 덱!"
 
-#: web/views/cards.py:151
+#: web/views/cards.py:152
 msgid "Hearthstone Card Editor"
 msgstr "하스스톤 카드 에디터"
 
@@ -945,44 +945,44 @@ msgstr "웹훅 수정"
 msgid "Your Application"
 msgstr ""
 
-#: web/views/decks.py:20
+#: web/views/decks.py:22
 msgid "Hearthstone Decks"
 msgstr "하스스톤 덱"
 
-#: web/views/decks.py:22
+#: web/views/decks.py:24
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
 msgstr ""
 
-#: web/views/decks.py:30
+#: web/views/decks.py:32
 msgid "My Decks"
 msgstr "내 덱"
 
-#: web/views/decks.py:49
+#: web/views/decks.py:51
 msgid "Deck does not exist."
 msgstr "덱이 존재하지 않습니다."
 
-#: web/views/decks.py:59
+#: web/views/decks.py:61
 msgid "Deck list is too small."
 msgstr "덱이 너무 작습니다."
 
-#: web/views/decks.py:63
+#: web/views/decks.py:65
 msgid "Deck list contains uncollectible cards."
 msgstr "덱 리스트에 수집 불가능한 카드가 포함되어 있습니다."
 
-#: web/views/decks.py:67
+#: web/views/decks.py:69
 msgid "Neutral Deck"
 msgstr ""
 
-#: web/views/decks.py:81
+#: web/views/decks.py:83
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr ""
 
-#: web/views/decks.py:102
+#: web/views/decks.py:105
 msgid "Trending Hearthstone Decks"
 msgstr "떠오르는 하스스톤 덱"
 
-#: web/views/decks.py:104
+#: web/views/decks.py:107
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "매일 매일 업데이트되는 최신 인기 덱을 찾아보세요."
 

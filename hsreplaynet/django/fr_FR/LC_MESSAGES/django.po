@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-18 01:41+0000\n"
-"PO-Revision-Date: 2020-08-20 12:40\n"
+"POT-Creation-Date: 2020-08-21 01:41+0000\n"
+"PO-Revision-Date: 2020-08-21 12:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -581,11 +581,11 @@ msgstr "Conditions d’utilisation"
 msgid "Privacy Policy"
 msgstr "Confidentialité"
 
-#: templates/footer.html:103
+#: templates/footer.html:104
 msgid "Manage Cookie Settings"
 msgstr "Gérer les paramètres de cookies"
 
-#: templates/footer.html:113
+#: templates/footer.html:114
 msgid "About Us"
 msgstr "À propos"
 
@@ -770,59 +770,59 @@ msgstr "Connectez-vous au compte Blizzard correct"
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
 msgstr "<a href=\"%(contact_url)s\">Contactez-nous</a> si vous avez besoin d'aide pour vous connecter à un compte existant. Nous pouvons fusionner des comptes pour vous !"
 
-#: web/views/__init__.py:22
+#: web/views/__init__.py:23
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr "Regardez et partagez les rediffusions directement à partir de votre navigateur web. Explorez les statistiques avancées des decks et cartes, basées sur des millions de parties par semaine."
 
-#: web/views/__init__.py:46
+#: web/views/__init__.py:47
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - Jouez Pro"
 
-#: web/views/__init__.py:149 web/views/battlegrounds.py:67
+#: web/views/__init__.py:151 web/views/battlegrounds.py:67
 msgid "Download Hearthstone Deck Tracker"
 msgstr "Télécharger Hearthstone Deck Tracker"
 
-#: web/views/__init__.py:151 web/views/battlegrounds.py:69
+#: web/views/__init__.py:153 web/views/battlegrounds.py:69
 msgid "HSReplay.net Companion App"
 msgstr "App HSReplay.net associée"
 
-#: web/views/__init__.py:153 web/views/battlegrounds.py:71
+#: web/views/__init__.py:155 web/views/battlegrounds.py:71
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "Hearthstone Deck Tracker est une application gratuite pour vous aider à jouer comme les pros."
 
-#: web/views/__init__.py:179
+#: web/views/__init__.py:181
 msgid "Contact our Support Team"
 msgstr "Contacter notre service client"
 
-#: web/views/__init__.py:181
+#: web/views/__init__.py:183
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr "Communiquez avec l'équipe d'assistance HSReplay.net."
 
-#: web/views/archetypes.py:20
+#: web/views/archetypes.py:22
 msgid "Hearthstone Meta"
 msgstr "Méta Hearthstone"
 
-#: web/views/archetypes.py:22
+#: web/views/archetypes.py:24
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr "Explorez la méta Hearthstone et trouvez contre quels archétypes votre deck est fort."
 
-#: web/views/archetypes.py:31
+#: web/views/archetypes.py:33
 msgid "Discover"
 msgstr "Découvrir"
 
-#: web/views/archetypes.py:33
+#: web/views/archetypes.py:35
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr "Voyez émerger la prochaine méta Hearthstone et découvrez les archétypes les plus récents."
 
-#: web/views/archetypes.py:46
+#: web/views/archetypes.py:48
 msgid "Archetype"
 msgstr "Archétype"
 
-#: web/views/archetypes.py:51
+#: web/views/archetypes.py:53
 msgid "This archetype is no longer available."
 msgstr "Cet archétype n'est plus disponible."
 
-#: web/views/archetypes.py:57
+#: web/views/archetypes.py:59
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr "Trouver les stats et les différentes decklists {name}."
@@ -867,27 +867,27 @@ msgstr "Composition des Champs de bataille"
 msgid "No matching composition found."
 msgstr "Pas de composition correspondante trouvée."
 
-#: web/views/cards.py:25 web/views/cards.py:115
+#: web/views/cards.py:26 web/views/cards.py:116
 msgid "Hearthstone Card Statistics"
 msgstr "Statistique de carte Hearthstone"
 
-#: web/views/cards.py:27
+#: web/views/cards.py:28
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
 msgstr "Comparez les statistiques de toutes les cartes Hearthstone. Trouvez les cartes qui sont le plus jouées ou celles qui ont le plus haut winrate."
 
-#: web/views/cards.py:38
+#: web/views/cards.py:39
 msgid "My Cards"
 msgstr "Mes cartes"
 
-#: web/views/cards.py:103
+#: web/views/cards.py:104
 msgid "No card found matching the query."
 msgstr "Aucune carte ne correspond à la requête."
 
-#: web/views/cards.py:125
+#: web/views/cards.py:126
 msgid "Statistics and decks!"
 msgstr "Statistiques et decks !"
 
-#: web/views/cards.py:151
+#: web/views/cards.py:152
 msgid "Hearthstone Card Editor"
 msgstr "Éditeur de carte Hearthstone"
 
@@ -944,44 +944,44 @@ msgstr "Éditer un webhook"
 msgid "Your Application"
 msgstr "Votre demande"
 
-#: web/views/decks.py:20
+#: web/views/decks.py:22
 msgid "Hearthstone Decks"
 msgstr "Decks Hearthstone"
 
-#: web/views/decks.py:22
+#: web/views/decks.py:24
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
 msgstr "Trouvez des decks populaires pour chaque classe, carte et mode de jeu. Comparez les winrates et trouver le deck qui vous ira !"
 
-#: web/views/decks.py:30
+#: web/views/decks.py:32
 msgid "My Decks"
 msgstr "Mes decks"
 
-#: web/views/decks.py:49
+#: web/views/decks.py:51
 msgid "Deck does not exist."
 msgstr "Le deck n'existe pas."
 
-#: web/views/decks.py:59
+#: web/views/decks.py:61
 msgid "Deck list is too small."
 msgstr "Le deck est trop petit."
 
-#: web/views/decks.py:63
+#: web/views/decks.py:65
 msgid "Deck list contains uncollectible cards."
 msgstr "Le deck contient des cartes non collectionables."
 
-#: web/views/decks.py:67
+#: web/views/decks.py:69
 msgid "Neutral Deck"
 msgstr ""
 
-#: web/views/decks.py:81
+#: web/views/decks.py:83
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "{name} statistiques et cartes. Importez: {deckstring}"
 
-#: web/views/decks.py:102
+#: web/views/decks.py:105
 msgid "Trending Hearthstone Decks"
 msgstr "Decks populaires"
 
-#: web/views/decks.py:104
+#: web/views/decks.py:107
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "Trouvez les decks qui gagnent en popularité pour chaque classe, mis à jour quotidiennement."
 
