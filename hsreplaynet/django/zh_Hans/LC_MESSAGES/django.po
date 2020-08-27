@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-24 01:40+0000\n"
-"PO-Revision-Date: 2020-08-26 12:40\n"
+"POT-Creation-Date: 2020-08-27 01:40+0000\n"
+"PO-Revision-Date: 2020-08-27 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -288,7 +288,7 @@ msgstr "会员订单"
 msgid "Connections"
 msgstr "关联的账户"
 
-#: templates/account/base.html:19 web/views/dashboard.py:319
+#: templates/account/base.html:19 web/views/dashboard.py:327
 msgid "Applications"
 msgstr "应用授权"
 
@@ -297,7 +297,7 @@ msgstr "应用授权"
 msgid "Password"
 msgstr "密码"
 
-#: templates/account/base.html:25 web/views/dashboard.py:83
+#: templates/account/base.html:25 web/views/dashboard.py:91
 msgid "Delete Account"
 msgstr "删除帐户"
 
@@ -901,43 +901,43 @@ msgstr "收藏"
 msgid "{user}'s Hearthstone Collection"
 msgstr "{user} 的卡牌收藏"
 
-#: web/views/dashboard.py:71
+#: web/views/dashboard.py:79
 msgid "API Access"
 msgstr "API权限"
 
-#: web/views/dashboard.py:105
+#: web/views/dashboard.py:113
 msgid "This account cannot be deleted."
 msgstr "此账号不能被删除。"
 
-#: web/views/dashboard.py:134
+#: web/views/dashboard.py:142
 msgid "Your replays have been deleted."
 msgstr "您的回放已删除。"
 
-#: web/views/dashboard.py:169
+#: web/views/dashboard.py:177
 msgid "Could not make account primary."
 msgstr "无法设为首要账号。"
 
-#: web/views/dashboard.py:243
+#: web/views/dashboard.py:251
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr "请检查收件箱！我们已经向您发送了一封电子邮件来核实您的订阅偏好。"
 
-#: web/views/dashboard.py:250 web/views/dashboard.py:256
+#: web/views/dashboard.py:258 web/views/dashboard.py:264
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "无法保存电子邮件偏好。请稍后再试！"
 
-#: web/views/dashboard.py:266
+#: web/views/dashboard.py:274
 msgid "Your email preferences have been saved."
 msgstr "您的邮箱偏好已设定。"
 
-#: web/views/dashboard.py:282
+#: web/views/dashboard.py:290
 msgid "Create a webhook"
 msgstr "创建链接"
 
-#: web/views/dashboard.py:293
+#: web/views/dashboard.py:301
 msgid "Update a webhook"
 msgstr "更新链接"
 
-#: web/views/dashboard.py:366
+#: web/views/dashboard.py:374
 msgid "Your Application"
 msgstr "您的应用"
 
