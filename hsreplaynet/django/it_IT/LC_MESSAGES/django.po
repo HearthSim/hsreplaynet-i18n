@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-08-27 01:40+0000\n"
-"PO-Revision-Date: 2020-09-02 12:40\n"
+"PO-Revision-Date: 2020-09-05 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -449,50 +449,50 @@ msgstr ""
 
 #: templates/account/password_reset.html:11
 msgid "Password reset"
-msgstr ""
+msgstr "Reimposta la password"
 
 #: templates/account/password_reset.html:13
 msgid "Forgot your password? Enter your email below, we'll send you a link to reset it."
-msgstr ""
+msgstr "Hai dimenticato la password? Inserisci la tua email qui sotto, ti invieremo un link per reimpostarla."
 
 #: templates/account/password_reset.html:19
 msgid "Reset password"
-msgstr ""
+msgstr "Reimpostare la password"
 
 #: templates/account/password_reset.html:26
 #, python-format
 msgid "Need help? <a href=\"%(contact_url)s\">Contact us</a>."
-msgstr ""
+msgstr "Hai bisogno di aiuto? <a href=\"%(contact_url)s\">Contattaci</a>."
 
 #: templates/account/signup.html:8 templates/account/signup.html:39
 #: templates/socialaccount/signup.html:12
 msgid "Sign up"
-msgstr ""
+msgstr "Registrati"
 
 #: templates/account/signup.html:10
 msgid "To sign up to HSReplay.net, use your Blizzard account."
-msgstr ""
+msgstr "Per iscriverti a HSReplay.net, usa il tuo account Blizzard."
 
 #: templates/account/signup.html:16
 msgid "Alternatively, sign up with an email and password."
-msgstr ""
+msgstr "In alternativa, iscriviti con email e una password."
 
 #: templates/account/signup.html:30 templates/socialaccount/signup.html:45
 msgid "Email address"
-msgstr ""
+msgstr "Indirizzo Email"
 
 #: templates/account/signup.html:36
 msgid "Password (repeat)"
-msgstr ""
+msgstr "Password (di nuovo)"
 
 #: templates/account/snippets/already_logged_in.html:3
 #, python-format
 msgid "You are already logged in as <em>%(user)s</em>."
-msgstr ""
+msgstr "Hai già effettuato l'accesso come <em>%(user)s</em>."
 
 #: templates/account/verification_sent.html:7
 msgid "Verify your e-mail address"
-msgstr ""
+msgstr "Verifica il tuo indirizzo e-mail"
 
 #: templates/account/verification_sent.html:11
 msgid "We have sent you an e-mail for verification. Follow the link in it to finalize the signup process."
@@ -501,39 +501,39 @@ msgstr ""
 #: templates/account/verification_sent.html:15
 #, python-format
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
-msgstr ""
+msgstr "Per favore, <a href=\"%(contact_url)s\">contattaci</a> se non la ricevi entro qualche minuto."
 
 #: templates/footer.html:8
 msgid "Back to top"
-msgstr ""
+msgstr "Torna all'inizio"
 
 #: templates/footer.html:19
 msgid "Social Media"
-msgstr ""
+msgstr "Social Media"
 
 #: templates/footer.html:25
 msgid "Join our Discord server"
-msgstr ""
+msgstr "Unisciti al nostro server Discord"
 
 #: templates/footer.html:31
 msgid "Follow us on Twitter"
-msgstr ""
+msgstr "Seguici su Twitter"
 
 #: templates/footer.html:37
 msgid "Like us on Facebook"
-msgstr ""
+msgstr "Metti Mi piace su Facebook"
 
 #: templates/footer.html:43
 msgid "Follow us on Instagram"
-msgstr ""
+msgstr "Seguici su Instagram"
 
 #: templates/footer.html:56
 msgid "Not affiliated with Blizzard Entertainment."
-msgstr ""
+msgstr "Non affiliato a Blizzard Entertainment."
 
 #: templates/footer.html:64 templates/navigation.html:159
 msgid "Downloads"
-msgstr ""
+msgstr "Downloads"
 
 #: templates/footer.html:65 templates/navigation.html:148
 #: templates/navigation.html:151
