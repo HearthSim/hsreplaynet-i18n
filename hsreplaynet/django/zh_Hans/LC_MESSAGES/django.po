@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-27 01:40+0000\n"
-"PO-Revision-Date: 2020-09-10 00:40\n"
+"POT-Creation-Date: 2020-09-12 01:40+0000\n"
+"PO-Revision-Date: 2020-09-12 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -66,107 +66,107 @@ msgstr "激活码使用失败，激活码依旧可用于其他账号。"
 msgid "Code has been applied to your account."
 msgstr "激活码使用成功。"
 
-#: billing/views.py:228
+#: billing/views.py:231
 msgid "Error adding payment card"
 msgstr "添加支付卡错误"
 
-#: billing/views.py:232
+#: billing/views.py:235
 msgid "Your card was declined. Please use a different card."
 msgstr "您的支付卡遭到拒绝。请用另一张卡。"
 
-#: billing/views.py:248
+#: billing/views.py:251
 msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
 msgstr "那个邮箱地址已经与其他账户绑定。如果您想要合并账户，请联系我们！"
 
-#: billing/views.py:276
+#: billing/views.py:279
 msgid "You have multiple subscriptions. Please contact us."
 msgstr "您有多次重复的订购。请联系我们。"
 
-#: billing/views.py:290
+#: billing/views.py:293
 msgid "Your subscription has expired."
 msgstr "您的会员订购已经过期了。"
 
-#: billing/views.py:296
+#: billing/views.py:299
 msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
 msgstr "您的当前订购仍然有效。如果您有支付问题，请联系我们！"
 
-#: billing/views.py:300
+#: billing/views.py:303
 msgid "You are already subscribed!"
 msgstr "您已经订购了付费会员！"
 
-#: billing/views.py:306 billing/views.py:448 billing/views.py:515
+#: billing/views.py:309 billing/views.py:451 billing/views.py:518
 msgid "You already have an active or a pending subscription."
 msgstr "你已经开通会员了，或者拥有一个待支付的订阅。"
 
-#: billing/views.py:349
+#: billing/views.py:352
 msgid "Could not process subscription."
 msgstr "无法处理订单。"
 
-#: billing/views.py:366
+#: billing/views.py:369
 msgid "Your card declined the charge. Please contact your bank for information."
 msgstr "您的支付卡拒绝收款。请联系您的银行了解详情。"
 
-#: billing/views.py:368
+#: billing/views.py:371
 msgid "Your card does not support payments in USD. Please try a different card."
 msgstr "您的支付卡不支持用美元支付。请用另一张卡。"
 
-#: billing/views.py:370
+#: billing/views.py:373
 msgid "Your card has exceeded its credit limit. Please use a different one."
 msgstr "您的支付卡超出了信用额度。请用另一张卡。"
 
-#: billing/views.py:372
+#: billing/views.py:375
 msgid "Your card has insufficient funds to proceed."
 msgstr "您的支付卡没有足够余额继续操作。"
 
-#: billing/views.py:376
+#: billing/views.py:379
 msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
 msgstr "您的支付卡遭到拒绝，您可能仍未被收费。请用另一张卡；如果这种情况仍然存在，请联系我们。"
 
-#: billing/views.py:407
+#: billing/views.py:410
 msgid "You are now subscribed!"
 msgstr "您已经是付费会员了！"
 
-#: billing/views.py:416
+#: billing/views.py:419
 msgid " Please contact us if you are seeing this in error."
 msgstr " 如果您看见这条信息，请联系我们。"
 
-#: billing/views.py:437
+#: billing/views.py:440
 msgid "Unable to complete subscription."
 msgstr "无法完成订购。"
 
-#: billing/views.py:442
+#: billing/views.py:445
 msgid "Invalid subscription token."
 msgstr "无效的订购秘钥。"
 
-#: billing/views.py:445
+#: billing/views.py:448
 msgid "You are not logged in as the correct user."
 msgstr "您没有作为正确的用户登录。"
 
-#: billing/views.py:467
+#: billing/views.py:470
 msgid "Subscription was canceled by PayPal."
 msgstr "您的会员订阅已被PayPal取消。"
 
-#: billing/views.py:475
+#: billing/views.py:478
 msgid "You are now subscribed with PayPal!"
 msgstr "您已用PayPal成功订购！"
 
-#: billing/views.py:496
+#: billing/views.py:499
 msgid "Invalid token while cancelling payment."
 msgstr "取消支付的秘钥无效。"
 
-#: billing/views.py:501
+#: billing/views.py:504
 msgid "Payment has already completed and cannot be canceled."
 msgstr "付款已经完成，不能被取消。"
 
-#: billing/views.py:505
+#: billing/views.py:508
 msgid "Your payment was interrupted."
 msgstr "您的支付被终止。"
 
-#: billing/views.py:519
+#: billing/views.py:522
 msgid "Could not determine your plan."
 msgstr "无法确定您的套餐状态。"
 
-#: billing/views.py:524
+#: billing/views.py:527
 msgid "Invalid Paypal plan."
 msgstr "无效PayPal套餐。"
 
@@ -509,6 +509,10 @@ msgstr "我们已经给你发了一封验证电子邮件。按照其中的链接
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr "如果几分钟内仍未收到邮件，请<a href=\"%(contact_url)s\">联系我们</a>。"
 
+#: templates/base.html:113
+msgid "Xsolla is an authorized global distributor of HSReplay.net"
+msgstr ""
+
 #: templates/footer.html:8
 msgid "Back to top"
 msgstr "返回顶部"
@@ -771,27 +775,27 @@ msgstr "如果您无法登录已有账号，请<a href=\"%(contact_url)s\">联�
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr "从浏览器中直接观看、分享你的炉石回放。探索套牌、卡牌的高级统计信息，这些都基于数以万计的对局。"
 
-#: web/views/__init__.py:47
+#: web/views/__init__.py:50
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - 释放你的潜能"
 
-#: web/views/__init__.py:151 web/views/battlegrounds.py:67
+#: web/views/__init__.py:154 web/views/battlegrounds.py:67
 msgid "Download Hearthstone Deck Tracker"
 msgstr "下载HDT记牌器"
 
-#: web/views/__init__.py:153 web/views/battlegrounds.py:69
+#: web/views/__init__.py:156 web/views/battlegrounds.py:69
 msgid "HSReplay.net Companion App"
 msgstr "HSReplay.net随身应用程序"
 
-#: web/views/__init__.py:155 web/views/battlegrounds.py:71
+#: web/views/__init__.py:158 web/views/battlegrounds.py:71
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "HDT记牌器是一款免费的应用，可以帮助您拥有职业选手游戏发挥。"
 
-#: web/views/__init__.py:181
+#: web/views/__init__.py:184
 msgid "Contact our Support Team"
 msgstr "联系我们的支持团队。"
 
-#: web/views/__init__.py:183
+#: web/views/__init__.py:186
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr "与HSReplay.net 支持团队取得联系。"
 
@@ -824,43 +828,43 @@ msgstr "此卡组已不再可用。"
 msgid "Find stats and different {name} decklists."
 msgstr "查找统计信息和不同的 {name} 套牌。"
 
-#: web/views/battlegrounds.py:92
+#: web/views/battlegrounds.py:95
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr "HSReplay.net Tier7（酒馆战棋）"
 
-#: web/views/battlegrounds.py:97
+#: web/views/battlegrounds.py:100
 msgid "Battlegrounds Heroes"
 msgstr "酒馆战棋英雄"
 
-#: web/views/battlegrounds.py:103 web/views/battlegrounds.py:134
+#: web/views/battlegrounds.py:106 web/views/battlegrounds.py:137
 msgid "Battlegrounds Hero"
 msgstr "酒馆战棋英雄"
 
-#: web/views/battlegrounds.py:121
+#: web/views/battlegrounds.py:124
 msgid "No matching hero found."
 msgstr "未找到匹配的英雄。"
 
-#: web/views/battlegrounds.py:156
+#: web/views/battlegrounds.py:159
 msgid "Battlegrounds Minions"
 msgstr "酒馆战棋随从"
 
-#: web/views/battlegrounds.py:162 web/views/battlegrounds.py:193
+#: web/views/battlegrounds.py:165 web/views/battlegrounds.py:196
 msgid "Battlegrounds Minion"
 msgstr "酒馆战棋随从"
 
-#: web/views/battlegrounds.py:180
+#: web/views/battlegrounds.py:183
 msgid "No matching minion found."
 msgstr "未找到匹配的随从。"
 
-#: web/views/battlegrounds.py:225
+#: web/views/battlegrounds.py:228
 msgid "Battlegrounds Compositions"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:231 web/views/battlegrounds.py:254
+#: web/views/battlegrounds.py:234 web/views/battlegrounds.py:257
 msgid "Battlegrounds Composition"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:249
+#: web/views/battlegrounds.py:252
 msgid "No matching composition found."
 msgstr "没有找到对应的流派。"
 

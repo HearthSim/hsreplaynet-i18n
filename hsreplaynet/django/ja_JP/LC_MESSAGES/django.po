@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-08-27 01:40+0000\n"
-"PO-Revision-Date: 2020-09-10 00:40\n"
+"POT-Creation-Date: 2020-09-12 01:40+0000\n"
+"PO-Revision-Date: 2020-09-12 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -66,107 +66,107 @@ msgstr "コードがアカウントに影響せず有効なままです。"
 msgid "Code has been applied to your account."
 msgstr "コードが適用されています。"
 
-#: billing/views.py:228
+#: billing/views.py:231
 msgid "Error adding payment card"
 msgstr "支払いカードの追加エラー"
 
-#: billing/views.py:232
+#: billing/views.py:235
 msgid "Your card was declined. Please use a different card."
 msgstr "あなたのカードは拒否されました。別のカードを使用してください。"
 
-#: billing/views.py:248
+#: billing/views.py:251
 msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
 msgstr "このメールアドレスは別のアカウントに紐づいています。アカウントを統一したい場合はお問い合わせください！"
 
-#: billing/views.py:276
+#: billing/views.py:279
 msgid "You have multiple subscriptions. Please contact us."
 msgstr "複数のサブスクリプションがあります。お問い合わせください。"
 
-#: billing/views.py:290
+#: billing/views.py:293
 msgid "Your subscription has expired."
 msgstr "サブスクリプションの有効期限が切れています。"
 
-#: billing/views.py:296
+#: billing/views.py:299
 msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
 msgstr "定期購入がまだ有効になっています。課金に関する問題につきましてはご連絡ください！"
 
-#: billing/views.py:300
+#: billing/views.py:303
 msgid "You are already subscribed!"
 msgstr "サブスクライブ済みです！"
 
-#: billing/views.py:306 billing/views.py:448 billing/views.py:515
+#: billing/views.py:309 billing/views.py:451 billing/views.py:518
 msgid "You already have an active or a pending subscription."
 msgstr "定期購入はすでに有効になっているか、課金が完了しています。"
 
-#: billing/views.py:349
+#: billing/views.py:352
 msgid "Could not process subscription."
 msgstr "定期購入をキャンセルできませんでした。"
 
-#: billing/views.py:366
+#: billing/views.py:369
 msgid "Your card declined the charge. Please contact your bank for information."
 msgstr "カードの支払いが拒否されました。お使いの銀行にお問い合わせください。"
 
-#: billing/views.py:368
+#: billing/views.py:371
 msgid "Your card does not support payments in USD. Please try a different card."
 msgstr "あなたのカードは米ドルでの支払いをサポートしていません。別のカードをお試しください。"
 
-#: billing/views.py:370
+#: billing/views.py:373
 msgid "Your card has exceeded its credit limit. Please use a different one."
 msgstr "お使いのカードは限度額を超えています。別のカードを使用してください。"
 
-#: billing/views.py:372
+#: billing/views.py:375
 msgid "Your card has insufficient funds to proceed."
 msgstr "あなたのカードは残高不足のため、続行できません。"
 
-#: billing/views.py:376
+#: billing/views.py:379
 msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
 msgstr "お使いのカードは拒否されました。支払いはまだ完了していません。別のカードをお試しの上、問題がある場合は我々にご連絡ください。"
 
-#: billing/views.py:407
+#: billing/views.py:410
 msgid "You are now subscribed!"
 msgstr "サブスクライブしました！"
 
-#: billing/views.py:416
+#: billing/views.py:419
 msgid " Please contact us if you are seeing this in error."
 msgstr " このエラーが表示された時はご連絡ください。"
 
-#: billing/views.py:437
+#: billing/views.py:440
 msgid "Unable to complete subscription."
 msgstr "サブスクリプションを完了できません。"
 
-#: billing/views.py:442
+#: billing/views.py:445
 msgid "Invalid subscription token."
 msgstr "無効なサブスクリプショントークンです。"
 
-#: billing/views.py:445
+#: billing/views.py:448
 msgid "You are not logged in as the correct user."
 msgstr "正しいユーザーとしてログインしていません。"
 
-#: billing/views.py:467
+#: billing/views.py:470
 msgid "Subscription was canceled by PayPal."
 msgstr ""
 
-#: billing/views.py:475
+#: billing/views.py:478
 msgid "You are now subscribed with PayPal!"
 msgstr "PayPalでサブスクライブしました！"
 
-#: billing/views.py:496
+#: billing/views.py:499
 msgid "Invalid token while cancelling payment."
 msgstr ""
 
-#: billing/views.py:501
+#: billing/views.py:504
 msgid "Payment has already completed and cannot be canceled."
 msgstr ""
 
-#: billing/views.py:505
+#: billing/views.py:508
 msgid "Your payment was interrupted."
 msgstr "支払いが中断されました。"
 
-#: billing/views.py:519
+#: billing/views.py:522
 msgid "Could not determine your plan."
 msgstr ""
 
-#: billing/views.py:524
+#: billing/views.py:527
 msgid "Invalid Paypal plan."
 msgstr ""
 
@@ -503,6 +503,10 @@ msgstr "あなたのメールアドレスに、確認のためのメールを送
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr ""
 
+#: templates/base.html:113
+msgid "Xsolla is an authorized global distributor of HSReplay.net"
+msgstr ""
+
 #: templates/footer.html:8
 msgid "Back to top"
 msgstr "トップに戻る"
@@ -765,27 +769,27 @@ msgstr ""
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr ""
 
-#: web/views/__init__.py:47
+#: web/views/__init__.py:50
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net─あなたの潜在能力を解き放とう"
 
-#: web/views/__init__.py:151 web/views/battlegrounds.py:67
+#: web/views/__init__.py:154 web/views/battlegrounds.py:67
 msgid "Download Hearthstone Deck Tracker"
 msgstr "Hearthstone Deck Tracker のダウンロード"
 
-#: web/views/__init__.py:153 web/views/battlegrounds.py:69
+#: web/views/__init__.py:156 web/views/battlegrounds.py:69
 msgid "HSReplay.net Companion App"
 msgstr ""
 
-#: web/views/__init__.py:155 web/views/battlegrounds.py:71
+#: web/views/__init__.py:158 web/views/battlegrounds.py:71
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr ""
 
-#: web/views/__init__.py:181
+#: web/views/__init__.py:184
 msgid "Contact our Support Team"
 msgstr ""
 
-#: web/views/__init__.py:183
+#: web/views/__init__.py:186
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr ""
 
@@ -818,43 +822,43 @@ msgstr ""
 msgid "Find stats and different {name} decklists."
 msgstr ""
 
-#: web/views/battlegrounds.py:92
+#: web/views/battlegrounds.py:95
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr ""
 
-#: web/views/battlegrounds.py:97
+#: web/views/battlegrounds.py:100
 msgid "Battlegrounds Heroes"
 msgstr "バトルグラウンド ヒーロー"
 
-#: web/views/battlegrounds.py:103 web/views/battlegrounds.py:134
+#: web/views/battlegrounds.py:106 web/views/battlegrounds.py:137
 msgid "Battlegrounds Hero"
 msgstr "バトルグラウンド ヒーロー"
 
-#: web/views/battlegrounds.py:121
+#: web/views/battlegrounds.py:124
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:156
+#: web/views/battlegrounds.py:159
 msgid "Battlegrounds Minions"
 msgstr "バトルグラウンド ミニオン"
 
-#: web/views/battlegrounds.py:162 web/views/battlegrounds.py:193
+#: web/views/battlegrounds.py:165 web/views/battlegrounds.py:196
 msgid "Battlegrounds Minion"
 msgstr "バトルグラウンド ミニオン"
 
-#: web/views/battlegrounds.py:180
+#: web/views/battlegrounds.py:183
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:225
+#: web/views/battlegrounds.py:228
 msgid "Battlegrounds Compositions"
 msgstr "バトルグラウンド 構成"
 
-#: web/views/battlegrounds.py:231 web/views/battlegrounds.py:254
+#: web/views/battlegrounds.py:234 web/views/battlegrounds.py:257
 msgid "Battlegrounds Composition"
 msgstr "バトルグラウンド 構成"
 
-#: web/views/battlegrounds.py:249
+#: web/views/battlegrounds.py:252
 msgid "No matching composition found."
 msgstr ""
 
