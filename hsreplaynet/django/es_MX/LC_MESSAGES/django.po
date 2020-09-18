@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-12 01:40+0000\n"
-"PO-Revision-Date: 2020-09-16 12:40\n"
+"PO-Revision-Date: 2020-09-18 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -19,23 +19,23 @@ msgstr ""
 
 #: api/exceptions.py:8
 msgid "An upstream gateway returned an invalid response."
-msgstr ""
+msgstr "Una puerta de enlace principal devolvió una respuesta no válida."
 
 #: api/exceptions.py:14
 msgid "The entity cannot be processed."
-msgstr ""
+msgstr "La entidad no puede ser procesada."
 
 #: api/exceptions.py:20
 msgid "A resource is not in the expected state."
-msgstr ""
+msgstr "Un recurso no está en el estado esperado."
 
 #: api/exceptions.py:26
 msgid "The card has been rejected."
-msgstr ""
+msgstr "La carta ha sido rechazada."
 
 #: api/exceptions.py:31
 msgid "You do not have permission to view this collection."
-msgstr ""
+msgstr "No tienes permiso para ver esta colección."
 
 #: api/fields.py:9
 #, python-brace-format
@@ -144,7 +144,7 @@ msgstr "No estas conectado como el usuario correcto."
 
 #: billing/views.py:470
 msgid "Subscription was canceled by PayPal."
-msgstr ""
+msgstr "La suscripción fue cancelada por PayPal."
 
 #: billing/views.py:478
 msgid "You are now subscribed with PayPal!"
@@ -156,7 +156,7 @@ msgstr "Identificación invalida cancelando el pago."
 
 #: billing/views.py:504
 msgid "Payment has already completed and cannot be canceled."
-msgstr ""
+msgstr "El pago ya ha sido realizado y no puede ser cancelado."
 
 #: billing/views.py:508
 msgid "Your payment was interrupted."
@@ -221,7 +221,7 @@ msgstr "Cuenta inactiva"
 #: templates/account/account_inactive.html:10
 #, python-format
 msgid "This account is inactive or has been banned. Please <a href=\"%(contact_url)s\">contact us</a> if this is in error."
-msgstr ""
+msgstr "Esta cuenta esta inactiva o ha sido baneada. Por favor contacta con nosotros <a href=\"%(contact_url)s\"></a> si esto es un error."
 
 #: templates/account/api.html:7
 msgid "Authentication Tokens"
@@ -274,11 +274,11 @@ msgstr "Activo"
 
 #: templates/account/base.html:15 web/views/dashboard.py:39
 msgid "Account"
-msgstr ""
+msgstr "Cuenta"
 
 #: templates/account/base.html:16 web/views/allauth.py:19
 msgid "Emails"
-msgstr ""
+msgstr "Correos"
 
 #: templates/account/base.html:17
 msgid "Billing"
@@ -286,11 +286,11 @@ msgstr "Facturación"
 
 #: templates/account/base.html:18 web/views/allauth.py:13
 msgid "Connections"
-msgstr ""
+msgstr "Conexiones"
 
 #: templates/account/base.html:19 web/views/dashboard.py:327
 msgid "Applications"
-msgstr ""
+msgstr "Aplicaciones"
 
 #: templates/account/base.html:23 templates/account/login.html:80
 #: templates/account/signup.html:33
@@ -423,7 +423,7 @@ msgstr "Región"
 
 #: templates/account/login.html:47
 msgid "US / EU / SEA"
-msgstr "US / EU / SEA"
+msgstr "NA / EU / ASIA"
 
 #: templates/account/login.html:52
 msgid "China (CN)"
@@ -468,7 +468,7 @@ msgstr "Resetear contraseña"
 #: templates/account/password_reset.html:26
 #, python-format
 msgid "Need help? <a href=\"%(contact_url)s\">Contact us</a>."
-msgstr ""
+msgstr "¿Necesitas ayuda? Contáctanos <a href=\"%(contact_url)s\"></a>."
 
 #: templates/account/signup.html:8 templates/account/signup.html:39
 #: templates/socialaccount/signup.html:12
@@ -507,11 +507,11 @@ msgstr "Te hemos mandado un email de verificación. Sigue el enlace para finaliz
 #: templates/account/verification_sent.html:15
 #, python-format
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
-msgstr ""
+msgstr "Por favor contáctanos <a href=\"%(contact_url)s\"></a> si no lo recibes en unos minutos."
 
 #: templates/base.html:113
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
-msgstr ""
+msgstr "Xsolla es un distribuidor global autorizado de HSReplay.net"
 
 #: templates/footer.html:8
 msgid "Back to top"
@@ -535,11 +535,11 @@ msgstr "Danos un like en Facebook"
 
 #: templates/footer.html:43
 msgid "Follow us on Instagram"
-msgstr ""
+msgstr "Síguenos en Instagram"
 
 #: templates/footer.html:56
 msgid "Not affiliated with Blizzard Entertainment."
-msgstr ""
+msgstr "No estámos afiliados a Blizzard Entertainment."
 
 #: templates/footer.html:64 templates/navigation.html:159
 msgid "Downloads"
@@ -552,15 +552,15 @@ msgstr "Premium"
 
 #: templates/footer.html:66 templates/navigation.html:49
 msgid "Battlegrounds"
-msgstr ""
+msgstr "Campos de Batalla"
 
 #: templates/footer.html:67
 msgid "Tier7"
-msgstr ""
+msgstr "Nivel 7"
 
 #: templates/footer.html:71
 msgid "Support"
-msgstr ""
+msgstr "Asistencia"
 
 #: templates/footer.html:73
 msgid "Your Account"
@@ -568,15 +568,15 @@ msgstr "Tu Cuenta"
 
 #: templates/footer.html:85
 msgid "Help Center"
-msgstr ""
+msgstr "Centro de Ayuda"
 
 #: templates/footer.html:87
 msgid "Contact Us"
-msgstr ""
+msgstr "Contáctanos"
 
 #: templates/footer.html:92
 msgid "Legal"
-msgstr "Legal"
+msgstr "Información Legal"
 
 #: templates/footer.html:95
 msgid "Terms of Service"
@@ -592,11 +592,11 @@ msgstr "Sobre nosotros"
 
 #: templates/games/replay_detail.html:33
 msgid "Replay not available"
-msgstr ""
+msgstr "Repetición no disponible"
 
 #: templates/games/replay_detail.html:35
 msgid "This replay is no longer available."
-msgstr ""
+msgstr "Esta repetición ya no está disponible."
 
 #: templates/navigation.html:12
 msgid "Toggle navigation"
@@ -604,19 +604,19 @@ msgstr "Cambiar el modo de navegación"
 
 #: templates/navigation.html:37
 msgid "Classic"
-msgstr ""
+msgstr "Clásico"
 
 #: templates/navigation.html:63
 msgid "Heroes"
-msgstr ""
+msgstr "Héroes"
 
 #: templates/navigation.html:73
 msgid "Minions"
-msgstr ""
+msgstr "Esbirros"
 
 #: templates/navigation.html:83
 msgid "Compositions"
-msgstr ""
+msgstr "Composiciones"
 
 #: templates/navigation.html:102
 msgid "Articles"
@@ -632,7 +632,7 @@ msgstr "Meta"
 
 #: templates/navigation.html:119
 msgid "Back soon!"
-msgstr ""
+msgstr "¡Vuelva pronto!"
 
 #: templates/navigation.html:132
 msgid "Decks"
@@ -644,24 +644,24 @@ msgstr "Cartas"
 
 #: templates/navigation.html:149
 msgid "SALE!"
-msgstr ""
+msgstr "¡OFERTA!"
 
 #: templates/navigation.html:177
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
-msgstr ""
+msgstr "Actualmente estamos actualizando esta sección para el último parche de Campos de Batalla. Pueda que los datos que encuentres sean incompletos o con demora."
 
 #: templates/oauth2_provider/authorize.html:12
 msgid "Some error happened during authorization."
-msgstr ""
+msgstr "Ha ocurrido un error durante la autorización."
 
 #: templates/oauth2_provider/authorize.html:16
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help."
-msgstr ""
+msgstr "Contáctanos <a href=\"%(contact_url)s\"></a> si necesitas ayuda."
 
 #: templates/oauth2_provider/authorize.html:19
 msgid "Permission request"
-msgstr ""
+msgstr "Solicitud de permiso"
 
 #: templates/snippets/noscript.html:5
 msgid "It looks like you have Javascript turned off. This page will not work correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
@@ -674,7 +674,7 @@ msgstr "Error de autenticación"
 #: templates/socialaccount/authentication_error.html:11
 #, python-format
 msgid "We could not authenticate you with %(name)s.<br/> If this persists, <a href=\"%(contact_url)s\">contact us</a>."
-msgstr ""
+msgstr "No pudimos autenticarte con %(name)s.<br/> Si esto persiste, contáctanos<a href=\"%(contact_url)s\"></a>."
 
 #: templates/socialaccount/authentication_error.html:32
 msgid "Back to the office."
@@ -740,7 +740,7 @@ msgstr "Quiero recibir actualizaciones por correo electrónico."
 
 #: templates/socialaccount/signup.html:69
 msgid "You can change this at any time."
-msgstr ""
+msgstr "Puedes cambiar esto en cualquier momento."
 
 #: templates/socialaccount/signup.html:75
 msgid "Already have an HSReplay.net account?"
@@ -793,15 +793,15 @@ msgstr "Hearthstone Deck Tracker es una aplicación gratuita que te ayuda a juga
 
 #: web/views/__init__.py:184
 msgid "Contact our Support Team"
-msgstr ""
+msgstr "Contacta con nuestro Equipo de Soporte"
 
 #: web/views/__init__.py:186
 msgid "Get in touch with the HSReplay.net Support Team."
-msgstr ""
+msgstr "Contactar con el Equipo de Soporte de HSReplay.net."
 
 #: web/views/archetypes.py:22
 msgid "Hearthstone Meta"
-msgstr "Hearthstone Meta"
+msgstr "Meta de Hearthstone"
 
 #: web/views/archetypes.py:24
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
@@ -830,43 +830,43 @@ msgstr "Buscar estadísticas y diferentes {name} listas de mazos."
 
 #: web/views/battlegrounds.py:95
 msgid "HSReplay.net Tier7 for Battlegrounds"
-msgstr ""
+msgstr "HSReplay.net Nivel 7 para Campos de Batalla"
 
 #: web/views/battlegrounds.py:100
 msgid "Battlegrounds Heroes"
-msgstr ""
+msgstr "Héroes de Campos de Batalla"
 
 #: web/views/battlegrounds.py:106 web/views/battlegrounds.py:137
 msgid "Battlegrounds Hero"
-msgstr ""
+msgstr "Héroes de Campos de Batalla"
 
 #: web/views/battlegrounds.py:124
 msgid "No matching hero found."
-msgstr ""
+msgstr "Héroe no encontrado."
 
 #: web/views/battlegrounds.py:159
 msgid "Battlegrounds Minions"
-msgstr ""
+msgstr "Esbirros de Campos de Batalla"
 
 #: web/views/battlegrounds.py:165 web/views/battlegrounds.py:196
 msgid "Battlegrounds Minion"
-msgstr ""
+msgstr "Esbirros de Campos de Batalla"
 
 #: web/views/battlegrounds.py:183
 msgid "No matching minion found."
-msgstr ""
+msgstr "No se encontraron esbirros que coincidan."
 
 #: web/views/battlegrounds.py:228
 msgid "Battlegrounds Compositions"
-msgstr ""
+msgstr "Composiciones de Campos de Batalla"
 
 #: web/views/battlegrounds.py:234 web/views/battlegrounds.py:257
 msgid "Battlegrounds Composition"
-msgstr ""
+msgstr "Composiciones de Campos de Batalla"
 
 #: web/views/battlegrounds.py:252
 msgid "No matching composition found."
-msgstr ""
+msgstr "No se encontraron coincidencias."
 
 #: web/views/cards.py:26 web/views/cards.py:116
 msgid "Hearthstone Card Statistics"
@@ -943,7 +943,7 @@ msgstr "Actualizar webhook"
 
 #: web/views/dashboard.py:374
 msgid "Your Application"
-msgstr ""
+msgstr "Tu Aplicación"
 
 #: web/views/decks.py:22
 msgid "Hearthstone Decks"
@@ -971,7 +971,7 @@ msgstr "La lista contiene cartas no disponibles."
 
 #: web/views/decks.py:69
 msgid "Neutral Deck"
-msgstr ""
+msgstr "Mazo Neutral"
 
 #: web/views/decks.py:83
 #, python-brace-format
