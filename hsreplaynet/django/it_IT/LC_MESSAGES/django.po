@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-12 01:40+0000\n"
-"PO-Revision-Date: 2020-10-09 00:40\n"
+"PO-Revision-Date: 2020-10-09 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -711,7 +711,7 @@ msgstr "Si prega di <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\
 #: templates/socialaccount/signup.html:22
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account."
-msgstr ""
+msgstr "<a href=\"%(contact_url)s\">Contattaci</a> se hai bisogno di aiuto per accedere a un account esistente."
 
 #: templates/socialaccount/signup.html:25
 msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
@@ -756,202 +756,202 @@ msgstr "È possibile accedere a un altro account Blizzard seguendo questi passag
 
 #: templates/socialaccount/signup.html:81
 msgid "Sign out of your Blizzard account"
-msgstr ""
+msgstr "Esci dal tuo account Blizzard"
 
 #: templates/socialaccount/signup.html:86
 msgid "Return to the HSReplay.net sign in page"
-msgstr ""
+msgstr "Torna alla pagina di accesso HSReplay.net"
 
 #: templates/socialaccount/signup.html:89
 msgid "Sign into the correct Blizzard account"
-msgstr ""
+msgstr "Accedi all'account Blizzard corretto"
 
 #: templates/socialaccount/signup.html:93
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
-msgstr ""
+msgstr "<a href=\"%(contact_url)s\">Contattaci</a> se hai bisogno di aiuto per accedere a un account esistente. Possiamo unire gli account!"
 
 #: web/views/__init__.py:23
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
-msgstr ""
+msgstr "Guarda e condividi Hearthstone direttamente dal tuo browser. Scopri statistiche dettagliate sui mazzi e le carte basate su milioni di giochi a settimana."
 
 #: web/views/__init__.py:50
 msgid "HSReplay.net - Unleash your potential"
-msgstr ""
+msgstr "HSReplay.net - Scatena il tuo potenziale"
 
 #: web/views/__init__.py:154 web/views/battlegrounds.py:67
 msgid "Download Hearthstone Deck Tracker"
-msgstr ""
+msgstr "Scarica Hearthstone Deck Tracker"
 
 #: web/views/__init__.py:156 web/views/battlegrounds.py:69
 msgid "HSReplay.net Companion App"
-msgstr ""
+msgstr "HSReplay.net Companion App"
 
 #: web/views/__init__.py:158 web/views/battlegrounds.py:71
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
-msgstr ""
+msgstr "Hearthstone Deck Tracker è un'applicazione gratuita che ti aiuta a giocare come i professionisti."
 
 #: web/views/__init__.py:184
 msgid "Contact our Support Team"
-msgstr ""
+msgstr "Contatta il nostro team di assistenza"
 
 #: web/views/__init__.py:186
 msgid "Get in touch with the HSReplay.net Support Team."
-msgstr ""
+msgstr "Contatta il team di supporto HSReplay.net."
 
 #: web/views/archetypes.py:22
 msgid "Hearthstone Meta"
-msgstr ""
+msgstr "Hearthstone Meta"
 
 #: web/views/archetypes.py:24
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
-msgstr ""
+msgstr "Esplora il meta del gioco e scopri come abbinare le tipologie di mazzi."
 
 #: web/views/archetypes.py:33
 msgid "Discover"
-msgstr ""
+msgstr "Scopri"
 
 #: web/views/archetypes.py:35
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
-msgstr ""
+msgstr "Scopri gli archetipi dell'attuale meta e di quelli futuri."
 
 #: web/views/archetypes.py:48
 msgid "Archetype"
-msgstr ""
+msgstr "Tipologia di mazzi"
 
 #: web/views/archetypes.py:53
 msgid "This archetype is no longer available."
-msgstr ""
+msgstr "Questo tipologia di mazzo non è più disponibile."
 
 #: web/views/archetypes.py:59
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
-msgstr ""
+msgstr "Trova statistiche e diverse {name} liste di mazzi."
 
 #: web/views/battlegrounds.py:95
 msgid "HSReplay.net Tier7 for Battlegrounds"
-msgstr ""
+msgstr "HSReplay.net Tier7 Battlegroround"
 
 #: web/views/battlegrounds.py:100
 msgid "Battlegrounds Heroes"
-msgstr ""
+msgstr "Battlegrounds Eroi"
 
 #: web/views/battlegrounds.py:106 web/views/battlegrounds.py:137
 msgid "Battlegrounds Hero"
-msgstr ""
+msgstr "Battlegrorounds Eroe"
 
 #: web/views/battlegrounds.py:124
 msgid "No matching hero found."
-msgstr ""
+msgstr "Nessuna corrispondenza con l'Eroe trovata."
 
 #: web/views/battlegrounds.py:159
 msgid "Battlegrounds Minions"
-msgstr ""
+msgstr "Creature del Battelgrounds"
 
 #: web/views/battlegrounds.py:165 web/views/battlegrounds.py:196
 msgid "Battlegrounds Minion"
-msgstr ""
+msgstr "Creatura del Battelgrounds"
 
 #: web/views/battlegrounds.py:183
 msgid "No matching minion found."
-msgstr ""
+msgstr "Nessuna corrispondenza con la creatura trovata."
 
 #: web/views/battlegrounds.py:228
 msgid "Battlegrounds Compositions"
-msgstr ""
+msgstr "Composizioni del Battelgrounds"
 
 #: web/views/battlegrounds.py:234 web/views/battlegrounds.py:257
 msgid "Battlegrounds Composition"
-msgstr ""
+msgstr "Composizione Battleground"
 
 #: web/views/battlegrounds.py:252
 msgid "No matching composition found."
-msgstr ""
+msgstr "Nessuna composizione corrispondente trovata."
 
 #: web/views/cards.py:26 web/views/cards.py:116
 msgid "Hearthstone Card Statistics"
-msgstr ""
+msgstr "Statistiche delle carte di Heartstone"
 
 #: web/views/cards.py:28
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
-msgstr ""
+msgstr "Confronta le statistiche di tutte le carte Hearthstone. Trova le carte che vengono giocate più o che hanno la percentuale di vittoria più alta."
 
 #: web/views/cards.py:39
 msgid "My Cards"
-msgstr ""
+msgstr "Le mie carte"
 
 #: web/views/cards.py:104
 msgid "No card found matching the query."
-msgstr ""
+msgstr "Nessuna carta trovata corrispondente alla richiesta."
 
 #: web/views/cards.py:126
 msgid "Statistics and decks!"
-msgstr ""
+msgstr "Statistiche e mazzi!"
 
 #: web/views/cards.py:152
 msgid "Hearthstone Card Editor"
-msgstr ""
+msgstr "Editor di Carte Hearthstone"
 
 #: web/views/collections.py:11
 msgid "My Collection"
-msgstr ""
+msgstr "La mia collezione"
 
 #: web/views/collections.py:24
 msgid "Collection"
-msgstr ""
+msgstr "Collezione"
 
 #: web/views/collections.py:38
 #, python-brace-format
 msgid "{user}'s Hearthstone Collection"
-msgstr ""
+msgstr "Collezione Hearthstone di {user}"
 
 #: web/views/dashboard.py:79
 msgid "API Access"
-msgstr ""
+msgstr "Accesso API"
 
 #: web/views/dashboard.py:113
 msgid "This account cannot be deleted."
-msgstr ""
+msgstr "Questo Account non può essere cancellato."
 
 #: web/views/dashboard.py:142
 msgid "Your replays have been deleted."
-msgstr ""
+msgstr "Il tuo commento è stato eliminato."
 
 #: web/views/dashboard.py:177
 msgid "Could not make account primary."
-msgstr ""
+msgstr "Impossibile rendere questo Account primario."
 
 #: web/views/dashboard.py:251
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
-msgstr ""
+msgstr "Controlla la tua posta in arrivo! Abbiamo inviato un'email per confermare le tue preferenze di sottoscrizione."
 
 #: web/views/dashboard.py:258 web/views/dashboard.py:264
 msgid "Failed to save your email preferences. Please try again later!"
-msgstr ""
+msgstr "Impossibile salvare le tue preferenze. Riprova più tardi!"
 
 #: web/views/dashboard.py:274
 msgid "Your email preferences have been saved."
-msgstr ""
+msgstr "Le tue preferenze sono state salvate."
 
 #: web/views/dashboard.py:290
 msgid "Create a webhook"
-msgstr ""
+msgstr "Crea un webhook"
 
 #: web/views/dashboard.py:301
 msgid "Update a webhook"
-msgstr ""
+msgstr "Aggiorna un webhook"
 
 #: web/views/dashboard.py:374
 msgid "Your Application"
-msgstr ""
+msgstr "La Tua Applicazione"
 
 #: web/views/decks.py:22
 msgid "Hearthstone Decks"
-msgstr ""
+msgstr "Mazzi Di Hearthstone"
 
 #: web/views/decks.py:24
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
-msgstr ""
+msgstr "Trova mazzi più popolari per ogni classe, modalità di gioco e carte. Confronta le percentuali di vittoria e trova il mazzo per te!"
 
 #: web/views/decks.py:32
 msgid "My Decks"
@@ -967,51 +967,51 @@ msgstr "La lista dei mazzi è troppo piccola."
 
 #: web/views/decks.py:65
 msgid "Deck list contains uncollectible cards."
-msgstr ""
+msgstr "La lista dei mazzi contiene carte non collezionabili."
 
 #: web/views/decks.py:69
 msgid "Neutral Deck"
-msgstr ""
+msgstr "Mazzo Neutro"
 
 #: web/views/decks.py:83
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
-msgstr ""
+msgstr "{name} statistiche e mazzo. Importa questo: {deckstring}"
 
 #: web/views/decks.py:105
 msgid "Trending Hearthstone Decks"
-msgstr ""
+msgstr "Mazzi Di Tendenza"
 
 #: web/views/decks.py:107
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
-msgstr ""
+msgstr "Trova i nuovi mazzi popolari su Hearthstone, lista aggiornata tutti i giorni!"
 
 #: web/views/oauth2.py:46
 msgid "Access has been revoked."
-msgstr ""
+msgstr "L'accesso è stato revocato."
 
 #: web/views/oauth2.py:80
 #, python-brace-format
 msgid "{count} access tokens deleted."
-msgstr ""
+msgstr "{count} token di accesso eliminati."
 
 #: web/views/premium.py:18
 msgid "HSReplay.net Premium"
-msgstr ""
+msgstr "HSReplay.net Premium"
 
 #: web/views/premium.py:20
 msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
-msgstr ""
+msgstr "Più filtri, più funzioni, più dati: Ottieni l'accesso ad HSReplay.net Premium e potrai visualizzare le statistiche avanzate di Hearthstone aggiornate da milioni di giocatori."
 
 #: web/views/profiles.py:27
 msgid "User does not exist."
-msgstr ""
+msgstr "L'utente non esiste."
 
 #: web/views/replays.py:23
 msgid "My Replays"
-msgstr ""
+msgstr "I miei Replay"
 
 #: web/views/replays.py:195
 msgid "Uploading replay…"
-msgstr ""
+msgstr "Caricamento replay…"
 
