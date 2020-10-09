@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-12 01:40+0000\n"
-"PO-Revision-Date: 2020-10-08 12:40\n"
+"PO-Revision-Date: 2020-10-09 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: api/exceptions.py:8
 msgid "An upstream gateway returned an invalid response."
-msgstr ""
+msgstr "Il gateway ha restituito una risposta non valida."
 
 #: api/exceptions.py:14
 msgid "The entity cannot be processed."
@@ -40,7 +40,7 @@ msgstr "Non hai il permesso di visualizzare questa collezione."
 #: api/fields.py:9
 #, python-brace-format
 msgid "{input} is not a valid member of {enum}."
-msgstr ""
+msgstr "{input} non è membro di {enum}."
 
 #: api/views/features.py:33
 msgid "Code has already been used."
@@ -136,7 +136,7 @@ msgstr "Impossibile completare l'abbonamento."
 
 #: billing/views.py:445
 msgid "Invalid subscription token."
-msgstr ""
+msgstr "Token di autenticazione non valido."
 
 #: billing/views.py:448
 msgid "You are not logged in as the correct user."
@@ -225,56 +225,56 @@ msgstr "Questo account è inattivo o è stato bandito. Si prega di <a href=\"%(c
 
 #: templates/account/api.html:7
 msgid "Authentication Tokens"
-msgstr ""
+msgstr "Token di autenticazione"
 
 #: templates/account/api.html:12
 #, python-format
 msgid "You do not have any upload client associated with your account. <a href=\"%(downloads_url)s\">Download Hearthstone Deck Tracker</a> and claim your account from there!"
-msgstr ""
+msgstr "Non hai alcun account associato. <a href=\"%(downloads_url)s\">Scarica Hearthstone Deck Tracker</a> e accedi al tuo account da lì!"
 
 #: templates/account/api.html:19
 msgid "The following tokens can be used to upload your games. Keep them private!"
-msgstr ""
+msgstr "I seguenti token possono essere utilizzati per caricare le tue partite. Tienili privati!"
 
 #: templates/account/api.html:22
 msgid "Application"
-msgstr ""
+msgstr "Applicazione"
 
 #: templates/account/api.html:23
 msgid "Token"
-msgstr ""
+msgstr "Token"
 
 #: templates/account/api.html:24
 msgid "Created on"
-msgstr ""
+msgstr "Creato il"
 
 #: templates/account/api.html:46
 msgid "Webhooks"
-msgstr ""
+msgstr "Webhook"
 
 #: templates/account/api.html:49 templates/webhooks/detail.html:11
 msgid "Webhooks have been deprecated"
-msgstr ""
+msgstr "I Webhook sono stati deprecati"
 
 #: templates/account/api.html:50 templates/webhooks/detail.html:12
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
-msgstr ""
+msgstr "Nessun nuovo endpoint può essere aggiunto. Per il momento continueremo a fornire i webhook esistenti."
 
 #: templates/account/api.html:57
 msgid "UUID"
-msgstr ""
+msgstr "UUID"
 
 #: templates/account/api.html:58
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: templates/account/api.html:59
 msgid "Active"
-msgstr ""
+msgstr "Attivo"
 
 #: templates/account/base.html:15 web/views/dashboard.py:39
 msgid "Account"
-msgstr ""
+msgstr "Account"
 
 #: templates/account/base.html:16 web/views/allauth.py:19
 msgid "Emails"
@@ -336,7 +336,7 @@ msgstr "✔ Verificato"
 
 #: templates/account/email.html:23
 msgid "Re-send Verification"
-msgstr ""
+msgstr "Invia nuovamente il Codice di Verifica"
 
 #: templates/account/email.html:28
 msgid "✔ Primary"
@@ -381,7 +381,7 @@ msgstr "Salva"
 #: templates/account/email.html:99
 #, python-format
 msgid "Looking for a password setting? You can sign with any of <a href=\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there is no HSReplay.net password."
-msgstr ""
+msgstr "Stai cercando un'impostazione della password? Puoi loggarti con uno qualsiasi dei <a href=\"%(connected_accounts_url)s\">account Blizzard connessi</a>, non c'è la password di HSReplay.net."
 
 #: templates/account/email/email_confirmation_message.txt:1
 #, python-format
@@ -392,7 +392,13 @@ msgid "Hello %(user)s!\n\n"
 "If this was not you, you can simply ignore this email.\n\n"
 "Cheers,\n"
 "The HSReplay.net Team\n"
-msgstr ""
+msgstr "Ciao %(user)s!\n\n"
+"Hai aggiunto questo indirizzo email al tuo account. Dobbiamo verificare che sia il tuo.\n\n"
+"Se sei stato tu vai al seguente URL entro tre giorni per confermare:\n\n"
+"%(activate_url)s\n\n"
+"Se non sei stato tu, puoi semplicemente ignorare questa email.\n\n"
+"Saluti,\n"
+"Il Team HSReplay.net\n"
 
 #: templates/account/login.html:25
 #, python-format
@@ -413,39 +419,39 @@ msgstr "Accedi tramite Blizzard"
 
 #: templates/account/login.html:45
 msgid "Region"
-msgstr ""
+msgstr "Regione"
 
 #: templates/account/login.html:47
 msgid "US / EU / SEA"
-msgstr ""
+msgstr "USA / UE / SEA"
 
 #: templates/account/login.html:52
 msgid "China (CN)"
-msgstr ""
+msgstr "Cina (CN)"
 
 #: templates/account/login.html:59
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
-msgstr ""
+msgstr "HSReplay.net non otterrà mai l'accesso al tuo indirizzo email o password di Blizzard."
 
 #: templates/account/login.html:69
 msgid "Not using a Blizzard account? Sign in with your username and password here."
-msgstr ""
+msgstr "Non utilizzi un account Blizzard? Accedi con il tuo nome utente e password qui."
 
 #: templates/account/login.html:79 templates/account/signup.html:27
 msgid "Username"
-msgstr ""
+msgstr "Nome utente"
 
 #: templates/account/login.html:83
 msgid "Sign in"
-msgstr ""
+msgstr "Accedi"
 
 #: templates/account/logout.html:6 templates/account/logout.html:17
 msgid "Sign out"
-msgstr ""
+msgstr "Esci"
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
-msgstr ""
+msgstr "Sei sicuro di voler uscire?"
 
 #: templates/account/password_reset.html:11
 msgid "Password reset"
@@ -496,7 +502,7 @@ msgstr "Verifica il tuo indirizzo e-mail"
 
 #: templates/account/verification_sent.html:11
 msgid "We have sent you an e-mail for verification. Follow the link in it to finalize the signup process."
-msgstr ""
+msgstr "Ti abbiamo inviato una e-mail di verifica. Apri il link nell'email per completare il processo di iscrizione."
 
 #: templates/account/verification_sent.html:15
 #, python-format
@@ -505,7 +511,7 @@ msgstr "Per favore, <a href=\"%(contact_url)s\">contattaci</a> se non la ricevi 
 
 #: templates/base.html:113
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
-msgstr ""
+msgstr "Xsolla è un distributore globale autorizzato di HSReplay.net"
 
 #: templates/footer.html:8
 msgid "Back to top"
@@ -546,11 +552,11 @@ msgstr "Premium"
 
 #: templates/footer.html:66 templates/navigation.html:49
 msgid "Battlegrounds"
-msgstr ""
+msgstr "Battlegrorounds"
 
 #: templates/footer.html:67
 msgid "Tier7"
-msgstr ""
+msgstr "Tier7"
 
 #: templates/footer.html:71
 msgid "Support"
@@ -618,7 +624,7 @@ msgstr "Articoli"
 
 #: templates/navigation.html:109
 msgid "Trending"
-msgstr ""
+msgstr "Tendenze"
 
 #: templates/navigation.html:118 templates/navigation.html:124
 msgid "Meta"
@@ -626,7 +632,7 @@ msgstr "Meta"
 
 #: templates/navigation.html:119
 msgid "Back soon!"
-msgstr ""
+msgstr "Torneremo presto!"
 
 #: templates/navigation.html:132
 msgid "Decks"
@@ -638,11 +644,11 @@ msgstr "Carte"
 
 #: templates/navigation.html:149
 msgid "SALE!"
-msgstr ""
+msgstr "VENDITA!"
 
 #: templates/navigation.html:177
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
-msgstr ""
+msgstr "Stiamo aggiornando questa sezione con l'ultima patch del Battleground. Potresti incontrare informazione incomplete o vecchie."
 
 #: templates/oauth2_provider/authorize.html:12
 msgid "Some error happened during authorization."
@@ -668,11 +674,11 @@ msgstr "Errore di autenticazione"
 #: templates/socialaccount/authentication_error.html:11
 #, python-format
 msgid "We could not authenticate you with %(name)s.<br/> If this persists, <a href=\"%(contact_url)s\">contact us</a>."
-msgstr ""
+msgstr "Non abbiamo potuto autenticarti con %(name)s.<br/> Se questo persiste, <a href=\"%(contact_url)s\">contattaci</a>."
 
 #: templates/socialaccount/authentication_error.html:32
 msgid "Back to the office."
-msgstr ""
+msgstr "Torna in ufficio."
 
 #: templates/socialaccount/connections.html:9
 msgid "Connected accounts"
@@ -696,11 +702,11 @@ msgstr "Al momento non hai alcun account di social network collegato a questo ac
 
 #: templates/socialaccount/signup.html:17
 msgid "The Blizzard account you are signing up with does not have a confirmed battletag yet, and cannot play Hearthstone."
-msgstr ""
+msgstr "L'account Blizzard con cui ti sei loggato non ha ancora un battletag confermato, così non puoi giocare a Hearthstone."
 
 #: templates/socialaccount/signup.html:18
 msgid "Please <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">visit Blizzard.com</a> and sign out to choose a different account."
-msgstr ""
+msgstr "Si prega di <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">visitare Blizzard.com</a> e uscire per scegliere un altro account."
 
 #: templates/socialaccount/signup.html:22
 #, python-format
@@ -709,32 +715,32 @@ msgstr ""
 
 #: templates/socialaccount/signup.html:25
 msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
-msgstr ""
+msgstr "Stai per creare un nuovo account HSReplay.net. Inserisci e conferma i tuoi dati qui sotto:"
 
 #: templates/socialaccount/signup.html:31
 msgid "Battletag"
-msgstr ""
+msgstr "Battletag"
 
 #: templates/socialaccount/signup.html:40
 msgid "You can change this later by connecting additional accounts."
-msgstr ""
+msgstr "È possibile modificare questo in seguito collegando account aggiuntivi."
 
 #: templates/socialaccount/signup.html:53
 msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
-msgstr ""
+msgstr "Utilizzato per scopi di fatturazione e per aggiornamenti facoltativi del prodotto. È richiesta la conferma via email."
 
 #: templates/socialaccount/signup.html:60
 #, python-format
 msgid "I agree to the <a href=\"%(tos_url)s\">Terms of Service</a>."
-msgstr ""
+msgstr "Accetto i <a href=\"%(tos_url)s\">Termini di Servizio</a>."
 
 #: templates/socialaccount/signup.html:67
 msgid "I want to receive product updates by email."
-msgstr ""
+msgstr "Voglio ricevere gli aggiornamenti dei prodotti via email."
 
 #: templates/socialaccount/signup.html:69
 msgid "You can change this at any time."
-msgstr ""
+msgstr "Puoi cambiare questo in qualsiasi momento."
 
 #: templates/socialaccount/signup.html:75
 msgid "Already have an HSReplay.net account?"
@@ -742,11 +748,11 @@ msgstr "Hai già un account HSReplay.net?"
 
 #: templates/socialaccount/signup.html:76
 msgid "If you keep seeing this page despite having registered an HSReplay.net account in the past, you may be logged into the wrong Blizzard account."
-msgstr ""
+msgstr "Se continui a vedere questa pagina nonostante abbia registrato un account HSReplay.net in passato, potresti essere connesso all'account Blizzard sbagliato."
 
 #: templates/socialaccount/signup.html:77
 msgid "You can sign in to a different Blizzard account by following these steps:"
-msgstr ""
+msgstr "È possibile accedere a un altro account Blizzard seguendo questi passaggi:"
 
 #: templates/socialaccount/signup.html:81
 msgid "Sign out of your Blizzard account"
@@ -949,15 +955,15 @@ msgstr ""
 
 #: web/views/decks.py:32
 msgid "My Decks"
-msgstr ""
+msgstr "I miei mazzi"
 
 #: web/views/decks.py:51
 msgid "Deck does not exist."
-msgstr ""
+msgstr "Il mazzo non esiste."
 
 #: web/views/decks.py:61
 msgid "Deck list is too small."
-msgstr ""
+msgstr "La lista dei mazzi è troppo piccola."
 
 #: web/views/decks.py:65
 msgid "Deck list contains uncollectible cards."
