@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-09-12 01:40+0000\n"
-"PO-Revision-Date: 2020-11-11 12:40\n"
+"PO-Revision-Date: 2020-11-13 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -997,11 +997,11 @@ msgstr "已删除{count}个权限秘钥。"
 
 #: web/views/premium.py:18
 msgid "HSReplay.net Premium"
-msgstr "HSReplay.net充值会员"
+msgstr "HSReplay.net会员"
 
 #: web/views/premium.py:20
 msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
-msgstr "更丰富的过滤器、更全面的功能、更完善的数据：在HSReplay.net上获取充值会员，获取数以万计份对局数据支撑的高级炉石统计数据。"
+msgstr "更丰富的过滤器、更全面的功能、更完善的数据：在HSReplay.net上获取会员，获取数以万计份对局数据支撑的高级炉石统计数据。"
 
 #: web/views/profiles.py:27
 msgid "User does not exist."
