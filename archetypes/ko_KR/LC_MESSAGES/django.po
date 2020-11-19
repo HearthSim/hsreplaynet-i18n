@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-25T01:40:26.742944\n"
+"POT-Creation-Date: 2020-11-19T01:40:29.932137\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2020-11-19 00:40\n"
+"PO-Revision-Date: 2020-11-19 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -145,6 +145,10 @@ msgstr "침묵 사제"
 msgid "Discard Warlock"
 msgstr "버리기 흑마법사"
 
+#: https://hsreplay.net/archetypes/129/big-priest
+msgid "Big Priest"
+msgstr "빅 사제"
+
 #: https://hsreplay.net/archetypes/136/highlander-warlock
 msgid "Highlander Warlock"
 msgstr "하이랜더 흑마법사"
@@ -177,6 +181,10 @@ msgstr "정령 사제"
 msgid "Miracle Priest"
 msgstr "미라클 사제"
 
+#: https://hsreplay.net/archetypes/145/elemental-mage
+msgid "Elemental Mage"
+msgstr "정령 마법사"
+
 #: https://hsreplay.net/archetypes/168/otk-dk-paladin
 msgid "OTK DK Paladin"
 msgstr "원턴킬 죽기 성기사"
@@ -201,10 +209,6 @@ msgstr "비밀 마법사"
 msgid "Mill Rogue"
 msgstr "탈진 도적"
 
-#: https://hsreplay.net/archetypes/145/elemental-mage
-msgid "Elemental Mage"
-msgstr "정령 마법사"
-
 #: https://hsreplay.net/archetypes/302/highlander-hunter
 msgid "Highlander Hunter"
 msgstr "하이랜더 사냥꾼"
@@ -216,10 +220,6 @@ msgstr "야수 사냥꾼"
 #: https://hsreplay.net/archetypes/172/stealth-rogue
 msgid "Stealth Rogue"
 msgstr "은신 도적"
-
-#: https://hsreplay.net/archetypes/129/big-priest
-msgid "Big Priest"
-msgstr "빅 사제"
 
 #: https://hsreplay.net/archetypes/298/secret-mech-paladin
 msgid "Secret Mech Paladin"
@@ -316,10 +316,6 @@ msgstr "템포 드루이드"
 #: https://hsreplay.net/archetypes/204/control-hunter
 msgid "Control Hunter"
 msgstr "컨트롤 사냥꾼"
-
-#: https://hsreplay.net/archetypes/63/control-warlock
-msgid "Control Warlock"
-msgstr "컨트롤 흑마법사"
 
 #: https://hsreplay.net/archetypes/184/kingsbane-rogue
 msgid "Kingsbane Rogue"
@@ -441,6 +437,10 @@ msgstr "크툰 전사"
 msgid "Blood Warrior"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/413/clown-druid
+msgid "Clown Druid"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/156/control-paladin
 msgid "Control Paladin"
 msgstr "컨트롤 성기사"
@@ -481,17 +481,9 @@ msgstr "토큰 주술사"
 msgid "Deathrattle Warrior"
 msgstr "죽음의 메아리 전사"
 
-#: https://hsreplay.net/archetypes/139/deathrattle-hunter
-msgid "Deathrattle Hunter"
-msgstr "죽음의 메아리 사냥꾼"
-
 #: https://hsreplay.net/archetypes/181/leyline-mage
 msgid "Leyline Mage"
 msgstr ""
-
-#: https://hsreplay.net/archetypes/183/silver-hand-paladin
-msgid "Silver Hand Paladin"
-msgstr "신병 성기사"
 
 #: https://hsreplay.net/archetypes/215/even-paladin
 msgid "Even Paladin"
@@ -708,6 +700,10 @@ msgstr "멀록 성기사"
 #: https://hsreplay.net/archetypes/155/quest-rogue
 msgid "Quest Rogue"
 msgstr "퀘스트 도적"
+
+#: https://hsreplay.net/archetypes/183/silver-hand-paladin
+msgid "Silver Hand Paladin"
+msgstr "신병 성기사"
 
 #: https://hsreplay.net/archetypes/273/secret-odd-mage
 msgid "Secret Odd Mage"
@@ -1085,10 +1081,6 @@ msgstr "성물함 주술사"
 msgid "Spell Shaman"
 msgstr "주문 주술사"
 
-#: https://hsreplay.net/archetypes/202/evolve-shaman
-msgid "Evolve Shaman"
-msgstr "진화 주술사"
-
 #: https://hsreplay.net/archetypes/380/embiggen-quest-druid
 msgid "Embiggen Quest Druid"
 msgstr "거대화 퀘스트 드루이드"
@@ -1208,4 +1200,52 @@ msgstr "선장 폭탄 전사"
 #: https://hsreplay.net/archetypes/412/silas-otk-warrior
 msgid "Silas OTK Warrior"
 msgstr "실라스 원턴킬 전사"
+
+#: https://hsreplay.net/archetypes/414/menagerie-paladin
+msgid "Menagerie Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/139/deathrattle-hunter
+msgid "Deathrattle Hunter"
+msgstr "죽음의 메아리 사냥꾼"
+
+#: https://hsreplay.net/archetypes/415/quest-big-priest
+msgid "Quest Big Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/416/cthun-rogue
+msgid "C'thun Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/202/evolve-shaman
+msgid "Evolve Shaman"
+msgstr "진화 주술사"
+
+#: https://hsreplay.net/archetypes/417/enhancement-shaman
+msgid "Enhancement Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/418/mill-warlock
+msgid "Mill Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/63/control-warlock
+msgid "Control Warlock"
+msgstr "컨트롤 흑마법사"
+
+#: https://hsreplay.net/archetypes/419/menagerie-warrior
+msgid "Menagerie Warrior"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/421/ilgynoth-demon-hunter
+msgid "Il'gynoth Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/422/secret-face-hunter
+msgid "Secret Face Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/423/cthun-mage
+msgid "C'thun Mage"
+msgstr ""
 

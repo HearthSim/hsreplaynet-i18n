@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-25T01:40:26.742944\n"
+"POT-Creation-Date: 2020-11-19T01:40:29.932137\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2020-11-19 00:40\n"
+"PO-Revision-Date: 2020-11-19 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -145,6 +145,10 @@ msgstr "Sacerdote Silencios"
 msgid "Discard Warlock"
 msgstr "Brujo Descartes"
 
+#: https://hsreplay.net/archetypes/129/big-priest
+msgid "Big Priest"
+msgstr "Sacerdote Big"
+
 #: https://hsreplay.net/archetypes/136/highlander-warlock
 msgid "Highlander Warlock"
 msgstr "Brujo Highlander"
@@ -177,6 +181,10 @@ msgstr "Sacerdote Elementales"
 msgid "Miracle Priest"
 msgstr "Sacerdote Milagro"
 
+#: https://hsreplay.net/archetypes/145/elemental-mage
+msgid "Elemental Mage"
+msgstr "Mago Elementales"
+
 #: https://hsreplay.net/archetypes/168/otk-dk-paladin
 msgid "OTK DK Paladin"
 msgstr "Sacerdote OTK DK"
@@ -201,10 +209,6 @@ msgstr "Mago Secretos"
 msgid "Mill Rogue"
 msgstr "Pícaro Fatiga"
 
-#: https://hsreplay.net/archetypes/145/elemental-mage
-msgid "Elemental Mage"
-msgstr "Mago Elementales"
-
 #: https://hsreplay.net/archetypes/302/highlander-hunter
 msgid "Highlander Hunter"
 msgstr "Cazador Highlander"
@@ -216,10 +220,6 @@ msgstr "Cazador Bestias"
 #: https://hsreplay.net/archetypes/172/stealth-rogue
 msgid "Stealth Rogue"
 msgstr "Pícaro Sigilo"
-
-#: https://hsreplay.net/archetypes/129/big-priest
-msgid "Big Priest"
-msgstr "Sacerdote Big"
 
 #: https://hsreplay.net/archetypes/298/secret-mech-paladin
 msgid "Secret Mech Paladin"
@@ -316,10 +316,6 @@ msgstr "Druida Tempo"
 #: https://hsreplay.net/archetypes/204/control-hunter
 msgid "Control Hunter"
 msgstr "Cazador Control"
-
-#: https://hsreplay.net/archetypes/63/control-warlock
-msgid "Control Warlock"
-msgstr "Brujo Control"
 
 #: https://hsreplay.net/archetypes/184/kingsbane-rogue
 msgid "Kingsbane Rogue"
@@ -441,6 +437,10 @@ msgstr "Guerrero C'Thun"
 msgid "Blood Warrior"
 msgstr "Guerrero Sangriento"
 
+#: https://hsreplay.net/archetypes/413/clown-druid
+msgid "Clown Druid"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/156/control-paladin
 msgid "Control Paladin"
 msgstr "Paladín Control"
@@ -481,17 +481,9 @@ msgstr "Chaman Tokens"
 msgid "Deathrattle Warrior"
 msgstr "Guerrero Ultimos Alientos"
 
-#: https://hsreplay.net/archetypes/139/deathrattle-hunter
-msgid "Deathrattle Hunter"
-msgstr "Cazador Ultimos Alientos"
-
 #: https://hsreplay.net/archetypes/181/leyline-mage
 msgid "Leyline Mage"
 msgstr "Mago Linea Ley"
-
-#: https://hsreplay.net/archetypes/183/silver-hand-paladin
-msgid "Silver Hand Paladin"
-msgstr "Paladín Mano de Plata"
 
 #: https://hsreplay.net/archetypes/215/even-paladin
 msgid "Even Paladin"
@@ -708,6 +700,10 @@ msgstr "Paladín Murlocs"
 #: https://hsreplay.net/archetypes/155/quest-rogue
 msgid "Quest Rogue"
 msgstr "Pícaro Misión"
+
+#: https://hsreplay.net/archetypes/183/silver-hand-paladin
+msgid "Silver Hand Paladin"
+msgstr "Paladín Mano de Plata"
 
 #: https://hsreplay.net/archetypes/273/secret-odd-mage
 msgid "Secret Odd Mage"
@@ -1085,10 +1081,6 @@ msgstr "Chamán Relicario de Almas"
 msgid "Spell Shaman"
 msgstr "Chamán Hechizos"
 
-#: https://hsreplay.net/archetypes/202/evolve-shaman
-msgid "Evolve Shaman"
-msgstr "Chaman Evolucionar"
-
 #: https://hsreplay.net/archetypes/380/embiggen-quest-druid
 msgid "Embiggen Quest Druid"
 msgstr "Druida Misión Agrandar"
@@ -1208,4 +1200,52 @@ msgstr "Guerrero Bombas"
 #: https://hsreplay.net/archetypes/412/silas-otk-warrior
 msgid "Silas OTK Warrior"
 msgstr "Guerrero OTK de Silas"
+
+#: https://hsreplay.net/archetypes/414/menagerie-paladin
+msgid "Menagerie Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/139/deathrattle-hunter
+msgid "Deathrattle Hunter"
+msgstr "Cazador Ultimos Alientos"
+
+#: https://hsreplay.net/archetypes/415/quest-big-priest
+msgid "Quest Big Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/416/cthun-rogue
+msgid "C'thun Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/202/evolve-shaman
+msgid "Evolve Shaman"
+msgstr "Chaman Evolucionar"
+
+#: https://hsreplay.net/archetypes/417/enhancement-shaman
+msgid "Enhancement Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/418/mill-warlock
+msgid "Mill Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/63/control-warlock
+msgid "Control Warlock"
+msgstr "Brujo Control"
+
+#: https://hsreplay.net/archetypes/419/menagerie-warrior
+msgid "Menagerie Warrior"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/421/ilgynoth-demon-hunter
+msgid "Il'gynoth Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/422/secret-face-hunter
+msgid "Secret Face Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/423/cthun-mage
+msgid "C'thun Mage"
+msgstr ""
 

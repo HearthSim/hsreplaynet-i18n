@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-10-25T01:40:26.742944\n"
+"POT-Creation-Date: 2020-11-19T01:40:29.932137\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2020-11-19 00:40\n"
+"PO-Revision-Date: 2020-11-19 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -145,6 +145,10 @@ msgstr "Жрец на немоте"
 msgid "Discard Warlock"
 msgstr "Чернокнижник на сбросе"
 
+#: https://hsreplay.net/archetypes/129/big-priest
+msgid "Big Priest"
+msgstr "Большой жрец"
+
 #: https://hsreplay.net/archetypes/136/highlander-warlock
 msgid "Highlander Warlock"
 msgstr "Хайлендер чернокнижник"
@@ -177,6 +181,10 @@ msgstr "Элементаль жрец"
 msgid "Miracle Priest"
 msgstr "Миракл жрец"
 
+#: https://hsreplay.net/archetypes/145/elemental-mage
+msgid "Elemental Mage"
+msgstr "Элементаль маг"
+
 #: https://hsreplay.net/archetypes/168/otk-dk-paladin
 msgid "OTK DK Paladin"
 msgstr "ОТК ДК паладин"
@@ -201,10 +209,6 @@ msgstr "Секрет маг"
 msgid "Mill Rogue"
 msgstr "Милл разбойник"
 
-#: https://hsreplay.net/archetypes/145/elemental-mage
-msgid "Elemental Mage"
-msgstr "Элементаль маг"
-
 #: https://hsreplay.net/archetypes/302/highlander-hunter
 msgid "Highlander Hunter"
 msgstr "Хайлендер охотник"
@@ -216,10 +220,6 @@ msgstr "Охотник на зверях"
 #: https://hsreplay.net/archetypes/172/stealth-rogue
 msgid "Stealth Rogue"
 msgstr "Разбойник на маскировке"
-
-#: https://hsreplay.net/archetypes/129/big-priest
-msgid "Big Priest"
-msgstr "Большой жрец"
 
 #: https://hsreplay.net/archetypes/298/secret-mech-paladin
 msgid "Secret Mech Paladin"
@@ -316,10 +316,6 @@ msgstr "Темпо друид"
 #: https://hsreplay.net/archetypes/204/control-hunter
 msgid "Control Hunter"
 msgstr "Контроль охотник"
-
-#: https://hsreplay.net/archetypes/63/control-warlock
-msgid "Control Warlock"
-msgstr "Контроль чернокнижник"
 
 #: https://hsreplay.net/archetypes/184/kingsbane-rogue
 msgid "Kingsbane Rogue"
@@ -441,6 +437,10 @@ msgstr "К'Тун воин"
 msgid "Blood Warrior"
 msgstr "Кровавый воин"
 
+#: https://hsreplay.net/archetypes/413/clown-druid
+msgid "Clown Druid"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/156/control-paladin
 msgid "Control Paladin"
 msgstr "Контроль паладин"
@@ -481,17 +481,9 @@ msgstr "Токен-шаман"
 msgid "Deathrattle Warrior"
 msgstr "Воин на хрипах"
 
-#: https://hsreplay.net/archetypes/139/deathrattle-hunter
-msgid "Deathrattle Hunter"
-msgstr "Охотник на хрипах"
-
 #: https://hsreplay.net/archetypes/181/leyline-mage
 msgid "Leyline Mage"
 msgstr "Манипулятор маг"
-
-#: https://hsreplay.net/archetypes/183/silver-hand-paladin
-msgid "Silver Hand Paladin"
-msgstr "Рекрут паладин"
 
 #: https://hsreplay.net/archetypes/215/even-paladin
 msgid "Even Paladin"
@@ -708,6 +700,10 @@ msgstr "Мурлок паладин"
 #: https://hsreplay.net/archetypes/155/quest-rogue
 msgid "Quest Rogue"
 msgstr "Квест разбойник"
+
+#: https://hsreplay.net/archetypes/183/silver-hand-paladin
+msgid "Silver Hand Paladin"
+msgstr "Рекрут паладин"
 
 #: https://hsreplay.net/archetypes/273/secret-odd-mage
 msgid "Secret Odd Mage"
@@ -1085,10 +1081,6 @@ msgstr "Реликварий шаман"
 msgid "Spell Shaman"
 msgstr "Шаман на заклинаниях"
 
-#: https://hsreplay.net/archetypes/202/evolve-shaman
-msgid "Evolve Shaman"
-msgstr "Шаман на эволюции"
-
 #: https://hsreplay.net/archetypes/380/embiggen-quest-druid
 msgid "Embiggen Quest Druid"
 msgstr "Квест друид на увеличении"
@@ -1207,5 +1199,53 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/412/silas-otk-warrior
 msgid "Silas OTK Warrior"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/414/menagerie-paladin
+msgid "Menagerie Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/139/deathrattle-hunter
+msgid "Deathrattle Hunter"
+msgstr "Охотник на хрипах"
+
+#: https://hsreplay.net/archetypes/415/quest-big-priest
+msgid "Quest Big Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/416/cthun-rogue
+msgid "C'thun Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/202/evolve-shaman
+msgid "Evolve Shaman"
+msgstr "Шаман на эволюции"
+
+#: https://hsreplay.net/archetypes/417/enhancement-shaman
+msgid "Enhancement Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/418/mill-warlock
+msgid "Mill Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/63/control-warlock
+msgid "Control Warlock"
+msgstr "Контроль чернокнижник"
+
+#: https://hsreplay.net/archetypes/419/menagerie-warrior
+msgid "Menagerie Warrior"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/421/ilgynoth-demon-hunter
+msgid "Il'gynoth Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/422/secret-face-hunter
+msgid "Secret Face Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/423/cthun-mage
+msgid "C'thun Mage"
 msgstr ""
 
