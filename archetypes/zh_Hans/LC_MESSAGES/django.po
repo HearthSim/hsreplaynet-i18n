@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-19T01:40:29.932137\n"
+"POT-Creation-Date: 2020-11-25T01:40:28.138807\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2020-11-25 00:40\n"
+"PO-Revision-Date: 2020-11-25 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -64,6 +64,10 @@ msgstr "龙骑"
 #: https://hsreplay.net/archetypes/36/control-priest
 msgid "Control Priest"
 msgstr "控制牧"
+
+#: https://hsreplay.net/archetypes/424/lifesteal-demon-hunter
+msgid "Lifesteal Demon Hunter"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/66/water-rogue
 msgid "Water Rogue"
@@ -480,6 +484,10 @@ msgstr "铺场萨"
 #: https://hsreplay.net/archetypes/164/deathrattle-warrior
 msgid "Deathrattle Warrior"
 msgstr "亡语战"
+
+#: https://hsreplay.net/archetypes/425/etc-otk-warrior
+msgid "ETC OTK Warrior"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/181/leyline-mage
 msgid "Leyline Mage"
@@ -1236,10 +1244,6 @@ msgstr "控制术"
 #: https://hsreplay.net/archetypes/419/menagerie-warrior
 msgid "Menagerie Warrior"
 msgstr "光牙战"
-
-#: https://hsreplay.net/archetypes/421/ilgynoth-demon-hunter
-msgid "Il'gynoth Demon Hunter"
-msgstr "毒奶瞎"
 
 #: https://hsreplay.net/archetypes/422/secret-face-hunter
 msgid "Secret Face Hunter"
