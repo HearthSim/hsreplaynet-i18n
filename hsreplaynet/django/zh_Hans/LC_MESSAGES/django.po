@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-26 01:40+0000\n"
-"PO-Revision-Date: 2020-11-26 12:40\n"
+"PO-Revision-Date: 2020-11-27 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -27,7 +27,7 @@ msgstr "实体无法处理。"
 
 #: api/exceptions.py:20
 msgid "A resource is not in the expected state."
-msgstr "资源错误。"
+msgstr "资源处于未定义的状态。"
 
 #: api/exceptions.py:26
 msgid "The card has been rejected."
@@ -44,7 +44,7 @@ msgstr "{input}不是{enum}的有效组分。"
 
 #: api/views/features.py:33
 msgid "Code has already been used."
-msgstr "这个激活码已经被别人使用了。"
+msgstr "该激活码已被使用。"
 
 #: api/views/features.py:35
 msgid "Code does not apply to this account."
@@ -104,7 +104,7 @@ msgstr "无法处理订单。"
 
 #: billing/views.py:369
 msgid "Your card declined the charge. Please contact your bank for information."
-msgstr "您的支付卡拒绝收款。请联系您的银行了解详情。"
+msgstr "您的支付卡拒绝付款。请联系您的银行了解详情。"
 
 #: billing/views.py:371
 msgid "Your card does not support payments in USD. Please try a different card."
@@ -156,7 +156,7 @@ msgstr "取消支付的秘钥无效。"
 
 #: billing/views.py:504
 msgid "Payment has already completed and cannot be canceled."
-msgstr "付款已经完成，不能被取消。"
+msgstr "付款已经完成，不能取消。"
 
 #: billing/views.py:508
 msgid "Your payment was interrupted."
@@ -411,7 +411,7 @@ msgstr "我们会将您导向至官方暴雪网站，您可以放心登录。"
 
 #: templates/account/login.html:32
 msgid "Blizzard will redirect you back here once you're done."
-msgstr "暴雪会在您完成后将您带回这里。"
+msgstr "当您完成登录后，暴雪战网会自动跳转回本站。"
 
 #: templates/account/login.html:41
 msgid "Log in with Blizzard"
@@ -644,7 +644,7 @@ msgstr "卡牌"
 
 #: templates/navigation.html:149
 msgid "SALE!"
-msgstr "实惠！"
+msgstr "促销！"
 
 #: templates/navigation.html:177
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
@@ -674,7 +674,7 @@ msgstr "验证出错"
 #: templates/socialaccount/authentication_error.html:11
 #, python-format
 msgid "We could not authenticate you with %(name)s.<br/> If this persists, <a href=\"%(contact_url)s\">contact us</a>."
-msgstr "我们无法认证您的 %(name)s。<br/> 如果这仍然存在，请 <a href=\"%(contact_url)s\">联系我们</a>。"
+msgstr "我们无法认证您的%(name)s。<br/>如果这仍然存在，请<a href=\"%(contact_url)s\">联系我们</a>。"
 
 #: templates/socialaccount/authentication_error.html:32
 msgid "Back to the office."
@@ -797,7 +797,7 @@ msgstr "联系我们的支持团队。"
 
 #: web/views/__init__.py:186
 msgid "Get in touch with the HSReplay.net Support Team."
-msgstr "与HSReplay.net 支持团队取得联系。"
+msgstr "与HSReplay.net支持团队取得联系。"
 
 #: web/views/archetypes.py:22
 msgid "Hearthstone Meta"
@@ -817,7 +817,7 @@ msgstr "迎接炉石即将到来的新环境，搜索最新卡组与后起之秀
 
 #: web/views/archetypes.py:48
 msgid "Archetype"
-msgstr "卡组"
+msgstr "构筑"
 
 #: web/views/archetypes.py:53
 msgid "This archetype is no longer available."
@@ -927,7 +927,7 @@ msgstr "请检查收件箱！我们已经向您发送了一封电子邮件来核
 
 #: web/views/dashboard.py:258 web/views/dashboard.py:264
 msgid "Failed to save your email preferences. Please try again later!"
-msgstr "无法保存电子邮件偏好。请稍后再试！"
+msgstr "您的电子邮件首选项保存失败。请稍后再试！"
 
 #: web/views/dashboard.py:274
 msgid "Your email preferences have been saved."
