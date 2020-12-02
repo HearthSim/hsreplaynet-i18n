@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-11-25T01:40:28.138807\n"
+"POT-Creation-Date: 2020-12-02T01:40:27.552191\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Thai\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: th_TH\n"
-"PO-Revision-Date: 2020-12-01 00:40\n"
+"PO-Revision-Date: 2020-12-02 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -148,10 +148,6 @@ msgstr "พรีสต์ใบ้"
 #: https://hsreplay.net/archetypes/135/discard-warlock
 msgid "Discard Warlock"
 msgstr "วอร์ล็อคดิสการ์ด"
-
-#: https://hsreplay.net/archetypes/129/big-priest
-msgid "Big Priest"
-msgstr ""
 
 #: https://hsreplay.net/archetypes/136/highlander-warlock
 msgid "Highlander Warlock"
@@ -1207,6 +1203,10 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/412/silas-otk-warrior
 msgid "Silas OTK Warrior"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/129/big-priest
+msgid "Big Priest"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/414/menagerie-paladin
