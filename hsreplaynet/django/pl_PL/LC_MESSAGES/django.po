@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17 01:40+0000\n"
-"PO-Revision-Date: 2020-12-18 12:40\n"
+"POT-Creation-Date: 2020-12-19 01:40+0000\n"
+"PO-Revision-Date: 2020-12-19 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -673,10 +673,28 @@ msgstr "Błąd uwierzytelniania"
 
 #: templates/socialaccount/authentication_error.html:11
 #, python-format
-msgid "We could not authenticate you with %(name)s.<br/> If this persists, <a href=\"%(contact_url)s\">contact us</a>."
+msgid "We could not authenticate you with %(name)s.<br/>"
 msgstr ""
 
-#: templates/socialaccount/authentication_error.html:32
+#: templates/socialaccount/authentication_error.html:17
+msgid "This could be because you did something unusual during your login, or the provider rejected your account."
+msgstr ""
+
+#: templates/socialaccount/authentication_error.html:22
+#, python-format
+msgid "\n"
+"\t\t\t\t\tIf you'd like to <a href=\"%(contact_url)s\">contact us</a>, please pass along the following event reference:\n"
+"\t\t\t\t"
+msgstr ""
+
+#: templates/socialaccount/authentication_error.html:29
+#, python-format
+msgid "\n"
+"\t\t\t\tPlease <a href=\"%(contact_url)s\">contact us</a> if you keep seeing this error.\n"
+"\t\t\t\t"
+msgstr ""
+
+#: templates/socialaccount/authentication_error.html:49
 msgid "Back to the office."
 msgstr "I myk do lobby."
 
