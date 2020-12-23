@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17T01:40:28.169218\n"
+"POT-Creation-Date: 2020-12-23T01:40:28.463600\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2020-12-19 12:40\n"
+"PO-Revision-Date: 2020-12-23 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -220,6 +220,10 @@ msgstr "Chasseur bêtes"
 #: https://hsreplay.net/archetypes/172/stealth-rogue
 msgid "Stealth Rogue"
 msgstr "Voleur camouflage"
+
+#: https://hsreplay.net/archetypes/429/pirate-evolve-shaman
+msgid "Pirate Evolve Shaman"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/298/secret-mech-paladin
 msgid "Secret Mech Paladin"
@@ -484,6 +488,10 @@ msgstr "Guerrier râles d'agonie"
 #: https://hsreplay.net/archetypes/181/leyline-mage
 msgid "Leyline Mage"
 msgstr "Mage tellurique"
+
+#: https://hsreplay.net/archetypes/427/vargoth-otk-mage
+msgid "Vargoth OTK Mage"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/215/even-paladin
 msgid "Even Paladin"
@@ -1101,10 +1109,6 @@ msgstr "Galakrond"
 msgid "Small Spell Mage"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/392/no-minion-mage
-msgid "No Minion Mage"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/393/highlander-dragon-mage
 msgid "Highlander Dragon Mage"
 msgstr ""
@@ -1205,9 +1209,17 @@ msgstr "Prêtre grosses créas"
 msgid "Menagerie Paladin"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/392/no-minion-mage
+msgid "No Minion Mage"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/139/deathrattle-hunter
 msgid "Deathrattle Hunter"
 msgstr "Chasseur râles d'agonie"
+
+#: https://hsreplay.net/archetypes/428/ramp-paladin
+msgid "Ramp Paladin"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/415/quest-big-priest
 msgid "Quest Big Priest"
@@ -1220,10 +1232,6 @@ msgstr ""
 #: https://hsreplay.net/archetypes/202/evolve-shaman
 msgid "Evolve Shaman"
 msgstr "Chaman évolution"
-
-#: https://hsreplay.net/archetypes/417/enhancement-shaman
-msgid "Enhancement Shaman"
-msgstr ""
 
 #: https://hsreplay.net/archetypes/418/mill-warlock
 msgid "Mill Warlock"
@@ -1255,5 +1263,9 @@ msgstr "Paladin recrues"
 
 #: https://hsreplay.net/archetypes/426/whirlkick-rogue
 msgid "Whirlkick Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/417/enhancement-shaman
+msgid "Enhancement Shaman"
 msgstr ""
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17T01:40:28.169218\n"
+"POT-Creation-Date: 2020-12-23T01:40:28.463600\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2020-12-19 12:40\n"
+"PO-Revision-Date: 2020-12-23 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -220,6 +220,10 @@ msgstr "야수 사냥꾼"
 #: https://hsreplay.net/archetypes/172/stealth-rogue
 msgid "Stealth Rogue"
 msgstr "은신 도적"
+
+#: https://hsreplay.net/archetypes/429/pirate-evolve-shaman
+msgid "Pirate Evolve Shaman"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/298/secret-mech-paladin
 msgid "Secret Mech Paladin"
@@ -483,6 +487,10 @@ msgstr "죽음의 메아리 전사"
 
 #: https://hsreplay.net/archetypes/181/leyline-mage
 msgid "Leyline Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/427/vargoth-otk-mage
+msgid "Vargoth OTK Mage"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/215/even-paladin
@@ -1101,10 +1109,6 @@ msgstr "갈라크론드"
 msgid "Small Spell Mage"
 msgstr "스몰 주문 마법사"
 
-#: https://hsreplay.net/archetypes/392/no-minion-mage
-msgid "No Minion Mage"
-msgstr "노 하수인 마법사"
-
 #: https://hsreplay.net/archetypes/393/highlander-dragon-mage
 msgid "Highlander Dragon Mage"
 msgstr "하이랜더 용 마법사"
@@ -1205,9 +1209,17 @@ msgstr "빅 사제"
 msgid "Menagerie Paladin"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/392/no-minion-mage
+msgid "No Minion Mage"
+msgstr "노 하수인 마법사"
+
 #: https://hsreplay.net/archetypes/139/deathrattle-hunter
 msgid "Deathrattle Hunter"
 msgstr "죽음의 메아리 사냥꾼"
+
+#: https://hsreplay.net/archetypes/428/ramp-paladin
+msgid "Ramp Paladin"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/415/quest-big-priest
 msgid "Quest Big Priest"
@@ -1220,10 +1232,6 @@ msgstr "크툰 도적"
 #: https://hsreplay.net/archetypes/202/evolve-shaman
 msgid "Evolve Shaman"
 msgstr "진화 주술사"
-
-#: https://hsreplay.net/archetypes/417/enhancement-shaman
-msgid "Enhancement Shaman"
-msgstr ""
 
 #: https://hsreplay.net/archetypes/418/mill-warlock
 msgid "Mill Warlock"
@@ -1256,4 +1264,8 @@ msgstr "신병 성기사"
 #: https://hsreplay.net/archetypes/426/whirlkick-rogue
 msgid "Whirlkick Rogue"
 msgstr "모래칼춤꾼 도적"
+
+#: https://hsreplay.net/archetypes/417/enhancement-shaman
+msgid "Enhancement Shaman"
+msgstr ""
 

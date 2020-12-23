@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-17T01:40:28.169218\n"
+"POT-Creation-Date: 2020-12-23T01:40:28.463600\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2020-12-19 12:40\n"
+"PO-Revision-Date: 2020-12-23 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -220,6 +220,10 @@ msgstr "獣ハンター"
 #: https://hsreplay.net/archetypes/172/stealth-rogue
 msgid "Stealth Rogue"
 msgstr "隠れ身ローグ"
+
+#: https://hsreplay.net/archetypes/429/pirate-evolve-shaman
+msgid "Pirate Evolve Shaman"
+msgstr "海賊進化シャーマン"
 
 #: https://hsreplay.net/archetypes/298/secret-mech-paladin
 msgid "Secret Mech Paladin"
@@ -484,6 +488,10 @@ msgstr "断末魔ウォリアー"
 #: https://hsreplay.net/archetypes/181/leyline-mage
 msgid "Leyline Mage"
 msgstr "レイラインメイジ"
+
+#: https://hsreplay.net/archetypes/427/vargoth-otk-mage
+msgid "Vargoth OTK Mage"
+msgstr "ヴァルゴスOTKメイジ"
 
 #: https://hsreplay.net/archetypes/215/even-paladin
 msgid "Even Paladin"
@@ -1101,10 +1109,6 @@ msgstr "ガラクロンド"
 msgid "Small Spell Mage"
 msgstr "スモールスペルメイジ"
 
-#: https://hsreplay.net/archetypes/392/no-minion-mage
-msgid "No Minion Mage"
-msgstr "ノーミニオンメイジ"
-
 #: https://hsreplay.net/archetypes/393/highlander-dragon-mage
 msgid "Highlander Dragon Mage"
 msgstr "ハイランダードラゴンメイジ"
@@ -1205,9 +1209,17 @@ msgstr "ビッグプリースト"
 msgid "Menagerie Paladin"
 msgstr "動物園パラディン"
 
+#: https://hsreplay.net/archetypes/392/no-minion-mage
+msgid "No Minion Mage"
+msgstr "ノーミニオンメイジ"
+
 #: https://hsreplay.net/archetypes/139/deathrattle-hunter
 msgid "Deathrattle Hunter"
 msgstr "断末魔ハンター"
+
+#: https://hsreplay.net/archetypes/428/ramp-paladin
+msgid "Ramp Paladin"
+msgstr "ランプパラディン"
 
 #: https://hsreplay.net/archetypes/415/quest-big-priest
 msgid "Quest Big Priest"
@@ -1220,10 +1232,6 @@ msgstr "クトゥーンローグ"
 #: https://hsreplay.net/archetypes/202/evolve-shaman
 msgid "Evolve Shaman"
 msgstr "進化シャーマン"
-
-#: https://hsreplay.net/archetypes/417/enhancement-shaman
-msgid "Enhancement Shaman"
-msgstr "強化シャーマン"
 
 #: https://hsreplay.net/archetypes/418/mill-warlock
 msgid "Mill Warlock"
@@ -1256,4 +1264,8 @@ msgstr "新兵パラディン"
 #: https://hsreplay.net/archetypes/426/whirlkick-rogue
 msgid "Whirlkick Rogue"
 msgstr "旋風脚ローグ"
+
+#: https://hsreplay.net/archetypes/417/enhancement-shaman
+msgid "Enhancement Shaman"
+msgstr "強化シャーマン"
 
