@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-19 01:40+0000\n"
-"PO-Revision-Date: 2020-12-28 12:40\n"
+"PO-Revision-Date: 2021-01-07 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -31,11 +31,11 @@ msgstr "Zasób nie jest w oczekiwanym stanie."
 
 #: api/exceptions.py:26
 msgid "The card has been rejected."
-msgstr ""
+msgstr "Karta została odrzucona."
 
 #: api/exceptions.py:31
 msgid "You do not have permission to view this collection."
-msgstr ""
+msgstr "Nie masz uprawnień do przeglądania tej kolekcji."
 
 #: api/fields.py:9
 #, python-brace-format
@@ -144,7 +144,7 @@ msgstr "Jesteś zalogowany na niewłaściwym koncie."
 
 #: billing/views.py:470
 msgid "Subscription was canceled by PayPal."
-msgstr ""
+msgstr "Subskrypcja została anulowana przez PayPal."
 
 #: billing/views.py:478
 msgid "You are now subscribed with PayPal!"
@@ -156,7 +156,7 @@ msgstr "Nieprawidłowy token podczas anulowywania płatności."
 
 #: billing/views.py:504
 msgid "Payment has already completed and cannot be canceled."
-msgstr ""
+msgstr "Płatność została już zakończona i nie można jej anulować."
 
 #: billing/views.py:508
 msgid "Your payment was interrupted."
@@ -221,7 +221,7 @@ msgstr "Konto nieaktywne"
 #: templates/account/account_inactive.html:10
 #, python-format
 msgid "This account is inactive or has been banned. Please <a href=\"%(contact_url)s\">contact us</a> if this is in error."
-msgstr ""
+msgstr "To konto jest nieaktywne lub zostało zablokowane. Prosimy <a href=\"%(contact_url)s\">skontaktować się z nami</a> jeśli jest to błąd."
 
 #: templates/account/api.html:7
 msgid "Authentication Tokens"
@@ -468,7 +468,7 @@ msgstr "Resetuj hasło"
 #: templates/account/password_reset.html:26
 #, python-format
 msgid "Need help? <a href=\"%(contact_url)s\">Contact us</a>."
-msgstr ""
+msgstr "Potrzebujesz pomocy? <a href=\"%(contact_url)s\">Skontaktuj się z nami</a>."
 
 #: templates/account/signup.html:8 templates/account/signup.html:39
 #: templates/socialaccount/signup.html:12
@@ -507,11 +507,11 @@ msgstr "Wysłaliśmy ci wiadomość e-mail w celu weryfikacji. Wejdź w link, by
 #: templates/account/verification_sent.html:15
 #, python-format
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
-msgstr ""
+msgstr "Prosimy <a href=\"%(contact_url)s\">skontaktuj się z nami</a> jeśli nie otrzymasz go w ciągu paru minut."
 
 #: templates/base.html:113
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
-msgstr ""
+msgstr "Xsolla jest autoryzowanym globalnym dystrybutorem HSReplay.net"
 
 #: templates/footer.html:8
 msgid "Back to top"
@@ -552,11 +552,11 @@ msgstr "Premium"
 
 #: templates/footer.html:66 templates/navigation.html:49
 msgid "Battlegrounds"
-msgstr ""
+msgstr "Ustawka"
 
 #: templates/footer.html:67
 msgid "Tier7"
-msgstr ""
+msgstr "Poziom7"
 
 #: templates/footer.html:71
 msgid "Support"
@@ -592,11 +592,11 @@ msgstr "O Nas"
 
 #: templates/games/replay_detail.html:33
 msgid "Replay not available"
-msgstr ""
+msgstr "Powtórka niedostępna"
 
 #: templates/games/replay_detail.html:35
 msgid "This replay is no longer available."
-msgstr ""
+msgstr "Powtórka nie jest już dostępna."
 
 #: templates/navigation.html:12
 msgid "Toggle navigation"
@@ -604,7 +604,7 @@ msgstr "Schowaj/pokaż nawigację"
 
 #: templates/navigation.html:37
 msgid "Classic"
-msgstr ""
+msgstr "Gra Klasyczna"
 
 #: templates/navigation.html:63
 msgid "Heroes"
@@ -612,11 +612,11 @@ msgstr "Bohaterowie"
 
 #: templates/navigation.html:73
 msgid "Minions"
-msgstr ""
+msgstr "Stronnicy"
 
 #: templates/navigation.html:83
 msgid "Compositions"
-msgstr ""
+msgstr "Kompozycje"
 
 #: templates/navigation.html:102
 msgid "Articles"
@@ -652,12 +652,12 @@ msgstr ""
 
 #: templates/oauth2_provider/authorize.html:12
 msgid "Some error happened during authorization."
-msgstr ""
+msgstr "Podczas autoryzacji wystąpił błąd."
 
 #: templates/oauth2_provider/authorize.html:16
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help."
-msgstr ""
+msgstr "<a href=\"%(contact_url)s\">Skontaktuj się z nami</a> jeśli potrzebujesz pomocy."
 
 #: templates/oauth2_provider/authorize.html:19
 msgid "Permission request"
@@ -856,7 +856,7 @@ msgstr "Bohaterowie Ustawek"
 
 #: web/views/battlegrounds.py:106 web/views/battlegrounds.py:137
 msgid "Battlegrounds Hero"
-msgstr ""
+msgstr "Bohater Ustawki"
 
 #: web/views/battlegrounds.py:124
 msgid "No matching hero found."
@@ -864,27 +864,27 @@ msgstr "Nie znaleziono pasującego bohatera."
 
 #: web/views/battlegrounds.py:159
 msgid "Battlegrounds Minions"
-msgstr ""
+msgstr "Stronnicy Ustawki"
 
 #: web/views/battlegrounds.py:165 web/views/battlegrounds.py:196
 msgid "Battlegrounds Minion"
-msgstr ""
+msgstr "Stronnik Ustawki"
 
 #: web/views/battlegrounds.py:183
 msgid "No matching minion found."
-msgstr ""
+msgstr "Nie znaleziono pasującego stronnika."
 
 #: web/views/battlegrounds.py:228
 msgid "Battlegrounds Compositions"
-msgstr ""
+msgstr "Kompozycje Ustawki"
 
 #: web/views/battlegrounds.py:234 web/views/battlegrounds.py:257
 msgid "Battlegrounds Composition"
-msgstr ""
+msgstr "Kompozycja Ustawki"
 
 #: web/views/battlegrounds.py:252
 msgid "No matching composition found."
-msgstr ""
+msgstr "Nie znaleziono pasującej kompozycji."
 
 #: web/views/cards.py:27 web/views/cards.py:128
 msgid "Hearthstone Card Statistics"
@@ -989,7 +989,7 @@ msgstr "Talia zawiera karty nie do zdobycia."
 
 #: web/views/decks.py:69
 msgid "Neutral Deck"
-msgstr ""
+msgstr "Neutralna Talia"
 
 #: web/views/decks.py:83
 #, python-brace-format
