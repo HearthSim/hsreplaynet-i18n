@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-07T01:40:27.043996\n"
+"POT-Creation-Date: 2021-01-13T01:40:27.667674\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-01-07 12:40\n"
+"PO-Revision-Date: 2021-01-13 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -200,10 +200,6 @@ msgstr "中速猎"
 #: https://hsreplay.net/archetypes/186/prince-warlock
 msgid "Prince Warlock"
 msgstr "二王子节奏术"
-
-#: https://hsreplay.net/archetypes/141/secret-mage
-msgid "Secret Mage"
-msgstr "奥秘法"
 
 #: https://hsreplay.net/archetypes/151/mill-rogue
 msgid "Mill Rogue"
@@ -1029,10 +1025,6 @@ msgstr "节奏战"
 msgid "Quest Highlander Hunter"
 msgstr "任务宇宙猎"
 
-#: https://hsreplay.net/archetypes/366/highlander-demon-hunter
-msgid "Highlander Demon Hunter"
-msgstr "宇宙瞎"
-
 #: https://hsreplay.net/archetypes/367/tempo-demon-hunter
 msgid "Tempo Demon Hunter"
 msgstr "节奏瞎"
@@ -1169,9 +1161,9 @@ msgstr "打脸贼"
 msgid "Spell Damage Shaman"
 msgstr "法强萨"
 
-#: https://hsreplay.net/archetypes/408/weapon-rogue
-msgid "Weapon Rogue"
-msgstr "武器贼"
+#: https://hsreplay.net/archetypes/366/highlander-demon-hunter
+msgid "Highlander Demon Hunter"
+msgstr "宇宙瞎"
 
 #: https://hsreplay.net/archetypes/407/tortollan-mage
 msgid "Tortollan Mage"
@@ -1217,6 +1209,10 @@ msgstr "大哥战"
 msgid "Ramp Paladin"
 msgstr "科技骑"
 
+#: https://hsreplay.net/archetypes/408/weapon-rogue
+msgid "Weapon Rogue"
+msgstr "武器贼"
+
 #: https://hsreplay.net/archetypes/415/quest-big-priest
 msgid "Quest Big Priest"
 msgstr "任务大哥牧"
@@ -1259,7 +1255,7 @@ msgstr "报告骑"
 
 #: https://hsreplay.net/archetypes/426/whirlkick-rogue
 msgid "Whirlkick Rogue"
-msgstr "连环腿贼"
+msgstr "连击贼"
 
 #: https://hsreplay.net/archetypes/417/enhancement-shaman
 msgid "Enhancement Shaman"
@@ -1268,4 +1264,8 @@ msgstr "增强萨"
 #: https://hsreplay.net/archetypes/139/deathrattle-hunter
 msgid "Deathrattle Hunter"
 msgstr "亡语猎"
+
+#: https://hsreplay.net/archetypes/141/secret-mage
+msgid "Secret Mage"
+msgstr "奥秘法"
 

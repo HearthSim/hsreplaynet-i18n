@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-07T01:40:27.043996\n"
+"POT-Creation-Date: 2021-01-13T01:40:27.667674\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2021-01-07 12:40\n"
+"PO-Revision-Date: 2021-01-13 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -200,10 +200,6 @@ msgstr "Cazador Midrange"
 #: https://hsreplay.net/archetypes/186/prince-warlock
 msgid "Prince Warlock"
 msgstr "Brujo Principe"
-
-#: https://hsreplay.net/archetypes/141/secret-mage
-msgid "Secret Mage"
-msgstr "Mago Secretos"
 
 #: https://hsreplay.net/archetypes/151/mill-rogue
 msgid "Mill Rogue"
@@ -1029,10 +1025,6 @@ msgstr "Guerrero Tempo"
 msgid "Quest Highlander Hunter"
 msgstr "Cazador Highlander Misión"
 
-#: https://hsreplay.net/archetypes/366/highlander-demon-hunter
-msgid "Highlander Demon Hunter"
-msgstr "Cazador de Demonios Highlander"
-
 #: https://hsreplay.net/archetypes/367/tempo-demon-hunter
 msgid "Tempo Demon Hunter"
 msgstr "Cazador de Demonios Tempo"
@@ -1169,9 +1161,9 @@ msgstr "Pícaro a la Cara"
 msgid "Spell Damage Shaman"
 msgstr "Chamán Daño de Hechizos"
 
-#: https://hsreplay.net/archetypes/408/weapon-rogue
-msgid "Weapon Rogue"
-msgstr "Pícaro Armas"
+#: https://hsreplay.net/archetypes/366/highlander-demon-hunter
+msgid "Highlander Demon Hunter"
+msgstr "Cazador de Demonios Highlander"
 
 #: https://hsreplay.net/archetypes/407/tortollan-mage
 msgid "Tortollan Mage"
@@ -1216,6 +1208,10 @@ msgstr "Guerrero Big"
 #: https://hsreplay.net/archetypes/428/ramp-paladin
 msgid "Ramp Paladin"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/408/weapon-rogue
+msgid "Weapon Rogue"
+msgstr "Pícaro Armas"
 
 #: https://hsreplay.net/archetypes/415/quest-big-priest
 msgid "Quest Big Priest"
@@ -1268,4 +1264,8 @@ msgstr ""
 #: https://hsreplay.net/archetypes/139/deathrattle-hunter
 msgid "Deathrattle Hunter"
 msgstr "Cazador Ultimos Alientos"
+
+#: https://hsreplay.net/archetypes/141/secret-mage
+msgid "Secret Mage"
+msgstr "Mago Secretos"
 
