@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-13T01:40:27.667674\n"
+"POT-Creation-Date: 2021-01-23T01:40:30.607241\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2021-01-21 12:40\n"
+"PO-Revision-Date: 2021-01-23 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -200,6 +200,10 @@ msgstr "미드레인지 사냥꾼"
 #: https://hsreplay.net/archetypes/186/prince-warlock
 msgid "Prince Warlock"
 msgstr "켈레세스 흑마법사"
+
+#: https://hsreplay.net/archetypes/430/fel-demon-hunter
+msgid "Fel Demon Hunter"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/151/mill-rogue
 msgid "Mill Rogue"
@@ -1189,6 +1193,10 @@ msgstr "선장 폭탄 전사"
 msgid "Silas OTK Warrior"
 msgstr "실라스 원턴킬 전사"
 
+#: https://hsreplay.net/archetypes/431/mozaki-otk-mage
+msgid "Mozaki OTK Mage"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/129/big-priest
 msgid "Big Priest"
 msgstr "빅 사제"
@@ -1249,10 +1257,6 @@ msgstr "크툰 마법사"
 msgid "Highlander Druid"
 msgstr "하이랜더 드루이드"
 
-#: https://hsreplay.net/archetypes/183/silver-hand-paladin
-msgid "Silver Hand Paladin"
-msgstr "신병 성기사"
-
 #: https://hsreplay.net/archetypes/426/whirlkick-rogue
 msgid "Whirlkick Rogue"
 msgstr "모래칼춤꾼 도적"
@@ -1268,4 +1272,16 @@ msgstr "죽음의 메아리 사냥꾼"
 #: https://hsreplay.net/archetypes/141/secret-mage
 msgid "Secret Mage"
 msgstr "비밀 마법사"
+
+#: https://hsreplay.net/archetypes/183/silver-hand-paladin
+msgid "Silver Hand Paladin"
+msgstr "신병 성기사"
+
+#: https://hsreplay.net/archetypes/432/corrupt-priest
+msgid "Corrupt Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/433/quest-control-warlock
+msgid "Quest Control Warlock"
+msgstr ""
 
