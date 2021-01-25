@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-24 01:40+0000\n"
-"PO-Revision-Date: 2021-01-24 12:40\n"
+"POT-Creation-Date: 2021-01-25 01:40+0000\n"
+"PO-Revision-Date: 2021-01-25 12:41\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -420,14 +420,6 @@ msgstr "블리자드 계정으로 로그인"
 #: templates/account/login.html:45
 msgid "Region"
 msgstr "지역"
-
-#: templates/account/login.html:47
-msgid "US / EU / SEA"
-msgstr "아메리카 / 유럽 / 아시아"
-
-#: templates/account/login.html:52
-msgid "China (CN)"
-msgstr "중국 (CN)"
 
 #: templates/account/login.html:59
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
