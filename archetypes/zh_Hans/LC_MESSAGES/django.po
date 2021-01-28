@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-23T01:40:30.607241\n"
+"POT-Creation-Date: 2021-01-28T01:40:29.295646\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-01-26 12:40\n"
+"PO-Revision-Date: 2021-01-28 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1125,10 +1125,6 @@ msgstr "魔块术"
 msgid "Aggro Demon Hunter"
 msgstr "快攻瞎"
 
-#: https://hsreplay.net/archetypes/397/soul-demon-hunter
-msgid "Soul Demon Hunter"
-msgstr "残片瞎"
-
 #: https://hsreplay.net/archetypes/398/guardian-druid
 msgid "Guardian Druid"
 msgstr "保镖德"
@@ -1284,4 +1280,8 @@ msgstr "腐蚀牧"
 #: https://hsreplay.net/archetypes/433/quest-control-warlock
 msgid "Quest Control Warlock"
 msgstr "任务控制术"
+
+#: https://hsreplay.net/archetypes/397/soul-demon-hunter
+msgid "Soul Demon Hunter"
+msgstr "残片瞎"
 
