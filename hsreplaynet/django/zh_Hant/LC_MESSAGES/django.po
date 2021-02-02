@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-25 01:40+0000\n"
-"PO-Revision-Date: 2021-01-30 00:40\n"
+"PO-Revision-Date: 2021-02-02 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -23,19 +23,19 @@ msgstr ""
 
 #: api/exceptions.py:14
 msgid "The entity cannot be processed."
-msgstr ""
+msgstr "無法執行"
 
 #: api/exceptions.py:20
 msgid "A resource is not in the expected state."
-msgstr ""
+msgstr "某個資源不在預期狀態內。"
 
 #: api/exceptions.py:26
 msgid "The card has been rejected."
-msgstr ""
+msgstr "這張卡被拒絕。"
 
 #: api/exceptions.py:31
 msgid "You do not have permission to view this collection."
-msgstr ""
+msgstr "您無權檢視此收藏。"
 
 #: api/fields.py:9
 #, python-brace-format
@@ -44,11 +44,11 @@ msgstr ""
 
 #: api/views/features.py:33
 msgid "Code has already been used."
-msgstr ""
+msgstr "這個代碼已被使用"
 
 #: api/views/features.py:35
 msgid "Code does not apply to this account."
-msgstr ""
+msgstr "這個代碼無法使用於這個帳戶"
 
 #: api/views/features.py:37
 msgid "Code has not been activated yet."
@@ -124,7 +124,7 @@ msgstr "您的卡片被拒絕了。您並沒有被扣款。請嘗試其他卡片
 
 #: billing/views.py:410
 msgid "You are now subscribed!"
-msgstr ""
+msgstr "您已訂閱!"
 
 #: billing/views.py:419
 msgid " Please contact us if you are seeing this in error."
@@ -144,7 +144,7 @@ msgstr "您沒有作為正確的使用者登錄。"
 
 #: billing/views.py:470
 msgid "Subscription was canceled by PayPal."
-msgstr ""
+msgstr "訂閱遭到 PayPal取消。"
 
 #: billing/views.py:478
 msgid "You are now subscribed with PayPal!"
@@ -274,11 +274,11 @@ msgstr "啟用中"
 
 #: templates/account/base.html:15 web/views/dashboard.py:39
 msgid "Account"
-msgstr ""
+msgstr "帳號"
 
 #: templates/account/base.html:16 web/views/allauth.py:19
 msgid "Emails"
-msgstr ""
+msgstr "Emails"
 
 #: templates/account/base.html:17
 msgid "Billing"
@@ -286,7 +286,7 @@ msgstr "帳單"
 
 #: templates/account/base.html:18 web/views/allauth.py:13
 msgid "Connections"
-msgstr ""
+msgstr "連接"
 
 #: templates/account/base.html:19 web/views/dashboard.py:327
 msgid "Applications"
@@ -332,7 +332,7 @@ msgstr "以下的電子郵件地址已經和您的帳戶連結:"
 
 #: templates/account/email.html:18
 msgid "✔ Verified"
-msgstr ""
+msgstr "✔ 已認證"
 
 #: templates/account/email.html:23
 msgid "Re-send Verification"
@@ -340,7 +340,7 @@ msgstr "重新傳送驗證信件"
 
 #: templates/account/email.html:28
 msgid "✔ Primary"
-msgstr ""
+msgstr "✔ 主要"
 
 #: templates/account/email.html:33
 msgid "Make Primary"
@@ -551,27 +551,27 @@ msgstr ""
 
 #: templates/footer.html:67
 msgid "Tier7"
-msgstr ""
+msgstr "Tier7"
 
 #: templates/footer.html:71
 msgid "Support"
-msgstr ""
+msgstr "支援"
 
 #: templates/footer.html:73
 msgid "Your Account"
-msgstr ""
+msgstr "您的帳戶"
 
 #: templates/footer.html:85
 msgid "Help Center"
-msgstr ""
+msgstr "幫助中心"
 
 #: templates/footer.html:87
 msgid "Contact Us"
-msgstr ""
+msgstr "聯繫我們"
 
 #: templates/footer.html:92
 msgid "Legal"
-msgstr ""
+msgstr "法律聲明"
 
 #: templates/footer.html:95
 msgid "Terms of Service"
@@ -587,11 +587,11 @@ msgstr "關於我們"
 
 #: templates/games/replay_detail.html:33
 msgid "Replay not available"
-msgstr ""
+msgstr "沒有重播資料"
 
 #: templates/games/replay_detail.html:35
 msgid "This replay is no longer available."
-msgstr ""
+msgstr "這個重播已無法使用"
 
 #: templates/navigation.html:12
 msgid "Toggle navigation"
@@ -599,19 +599,19 @@ msgstr "開啟/關閉導航工具列"
 
 #: templates/navigation.html:37
 msgid "Classic"
-msgstr ""
+msgstr "經典爐石"
 
 #: templates/navigation.html:63
 msgid "Heroes"
-msgstr ""
+msgstr "英雄"
 
 #: templates/navigation.html:73
 msgid "Minions"
-msgstr ""
+msgstr "手下"
 
 #: templates/navigation.html:83
 msgid "Compositions"
-msgstr ""
+msgstr "陣容"
 
 #: templates/navigation.html:102
 msgid "Articles"
@@ -627,7 +627,7 @@ msgstr "環境主流"
 
 #: templates/navigation.html:119
 msgid "Back soon!"
-msgstr ""
+msgstr "馬上回來"
 
 #: templates/navigation.html:132
 msgid "Decks"
@@ -639,7 +639,7 @@ msgstr "卡牌"
 
 #: templates/navigation.html:149
 msgid "SALE!"
-msgstr ""
+msgstr "大特賣!"
 
 #: templates/navigation.html:177
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
@@ -656,7 +656,7 @@ msgstr ""
 
 #: templates/oauth2_provider/authorize.html:19
 msgid "Permission request"
-msgstr ""
+msgstr "權限請求"
 
 #: templates/snippets/noscript.html:5
 msgid "It looks like you have Javascript turned off. This page will not work correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
@@ -732,7 +732,7 @@ msgstr ""
 
 #: templates/socialaccount/signup.html:31
 msgid "Battletag"
-msgstr ""
+msgstr "Battletag"
 
 #: templates/socialaccount/signup.html:40
 msgid "You can change this later by connecting additional accounts."
