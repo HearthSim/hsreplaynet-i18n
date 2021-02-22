@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-28T01:40:29.295646\n"
+"POT-Creation-Date: 2021-02-22T01:40:30.717259\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2021-02-16 00:40\n"
+"PO-Revision-Date: 2021-02-22 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1125,6 +1125,10 @@ msgstr "큐브 사제"
 msgid "Aggro Demon Hunter"
 msgstr "어그로 악마사냥꾼"
 
+#: https://hsreplay.net/archetypes/436/rally-priest
+msgid "Rally Priest"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/398/guardian-druid
 msgid "Guardian Druid"
 msgstr "적자생존 드루이드"
@@ -1280,6 +1284,10 @@ msgstr "타락 사제"
 #: https://hsreplay.net/archetypes/433/quest-control-warlock
 msgid "Quest Control Warlock"
 msgstr "퀘스트 컨트롤 흑마법사"
+
+#: https://hsreplay.net/archetypes/437/malygos-shaman
+msgid "Malygos Shaman"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/397/soul-demon-hunter
 msgid "Soul Demon Hunter"
