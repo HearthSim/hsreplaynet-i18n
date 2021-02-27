@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-01-25 01:40+0000\n"
-"PO-Revision-Date: 2021-02-25 12:40\n"
+"PO-Revision-Date: 2021-02-27 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -96,7 +96,7 @@ msgstr "您已经订购了付费会员！"
 
 #: billing/views.py:309 billing/views.py:451 billing/views.py:518
 msgid "You already have an active or a pending subscription."
-msgstr "你已经开通会员了，或者拥有一个待支付的订阅。"
+msgstr "您已经开通会员了，或者拥有一个待支付的订阅。"
 
 #: billing/views.py:352
 msgid "Could not process subscription."
@@ -312,7 +312,7 @@ msgstr "是否确定？"
 
 #: templates/account/delete_replays.html:10
 msgid "Deleting your replays will unlink them from your account and make any previously-shared replay URL inaccessible."
-msgstr "删除你的回放代表它们与您账户的联系断开，之前分享的回放URL也将失效。"
+msgstr "删除您的回放代表它们与您账户的联系断开，之前分享的回放URL也将失效。"
 
 #: templates/account/delete_replays.html:12
 msgid "Your personal statistics will not be reset. Are you sure you want to proceed?"
@@ -360,7 +360,7 @@ msgstr "通知设置"
 
 #: templates/account/email.html:77
 msgid "Control which types of emails you receive at your primary address."
-msgstr "控制发送到你首要地址的邮件种类。"
+msgstr "控制发送到您首要地址的邮件种类。"
 
 #: templates/account/email.html:83
 msgid "Account & security (required)"
@@ -443,7 +443,7 @@ msgstr "注销"
 
 #: templates/account/logout.html:10
 msgid "Are you sure you want to sign out?"
-msgstr "你确定需要注销吗？"
+msgstr "您确定需要注销吗？"
 
 #: templates/account/password_reset.html:11
 msgid "Password reset"
@@ -494,7 +494,7 @@ msgstr "请验证您的邮箱地址"
 
 #: templates/account/verification_sent.html:11
 msgid "We have sent you an e-mail for verification. Follow the link in it to finalize the signup process."
-msgstr "我们已经给你发了一封验证电子邮件。按照其中的链接完成注册过程。"
+msgstr "我们已经给您发了一封验证电子邮件。按照其中的链接完成注册过程。"
 
 #: templates/account/verification_sent.html:15
 #, python-format
@@ -791,7 +791,7 @@ msgstr "在浏览器上直接观看分享您的炉石传说回放。探索卡组
 
 #: web/views/__init__.py:50
 msgid "HSReplay.net - Unleash your potential"
-msgstr "HSReplay.net - 释放你的潜能"
+msgstr "HSReplay.net - 释放您的潜能"
 
 #: web/views/__init__.py:154 web/views/battlegrounds.py:67
 msgid "Download Hearthstone Deck Tracker"
