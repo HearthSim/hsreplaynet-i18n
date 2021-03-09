@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-06 01:40+0000\n"
-"PO-Revision-Date: 2021-03-08 00:40\n"
+"PO-Revision-Date: 2021-03-09 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -172,7 +172,7 @@ msgstr "无效PayPal套餐。"
 
 #: settings.py:348
 msgid "Full access to your HSReplay.net account"
-msgstr "完全访问您的 HSReplay.net 帐户"
+msgstr "完全访问您的HSReplay.net帐户"
 
 #: settings.py:349
 msgid "Access information about your connected social accounts"
@@ -381,7 +381,7 @@ msgstr "保存"
 #: templates/account/email.html:99
 #, python-format
 msgid "Looking for a password setting? You can sign with any of <a href=\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there is no HSReplay.net password."
-msgstr "正在查找密码设置？您可以<a href=\"%(connected_accounts_url)s\">连接您的暴雪帐户</a>直接登陆，无需HSReplay.net 密码。"
+msgstr "正在查找密码设置？您可以<a href=\"%(connected_accounts_url)s\">连接您的暴雪帐户</a>直接登录，无需HSReplay.net密码。"
 
 #: templates/account/email/email_confirmation_message.txt:1
 #, python-format
