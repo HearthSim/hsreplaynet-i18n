@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-06 01:40+0000\n"
-"PO-Revision-Date: 2021-03-18 12:40\n"
+"POT-Creation-Date: 2021-03-20 01:40+0000\n"
+"PO-Revision-Date: 2021-03-20 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -533,12 +533,12 @@ msgstr "Seguici su Instagram"
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Non affiliato a Blizzard Entertainment."
 
-#: templates/footer.html:64 templates/navigation.html:159
+#: templates/footer.html:64 templates/navigation.html:164
 msgid "Downloads"
 msgstr "Downloads"
 
-#: templates/footer.html:65 templates/navigation.html:148
-#: templates/navigation.html:151
+#: templates/footer.html:65 templates/navigation.html:153
+#: templates/navigation.html:156
 msgid "Premium"
 msgstr "Premium"
 
@@ -610,35 +610,35 @@ msgstr "Servitori"
 msgid "Compositions"
 msgstr "Composizioni"
 
-#: templates/navigation.html:102
-msgid "Articles"
-msgstr "Articoli"
-
-#: templates/navigation.html:109
-msgid "Trending"
-msgstr "Tendenze"
-
-#: templates/navigation.html:118 templates/navigation.html:124
-msgid "Meta"
-msgstr "Meta"
-
-#: templates/navigation.html:119
-msgid "Back soon!"
-msgstr "Torneremo presto!"
-
-#: templates/navigation.html:132
-msgid "Decks"
-msgstr "Mazzi"
-
-#: templates/navigation.html:139
-msgid "Cards"
-msgstr "Carte"
-
-#: templates/navigation.html:149
+#: templates/navigation.html:97 templates/navigation.html:154
 msgid "SALE!"
 msgstr "VENDITA!"
 
-#: templates/navigation.html:177
+#: templates/navigation.html:106
+msgid "Articles"
+msgstr "Articoli"
+
+#: templates/navigation.html:113
+msgid "Trending"
+msgstr "Tendenze"
+
+#: templates/navigation.html:122 templates/navigation.html:128
+msgid "Meta"
+msgstr "Meta"
+
+#: templates/navigation.html:123
+msgid "Back soon!"
+msgstr "Torneremo presto!"
+
+#: templates/navigation.html:136
+msgid "Decks"
+msgstr "Mazzi"
+
+#: templates/navigation.html:143
+msgid "Cards"
+msgstr "Carte"
+
+#: templates/navigation.html:182
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "Stiamo aggiornando questa sezione con l'ultima patch del Battleground. Potresti incontrare informazione incomplete o vecchie."
 

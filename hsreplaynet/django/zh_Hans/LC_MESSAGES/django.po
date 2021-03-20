@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-06 01:40+0000\n"
-"PO-Revision-Date: 2021-03-18 12:40\n"
+"POT-Creation-Date: 2021-03-20 01:40+0000\n"
+"PO-Revision-Date: 2021-03-20 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -533,12 +533,12 @@ msgstr "在Instagram上关注我们"
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "与Blizzard Entertainment没有从属关系。"
 
-#: templates/footer.html:64 templates/navigation.html:159
+#: templates/footer.html:64 templates/navigation.html:164
 msgid "Downloads"
 msgstr "下载"
 
-#: templates/footer.html:65 templates/navigation.html:148
-#: templates/navigation.html:151
+#: templates/footer.html:65 templates/navigation.html:153
+#: templates/navigation.html:156
 msgid "Premium"
 msgstr "升级会员"
 
@@ -610,35 +610,35 @@ msgstr "随从"
 msgid "Compositions"
 msgstr "流派"
 
-#: templates/navigation.html:102
-msgid "Articles"
-msgstr "文章"
-
-#: templates/navigation.html:109
-msgid "Trending"
-msgstr "趋势"
-
-#: templates/navigation.html:118 templates/navigation.html:124
-msgid "Meta"
-msgstr "环境"
-
-#: templates/navigation.html:119
-msgid "Back soon!"
-msgstr "马上回来！"
-
-#: templates/navigation.html:132
-msgid "Decks"
-msgstr "套牌"
-
-#: templates/navigation.html:139
-msgid "Cards"
-msgstr "卡牌"
-
-#: templates/navigation.html:149
+#: templates/navigation.html:97 templates/navigation.html:154
 msgid "SALE!"
 msgstr "促销！"
 
-#: templates/navigation.html:177
+#: templates/navigation.html:106
+msgid "Articles"
+msgstr "文章"
+
+#: templates/navigation.html:113
+msgid "Trending"
+msgstr "趋势"
+
+#: templates/navigation.html:122 templates/navigation.html:128
+msgid "Meta"
+msgstr "环境"
+
+#: templates/navigation.html:123
+msgid "Back soon!"
+msgstr "马上回来！"
+
+#: templates/navigation.html:136
+msgid "Decks"
+msgstr "套牌"
+
+#: templates/navigation.html:143
+msgid "Cards"
+msgstr "卡牌"
+
+#: templates/navigation.html:182
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "我们正在根据最新酒馆战棋补丁更新此页面。您可能会暂时看到缺失和过期的信息。"
 
