@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 01:40+0000\n"
-"PO-Revision-Date: 2021-03-25 12:40\n"
+"POT-Creation-Date: 2021-03-25 22:07+0000\n"
+"PO-Revision-Date: 2021-03-26 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -533,12 +533,12 @@ msgstr ""
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr ""
 
-#: templates/footer.html:64 templates/navigation.html:164
+#: templates/footer.html:64 templates/navigation.html:163
 msgid "Downloads"
 msgstr "다운로드"
 
-#: templates/footer.html:65 templates/navigation.html:153
-#: templates/navigation.html:156
+#: templates/footer.html:65 templates/navigation.html:152
+#: templates/navigation.html:155
 msgid "Premium"
 msgstr "프리미엄"
 
@@ -610,7 +610,7 @@ msgstr ""
 msgid "Compositions"
 msgstr ""
 
-#: templates/navigation.html:97 templates/navigation.html:154
+#: templates/navigation.html:97 templates/navigation.html:153
 msgid "SALE!"
 msgstr ""
 
@@ -638,7 +638,7 @@ msgstr "덱"
 msgid "Cards"
 msgstr "카드목록"
 
-#: templates/navigation.html:185
+#: templates/navigation.html:184
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
@@ -1001,13 +1001,13 @@ msgstr "액세스가 취소되었습니다."
 msgid "{count} access tokens deleted."
 msgstr "{count} 액세스 토큰 삭제."
 
-#: web/views/premium.py:20 web/views/premium.py:42
-msgid "HSReplay.net Premium"
-msgstr "HSReplay.net 프리미엄"
-
-#: web/views/premium.py:22 web/views/premium.py:44
+#: web/views/premium.py:21 web/views/premium.py:46
 msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
 msgstr "더 많은 필터, 더 많은 기능, 더 많은 데이터: 수십만개의 게임으로 HSReplay.net이 산출해낸 고급 통계정보를 접해보세요."
+
+#: web/views/premium.py:39 web/views/premium.py:64
+msgid "HSReplay.net Premium for Hearthstone"
+msgstr ""
 
 #: web/views/profiles.py:27
 msgid "User does not exist."

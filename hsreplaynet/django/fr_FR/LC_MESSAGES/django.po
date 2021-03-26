@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 01:40+0000\n"
-"PO-Revision-Date: 2021-03-25 12:40\n"
+"POT-Creation-Date: 2021-03-25 22:07+0000\n"
+"PO-Revision-Date: 2021-03-26 00:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -532,12 +532,12 @@ msgstr "Suivez-nous sur Instagram"
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Non affilié à Blizzard Entertainment."
 
-#: templates/footer.html:64 templates/navigation.html:164
+#: templates/footer.html:64 templates/navigation.html:163
 msgid "Downloads"
 msgstr "Téléchargements"
 
-#: templates/footer.html:65 templates/navigation.html:153
-#: templates/navigation.html:156
+#: templates/footer.html:65 templates/navigation.html:152
+#: templates/navigation.html:155
 msgid "Premium"
 msgstr "Premium"
 
@@ -609,7 +609,7 @@ msgstr "Serviteurs"
 msgid "Compositions"
 msgstr "Compositions"
 
-#: templates/navigation.html:97 templates/navigation.html:154
+#: templates/navigation.html:97 templates/navigation.html:153
 msgid "SALE!"
 msgstr "SOLDES !"
 
@@ -637,7 +637,7 @@ msgstr "Decks"
 msgid "Cards"
 msgstr "Cartes"
 
-#: templates/navigation.html:185
+#: templates/navigation.html:184
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
@@ -1000,13 +1000,13 @@ msgstr "L’accès a été révoqué."
 msgid "{count} access tokens deleted."
 msgstr "{count} jetons supprimés."
 
-#: web/views/premium.py:20 web/views/premium.py:42
-msgid "HSReplay.net Premium"
-msgstr "HSReplay.net Premium"
-
-#: web/views/premium.py:22 web/views/premium.py:44
+#: web/views/premium.py:21 web/views/premium.py:46
 msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
 msgstr "Plus de filtres, plus de fonctionnalités, plus de données : accédez à des statistiques avancées sur Hearthstone, venant de millions de parties avec HSReplay.net Premium pour HSReplay.net."
+
+#: web/views/premium.py:39 web/views/premium.py:64
+msgid "HSReplay.net Premium for Hearthstone"
+msgstr ""
 
 #: web/views/profiles.py:27
 msgid "User does not exist."
