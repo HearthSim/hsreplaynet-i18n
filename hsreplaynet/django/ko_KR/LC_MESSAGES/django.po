@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 22:07+0000\n"
-"PO-Revision-Date: 2021-03-30 12:40\n"
+"POT-Creation-Date: 2021-03-30 19:31+0000\n"
+"PO-Revision-Date: 2021-03-31 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -1001,11 +1001,11 @@ msgstr "액세스가 취소되었습니다."
 msgid "{count} access tokens deleted."
 msgstr "{count} 액세스 토큰 삭제."
 
-#: web/views/premium.py:21 web/views/premium.py:46
+#: web/views/premium.py:18
 msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
 msgstr "더 많은 필터, 더 많은 기능, 더 많은 데이터: 수십만개의 게임으로 HSReplay.net이 산출해낸 고급 통계정보를 접해보세요."
 
-#: web/views/premium.py:39 web/views/premium.py:64
+#: web/views/premium.py:29
 msgid "HSReplay.net Premium for Hearthstone"
 msgstr ""
 

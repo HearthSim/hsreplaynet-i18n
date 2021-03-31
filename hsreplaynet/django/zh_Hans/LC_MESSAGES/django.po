@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-25 22:07+0000\n"
-"PO-Revision-Date: 2021-03-30 12:40\n"
+"POT-Creation-Date: 2021-03-30 19:31+0000\n"
+"PO-Revision-Date: 2021-03-31 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1005,11 +1005,11 @@ msgstr "权限已被撤销。"
 msgid "{count} access tokens deleted."
 msgstr "已删除{count}个权限秘钥。"
 
-#: web/views/premium.py:21 web/views/premium.py:46
+#: web/views/premium.py:18
 msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
 msgstr "更丰富的过滤器、更全面的功能、更完善的数据：在HSReplay.net上获取会员，获取数以万计份对局数据支撑的高级炉石统计数据。"
 
-#: web/views/premium.py:39 web/views/premium.py:64
+#: web/views/premium.py:29
 msgid "HSReplay.net Premium for Hearthstone"
 msgstr "炉石传说HSReplay.net会员"
 
