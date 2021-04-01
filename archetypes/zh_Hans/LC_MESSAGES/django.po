@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-31T01:40:29.299176\n"
+"POT-Creation-Date: 2021-04-01T01:40:28.974248\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-04-01 00:40\n"
+"PO-Revision-Date: 2021-04-01 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1352,4 +1352,16 @@ msgstr "撕牌术"
 #: https://hsreplay.net/archetypes/452/watch-post-warrior
 msgid "Watch Post Warrior"
 msgstr "哨所战"
+
+#: https://hsreplay.net/archetypes/453/menagerie-druid
+msgid "Menagerie Druid"
+msgstr "光牙德"
+
+#: https://hsreplay.net/archetypes/454/primordial-hunter
+msgid "Primordial Hunter"
+msgstr "小丑猎"
+
+#: https://hsreplay.net/archetypes/455/watch-post-paladin
+msgid "Watch Post Paladin"
+msgstr "哨塔骑"
 
