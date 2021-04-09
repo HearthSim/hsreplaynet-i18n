@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-30 19:31+0000\n"
-"PO-Revision-Date: 2021-04-09 00:40\n"
+"PO-Revision-Date: 2021-04-09 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -230,7 +230,7 @@ msgstr "身份验证令牌"
 #: templates/account/api.html:12
 #, python-format
 msgid "You do not have any upload client associated with your account. <a href=\"%(downloads_url)s\">Download Hearthstone Deck Tracker</a> and claim your account from there!"
-msgstr "您的帐户没有关联任何上传用的客户端。 <a href=\"%(downloads_url)s\">下载炉石传说记牌器</a> 并从那里登记您的帐户!"
+msgstr "您的帐户没有关联任何上传用的客户端。 <a href=\"%(downloads_url)s\">下载HDT记牌器</a> 并从那里登记您的帐户!"
 
 #: templates/account/api.html:19
 msgid "The following tokens can be used to upload your games. Keep them private!"
@@ -795,7 +795,7 @@ msgstr "HSReplay.net - 释放您的潜能"
 
 #: web/views/__init__.py:154 web/views/battlegrounds.py:67
 msgid "Download Hearthstone Deck Tracker"
-msgstr "下载HDT记牌器"
+msgstr "下载HDT炉石记牌器"
 
 #: web/views/__init__.py:156 web/views/battlegrounds.py:69
 msgid "HSReplay.net Companion App"
