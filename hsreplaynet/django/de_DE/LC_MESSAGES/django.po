@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-03-30 19:31+0000\n"
-"PO-Revision-Date: 2021-04-08 12:40\n"
+"PO-Revision-Date: 2021-04-09 00:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -502,7 +502,7 @@ msgstr ""
 
 #: templates/base.html:113
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
-msgstr ""
+msgstr "Xsolla ist ein autorisierter globaler Vertriebshändler von HSReplay.net"
 
 #: templates/footer.html:8
 msgid "Back to top"
@@ -595,7 +595,7 @@ msgstr "Navigation umschalten"
 
 #: templates/navigation.html:37
 msgid "Constructed"
-msgstr ""
+msgstr "Deckbau"
 
 #: templates/navigation.html:63
 msgid "Heroes"
@@ -627,7 +627,7 @@ msgstr "Meta"
 
 #: templates/navigation.html:123
 msgid "Back soon!"
-msgstr ""
+msgstr "Bald zurück!"
 
 #: templates/navigation.html:136
 msgid "Decks"
@@ -665,7 +665,7 @@ msgstr "Authentifizierungsfehler"
 #: templates/socialaccount/authentication_error.html:11
 #, python-format
 msgid "We could not authenticate you with %(name)s.<br/>"
-msgstr ""
+msgstr "Wir konnten dich nicht mit %(name)s authentifizieren.<br/>"
 
 #: templates/socialaccount/authentication_error.html:17
 msgid "This could be because you did something unusual during your login, or the provider rejected your account."
@@ -976,7 +976,7 @@ msgstr "Deckliste enthält nicht-sammelbare Karten."
 
 #: web/views/decks.py:69
 msgid "Neutral Deck"
-msgstr ""
+msgstr "Neutrales Deck"
 
 #: web/views/decks.py:83
 #, python-brace-format
@@ -1006,7 +1006,7 @@ msgstr "Mehr Filter, mehr Funktionen, mehr Daten: Erhalte mit HSReplay.net Premi
 
 #: web/views/premium.py:29
 msgid "HSReplay.net Premium for Hearthstone"
-msgstr ""
+msgstr "HSReplay.net Premium für Hearthstone"
 
 #: web/views/profiles.py:27
 msgid "User does not exist."
