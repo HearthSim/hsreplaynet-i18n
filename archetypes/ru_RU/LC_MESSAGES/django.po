@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-07T01:40:28.937755\n"
+"POT-Creation-Date: 2021-04-20T01:40:30.452243\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2021-04-18 12:40\n"
+"PO-Revision-Date: 2021-04-20 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -464,10 +464,6 @@ msgstr "Пират мурлок паладин"
 #: https://hsreplay.net/archetypes/158/murloc-aggro-paladin
 msgid "Murloc Aggro Paladin"
 msgstr "Мурлок агро паладин"
-
-#: https://hsreplay.net/archetypes/171/aggro-paladin
-msgid "Aggro Paladin"
-msgstr "Агро паладин"
 
 #: https://hsreplay.net/archetypes/30/token-shaman
 msgid "Token Shaman"
@@ -1049,10 +1045,6 @@ msgstr "Друид на заклинаниях"
 msgid "Quest Spell Mage"
 msgstr "Квест маг на заклинаниях"
 
-#: https://hsreplay.net/archetypes/375/secret-rogue
-msgid "Secret Rogue"
-msgstr "Секрет разбойник"
-
 #: https://hsreplay.net/archetypes/384/egg-warrior
 msgid "Egg Warrior"
 msgstr "Воин на яйцах"
@@ -1305,6 +1297,10 @@ msgstr ""
 msgid "Deathrattle Demon Hunter"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/171/aggro-paladin
+msgid "Aggro Paladin"
+msgstr "Агро паладин"
+
 #: https://hsreplay.net/archetypes/440/celestial-druid
 msgid "Celestial Druid"
 msgstr ""
@@ -1380,4 +1376,8 @@ msgstr ""
 #: https://hsreplay.net/archetypes/455/watch-post-paladin
 msgid "Watch Post Paladin"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/375/secret-rogue
+msgid "Secret Rogue"
+msgstr "Секрет разбойник"
 
