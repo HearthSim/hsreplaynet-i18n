@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-04-24T01:40:30.280240\n"
+"POT-Creation-Date: 2021-05-04T01:40:30.962806\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-04-28 12:40\n"
+"PO-Revision-Date: 2021-05-04 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -801,6 +801,10 @@ msgstr "机械牧"
 msgid "Hooktusk Rogue"
 msgstr "钩牙海盗贼"
 
+#: https://hsreplay.net/archetypes/463/clown-priest
+msgid "Clown Priest"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/11/cyclone-mage
 msgid "Cyclone Mage"
 msgstr "奇迹法"
@@ -1384,4 +1388,8 @@ msgstr "奥秘贼"
 #: https://hsreplay.net/archetypes/462/primordial-druid
 msgid "Primordial Druid"
 msgstr "始生德"
+
+#: https://hsreplay.net/archetypes/464/primordial-priest
+msgid "Primordial Priest"
+msgstr ""
 
