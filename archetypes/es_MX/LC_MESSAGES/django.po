@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-16T01:40:29.014105\n"
+"POT-Creation-Date: 2021-06-30T01:40:28.769390\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2021-06-17 12:40\n"
+"PO-Revision-Date: 2021-06-30 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -48,10 +48,6 @@ msgstr "Mago Dragones"
 #: https://hsreplay.net/archetypes/12/beast-druid
 msgid "Beast Druid"
 msgstr "Druida Bestias"
-
-#: https://hsreplay.net/archetypes/6/malygos-druid
-msgid "Malygos Druid"
-msgstr "Druida Malygos"
 
 #: https://hsreplay.net/archetypes/31/dragon-paladin
 msgid "Dragon Paladin"
@@ -1412,4 +1408,12 @@ msgstr "Magon Congelar"
 #: https://hsreplay.net/archetypes/468/frenzy-warrior
 msgid "Frenzy Warrior"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/470/hybrid-demon-hunter
+msgid "Hybrid Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/6/malygos-druid
+msgid "Malygos Druid"
+msgstr "Druida Malygos"
 
