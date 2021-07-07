@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-30 19:31+0000\n"
-"PO-Revision-Date: 2021-07-06 12:40\n"
+"POT-Creation-Date: 2021-07-07 01:40+0000\n"
+"PO-Revision-Date: 2021-07-07 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -533,12 +533,12 @@ msgstr "Seguici su Instagram"
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Non affiliato a Blizzard Entertainment."
 
-#: templates/footer.html:64 templates/navigation.html:163
+#: templates/footer.html:64 templates/navigation.html:176
 msgid "Downloads"
 msgstr "Downloads"
 
-#: templates/footer.html:65 templates/navigation.html:152
-#: templates/navigation.html:155
+#: templates/footer.html:65 templates/navigation.html:165
+#: templates/navigation.html:168
 msgid "Premium"
 msgstr "Premium"
 
@@ -602,43 +602,47 @@ msgstr ""
 msgid "Heroes"
 msgstr "Eroi"
 
-#: templates/navigation.html:73
+#: templates/navigation.html:75
+msgid "Darkmoon Prizes"
+msgstr ""
+
+#: templates/navigation.html:86
 msgid "Minions"
 msgstr "Servitori"
 
-#: templates/navigation.html:83
+#: templates/navigation.html:96
 msgid "Compositions"
 msgstr "Composizioni"
 
-#: templates/navigation.html:97 templates/navigation.html:153
+#: templates/navigation.html:110 templates/navigation.html:166
 msgid "SALE!"
 msgstr "VENDITA!"
 
-#: templates/navigation.html:106
+#: templates/navigation.html:119
 msgid "Articles"
 msgstr "Articoli"
 
-#: templates/navigation.html:113
+#: templates/navigation.html:126
 msgid "Trending"
 msgstr "Tendenze"
 
-#: templates/navigation.html:122 templates/navigation.html:128
+#: templates/navigation.html:135 templates/navigation.html:141
 msgid "Meta"
 msgstr "Meta"
 
-#: templates/navigation.html:123
+#: templates/navigation.html:136
 msgid "Back soon!"
 msgstr "Torneremo presto!"
 
-#: templates/navigation.html:136
+#: templates/navigation.html:149
 msgid "Decks"
 msgstr "Mazzi"
 
-#: templates/navigation.html:143
+#: templates/navigation.html:156
 msgid "Cards"
 msgstr "Carte"
 
-#: templates/navigation.html:184
+#: templates/navigation.html:197
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "Stiamo aggiornando questa sezione con l'ultima patch del Battleground. Potresti incontrare informazione incomplete o vecchie."
 
@@ -846,35 +850,39 @@ msgstr "HSReplay.net Tier7 Battlegroround"
 msgid "Battlegrounds Heroes"
 msgstr "Battlegrounds Eroi"
 
-#: web/views/battlegrounds.py:106 web/views/battlegrounds.py:137
+#: web/views/battlegrounds.py:106
+msgid "Battlegrounds Darkmoon Prizes"
+msgstr ""
+
+#: web/views/battlegrounds.py:112 web/views/battlegrounds.py:143
 msgid "Battlegrounds Hero"
 msgstr "Battlegrorounds Eroe"
 
-#: web/views/battlegrounds.py:124
+#: web/views/battlegrounds.py:130
 msgid "No matching hero found."
 msgstr "Nessuna corrispondenza con l'Eroe trovata."
 
-#: web/views/battlegrounds.py:159
+#: web/views/battlegrounds.py:165
 msgid "Battlegrounds Minions"
 msgstr "Creature del Battelgrounds"
 
-#: web/views/battlegrounds.py:165 web/views/battlegrounds.py:196
+#: web/views/battlegrounds.py:171 web/views/battlegrounds.py:202
 msgid "Battlegrounds Minion"
 msgstr "Creatura del Battelgrounds"
 
-#: web/views/battlegrounds.py:183
+#: web/views/battlegrounds.py:189
 msgid "No matching minion found."
 msgstr "Nessuna corrispondenza con la creatura trovata."
 
-#: web/views/battlegrounds.py:228
+#: web/views/battlegrounds.py:234
 msgid "Battlegrounds Compositions"
 msgstr "Composizioni del Battelgrounds"
 
-#: web/views/battlegrounds.py:234 web/views/battlegrounds.py:257
+#: web/views/battlegrounds.py:240 web/views/battlegrounds.py:263
 msgid "Battlegrounds Composition"
 msgstr "Composizione Battleground"
 
-#: web/views/battlegrounds.py:252
+#: web/views/battlegrounds.py:258
 msgid "No matching composition found."
 msgstr "Nessuna composizione corrispondente trovata."
 

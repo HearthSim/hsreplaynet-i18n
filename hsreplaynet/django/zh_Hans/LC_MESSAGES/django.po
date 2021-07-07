@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-03-30 19:31+0000\n"
-"PO-Revision-Date: 2021-07-06 12:40\n"
+"POT-Creation-Date: 2021-07-07 01:40+0000\n"
+"PO-Revision-Date: 2021-07-07 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -533,12 +533,12 @@ msgstr "在Instagram上关注我们"
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "与Blizzard Entertainment没有从属关系。"
 
-#: templates/footer.html:64 templates/navigation.html:163
+#: templates/footer.html:64 templates/navigation.html:176
 msgid "Downloads"
 msgstr "下载"
 
-#: templates/footer.html:65 templates/navigation.html:152
-#: templates/navigation.html:155
+#: templates/footer.html:65 templates/navigation.html:165
+#: templates/navigation.html:168
 msgid "Premium"
 msgstr "升级会员"
 
@@ -602,43 +602,47 @@ msgstr "对战模式"
 msgid "Heroes"
 msgstr "英雄"
 
-#: templates/navigation.html:73
+#: templates/navigation.html:75
+msgid "Darkmoon Prizes"
+msgstr ""
+
+#: templates/navigation.html:86
 msgid "Minions"
 msgstr "随从"
 
-#: templates/navigation.html:83
+#: templates/navigation.html:96
 msgid "Compositions"
 msgstr "流派"
 
-#: templates/navigation.html:97 templates/navigation.html:153
+#: templates/navigation.html:110 templates/navigation.html:166
 msgid "SALE!"
 msgstr "促销！"
 
-#: templates/navigation.html:106
+#: templates/navigation.html:119
 msgid "Articles"
 msgstr "文章"
 
-#: templates/navigation.html:113
+#: templates/navigation.html:126
 msgid "Trending"
 msgstr "趋势"
 
-#: templates/navigation.html:122 templates/navigation.html:128
+#: templates/navigation.html:135 templates/navigation.html:141
 msgid "Meta"
 msgstr "环境"
 
-#: templates/navigation.html:123
+#: templates/navigation.html:136
 msgid "Back soon!"
 msgstr "马上回来！"
 
-#: templates/navigation.html:136
+#: templates/navigation.html:149
 msgid "Decks"
 msgstr "套牌"
 
-#: templates/navigation.html:143
+#: templates/navigation.html:156
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:184
+#: templates/navigation.html:197
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "我们正在根据最新酒馆战棋补丁更新此页面。您可能会暂时看到缺失和过期的信息。"
 
@@ -850,35 +854,39 @@ msgstr "酒馆战棋HSReplay.net Tier7"
 msgid "Battlegrounds Heroes"
 msgstr "酒馆战棋英雄"
 
-#: web/views/battlegrounds.py:106 web/views/battlegrounds.py:137
+#: web/views/battlegrounds.py:106
+msgid "Battlegrounds Darkmoon Prizes"
+msgstr ""
+
+#: web/views/battlegrounds.py:112 web/views/battlegrounds.py:143
 msgid "Battlegrounds Hero"
 msgstr "酒馆战棋英雄"
 
-#: web/views/battlegrounds.py:124
+#: web/views/battlegrounds.py:130
 msgid "No matching hero found."
 msgstr "未找到匹配的英雄。"
 
-#: web/views/battlegrounds.py:159
+#: web/views/battlegrounds.py:165
 msgid "Battlegrounds Minions"
 msgstr "酒馆战棋随从"
 
-#: web/views/battlegrounds.py:165 web/views/battlegrounds.py:196
+#: web/views/battlegrounds.py:171 web/views/battlegrounds.py:202
 msgid "Battlegrounds Minion"
 msgstr "酒馆战棋随从"
 
-#: web/views/battlegrounds.py:183
+#: web/views/battlegrounds.py:189
 msgid "No matching minion found."
 msgstr "未找到匹配的随从。"
 
-#: web/views/battlegrounds.py:228
+#: web/views/battlegrounds.py:234
 msgid "Battlegrounds Compositions"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:234 web/views/battlegrounds.py:257
+#: web/views/battlegrounds.py:240 web/views/battlegrounds.py:263
 msgid "Battlegrounds Composition"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:252
+#: web/views/battlegrounds.py:258
 msgid "No matching composition found."
 msgstr "没有找到对应的流派。"
 
