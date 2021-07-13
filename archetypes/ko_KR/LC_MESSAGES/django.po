@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-06-30T01:40:28.769390\n"
+"POT-Creation-Date: 2021-07-13T01:40:28.881188\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2021-07-10 12:40\n"
+"PO-Revision-Date: 2021-07-13 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1213,10 +1213,6 @@ msgstr "도발 전사"
 msgid "Quest Big Priest"
 msgstr "퀘스트 빅 사제"
 
-#: https://hsreplay.net/archetypes/416/cthun-rogue
-msgid "C'thun Rogue"
-msgstr "크툰 도적"
-
 #: https://hsreplay.net/archetypes/202/evolve-shaman
 msgid "Evolve Shaman"
 msgstr "진화 주술사"
@@ -1272,6 +1268,10 @@ msgstr "타락 사제"
 #: https://hsreplay.net/archetypes/433/quest-control-warlock
 msgid "Quest Control Warlock"
 msgstr "퀘스트 컨트롤 흑마법사"
+
+#: https://hsreplay.net/archetypes/416/cthun-rogue
+msgid "C'Thun Rogue"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/437/malygos-shaman
 msgid "Malygos Shaman"
