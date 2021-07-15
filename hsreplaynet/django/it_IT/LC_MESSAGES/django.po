@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-07-07 01:40+0000\n"
-"PO-Revision-Date: 2021-07-14 12:40\n"
+"PO-Revision-Date: 2021-07-15 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -596,7 +596,7 @@ msgstr "Attiva/disattiva navigazione"
 
 #: templates/navigation.html:37
 msgid "Constructed"
-msgstr ""
+msgstr "Classificata"
 
 #: templates/navigation.html:63
 msgid "Heroes"
@@ -604,7 +604,7 @@ msgstr "Eroi"
 
 #: templates/navigation.html:75
 msgid "Darkmoon Prizes"
-msgstr ""
+msgstr "Premi di Lunacupa"
 
 #: templates/navigation.html:86
 msgid "Minions"
@@ -670,11 +670,11 @@ msgstr "Errore di autenticazione"
 #: templates/socialaccount/authentication_error.html:11
 #, python-format
 msgid "We could not authenticate you with %(name)s.<br/>"
-msgstr ""
+msgstr "Non è stato possibile autenticarti con %(name)s.<br/>"
 
 #: templates/socialaccount/authentication_error.html:17
 msgid "This could be because you did something unusual during your login, or the provider rejected your account."
-msgstr ""
+msgstr "Questo potrebbe essere perché hai fatto qualcosa di insolito durante il login, o il provider ha rifiutato il tuo account."
 
 #: templates/socialaccount/authentication_error.html:22
 #, python-format
@@ -852,7 +852,7 @@ msgstr "Battlegrounds Eroi"
 
 #: web/views/battlegrounds.py:106
 msgid "Battlegrounds Darkmoon Prizes"
-msgstr ""
+msgstr "Premi di Lunacupa in Battaglia"
 
 #: web/views/battlegrounds.py:112 web/views/battlegrounds.py:143
 msgid "Battlegrounds Hero"
@@ -1015,7 +1015,7 @@ msgstr "Più filtri, più funzioni, più dati: Ottieni l'accesso ad HSReplay.net
 
 #: web/views/premium.py:29
 msgid "HSReplay.net Premium for Hearthstone"
-msgstr ""
+msgstr "HSReplay.net Premium per Hearthstone"
 
 #: web/views/profiles.py:27
 msgid "User does not exist."
