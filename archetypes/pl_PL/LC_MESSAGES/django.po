@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-21T01:40:29.968206\n"
+"POT-Creation-Date: 2021-07-30T01:40:31.877782\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-07-30 00:40\n"
+"PO-Revision-Date: 2021-07-30 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -165,6 +165,10 @@ msgstr "Pirate Warrior"
 msgid "Beast Rush Hunter"
 msgstr "Beast Rush Hunter"
 
+#: https://hsreplay.net/archetypes/56/quest-priest
+msgid "Quest Priest"
+msgstr "Quest Priest"
+
 #: https://hsreplay.net/archetypes/27/aggro-shaman
 msgid "Aggro Shaman"
 msgstr "Aggro Shaman"
@@ -180,10 +184,6 @@ msgstr "Elemental Mage"
 #: https://hsreplay.net/archetypes/168/otk-dk-paladin
 msgid "OTK DK Paladin"
 msgstr "OTK DK Paladin"
-
-#: https://hsreplay.net/archetypes/150/quest-druid
-msgid "Quest Druid"
-msgstr "Quest Druid"
 
 #: https://hsreplay.net/archetypes/137/midrange-hunter
 msgid "Midrange Hunter"
@@ -381,10 +381,6 @@ msgstr "Even Mage"
 msgid "Big Spell Mage"
 msgstr "Big Spell Mage"
 
-#: https://hsreplay.net/archetypes/56/quest-priest
-msgid "Quest Priest"
-msgstr "Quest Priest"
-
 #: https://hsreplay.net/archetypes/144/control-mage
 msgid "Control Mage"
 msgstr "Control Mage"
@@ -412,6 +408,10 @@ msgstr "Elemental Rogue"
 #: https://hsreplay.net/archetypes/16/nzoth-paladin
 msgid "N'Zoth Paladin"
 msgstr "N'Zoth Paladin"
+
+#: https://hsreplay.net/archetypes/211/quest-hunter
+msgid "Quest Hunter"
+msgstr "Quest Hunter"
 
 #: https://hsreplay.net/archetypes/75/jade-rogue
 msgid "Jade Rogue"
@@ -441,21 +441,21 @@ msgstr ""
 msgid "Control Paladin"
 msgstr "Control Paladin"
 
+#: https://hsreplay.net/archetypes/155/quest-rogue
+msgid "Quest Rogue"
+msgstr "Quest Rogue"
+
 #: https://hsreplay.net/archetypes/192/control-shaman
 msgid "Control Shaman"
 msgstr "Control Shaman"
-
-#: https://hsreplay.net/archetypes/162/quest-warrior
-msgid "Quest Warrior"
-msgstr "Quest Warrior"
 
 #: https://hsreplay.net/archetypes/213/dragon-hunter
 msgid "Dragon Hunter"
 msgstr "Dragon Hunter"
 
-#: https://hsreplay.net/archetypes/211/quest-hunter
-msgid "Quest Hunter"
-msgstr "Quest Hunter"
+#: https://hsreplay.net/archetypes/162/quest-warrior
+msgid "Quest Warrior"
+msgstr "Quest Warrior"
 
 #: https://hsreplay.net/archetypes/72/pirate-murloc-paladin
 msgid "Pirate Murloc Paladin"
@@ -697,10 +697,6 @@ msgstr "Big Secret Hunter"
 msgid "Murloc Paladin"
 msgstr "Murloc Paladin"
 
-#: https://hsreplay.net/archetypes/155/quest-rogue
-msgid "Quest Rogue"
-msgstr "Quest Rogue"
-
 #: https://hsreplay.net/archetypes/25/miracle-rogue
 msgid "Miracle Rogue"
 msgstr "Miracle Rogue"
@@ -809,17 +805,9 @@ msgstr ""
 msgid "Cyclone Mage"
 msgstr "Cyclone Mage"
 
-#: https://hsreplay.net/archetypes/142/quest-mage
-msgid "Quest Mage"
-msgstr "Quest Mage"
-
 #: https://hsreplay.net/archetypes/469/aggro-elemental-shaman
 msgid "Aggro Elemental Shaman"
 msgstr ""
-
-#: https://hsreplay.net/archetypes/79/quest-paladin
-msgid "Quest Paladin"
-msgstr "Quest Paladin"
 
 #: https://hsreplay.net/archetypes/304/highlander-paladin
 msgid "Highlander Paladin"
@@ -828,14 +816,6 @@ msgstr "Highlander Paladin"
 #: https://hsreplay.net/archetypes/305/highlander-quest-druid
 msgid "Highlander Quest Druid"
 msgstr "Highlander Quest Druid"
-
-#: https://hsreplay.net/archetypes/306/quest-shaman
-msgid "Quest Shaman"
-msgstr "Quest Shaman"
-
-#: https://hsreplay.net/archetypes/307/quest-warlock
-msgid "Quest Warlock"
-msgstr "Quest Warlock"
 
 #: https://hsreplay.net/archetypes/308/aggro-warrior
 msgid "Aggro Warrior"
@@ -1045,9 +1025,9 @@ msgstr "Big Demon Hunter"
 msgid "Spell Druid"
 msgstr "Spell Druid"
 
-#: https://hsreplay.net/archetypes/373/quest-spell-mage
-msgid "Quest Spell Mage"
-msgstr "Quest Spell Mage"
+#: https://hsreplay.net/archetypes/79/quest-paladin
+msgid "Quest Paladin"
+msgstr "Quest Paladin"
 
 #: https://hsreplay.net/archetypes/384/egg-warrior
 msgid "Egg Warrior"
@@ -1213,9 +1193,13 @@ msgstr "Libram Paladin"
 msgid "Taunt Warrior"
 msgstr "Taunt Warrior"
 
-#: https://hsreplay.net/archetypes/415/quest-big-priest
-msgid "Quest Big Priest"
-msgstr ""
+#: https://hsreplay.net/archetypes/306/quest-shaman
+msgid "Quest Shaman"
+msgstr "Quest Shaman"
+
+#: https://hsreplay.net/archetypes/307/quest-warlock
+msgid "Quest Warlock"
+msgstr "Quest Warlock"
 
 #: https://hsreplay.net/archetypes/202/evolve-shaman
 msgid "Evolve Shaman"
@@ -1420,4 +1404,20 @@ msgstr ""
 #: https://hsreplay.net/archetypes/6/malygos-druid
 msgid "Malygos Druid"
 msgstr "Malygos Druid"
+
+#: https://hsreplay.net/archetypes/150/quest-druid
+msgid "Quest Druid"
+msgstr "Quest Druid"
+
+#: https://hsreplay.net/archetypes/142/quest-mage
+msgid "Quest Mage"
+msgstr "Quest Mage"
+
+#: https://hsreplay.net/archetypes/373/quest-spell-mage
+msgid "Quest Spell Mage"
+msgstr "Quest Spell Mage"
+
+#: https://hsreplay.net/archetypes/415/quest-big-priest
+msgid "Quest Big Priest"
+msgstr ""
 

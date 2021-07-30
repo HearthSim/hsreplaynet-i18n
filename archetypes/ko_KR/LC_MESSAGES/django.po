@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-21T01:40:29.968206\n"
+"POT-Creation-Date: 2021-07-30T01:40:31.877782\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2021-07-30 00:40\n"
+"PO-Revision-Date: 2021-07-30 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -165,6 +165,10 @@ msgstr "해적 전사"
 msgid "Beast Rush Hunter"
 msgstr "야수 속공 사냥꾼"
 
+#: https://hsreplay.net/archetypes/56/quest-priest
+msgid "Quest Priest"
+msgstr "퀘스트 사제"
+
 #: https://hsreplay.net/archetypes/27/aggro-shaman
 msgid "Aggro Shaman"
 msgstr "어그로 주술사"
@@ -180,10 +184,6 @@ msgstr "정령 마법사"
 #: https://hsreplay.net/archetypes/168/otk-dk-paladin
 msgid "OTK DK Paladin"
 msgstr "원턴킬 죽기 성기사"
-
-#: https://hsreplay.net/archetypes/150/quest-druid
-msgid "Quest Druid"
-msgstr "퀘스트 드루이드"
 
 #: https://hsreplay.net/archetypes/137/midrange-hunter
 msgid "Midrange Hunter"
@@ -381,10 +381,6 @@ msgstr "짝수 마법사"
 msgid "Big Spell Mage"
 msgstr "빅 주문 마법사"
 
-#: https://hsreplay.net/archetypes/56/quest-priest
-msgid "Quest Priest"
-msgstr "퀘스트 사제"
-
 #: https://hsreplay.net/archetypes/144/control-mage
 msgid "Control Mage"
 msgstr "컨트롤 마법사"
@@ -412,6 +408,10 @@ msgstr "정령 도적"
 #: https://hsreplay.net/archetypes/16/nzoth-paladin
 msgid "N'Zoth Paladin"
 msgstr "느조스 성기사"
+
+#: https://hsreplay.net/archetypes/211/quest-hunter
+msgid "Quest Hunter"
+msgstr "퀘스트 사냥꾼"
 
 #: https://hsreplay.net/archetypes/75/jade-rogue
 msgid "Jade Rogue"
@@ -441,21 +441,21 @@ msgstr "광대 드루이드"
 msgid "Control Paladin"
 msgstr "컨트롤 성기사"
 
+#: https://hsreplay.net/archetypes/155/quest-rogue
+msgid "Quest Rogue"
+msgstr "퀘스트 도적"
+
 #: https://hsreplay.net/archetypes/192/control-shaman
 msgid "Control Shaman"
 msgstr "컨트롤 주술사"
-
-#: https://hsreplay.net/archetypes/162/quest-warrior
-msgid "Quest Warrior"
-msgstr "퀘스트 전사"
 
 #: https://hsreplay.net/archetypes/213/dragon-hunter
 msgid "Dragon Hunter"
 msgstr "용 사냥꾼"
 
-#: https://hsreplay.net/archetypes/211/quest-hunter
-msgid "Quest Hunter"
-msgstr "퀘스트 사냥꾼"
+#: https://hsreplay.net/archetypes/162/quest-warrior
+msgid "Quest Warrior"
+msgstr "퀘스트 전사"
 
 #: https://hsreplay.net/archetypes/72/pirate-murloc-paladin
 msgid "Pirate Murloc Paladin"
@@ -697,10 +697,6 @@ msgstr "빅 비밀 사냥꾼"
 msgid "Murloc Paladin"
 msgstr "멀록 성기사"
 
-#: https://hsreplay.net/archetypes/155/quest-rogue
-msgid "Quest Rogue"
-msgstr "퀘스트 도적"
-
 #: https://hsreplay.net/archetypes/25/miracle-rogue
 msgid "Miracle Rogue"
 msgstr "미라클 도적"
@@ -809,17 +805,9 @@ msgstr "광대 사제"
 msgid "Cyclone Mage"
 msgstr "회오리 마법사"
 
-#: https://hsreplay.net/archetypes/142/quest-mage
-msgid "Quest Mage"
-msgstr "퀘스트 마법사"
-
 #: https://hsreplay.net/archetypes/469/aggro-elemental-shaman
 msgid "Aggro Elemental Shaman"
 msgstr "어그로 정령 주술사"
-
-#: https://hsreplay.net/archetypes/79/quest-paladin
-msgid "Quest Paladin"
-msgstr "퀘스트 성기사"
 
 #: https://hsreplay.net/archetypes/304/highlander-paladin
 msgid "Highlander Paladin"
@@ -828,14 +816,6 @@ msgstr "하이랜더 성기사"
 #: https://hsreplay.net/archetypes/305/highlander-quest-druid
 msgid "Highlander Quest Druid"
 msgstr "하이랜더 퀘스트 드루이드"
-
-#: https://hsreplay.net/archetypes/306/quest-shaman
-msgid "Quest Shaman"
-msgstr "퀘스트 주술사"
-
-#: https://hsreplay.net/archetypes/307/quest-warlock
-msgid "Quest Warlock"
-msgstr "퀘스트 흑마법사"
 
 #: https://hsreplay.net/archetypes/308/aggro-warrior
 msgid "Aggro Warrior"
@@ -1045,9 +1025,9 @@ msgstr "빅 악마사냥꾼"
 msgid "Spell Druid"
 msgstr "주문 드루이드"
 
-#: https://hsreplay.net/archetypes/373/quest-spell-mage
-msgid "Quest Spell Mage"
-msgstr "퀘스트 주문 마법사"
+#: https://hsreplay.net/archetypes/79/quest-paladin
+msgid "Quest Paladin"
+msgstr "퀘스트 성기사"
 
 #: https://hsreplay.net/archetypes/384/egg-warrior
 msgid "Egg Warrior"
@@ -1213,9 +1193,13 @@ msgstr "성서 성기사"
 msgid "Taunt Warrior"
 msgstr "도발 전사"
 
-#: https://hsreplay.net/archetypes/415/quest-big-priest
-msgid "Quest Big Priest"
-msgstr "퀘스트 빅 사제"
+#: https://hsreplay.net/archetypes/306/quest-shaman
+msgid "Quest Shaman"
+msgstr "퀘스트 주술사"
+
+#: https://hsreplay.net/archetypes/307/quest-warlock
+msgid "Quest Warlock"
+msgstr "퀘스트 흑마법사"
 
 #: https://hsreplay.net/archetypes/202/evolve-shaman
 msgid "Evolve Shaman"
@@ -1420,4 +1404,20 @@ msgstr ""
 #: https://hsreplay.net/archetypes/6/malygos-druid
 msgid "Malygos Druid"
 msgstr "말리고스 드루이드"
+
+#: https://hsreplay.net/archetypes/150/quest-druid
+msgid "Quest Druid"
+msgstr "퀘스트 드루이드"
+
+#: https://hsreplay.net/archetypes/142/quest-mage
+msgid "Quest Mage"
+msgstr "퀘스트 마법사"
+
+#: https://hsreplay.net/archetypes/373/quest-spell-mage
+msgid "Quest Spell Mage"
+msgstr "퀘스트 주문 마법사"
+
+#: https://hsreplay.net/archetypes/415/quest-big-priest
+msgid "Quest Big Priest"
+msgstr "퀘스트 빅 사제"
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-21T01:40:29.968206\n"
+"POT-Creation-Date: 2021-07-30T01:40:31.877782\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-07-30 00:40\n"
+"PO-Revision-Date: 2021-07-30 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -165,6 +165,10 @@ msgstr "海盗战"
 msgid "Beast Rush Hunter"
 msgstr "突袭野兽猎"
 
+#: https://hsreplay.net/archetypes/56/quest-priest
+msgid "Quest Priest"
+msgstr "任务牧"
+
 #: https://hsreplay.net/archetypes/27/aggro-shaman
 msgid "Aggro Shaman"
 msgstr "快攻萨"
@@ -180,10 +184,6 @@ msgstr "元素法"
 #: https://hsreplay.net/archetypes/168/otk-dk-paladin
 msgid "OTK DK Paladin"
 msgstr "天启骑"
-
-#: https://hsreplay.net/archetypes/150/quest-druid
-msgid "Quest Druid"
-msgstr "任务德"
 
 #: https://hsreplay.net/archetypes/137/midrange-hunter
 msgid "Midrange Hunter"
@@ -381,10 +381,6 @@ msgstr "偶数法"
 msgid "Big Spell Mage"
 msgstr "龙怒法"
 
-#: https://hsreplay.net/archetypes/56/quest-priest
-msgid "Quest Priest"
-msgstr "任务牧"
-
 #: https://hsreplay.net/archetypes/144/control-mage
 msgid "Control Mage"
 msgstr "控制法"
@@ -412,6 +408,10 @@ msgstr "元素贼"
 #: https://hsreplay.net/archetypes/16/nzoth-paladin
 msgid "N'Zoth Paladin"
 msgstr "恩佐斯骑"
+
+#: https://hsreplay.net/archetypes/211/quest-hunter
+msgid "Quest Hunter"
+msgstr "任务猎"
 
 #: https://hsreplay.net/archetypes/75/jade-rogue
 msgid "Jade Rogue"
@@ -441,21 +441,21 @@ msgstr "小丑德"
 msgid "Control Paladin"
 msgstr "奶骑"
 
+#: https://hsreplay.net/archetypes/155/quest-rogue
+msgid "Quest Rogue"
+msgstr "任务贼"
+
 #: https://hsreplay.net/archetypes/192/control-shaman
 msgid "Control Shaman"
 msgstr "控制萨"
-
-#: https://hsreplay.net/archetypes/162/quest-warrior
-msgid "Quest Warrior"
-msgstr "任务战"
 
 #: https://hsreplay.net/archetypes/213/dragon-hunter
 msgid "Dragon Hunter"
 msgstr "龙猎"
 
-#: https://hsreplay.net/archetypes/211/quest-hunter
-msgid "Quest Hunter"
-msgstr "任务猎"
+#: https://hsreplay.net/archetypes/162/quest-warrior
+msgid "Quest Warrior"
+msgstr "任务战"
 
 #: https://hsreplay.net/archetypes/72/pirate-murloc-paladin
 msgid "Pirate Murloc Paladin"
@@ -697,10 +697,6 @@ msgstr "大哥奥秘法"
 msgid "Murloc Paladin"
 msgstr "鱼人骑"
 
-#: https://hsreplay.net/archetypes/155/quest-rogue
-msgid "Quest Rogue"
-msgstr "任务贼"
-
 #: https://hsreplay.net/archetypes/25/miracle-rogue
 msgid "Miracle Rogue"
 msgstr "奇迹贼"
@@ -809,17 +805,9 @@ msgstr "小丑牧"
 msgid "Cyclone Mage"
 msgstr "奇迹法"
 
-#: https://hsreplay.net/archetypes/142/quest-mage
-msgid "Quest Mage"
-msgstr "任务法"
-
 #: https://hsreplay.net/archetypes/469/aggro-elemental-shaman
 msgid "Aggro Elemental Shaman"
 msgstr "快攻元素萨"
-
-#: https://hsreplay.net/archetypes/79/quest-paladin
-msgid "Quest Paladin"
-msgstr "任务骑"
 
 #: https://hsreplay.net/archetypes/304/highlander-paladin
 msgid "Highlander Paladin"
@@ -828,14 +816,6 @@ msgstr "宇宙骑"
 #: https://hsreplay.net/archetypes/305/highlander-quest-druid
 msgid "Highlander Quest Druid"
 msgstr "宇宙任务德"
-
-#: https://hsreplay.net/archetypes/306/quest-shaman
-msgid "Quest Shaman"
-msgstr "任务萨"
-
-#: https://hsreplay.net/archetypes/307/quest-warlock
-msgid "Quest Warlock"
-msgstr "任务术"
 
 #: https://hsreplay.net/archetypes/308/aggro-warrior
 msgid "Aggro Warrior"
@@ -1045,9 +1025,9 @@ msgstr "大哥瞎"
 msgid "Spell Druid"
 msgstr "法术德"
 
-#: https://hsreplay.net/archetypes/373/quest-spell-mage
-msgid "Quest Spell Mage"
-msgstr "任务法术法"
+#: https://hsreplay.net/archetypes/79/quest-paladin
+msgid "Quest Paladin"
+msgstr "任务骑"
 
 #: https://hsreplay.net/archetypes/384/egg-warrior
 msgid "Egg Warrior"
@@ -1213,9 +1193,13 @@ msgstr "圣契骑"
 msgid "Taunt Warrior"
 msgstr "嘲讽战"
 
-#: https://hsreplay.net/archetypes/415/quest-big-priest
-msgid "Quest Big Priest"
-msgstr "任务大哥牧"
+#: https://hsreplay.net/archetypes/306/quest-shaman
+msgid "Quest Shaman"
+msgstr "任务萨"
+
+#: https://hsreplay.net/archetypes/307/quest-warlock
+msgid "Quest Warlock"
+msgstr "任务术"
 
 #: https://hsreplay.net/archetypes/202/evolve-shaman
 msgid "Evolve Shaman"
@@ -1420,4 +1404,20 @@ msgstr "亡语吸血瞎"
 #: https://hsreplay.net/archetypes/6/malygos-druid
 msgid "Malygos Druid"
 msgstr "蓝龙德"
+
+#: https://hsreplay.net/archetypes/150/quest-druid
+msgid "Quest Druid"
+msgstr "任务德"
+
+#: https://hsreplay.net/archetypes/142/quest-mage
+msgid "Quest Mage"
+msgstr "任务法"
+
+#: https://hsreplay.net/archetypes/373/quest-spell-mage
+msgid "Quest Spell Mage"
+msgstr "任务法术法"
+
+#: https://hsreplay.net/archetypes/415/quest-big-priest
+msgid "Quest Big Priest"
+msgstr "任务大哥牧"
 
