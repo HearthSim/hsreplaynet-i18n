@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-10T01:40:29.334895\n"
+"POT-Creation-Date: 2021-08-14T01:40:28.173292\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Thai\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: th_TH\n"
-"PO-Revision-Date: 2021-08-13 12:40\n"
+"PO-Revision-Date: 2021-08-14 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1209,6 +1209,10 @@ msgstr ""
 msgid "Quest Warlock"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/486/quest-miracle-mage
+msgid "Quest Miracle Mage"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/202/evolve-shaman
 msgid "Evolve Shaman"
 msgstr ""
@@ -1475,5 +1479,13 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/483/quest-control-warrior
 msgid "Quest Control Warrior"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/487/garrote-rogue
+msgid "Garrote Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/488/quest-face-warlock
+msgid "Quest Face Warlock"
 msgstr ""
 
