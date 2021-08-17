@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-17 01:40+0000\n"
+"POT-Creation-Date: 2021-08-17 18:43+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -681,6 +681,14 @@ msgid ""
 "You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
+#: templates/navigation.html:203
+msgid ""
+"Starting on September 1st, replays that have not been viewed within the past "
+"6 months will be permanently removed from the website. If you would like to "
+"keep a specific replay, please open that replay's page at least once by "
+"August 31st."
+msgstr ""
+
 #: templates/oauth2_provider/authorize.html:12
 msgid "Some error happened during authorization."
 msgstr ""
@@ -1100,6 +1108,6 @@ msgstr ""
 msgid "My Replays"
 msgstr ""
 
-#: web/views/replays.py:210
+#: web/views/replays.py:221
 msgid "Uploading replay…"
 msgstr ""
