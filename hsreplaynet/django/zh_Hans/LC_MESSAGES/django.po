@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-13 01:40+0000\n"
-"PO-Revision-Date: 2021-08-16 12:40\n"
+"POT-Creation-Date: 2021-08-17 18:43+0000\n"
+"PO-Revision-Date: 2021-08-18 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -646,6 +646,10 @@ msgstr "卡牌"
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "我们正在根据最新酒馆战棋补丁更新此页面。您可能会暂时看到缺失和过期的信息。"
 
+#: templates/navigation.html:203
+msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
+msgstr ""
+
 #: templates/oauth2_provider/authorize.html:12
 msgid "Some error happened during authorization."
 msgstr "授权过程中发生了一些错误。"
@@ -1025,7 +1029,7 @@ msgstr "炉石传说HSReplay.net会员"
 msgid "My Replays"
 msgstr "我的回放"
 
-#: web/views/replays.py:210
+#: web/views/replays.py:221
 msgid "Uploading replay…"
 msgstr "回放上传中…"
 

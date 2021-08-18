@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-13 01:40+0000\n"
-"PO-Revision-Date: 2021-08-16 12:40\n"
+"POT-Creation-Date: 2021-08-17 18:43+0000\n"
+"PO-Revision-Date: 2021-08-18 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -646,6 +646,10 @@ msgstr "Cartas"
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "Actualmente estamos actualizando esta sección para el último parche de Campos de Batalla. Pueda que los datos que encuentres sean incompletos o con demora."
 
+#: templates/navigation.html:203
+msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
+msgstr ""
+
 #: templates/oauth2_provider/authorize.html:12
 msgid "Some error happened during authorization."
 msgstr "Ha ocurrido un error durante la autorización."
@@ -1021,7 +1025,7 @@ msgstr ""
 msgid "My Replays"
 msgstr "Mis Repeticiones"
 
-#: web/views/replays.py:210
+#: web/views/replays.py:221
 msgid "Uploading replay…"
 msgstr "Subiendo repetición…"
 
