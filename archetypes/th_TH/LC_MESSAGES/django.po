@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-14T01:40:28.173292\n"
+"POT-Creation-Date: 2021-08-19T01:40:29.332420\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Thai\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: th_TH\n"
-"PO-Revision-Date: 2021-08-18 12:40\n"
+"PO-Revision-Date: 2021-08-19 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -176,10 +176,6 @@ msgstr "ชาแมนอโกร"
 #: https://hsreplay.net/archetypes/68/elemental-priest
 msgid "Elemental Priest"
 msgstr "พรีสต์วิญญาณธาตุ"
-
-#: https://hsreplay.net/archetypes/145/elemental-mage
-msgid "Elemental Mage"
-msgstr "เมจวิญญาณธาตุ"
 
 #: https://hsreplay.net/archetypes/168/otk-dk-paladin
 msgid "OTK DK Paladin"
@@ -1487,5 +1483,17 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/488/quest-face-warlock
 msgid "Quest Face Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/489/felrattle-demon-hunter
+msgid "Felrattle Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/145/elemental-mage
+msgid "Elemental Mage"
+msgstr "เมจวิญญาณธาตุ"
+
+#: https://hsreplay.net/archetypes/490/shuffle-rogue
+msgid "Shuffle Rogue"
 msgstr ""
 
