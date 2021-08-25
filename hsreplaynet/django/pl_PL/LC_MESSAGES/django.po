@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-17 18:43+0000\n"
-"PO-Revision-Date: 2021-08-23 12:40\n"
+"POT-Creation-Date: 2021-08-25 01:40+0000\n"
+"PO-Revision-Date: 2021-08-25 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -817,6 +817,14 @@ msgstr ""
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr ""
 
+#: web/views/__init__.py:244
+msgid "Welcome to HSReplay.net"
+msgstr ""
+
+#: web/views/__init__.py:246
+msgid "Learn how to get started with HSReplay.net and what you can do with it."
+msgstr ""
+
 #: web/views/archetypes.py:22
 msgid "Hearthstone Meta"
 msgstr "Meta Hearthstone"
@@ -1025,7 +1033,7 @@ msgstr ""
 msgid "My Replays"
 msgstr "Moje Powtórki"
 
-#: web/views/replays.py:221
+#: web/views/replays.py:224
 msgid "Uploading replay…"
 msgstr "Przesyłanie powtórki…"
 

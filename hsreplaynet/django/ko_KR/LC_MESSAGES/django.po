@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-17 18:43+0000\n"
-"PO-Revision-Date: 2021-08-23 12:40\n"
+"POT-Creation-Date: 2021-08-25 01:40+0000\n"
+"PO-Revision-Date: 2021-08-25 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -817,6 +817,14 @@ msgstr ""
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr ""
 
+#: web/views/__init__.py:244
+msgid "Welcome to HSReplay.net"
+msgstr ""
+
+#: web/views/__init__.py:246
+msgid "Learn how to get started with HSReplay.net and what you can do with it."
+msgstr ""
+
 #: web/views/archetypes.py:22
 msgid "Hearthstone Meta"
 msgstr "하스스톤 메타"
@@ -1025,7 +1033,7 @@ msgstr ""
 msgid "My Replays"
 msgstr "내 리플레이"
 
-#: web/views/replays.py:221
+#: web/views/replays.py:224
 msgid "Uploading replay…"
 msgstr "리플레이 업로드 중…"
 

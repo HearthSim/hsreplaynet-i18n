@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-17 18:43+0000\n"
-"PO-Revision-Date: 2021-08-23 12:40\n"
+"POT-Creation-Date: 2021-08-25 01:40+0000\n"
+"PO-Revision-Date: 2021-08-25 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -820,6 +820,14 @@ msgstr ""
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr ""
 
+#: web/views/__init__.py:244
+msgid "Welcome to HSReplay.net"
+msgstr ""
+
+#: web/views/__init__.py:246
+msgid "Learn how to get started with HSReplay.net and what you can do with it."
+msgstr ""
+
 #: web/views/archetypes.py:22
 msgid "Hearthstone Meta"
 msgstr "爐石傳說天梯生態"
@@ -1028,7 +1036,7 @@ msgstr ""
 msgid "My Replays"
 msgstr "我的重播"
 
-#: web/views/replays.py:221
+#: web/views/replays.py:224
 msgid "Uploading replay…"
 msgstr "正在上載重播..。"
 
