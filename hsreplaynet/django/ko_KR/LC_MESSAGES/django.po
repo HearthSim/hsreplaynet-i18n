@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-25 01:40+0000\n"
-"PO-Revision-Date: 2021-08-25 12:40\n"
+"POT-Creation-Date: 2021-08-31 19:42+0000\n"
+"PO-Revision-Date: 2021-09-01 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -595,7 +595,7 @@ msgid "Toggle navigation"
 msgstr "메뉴보기"
 
 #: templates/navigation.html:37
-msgid "Constructed"
+msgid "Hearthstone"
 msgstr ""
 
 #: templates/navigation.html:63
@@ -862,39 +862,39 @@ msgstr ""
 msgid "Battlegrounds Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:106
+#: web/views/battlegrounds.py:110
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr ""
 
-#: web/views/battlegrounds.py:112 web/views/battlegrounds.py:143
+#: web/views/battlegrounds.py:116 web/views/battlegrounds.py:147
 msgid "Battlegrounds Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:130
+#: web/views/battlegrounds.py:134
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:165
+#: web/views/battlegrounds.py:169
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:171 web/views/battlegrounds.py:202
+#: web/views/battlegrounds.py:175 web/views/battlegrounds.py:206
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:189
+#: web/views/battlegrounds.py:193
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:234
+#: web/views/battlegrounds.py:238
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:240 web/views/battlegrounds.py:263
+#: web/views/battlegrounds.py:244 web/views/battlegrounds.py:267
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:258
+#: web/views/battlegrounds.py:262
 msgid "No matching composition found."
 msgstr ""
 
