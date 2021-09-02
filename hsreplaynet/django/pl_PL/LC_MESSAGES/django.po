@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-31 19:42+0000\n"
-"PO-Revision-Date: 2021-09-01 12:40\n"
+"POT-Creation-Date: 2021-09-02 01:40+0000\n"
+"PO-Revision-Date: 2021-09-02 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -170,47 +170,47 @@ msgstr "Nie można ustalić twojego planu."
 msgid "Invalid Paypal plan."
 msgstr "Niewłaściwy plan PayPal."
 
-#: settings.py:348
+#: settings.py:349
 msgid "Full access to your HSReplay.net account"
 msgstr "Pełny dostęp do twojego konta HSReplay.net"
 
-#: settings.py:349
+#: settings.py:350
 msgid "Access information about your connected social accounts"
 msgstr "Uzyskaj dostęp do informacji na temat swoich powiązanych kont społecznościowych"
 
-#: settings.py:350
+#: settings.py:351
 msgid "View your Hearthstone card collection"
 msgstr "Zobacz swoją kolekcję kart Hearthstone"
 
-#: settings.py:351
+#: settings.py:352
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Wyślij swoją kolekcję kart Hearthstone na stronę"
 
-#: settings.py:352
+#: settings.py:353
 msgid "View your replays"
 msgstr "Zobacz swoje powtórki"
 
-#: settings.py:353
+#: settings.py:354
 msgid "Update and delete your replays"
 msgstr "Zaktualizuj i usuń swoje powtórki"
 
-#: settings.py:354
+#: settings.py:355
 msgid "Access the Partner API"
 msgstr "Dostęp do API partnerów"
 
-#: settings.py:355
+#: settings.py:356
 msgid "Read access to the tournaments service"
 msgstr "Dostęp do odczytu usługi turniejów"
 
-#: settings.py:356
+#: settings.py:357
 msgid "Write access to the tournaments service"
 msgstr "Dostęp do zapisu usługi turniejów"
 
-#: settings.py:357
+#: settings.py:358
 msgid "View your webhooks"
 msgstr "Zobacz swoje webhooki"
 
-#: settings.py:358
+#: settings.py:359
 msgid "Create and delete webhooks on your behalf"
 msgstr "Stwórz i usuń webhooki w swoim imieniu"
 
@@ -1029,11 +1029,11 @@ msgstr "Więcej filtrów, więcej funkcji, więcej danych: Uzyskaj dostęp do za
 msgid "HSReplay.net Premium for Hearthstone"
 msgstr ""
 
-#: web/views/replays.py:26
+#: web/views/replays.py:27
 msgid "My Replays"
 msgstr "Moje Powtórki"
 
-#: web/views/replays.py:224
+#: web/views/replays.py:247
 msgid "Uploading replay…"
 msgstr "Przesyłanie powtórki…"
 
