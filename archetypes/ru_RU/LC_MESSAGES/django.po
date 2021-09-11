@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-08-25T01:40:29.795304\n"
+"POT-Creation-Date: 2021-09-11T01:40:34.717700\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2021-09-08 12:40\n"
+"PO-Revision-Date: 2021-09-11 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -809,6 +809,10 @@ msgstr ""
 msgid "Cyclone Mage"
 msgstr "Маг смерча"
 
+#: https://hsreplay.net/archetypes/492/buff-warrior
+msgid "Buff Warrior"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/469/aggro-elemental-shaman
 msgid "Aggro Elemental Shaman"
 msgstr ""
@@ -1495,5 +1499,13 @@ msgstr "Элементаль маг"
 
 #: https://hsreplay.net/archetypes/490/shuffle-rogue
 msgid "Shuffle Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/493/rhino-hunter
+msgid "Rhino Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/494/quest-hand-warlock
+msgid "Quest Hand Warlock"
 msgstr ""
 
