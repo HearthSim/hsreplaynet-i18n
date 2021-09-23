@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-03 01:40+0000\n"
-"PO-Revision-Date: 2021-09-22 00:40\n"
+"POT-Creation-Date: 2021-09-23 01:40+0000\n"
+"PO-Revision-Date: 2021-09-23 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -35,6 +35,14 @@ msgstr ""
 
 #: api/exceptions.py:31
 msgid "You do not have permission to view this collection."
+msgstr ""
+
+#: api/exceptions.py:37
+msgid "This product is not available."
+msgstr ""
+
+#: api/exceptions.py:43
+msgid "This plan is not available."
 msgstr ""
 
 #: api/fields.py:9
@@ -533,16 +541,16 @@ msgstr ""
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr ""
 
-#: templates/footer.html:64 templates/navigation.html:176
+#: templates/footer.html:64 templates/navigation.html:180
 msgid "Downloads"
 msgstr "Downloads"
 
-#: templates/footer.html:65 templates/navigation.html:165
-#: templates/navigation.html:168
+#: templates/footer.html:65 templates/navigation.html:169
+#: templates/navigation.html:172
 msgid "Premium"
 msgstr "Premium"
 
-#: templates/footer.html:66 templates/navigation.html:49
+#: templates/footer.html:66 templates/navigation.html:55
 msgid "Battlegrounds"
 msgstr ""
 
@@ -590,63 +598,63 @@ msgstr ""
 msgid "This replay is no longer available."
 msgstr ""
 
-#: templates/navigation.html:12
+#: templates/navigation.html:14
 msgid "Toggle navigation"
 msgstr "Ativar/desativar navegação"
 
-#: templates/navigation.html:37
+#: templates/navigation.html:43
 msgid "Hearthstone"
 msgstr ""
 
-#: templates/navigation.html:63
+#: templates/navigation.html:71
 msgid "Heroes"
 msgstr ""
 
-#: templates/navigation.html:75
+#: templates/navigation.html:83
 msgid "Darkmoon Prizes"
 msgstr ""
 
-#: templates/navigation.html:86
+#: templates/navigation.html:94
 msgid "Minions"
 msgstr ""
 
-#: templates/navigation.html:96
+#: templates/navigation.html:104
 msgid "Compositions"
 msgstr ""
 
-#: templates/navigation.html:110 templates/navigation.html:166
+#: templates/navigation.html:118 templates/navigation.html:170
 msgid "SALE!"
 msgstr ""
 
-#: templates/navigation.html:119
+#: templates/navigation.html:127
 msgid "Articles"
 msgstr "Artigos"
 
-#: templates/navigation.html:126
+#: templates/navigation.html:133
 msgid "Trending"
 msgstr "Tendências"
 
-#: templates/navigation.html:135 templates/navigation.html:141
+#: templates/navigation.html:141 templates/navigation.html:147
 msgid "Meta"
 msgstr "Meta"
 
-#: templates/navigation.html:136
+#: templates/navigation.html:142
 msgid "Back soon!"
 msgstr ""
 
-#: templates/navigation.html:149
+#: templates/navigation.html:154
 msgid "Decks"
 msgstr "Decks"
 
-#: templates/navigation.html:156
+#: templates/navigation.html:160
 msgid "Cards"
 msgstr "Cartas"
 
-#: templates/navigation.html:197
+#: templates/navigation.html:200
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
-#: templates/navigation.html:203
+#: templates/navigation.html:206
 msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
 msgstr ""
 
@@ -797,31 +805,31 @@ msgstr "Assista e compartilhe replays do Hearthstone diretamente do seu navegado
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - Liberte seu potencial"
 
-#: web/views/__init__.py:154 web/views/battlegrounds.py:67
+#: web/views/__init__.py:155 web/views/battlegrounds.py:67
 msgid "Download Hearthstone Deck Tracker"
 msgstr "Baixe o Hearthstone Deck Tracker"
 
-#: web/views/__init__.py:156 web/views/battlegrounds.py:69
+#: web/views/__init__.py:157 web/views/battlegrounds.py:69
 msgid "HSReplay.net Companion App"
 msgstr "Aplicativo Companheiro do HSReplay.net"
 
-#: web/views/__init__.py:158 web/views/battlegrounds.py:71
+#: web/views/__init__.py:159 web/views/battlegrounds.py:71
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "Hearthstone Deck Tracker é um aplicativo gratuito para ajudá-lo a jogar como os profissionais."
 
-#: web/views/__init__.py:184
+#: web/views/__init__.py:185
 msgid "Contact our Support Team"
 msgstr ""
 
-#: web/views/__init__.py:186
+#: web/views/__init__.py:187
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr ""
 
-#: web/views/__init__.py:244
+#: web/views/__init__.py:245
 msgid "Welcome to HSReplay.net"
 msgstr ""
 
-#: web/views/__init__.py:246
+#: web/views/__init__.py:247
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr ""
 

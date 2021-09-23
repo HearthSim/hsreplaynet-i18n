@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-03 01:40+0000\n"
-"PO-Revision-Date: 2021-09-22 00:40\n"
+"POT-Creation-Date: 2021-09-23 01:40+0000\n"
+"PO-Revision-Date: 2021-09-23 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -36,6 +36,14 @@ msgstr "信用卡被拒绝。"
 #: api/exceptions.py:31
 msgid "You do not have permission to view this collection."
 msgstr "没有浏览这个收藏的权限。"
+
+#: api/exceptions.py:37
+msgid "This product is not available."
+msgstr ""
+
+#: api/exceptions.py:43
+msgid "This plan is not available."
+msgstr ""
 
 #: api/fields.py:9
 #, python-brace-format
@@ -533,16 +541,16 @@ msgstr "在Instagram上关注我们"
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "与Blizzard Entertainment没有从属关系。"
 
-#: templates/footer.html:64 templates/navigation.html:176
+#: templates/footer.html:64 templates/navigation.html:180
 msgid "Downloads"
 msgstr "下载"
 
-#: templates/footer.html:65 templates/navigation.html:165
-#: templates/navigation.html:168
+#: templates/footer.html:65 templates/navigation.html:169
+#: templates/navigation.html:172
 msgid "Premium"
 msgstr "升级会员"
 
-#: templates/footer.html:66 templates/navigation.html:49
+#: templates/footer.html:66 templates/navigation.html:55
 msgid "Battlegrounds"
 msgstr "酒馆战棋"
 
@@ -590,63 +598,63 @@ msgstr "不支持回放"
 msgid "This replay is no longer available."
 msgstr "这个录像已不可用"
 
-#: templates/navigation.html:12
+#: templates/navigation.html:14
 msgid "Toggle navigation"
 msgstr "切换导航"
 
-#: templates/navigation.html:37
+#: templates/navigation.html:43
 msgid "Hearthstone"
 msgstr ""
 
-#: templates/navigation.html:63
+#: templates/navigation.html:71
 msgid "Heroes"
 msgstr "英雄"
 
-#: templates/navigation.html:75
+#: templates/navigation.html:83
 msgid "Darkmoon Prizes"
 msgstr "暗月奖品"
 
-#: templates/navigation.html:86
+#: templates/navigation.html:94
 msgid "Minions"
 msgstr "随从"
 
-#: templates/navigation.html:96
+#: templates/navigation.html:104
 msgid "Compositions"
 msgstr "流派"
 
-#: templates/navigation.html:110 templates/navigation.html:166
+#: templates/navigation.html:118 templates/navigation.html:170
 msgid "SALE!"
 msgstr "促销！"
 
-#: templates/navigation.html:119
+#: templates/navigation.html:127
 msgid "Articles"
 msgstr "文章"
 
-#: templates/navigation.html:126
+#: templates/navigation.html:133
 msgid "Trending"
 msgstr "趋势"
 
-#: templates/navigation.html:135 templates/navigation.html:141
+#: templates/navigation.html:141 templates/navigation.html:147
 msgid "Meta"
 msgstr "环境"
 
-#: templates/navigation.html:136
+#: templates/navigation.html:142
 msgid "Back soon!"
 msgstr "马上回来！"
 
-#: templates/navigation.html:149
+#: templates/navigation.html:154
 msgid "Decks"
 msgstr "套牌"
 
-#: templates/navigation.html:156
+#: templates/navigation.html:160
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:197
+#: templates/navigation.html:200
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "我们正在根据最新酒馆战棋补丁更新此页面。您可能会暂时看到缺失和过期的信息。"
 
-#: templates/navigation.html:203
+#: templates/navigation.html:206
 msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
 msgstr "从9月1日开始，过去6个月内未被观看过的游戏回放将会被永久删除。 如果您想保留特定的回放，请在8月31日之前打开该重播页面至少一次。"
 
@@ -801,31 +809,31 @@ msgstr "在浏览器上直接观看分享您的炉石传说回放。探索卡组
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - 释放您的潜能"
 
-#: web/views/__init__.py:154 web/views/battlegrounds.py:67
+#: web/views/__init__.py:155 web/views/battlegrounds.py:67
 msgid "Download Hearthstone Deck Tracker"
 msgstr "下载HDT炉石记牌器"
 
-#: web/views/__init__.py:156 web/views/battlegrounds.py:69
+#: web/views/__init__.py:157 web/views/battlegrounds.py:69
 msgid "HSReplay.net Companion App"
 msgstr "HSReplay.net随身应用程序"
 
-#: web/views/__init__.py:158 web/views/battlegrounds.py:71
+#: web/views/__init__.py:159 web/views/battlegrounds.py:71
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "HDT炉石记牌器是一款免费应用，可以帮助您拥有职业选手的炉石传说水平。"
 
-#: web/views/__init__.py:184
+#: web/views/__init__.py:185
 msgid "Contact our Support Team"
 msgstr "联系我们的支持团队"
 
-#: web/views/__init__.py:186
+#: web/views/__init__.py:187
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr "与HSReplay.net支持团队取得联系。"
 
-#: web/views/__init__.py:244
+#: web/views/__init__.py:245
 msgid "Welcome to HSReplay.net"
 msgstr "欢迎使用 HSReplay.net"
 
-#: web/views/__init__.py:246
+#: web/views/__init__.py:247
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr "学习如何开始使用 HSReplay.net 以及你可以用它来做些什么。"
 
