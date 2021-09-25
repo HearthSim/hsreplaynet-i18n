@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-24 01:40+0000\n"
-"PO-Revision-Date: 2021-09-24 12:40\n"
+"POT-Creation-Date: 2021-09-25 01:40+0000\n"
+"PO-Revision-Date: 2021-09-25 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1018,6 +1018,10 @@ msgstr "Hearthstone-Decks im Trend"
 #: web/views/decks.py:107
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "Finde die Hearthstone-Decks von morgen mittels steigender Beliebtheit, für jede Klasse, jeden Tag aufs Neue."
+
+#: web/views/mercenaries.py:38
+msgid "Mercenaries Coming Soon"
+msgstr ""
 
 #: web/views/oauth2.py:46
 msgid "Access has been revoked."
