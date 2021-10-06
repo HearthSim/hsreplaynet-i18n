@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-25 01:40+0000\n"
-"PO-Revision-Date: 2021-09-28 12:40\n"
+"POT-Creation-Date: 2021-10-06 01:40+0000\n"
+"PO-Revision-Date: 2021-10-06 12:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1040,11 +1040,11 @@ msgstr "Plus de filtres, plus de fonctionnalités, plus de données : accédez 
 msgid "HSReplay.net Premium for Hearthstone"
 msgstr ""
 
-#: web/views/replays.py:27
+#: web/views/replays.py:28
 msgid "My Replays"
 msgstr "Mes replays"
 
-#: web/views/replays.py:270
+#: web/views/replays.py:279
 msgid "Uploading replay…"
 msgstr "Replay en cours de téléversement…"
 
