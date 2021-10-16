@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-06 01:40+0000\n"
-"PO-Revision-Date: 2021-10-13 12:40\n"
+"POT-Creation-Date: 2021-10-16 01:40+0000\n"
+"PO-Revision-Date: 2021-10-16 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -178,47 +178,47 @@ msgstr ""
 msgid "Invalid Paypal plan."
 msgstr ""
 
-#: settings.py:349
+#: settings.py:353
 msgid "Full access to your HSReplay.net account"
 msgstr ""
 
-#: settings.py:350
+#: settings.py:354
 msgid "Access information about your connected social accounts"
 msgstr ""
 
-#: settings.py:351
+#: settings.py:355
 msgid "View your Hearthstone card collection"
 msgstr "あなたのハースストーンのカード・コレクションを見る"
 
-#: settings.py:352
+#: settings.py:356
 msgid "Upload your Hearthstone card collection to the site"
 msgstr ""
 
-#: settings.py:353
+#: settings.py:357
 msgid "View your replays"
 msgstr "自分のリプレイを見る"
 
-#: settings.py:354
+#: settings.py:358
 msgid "Update and delete your replays"
 msgstr ""
 
-#: settings.py:355
+#: settings.py:359
 msgid "Access the Partner API"
 msgstr "パートナーAPIにアクセスします。"
 
-#: settings.py:356
+#: settings.py:360
 msgid "Read access to the tournaments service"
 msgstr "トーナメントサービスへの読み取りアクセス"
 
-#: settings.py:357
+#: settings.py:361
 msgid "Write access to the tournaments service"
 msgstr "トーナメントサービスへの書き込みアクセス"
 
-#: settings.py:358
+#: settings.py:362
 msgid "View your webhooks"
 msgstr "あなたのwebhooksを表示します。"
 
-#: settings.py:359
+#: settings.py:363
 msgid "Create and delete webhooks on your behalf"
 msgstr "webhooksを作成、削除"
 
