@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-28T01:40:35.389233\n"
+"POT-Creation-Date: 2021-11-03T17:52:46.730426\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2021-10-26 12:40\n"
+"PO-Revision-Date: 2021-11-04 00:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -381,10 +381,6 @@ msgstr "Druida Fatiga"
 msgid "Even Mage"
 msgstr "Mago Par"
 
-#: https://hsreplay.net/archetypes/182/big-spell-mage
-msgid "Big Spell Mage"
-msgstr "Mago Grandes Hechizos"
-
 #: https://hsreplay.net/archetypes/144/control-mage
 msgid "Control Mage"
 msgstr "Mago Control"
@@ -452,6 +448,10 @@ msgstr "Pícaro Misión"
 #: https://hsreplay.net/archetypes/192/control-shaman
 msgid "Control Shaman"
 msgstr "Chaman Control"
+
+#: https://hsreplay.net/archetypes/25/miracle-rogue
+msgid "Miracle Rogue"
+msgstr "Pícaro Milagro"
 
 #: https://hsreplay.net/archetypes/213/dragon-hunter
 msgid "Dragon Hunter"
@@ -700,10 +700,6 @@ msgstr "Cazador Secretos"
 #: https://hsreplay.net/archetypes/157/murloc-paladin
 msgid "Murloc Paladin"
 msgstr "Paladín Murlocs"
-
-#: https://hsreplay.net/archetypes/25/miracle-rogue
-msgid "Miracle Rogue"
-msgstr "Pícaro Milagro"
 
 #: https://hsreplay.net/archetypes/460/secret-libram-paladin
 msgid "Secret Libram Paladin"
@@ -1169,10 +1165,6 @@ msgstr "Guerrero OTK de Silas"
 msgid "Mozaki OTK Mage"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/129/big-priest
-msgid "Big Priest"
-msgstr "Sacerdote Big"
-
 #: https://hsreplay.net/archetypes/414/menagerie-paladin
 msgid "Menagerie Paladin"
 msgstr ""
@@ -1524,4 +1516,12 @@ msgstr ""
 #: https://hsreplay.net/archetypes/498/quest-zoo-warlock
 msgid "Quest Zoo Warlock"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/182/big-spell-mage
+msgid "Big Spell Mage"
+msgstr "Mago Grandes Hechizos"
+
+#: https://hsreplay.net/archetypes/129/big-priest
+msgid "Big Priest"
+msgstr "Sacerdote Big"
 

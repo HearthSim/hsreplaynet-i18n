@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-09-28T01:40:35.389233\n"
+"POT-Creation-Date: 2021-11-03T17:52:46.730426\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-10-26 12:40\n"
+"PO-Revision-Date: 2021-11-04 00:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -381,10 +381,6 @@ msgstr "换家德"
 msgid "Even Mage"
 msgstr "偶数法"
 
-#: https://hsreplay.net/archetypes/182/big-spell-mage
-msgid "Big Spell Mage"
-msgstr "龙怒法"
-
 #: https://hsreplay.net/archetypes/144/control-mage
 msgid "Control Mage"
 msgstr "控制法"
@@ -452,6 +448,10 @@ msgstr "任务贼"
 #: https://hsreplay.net/archetypes/192/control-shaman
 msgid "Control Shaman"
 msgstr "控制萨"
+
+#: https://hsreplay.net/archetypes/25/miracle-rogue
+msgid "Miracle Rogue"
+msgstr "奇迹贼"
 
 #: https://hsreplay.net/archetypes/213/dragon-hunter
 msgid "Dragon Hunter"
@@ -700,10 +700,6 @@ msgstr "大哥奥秘法"
 #: https://hsreplay.net/archetypes/157/murloc-paladin
 msgid "Murloc Paladin"
 msgstr "鱼人骑"
-
-#: https://hsreplay.net/archetypes/25/miracle-rogue
-msgid "Miracle Rogue"
-msgstr "奇迹贼"
 
 #: https://hsreplay.net/archetypes/460/secret-libram-paladin
 msgid "Secret Libram Paladin"
@@ -1169,10 +1165,6 @@ msgstr "盾猛OTK战"
 msgid "Mozaki OTK Mage"
 msgstr "决斗法"
 
-#: https://hsreplay.net/archetypes/129/big-priest
-msgid "Big Priest"
-msgstr "大哥牧"
-
 #: https://hsreplay.net/archetypes/414/menagerie-paladin
 msgid "Menagerie Paladin"
 msgstr "恩佐斯骑"
@@ -1524,4 +1516,12 @@ msgstr "野猪牧"
 #: https://hsreplay.net/archetypes/498/quest-zoo-warlock
 msgid "Quest Zoo Warlock"
 msgstr "任务动物园"
+
+#: https://hsreplay.net/archetypes/182/big-spell-mage
+msgid "Big Spell Mage"
+msgstr "龙怒法"
+
+#: https://hsreplay.net/archetypes/129/big-priest
+msgid "Big Priest"
+msgstr "大哥牧"
 
