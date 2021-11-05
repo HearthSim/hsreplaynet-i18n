@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-16 01:40+0000\n"
-"PO-Revision-Date: 2021-11-04 00:40\n"
+"POT-Creation-Date: 2021-11-05 01:40+0000\n"
+"PO-Revision-Date: 2021-11-05 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -178,47 +178,47 @@ msgstr "Não foi possível determinar seu plano."
 msgid "Invalid Paypal plan."
 msgstr "Plano do PayPal inválido."
 
-#: settings.py:353
+#: settings.py:354
 msgid "Full access to your HSReplay.net account"
 msgstr "Acesso completo de sua conta HSReplay.net"
 
-#: settings.py:354
+#: settings.py:355
 msgid "Access information about your connected social accounts"
 msgstr "Acesse informações sobre suas redes sociais conectadas"
 
-#: settings.py:355
+#: settings.py:356
 msgid "View your Hearthstone card collection"
 msgstr "Ver sua coleção de cartas do Hearthstone"
 
-#: settings.py:356
+#: settings.py:357
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Atualize sua coleção de cartas do Hearthstone para o site"
 
-#: settings.py:357
+#: settings.py:358
 msgid "View your replays"
 msgstr "Ver seus replays"
 
-#: settings.py:358
+#: settings.py:359
 msgid "Update and delete your replays"
 msgstr "Atualizar e deletar seus replays"
 
-#: settings.py:359
+#: settings.py:360
 msgid "Access the Partner API"
 msgstr "Acesso ao API dos parceiros"
 
-#: settings.py:360
+#: settings.py:361
 msgid "Read access to the tournaments service"
 msgstr "Acesso de leitura ao serviço de torneios"
 
-#: settings.py:361
+#: settings.py:362
 msgid "Write access to the tournaments service"
 msgstr "Acesso de escrita ao serviço de torneios"
 
-#: settings.py:362
+#: settings.py:363
 msgid "View your webhooks"
 msgstr "Visualizar seus webhooks"
 
-#: settings.py:363
+#: settings.py:364
 msgid "Create and delete webhooks on your behalf"
 msgstr "Criar e deletar webhooks ao seu favor"
 
@@ -650,11 +650,11 @@ msgstr "Decks"
 msgid "Cards"
 msgstr "Cartas"
 
-#: templates/navigation.html:200
+#: templates/navigation.html:202
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
-#: templates/navigation.html:206
+#: templates/navigation.html:208
 msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
 msgstr ""
 

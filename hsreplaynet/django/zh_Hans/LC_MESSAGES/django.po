@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-16 01:40+0000\n"
-"PO-Revision-Date: 2021-11-04 00:40\n"
+"POT-Creation-Date: 2021-11-05 01:40+0000\n"
+"PO-Revision-Date: 2021-11-05 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -178,47 +178,47 @@ msgstr "无法确定您的套餐状态。"
 msgid "Invalid Paypal plan."
 msgstr "无效PayPal套餐。"
 
-#: settings.py:353
+#: settings.py:354
 msgid "Full access to your HSReplay.net account"
 msgstr "完全访问您的HSReplay.net帐户"
 
-#: settings.py:354
+#: settings.py:355
 msgid "Access information about your connected social accounts"
 msgstr "访问您已连接的社交帐户的信息"
 
-#: settings.py:355
+#: settings.py:356
 msgid "View your Hearthstone card collection"
 msgstr "查看您的炉石卡牌收藏"
 
-#: settings.py:356
+#: settings.py:357
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "上传您的炉石卡牌收藏到网站"
 
-#: settings.py:357
+#: settings.py:358
 msgid "View your replays"
 msgstr "查看您的回放"
 
-#: settings.py:358
+#: settings.py:359
 msgid "Update and delete your replays"
 msgstr "更新和删除您的回放"
 
-#: settings.py:359
+#: settings.py:360
 msgid "Access the Partner API"
 msgstr "获取合作伙伴的API"
 
-#: settings.py:360
+#: settings.py:361
 msgid "Read access to the tournaments service"
 msgstr "获得锦标赛服务的读取权限"
 
-#: settings.py:361
+#: settings.py:362
 msgid "Write access to the tournaments service"
 msgstr "获得锦标赛服务的写入权限"
 
-#: settings.py:362
+#: settings.py:363
 msgid "View your webhooks"
 msgstr "查看您的 webhooks"
 
-#: settings.py:363
+#: settings.py:364
 msgid "Create and delete webhooks on your behalf"
 msgstr "为您创建和删除 webhooks"
 
@@ -650,11 +650,11 @@ msgstr "套牌"
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:200
+#: templates/navigation.html:202
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "我们正在根据最新酒馆战棋补丁更新此页面。您可能会暂时看到缺失和过期的信息。"
 
-#: templates/navigation.html:206
+#: templates/navigation.html:208
 msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
 msgstr "从9月1日开始，过去6个月内未被观看过的游戏回放将会被永久删除。 如果您想保留特定的回放，请在8月31日之前打开该重播页面至少一次。"
 
