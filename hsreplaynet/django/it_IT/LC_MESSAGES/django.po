@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-11-05 01:40+0000\n"
-"PO-Revision-Date: 2021-11-05 12:40\n"
+"PO-Revision-Date: 2021-11-15 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -39,11 +39,11 @@ msgstr "Non hai il permesso di visualizzare questa collezione."
 
 #: api/exceptions.py:37
 msgid "This product is not available."
-msgstr ""
+msgstr "Questo prodotto non è disponibile."
 
 #: api/exceptions.py:43
 msgid "This plan is not available."
-msgstr ""
+msgstr "Questo piano non è disponibile."
 
 #: api/fields.py:9
 #, python-brace-format
@@ -604,7 +604,7 @@ msgstr "Attiva/disattiva navigazione"
 
 #: templates/navigation.html:43
 msgid "Hearthstone"
-msgstr ""
+msgstr "Hearthstone"
 
 #: templates/navigation.html:71
 msgid "Heroes"
@@ -656,7 +656,7 @@ msgstr "Stiamo aggiornando questa sezione con l'ultima patch del Battleground. P
 
 #: templates/navigation.html:208
 msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
-msgstr ""
+msgstr "A partire dal 1° settembre, i replay che non sono stati visualizzati negli ultimi 6 mesi verranno rimossi definitivamente dal sito web. Se si desidera mantenere uno specifico replay, si prega di aprire la pagina del replay almeno una volta entro il 31 agosto."
 
 #: templates/oauth2_provider/authorize.html:12
 msgid "Some error happened during authorization."
@@ -827,11 +827,11 @@ msgstr "Contatta il team di supporto HSReplay.net."
 
 #: web/views/__init__.py:245
 msgid "Welcome to HSReplay.net"
-msgstr ""
+msgstr "Benvenuto a HSReplay.net"
 
 #: web/views/__init__.py:247
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
-msgstr ""
+msgstr "Impara come iniziare con HSReplay.net e cosa puoi fare con esso."
 
 #: web/views/archetypes.py:22
 msgid "Hearthstone Meta"
@@ -912,7 +912,7 @@ msgstr "Statistiche delle carte di Heartstone"
 
 #: web/views/cards.py:26
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
-msgstr "Confronta le statistiche di tutte le carte Hearthstone. Trova le carte che vengono giocate più o che hanno la percentuale di vittoria più alta."
+msgstr "Confronta le statistiche di tutte le carte collezionabili di Hearthstone. Trova le carte che vengono giocate di più o che hanno il tasso di vittoria più alto."
 
 #: web/views/cards.py:96
 msgid "No card found matching the query."
@@ -985,7 +985,7 @@ msgstr "Mazzi Di Hearthstone"
 
 #: web/views/decks.py:24
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
-msgstr "Trova mazzi più popolari per ogni classe, modalità di gioco e carte. Confronta le percentuali di vittoria e trova il mazzo per te!"
+msgstr "Trova mazzi di Hearthstone popolari per ogni classe, carta e modalità di gioco. Confrontai tassi di vittoria e trova il mazzo per te!"
 
 #: web/views/decks.py:32
 msgid "My Decks"
@@ -1022,7 +1022,7 @@ msgstr "Trova i nuovi mazzi popolari su Hearthstone, lista aggiornata tutti i gi
 
 #: web/views/mercenaries.py:38
 msgid "Mercenaries Coming Soon"
-msgstr ""
+msgstr "Mercenari Presto in Arrivo"
 
 #: web/views/oauth2.py:46
 msgid "Access has been revoked."
