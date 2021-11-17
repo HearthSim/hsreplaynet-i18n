@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-05 01:40+0000\n"
-"PO-Revision-Date: 2021-11-15 12:40\n"
+"POT-Creation-Date: 2021-11-16 20:31+0000\n"
+"PO-Revision-Date: 2021-11-17 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -541,12 +541,12 @@ msgstr ""
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr ""
 
-#: templates/footer.html:63 templates/navigation.html:180
+#: templates/footer.html:63 templates/navigation.html:193
 msgid "Downloads"
 msgstr "Descargas"
 
-#: templates/footer.html:64 templates/navigation.html:169
-#: templates/navigation.html:172
+#: templates/footer.html:64 templates/navigation.html:182
+#: templates/navigation.html:185
 msgid "Premium"
 msgstr "Premium"
 
@@ -606,55 +606,59 @@ msgstr "Cambiar el modo de navegación"
 msgid "Hearthstone"
 msgstr ""
 
-#: templates/navigation.html:71
+#: templates/navigation.html:72
+msgid "Parties"
+msgstr ""
+
+#: templates/navigation.html:84
 msgid "Heroes"
 msgstr ""
 
-#: templates/navigation.html:83
+#: templates/navigation.html:96
 msgid "Darkmoon Prizes"
 msgstr ""
 
-#: templates/navigation.html:94
+#: templates/navigation.html:107
 msgid "Minions"
 msgstr ""
 
-#: templates/navigation.html:104
+#: templates/navigation.html:117
 msgid "Compositions"
 msgstr ""
 
-#: templates/navigation.html:118 templates/navigation.html:170
+#: templates/navigation.html:131 templates/navigation.html:183
 msgid "SALE!"
 msgstr ""
 
-#: templates/navigation.html:127
+#: templates/navigation.html:140
 msgid "Articles"
 msgstr "Articulos"
 
-#: templates/navigation.html:133
+#: templates/navigation.html:146
 msgid "Trending"
 msgstr "Tendencias"
 
-#: templates/navigation.html:141 templates/navigation.html:147
+#: templates/navigation.html:154 templates/navigation.html:160
 msgid "Meta"
 msgstr "Meta"
 
-#: templates/navigation.html:142
+#: templates/navigation.html:155
 msgid "Back soon!"
 msgstr ""
 
-#: templates/navigation.html:154
+#: templates/navigation.html:167
 msgid "Decks"
 msgstr "Mazos"
 
-#: templates/navigation.html:160
+#: templates/navigation.html:173
 msgid "Cards"
 msgstr "Cartas"
 
-#: templates/navigation.html:202
+#: templates/navigation.html:215
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
-#: templates/navigation.html:208
+#: templates/navigation.html:221
 msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
 msgstr ""
 
@@ -1020,8 +1024,12 @@ msgstr "Mazos Hearthstone Tendencias"
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "Encuentra los mazos prometedores que están ganando popularidad en Hearthstone para cada clase actualizados a diario."
 
-#: web/views/mercenaries.py:38
+#: web/views/mercenaries.py:43
 msgid "Mercenaries Coming Soon"
+msgstr ""
+
+#: web/views/mercenaries.py:52
+msgid "Mercenaries Parties"
 msgstr ""
 
 #: web/views/oauth2.py:46
