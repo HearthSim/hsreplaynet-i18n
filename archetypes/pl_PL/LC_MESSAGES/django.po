@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-03T17:52:46.730426\n"
+"POT-Creation-Date: 2021-11-18T01:40:33.954729\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-11-17 12:40\n"
+"PO-Revision-Date: 2021-11-18 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1405,10 +1405,6 @@ msgstr ""
 msgid "Hybrid Demon Hunter"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/6/malygos-druid
-msgid "Malygos Druid"
-msgstr "Malygos Druid"
-
 #: https://hsreplay.net/archetypes/150/quest-druid
 msgid "Quest Druid"
 msgstr "Quest Druid"
@@ -1524,4 +1520,8 @@ msgstr "Big Spell Mage"
 #: https://hsreplay.net/archetypes/129/big-priest
 msgid "Big Priest"
 msgstr "Big Priest"
+
+#: https://hsreplay.net/archetypes/6/malygos-druid
+msgid "Malygos Druid"
+msgstr "Malygos Druid"
 
