@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-07 01:40+0000\n"
+"POT-Creation-Date: 2021-12-08 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -271,33 +271,7 @@ msgstr ""
 msgid "Created on"
 msgstr ""
 
-#: templates/account/api.html:46
-msgid "Webhooks"
-msgstr ""
-
-#: templates/account/api.html:49 templates/webhooks/detail.html:11
-msgid "Webhooks have been deprecated"
-msgstr ""
-
-#: templates/account/api.html:50 templates/webhooks/detail.html:12
-msgid ""
-"No new endpoints can be added. We will continue to deliver existing webhooks "
-"for the time being."
-msgstr ""
-
-#: templates/account/api.html:57
-msgid "UUID"
-msgstr ""
-
-#: templates/account/api.html:58
-msgid "URL"
-msgstr ""
-
-#: templates/account/api.html:59
-msgid "Active"
-msgstr ""
-
-#: templates/account/base.html:15 web/views/dashboard.py:39
+#: templates/account/base.html:15 web/views/dashboard.py:38
 msgid "Account"
 msgstr ""
 
@@ -313,7 +287,7 @@ msgstr ""
 msgid "Connections"
 msgstr ""
 
-#: templates/account/base.html:19 web/views/dashboard.py:327
+#: templates/account/base.html:19 web/views/dashboard.py:282
 msgid "Applications"
 msgstr ""
 
@@ -322,7 +296,7 @@ msgstr ""
 msgid "Password"
 msgstr ""
 
-#: templates/account/base.html:25 web/views/dashboard.py:91
+#: templates/account/base.html:25 web/views/dashboard.py:89
 msgid "Delete Account"
 msgstr ""
 
@@ -867,6 +841,16 @@ msgid ""
 "existing account. We can merge accounts for you!"
 msgstr ""
 
+#: templates/webhooks/detail.html:11
+msgid "Webhooks have been deprecated"
+msgstr ""
+
+#: templates/webhooks/detail.html:12
+msgid ""
+"No new endpoints can be added. We will continue to deliver existing webhooks "
+"for the time being."
+msgstr ""
+
 #: web/views/__init__.py:23
 msgid ""
 "Watch and share Hearthstone replays directly from your web browser. Explore "
@@ -1017,45 +1001,37 @@ msgstr ""
 msgid "{user}'s Hearthstone Collection"
 msgstr ""
 
-#: web/views/dashboard.py:79
+#: web/views/dashboard.py:78
 msgid "API Access"
 msgstr ""
 
-#: web/views/dashboard.py:113
+#: web/views/dashboard.py:111
 msgid "This account cannot be deleted."
 msgstr ""
 
-#: web/views/dashboard.py:142
+#: web/views/dashboard.py:140
 msgid "Your replays have been deleted."
 msgstr ""
 
-#: web/views/dashboard.py:177
+#: web/views/dashboard.py:175
 msgid "Could not make account primary."
 msgstr ""
 
-#: web/views/dashboard.py:251
+#: web/views/dashboard.py:249
 msgid ""
 "Check your inbox! We've sent an email to confirm your subscription "
 "preferences."
 msgstr ""
 
-#: web/views/dashboard.py:258 web/views/dashboard.py:264
+#: web/views/dashboard.py:256 web/views/dashboard.py:262
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr ""
 
-#: web/views/dashboard.py:274
+#: web/views/dashboard.py:272
 msgid "Your email preferences have been saved."
 msgstr ""
 
-#: web/views/dashboard.py:290
-msgid "Create a webhook"
-msgstr ""
-
-#: web/views/dashboard.py:301
-msgid "Update a webhook"
-msgstr ""
-
-#: web/views/dashboard.py:374
+#: web/views/dashboard.py:329
 msgid "Your Application"
 msgstr ""
 
