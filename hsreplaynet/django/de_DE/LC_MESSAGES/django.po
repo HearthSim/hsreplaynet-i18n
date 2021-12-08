@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-07 01:40+0000\n"
-"PO-Revision-Date: 2021-12-07 12:40\n"
+"POT-Creation-Date: 2021-12-08 01:40+0000\n"
+"PO-Revision-Date: 2021-12-08 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -256,31 +256,7 @@ msgstr "Zugangsschlüssel"
 msgid "Created on"
 msgstr "Erstellt am"
 
-#: templates/account/api.html:46
-msgid "Webhooks"
-msgstr "Webhooks"
-
-#: templates/account/api.html:49 templates/webhooks/detail.html:11
-msgid "Webhooks have been deprecated"
-msgstr "Webhooks werden nicht mehr unterstützt"
-
-#: templates/account/api.html:50 templates/webhooks/detail.html:12
-msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
-msgstr "Es können keine neuen Endpunkte hinzugefügt werden. Bestehende Webhooks werden zurzeit noch zugestellt."
-
-#: templates/account/api.html:57
-msgid "UUID"
-msgstr "UUID"
-
-#: templates/account/api.html:58
-msgid "URL"
-msgstr "URL"
-
-#: templates/account/api.html:59
-msgid "Active"
-msgstr "Aktiv"
-
-#: templates/account/base.html:15 web/views/dashboard.py:39
+#: templates/account/base.html:15 web/views/dashboard.py:38
 msgid "Account"
 msgstr "Konto"
 
@@ -296,7 +272,7 @@ msgstr "Zahlungen"
 msgid "Connections"
 msgstr "Verbindungen"
 
-#: templates/account/base.html:19 web/views/dashboard.py:327
+#: templates/account/base.html:19 web/views/dashboard.py:282
 msgid "Applications"
 msgstr "Anwendungen"
 
@@ -305,7 +281,7 @@ msgstr "Anwendungen"
 msgid "Password"
 msgstr "Passwort"
 
-#: templates/account/base.html:25 web/views/dashboard.py:91
+#: templates/account/base.html:25 web/views/dashboard.py:89
 msgid "Delete Account"
 msgstr "Konto Löschen"
 
@@ -800,6 +776,14 @@ msgstr "Melde dich beim korrekten Blizzard-Konto an"
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
 msgstr "<a href=\"%(contact_url)s\">Kontaktiere uns</a>, falls du Hilfe bei der Anmeldung in ein bestehendes Konto benötigst. Wir können Konten für dich zusammenführen!"
 
+#: templates/webhooks/detail.html:11
+msgid "Webhooks have been deprecated"
+msgstr "Webhooks werden nicht mehr unterstützt"
+
+#: templates/webhooks/detail.html:12
+msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
+msgstr "Es können keine neuen Endpunkte hinzugefügt werden. Bestehende Webhooks werden zurzeit noch zugestellt."
+
 #: web/views/__init__.py:23
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr "Betrachte und teile Hearthstone-Aufzeichnungen direkt aus deinem Browser heraus. Erforsche fortgeschrittene Deck- und Kartenstatistiken, basierend auf Millionen von Spielen pro Woche."
@@ -942,43 +926,35 @@ msgstr "Sammlung"
 msgid "{user}'s Hearthstone Collection"
 msgstr "{user}'s Hearthstone-Sammlung"
 
-#: web/views/dashboard.py:79
+#: web/views/dashboard.py:78
 msgid "API Access"
 msgstr "API-Zugriff"
 
-#: web/views/dashboard.py:113
+#: web/views/dashboard.py:111
 msgid "This account cannot be deleted."
 msgstr "Dieses Konto kann nicht gelöscht werden."
 
-#: web/views/dashboard.py:142
+#: web/views/dashboard.py:140
 msgid "Your replays have been deleted."
 msgstr "Deine Aufzeichnungen wurden gelöscht."
 
-#: web/views/dashboard.py:177
+#: web/views/dashboard.py:175
 msgid "Could not make account primary."
 msgstr "Konnte Konto nicht primär setzen."
 
-#: web/views/dashboard.py:251
+#: web/views/dashboard.py:249
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr "Überprüfe deinen Posteingang! Wir haben eine E-Mail gesendet um deine Abonnements zu bestätigen."
 
-#: web/views/dashboard.py:258 web/views/dashboard.py:264
+#: web/views/dashboard.py:256 web/views/dashboard.py:262
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "Fehler beim Speichern der E-Mail-Einstellungen. Bitte versuche es später erneut!"
 
-#: web/views/dashboard.py:274
+#: web/views/dashboard.py:272
 msgid "Your email preferences have been saved."
 msgstr "Deine E-Mail-Präferenzen wurden gespeichert."
 
-#: web/views/dashboard.py:290
-msgid "Create a webhook"
-msgstr "Einen Webhook erstellen"
-
-#: web/views/dashboard.py:301
-msgid "Update a webhook"
-msgstr "Einen Webhook aktualisieren"
-
-#: web/views/dashboard.py:374
+#: web/views/dashboard.py:329
 msgid "Your Application"
 msgstr "Deine Anwendung"
 

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-07 01:40+0000\n"
-"PO-Revision-Date: 2021-12-07 12:40\n"
+"POT-Creation-Date: 2021-12-08 01:40+0000\n"
+"PO-Revision-Date: 2021-12-08 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -256,31 +256,7 @@ msgstr "Токен"
 msgid "Created on"
 msgstr "Создан"
 
-#: templates/account/api.html:46
-msgid "Webhooks"
-msgstr "Веб-хуки"
-
-#: templates/account/api.html:49 templates/webhooks/detail.html:11
-msgid "Webhooks have been deprecated"
-msgstr "Webhook'и более не поддерживаются"
-
-#: templates/account/api.html:50 templates/webhooks/detail.html:12
-msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
-msgstr "Новые конечные точки добавляться не будут. Существующие webhook'и пока будут работать."
-
-#: templates/account/api.html:57
-msgid "UUID"
-msgstr "UUID"
-
-#: templates/account/api.html:58
-msgid "URL"
-msgstr "URL"
-
-#: templates/account/api.html:59
-msgid "Active"
-msgstr "Активировать"
-
-#: templates/account/base.html:15 web/views/dashboard.py:39
+#: templates/account/base.html:15 web/views/dashboard.py:38
 msgid "Account"
 msgstr "Учетная запись"
 
@@ -296,7 +272,7 @@ msgstr "Оплата"
 msgid "Connections"
 msgstr "Подключения"
 
-#: templates/account/base.html:19 web/views/dashboard.py:327
+#: templates/account/base.html:19 web/views/dashboard.py:282
 msgid "Applications"
 msgstr "Приложения"
 
@@ -305,7 +281,7 @@ msgstr "Приложения"
 msgid "Password"
 msgstr "Пароль"
 
-#: templates/account/base.html:25 web/views/dashboard.py:91
+#: templates/account/base.html:25 web/views/dashboard.py:89
 msgid "Delete Account"
 msgstr "Удалить учетную запись"
 
@@ -805,6 +781,14 @@ msgstr "Войдите с правильной учетной записью Bli
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
 msgstr "<a href=\"%(contact_url)s\">Свяжитесь с нами</a>, если у вас не получается войти с существующей учетной записью. Мы можем объединить ваши учетные записи!"
 
+#: templates/webhooks/detail.html:11
+msgid "Webhooks have been deprecated"
+msgstr "Webhook'и более не поддерживаются"
+
+#: templates/webhooks/detail.html:12
+msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
+msgstr "Новые конечные точки добавляться не будут. Существующие webhook'и пока будут работать."
+
 #: web/views/__init__.py:23
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr "Смотри и делись повторами своих игр в Hearthstone прямо в браузере. Открой для себя расширенную статистику по картам и колодам, основанную на миллионах партий в неделю."
@@ -947,43 +931,35 @@ msgstr "Коллекция"
 msgid "{user}'s Hearthstone Collection"
 msgstr "Коллекция игрока {user}"
 
-#: web/views/dashboard.py:79
+#: web/views/dashboard.py:78
 msgid "API Access"
 msgstr "Доступ к API"
 
-#: web/views/dashboard.py:113
+#: web/views/dashboard.py:111
 msgid "This account cannot be deleted."
 msgstr "Эта учетная запись не может быть удалена."
 
-#: web/views/dashboard.py:142
+#: web/views/dashboard.py:140
 msgid "Your replays have been deleted."
 msgstr "Ваши повторы были удалены."
 
-#: web/views/dashboard.py:177
+#: web/views/dashboard.py:175
 msgid "Could not make account primary."
 msgstr "Эту учетную запись нельзя сделать основной."
 
-#: web/views/dashboard.py:251
+#: web/views/dashboard.py:249
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr "Проверьте входящие! Мы отправили письмо для подтверждения настроек подписки."
 
-#: web/views/dashboard.py:258 web/views/dashboard.py:264
+#: web/views/dashboard.py:256 web/views/dashboard.py:262
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "Не удалось сохранить параметры почтовых уведомлений. Попробуйте позже!"
 
-#: web/views/dashboard.py:274
+#: web/views/dashboard.py:272
 msgid "Your email preferences have been saved."
 msgstr "Настройки почты сохранены."
 
-#: web/views/dashboard.py:290
-msgid "Create a webhook"
-msgstr "Создать веб-хук"
-
-#: web/views/dashboard.py:301
-msgid "Update a webhook"
-msgstr "Обновить веб-хук"
-
-#: web/views/dashboard.py:374
+#: web/views/dashboard.py:329
 msgid "Your Application"
 msgstr "Ваше приложение"
 

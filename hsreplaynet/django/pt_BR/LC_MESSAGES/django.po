@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-07 01:40+0000\n"
-"PO-Revision-Date: 2021-12-07 12:40\n"
+"POT-Creation-Date: 2021-12-08 01:40+0000\n"
+"PO-Revision-Date: 2021-12-08 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -256,31 +256,7 @@ msgstr "ID"
 msgid "Created on"
 msgstr "Criado em"
 
-#: templates/account/api.html:46
-msgid "Webhooks"
-msgstr "Webhooks"
-
-#: templates/account/api.html:49 templates/webhooks/detail.html:11
-msgid "Webhooks have been deprecated"
-msgstr ""
-
-#: templates/account/api.html:50 templates/webhooks/detail.html:12
-msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
-msgstr ""
-
-#: templates/account/api.html:57
-msgid "UUID"
-msgstr "UUID"
-
-#: templates/account/api.html:58
-msgid "URL"
-msgstr "URL"
-
-#: templates/account/api.html:59
-msgid "Active"
-msgstr "Ativo"
-
-#: templates/account/base.html:15 web/views/dashboard.py:39
+#: templates/account/base.html:15 web/views/dashboard.py:38
 msgid "Account"
 msgstr ""
 
@@ -296,7 +272,7 @@ msgstr "Pagamento"
 msgid "Connections"
 msgstr ""
 
-#: templates/account/base.html:19 web/views/dashboard.py:327
+#: templates/account/base.html:19 web/views/dashboard.py:282
 msgid "Applications"
 msgstr ""
 
@@ -305,7 +281,7 @@ msgstr ""
 msgid "Password"
 msgstr "Senha"
 
-#: templates/account/base.html:25 web/views/dashboard.py:91
+#: templates/account/base.html:25 web/views/dashboard.py:89
 msgid "Delete Account"
 msgstr "Excluir conta"
 
@@ -801,6 +777,14 @@ msgstr ""
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
 msgstr ""
 
+#: templates/webhooks/detail.html:11
+msgid "Webhooks have been deprecated"
+msgstr ""
+
+#: templates/webhooks/detail.html:12
+msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
+msgstr ""
+
 #: web/views/__init__.py:23
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr "Assista e compartilhe replays do Hearthstone diretamente do seu navegador. Explore estatísticas avançadas sobre decks e cartas baseados em milhões de jogos por semana."
@@ -943,43 +927,35 @@ msgstr "Coleção"
 msgid "{user}'s Hearthstone Collection"
 msgstr "Coleção de Hearthstone do {user}"
 
-#: web/views/dashboard.py:79
+#: web/views/dashboard.py:78
 msgid "API Access"
 msgstr "Acesso à API"
 
-#: web/views/dashboard.py:113
+#: web/views/dashboard.py:111
 msgid "This account cannot be deleted."
 msgstr "Essa conta não pode ser deletada."
 
-#: web/views/dashboard.py:142
+#: web/views/dashboard.py:140
 msgid "Your replays have been deleted."
 msgstr "Seus replays foram deletados."
 
-#: web/views/dashboard.py:177
+#: web/views/dashboard.py:175
 msgid "Could not make account primary."
 msgstr "Não foi possível tornar a conta principal."
 
-#: web/views/dashboard.py:251
+#: web/views/dashboard.py:249
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr ""
 
-#: web/views/dashboard.py:258 web/views/dashboard.py:264
+#: web/views/dashboard.py:256 web/views/dashboard.py:262
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr ""
 
-#: web/views/dashboard.py:274
+#: web/views/dashboard.py:272
 msgid "Your email preferences have been saved."
 msgstr "Suas preferências de email foram salvas."
 
-#: web/views/dashboard.py:290
-msgid "Create a webhook"
-msgstr "Criar um webhook"
-
-#: web/views/dashboard.py:301
-msgid "Update a webhook"
-msgstr "Atualizar um webhook"
-
-#: web/views/dashboard.py:374
+#: web/views/dashboard.py:329
 msgid "Your Application"
 msgstr ""
 
