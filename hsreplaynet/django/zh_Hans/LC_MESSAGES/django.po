@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-08 01:40+0000\n"
-"PO-Revision-Date: 2021-12-08 12:40\n"
+"POT-Creation-Date: 2021-12-09 01:40+0000\n"
+"PO-Revision-Date: 2021-12-09 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1004,11 +1004,20 @@ msgstr "流行炉石套牌"
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "按职业寻找后来居上的炉石套牌，每日更新。"
 
-#: web/views/mercenaries.py:43
+#: web/views/mercenaries.py:46 web/views/mercenaries.py:66
+msgid "Mercenaries Collection"
+msgstr ""
+
+#: web/views/mercenaries.py:80
+#, python-brace-format
+msgid "{user}'s Mercenaries Collection"
+msgstr ""
+
+#: web/views/mercenaries.py:97
 msgid "Mercenaries Coming Soon"
 msgstr ""
 
-#: web/views/mercenaries.py:52
+#: web/views/mercenaries.py:107
 msgid "Mercenaries Parties"
 msgstr ""
 

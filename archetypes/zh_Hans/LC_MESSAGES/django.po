@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-18T01:40:33.954729\n"
+"POT-Creation-Date: 2021-12-09T01:40:39.277985\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2021-12-08 12:40\n"
+"PO-Revision-Date: 2021-12-09 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -177,6 +177,10 @@ msgstr "快攻萨"
 msgid "Elemental Priest"
 msgstr "元素牧"
 
+#: https://hsreplay.net/archetypes/198/deathrattle-rogue
+msgid "Deathrattle Rogue"
+msgstr "亡语贼"
+
 #: https://hsreplay.net/archetypes/168/otk-dk-paladin
 msgid "OTK DK Paladin"
 msgstr "天启骑"
@@ -292,10 +296,6 @@ msgstr "过载萨"
 #: https://hsreplay.net/archetypes/197/cube-warlock
 msgid "Cube Warlock"
 msgstr "魔块术"
-
-#: https://hsreplay.net/archetypes/198/deathrattle-rogue
-msgid "Deathrattle Rogue"
-msgstr "亡语贼"
 
 #: https://hsreplay.net/archetypes/52/aggro-druid
 msgid "Aggro Druid"
@@ -717,10 +717,6 @@ msgstr "龙萨"
 msgid "Murloc Warrior"
 msgstr "鱼人战"
 
-#: https://hsreplay.net/archetypes/276/thief-rogue
-msgid "Thief Rogue"
-msgstr "剽窃贼"
-
 #: https://hsreplay.net/archetypes/277/murloc-druid
 msgid "Murloc Druid"
 msgstr "鱼人德"
@@ -752,10 +748,6 @@ msgstr "卡德加法"
 #: https://hsreplay.net/archetypes/287/immortal-paladin
 msgid "Immortal Paladin"
 msgstr "永恒骑"
-
-#: https://hsreplay.net/archetypes/288/big-paladin
-msgid "Big Paladin"
-msgstr "大哥骑"
 
 #: https://hsreplay.net/archetypes/169/tempo-rogue
 msgid "Tempo Rogue"
@@ -1017,10 +1009,6 @@ msgstr "奇迹瞎"
 msgid "Test Demon Hunter"
 msgstr "测试瞎"
 
-#: https://hsreplay.net/archetypes/370/token-demon-hunter
-msgid "Token Demon Hunter"
-msgstr "超生瞎"
-
 #: https://hsreplay.net/archetypes/371/big-demon-hunter
 msgid "Big Demon Hunter"
 msgstr "大哥瞎"
@@ -1028,6 +1016,10 @@ msgstr "大哥瞎"
 #: https://hsreplay.net/archetypes/372/spell-druid
 msgid "Spell Druid"
 msgstr "法术德"
+
+#: https://hsreplay.net/archetypes/370/token-demon-hunter
+msgid "Token Demon Hunter"
+msgstr "超生瞎"
 
 #: https://hsreplay.net/archetypes/79/quest-paladin
 msgid "Quest Paladin"
@@ -1165,6 +1157,10 @@ msgstr "盾猛OTK战"
 msgid "Mozaki OTK Mage"
 msgstr "决斗法"
 
+#: https://hsreplay.net/archetypes/499/drekthar-druid
+msgid "Drek'Thar Druid"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/414/menagerie-paladin
 msgid "Menagerie Paladin"
 msgstr "恩佐斯骑"
@@ -1200,6 +1196,10 @@ msgstr "任务萨"
 #: https://hsreplay.net/archetypes/307/quest-warlock
 msgid "Quest Warlock"
 msgstr "疲劳术"
+
+#: https://hsreplay.net/archetypes/276/thief-rogue
+msgid "Thief Rogue"
+msgstr "剽窃贼"
 
 #: https://hsreplay.net/archetypes/486/quest-miracle-mage
 msgid "Quest Miracle Mage"
@@ -1524,4 +1524,44 @@ msgstr "大哥牧"
 #: https://hsreplay.net/archetypes/6/malygos-druid
 msgid "Malygos Druid"
 msgstr "蓝龙德"
+
+#: https://hsreplay.net/archetypes/500/trap-hunter
+msgid "Trap Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/288/big-paladin
+msgid "Big Paladin"
+msgstr "大哥骑"
+
+#: https://hsreplay.net/archetypes/501/heal-paladin
+msgid "Heal Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/502/bless-priest
+msgid "Bless Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/503/boar-rogue
+msgid "Boar Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/504/freeze-shaman
+msgid "Freeze Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/505/freeze-elemental-shaman
+msgid "Freeze Elemental Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/506/owltk-warlock
+msgid "OwlTK Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/507/fel-warlock
+msgid "Fel Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/508/charge-warrior
+msgid "Charge Warrior"
+msgstr ""
 

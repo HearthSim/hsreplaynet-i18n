@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-11-18T01:40:33.954729\n"
+"POT-Creation-Date: 2021-12-09T01:40:39.277985\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2021-12-08 12:40\n"
+"PO-Revision-Date: 2021-12-09 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -177,6 +177,10 @@ msgstr "Aggro Shaman"
 msgid "Elemental Priest"
 msgstr "Elemental Priest"
 
+#: https://hsreplay.net/archetypes/198/deathrattle-rogue
+msgid "Deathrattle Rogue"
+msgstr "Deathrattle Rogue"
+
 #: https://hsreplay.net/archetypes/168/otk-dk-paladin
 msgid "OTK DK Paladin"
 msgstr "OTK DK Paladin"
@@ -292,10 +296,6 @@ msgstr "Overload Shaman"
 #: https://hsreplay.net/archetypes/197/cube-warlock
 msgid "Cube Warlock"
 msgstr "Cube Warlock"
-
-#: https://hsreplay.net/archetypes/198/deathrattle-rogue
-msgid "Deathrattle Rogue"
-msgstr "Deathrattle Rogue"
 
 #: https://hsreplay.net/archetypes/52/aggro-druid
 msgid "Aggro Druid"
@@ -717,10 +717,6 @@ msgstr "Dragon Shaman"
 msgid "Murloc Warrior"
 msgstr "Murloc Warrior"
 
-#: https://hsreplay.net/archetypes/276/thief-rogue
-msgid "Thief Rogue"
-msgstr "Thief Rogue"
-
 #: https://hsreplay.net/archetypes/277/murloc-druid
 msgid "Murloc Druid"
 msgstr "Murloc Druid"
@@ -752,10 +748,6 @@ msgstr "Khadgar Mage"
 #: https://hsreplay.net/archetypes/287/immortal-paladin
 msgid "Immortal Paladin"
 msgstr "Immortal Paladin"
-
-#: https://hsreplay.net/archetypes/288/big-paladin
-msgid "Big Paladin"
-msgstr "Big Paladin"
 
 #: https://hsreplay.net/archetypes/169/tempo-rogue
 msgid "Tempo Rogue"
@@ -1017,10 +1009,6 @@ msgstr "OTK Demon Hunter"
 msgid "Test Demon Hunter"
 msgstr "Test Demon Hunter"
 
-#: https://hsreplay.net/archetypes/370/token-demon-hunter
-msgid "Token Demon Hunter"
-msgstr "Token Demon Hunter"
-
 #: https://hsreplay.net/archetypes/371/big-demon-hunter
 msgid "Big Demon Hunter"
 msgstr "Big Demon Hunter"
@@ -1028,6 +1016,10 @@ msgstr "Big Demon Hunter"
 #: https://hsreplay.net/archetypes/372/spell-druid
 msgid "Spell Druid"
 msgstr "Spell Druid"
+
+#: https://hsreplay.net/archetypes/370/token-demon-hunter
+msgid "Token Demon Hunter"
+msgstr "Token Demon Hunter"
 
 #: https://hsreplay.net/archetypes/79/quest-paladin
 msgid "Quest Paladin"
@@ -1165,6 +1157,10 @@ msgstr ""
 msgid "Mozaki OTK Mage"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/499/drekthar-druid
+msgid "Drek'Thar Druid"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/414/menagerie-paladin
 msgid "Menagerie Paladin"
 msgstr ""
@@ -1200,6 +1196,10 @@ msgstr "Quest Shaman"
 #: https://hsreplay.net/archetypes/307/quest-warlock
 msgid "Quest Warlock"
 msgstr "Quest Warlock"
+
+#: https://hsreplay.net/archetypes/276/thief-rogue
+msgid "Thief Rogue"
+msgstr "Thief Rogue"
 
 #: https://hsreplay.net/archetypes/486/quest-miracle-mage
 msgid "Quest Miracle Mage"
@@ -1524,4 +1524,44 @@ msgstr "Big Priest"
 #: https://hsreplay.net/archetypes/6/malygos-druid
 msgid "Malygos Druid"
 msgstr "Malygos Druid"
+
+#: https://hsreplay.net/archetypes/500/trap-hunter
+msgid "Trap Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/288/big-paladin
+msgid "Big Paladin"
+msgstr "Big Paladin"
+
+#: https://hsreplay.net/archetypes/501/heal-paladin
+msgid "Heal Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/502/bless-priest
+msgid "Bless Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/503/boar-rogue
+msgid "Boar Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/504/freeze-shaman
+msgid "Freeze Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/505/freeze-elemental-shaman
+msgid "Freeze Elemental Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/506/owltk-warlock
+msgid "OwlTK Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/507/fel-warlock
+msgid "Fel Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/508/charge-warrior
+msgid "Charge Warrior"
+msgstr ""
 
