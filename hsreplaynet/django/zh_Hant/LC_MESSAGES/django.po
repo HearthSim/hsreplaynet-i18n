@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-11 01:40+0000\n"
-"PO-Revision-Date: 2021-12-14 12:40\n"
+"POT-Creation-Date: 2021-12-15 01:40+0000\n"
+"PO-Revision-Date: 2021-12-15 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -520,12 +520,12 @@ msgstr ""
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr ""
 
-#: templates/footer.html:63 templates/navigation.html:193
+#: templates/footer.html:63 templates/navigation.html:206
 msgid "Downloads"
 msgstr "下載"
 
-#: templates/footer.html:64 templates/navigation.html:182
-#: templates/navigation.html:185
+#: templates/footer.html:64 templates/navigation.html:195
+#: templates/navigation.html:198
 msgid "Premium"
 msgstr "尊榮會員"
 
@@ -586,58 +586,62 @@ msgid "Hearthstone"
 msgstr ""
 
 #: templates/navigation.html:72
+msgid "Tier List"
+msgstr ""
+
+#: templates/navigation.html:85
 msgid "Parties"
 msgstr ""
 
-#: templates/navigation.html:84
+#: templates/navigation.html:97
 msgid "Heroes"
 msgstr "英雄"
 
-#: templates/navigation.html:96
+#: templates/navigation.html:109
 msgid "Darkmoon Prizes"
 msgstr ""
 
-#: templates/navigation.html:107
+#: templates/navigation.html:120
 msgid "Minions"
 msgstr "手下"
 
-#: templates/navigation.html:117
+#: templates/navigation.html:130
 msgid "Compositions"
 msgstr "陣容"
 
-#: templates/navigation.html:131 templates/navigation.html:183
+#: templates/navigation.html:144 templates/navigation.html:196
 msgid "SALE!"
 msgstr "大特賣!"
 
-#: templates/navigation.html:140
+#: templates/navigation.html:153
 msgid "Articles"
 msgstr "文章"
 
-#: templates/navigation.html:146
+#: templates/navigation.html:159
 msgid "Trending"
 msgstr "趨勢分析"
 
-#: templates/navigation.html:154 templates/navigation.html:160
+#: templates/navigation.html:167 templates/navigation.html:173
 msgid "Meta"
 msgstr "環境主流"
 
-#: templates/navigation.html:155
+#: templates/navigation.html:168
 msgid "Back soon!"
 msgstr "馬上回來"
 
-#: templates/navigation.html:167
+#: templates/navigation.html:180
 msgid "Decks"
 msgstr "牌組"
 
-#: templates/navigation.html:173
+#: templates/navigation.html:186
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:215
+#: templates/navigation.html:228
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
-#: templates/navigation.html:221
+#: templates/navigation.html:234
 msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
 msgstr ""
 
@@ -1018,6 +1022,10 @@ msgstr ""
 
 #: web/views/mercenaries.py:107
 msgid "Mercenaries Parties"
+msgstr ""
+
+#: web/views/mercenaries.py:117
+msgid "Mercenaries Tier List"
 msgstr ""
 
 #: web/views/oauth2.py:46
