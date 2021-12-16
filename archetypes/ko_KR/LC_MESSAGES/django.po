@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-09T01:40:39.277985\n"
+"POT-Creation-Date: 2021-12-16T01:40:42.434930\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2021-12-15 12:40\n"
+"PO-Revision-Date: 2021-12-16 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -149,10 +149,6 @@ msgstr "침묵 사제"
 msgid "Discard Warlock"
 msgstr "버리기 흑마법사"
 
-#: https://hsreplay.net/archetypes/55/miracle-priest
-msgid "Miracle Priest"
-msgstr "미라클 사제"
-
 #: https://hsreplay.net/archetypes/136/highlander-warlock
 msgid "Highlander Warlock"
 msgstr "하이랜더 흑마법사"
@@ -268,6 +264,10 @@ msgstr "소집 드루이드"
 #: https://hsreplay.net/archetypes/180/recruit-hunter
 msgid "Recruit Hunter"
 msgstr "소집 사냥꾼"
+
+#: https://hsreplay.net/archetypes/55/miracle-priest
+msgid "Miracle Priest"
+msgstr "미라클 사제"
 
 #: https://hsreplay.net/archetypes/193/oakheart-druid
 msgid "Oakheart Druid"
@@ -748,6 +748,10 @@ msgstr "카드가 마법사"
 #: https://hsreplay.net/archetypes/287/immortal-paladin
 msgid "Immortal Paladin"
 msgstr "정무관 성기사"
+
+#: https://hsreplay.net/archetypes/509/bear-hunter
+msgid "Bear Hunter"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/169/tempo-rogue
 msgid "Tempo Rogue"
@@ -1563,5 +1567,13 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/508/charge-warrior
 msgid "Charge Warrior"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/510/secret-thief-rogue
+msgid "Secret Thief Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/511/burn-shaman
+msgid "Burn Shaman"
 msgstr ""
 
