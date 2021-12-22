@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-12-17 01:40+0000\n"
-"PO-Revision-Date: 2021-12-17 12:40\n"
+"PO-Revision-Date: 2021-12-22 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -39,11 +39,11 @@ msgstr "No tienes permiso para ver esta colección."
 
 #: api/exceptions.py:37
 msgid "This product is not available."
-msgstr ""
+msgstr "Este producto no está disponible."
 
 #: api/exceptions.py:43
 msgid "This plan is not available."
-msgstr ""
+msgstr "Este plan no está disponible."
 
 #: api/fields.py:9
 #, python-brace-format
@@ -580,15 +580,15 @@ msgstr "Cambiar el modo de navegación"
 
 #: templates/navigation.html:43
 msgid "Hearthstone"
-msgstr ""
+msgstr "Hearthstone"
 
 #: templates/navigation.html:72
 msgid "Tier List"
-msgstr ""
+msgstr "Lista del meta"
 
 #: templates/navigation.html:85
 msgid "Parties"
-msgstr ""
+msgstr "Equipos"
 
 #: templates/navigation.html:97
 msgid "Heroes"
@@ -819,7 +819,7 @@ msgstr "Contactar con el Equipo de Soporte de HSReplay.net."
 
 #: web/views/__init__.py:245
 msgid "Welcome to HSReplay.net"
-msgstr ""
+msgstr "Bienvenido a HSReplay.net"
 
 #: web/views/__init__.py:247
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
@@ -1006,7 +1006,7 @@ msgstr "Encuentra los mazos prometedores que están ganando popularidad en Heart
 
 #: web/views/mercenaries.py:78 web/views/mercenaries.py:98
 msgid "Mercenaries Collection"
-msgstr ""
+msgstr "Colección de Mercenarios"
 
 #: web/views/mercenaries.py:112
 #, python-brace-format
@@ -1015,11 +1015,11 @@ msgstr ""
 
 #: web/views/mercenaries.py:129
 msgid "Mercenaries Coming Soon"
-msgstr ""
+msgstr "Mercenarios próximamente"
 
 #: web/views/mercenaries.py:139
 msgid "Mercenaries Parties"
-msgstr ""
+msgstr "Grupo de Mercenarios"
 
 #: web/views/mercenaries.py:149
 msgid "Mercenaries Tier List"
