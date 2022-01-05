@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-04 01:40+0000\n"
+"POT-Creation-Date: 2022-01-05 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1084,24 +1084,24 @@ msgid ""
 "class updated every single day."
 msgstr ""
 
-#: web/views/mercenaries.py:78 web/views/mercenaries.py:98
+#: web/views/mercenaries.py:83 web/views/mercenaries.py:103
 msgid "Mercenaries Collection"
 msgstr ""
 
-#: web/views/mercenaries.py:112
+#: web/views/mercenaries.py:117
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
 msgstr ""
 
-#: web/views/mercenaries.py:129
+#: web/views/mercenaries.py:134
 msgid "Mercenaries Coming Soon"
 msgstr ""
 
-#: web/views/mercenaries.py:139
+#: web/views/mercenaries.py:144
 msgid "Mercenaries Parties"
 msgstr ""
 
-#: web/views/mercenaries.py:149
+#: web/views/mercenaries.py:154
 msgid "Mercenaries Tier List"
 msgstr ""
 
