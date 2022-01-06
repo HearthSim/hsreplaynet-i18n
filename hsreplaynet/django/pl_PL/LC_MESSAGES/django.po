@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-05 01:40+0000\n"
-"PO-Revision-Date: 2022-01-05 12:40\n"
+"POT-Creation-Date: 2022-01-06 01:40+0000\n"
+"PO-Revision-Date: 2022-01-06 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -517,12 +517,12 @@ msgstr "Śledź nas na Instagramie"
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Ta strona nie jest powiązana z Blizzard Entertainment."
 
-#: templates/footer.html:63 templates/navigation.html:206
+#: templates/footer.html:63 templates/navigation.html:219
 msgid "Downloads"
 msgstr "Pobieranie"
 
-#: templates/footer.html:64 templates/navigation.html:195
-#: templates/navigation.html:198
+#: templates/footer.html:64 templates/navigation.html:208
+#: templates/navigation.html:211
 msgid "Premium"
 msgstr "Premium"
 
@@ -583,62 +583,66 @@ msgid "Hearthstone"
 msgstr ""
 
 #: templates/navigation.html:72
-msgid "Tier List"
+msgid "Home"
 msgstr ""
 
 #: templates/navigation.html:85
+msgid "Tier List"
+msgstr ""
+
+#: templates/navigation.html:98
 msgid "Parties"
 msgstr ""
 
-#: templates/navigation.html:97
+#: templates/navigation.html:110
 msgid "Heroes"
 msgstr "Bohaterowie"
 
-#: templates/navigation.html:109
+#: templates/navigation.html:122
 msgid "Darkmoon Prizes"
 msgstr ""
 
-#: templates/navigation.html:120
+#: templates/navigation.html:133
 msgid "Minions"
 msgstr "Stronnicy"
 
-#: templates/navigation.html:130
+#: templates/navigation.html:143
 msgid "Compositions"
 msgstr "Kompozycje"
 
-#: templates/navigation.html:144 templates/navigation.html:196
+#: templates/navigation.html:157 templates/navigation.html:209
 msgid "SALE!"
 msgstr "WYPRZEDAŻ!"
 
-#: templates/navigation.html:153
+#: templates/navigation.html:166
 msgid "Articles"
 msgstr "Artykuły"
 
-#: templates/navigation.html:159
+#: templates/navigation.html:172
 msgid "Trending"
 msgstr "Na czasie"
 
-#: templates/navigation.html:167 templates/navigation.html:173
+#: templates/navigation.html:180 templates/navigation.html:186
 msgid "Meta"
 msgstr "Meta"
 
-#: templates/navigation.html:168
+#: templates/navigation.html:181
 msgid "Back soon!"
 msgstr ""
 
-#: templates/navigation.html:180
+#: templates/navigation.html:193
 msgid "Decks"
 msgstr "Talie"
 
-#: templates/navigation.html:186
+#: templates/navigation.html:199
 msgid "Cards"
 msgstr "Karty"
 
-#: templates/navigation.html:228
+#: templates/navigation.html:241
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
-#: templates/navigation.html:234
+#: templates/navigation.html:247
 msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
 msgstr ""
 
@@ -1013,15 +1017,19 @@ msgstr ""
 msgid "{user}'s Mercenaries Collection"
 msgstr ""
 
-#: web/views/mercenaries.py:134
+#: web/views/mercenaries.py:130
+msgid "Mercenaries Home"
+msgstr ""
+
+#: web/views/mercenaries.py:150
 msgid "Mercenaries Coming Soon"
 msgstr ""
 
-#: web/views/mercenaries.py:144
+#: web/views/mercenaries.py:160
 msgid "Mercenaries Parties"
 msgstr ""
 
-#: web/views/mercenaries.py:154
+#: web/views/mercenaries.py:170
 msgid "Mercenaries Tier List"
 msgstr ""
 
