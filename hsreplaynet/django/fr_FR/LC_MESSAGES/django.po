@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-06 01:40+0000\n"
-"PO-Revision-Date: 2022-01-06 12:40\n"
+"POT-Creation-Date: 2022-01-07 01:40+0000\n"
+"PO-Revision-Date: 2022-01-07 12:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -565,6 +565,10 @@ msgstr "Confidentialité"
 msgid "About Us"
 msgstr "À propos"
 
+#: templates/footer.html:108
+msgid "Careers"
+msgstr ""
+
 #: templates/games/replay_detail.html:33
 msgid "Replay not available"
 msgstr ""
@@ -1020,15 +1024,15 @@ msgstr ""
 msgid "Mercenaries Home"
 msgstr ""
 
-#: web/views/mercenaries.py:150
+#: web/views/mercenaries.py:152
 msgid "Mercenaries Coming Soon"
 msgstr ""
 
-#: web/views/mercenaries.py:160
+#: web/views/mercenaries.py:162
 msgid "Mercenaries Parties"
 msgstr ""
 
-#: web/views/mercenaries.py:170
+#: web/views/mercenaries.py:172
 msgid "Mercenaries Tier List"
 msgstr ""
 
