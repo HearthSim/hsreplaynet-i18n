@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-07 01:40+0000\n"
-"PO-Revision-Date: 2022-01-11 12:40\n"
+"PO-Revision-Date: 2022-01-12 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: api/exceptions.py:37
 msgid "This product is not available."
-msgstr ""
+msgstr "Dieses Produkt ist nicht verfügbar."
 
 #: api/exceptions.py:43
 msgid "This plan is not available."
@@ -567,7 +567,7 @@ msgstr "Über uns"
 
 #: templates/footer.html:108
 msgid "Careers"
-msgstr ""
+msgstr "Karrieren"
 
 #: templates/games/replay_detail.html:33
 msgid "Replay not available"
@@ -583,19 +583,19 @@ msgstr "Navigation umschalten"
 
 #: templates/navigation.html:43
 msgid "Hearthstone"
-msgstr ""
+msgstr "Hearthstone"
 
 #: templates/navigation.html:72
 msgid "Home"
-msgstr ""
+msgstr "Start"
 
 #: templates/navigation.html:85
 msgid "Tier List"
-msgstr ""
+msgstr "Tier-Liste"
 
 #: templates/navigation.html:98
 msgid "Parties"
-msgstr ""
+msgstr "Gruppen"
 
 #: templates/navigation.html:110
 msgid "Heroes"
@@ -826,11 +826,11 @@ msgstr "Kontaktiere das HSReplay.net Support-Team."
 
 #: web/views/__init__.py:245
 msgid "Welcome to HSReplay.net"
-msgstr ""
+msgstr "Willkommen bei HSReplay.net"
 
 #: web/views/__init__.py:247
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
-msgstr ""
+msgstr "Erfahre wie du mit HSReplay.net startest und was du damit tun kannst."
 
 #: web/views/archetypes.py:22
 msgid "Hearthstone Meta"
@@ -1013,16 +1013,16 @@ msgstr "Finde die Hearthstone-Decks von morgen mittels steigender Beliebtheit, f
 
 #: web/views/mercenaries.py:83 web/views/mercenaries.py:103
 msgid "Mercenaries Collection"
-msgstr ""
+msgstr "Söldner-Sammlung"
 
 #: web/views/mercenaries.py:117
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
-msgstr ""
+msgstr "{user}'s Söldner-Sammlung"
 
 #: web/views/mercenaries.py:130
 msgid "Mercenaries Home"
-msgstr ""
+msgstr "Söldner Start"
 
 #: web/views/mercenaries.py:152
 msgid "Mercenaries Coming Soon"
@@ -1030,7 +1030,7 @@ msgstr ""
 
 #: web/views/mercenaries.py:162
 msgid "Mercenaries Parties"
-msgstr ""
+msgstr "Söldner-Gruppen"
 
 #: web/views/mercenaries.py:172
 msgid "Mercenaries Tier List"
