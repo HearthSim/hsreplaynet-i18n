@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-07 01:40+0000\n"
-"PO-Revision-Date: 2022-01-12 12:40\n"
+"POT-Creation-Date: 2022-01-13 01:40+0000\n"
+"PO-Revision-Date: 2022-01-13 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1011,28 +1011,28 @@ msgstr "Hearthstone-Decks im Trend"
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "Finde die Hearthstone-Decks von morgen mittels steigender Beliebtheit, für jede Klasse, jeden Tag aufs Neue."
 
-#: web/views/mercenaries.py:83 web/views/mercenaries.py:103
+#: web/views/mercenaries.py:81 web/views/mercenaries.py:101
 msgid "Mercenaries Collection"
 msgstr "Söldner-Sammlung"
 
-#: web/views/mercenaries.py:117
+#: web/views/mercenaries.py:115
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
 msgstr "{user}'s Söldner-Sammlung"
 
-#: web/views/mercenaries.py:130
+#: web/views/mercenaries.py:128
 msgid "Mercenaries Home"
 msgstr "Söldner Start"
 
-#: web/views/mercenaries.py:152
+#: web/views/mercenaries.py:150
 msgid "Mercenaries Coming Soon"
 msgstr ""
 
-#: web/views/mercenaries.py:162
+#: web/views/mercenaries.py:160
 msgid "Mercenaries Parties"
 msgstr "Söldner-Gruppen"
 
-#: web/views/mercenaries.py:172
+#: web/views/mercenaries.py:170
 msgid "Mercenaries Tier List"
 msgstr ""
 

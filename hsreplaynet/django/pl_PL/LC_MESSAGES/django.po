@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-07 01:40+0000\n"
-"PO-Revision-Date: 2022-01-12 12:40\n"
+"POT-Creation-Date: 2022-01-13 01:40+0000\n"
+"PO-Revision-Date: 2022-01-13 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -1012,28 +1012,28 @@ msgstr "Popularne Talie Hearthstone"
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "Znajdź nadchodzące talie z rosnącą popularnością w Hearthstone dla każdej klasy, aktualizowane każdego dnia."
 
-#: web/views/mercenaries.py:83 web/views/mercenaries.py:103
+#: web/views/mercenaries.py:81 web/views/mercenaries.py:101
 msgid "Mercenaries Collection"
 msgstr ""
 
-#: web/views/mercenaries.py:117
+#: web/views/mercenaries.py:115
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
 msgstr ""
 
-#: web/views/mercenaries.py:130
+#: web/views/mercenaries.py:128
 msgid "Mercenaries Home"
 msgstr ""
 
-#: web/views/mercenaries.py:152
+#: web/views/mercenaries.py:150
 msgid "Mercenaries Coming Soon"
 msgstr ""
 
-#: web/views/mercenaries.py:162
+#: web/views/mercenaries.py:160
 msgid "Mercenaries Parties"
 msgstr ""
 
-#: web/views/mercenaries.py:172
+#: web/views/mercenaries.py:170
 msgid "Mercenaries Tier List"
 msgstr ""
 
