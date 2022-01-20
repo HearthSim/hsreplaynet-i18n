@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-13 01:40+0000\n"
-"PO-Revision-Date: 2022-01-18 12:40\n"
+"POT-Creation-Date: 2022-01-20 01:40+0000\n"
+"PO-Revision-Date: 2022-01-20 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -74,107 +74,107 @@ msgstr ""
 msgid "Code has been applied to your account."
 msgstr ""
 
-#: billing/views.py:231
+#: billing/views.py:273
 msgid "Error adding payment card"
 msgstr "新增信用卡時發生錯誤"
 
-#: billing/views.py:235
+#: billing/views.py:277
 msgid "Your card was declined. Please use a different card."
 msgstr "您的卡片被拒絕付款，請使用其他卡片。"
 
-#: billing/views.py:251
+#: billing/views.py:293
 msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
 msgstr "這個Email地址已經和另一個帳戶關聯。如果您想要合併帳戶，請聯繫我們!"
 
-#: billing/views.py:279
+#: billing/views.py:321
 msgid "You have multiple subscriptions. Please contact us."
 msgstr "您有重複訂閱，請聯絡我們。"
 
-#: billing/views.py:293
+#: billing/views.py:335
 msgid "Your subscription has expired."
 msgstr "您的訂閱已經過期。"
 
-#: billing/views.py:299
+#: billing/views.py:341
 msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
 msgstr "您的訂閱依然有效中。如果您對帳務有任何問題，請聯繫我們。"
 
-#: billing/views.py:303
+#: billing/views.py:345
 msgid "You are already subscribed!"
 msgstr "您已訂閱!"
 
-#: billing/views.py:309 billing/views.py:451 billing/views.py:518
+#: billing/views.py:351 billing/views.py:493 billing/views.py:560
 msgid "You already have an active or a pending subscription."
 msgstr ""
 
-#: billing/views.py:352
+#: billing/views.py:394
 msgid "Could not process subscription."
 msgstr "無法處理訂閱。"
 
-#: billing/views.py:369
+#: billing/views.py:411
 msgid "Your card declined the charge. Please contact your bank for information."
 msgstr "您的卡片拒絕付款。請聯繫你的銀行以了解更多資訊。"
 
-#: billing/views.py:371
+#: billing/views.py:413
 msgid "Your card does not support payments in USD. Please try a different card."
 msgstr "您的卡片不支援美金計價付款。請試用其他卡片。"
 
-#: billing/views.py:373
+#: billing/views.py:415
 msgid "Your card has exceeded its credit limit. Please use a different one."
 msgstr "您的卡片已經超額。請試用其他卡片。"
 
-#: billing/views.py:375
+#: billing/views.py:417
 msgid "Your card has insufficient funds to proceed."
 msgstr "您的卡片沒有足夠餘額。"
 
-#: billing/views.py:379
+#: billing/views.py:421
 msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
 msgstr "您的卡片被拒絕了。您並沒有被扣款。請嘗試其他卡片。如果這持續發生，請聯絡我們。"
 
-#: billing/views.py:410
+#: billing/views.py:452
 msgid "You are now subscribed!"
 msgstr "您已訂閱!"
 
-#: billing/views.py:419
+#: billing/views.py:461
 msgid " Please contact us if you are seeing this in error."
 msgstr " 如果您收到此錯誤資訊, 請與我們聯繫。"
 
-#: billing/views.py:440
+#: billing/views.py:482
 msgid "Unable to complete subscription."
 msgstr "無法完成訂閱。"
 
-#: billing/views.py:445
+#: billing/views.py:487
 msgid "Invalid subscription token."
 msgstr "訂閱TOKEN無效。"
 
-#: billing/views.py:448
+#: billing/views.py:490
 msgid "You are not logged in as the correct user."
 msgstr "您沒有作為正確的使用者登錄。"
 
-#: billing/views.py:470
+#: billing/views.py:512
 msgid "Subscription was canceled by PayPal."
 msgstr "訂閱遭到 PayPal取消。"
 
-#: billing/views.py:478
+#: billing/views.py:520
 msgid "You are now subscribed with PayPal!"
 msgstr "你已用Paypal訂閱!"
 
-#: billing/views.py:499
+#: billing/views.py:541
 msgid "Invalid token while cancelling payment."
 msgstr "在取消付款時發生了錯誤。"
 
-#: billing/views.py:504
+#: billing/views.py:546
 msgid "Payment has already completed and cannot be canceled."
 msgstr ""
 
-#: billing/views.py:508
+#: billing/views.py:550
 msgid "Your payment was interrupted."
 msgstr "你的付款中斷了。"
 
-#: billing/views.py:522
+#: billing/views.py:564
 msgid "Could not determine your plan."
 msgstr "無法確定您的支付選項。"
 
-#: billing/views.py:527
+#: billing/views.py:569
 msgid "Invalid Paypal plan."
 msgstr "不正確的Paypal資訊。"
 
@@ -537,39 +537,43 @@ msgstr ""
 msgid "Tier7"
 msgstr "Tier7"
 
-#: templates/footer.html:70
+#: templates/footer.html:67
+msgid "Mercenaries"
+msgstr ""
+
+#: templates/footer.html:71
 msgid "Support"
 msgstr "支援"
 
-#: templates/footer.html:72
+#: templates/footer.html:73
 msgid "Your Account"
 msgstr "您的帳戶"
 
-#: templates/footer.html:84
+#: templates/footer.html:85
 msgid "Help Center"
 msgstr "幫助中心"
 
-#: templates/footer.html:86
+#: templates/footer.html:87
 msgid "Contact Us"
 msgstr "聯繫我們"
 
-#: templates/footer.html:91
+#: templates/footer.html:92
 msgid "Legal"
 msgstr "法律聲明"
 
-#: templates/footer.html:94
+#: templates/footer.html:95
 msgid "Terms of Service"
 msgstr "服務條款"
 
-#: templates/footer.html:97
+#: templates/footer.html:98
 msgid "Privacy Policy"
 msgstr "隱私權政策"
 
-#: templates/footer.html:105
+#: templates/footer.html:106
 msgid "About Us"
 msgstr "關於我們"
 
-#: templates/footer.html:108
+#: templates/footer.html:109
 msgid "Careers"
 msgstr ""
 
@@ -1015,28 +1019,32 @@ msgstr "趨勢中爐石套牌"
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "看看每天最新最人氣的各職業套牌。"
 
-#: web/views/mercenaries.py:81 web/views/mercenaries.py:101
+#: web/views/mercenaries.py:74 web/views/mercenaries.py:94
 msgid "Mercenaries Collection"
 msgstr ""
 
-#: web/views/mercenaries.py:115
+#: web/views/mercenaries.py:108
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
 msgstr ""
 
-#: web/views/mercenaries.py:128
+#: web/views/mercenaries.py:146
 msgid "Mercenaries Home"
 msgstr ""
 
-#: web/views/mercenaries.py:150
+#: web/views/mercenaries.py:152
+msgid "Get all the information you need to win at Hearthstone Mercenaries with our Mercenaries stats and collection tracking. See top mercenaries tier lists and parties."
+msgstr ""
+
+#: web/views/mercenaries.py:173
 msgid "Mercenaries Coming Soon"
 msgstr ""
 
-#: web/views/mercenaries.py:160
+#: web/views/mercenaries.py:193
 msgid "Mercenaries Parties"
 msgstr ""
 
-#: web/views/mercenaries.py:170
+#: web/views/mercenaries.py:203
 msgid "Mercenaries Tier List"
 msgstr ""
 

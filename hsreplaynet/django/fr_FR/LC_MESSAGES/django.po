@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-13 01:40+0000\n"
-"PO-Revision-Date: 2022-01-18 12:40\n"
+"POT-Creation-Date: 2022-01-20 01:40+0000\n"
+"PO-Revision-Date: 2022-01-20 12:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -74,107 +74,107 @@ msgstr "Code inefficace sur ce compte mais encore valide."
 msgid "Code has been applied to your account."
 msgstr "Ce code a été appliqué à votre compte."
 
-#: billing/views.py:231
+#: billing/views.py:273
 msgid "Error adding payment card"
 msgstr "Erreur d'enregistrement de carte de paiement"
 
-#: billing/views.py:235
+#: billing/views.py:277
 msgid "Your card was declined. Please use a different card."
 msgstr "Votre carte a été refusée. Veuillez utiliser une autre carte."
 
-#: billing/views.py:251
+#: billing/views.py:293
 msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
 msgstr "Cette adresse mail est associée à un autre compte. Si vous souhaitez fusionner ces comptes, veuillez nous contacter !"
 
-#: billing/views.py:279
+#: billing/views.py:321
 msgid "You have multiple subscriptions. Please contact us."
 msgstr "Vous avez plusieurs abonnements. Veuillez s'il-vous-plaît nous contacter."
 
-#: billing/views.py:293
+#: billing/views.py:335
 msgid "Your subscription has expired."
 msgstr "Votre abonnement a expiré."
 
-#: billing/views.py:299
+#: billing/views.py:341
 msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
 msgstr "Votre abonnement en cours est toujours actif. Si vous rencontrez des problèmes de paiement, veuillez nous contacter !"
 
-#: billing/views.py:303
+#: billing/views.py:345
 msgid "You are already subscribed!"
 msgstr "Vous êtes déjà abonné !"
 
-#: billing/views.py:309 billing/views.py:451 billing/views.py:518
+#: billing/views.py:351 billing/views.py:493 billing/views.py:560
 msgid "You already have an active or a pending subscription."
 msgstr "Vous avez déjà un abonnement actif ou en attente de validation."
 
-#: billing/views.py:352
+#: billing/views.py:394
 msgid "Could not process subscription."
 msgstr "Nous n'avons pas pu procéder à l'abonnement."
 
-#: billing/views.py:369
+#: billing/views.py:411
 msgid "Your card declined the charge. Please contact your bank for information."
 msgstr "Votre carte a refusé le paiement. Veuillez contacter votre banque pour avoir des informations."
 
-#: billing/views.py:371
+#: billing/views.py:413
 msgid "Your card does not support payments in USD. Please try a different card."
 msgstr "Votre carte n'accepte pas les paiements en dollars. Veuillez essayer une carte différente."
 
-#: billing/views.py:373
+#: billing/views.py:415
 msgid "Your card has exceeded its credit limit. Please use a different one."
 msgstr "Votre carte a dépassé sa limite de crédit. Veuillez en utiliser une autre."
 
-#: billing/views.py:375
+#: billing/views.py:417
 msgid "Your card has insufficient funds to proceed."
 msgstr "Votre carte ne dispose pas de fonds suffisants pour procéder au paiement."
 
-#: billing/views.py:379
+#: billing/views.py:421
 msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
 msgstr "Votre carte a été refusée, vous n'avez pas été débité. Veuillez essayer une autre carte ; contactez-nous si le problème persiste."
 
-#: billing/views.py:410
+#: billing/views.py:452
 msgid "You are now subscribed!"
 msgstr "Vous êtes désormais abonné(e) !"
 
-#: billing/views.py:419
+#: billing/views.py:461
 msgid " Please contact us if you are seeing this in error."
 msgstr " Veuillez nous contacter si vous pensez que ce que vous voyez est une erreur."
 
-#: billing/views.py:440
+#: billing/views.py:482
 msgid "Unable to complete subscription."
 msgstr "Impossible de finaliser l’abonnement."
 
-#: billing/views.py:445
+#: billing/views.py:487
 msgid "Invalid subscription token."
 msgstr "Code d'authentification invalide."
 
-#: billing/views.py:448
+#: billing/views.py:490
 msgid "You are not logged in as the correct user."
 msgstr "Vous n’êtes pas connecté sur le même compte qu'avant : nom d'utilisateur incorrect."
 
-#: billing/views.py:470
+#: billing/views.py:512
 msgid "Subscription was canceled by PayPal."
 msgstr "L'abonnement a été annulé par PayPal."
 
-#: billing/views.py:478
+#: billing/views.py:520
 msgid "You are now subscribed with PayPal!"
 msgstr "Vous êtes maintenant abonné avec PayPal !"
 
-#: billing/views.py:499
+#: billing/views.py:541
 msgid "Invalid token while cancelling payment."
 msgstr "Identification invalide à l'annulation du paiement."
 
-#: billing/views.py:504
+#: billing/views.py:546
 msgid "Payment has already completed and cannot be canceled."
 msgstr "Le paiement a déjà été effectué et ne peut être annulé."
 
-#: billing/views.py:508
+#: billing/views.py:550
 msgid "Your payment was interrupted."
 msgstr "Votre paiement a été interrompu."
 
-#: billing/views.py:522
+#: billing/views.py:564
 msgid "Could not determine your plan."
 msgstr "Une erreur s'est produite avec votre plan."
 
-#: billing/views.py:527
+#: billing/views.py:569
 msgid "Invalid Paypal plan."
 msgstr "Plan Paypal invalide."
 
@@ -533,39 +533,43 @@ msgstr "Champs de bataille"
 msgid "Tier7"
 msgstr "Tier7"
 
-#: templates/footer.html:70
+#: templates/footer.html:67
+msgid "Mercenaries"
+msgstr ""
+
+#: templates/footer.html:71
 msgid "Support"
 msgstr "Assistance"
 
-#: templates/footer.html:72
+#: templates/footer.html:73
 msgid "Your Account"
 msgstr "Votre compte"
 
-#: templates/footer.html:84
+#: templates/footer.html:85
 msgid "Help Center"
 msgstr "Centre d'aide"
 
-#: templates/footer.html:86
+#: templates/footer.html:87
 msgid "Contact Us"
 msgstr "Contactez-nous"
 
-#: templates/footer.html:91
+#: templates/footer.html:92
 msgid "Legal"
 msgstr "Mentions légales"
 
-#: templates/footer.html:94
+#: templates/footer.html:95
 msgid "Terms of Service"
 msgstr "Conditions d’utilisation"
 
-#: templates/footer.html:97
+#: templates/footer.html:98
 msgid "Privacy Policy"
 msgstr "Confidentialité"
 
-#: templates/footer.html:105
+#: templates/footer.html:106
 msgid "About Us"
 msgstr "À propos"
 
-#: templates/footer.html:108
+#: templates/footer.html:109
 msgid "Careers"
 msgstr ""
 
@@ -1011,28 +1015,32 @@ msgstr "Decks populaires"
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "Trouvez les decks qui gagnent en popularité pour chaque classe, mis à jour quotidiennement."
 
-#: web/views/mercenaries.py:81 web/views/mercenaries.py:101
+#: web/views/mercenaries.py:74 web/views/mercenaries.py:94
 msgid "Mercenaries Collection"
 msgstr ""
 
-#: web/views/mercenaries.py:115
+#: web/views/mercenaries.py:108
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
 msgstr ""
 
-#: web/views/mercenaries.py:128
+#: web/views/mercenaries.py:146
 msgid "Mercenaries Home"
 msgstr ""
 
-#: web/views/mercenaries.py:150
+#: web/views/mercenaries.py:152
+msgid "Get all the information you need to win at Hearthstone Mercenaries with our Mercenaries stats and collection tracking. See top mercenaries tier lists and parties."
+msgstr ""
+
+#: web/views/mercenaries.py:173
 msgid "Mercenaries Coming Soon"
 msgstr ""
 
-#: web/views/mercenaries.py:160
+#: web/views/mercenaries.py:193
 msgid "Mercenaries Parties"
 msgstr ""
 
-#: web/views/mercenaries.py:170
+#: web/views/mercenaries.py:203
 msgid "Mercenaries Tier List"
 msgstr ""
 
