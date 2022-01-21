@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-20 01:40+0000\n"
-"PO-Revision-Date: 2022-01-20 12:40\n"
+"POT-Creation-Date: 2022-01-21 01:40+0000\n"
+"PO-Revision-Date: 2022-01-21 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -511,12 +511,13 @@ msgstr ""
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Blizzard Entertainmentとは提携しておりません。"
 
-#: templates/footer.html:63 templates/navigation.html:219
+#: templates/footer.html:63 templates/navigation.html:105
+#: templates/navigation.html:171 templates/navigation.html:231
 msgid "Downloads"
 msgstr "ダウンロード"
 
-#: templates/footer.html:64 templates/navigation.html:208
-#: templates/navigation.html:211
+#: templates/footer.html:64 templates/navigation.html:220
+#: templates/navigation.html:223
 msgid "Premium"
 msgstr "Premium"
 
@@ -596,55 +597,55 @@ msgstr ""
 msgid "Parties"
 msgstr ""
 
-#: templates/navigation.html:110
+#: templates/navigation.html:116
 msgid "Heroes"
 msgstr "ヒーロー"
 
-#: templates/navigation.html:122
+#: templates/navigation.html:128
 msgid "Darkmoon Prizes"
 msgstr ""
 
-#: templates/navigation.html:133
+#: templates/navigation.html:139
 msgid "Minions"
 msgstr "ミニオン"
 
-#: templates/navigation.html:143
+#: templates/navigation.html:149
 msgid "Compositions"
 msgstr "構成"
 
-#: templates/navigation.html:157 templates/navigation.html:209
+#: templates/navigation.html:163 templates/navigation.html:221
 msgid "SALE!"
 msgstr ""
 
-#: templates/navigation.html:166
+#: templates/navigation.html:178
 msgid "Articles"
 msgstr "記事"
 
-#: templates/navigation.html:172
+#: templates/navigation.html:184
 msgid "Trending"
 msgstr "トレンド"
 
-#: templates/navigation.html:180 templates/navigation.html:186
+#: templates/navigation.html:192 templates/navigation.html:198
 msgid "Meta"
 msgstr "メタ"
 
-#: templates/navigation.html:181
+#: templates/navigation.html:193
 msgid "Back soon!"
 msgstr ""
 
-#: templates/navigation.html:193
+#: templates/navigation.html:205
 msgid "Decks"
 msgstr "デッキ"
 
-#: templates/navigation.html:199
+#: templates/navigation.html:211
 msgid "Cards"
 msgstr "カード"
 
-#: templates/navigation.html:241
+#: templates/navigation.html:253
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
-#: templates/navigation.html:247
+#: templates/navigation.html:259
 msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
 msgstr ""
 
@@ -815,19 +816,19 @@ msgstr ""
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr ""
 
-#: web/views/__init__.py:185
+#: web/views/__init__.py:188
 msgid "Contact our Support Team"
 msgstr ""
 
-#: web/views/__init__.py:187
+#: web/views/__init__.py:190
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr ""
 
-#: web/views/__init__.py:245
+#: web/views/__init__.py:248
 msgid "Welcome to HSReplay.net"
 msgstr ""
 
-#: web/views/__init__.py:247
+#: web/views/__init__.py:250
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr ""
 
