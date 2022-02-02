@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-21 01:40+0000\n"
-"PO-Revision-Date: 2022-01-27 12:40\n"
+"PO-Revision-Date: 2022-02-02 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -537,7 +537,7 @@ msgstr "Tier7"
 
 #: templates/footer.html:67
 msgid "Mercenaries"
-msgstr ""
+msgstr "Mercenarios"
 
 #: templates/footer.html:71
 msgid "Support"
@@ -573,7 +573,7 @@ msgstr "Sobre nosotros"
 
 #: templates/footer.html:109
 msgid "Careers"
-msgstr ""
+msgstr "Carreras"
 
 #: templates/games/replay_detail.html:33
 msgid "Replay not available"
@@ -593,7 +593,7 @@ msgstr "Hearthstone"
 
 #: templates/navigation.html:72
 msgid "Home"
-msgstr ""
+msgstr "Inicio"
 
 #: templates/navigation.html:85
 msgid "Tier List"
@@ -609,7 +609,7 @@ msgstr "Héroes"
 
 #: templates/navigation.html:128
 msgid "Darkmoon Prizes"
-msgstr ""
+msgstr "Premios de la Luna Negra"
 
 #: templates/navigation.html:139
 msgid "Minions"
@@ -1028,7 +1028,7 @@ msgstr ""
 
 #: web/views/mercenaries.py:146
 msgid "Mercenaries Home"
-msgstr ""
+msgstr "Inicio de Mercenarios"
 
 #: web/views/mercenaries.py:152
 msgid "Get all the information you need to win at Hearthstone Mercenaries with our Mercenaries stats and collection tracking. See top mercenaries tier lists and parties."

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-01-21 01:40+0000\n"
-"PO-Revision-Date: 2022-01-27 12:40\n"
+"PO-Revision-Date: 2022-02-02 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -19,7 +19,7 @@ msgstr ""
 
 #: api/exceptions.py:8
 msgid "An upstream gateway returned an invalid response."
-msgstr ""
+msgstr "無效的回應。"
 
 #: api/exceptions.py:14
 msgid "The entity cannot be processed."
@@ -48,7 +48,7 @@ msgstr ""
 #: api/fields.py:9
 #, python-brace-format
 msgid "{input} is not a valid member of {enum}."
-msgstr ""
+msgstr "{input}不是{enum}的有效分類。"
 
 #: api/views/features.py:33
 msgid "Code has already been used."
@@ -60,19 +60,19 @@ msgstr "這個代碼無法使用於這個帳戶"
 
 #: api/views/features.py:37
 msgid "Code has not been activated yet."
-msgstr ""
+msgstr "金鑰尚未使用。"
 
 #: api/views/features.py:46
 msgid "Code is invalid or has expired."
-msgstr ""
+msgstr "此金鑰不存在或已過期。"
 
 #: api/views/features.py:50
 msgid "Code did not affect this account and remains valid."
-msgstr ""
+msgstr "金鑰啟用失敗，但可以在其他帳戶使用。"
 
 #: api/views/features.py:52
 msgid "Code has been applied to your account."
-msgstr ""
+msgstr "金鑰啟用成功。"
 
 #: billing/views.py:273
 msgid "Error adding payment card"
@@ -104,7 +104,7 @@ msgstr "您已訂閱!"
 
 #: billing/views.py:351 billing/views.py:493 billing/views.py:560
 msgid "You already have an active or a pending subscription."
-msgstr ""
+msgstr "你已經開通會員，或有一個待支付的訂閱。"
 
 #: billing/views.py:394
 msgid "Could not process subscription."
@@ -164,7 +164,7 @@ msgstr "在取消付款時發生了錯誤。"
 
 #: billing/views.py:546
 msgid "Payment has already completed and cannot be canceled."
-msgstr ""
+msgstr "已完成付款且不得取消。"
 
 #: billing/views.py:550
 msgid "Your payment was interrupted."
@@ -229,7 +229,7 @@ msgstr "帳戶未啟動"
 #: templates/account/account_inactive.html:10
 #, python-format
 msgid "This account is inactive or has been banned. Please <a href=\"%(contact_url)s\">contact us</a> if this is in error."
-msgstr ""
+msgstr "該帳號進行禁止活動或已被封鎖。如果你有疑問，請到<a href=\"%(contact_url)s\">聯絡我們</a>。"
 
 #: templates/account/api.html:7
 msgid "Authentication Tokens"
@@ -274,7 +274,7 @@ msgstr "連接"
 
 #: templates/account/base.html:19 web/views/dashboard.py:282
 msgid "Applications"
-msgstr ""
+msgstr "應用程式授權"
 
 #: templates/account/base.html:23 templates/account/login.html:80
 #: templates/account/signup.html:33
@@ -447,7 +447,7 @@ msgstr "重設密碼"
 #: templates/account/password_reset.html:26
 #, python-format
 msgid "Need help? <a href=\"%(contact_url)s\">Contact us</a>."
-msgstr ""
+msgstr "需要幫助？到<a href=\"%(contact_url)s\">聯繫我們</a>。"
 
 #: templates/account/signup.html:8 templates/account/signup.html:39
 #: templates/socialaccount/signup.html:12
@@ -486,11 +486,11 @@ msgstr "我們已經寄給妳Email認證信，請點擊連結來完成註冊手�
 #: templates/account/verification_sent.html:15
 #, python-format
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
-msgstr ""
+msgstr "如果幾分鐘後仍沒收到電子郵件，請到<a href=\"%(contact_url)s\">聯繫我們</a>。"
 
 #: templates/base.html:109
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
-msgstr ""
+msgstr "Xsolla是HSReplay.net授權的全球經銷商"
 
 #: templates/footer.html:8
 msgid "Back to top"
@@ -498,7 +498,7 @@ msgstr "返回頂部"
 
 #: templates/footer.html:19
 msgid "Social Media"
-msgstr ""
+msgstr "社群媒體"
 
 #: templates/footer.html:25
 msgid "Join our Discord server"
@@ -514,11 +514,11 @@ msgstr "到 Facebook 給我們按讚"
 
 #: templates/footer.html:43
 msgid "Follow us on Instagram"
-msgstr ""
+msgstr "在Instagram上關注我們"
 
 #: templates/footer.html:55
 msgid "Not affiliated with Blizzard Entertainment."
-msgstr ""
+msgstr "與暴雪娛樂沒有任何關係。"
 
 #: templates/footer.html:63 templates/navigation.html:105
 #: templates/navigation.html:171 templates/navigation.html:231
@@ -532,7 +532,7 @@ msgstr "尊榮會員"
 
 #: templates/footer.html:65 templates/navigation.html:55
 msgid "Battlegrounds"
-msgstr ""
+msgstr "英雄戰場"
 
 #: templates/footer.html:66
 msgid "Tier7"
@@ -540,7 +540,7 @@ msgstr "Tier7"
 
 #: templates/footer.html:67
 msgid "Mercenaries"
-msgstr ""
+msgstr "傭兵戰隊"
 
 #: templates/footer.html:71
 msgid "Support"
@@ -576,7 +576,7 @@ msgstr "關於我們"
 
 #: templates/footer.html:109
 msgid "Careers"
-msgstr ""
+msgstr "徵才"
 
 #: templates/games/replay_detail.html:33
 msgid "Replay not available"
@@ -592,19 +592,19 @@ msgstr "開啟/關閉導航工具列"
 
 #: templates/navigation.html:43
 msgid "Hearthstone"
-msgstr ""
+msgstr "爐石戰記"
 
 #: templates/navigation.html:72
 msgid "Home"
-msgstr ""
+msgstr "首頁"
 
 #: templates/navigation.html:85
 msgid "Tier List"
-msgstr ""
+msgstr "強度列表"
 
 #: templates/navigation.html:98
 msgid "Parties"
-msgstr ""
+msgstr "隊伍"
 
 #: templates/navigation.html:116
 msgid "Heroes"
@@ -612,7 +612,7 @@ msgstr "英雄"
 
 #: templates/navigation.html:128
 msgid "Darkmoon Prizes"
-msgstr ""
+msgstr "暗月獎品"
 
 #: templates/navigation.html:139
 msgid "Minions"
@@ -652,20 +652,20 @@ msgstr "卡牌"
 
 #: templates/navigation.html:253
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
-msgstr ""
+msgstr "我們正在依英雄戰場最新更新更改此頁面。你可能會暫時看到過時的東西。"
 
 #: templates/navigation.html:259
 msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
-msgstr ""
+msgstr "從9月1日起，過去6個月內未被瀏覽過的遊戲回放將被永久刪除。如果你想保留某些回放，請在8月31日前點開過至少一次。"
 
 #: templates/oauth2_provider/authorize.html:12
 msgid "Some error happened during authorization."
-msgstr ""
+msgstr "授權過程中發生了些問題。"
 
 #: templates/oauth2_provider/authorize.html:16
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help."
-msgstr ""
+msgstr "如果需要幫助，請到<a href=\"%(contact_url)s\">聯繫我們</a>。"
 
 #: templates/oauth2_provider/authorize.html:19
 msgid "Permission request"
@@ -682,11 +682,11 @@ msgstr "驗證錯誤"
 #: templates/socialaccount/authentication_error.html:11
 #, python-format
 msgid "We could not authenticate you with %(name)s.<br/>"
-msgstr ""
+msgstr "我們無法驗證你 %(name)s。<br/>"
 
 #: templates/socialaccount/authentication_error.html:17
 msgid "This could be because you did something unusual during your login, or the provider rejected your account."
-msgstr ""
+msgstr "這可能是你在登錄時有異常操作，或供應商拒絕了。"
 
 #: templates/socialaccount/authentication_error.html:22
 #, python-format
@@ -728,11 +728,11 @@ msgstr "您目前沒有連接到此帳戶的社交網絡帳戶。"
 
 #: templates/socialaccount/signup.html:17
 msgid "The Blizzard account you are signing up with does not have a confirmed battletag yet, and cannot play Hearthstone."
-msgstr ""
+msgstr "登入的暴雪帳號無效，尚不能遊玩爐石戰記。"
 
 #: templates/socialaccount/signup.html:18
 msgid "Please <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">visit Blizzard.com</a> and sign out to choose a different account."
-msgstr ""
+msgstr "請到<a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">訪問Blizzard.com</a>然後登出並選擇另一個帳號。"
 
 #: templates/socialaccount/signup.html:22
 #, python-format
