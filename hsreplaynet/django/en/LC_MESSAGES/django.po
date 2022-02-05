@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-04 01:40+0000\n"
+"POT-Creation-Date: 2022-02-05 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1106,26 +1106,22 @@ msgstr ""
 msgid "{user}'s Mercenaries Collection"
 msgstr ""
 
-#: web/views/mercenaries.py:146
+#: web/views/mercenaries.py:139
 msgid "Mercenaries Home"
 msgstr ""
 
-#: web/views/mercenaries.py:152
+#: web/views/mercenaries.py:145
 msgid ""
 "Get all the information you need to win at Hearthstone Mercenaries with our "
 "Mercenaries stats and collection tracking. See top mercenaries tier lists "
 "and parties."
 msgstr ""
 
-#: web/views/mercenaries.py:173
-msgid "Mercenaries Coming Soon"
-msgstr ""
-
-#: web/views/mercenaries.py:193
+#: web/views/mercenaries.py:156
 msgid "Mercenaries Parties"
 msgstr ""
 
-#: web/views/mercenaries.py:203
+#: web/views/mercenaries.py:166
 msgid "Mercenaries Tier List"
 msgstr ""
 
