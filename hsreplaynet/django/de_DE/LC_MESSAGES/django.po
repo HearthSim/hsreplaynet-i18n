@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-01-21 01:40+0000\n"
-"PO-Revision-Date: 2022-02-04 12:40\n"
+"POT-Creation-Date: 2022-02-05 01:40+0000\n"
+"PO-Revision-Date: 2022-02-05 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1025,23 +1025,19 @@ msgstr "Söldner-Sammlung"
 msgid "{user}'s Mercenaries Collection"
 msgstr "{user}'s Söldner-Sammlung"
 
-#: web/views/mercenaries.py:146
+#: web/views/mercenaries.py:139
 msgid "Mercenaries Home"
 msgstr "Söldner Start"
 
-#: web/views/mercenaries.py:152
+#: web/views/mercenaries.py:145
 msgid "Get all the information you need to win at Hearthstone Mercenaries with our Mercenaries stats and collection tracking. See top mercenaries tier lists and parties."
 msgstr ""
 
-#: web/views/mercenaries.py:173
-msgid "Mercenaries Coming Soon"
-msgstr ""
-
-#: web/views/mercenaries.py:193
+#: web/views/mercenaries.py:156
 msgid "Mercenaries Parties"
 msgstr "Söldner-Gruppen"
 
-#: web/views/mercenaries.py:203
+#: web/views/mercenaries.py:166
 msgid "Mercenaries Tier List"
 msgstr ""
 
