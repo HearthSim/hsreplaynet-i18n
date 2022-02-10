@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-09 01:40+0000\n"
+"POT-Creation-Date: 2022-02-10 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -279,7 +279,7 @@ msgstr ""
 msgid "Account"
 msgstr ""
 
-#: templates/account/base.html:16 web/views/allauth.py:19
+#: templates/account/base.html:16 web/views/allauth.py:21
 msgid "Emails"
 msgstr ""
 
@@ -287,7 +287,7 @@ msgstr ""
 msgid "Billing"
 msgstr ""
 
-#: templates/account/base.html:18 web/views/allauth.py:13
+#: templates/account/base.html:18 web/views/allauth.py:14
 msgid "Connections"
 msgstr ""
 
