@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-08 01:40+0000\n"
-"PO-Revision-Date: 2022-02-08 12:40\n"
+"POT-Creation-Date: 2022-02-10 01:40+0000\n"
+"PO-Revision-Date: 2022-02-10 12:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -264,7 +264,7 @@ msgstr "Créé le"
 msgid "Account"
 msgstr "Compte"
 
-#: templates/account/base.html:16 web/views/allauth.py:19
+#: templates/account/base.html:16 web/views/allauth.py:21
 msgid "Emails"
 msgstr "Emails"
 
@@ -272,7 +272,7 @@ msgstr "Emails"
 msgid "Billing"
 msgstr "Facturation"
 
-#: templates/account/base.html:18 web/views/allauth.py:13
+#: templates/account/base.html:18 web/views/allauth.py:14
 msgid "Connections"
 msgstr "Connexions"
 
