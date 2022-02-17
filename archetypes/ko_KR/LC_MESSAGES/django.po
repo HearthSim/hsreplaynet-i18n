@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-12-29T01:40:35.972289\n"
+"POT-Creation-Date: 2022-02-17T01:40:38.638529\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2022-02-12 12:40\n"
+"PO-Revision-Date: 2022-02-17 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -129,10 +129,6 @@ msgstr "노미 사제"
 msgid "Highlander Priest"
 msgstr "하이랜더 사제"
 
-#: https://hsreplay.net/archetypes/130/dragon-priest
-msgid "Dragon Priest"
-msgstr "용 사제"
-
 #: https://hsreplay.net/archetypes/13/cthun-druid
 msgid "C'Thun Druid"
 msgstr "크툰 드루이드"
@@ -148,6 +144,10 @@ msgstr "침묵 사제"
 #: https://hsreplay.net/archetypes/135/discard-warlock
 msgid "Discard Warlock"
 msgstr "버리기 흑마법사"
+
+#: https://hsreplay.net/archetypes/130/dragon-priest
+msgid "Dragon Priest"
+msgstr "용 사제"
 
 #: https://hsreplay.net/archetypes/136/highlander-warlock
 msgid "Highlander Warlock"
