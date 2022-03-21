@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-02-24T01:40:37.890071\n"
+"POT-Creation-Date: 2022-03-21T01:40:37.379316\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2022-03-21 00:40\n"
+"PO-Revision-Date: 2022-03-21 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1317,10 +1317,6 @@ msgstr "野火法"
 msgid "Hero Tower Mage"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/15/secret-paladin
-msgid "Secret Paladin"
-msgstr "秘密聖"
-
 #: https://hsreplay.net/archetypes/443/spell-priest
 msgid "Spell Priest"
 msgstr "法術牧"
@@ -1596,4 +1592,16 @@ msgstr ""
 #: https://hsreplay.net/archetypes/516/agony-warlock
 msgid "Agony Warlock"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/517/weapon-demon-hunter
+msgid "Weapon Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/518/amulet-mage
+msgid "Amulet Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/15/secret-paladin
+msgid "Secret Paladin"
+msgstr "秘密聖"
 
