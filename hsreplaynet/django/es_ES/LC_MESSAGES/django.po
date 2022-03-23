@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-18 01:40+0000\n"
-"PO-Revision-Date: 2022-03-22 12:40\n"
+"POT-Creation-Date: 2022-03-23 01:40+0000\n"
+"PO-Revision-Date: 2022-03-23 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -891,27 +891,27 @@ msgstr ""
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:169
+#: web/views/battlegrounds.py:181
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:175 web/views/battlegrounds.py:206
+#: web/views/battlegrounds.py:187 web/views/battlegrounds.py:218
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:193
+#: web/views/battlegrounds.py:205
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:238
+#: web/views/battlegrounds.py:250
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:244 web/views/battlegrounds.py:267
+#: web/views/battlegrounds.py:256 web/views/battlegrounds.py:279
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:262
+#: web/views/battlegrounds.py:274
 msgid "No matching composition found."
 msgstr ""
 
