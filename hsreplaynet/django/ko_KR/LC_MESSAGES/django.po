@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-02 01:40+0000\n"
-"PO-Revision-Date: 2022-04-06 12:40\n"
+"POT-Creation-Date: 2022-04-07 01:40+0000\n"
+"PO-Revision-Date: 2022-04-07 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -78,109 +78,101 @@ msgstr "코드는 이 계정에는 영향을 미치지 않았고 아직 유효�
 msgid "Code has been applied to your account."
 msgstr "코드가 귀하의 계정에 적용 되었습니다."
 
-#: billing/views.py:273
+#: billing/views.py:272
 msgid "Error adding payment card"
 msgstr "카드 추가 중 오류가 발생했습니다"
 
-#: billing/views.py:277
+#: billing/views.py:276
 msgid "Your card was declined. Please use a different card."
 msgstr "결제가 거절되었습니다. 다른 카드를 이용해주세요."
 
-#: billing/views.py:293
+#: billing/views.py:292
 msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
 msgstr "다른 계정과 연결되어있는 이메일이네요. 두 계정을 합칠 수 있습니다!"
 
-#: billing/views.py:321
+#: billing/views.py:320
 msgid "You have multiple subscriptions. Please contact us."
 msgstr "2개 이상의 구독이 활성화되어있습니다. 문의 바랍니다."
 
-#: billing/views.py:335
+#: billing/views.py:334
 msgid "Your subscription has expired."
 msgstr "구독이 만료되었습니다."
 
-#: billing/views.py:341
+#: billing/views.py:340
 msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
 msgstr "아직 구독이 활성화되어있습니다. 결제 관련 문제가 있다면 문의 바랍니다."
 
-#: billing/views.py:345
+#: billing/views.py:344
 msgid "You are already subscribed!"
 msgstr "이미 구독하셨습니다!"
 
-#: billing/views.py:351 billing/views.py:493 billing/views.py:560
+#: billing/views.py:350 billing/views.py:492
 msgid "You already have an active or a pending subscription."
 msgstr "이미 사용 중이거나 승인 대기 중인 구독이 있습니다."
 
-#: billing/views.py:394
+#: billing/views.py:393
 msgid "Could not process subscription."
 msgstr "구독을 진행할 수 없습니다."
 
-#: billing/views.py:411
+#: billing/views.py:410
 msgid "Your card declined the charge. Please contact your bank for information."
 msgstr "결제가 거절되었습니다. 은행에 문의 바랍니다."
 
-#: billing/views.py:413
+#: billing/views.py:412
 msgid "Your card does not support payments in USD. Please try a different card."
 msgstr "USD(미국 달러) 결제를 지원하지 않는 카드입니다. 다른 카드를 이용해주세요."
 
-#: billing/views.py:415
+#: billing/views.py:414
 msgid "Your card has exceeded its credit limit. Please use a different one."
 msgstr "한도를 초과한 카드입니다. 다른 카드를 이용해주세요."
 
-#: billing/views.py:417
+#: billing/views.py:416
 msgid "Your card has insufficient funds to proceed."
 msgstr "잔액이 부족한 카드입니다."
 
-#: billing/views.py:421
+#: billing/views.py:420
 msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
 msgstr "결제가 거절되었습니다. 아직 출금이 되지 않았습니다. 다른 카드를 이용해주세요; 만약 이 증상이 계속된다면 문의바랍니다."
 
-#: billing/views.py:452
+#: billing/views.py:451
 msgid "You are now subscribed!"
 msgstr "이제 구독 되었습니다!"
 
-#: billing/views.py:461
+#: billing/views.py:460
 msgid " Please contact us if you are seeing this in error."
 msgstr " 이 메시지를 보신다면 문의바랍니다."
 
-#: billing/views.py:482
+#: billing/views.py:481
 msgid "Unable to complete subscription."
 msgstr "구독을 완료할 수 없습니다."
 
-#: billing/views.py:487
+#: billing/views.py:486
 msgid "Invalid subscription token."
 msgstr "유효하지 않은 구독 토큰입니다."
 
-#: billing/views.py:490
+#: billing/views.py:489
 msgid "You are not logged in as the correct user."
 msgstr "올바른 유저로 로그인 하지 않았습니다."
 
-#: billing/views.py:512
+#: billing/views.py:511
 msgid "Subscription was canceled by PayPal."
 msgstr ""
 
-#: billing/views.py:520
+#: billing/views.py:519
 msgid "You are now subscribed with PayPal!"
 msgstr "페이팔로 구독했습니다!"
 
-#: billing/views.py:541
+#: billing/views.py:540
 msgid "Invalid token while cancelling payment."
 msgstr "구독 취소 중 유효하지 않은 토큰"
 
-#: billing/views.py:546
+#: billing/views.py:545
 msgid "Payment has already completed and cannot be canceled."
 msgstr ""
 
-#: billing/views.py:550
+#: billing/views.py:549
 msgid "Your payment was interrupted."
 msgstr "결제가 중단되었습니다."
-
-#: billing/views.py:564
-msgid "Could not determine your plan."
-msgstr ""
-
-#: billing/views.py:569
-msgid "Invalid Paypal plan."
-msgstr "유효하지 않은 페이팔 플랜입니다."
 
 #: settings.py:359
 msgid "Full access to your HSReplay.net account"

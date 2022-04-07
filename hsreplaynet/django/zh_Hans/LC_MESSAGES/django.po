@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-02 01:40+0000\n"
-"PO-Revision-Date: 2022-04-06 12:40\n"
+"POT-Creation-Date: 2022-04-07 01:40+0000\n"
+"PO-Revision-Date: 2022-04-07 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -78,109 +78,101 @@ msgstr "激活码使用失败，激活码依旧可用于其他账号。"
 msgid "Code has been applied to your account."
 msgstr "激活码使用成功。"
 
-#: billing/views.py:273
+#: billing/views.py:272
 msgid "Error adding payment card"
 msgstr "添加支付卡错误"
 
-#: billing/views.py:277
+#: billing/views.py:276
 msgid "Your card was declined. Please use a different card."
 msgstr "您的支付卡遭到拒绝。请用另一张卡。"
 
-#: billing/views.py:293
+#: billing/views.py:292
 msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
 msgstr "那个邮箱地址已经与其他账户绑定。如果您想要合并账户，请联系我们！"
 
-#: billing/views.py:321
+#: billing/views.py:320
 msgid "You have multiple subscriptions. Please contact us."
 msgstr "您有多次重复的订购。请联系我们。"
 
-#: billing/views.py:335
+#: billing/views.py:334
 msgid "Your subscription has expired."
 msgstr "您的会员订购已经过期了。"
 
-#: billing/views.py:341
+#: billing/views.py:340
 msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
 msgstr "您的当前订购仍然有效。如果您有支付问题，请联系我们！"
 
-#: billing/views.py:345
+#: billing/views.py:344
 msgid "You are already subscribed!"
 msgstr "您已经订购了付费会员！"
 
-#: billing/views.py:351 billing/views.py:493 billing/views.py:560
+#: billing/views.py:350 billing/views.py:492
 msgid "You already have an active or a pending subscription."
 msgstr "您已经开通会员了，或者拥有一个待支付的订阅。"
 
-#: billing/views.py:394
+#: billing/views.py:393
 msgid "Could not process subscription."
 msgstr "无法处理订单。"
 
-#: billing/views.py:411
+#: billing/views.py:410
 msgid "Your card declined the charge. Please contact your bank for information."
 msgstr "您的支付卡拒绝付款。请联系您的银行了解详情。"
 
-#: billing/views.py:413
+#: billing/views.py:412
 msgid "Your card does not support payments in USD. Please try a different card."
 msgstr "您的支付卡不支持用美元支付。请用另一张卡。"
 
-#: billing/views.py:415
+#: billing/views.py:414
 msgid "Your card has exceeded its credit limit. Please use a different one."
 msgstr "您的支付卡超出了信用额度。请用另一张卡。"
 
-#: billing/views.py:417
+#: billing/views.py:416
 msgid "Your card has insufficient funds to proceed."
 msgstr "您的支付卡没有足够余额继续操作。"
 
-#: billing/views.py:421
+#: billing/views.py:420
 msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
 msgstr "您的支付卡遭到拒绝，您可能仍未被收费。请用另一张卡；如果这种情况仍然存在，请联系我们。"
 
-#: billing/views.py:452
+#: billing/views.py:451
 msgid "You are now subscribed!"
 msgstr "您已经是付费会员了！"
 
-#: billing/views.py:461
+#: billing/views.py:460
 msgid " Please contact us if you are seeing this in error."
 msgstr " 如果您看见这条信息，请联系我们。"
 
-#: billing/views.py:482
+#: billing/views.py:481
 msgid "Unable to complete subscription."
 msgstr "无法完成订购。"
 
-#: billing/views.py:487
+#: billing/views.py:486
 msgid "Invalid subscription token."
 msgstr "无效的订购秘钥。"
 
-#: billing/views.py:490
+#: billing/views.py:489
 msgid "You are not logged in as the correct user."
 msgstr "您没有作为正确的用户登录。"
 
-#: billing/views.py:512
+#: billing/views.py:511
 msgid "Subscription was canceled by PayPal."
 msgstr "您的会员订阅已被PayPal取消。"
 
-#: billing/views.py:520
+#: billing/views.py:519
 msgid "You are now subscribed with PayPal!"
 msgstr "您已用PayPal成功订购！"
 
-#: billing/views.py:541
+#: billing/views.py:540
 msgid "Invalid token while cancelling payment."
 msgstr "取消支付的秘钥无效。"
 
-#: billing/views.py:546
+#: billing/views.py:545
 msgid "Payment has already completed and cannot be canceled."
 msgstr "付款已经完成，不能取消。"
 
-#: billing/views.py:550
+#: billing/views.py:549
 msgid "Your payment was interrupted."
 msgstr "您的支付被终止。"
-
-#: billing/views.py:564
-msgid "Could not determine your plan."
-msgstr "无法确定您的套餐状态。"
-
-#: billing/views.py:569
-msgid "Invalid Paypal plan."
-msgstr "无效PayPal套餐。"
 
 #: settings.py:359
 msgid "Full access to your HSReplay.net account"
