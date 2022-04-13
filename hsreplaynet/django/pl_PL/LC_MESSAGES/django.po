@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-07 01:40+0000\n"
-"PO-Revision-Date: 2022-04-08 12:40\n"
+"POT-Creation-Date: 2022-04-12 17:26+0000\n"
+"PO-Revision-Date: 2022-04-13 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -834,31 +834,31 @@ msgstr ""
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr ""
 
-#: web/views/archetypes.py:22
+#: web/views/archetypes.py:24
 msgid "Hearthstone Meta"
 msgstr "Meta Hearthstone"
 
-#: web/views/archetypes.py:24
+#: web/views/archetypes.py:26
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr "Poznaj metę Hearthstone i dowiedz się, jak różne archetypy się do niej dostosowują."
 
-#: web/views/archetypes.py:33
+#: web/views/archetypes.py:43
 msgid "Discover"
 msgstr "Odkryj"
 
-#: web/views/archetypes.py:35
+#: web/views/archetypes.py:45
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr "Zaangażuj się w to, co nadchodzi w Hearthstone. Odkrywaj najnowsze i najlepsze archetypy oraz talie i wszystko co na topie."
 
-#: web/views/archetypes.py:48
+#: web/views/archetypes.py:58
 msgid "Archetype"
 msgstr "Archetyp"
 
-#: web/views/archetypes.py:53
+#: web/views/archetypes.py:63
 msgid "This archetype is no longer available."
 msgstr "Ten archetyp nie jest już dostępny."
 
-#: web/views/archetypes.py:59
+#: web/views/archetypes.py:69
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr "Znajdź statystyki i inne {name} listy talii."

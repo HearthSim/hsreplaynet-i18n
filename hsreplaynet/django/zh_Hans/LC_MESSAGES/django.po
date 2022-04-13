@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-07 01:40+0000\n"
-"PO-Revision-Date: 2022-04-08 12:40\n"
+"POT-Creation-Date: 2022-04-12 17:26+0000\n"
+"PO-Revision-Date: 2022-04-13 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -838,31 +838,31 @@ msgstr "欢迎使用 HSReplay.net"
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr "学习如何开始使用 HSReplay.net 以及你可以用它来做些什么。"
 
-#: web/views/archetypes.py:22
+#: web/views/archetypes.py:24
 msgid "Hearthstone Meta"
 msgstr "炉石环境"
 
-#: web/views/archetypes.py:24
+#: web/views/archetypes.py:26
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr "探索炉石对局环境，搜索各个卡组的优劣对抗。"
 
-#: web/views/archetypes.py:33
+#: web/views/archetypes.py:43
 msgid "Discover"
 msgstr "探索"
 
-#: web/views/archetypes.py:35
+#: web/views/archetypes.py:45
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr "迎接炉石即将到来的新环境，搜索最新卡组与后起之秀。"
 
-#: web/views/archetypes.py:48
+#: web/views/archetypes.py:58
 msgid "Archetype"
 msgstr "构筑"
 
-#: web/views/archetypes.py:53
+#: web/views/archetypes.py:63
 msgid "This archetype is no longer available."
 msgstr "此卡组已不再可用。"
 
-#: web/views/archetypes.py:59
+#: web/views/archetypes.py:69
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr "查找统计信息和不同的 {name} 套牌。"
