@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-12 17:26+0000\n"
-"PO-Revision-Date: 2022-04-13 12:40\n"
+"POT-Creation-Date: 2022-04-14 01:40+0000\n"
+"PO-Revision-Date: 2022-04-14 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -842,23 +842,23 @@ msgstr "Hearthstone Meta"
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr "Esplora il meta del gioco e scopri come abbinare le tipologie di mazzi."
 
-#: web/views/archetypes.py:43
+#: web/views/archetypes.py:46
 msgid "Discover"
 msgstr "Scopri"
 
-#: web/views/archetypes.py:45
+#: web/views/archetypes.py:48
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr "Scopri gli archetipi dell'attuale meta e di quelli futuri."
 
-#: web/views/archetypes.py:58
+#: web/views/archetypes.py:61
 msgid "Archetype"
 msgstr "Tipologia di mazzi"
 
-#: web/views/archetypes.py:63
+#: web/views/archetypes.py:66
 msgid "This archetype is no longer available."
 msgstr "Questo tipologia di mazzo non è più disponibile."
 
-#: web/views/archetypes.py:69
+#: web/views/archetypes.py:72
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr "Trova statistiche e diverse {name} liste di mazzi."

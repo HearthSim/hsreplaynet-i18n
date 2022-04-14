@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-03-21T01:40:37.379316\n"
+"POT-Creation-Date: 2022-04-14T01:40:38.451003\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-04-13 12:40\n"
+"PO-Revision-Date: 2022-04-14 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -53,10 +53,6 @@ msgstr "野兽德"
 msgid "Anacondra Druid"
 msgstr "安娜德"
 
-#: https://hsreplay.net/archetypes/31/dragon-paladin
-msgid "Dragon Paladin"
-msgstr "龙骑"
-
 #: https://hsreplay.net/archetypes/36/control-priest
 msgid "Control Priest"
 msgstr "控制牧"
@@ -85,10 +81,6 @@ msgstr "元素骑"
 msgid "Elemental Warrior"
 msgstr "元素战"
 
-#: https://hsreplay.net/archetypes/314/highlander-quest-priest
-msgid "Highlander Quest Priest"
-msgstr "宇宙任务牧"
-
 #: https://hsreplay.net/archetypes/60/jade-shaman
 msgid "Jade Shaman"
 msgstr "青玉萨"
@@ -101,17 +93,13 @@ msgstr "快攻猎"
 msgid "Grime Street Hunter"
 msgstr "污手猎"
 
-#: https://hsreplay.net/archetypes/146/highlander-mage
-msgid "Highlander Mage"
-msgstr "宇宙法"
+#: https://hsreplay.net/archetypes/31/dragon-paladin
+msgid "Dragon Paladin"
+msgstr "龙骑"
 
 #: https://hsreplay.net/archetypes/143/nzoth-mage
 msgid "N'Zoth Mage"
 msgstr "恩佐斯法"
-
-#: https://hsreplay.net/archetypes/154/pirate-rogue
-msgid "Pirate Rogue"
-msgstr "海盗贼"
 
 #: https://hsreplay.net/archetypes/61/elemental-shaman
 msgid "Elemental Shaman"
@@ -136,10 +124,6 @@ msgstr "克苏恩德"
 #: https://hsreplay.net/archetypes/176/breakfast-priest
 msgid "Breakfast Priest"
 msgstr "心火蛋牧"
-
-#: https://hsreplay.net/archetypes/131/silence-priest
-msgid "Silence Priest"
-msgstr "沉默心火牧"
 
 #: https://hsreplay.net/archetypes/135/discard-warlock
 msgid "Discard Warlock"
@@ -381,6 +365,14 @@ msgstr "换家德"
 msgid "Even Mage"
 msgstr "偶数法"
 
+#: https://hsreplay.net/archetypes/146/highlander-mage
+msgid "Highlander Mage"
+msgstr "宇宙法"
+
+#: https://hsreplay.net/archetypes/131/silence-priest
+msgid "Silence Priest"
+msgstr "沉默心火牧"
+
 #: https://hsreplay.net/archetypes/144/control-mage
 msgid "Control Mage"
 msgstr "控制法"
@@ -388,6 +380,10 @@ msgstr "控制法"
 #: https://hsreplay.net/archetypes/457/midrange-demon-hunter
 msgid "Midrange Demon Hunter"
 msgstr "中速瞎"
+
+#: https://hsreplay.net/archetypes/154/pirate-rogue
+msgid "Pirate Rogue"
+msgstr "海盗贼"
 
 #: https://hsreplay.net/archetypes/315/malygos-quest-druid
 msgid "Malygos Quest Druid"
@@ -781,10 +777,6 @@ msgstr "大盗骑"
 msgid "Mech Zoo Warlock"
 msgstr "机械园"
 
-#: https://hsreplay.net/archetypes/316/highlander-warrior
-msgid "Highlander Warrior"
-msgstr "宇宙战"
-
 #: https://hsreplay.net/archetypes/300/mech-priest
 msgid "Mech Priest"
 msgstr "机械牧"
@@ -808,10 +800,6 @@ msgstr "污手战"
 #: https://hsreplay.net/archetypes/514/quest-fel-demon-hunter
 msgid "Quest Fel Demon Hunter"
 msgstr "任务邪能瞎"
-
-#: https://hsreplay.net/archetypes/304/highlander-paladin
-msgid "Highlander Paladin"
-msgstr "宇宙骑"
 
 #: https://hsreplay.net/archetypes/305/highlander-quest-druid
 msgid "Highlander Quest Druid"
@@ -860,10 +848,6 @@ msgstr "火妖法"
 #: https://hsreplay.net/archetypes/323/secret-highlander-paladin
 msgid "Secret Highlander Paladin"
 msgstr "奥秘宇宙骑"
-
-#: https://hsreplay.net/archetypes/324/highlander-rogue
-msgid "Highlander Rogue"
-msgstr "宇宙贼"
 
 #: https://hsreplay.net/archetypes/331/highlander-big-spell-mage
 msgid "Highlander Big Spell Mage"
@@ -980,10 +964,6 @@ msgstr "巨化德"
 #: https://hsreplay.net/archetypes/355/face-hunter
 msgid "Face Hunter"
 msgstr "T7猎"
-
-#: https://hsreplay.net/archetypes/360/highlander-shaman
-msgid "Highlander Shaman"
-msgstr "宇宙萨"
 
 #: https://hsreplay.net/archetypes/361/wall-druid
 msgid "Wall Druid"
@@ -1173,10 +1153,6 @@ msgstr "恩佐斯骑"
 msgid "No Minion Mage"
 msgstr "法术法"
 
-#: https://hsreplay.net/archetypes/291/big-warrior
-msgid "Big Warrior"
-msgstr "大哥战"
-
 #: https://hsreplay.net/archetypes/428/ramp-paladin
 msgid "Ramp Paladin"
 msgstr "跳费骑"
@@ -1205,6 +1181,22 @@ msgstr "疲劳术"
 msgid "Thief Rogue"
 msgstr "剽窃贼"
 
+#: https://hsreplay.net/archetypes/324/highlander-rogue
+msgid "Highlander Rogue"
+msgstr "宇宙贼"
+
+#: https://hsreplay.net/archetypes/360/highlander-shaman
+msgid "Highlander Shaman"
+msgstr "宇宙萨"
+
+#: https://hsreplay.net/archetypes/316/highlander-warrior
+msgid "Highlander Warrior"
+msgstr "宇宙战"
+
+#: https://hsreplay.net/archetypes/291/big-warrior
+msgid "Big Warrior"
+msgstr "大哥战"
+
 #: https://hsreplay.net/archetypes/486/quest-miracle-mage
 msgid "Quest Miracle Mage"
 msgstr "加基森任务法"
@@ -1212,10 +1204,6 @@ msgstr "加基森任务法"
 #: https://hsreplay.net/archetypes/202/evolve-shaman
 msgid "Evolve Shaman"
 msgstr "进化萨"
-
-#: https://hsreplay.net/archetypes/418/mill-warlock
-msgid "Mill Warlock"
-msgstr "快乐术"
 
 #: https://hsreplay.net/archetypes/63/control-warlock
 msgid "Control Warlock"
@@ -1232,10 +1220,6 @@ msgstr "奥秘T7猎"
 #: https://hsreplay.net/archetypes/423/cthun-mage
 msgid "C'thun Mage"
 msgstr "克苏恩法"
-
-#: https://hsreplay.net/archetypes/353/highlander-druid
-msgid "Highlander Druid"
-msgstr "宇宙德"
 
 #: https://hsreplay.net/archetypes/426/whirlkick-rogue
 msgid "Whirlkick Rogue"
@@ -1604,4 +1588,32 @@ msgstr "龙火法"
 #: https://hsreplay.net/archetypes/15/secret-paladin
 msgid "Secret Paladin"
 msgstr "奥秘骑"
+
+#: https://hsreplay.net/archetypes/353/highlander-druid
+msgid "Highlander Druid"
+msgstr "宇宙德"
+
+#: https://hsreplay.net/archetypes/304/highlander-paladin
+msgid "Highlander Paladin"
+msgstr "宇宙骑"
+
+#: https://hsreplay.net/archetypes/314/highlander-quest-priest
+msgid "Highlander Quest Priest"
+msgstr "宇宙任务牧"
+
+#: https://hsreplay.net/archetypes/519/rainbow-shaman
+msgid "Rainbow Shaman"
+msgstr "多系萨"
+
+#: https://hsreplay.net/archetypes/520/pirahna-shaman
+msgid "Pirahna Shaman"
+msgstr "超生萨"
+
+#: https://hsreplay.net/archetypes/521/curse-warlock
+msgid "Curse Warlock"
+msgstr "诅咒术"
+
+#: https://hsreplay.net/archetypes/418/mill-warlock
+msgid "Mill Warlock"
+msgstr "快乐术"
 

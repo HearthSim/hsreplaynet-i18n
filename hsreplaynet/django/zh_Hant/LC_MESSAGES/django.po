@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-12 17:26+0000\n"
-"PO-Revision-Date: 2022-04-13 12:40\n"
+"POT-Creation-Date: 2022-04-14 01:40+0000\n"
+"PO-Revision-Date: 2022-04-14 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -845,23 +845,23 @@ msgstr "爐石傳說天梯生態"
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr "探索爐石傳說天梯生態，並了解各套牌類型的對戰大小。"
 
-#: web/views/archetypes.py:43
+#: web/views/archetypes.py:46
 msgid "Discover"
 msgstr "探索"
 
-#: web/views/archetypes.py:45
+#: web/views/archetypes.py:48
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr "參與並發現最新以及未來的套牌類型。"
 
-#: web/views/archetypes.py:58
+#: web/views/archetypes.py:61
 msgid "Archetype"
 msgstr "套牌類型"
 
-#: web/views/archetypes.py:63
+#: web/views/archetypes.py:66
 msgid "This archetype is no longer available."
 msgstr "這個套牌類型已不存在。"
 
-#: web/views/archetypes.py:69
+#: web/views/archetypes.py:72
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr ""
