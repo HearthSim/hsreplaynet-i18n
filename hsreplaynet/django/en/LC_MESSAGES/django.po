@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-13 01:40+0000\n"
+"POT-Creation-Date: 2022-04-14 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -912,25 +912,25 @@ msgid ""
 "Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr ""
 
-#: web/views/archetypes.py:43
+#: web/views/archetypes.py:46
 msgid "Discover"
 msgstr ""
 
-#: web/views/archetypes.py:45
+#: web/views/archetypes.py:48
 msgid ""
 "Engage with the up-and-coming Hearthstone meta game to discover the newest "
 "archetypes and what's next."
 msgstr ""
 
-#: web/views/archetypes.py:58
+#: web/views/archetypes.py:61
 msgid "Archetype"
 msgstr ""
 
-#: web/views/archetypes.py:63
+#: web/views/archetypes.py:66
 msgid "This archetype is no longer available."
 msgstr ""
 
-#: web/views/archetypes.py:69
+#: web/views/archetypes.py:72
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr ""
