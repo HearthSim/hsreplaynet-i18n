@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-14T01:40:38.451003\n"
+"POT-Creation-Date: 2022-04-17T01:40:37.844789\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2022-04-15 00:40\n"
+"PO-Revision-Date: 2022-04-17 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -100,6 +100,10 @@ msgstr "용 성기사"
 #: https://hsreplay.net/archetypes/143/nzoth-mage
 msgid "N'Zoth Mage"
 msgstr "느조스 마법사"
+
+#: https://hsreplay.net/archetypes/302/highlander-hunter
+msgid "Highlander Hunter"
+msgstr "하이랜더 사냥꾼"
 
 #: https://hsreplay.net/archetypes/61/elemental-shaman
 msgid "Elemental Shaman"
@@ -192,10 +196,6 @@ msgstr "멀록 주술사"
 #: https://hsreplay.net/archetypes/491/quest-stealer-warlock
 msgid "Quest Stealer Warlock"
 msgstr ""
-
-#: https://hsreplay.net/archetypes/302/highlander-hunter
-msgid "Highlander Hunter"
-msgstr "하이랜더 사냥꾼"
 
 #: https://hsreplay.net/archetypes/170/beast-hunter
 msgid "Beast Hunter"
@@ -1615,5 +1615,29 @@ msgstr "저주 흑마법사"
 
 #: https://hsreplay.net/archetypes/418/mill-warlock
 msgid "Mill Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/522/naga-demon-hunter
+msgid "Naga Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/523/quest-stheno-demon-hunter
+msgid "Quest S'theno Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/524/amulet-mech-mage
+msgid "Amulet Mech Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/525/switcheroo-priest
+msgid "Switcheroo Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/526/shellfish-priest
+msgid "Shellfish Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/527/mine-warlock
+msgid "Mine Warlock"
 msgstr ""
 

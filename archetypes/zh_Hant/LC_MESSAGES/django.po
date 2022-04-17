@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-14T01:40:38.451003\n"
+"POT-Creation-Date: 2022-04-17T01:40:37.844789\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2022-04-14 12:40\n"
+"PO-Revision-Date: 2022-04-17 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -100,6 +100,10 @@ msgstr "龍聖"
 #: https://hsreplay.net/archetypes/143/nzoth-mage
 msgid "N'Zoth Mage"
 msgstr "恩若斯法"
+
+#: https://hsreplay.net/archetypes/302/highlander-hunter
+msgid "Highlander Hunter"
+msgstr "無雙獵"
 
 #: https://hsreplay.net/archetypes/61/elemental-shaman
 msgid "Elemental Shaman"
@@ -192,10 +196,6 @@ msgstr "魚人薩"
 #: https://hsreplay.net/archetypes/491/quest-stealer-warlock
 msgid "Quest Stealer Warlock"
 msgstr ""
-
-#: https://hsreplay.net/archetypes/302/highlander-hunter
-msgid "Highlander Hunter"
-msgstr "無雙獵"
 
 #: https://hsreplay.net/archetypes/170/beast-hunter
 msgid "Beast Hunter"
@@ -799,7 +799,7 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/514/quest-fel-demon-hunter
 msgid "Quest Fel Demon Hunter"
-msgstr ""
+msgstr "任務魔化DH"
 
 #: https://hsreplay.net/archetypes/305/highlander-quest-druid
 msgid "Highlander Quest Druid"
@@ -1327,7 +1327,7 @@ msgstr "毒藥賊"
 
 #: https://hsreplay.net/archetypes/449/nature-shaman
 msgid "Nature Shaman"
-msgstr ""
+msgstr "自然薩"
 
 #: https://hsreplay.net/archetypes/450/neeru-warlock
 msgid "Neeru Warlock"
@@ -1571,7 +1571,7 @@ msgstr "打臉元素薩"
 
 #: https://hsreplay.net/archetypes/515/drekthar-hunter
 msgid "Drek'Thar Hunter"
-msgstr ""
+msgstr "德雷克塔爾獵"
 
 #: https://hsreplay.net/archetypes/516/agony-warlock
 msgid "Agony Warlock"
@@ -1579,11 +1579,11 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/517/weapon-demon-hunter
 msgid "Weapon Demon Hunter"
-msgstr ""
+msgstr "武器DH"
 
 #: https://hsreplay.net/archetypes/518/amulet-mage
 msgid "Amulet Mage"
-msgstr ""
+msgstr "護符法"
 
 #: https://hsreplay.net/archetypes/15/secret-paladin
 msgid "Secret Paladin"
@@ -1603,17 +1603,41 @@ msgstr "無雙任務牧"
 
 #: https://hsreplay.net/archetypes/519/rainbow-shaman
 msgid "Rainbow Shaman"
-msgstr ""
+msgstr "戰吼薩"
 
 #: https://hsreplay.net/archetypes/520/pirahna-shaman
 msgid "Pirahna Shaman"
-msgstr ""
+msgstr "食人魚薩"
 
 #: https://hsreplay.net/archetypes/521/curse-warlock
 msgid "Curse Warlock"
-msgstr ""
+msgstr "詛咒術"
 
 #: https://hsreplay.net/archetypes/418/mill-warlock
 msgid "Mill Warlock"
 msgstr "磨牌術"
+
+#: https://hsreplay.net/archetypes/522/naga-demon-hunter
+msgid "Naga Demon Hunter"
+msgstr "納迦DH"
+
+#: https://hsreplay.net/archetypes/523/quest-stheno-demon-hunter
+msgid "Quest S'theno Demon Hunter"
+msgstr "絲瑟諾任務DH"
+
+#: https://hsreplay.net/archetypes/524/amulet-mech-mage
+msgid "Amulet Mech Mage"
+msgstr "護符機械法"
+
+#: https://hsreplay.net/archetypes/525/switcheroo-priest
+msgid "Switcheroo Priest"
+msgstr "對調牧"
+
+#: https://hsreplay.net/archetypes/526/shellfish-priest
+msgid "Shellfish Priest"
+msgstr "自私蛤牧"
+
+#: https://hsreplay.net/archetypes/527/mine-warlock
+msgid "Mine Warlock"
+msgstr "水雷術"
 
