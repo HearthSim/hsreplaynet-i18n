@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-26 01:40+0000\n"
+"POT-Creation-Date: 2022-04-26 21:47+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -947,7 +947,7 @@ msgstr ""
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr ""
 
-#: web/views/battlegrounds.py:118 web/views/battlegrounds.py:149
+#: web/views/battlegrounds.py:118 web/views/battlegrounds.py:144
 msgid "Battlegrounds Hero"
 msgstr ""
 
@@ -955,31 +955,31 @@ msgstr ""
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:183
+#: web/views/battlegrounds.py:178
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:189 web/views/battlegrounds.py:220
+#: web/views/battlegrounds.py:184 web/views/battlegrounds.py:210
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:207
+#: web/views/battlegrounds.py:202
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:252
+#: web/views/battlegrounds.py:242
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:258 web/views/battlegrounds.py:281
+#: web/views/battlegrounds.py:248 web/views/battlegrounds.py:271
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:276
+#: web/views/battlegrounds.py:266
 msgid "No matching composition found."
 msgstr ""
 
-#: web/views/cards.py:24 web/views/cards.py:108
+#: web/views/cards.py:24 web/views/cards.py:107
 msgid "Hearthstone Card Statistics"
 msgstr ""
 
@@ -993,11 +993,11 @@ msgstr ""
 msgid "No card found matching the query."
 msgstr ""
 
-#: web/views/cards.py:118
+#: web/views/cards.py:117
 msgid "Statistics and decks!"
 msgstr ""
 
-#: web/views/cards.py:144
+#: web/views/cards.py:143
 msgid "Hearthstone Card Editor"
 msgstr ""
 
