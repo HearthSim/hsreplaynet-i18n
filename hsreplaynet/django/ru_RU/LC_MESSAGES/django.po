@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-26 21:47+0000\n"
-"PO-Revision-Date: 2022-04-27 00:40\n"
+"POT-Creation-Date: 2022-04-28 01:40+0000\n"
+"PO-Revision-Date: 2022-04-28 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -867,47 +867,55 @@ msgstr "Этот Архетип больше не доступен."
 msgid "Find stats and different {name} decklists."
 msgstr "Просматривайте статистику и другие колоды архетипа {name}."
 
-#: web/views/battlegrounds.py:96
+#: web/views/battlegrounds.py:87
+msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
+msgstr ""
+
+#: web/views/battlegrounds.py:100
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr "HSReplay.net Тир7 для Полей сражений"
 
-#: web/views/battlegrounds.py:101
+#: web/views/battlegrounds.py:105
 msgid "Battlegrounds Heroes"
 msgstr "Герои Полей сражений"
 
-#: web/views/battlegrounds.py:112
+#: web/views/battlegrounds.py:107
+msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
+msgstr ""
+
+#: web/views/battlegrounds.py:120
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr ""
 
-#: web/views/battlegrounds.py:118 web/views/battlegrounds.py:144
+#: web/views/battlegrounds.py:126 web/views/battlegrounds.py:152
 msgid "Battlegrounds Hero"
 msgstr "Герой Полей сражений"
 
-#: web/views/battlegrounds.py:136
+#: web/views/battlegrounds.py:144
 msgid "No matching hero found."
 msgstr "Подходящих героев не найдено."
 
-#: web/views/battlegrounds.py:178
+#: web/views/battlegrounds.py:186
 msgid "Battlegrounds Minions"
 msgstr "Существа Полей сражений"
 
-#: web/views/battlegrounds.py:184 web/views/battlegrounds.py:210
+#: web/views/battlegrounds.py:192 web/views/battlegrounds.py:218
 msgid "Battlegrounds Minion"
 msgstr "Существо Полей сражений"
 
-#: web/views/battlegrounds.py:202
+#: web/views/battlegrounds.py:210
 msgid "No matching minion found."
 msgstr "Подходящих существ не найдено."
 
-#: web/views/battlegrounds.py:242
+#: web/views/battlegrounds.py:250
 msgid "Battlegrounds Compositions"
 msgstr "Составы Полей сражений"
 
-#: web/views/battlegrounds.py:248 web/views/battlegrounds.py:271
+#: web/views/battlegrounds.py:256 web/views/battlegrounds.py:279
 msgid "Battlegrounds Composition"
 msgstr "Состав Полей сражений"
 
-#: web/views/battlegrounds.py:266
+#: web/views/battlegrounds.py:274
 msgid "No matching composition found."
 msgstr "Подходящий состав не найден."
 
