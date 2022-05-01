@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-28 01:40+0000\n"
-"PO-Revision-Date: 2022-04-30 12:40\n"
+"POT-Creation-Date: 2022-05-01 01:40+0000\n"
+"PO-Revision-Date: 2022-05-01 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -639,7 +639,7 @@ msgstr "Torneremo presto!"
 msgid "Decks"
 msgstr "Mazzi"
 
-#: templates/navigation.html:211
+#: templates/navigation.html:211 web/views/cards.py:139
 msgid "Cards"
 msgstr "Carte"
 
@@ -834,34 +834,38 @@ msgstr "Benvenuto a HSReplay.net"
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr "Impara come iniziare con HSReplay.net e cosa puoi fare con esso."
 
-#: web/views/archetypes.py:24
+#: web/views/archetypes.py:30
 msgid "Hearthstone Meta"
 msgstr "Hearthstone Meta"
 
-#: web/views/archetypes.py:26
+#: web/views/archetypes.py:32
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr "Esplora il meta del gioco e scopri come abbinare le tipologie di mazzi."
 
-#: web/views/archetypes.py:47
+#: web/views/archetypes.py:53
 msgid "Discover"
 msgstr "Scopri"
 
-#: web/views/archetypes.py:49
+#: web/views/archetypes.py:55
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr "Scopri gli archetipi dell'attuale meta e di quelli futuri."
 
-#: web/views/archetypes.py:63
+#: web/views/archetypes.py:69
 msgid "Archetype"
 msgstr "Tipologia di mazzi"
 
-#: web/views/archetypes.py:68
+#: web/views/archetypes.py:74
 msgid "This archetype is no longer available."
 msgstr "Questo tipologia di mazzo non è più disponibile."
 
-#: web/views/archetypes.py:74
+#: web/views/archetypes.py:82
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr "Trova statistiche e diverse {name} liste di mazzi."
+
+#: web/views/archetypes.py:109
+msgid "Archetypes"
+msgstr ""
 
 #: web/views/battlegrounds.py:87
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
@@ -915,23 +919,23 @@ msgstr "Composizione Battleground"
 msgid "No matching composition found."
 msgstr "Nessuna composizione corrispondente trovata."
 
-#: web/views/cards.py:24 web/views/cards.py:107
+#: web/views/cards.py:28 web/views/cards.py:111
 msgid "Hearthstone Card Statistics"
 msgstr "Statistiche delle carte di Heartstone"
 
-#: web/views/cards.py:26
+#: web/views/cards.py:30
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
 msgstr "Confronta le statistiche di tutte le carte collezionabili di Hearthstone. Trova le carte che vengono giocate di più o che hanno il tasso di vittoria più alto."
 
-#: web/views/cards.py:97
+#: web/views/cards.py:101
 msgid "No card found matching the query."
 msgstr "Nessuna carta trovata corrispondente alla richiesta."
 
-#: web/views/cards.py:117
+#: web/views/cards.py:121
 msgid "Statistics and decks!"
 msgstr "Statistiche e mazzi!"
 
-#: web/views/cards.py:143
+#: web/views/cards.py:177
 msgid "Hearthstone Card Editor"
 msgstr "Editor di Carte Hearthstone"
 

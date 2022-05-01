@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-04-28 01:40+0000\n"
-"PO-Revision-Date: 2022-04-30 12:40\n"
+"POT-Creation-Date: 2022-05-01 01:40+0000\n"
+"PO-Revision-Date: 2022-05-01 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -639,7 +639,7 @@ msgstr ""
 msgid "Decks"
 msgstr "덱"
 
-#: templates/navigation.html:211
+#: templates/navigation.html:211 web/views/cards.py:139
 msgid "Cards"
 msgstr "카드목록"
 
@@ -834,33 +834,37 @@ msgstr ""
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr ""
 
-#: web/views/archetypes.py:24
+#: web/views/archetypes.py:30
 msgid "Hearthstone Meta"
 msgstr "하스스톤 메타"
 
-#: web/views/archetypes.py:26
+#: web/views/archetypes.py:32
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr ""
 
-#: web/views/archetypes.py:47
+#: web/views/archetypes.py:53
 msgid "Discover"
 msgstr "발견하기"
 
-#: web/views/archetypes.py:49
+#: web/views/archetypes.py:55
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr ""
 
-#: web/views/archetypes.py:63
+#: web/views/archetypes.py:69
 msgid "Archetype"
 msgstr "아키타입"
 
-#: web/views/archetypes.py:68
+#: web/views/archetypes.py:74
 msgid "This archetype is no longer available."
 msgstr "이 아키타입은 더 이상 유효하지 않습니다."
 
-#: web/views/archetypes.py:74
+#: web/views/archetypes.py:82
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
+msgstr ""
+
+#: web/views/archetypes.py:109
+msgid "Archetypes"
 msgstr ""
 
 #: web/views/battlegrounds.py:87
@@ -915,23 +919,23 @@ msgstr ""
 msgid "No matching composition found."
 msgstr ""
 
-#: web/views/cards.py:24 web/views/cards.py:107
+#: web/views/cards.py:28 web/views/cards.py:111
 msgid "Hearthstone Card Statistics"
 msgstr "하스스톤 카드 통계"
 
-#: web/views/cards.py:26
+#: web/views/cards.py:30
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
 msgstr "수집 가능한 모든 하스스톤 카드 통계를 비교합니다. 가장 승률이 높은 카드와 가장 많이 플레이한 카드를 찾아보세요."
 
-#: web/views/cards.py:97
+#: web/views/cards.py:101
 msgid "No card found matching the query."
 msgstr "해당 카드가 없습니다."
 
-#: web/views/cards.py:117
+#: web/views/cards.py:121
 msgid "Statistics and decks!"
 msgstr "통계와 덱!"
 
-#: web/views/cards.py:143
+#: web/views/cards.py:177
 msgid "Hearthstone Card Editor"
 msgstr "하스스톤 카드 에디터"
 
