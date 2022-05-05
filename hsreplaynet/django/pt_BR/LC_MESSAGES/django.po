@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-04 01:40+0000\n"
-"PO-Revision-Date: 2022-05-04 12:40\n"
+"POT-Creation-Date: 2022-05-05 01:40+0000\n"
+"PO-Revision-Date: 2022-05-05 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -603,7 +603,7 @@ msgid "Parties"
 msgstr ""
 
 #: templates/navigation.html:116 web/views/battlegrounds.py:123
-#: web/views/battlegrounds.py:187
+#: web/views/battlegrounds.py:191
 msgid "Heroes"
 msgstr ""
 
@@ -868,7 +868,7 @@ msgstr "Esse arquétipo não está mais disponível."
 msgid "Find stats and different {name} decklists."
 msgstr "Encontre estatísticas e diferentes decks de {name}."
 
-#: web/views/archetypes.py:112
+#: web/views/archetypes.py:113
 msgid "Archetypes"
 msgstr ""
 
@@ -900,27 +900,27 @@ msgstr ""
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:237
+#: web/views/battlegrounds.py:241
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:243 web/views/battlegrounds.py:269
+#: web/views/battlegrounds.py:247 web/views/battlegrounds.py:273
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:261
+#: web/views/battlegrounds.py:265
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:301
+#: web/views/battlegrounds.py:305
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:307 web/views/battlegrounds.py:330
+#: web/views/battlegrounds.py:311 web/views/battlegrounds.py:334
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:325
+#: web/views/battlegrounds.py:329
 msgid "No matching composition found."
 msgstr ""
 
@@ -1026,15 +1026,15 @@ msgstr ""
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "{name} estatísticas e lista do deck. Importar: {deckstring}"
 
-#: web/views/decks.py:130
+#: web/views/decks.py:127
 msgid "Trending Hearthstone Decks"
 msgstr "Decks de Hearthstone populares"
 
-#: web/views/decks.py:132
+#: web/views/decks.py:129
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "Encontre os decks com maior popularidade em Hearthstone para cada classe, atualizada todos os dias."
 
-#: web/views/decks.py:138
+#: web/views/decks.py:135
 msgid "Trending Decks"
 msgstr ""
 
