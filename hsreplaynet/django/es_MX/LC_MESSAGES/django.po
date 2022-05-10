@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-05 01:40+0000\n"
-"PO-Revision-Date: 2022-05-09 12:40\n"
+"POT-Creation-Date: 2022-05-10 01:40+0000\n"
+"PO-Revision-Date: 2022-05-10 12:41\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -515,7 +515,7 @@ msgstr "No estámos afiliados a Blizzard Entertainment."
 
 #: templates/footer.html:63 templates/navigation.html:105
 #: templates/navigation.html:171 templates/navigation.html:231
-#: web/views/__init__.py:168
+#: web/views/__init__.py:172
 msgid "Downloads"
 msgstr "Descargas"
 
@@ -811,31 +811,31 @@ msgstr "Mira y comparte repeticiones de Heartstone directamente desde tu navegad
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - Libera tu potencial"
 
-#: web/views/__init__.py:156 web/views/battlegrounds.py:71
+#: web/views/__init__.py:160 web/views/battlegrounds.py:71
 msgid "Download Hearthstone Deck Tracker"
 msgstr "Descargar Hearthstone Deck Tracker"
 
-#: web/views/__init__.py:158 web/views/battlegrounds.py:73
+#: web/views/__init__.py:162 web/views/battlegrounds.py:73
 msgid "HSReplay.net Companion App"
 msgstr "Aplicación HSReplay.net"
 
-#: web/views/__init__.py:160 web/views/battlegrounds.py:75
+#: web/views/__init__.py:164 web/views/battlegrounds.py:75
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "Hearthstone Deck Tracker es una aplicación gratuita que te ayuda a jugar como los profesionales."
 
-#: web/views/__init__.py:193
+#: web/views/__init__.py:197
 msgid "Contact our Support Team"
 msgstr "Contacta con nuestro Equipo de Soporte"
 
-#: web/views/__init__.py:195
+#: web/views/__init__.py:199
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr "Contactar con el Equipo de Soporte de HSReplay.net."
 
-#: web/views/__init__.py:253
+#: web/views/__init__.py:257
 msgid "Welcome to HSReplay.net"
 msgstr "Bienvenido a HSReplay.net"
 
-#: web/views/__init__.py:255
+#: web/views/__init__.py:259
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr ""
 
