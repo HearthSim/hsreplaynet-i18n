@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-10 01:40+0000\n"
-"PO-Revision-Date: 2022-05-14 00:40\n"
+"POT-Creation-Date: 2022-05-15 01:40+0000\n"
+"PO-Revision-Date: 2022-05-15 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -106,115 +106,115 @@ msgstr "您的訂閱依然有效中。如果您對帳務有任何問題，請聯
 msgid "You are already subscribed!"
 msgstr "您已訂閱!"
 
-#: billing/views.py:350 billing/views.py:492
+#: billing/views.py:350 billing/views.py:484
 msgid "You already have an active or a pending subscription."
 msgstr "你已經開通會員，或有一個待支付的訂閱。"
 
-#: billing/views.py:393
+#: billing/views.py:385
 msgid "Could not process subscription."
 msgstr "無法處理訂閱。"
 
-#: billing/views.py:410
+#: billing/views.py:402
 msgid "Your card declined the charge. Please contact your bank for information."
 msgstr "您的卡片拒絕付款。請聯繫你的銀行以了解更多資訊。"
 
-#: billing/views.py:412
+#: billing/views.py:404
 msgid "Your card does not support payments in USD. Please try a different card."
 msgstr "您的卡片不支援美金計價付款。請試用其他卡片。"
 
-#: billing/views.py:414
+#: billing/views.py:406
 msgid "Your card has exceeded its credit limit. Please use a different one."
 msgstr "您的卡片已經超額。請試用其他卡片。"
 
-#: billing/views.py:416
+#: billing/views.py:408
 msgid "Your card has insufficient funds to proceed."
 msgstr "您的卡片沒有足夠餘額。"
 
-#: billing/views.py:420
+#: billing/views.py:412
 msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
 msgstr "您的卡片被拒絕了。您並沒有被扣款。請嘗試其他卡片。如果這持續發生，請聯絡我們。"
 
-#: billing/views.py:451
+#: billing/views.py:443
 msgid "You are now subscribed!"
 msgstr "您已訂閱!"
 
-#: billing/views.py:460
+#: billing/views.py:452
 msgid " Please contact us if you are seeing this in error."
 msgstr " 如果您收到此錯誤資訊, 請與我們聯繫。"
 
-#: billing/views.py:481
+#: billing/views.py:473
 msgid "Unable to complete subscription."
 msgstr "無法完成訂閱。"
 
-#: billing/views.py:486
+#: billing/views.py:478
 msgid "Invalid subscription token."
 msgstr "訂閱TOKEN無效。"
 
-#: billing/views.py:489
+#: billing/views.py:481
 msgid "You are not logged in as the correct user."
 msgstr "您沒有作為正確的使用者登錄。"
 
-#: billing/views.py:511
+#: billing/views.py:503
 msgid "Subscription was canceled by PayPal."
 msgstr "訂閱遭到 PayPal取消。"
 
-#: billing/views.py:519
+#: billing/views.py:511
 msgid "You are now subscribed with PayPal!"
 msgstr "你已用Paypal訂閱!"
 
-#: billing/views.py:540
+#: billing/views.py:532
 msgid "Invalid token while cancelling payment."
 msgstr "在取消付款時發生了錯誤。"
 
-#: billing/views.py:545
+#: billing/views.py:537
 msgid "Payment has already completed and cannot be canceled."
 msgstr "已完成付款且不得取消。"
 
-#: billing/views.py:549
+#: billing/views.py:541
 msgid "Your payment was interrupted."
 msgstr "你的付款中斷了。"
 
-#: settings.py:363
+#: settings.py:362
 msgid "Full access to your HSReplay.net account"
 msgstr "完全存取你的HSReplay.net帳戶"
 
-#: settings.py:364
+#: settings.py:363
 msgid "Access information about your connected social accounts"
 msgstr "存取您的社交帳戶資訊"
 
-#: settings.py:365
+#: settings.py:364
 msgid "View your Hearthstone card collection"
 msgstr "檢視你的爐石卡片收藏"
 
-#: settings.py:366
+#: settings.py:365
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "上傳你的爐石卡片收藏到網站"
 
-#: settings.py:367
+#: settings.py:366
 msgid "View your replays"
 msgstr "檢視你的重播"
 
-#: settings.py:368
+#: settings.py:367
 msgid "Update and delete your replays"
 msgstr "上傳和刪除你的重播"
 
-#: settings.py:369
+#: settings.py:368
 msgid "Access the Partner API"
 msgstr "存取夥伴API"
 
-#: settings.py:370
+#: settings.py:369
 msgid "Read access to the tournaments service"
 msgstr "存取賽事服務權限"
 
-#: settings.py:371
+#: settings.py:370
 msgid "Write access to the tournaments service"
 msgstr "寫入賽事服務權限"
 
-#: settings.py:372
+#: settings.py:371
 msgid "View your webhooks"
 msgstr "查看你的Webhooks"
 
-#: settings.py:373
+#: settings.py:372
 msgid "Create and delete webhooks on your behalf"
 msgstr "代表您創建和刪除 Webhooks"
 
