@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-05-10T23:08:20.578637\n"
+"POT-Creation-Date: 2022-05-20T21:29:10.577360\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2022-05-16 12:40\n"
+"PO-Revision-Date: 2022-05-21 00:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1213,6 +1213,10 @@ msgstr ""
 msgid "Evolve Shaman"
 msgstr "진화 주술사"
 
+#: https://hsreplay.net/archetypes/530/naga-priest
+msgid "Naga Priest"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/63/control-warlock
 msgid "Control Warlock"
 msgstr "컨트롤 흑마법사"
@@ -1648,4 +1652,12 @@ msgstr "조개 사제"
 #: https://hsreplay.net/archetypes/527/mine-warlock
 msgid "Mine Warlock"
 msgstr "기뢰 흑마법사"
+
+#: https://hsreplay.net/archetypes/531/piranha-shaman
+msgid "Piranha Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/532/weapon-warrior
+msgid "Weapon Warrior"
+msgstr ""
 
