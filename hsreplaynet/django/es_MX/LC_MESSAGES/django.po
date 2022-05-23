@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-05-15 01:40+0000\n"
-"PO-Revision-Date: 2022-05-21 00:40\n"
+"PO-Revision-Date: 2022-05-23 12:41\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -35,7 +35,7 @@ msgstr "La carta ha sido rechazada."
 
 #: api/exceptions.py:31
 msgid "You need to authenticate to view this collection."
-msgstr ""
+msgstr "Necesitas autenticarte para ver esta colección."
 
 #: api/exceptions.py:36
 msgid "You do not have permission to view this collection."
@@ -654,7 +654,7 @@ msgstr "Actualmente estamos actualizando esta sección para el último parche de
 
 #: templates/navigation.html:262
 msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
-msgstr ""
+msgstr "A partir del 1 de septiembre, las repeticiones que no hayan sido vistas en los últimos 6 meses serán eliminadas permanentemente del sitio web. Si desea mantener una repetición específica, por favor abra la página de repetición al menos una vez antes del 31 de agosto."
 
 #: templates/oauth2_provider/authorize.html:12
 msgid "Some error happened during authorization."
@@ -870,7 +870,7 @@ msgstr "Buscar estadísticas y diferentes {name} listas de mazos."
 
 #: web/views/archetypes.py:113
 msgid "Archetypes"
-msgstr ""
+msgstr "Arquetipos"
 
 #: web/views/battlegrounds.py:91
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
@@ -890,7 +890,7 @@ msgstr ""
 
 #: web/views/battlegrounds.py:132
 msgid "Battlegrounds Darkmoon Prizes"
-msgstr ""
+msgstr "Premios de Luna Negra de Campos de batalla"
 
 #: web/views/battlegrounds.py:142 web/views/battlegrounds.py:168
 msgid "Battlegrounds Hero"
@@ -938,7 +938,7 @@ msgstr "No hay cartas que coincidan con la búsqueda."
 
 #: web/views/cards.py:114
 msgid "Hearthstone Card"
-msgstr ""
+msgstr "Carta de Hearthstone"
 
 #: web/views/cards.py:124
 msgid "Statistics and decks!"
@@ -1036,7 +1036,7 @@ msgstr "Encuentra los mazos prometedores que están ganando popularidad en Heart
 
 #: web/views/decks.py:135
 msgid "Trending Decks"
-msgstr ""
+msgstr "Tendencia de Mazos"
 
 #: web/views/mercenaries.py:74 web/views/mercenaries.py:94
 msgid "Mercenaries Collection"
@@ -1045,7 +1045,7 @@ msgstr "Colección de Mercenarios"
 #: web/views/mercenaries.py:108
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
-msgstr ""
+msgstr "Colección de Mercenarios de {user}"
 
 #: web/views/mercenaries.py:139
 msgid "Mercenaries Home"
@@ -1053,7 +1053,7 @@ msgstr "Inicio de Mercenarios"
 
 #: web/views/mercenaries.py:145
 msgid "Get all the information you need to win at Hearthstone Mercenaries with our Mercenaries stats and collection tracking. See top mercenaries tier lists and parties."
-msgstr ""
+msgstr "Obtén toda la información que necesitas para ganar en los Mercenarios de Hearthstone con nuestras estadísticas de Mercenarios y seguimiento de colecciones. Mira las mejores listas de mercenarios y grupos."
 
 #: web/views/mercenaries.py:160
 msgid "Mercenaries Parties"
@@ -1061,7 +1061,7 @@ msgstr "Grupo de Mercenarios"
 
 #: web/views/mercenaries.py:170
 msgid "Mercenaries Tier List"
-msgstr ""
+msgstr "Lista de los Mejores Mercenarios"
 
 #: web/views/oauth2.py:46
 msgid "Access has been revoked."
