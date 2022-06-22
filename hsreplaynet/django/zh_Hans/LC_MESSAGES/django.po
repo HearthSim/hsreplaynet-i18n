@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-16 18:52+0000\n"
-"PO-Revision-Date: 2022-06-20 12:40\n"
+"POT-Creation-Date: 2022-06-22 01:40+0000\n"
+"PO-Revision-Date: 2022-06-22 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -566,13 +566,9 @@ msgstr "服务条款"
 msgid "Privacy Policy"
 msgstr "隐私权政策"
 
-#: templates/footer.html:106
+#: templates/footer.html:115
 msgid "About Us"
 msgstr "关于我们"
-
-#: templates/footer.html:109
-msgid "Careers"
-msgstr "加入我们"
 
 #: templates/games/replay_detail.html:33
 msgid "Replay not available"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-16 18:52+0000\n"
-"PO-Revision-Date: 2022-06-20 12:40\n"
+"POT-Creation-Date: 2022-06-22 01:40+0000\n"
+"PO-Revision-Date: 2022-06-22 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -560,13 +560,9 @@ msgstr "サービス利用規約"
 msgid "Privacy Policy"
 msgstr "プライバシーポリシー"
 
-#: templates/footer.html:106
+#: templates/footer.html:115
 msgid "About Us"
 msgstr "私たちについて"
-
-#: templates/footer.html:109
-msgid "Careers"
-msgstr ""
 
 #: templates/games/replay_detail.html:33
 msgid "Replay not available"
