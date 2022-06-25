@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-22 01:40+0000\n"
-"PO-Revision-Date: 2022-06-22 12:41\n"
+"POT-Creation-Date: 2022-06-25 01:40+0000\n"
+"PO-Revision-Date: 2022-06-25 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -634,7 +634,7 @@ msgstr ""
 msgid "Decks"
 msgstr ""
 
-#: templates/navigation.html:211 web/views/cards.py:37 web/views/cards.py:142
+#: templates/navigation.html:211 web/views/cards.py:38 web/views/cards.py:154
 msgid "Cards"
 msgstr ""
 
@@ -914,27 +914,27 @@ msgstr ""
 msgid "No matching composition found."
 msgstr ""
 
-#: web/views/cards.py:28
+#: web/views/cards.py:29
 msgid "Hearthstone Card Statistics"
 msgstr ""
 
-#: web/views/cards.py:30
+#: web/views/cards.py:31
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
 msgstr ""
 
-#: web/views/cards.py:104
+#: web/views/cards.py:105
 msgid "No card found matching the query."
 msgstr ""
 
-#: web/views/cards.py:114
+#: web/views/cards.py:123 web/views/cards.py:126
 msgid "Hearthstone Card"
 msgstr ""
 
-#: web/views/cards.py:124
+#: web/views/cards.py:136
 msgid "Statistics and decks!"
 msgstr ""
 
-#: web/views/cards.py:180
+#: web/views/cards.py:192
 msgid "Hearthstone Card Editor"
 msgstr ""
 
