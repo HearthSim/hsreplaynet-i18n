@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-25 01:40+0000\n"
-"PO-Revision-Date: 2022-07-06 12:40\n"
+"POT-Creation-Date: 2022-07-08 01:40+0000\n"
+"PO-Revision-Date: 2022-07-08 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -174,47 +174,47 @@ msgstr "Платеж уже совершен и не может быть отм�
 msgid "Your payment was interrupted."
 msgstr "Ваш платеж прерван."
 
-#: settings.py:362
+#: settings.py:363
 msgid "Full access to your HSReplay.net account"
 msgstr "Полный доступ к вашей учетной записи HSReplay.net"
 
-#: settings.py:363
+#: settings.py:364
 msgid "Access information about your connected social accounts"
 msgstr "Доступ к списку ваших связанных учетных записей"
 
-#: settings.py:364
+#: settings.py:365
 msgid "View your Hearthstone card collection"
 msgstr "Просмотр вашей коллекции карт в Hearthstone"
 
-#: settings.py:365
+#: settings.py:366
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Загрузка вашей коллекции карт из Hearthstone на сайт"
 
-#: settings.py:366
+#: settings.py:367
 msgid "View your replays"
 msgstr "Просмотр ваших повторов"
 
-#: settings.py:367
+#: settings.py:368
 msgid "Update and delete your replays"
 msgstr "Изменение и удаление ваших повторов"
 
-#: settings.py:368
+#: settings.py:369
 msgid "Access the Partner API"
 msgstr "Доступ к партнерским API"
 
-#: settings.py:369
+#: settings.py:370
 msgid "Read access to the tournaments service"
 msgstr "Доступ на чтение к турнирным службам"
 
-#: settings.py:370
+#: settings.py:371
 msgid "Write access to the tournaments service"
 msgstr "Доступ на запись к турнирным службам"
 
-#: settings.py:371
+#: settings.py:372
 msgid "View your webhooks"
 msgstr "Просмотр ваших веб-хуков"
 
-#: settings.py:372
+#: settings.py:373
 msgid "Create and delete webhooks on your behalf"
 msgstr "Создавать и удалять веб-хуки от вашего имени"
 
@@ -515,7 +515,7 @@ msgstr "Не связан с Blizzard Entertainment."
 
 #: templates/footer.html:63 templates/navigation.html:105
 #: templates/navigation.html:171 templates/navigation.html:231
-#: web/views/__init__.py:172
+#: web/views/__init__.py:174
 msgid "Downloads"
 msgstr "Скачать"
 
@@ -803,39 +803,39 @@ msgstr "Webhook'и более не поддерживаются"
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
 msgstr "Новые конечные точки добавляться не будут. Существующие webhook'и пока будут работать."
 
-#: web/views/__init__.py:23
+#: web/views/__init__.py:25
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr "Смотри и делись повторами своих игр в Hearthstone прямо в браузере. Открой для себя расширенную статистику по картам и колодам, основанную на миллионах партий в неделю."
 
-#: web/views/__init__.py:50
+#: web/views/__init__.py:52
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net — раскрой свой потенциал"
 
-#: web/views/__init__.py:160 web/views/battlegrounds.py:71
+#: web/views/__init__.py:162 web/views/battlegrounds.py:71
 msgid "Download Hearthstone Deck Tracker"
 msgstr "Скачать Hearthstone Deck Tracker"
 
-#: web/views/__init__.py:162 web/views/battlegrounds.py:73
+#: web/views/__init__.py:164 web/views/battlegrounds.py:73
 msgid "HSReplay.net Companion App"
 msgstr "Приложение для синхронизации с HSReplay.net"
 
-#: web/views/__init__.py:164 web/views/battlegrounds.py:75
+#: web/views/__init__.py:166 web/views/battlegrounds.py:75
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "Hearthstone Deck Tracker — бесплатное приложение, которое поднимет уровень вашей игры."
 
-#: web/views/__init__.py:197
+#: web/views/__init__.py:234
 msgid "Contact our Support Team"
 msgstr "Свяжитесь со службой поддержки"
 
-#: web/views/__init__.py:199
+#: web/views/__init__.py:236
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr "Свяжитесь с командой поддержки HSReplay.net."
 
-#: web/views/__init__.py:257
+#: web/views/__init__.py:294
 msgid "Welcome to HSReplay.net"
 msgstr ""
 
-#: web/views/__init__.py:259
+#: web/views/__init__.py:296
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr ""
 
