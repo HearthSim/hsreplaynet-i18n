@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-07-08 01:40+0000\n"
-"PO-Revision-Date: 2022-07-08 12:40\n"
+"PO-Revision-Date: 2022-07-09 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -35,7 +35,7 @@ msgstr "La carta è stata rifiutata."
 
 #: api/exceptions.py:31
 msgid "You need to authenticate to view this collection."
-msgstr ""
+msgstr "E' necessaria l'autenticazione per vedere la tua collezione."
 
 #: api/exceptions.py:36
 msgid "You do not have permission to view this collection."
@@ -536,7 +536,7 @@ msgstr "Tier7"
 
 #: templates/footer.html:67 web/views/mercenaries.py:151
 msgid "Mercenaries"
-msgstr ""
+msgstr "Mercenari"
 
 #: templates/footer.html:71
 msgid "Support"
@@ -588,11 +588,11 @@ msgstr "Hearthstone"
 
 #: templates/navigation.html:72
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #: templates/navigation.html:85
 msgid "Tier List"
-msgstr ""
+msgstr "Lista Tier"
 
 #: templates/navigation.html:98
 msgid "Parties"
