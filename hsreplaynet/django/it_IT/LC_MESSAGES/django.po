@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 01:40+0000\n"
-"PO-Revision-Date: 2022-07-10 12:40\n"
+"POT-Creation-Date: 2022-07-11 19:01+0000\n"
+"PO-Revision-Date: 2022-07-12 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -78,99 +78,99 @@ msgstr "Il codice non ha influenzato l'account e rimane valido."
 msgid "Code has been applied to your account."
 msgstr "Il codice è stato applicato al tuo account."
 
-#: billing/views.py:272
+#: billing/views.py:275
 msgid "Error adding payment card"
 msgstr "Errore nell'aggiunta della carta di credito"
 
-#: billing/views.py:276
+#: billing/views.py:279
 msgid "Your card was declined. Please use a different card."
 msgstr "La tua carta è stata rifiutata. Per favore utilizza una carta diversa."
 
-#: billing/views.py:292
+#: billing/views.py:295
 msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
 msgstr "Questo indirizzo email è associato ad un altro account. Se desideri unire gli account, contattaci!"
 
-#: billing/views.py:320
+#: billing/views.py:323
 msgid "You have multiple subscriptions. Please contact us."
 msgstr "Hai abbonamenti multipli. Per favore contattaci."
 
-#: billing/views.py:334
+#: billing/views.py:337
 msgid "Your subscription has expired."
 msgstr "Il tuo abbonamento è scaduto."
 
-#: billing/views.py:340
+#: billing/views.py:343
 msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
 msgstr "Il tuo abbonamento attuale è ancora attivo. Se hai problemi di fatturazione, per favore contattaci!"
 
-#: billing/views.py:344
+#: billing/views.py:347
 msgid "You are already subscribed!"
 msgstr "Sei già iscritto!"
 
-#: billing/views.py:350 billing/views.py:484
+#: billing/views.py:353 billing/views.py:487
 msgid "You already have an active or a pending subscription."
 msgstr "Hai già un abbonamento attivo o in sospeso."
 
-#: billing/views.py:385
+#: billing/views.py:388
 msgid "Could not process subscription."
 msgstr "Non è stato possibile elaborare l'iscrizione."
 
-#: billing/views.py:402
+#: billing/views.py:405
 msgid "Your card declined the charge. Please contact your bank for information."
 msgstr "La tua carta ha rifiutato l'addebito. Contatta la tua banca per informazioni."
 
-#: billing/views.py:404
+#: billing/views.py:407
 msgid "Your card does not support payments in USD. Please try a different card."
 msgstr "La tua carta non supporta pagamenti in USD. Prova con una carta diversa."
 
-#: billing/views.py:406
+#: billing/views.py:409
 msgid "Your card has exceeded its credit limit. Please use a different one."
 msgstr "La tua carta ha superato il suo limite di credito. Scegline una diversa."
 
-#: billing/views.py:408
+#: billing/views.py:411
 msgid "Your card has insufficient funds to proceed."
 msgstr "La tua carta non dispone di fondi sufficienti per procedere."
 
-#: billing/views.py:412
+#: billing/views.py:415
 msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
 msgstr "La tua carta è stata rifiutata, non ti è stato addebitato nulla. Per favore prova con una carta diversa; contattaci se persiste."
 
-#: billing/views.py:443
+#: billing/views.py:446
 msgid "You are now subscribed!"
 msgstr "Ora sei iscritto!"
 
-#: billing/views.py:452
+#: billing/views.py:455
 msgid " Please contact us if you are seeing this in error."
 msgstr " Ti preghiamo di contattarci se vedi questo in modo errato."
 
-#: billing/views.py:473
+#: billing/views.py:476
 msgid "Unable to complete subscription."
 msgstr "Impossibile completare l'abbonamento."
 
-#: billing/views.py:478
+#: billing/views.py:481
 msgid "Invalid subscription token."
 msgstr "Token di autenticazione non valido."
 
-#: billing/views.py:481
+#: billing/views.py:484
 msgid "You are not logged in as the correct user."
 msgstr "Non hai effettuato l'accesso come utente corretto."
 
-#: billing/views.py:503
+#: billing/views.py:506
 msgid "Subscription was canceled by PayPal."
 msgstr "La sottoscrizione è stata annullata da PayPal."
 
-#: billing/views.py:511
+#: billing/views.py:514
 msgid "You are now subscribed with PayPal!"
 msgstr "Ora sei iscritto con PayPal!"
 
-#: billing/views.py:532
+#: billing/views.py:535
 msgid "Invalid token while cancelling payment."
 msgstr "Token non valido durante l'annullamento del pagamento."
 
-#: billing/views.py:537
+#: billing/views.py:540
 msgid "Payment has already completed and cannot be canceled."
 msgstr "Il pagamento è già stato completato e non può essere annullato."
 
-#: billing/views.py:541
+#: billing/views.py:544
 msgid "Your payment was interrupted."
 msgstr "Il tuo pagamento è stato interrotto."
 
@@ -836,7 +836,7 @@ msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr "Impara come iniziare con HSReplay.net e cosa puoi fare con esso."
 
 #: web/views/__init__.py:307
-msgid "See the power of Hearthstone Deck Tracker"
+msgid "Welcome to Hearthstone Deck Tracker"
 msgstr ""
 
 #: web/views/__init__.py:309
