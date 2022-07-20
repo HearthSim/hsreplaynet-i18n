@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-11 19:01+0000\n"
-"PO-Revision-Date: 2022-07-18 12:40\n"
+"POT-Creation-Date: 2022-07-20 01:40+0000\n"
+"PO-Revision-Date: 2022-07-20 12:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -480,7 +480,7 @@ msgstr "Nous vous avons envoyé un e-mail de vérification. Suivez le lien à l'
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr "Veuillez <a href=\"%(contact_url)s\">nous contacter</a> si vous ne le recevez pas d'ici quelques minutes."
 
-#: templates/base.html:109
+#: templates/base.html:85
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
 msgstr ""
 
@@ -569,11 +569,11 @@ msgstr "Confidentialité"
 msgid "About Us"
 msgstr "À propos"
 
-#: templates/games/replay_detail.html:33
+#: templates/games/replay_detail.html:28
 msgid "Replay not available"
 msgstr ""
 
-#: templates/games/replay_detail.html:35
+#: templates/games/replay_detail.html:30
 msgid "This replay is no longer available."
 msgstr ""
 
