@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-20 01:40+0000\n"
-"PO-Revision-Date: 2022-07-22 12:40\n"
+"POT-Creation-Date: 2022-07-23 01:40+0000\n"
+"PO-Revision-Date: 2022-07-23 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -519,12 +519,12 @@ msgid "Premium"
 msgstr ""
 
 #: templates/footer.html:65 templates/navigation.html:55
-#: web/views/battlegrounds.py:102 web/views/battlegrounds.py:122
-#: web/views/battlegrounds.py:136 web/views/battlegrounds.py:182
+#: web/views/battlegrounds.py:103 web/views/battlegrounds.py:123
+#: web/views/battlegrounds.py:137 web/views/battlegrounds.py:183
 msgid "Battlegrounds"
 msgstr ""
 
-#: templates/footer.html:66 web/views/battlegrounds.py:103
+#: templates/footer.html:66 web/views/battlegrounds.py:104
 msgid "Tier7"
 msgstr ""
 
@@ -592,12 +592,12 @@ msgstr ""
 msgid "Parties"
 msgstr ""
 
-#: templates/navigation.html:116 web/views/battlegrounds.py:123
-#: web/views/battlegrounds.py:191
+#: templates/navigation.html:116 web/views/battlegrounds.py:124
+#: web/views/battlegrounds.py:192
 msgid "Heroes"
 msgstr ""
 
-#: templates/navigation.html:128 web/views/battlegrounds.py:137
+#: templates/navigation.html:128 web/views/battlegrounds.py:138
 msgid "Darkmoon Prizes"
 msgstr ""
 
@@ -801,15 +801,15 @@ msgstr ""
 msgid "HSReplay.net - Unleash your potential"
 msgstr ""
 
-#: web/views/__init__.py:162 web/views/battlegrounds.py:71
+#: web/views/__init__.py:162 web/views/battlegrounds.py:72
 msgid "Download Hearthstone Deck Tracker"
 msgstr ""
 
-#: web/views/__init__.py:164 web/views/battlegrounds.py:73
+#: web/views/__init__.py:164 web/views/battlegrounds.py:74
 msgid "HSReplay.net Companion App"
 msgstr ""
 
-#: web/views/__init__.py:166 web/views/battlegrounds.py:75
+#: web/views/__init__.py:166 web/views/battlegrounds.py:76
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr ""
 
@@ -870,55 +870,55 @@ msgstr ""
 msgid "Archetypes"
 msgstr ""
 
-#: web/views/battlegrounds.py:91
+#: web/views/battlegrounds.py:92
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
 msgstr ""
 
-#: web/views/battlegrounds.py:108
+#: web/views/battlegrounds.py:109
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr ""
 
-#: web/views/battlegrounds.py:113
+#: web/views/battlegrounds.py:114
 msgid "Battlegrounds Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:115
+#: web/views/battlegrounds.py:116
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:132
+#: web/views/battlegrounds.py:133
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr ""
 
-#: web/views/battlegrounds.py:142 web/views/battlegrounds.py:168
+#: web/views/battlegrounds.py:143 web/views/battlegrounds.py:169
 msgid "Battlegrounds Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:160
+#: web/views/battlegrounds.py:161
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:241
+#: web/views/battlegrounds.py:253
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:247 web/views/battlegrounds.py:273
+#: web/views/battlegrounds.py:259 web/views/battlegrounds.py:285
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:265
+#: web/views/battlegrounds.py:277
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:305
+#: web/views/battlegrounds.py:317
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:311 web/views/battlegrounds.py:334
+#: web/views/battlegrounds.py:323 web/views/battlegrounds.py:346
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:329
+#: web/views/battlegrounds.py:341
 msgid "No matching composition found."
 msgstr ""
 
