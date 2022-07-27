@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 01:40+0000\n"
-"PO-Revision-Date: 2022-07-23 12:40\n"
+"POT-Creation-Date: 2022-07-26 21:33+0000\n"
+"PO-Revision-Date: 2022-07-27 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -174,47 +174,47 @@ msgstr "Платеж уже совершен и не может быть отм�
 msgid "Your payment was interrupted."
 msgstr "Ваш платеж прерван."
 
-#: settings.py:363
+#: settings.py:362
 msgid "Full access to your HSReplay.net account"
 msgstr "Полный доступ к вашей учетной записи HSReplay.net"
 
-#: settings.py:364
+#: settings.py:363
 msgid "Access information about your connected social accounts"
 msgstr "Доступ к списку ваших связанных учетных записей"
 
-#: settings.py:365
+#: settings.py:364
 msgid "View your Hearthstone card collection"
 msgstr "Просмотр вашей коллекции карт в Hearthstone"
 
-#: settings.py:366
+#: settings.py:365
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Загрузка вашей коллекции карт из Hearthstone на сайт"
 
-#: settings.py:367
+#: settings.py:366
 msgid "View your replays"
 msgstr "Просмотр ваших повторов"
 
-#: settings.py:368
+#: settings.py:367
 msgid "Update and delete your replays"
 msgstr "Изменение и удаление ваших повторов"
 
-#: settings.py:369
+#: settings.py:368
 msgid "Access the Partner API"
 msgstr "Доступ к партнерским API"
 
-#: settings.py:370
+#: settings.py:369
 msgid "Read access to the tournaments service"
 msgstr "Доступ на чтение к турнирным службам"
 
-#: settings.py:371
+#: settings.py:370
 msgid "Write access to the tournaments service"
 msgstr "Доступ на запись к турнирным службам"
 
-#: settings.py:372
+#: settings.py:371
 msgid "View your webhooks"
 msgstr "Просмотр ваших веб-хуков"
 
-#: settings.py:373
+#: settings.py:372
 msgid "Create and delete webhooks on your behalf"
 msgstr "Создавать и удалять веб-хуки от вашего имени"
 
