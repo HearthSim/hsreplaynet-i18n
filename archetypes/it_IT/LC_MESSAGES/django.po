@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-30T01:40:37.139677\n"
+"POT-Creation-Date: 2022-08-04T01:40:37.865197\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Italian\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2022-07-27 00:40\n"
+"PO-Revision-Date: 2022-08-04 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -64,10 +64,6 @@ msgstr "Cacciatore di Demoni Furto Vitale"
 #: https://hsreplay.net/archetypes/66/water-rogue
 msgid "Water Rogue"
 msgstr "Ladro Water"
-
-#: https://hsreplay.net/archetypes/19/dragon-warrior
-msgid "Dragon Warrior"
-msgstr "Guerriero Drago"
 
 #: https://hsreplay.net/archetypes/390/casino-mage
 msgid "Casino Mage"
@@ -293,10 +289,6 @@ msgstr "Druido Aggro"
 msgid "Spiteful Warrior"
 msgstr "Guerriero Astioso"
 
-#: https://hsreplay.net/archetypes/201/totem-shaman
-msgid "Totem Shaman"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/303/highlander-quest-mage
 msgid "Highlander Quest Mage"
 msgstr "Mago Highlander Quest"
@@ -388,6 +380,14 @@ msgstr ""
 #: https://hsreplay.net/archetypes/154/pirate-rogue
 msgid "Pirate Rogue"
 msgstr "Ladro Pirata"
+
+#: https://hsreplay.net/archetypes/201/totem-shaman
+msgid "Totem Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/19/dragon-warrior
+msgid "Dragon Warrior"
+msgstr "Guerriero Drago"
 
 #: https://hsreplay.net/archetypes/315/malygos-quest-druid
 msgid "Malygos Quest Druid"
@@ -897,10 +897,6 @@ msgstr "Cacciatore Highlander Quest"
 msgid "Highlander Dragon Hunter"
 msgstr "Cacciatore Highlander Dragon"
 
-#: https://hsreplay.net/archetypes/338/pure-paladin
-msgid "Pure Paladin"
-msgstr "Paladino Puro"
-
 #: https://hsreplay.net/archetypes/339/highlander-dragon-paladin
 msgid "Highlander Dragon Paladin"
 msgstr ""
@@ -1209,10 +1205,6 @@ msgstr ""
 msgid "Quest Miracle Mage"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/202/evolve-shaman
-msgid "Evolve Shaman"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/530/naga-priest
 msgid "Naga Priest"
 msgstr ""
@@ -1364,10 +1356,6 @@ msgstr ""
 #: https://hsreplay.net/archetypes/455/watch-post-paladin
 msgid "Watch Post Paladin"
 msgstr "Paladino Presidio"
-
-#: https://hsreplay.net/archetypes/375/secret-rogue
-msgid "Secret Rogue"
-msgstr "Ladro Segreti"
 
 #: https://hsreplay.net/archetypes/462/primordial-druid
 msgid "Primordial Druid"
@@ -1695,5 +1683,37 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/541/prestor-druid
 msgid "Prestor Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/542/relic-demon-hunter
+msgid "Relic Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/543/skeleton-mage
+msgid "Skeleton Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/544/deathrattle-druid
+msgid "Deathrattle Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/338/pure-paladin
+msgid "Pure Paladin"
+msgstr "Paladino Puro"
+
+#: https://hsreplay.net/archetypes/545/thief-priest
+msgid "Thief Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/375/secret-rogue
+msgid "Secret Rogue"
+msgstr "Ladro Segreti"
+
+#: https://hsreplay.net/archetypes/202/evolve-shaman
+msgid "Evolve Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/546/imp-warlock
+msgid "Imp Warlock"
 msgstr ""
 

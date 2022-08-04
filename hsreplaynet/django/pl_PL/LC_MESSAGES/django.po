@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-26 21:33+0000\n"
-"PO-Revision-Date: 2022-07-27 00:40\n"
+"POT-Creation-Date: 2022-08-04 01:40+0000\n"
+"PO-Revision-Date: 2022-08-04 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -640,7 +640,7 @@ msgstr ""
 msgid "Decks"
 msgstr "Talie"
 
-#: templates/navigation.html:211 web/views/cards.py:38 web/views/cards.py:154
+#: templates/navigation.html:211 web/views/cards.py:38 web/views/cards.py:157
 msgid "Cards"
 msgstr "Karty"
 
@@ -936,19 +936,19 @@ msgstr "Statystyki Kart Hearthstone"
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
 msgstr "Porównuj statystyki dotyczące wszystkich kart Hearthstone. Znajdź karty, które są najczęściej grane, albo mają największy współczynnik zwycięstw."
 
-#: web/views/cards.py:105
+#: web/views/cards.py:108
 msgid "No card found matching the query."
 msgstr "Żadna karta nie pasuje do zapytania."
 
-#: web/views/cards.py:123 web/views/cards.py:126
+#: web/views/cards.py:126 web/views/cards.py:129
 msgid "Hearthstone Card"
 msgstr ""
 
-#: web/views/cards.py:136
+#: web/views/cards.py:139
 msgid "Statistics and decks!"
 msgstr "Statystyki i talie!"
 
-#: web/views/cards.py:192
+#: web/views/cards.py:195
 msgid "Hearthstone Card Editor"
 msgstr "Edytor Kart Hearthstone"
 
