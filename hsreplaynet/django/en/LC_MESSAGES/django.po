@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-03 01:40+0000\n"
+"POT-Creation-Date: 2022-08-04 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -671,7 +671,7 @@ msgstr ""
 msgid "Decks"
 msgstr ""
 
-#: templates/navigation.html:211 web/views/cards.py:38 web/views/cards.py:154
+#: templates/navigation.html:211 web/views/cards.py:38 web/views/cards.py:157
 msgid "Cards"
 msgstr ""
 
@@ -1017,19 +1017,19 @@ msgid ""
 "that are played the most or have the highest winrate."
 msgstr ""
 
-#: web/views/cards.py:105
+#: web/views/cards.py:108
 msgid "No card found matching the query."
 msgstr ""
 
-#: web/views/cards.py:123 web/views/cards.py:126
+#: web/views/cards.py:126 web/views/cards.py:129
 msgid "Hearthstone Card"
 msgstr ""
 
-#: web/views/cards.py:136
+#: web/views/cards.py:139
 msgid "Statistics and decks!"
 msgstr ""
 
-#: web/views/cards.py:192
+#: web/views/cards.py:195
 msgid "Hearthstone Card Editor"
 msgstr ""
 
