@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-04 01:40+0000\n"
-"PO-Revision-Date: 2022-08-04 12:40\n"
+"PO-Revision-Date: 2022-08-05 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -841,7 +841,7 @@ msgstr "学习如何开始使用 HSReplay.net 以及你可以用它来做些什�
 
 #: web/views/__init__.py:307
 msgid "Welcome to Hearthstone Deck Tracker"
-msgstr ""
+msgstr "欢迎使用Hearthstone Deck Tracker炉石记牌器"
 
 #: web/views/__init__.py:309
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
@@ -946,7 +946,7 @@ msgstr "没有与条件对应的卡牌。"
 
 #: web/views/cards.py:126 web/views/cards.py:129
 msgid "Hearthstone Card"
-msgstr ""
+msgstr "炉石卡牌"
 
 #: web/views/cards.py:139
 msgid "Statistics and decks!"
