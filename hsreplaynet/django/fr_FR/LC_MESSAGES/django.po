@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-08-04 01:40+0000\n"
-"PO-Revision-Date: 2022-08-12 12:40\n"
+"PO-Revision-Date: 2022-08-17 00:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -35,7 +35,7 @@ msgstr "La carte a été rejetée."
 
 #: api/exceptions.py:31
 msgid "You need to authenticate to view this collection."
-msgstr ""
+msgstr "Vous devez vous authentifier pour voir cette collection."
 
 #: api/exceptions.py:36
 msgid "You do not have permission to view this collection."
@@ -43,11 +43,11 @@ msgstr "Vous n'avez pas la permission de voir cette collection."
 
 #: api/exceptions.py:42
 msgid "This product is not available."
-msgstr ""
+msgstr "Ce produit n'est pas disponible."
 
 #: api/exceptions.py:48
 msgid "This plan is not available."
-msgstr ""
+msgstr "Cette formule n'est pas disponible."
 
 #: api/fields.py:9
 #, python-brace-format
@@ -535,7 +535,7 @@ msgstr "Tier7"
 
 #: templates/footer.html:67 web/views/mercenaries.py:151
 msgid "Mercenaries"
-msgstr ""
+msgstr "Mercenaires"
 
 #: templates/footer.html:71
 msgid "Support"
@@ -571,11 +571,11 @@ msgstr "À propos"
 
 #: templates/games/replay_detail.html:28
 msgid "Replay not available"
-msgstr ""
+msgstr "Le replay n'est pas disponible"
 
 #: templates/games/replay_detail.html:30
 msgid "This replay is no longer available."
-msgstr ""
+msgstr "Ce replay n'est plus disponible."
 
 #: templates/navigation.html:14
 msgid "Toggle navigation"
@@ -583,19 +583,19 @@ msgstr "Navigation"
 
 #: templates/navigation.html:43
 msgid "Hearthstone"
-msgstr ""
+msgstr "Hearthstone"
 
 #: templates/navigation.html:72
 msgid "Home"
-msgstr ""
+msgstr "Accueil"
 
 #: templates/navigation.html:85
 msgid "Tier List"
-msgstr ""
+msgstr "Tier List"
 
 #: templates/navigation.html:98
 msgid "Parties"
-msgstr ""
+msgstr "Groupes"
 
 #: templates/navigation.html:116 web/views/battlegrounds.py:124
 #: web/views/battlegrounds.py:192
@@ -604,7 +604,7 @@ msgstr "Héros"
 
 #: templates/navigation.html:128 web/views/battlegrounds.py:138
 msgid "Darkmoon Prizes"
-msgstr ""
+msgstr "Prix de Sombrelune"
 
 #: templates/navigation.html:139
 msgid "Minions"
@@ -645,11 +645,11 @@ msgstr "Cartes"
 
 #: templates/navigation.html:256
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
-msgstr ""
+msgstr "Nous sommes en train de mettre à jour cette section à la suite du dernier patch Champ de batailles. Il se peut que vous rencontriez temporairement des données incomplètes ou retardées."
 
 #: templates/navigation.html:262
 msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
-msgstr ""
+msgstr "À partir du 1er septembre, les replays qui n'ont pas été consultés au cours des six derniers mois seront définitivement supprimés du site. Si vous souhaitez conserver un replay spécifique, veuillez ouvrir la page de ce replay au moins une fois avant le 31 août."
 
 #: templates/oauth2_provider/authorize.html:12
 msgid "Some error happened during authorization."
@@ -675,7 +675,7 @@ msgstr "Erreur d'authentification"
 #: templates/socialaccount/authentication_error.html:11
 #, python-format
 msgid "We could not authenticate you with %(name)s.<br/>"
-msgstr ""
+msgstr "Nous n'avons pas pu vous authentifier avec %(name)s.<br/>"
 
 #: templates/socialaccount/authentication_error.html:17
 msgid "This could be because you did something unusual during your login, or the provider rejected your account."
@@ -693,7 +693,9 @@ msgstr ""
 msgid "\n"
 "\t\t\t\tPlease <a href=\"%(contact_url)s\">contact us</a> if you keep seeing this error.\n"
 "\t\t\t\t"
-msgstr ""
+msgstr "\n"
+"\t\t\t\tVeuillez <a href=\"%(contact_url)s\">nous contacter</a> si vous continuez à voir cette erreur.\n"
+"\t\t\t\t"
 
 #: templates/socialaccount/authentication_error.html:49
 msgid "Back to the office."
@@ -759,7 +761,7 @@ msgstr "Je désire recevoir des mises à jour du produit par mail."
 
 #: templates/socialaccount/signup.html:69
 msgid "You can change this at any time."
-msgstr ""
+msgstr "Vous pouvez modifier ceci à tout moment."
 
 #: templates/socialaccount/signup.html:75
 msgid "Already have an HSReplay.net account?"
@@ -828,15 +830,15 @@ msgstr "Communiquez avec l'équipe d'assistance HSReplay.net."
 
 #: web/views/__init__.py:294
 msgid "Welcome to HSReplay.net"
-msgstr ""
+msgstr "Bienvenue sur HSRplay.net"
 
 #: web/views/__init__.py:296
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
-msgstr ""
+msgstr "Apprenez comment jouer avec HSReplay.net et ce que vous pouvez faire avec."
 
 #: web/views/__init__.py:307
 msgid "Welcome to Hearthstone Deck Tracker"
-msgstr ""
+msgstr "Bienvenue sur Hearthstone Deck Tracker"
 
 #: web/views/__init__.py:309
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
@@ -873,7 +875,7 @@ msgstr "Trouver les stats et les différentes decklists {name}."
 
 #: web/views/archetypes.py:113
 msgid "Archetypes"
-msgstr ""
+msgstr "Archétypes"
 
 #: web/views/battlegrounds.py:92
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
@@ -889,11 +891,11 @@ msgstr "Héros des Champs de bataille"
 
 #: web/views/battlegrounds.py:116
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
-msgstr ""
+msgstr "Explorez notre Tier List de héros de Champs de bataille et apprenez quel héros est le meilleur grâce aux données de millions de parties."
 
 #: web/views/battlegrounds.py:133
 msgid "Battlegrounds Darkmoon Prizes"
-msgstr ""
+msgstr "Prix de Sombrelune du Champ de batailles"
 
 #: web/views/battlegrounds.py:143 web/views/battlegrounds.py:169
 msgid "Battlegrounds Hero"
@@ -941,7 +943,7 @@ msgstr "Aucune carte ne correspond à la requête."
 
 #: web/views/cards.py:126 web/views/cards.py:129
 msgid "Hearthstone Card"
-msgstr ""
+msgstr "Carte Hearthstone"
 
 #: web/views/cards.py:139
 msgid "Statistics and decks!"
@@ -1022,7 +1024,7 @@ msgstr "Le deck contient des cartes non collectionables."
 
 #: web/views/decks.py:75
 msgid "Neutral Deck"
-msgstr ""
+msgstr "Deck neutre"
 
 #: web/views/decks.py:89
 #, python-brace-format
@@ -1039,11 +1041,11 @@ msgstr "Trouvez les decks qui gagnent en popularité pour chaque classe, mis à 
 
 #: web/views/decks.py:135
 msgid "Trending Decks"
-msgstr ""
+msgstr "Decks en tendances"
 
 #: web/views/mercenaries.py:74 web/views/mercenaries.py:94
 msgid "Mercenaries Collection"
-msgstr ""
+msgstr "Collection de mercenaires"
 
 #: web/views/mercenaries.py:108
 #, python-brace-format
@@ -1060,11 +1062,11 @@ msgstr ""
 
 #: web/views/mercenaries.py:160
 msgid "Mercenaries Parties"
-msgstr ""
+msgstr "Groupe de mercenaires"
 
 #: web/views/mercenaries.py:170
 msgid "Mercenaries Tier List"
-msgstr ""
+msgstr "Tier liste Mercenaires"
 
 #: web/views/oauth2.py:46
 msgid "Access has been revoked."
@@ -1081,7 +1083,7 @@ msgstr "Plus de filtres, plus de fonctionnalités, plus de données : accédez 
 
 #: web/views/premium.py:34
 msgid "HSReplay.net Premium for Hearthstone"
-msgstr ""
+msgstr "HSReplay.net Premium pour Hearthstone"
 
 #: web/views/replays.py:31
 msgid "My Replays"
