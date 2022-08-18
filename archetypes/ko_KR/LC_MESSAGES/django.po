@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-10T01:40:37.108084\n"
+"POT-Creation-Date: 2022-08-18T01:40:36.575922\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2022-08-17 00:40\n"
+"PO-Revision-Date: 2022-08-18 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1245,9 +1245,9 @@ msgstr "죽음의 메아리 사냥꾼"
 msgid "Secret Mage"
 msgstr "비밀 마법사"
 
-#: https://hsreplay.net/archetypes/183/silver-hand-paladin
-msgid "Silver Hand Paladin"
-msgstr "신병 성기사"
+#: https://hsreplay.net/archetypes/548/curse-imp-warlock
+msgid "Curse Imp Warlock"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/432/corrupt-priest
 msgid "Corrupt Priest"
@@ -1720,4 +1720,8 @@ msgstr "진화 주술사"
 #: https://hsreplay.net/archetypes/546/imp-warlock
 msgid "Imp Warlock"
 msgstr "임프 흑마법사"
+
+#: https://hsreplay.net/archetypes/183/silver-hand-paladin
+msgid "Silver Hand Paladin"
+msgstr "신병 성기사"
 
