@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-18T01:40:36.575922\n"
+"POT-Creation-Date: 2022-08-25T01:40:37.007986\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2022-08-18 12:40\n"
+"PO-Revision-Date: 2022-08-25 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1001,10 +1001,6 @@ msgstr "OTKデーモンハンター"
 msgid "Test Demon Hunter"
 msgstr "テストデーモンハンター"
 
-#: https://hsreplay.net/archetypes/371/big-demon-hunter
-msgid "Big Demon Hunter"
-msgstr "ビッグデーモンハンター"
-
 #: https://hsreplay.net/archetypes/372/spell-druid
 msgid "Spell Druid"
 msgstr "呪文ドルイド"
@@ -1505,10 +1501,6 @@ msgstr "クエストズーウォーロック"
 msgid "Big Spell Mage"
 msgstr "ビッグスペルメイジ"
 
-#: https://hsreplay.net/archetypes/129/big-priest
-msgid "Big Priest"
-msgstr "ビッグプリースト"
-
 #: https://hsreplay.net/archetypes/6/malygos-druid
 msgid "Malygos Druid"
 msgstr "マリゴスドルイド"
@@ -1724,4 +1716,12 @@ msgstr "インプウォーロック"
 #: https://hsreplay.net/archetypes/183/silver-hand-paladin
 msgid "Silver Hand Paladin"
 msgstr "新兵パラディン"
+
+#: https://hsreplay.net/archetypes/371/big-demon-hunter
+msgid "Big Demon Hunter"
+msgstr "ビッグデーモンハンター"
+
+#: https://hsreplay.net/archetypes/129/big-priest
+msgid "Big Priest"
+msgstr "ビッグプリースト"
 
