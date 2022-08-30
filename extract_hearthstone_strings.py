@@ -4,7 +4,7 @@ import json
 import os
 
 from hearthstone.enums import Locale
-from hearthstone.stringsfile import load
+from hearthstone.stringsfile import load_txt
 from hearthstone_data import get_strings_file
 
 
@@ -53,7 +53,7 @@ def main():
 		for filename in FILENAMES:
 			strings_path = get_strings_file(locale.name, filename=filename)
 			with open(strings_path, "r", encoding="utf-8-sig") as f:
-				strings_data = convert_strings_data(load(f))
+				strings_data = convert_strings_data(load_txt(f))
 
 			output_filename = filename.lower().replace(".txt", ".json")
 			output_path = os.path.join(locale_dir, output_filename)
