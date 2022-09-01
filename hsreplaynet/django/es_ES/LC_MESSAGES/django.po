@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-04 01:40+0000\n"
-"PO-Revision-Date: 2022-08-31 12:40\n"
+"POT-Creation-Date: 2022-09-01 01:40+0000\n"
+"PO-Revision-Date: 2022-09-01 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -526,7 +526,7 @@ msgstr "Premium"
 
 #: templates/footer.html:65 templates/navigation.html:55
 #: web/views/battlegrounds.py:103 web/views/battlegrounds.py:123
-#: web/views/battlegrounds.py:137 web/views/battlegrounds.py:183
+#: web/views/battlegrounds.py:137 web/views/battlegrounds.py:192
 msgid "Battlegrounds"
 msgstr ""
 
@@ -599,7 +599,7 @@ msgid "Parties"
 msgstr ""
 
 #: templates/navigation.html:116 web/views/battlegrounds.py:124
-#: web/views/battlegrounds.py:192
+#: web/views/battlegrounds.py:201
 msgid "Heroes"
 msgstr ""
 
@@ -640,7 +640,7 @@ msgstr ""
 msgid "Decks"
 msgstr "Mazos"
 
-#: templates/navigation.html:211 web/views/cards.py:38 web/views/cards.py:157
+#: templates/navigation.html:211 web/views/cards.py:38 web/views/cards.py:169
 msgid "Cards"
 msgstr "Cartas"
 
@@ -904,27 +904,27 @@ msgstr ""
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:253
+#: web/views/battlegrounds.py:262
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:259 web/views/battlegrounds.py:285
+#: web/views/battlegrounds.py:268 web/views/battlegrounds.py:294
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:277
+#: web/views/battlegrounds.py:286
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:317
+#: web/views/battlegrounds.py:326
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:323 web/views/battlegrounds.py:346
+#: web/views/battlegrounds.py:332 web/views/battlegrounds.py:355
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:341
+#: web/views/battlegrounds.py:350
 msgid "No matching composition found."
 msgstr ""
 
@@ -944,11 +944,11 @@ msgstr "No hay cartas que coincidan con la búsqueda."
 msgid "Hearthstone Card"
 msgstr ""
 
-#: web/views/cards.py:139
+#: web/views/cards.py:151
 msgid "Statistics and decks!"
 msgstr "Estadísticas y mazos!"
 
-#: web/views/cards.py:195
+#: web/views/cards.py:207
 msgid "Hearthstone Card Editor"
 msgstr "Editor de cartas Hearthstone"
 
@@ -1030,15 +1030,15 @@ msgstr ""
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "{name} listas y estadisticas. Importar: {deckstring}"
 
-#: web/views/decks.py:127
+#: web/views/decks.py:125
 msgid "Trending Hearthstone Decks"
 msgstr "Mazos Hearthstone Tendencias"
 
-#: web/views/decks.py:129
+#: web/views/decks.py:127
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "Encuentra los mazos prometedores que están ganando popularidad en Hearthstone para cada clase actualizados a diario."
 
-#: web/views/decks.py:135
+#: web/views/decks.py:133
 msgid "Trending Decks"
 msgstr ""
 

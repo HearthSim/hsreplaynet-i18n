@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-04 01:40+0000\n"
-"PO-Revision-Date: 2022-08-31 12:40\n"
+"POT-Creation-Date: 2022-09-01 01:40+0000\n"
+"PO-Revision-Date: 2022-09-01 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -526,7 +526,7 @@ msgstr "Премиум"
 
 #: templates/footer.html:65 templates/navigation.html:55
 #: web/views/battlegrounds.py:103 web/views/battlegrounds.py:123
-#: web/views/battlegrounds.py:137 web/views/battlegrounds.py:183
+#: web/views/battlegrounds.py:137 web/views/battlegrounds.py:192
 msgid "Battlegrounds"
 msgstr "Поля сражений"
 
@@ -599,7 +599,7 @@ msgid "Parties"
 msgstr ""
 
 #: templates/navigation.html:116 web/views/battlegrounds.py:124
-#: web/views/battlegrounds.py:192
+#: web/views/battlegrounds.py:201
 msgid "Heroes"
 msgstr "Герои"
 
@@ -640,7 +640,7 @@ msgstr "Скоро вернется!"
 msgid "Decks"
 msgstr "Колоды"
 
-#: templates/navigation.html:211 web/views/cards.py:38 web/views/cards.py:157
+#: templates/navigation.html:211 web/views/cards.py:38 web/views/cards.py:169
 msgid "Cards"
 msgstr "Карты"
 
@@ -908,27 +908,27 @@ msgstr "Герой Полей сражений"
 msgid "No matching hero found."
 msgstr "Подходящих героев не найдено."
 
-#: web/views/battlegrounds.py:253
+#: web/views/battlegrounds.py:262
 msgid "Battlegrounds Minions"
 msgstr "Существа Полей сражений"
 
-#: web/views/battlegrounds.py:259 web/views/battlegrounds.py:285
+#: web/views/battlegrounds.py:268 web/views/battlegrounds.py:294
 msgid "Battlegrounds Minion"
 msgstr "Существо Полей сражений"
 
-#: web/views/battlegrounds.py:277
+#: web/views/battlegrounds.py:286
 msgid "No matching minion found."
 msgstr "Подходящих существ не найдено."
 
-#: web/views/battlegrounds.py:317
+#: web/views/battlegrounds.py:326
 msgid "Battlegrounds Compositions"
 msgstr "Составы Полей сражений"
 
-#: web/views/battlegrounds.py:323 web/views/battlegrounds.py:346
+#: web/views/battlegrounds.py:332 web/views/battlegrounds.py:355
 msgid "Battlegrounds Composition"
 msgstr "Состав Полей сражений"
 
-#: web/views/battlegrounds.py:341
+#: web/views/battlegrounds.py:350
 msgid "No matching composition found."
 msgstr "Подходящий состав не найден."
 
@@ -948,11 +948,11 @@ msgstr "Ни одна карта не соответствует запросу.
 msgid "Hearthstone Card"
 msgstr ""
 
-#: web/views/cards.py:139
+#: web/views/cards.py:151
 msgid "Statistics and decks!"
 msgstr "Статистика и колоды!"
 
-#: web/views/cards.py:195
+#: web/views/cards.py:207
 msgid "Hearthstone Card Editor"
 msgstr "Редактор карт Hearthstone"
 
@@ -1034,15 +1034,15 @@ msgstr "Нейтральная колода"
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "Статистика и колоды {name}. Импортировать: {deckstring}"
 
-#: web/views/decks.py:127
+#: web/views/decks.py:125
 msgid "Trending Hearthstone Decks"
 msgstr "Набирающие популярность колоды"
 
-#: web/views/decks.py:129
+#: web/views/decks.py:127
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "Здесь вы найдете многообещающие колоды с растущей популярностью для каждого класса. Список обновляется ежедневно."
 
-#: web/views/decks.py:135
+#: web/views/decks.py:133
 msgid "Trending Decks"
 msgstr ""
 
