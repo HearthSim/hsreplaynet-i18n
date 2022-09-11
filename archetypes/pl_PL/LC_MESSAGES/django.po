@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-08-25T01:40:37.007986\n"
+"POT-Creation-Date: 2022-09-11T01:40:36.354068\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2022-09-10 12:40\n"
+"PO-Revision-Date: 2022-09-11 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -380,10 +380,6 @@ msgstr "Midrange Demon Hunter"
 #: https://hsreplay.net/archetypes/154/pirate-rogue
 msgid "Pirate Rogue"
 msgstr "Pirate Rogue"
-
-#: https://hsreplay.net/archetypes/201/totem-shaman
-msgid "Totem Shaman"
-msgstr "Totem Shaman"
 
 #: https://hsreplay.net/archetypes/19/dragon-warrior
 msgid "Dragon Warrior"
@@ -1001,6 +997,10 @@ msgstr "OTK Demon Hunter"
 msgid "Test Demon Hunter"
 msgstr "Test Demon Hunter"
 
+#: https://hsreplay.net/archetypes/549/edwin-rogue
+msgid "Edwin Rogue"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/372/spell-druid
 msgid "Spell Druid"
 msgstr "Spell Druid"
@@ -1501,6 +1501,10 @@ msgstr "Quest Zoo Warlock"
 msgid "Big Spell Mage"
 msgstr "Big Spell Mage"
 
+#: https://hsreplay.net/archetypes/550/shark-rogue
+msgid "Shark Rogue"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/6/malygos-druid
 msgid "Malygos Druid"
 msgstr "Malygos Druid"
@@ -1724,4 +1728,8 @@ msgstr "Big Demon Hunter"
 #: https://hsreplay.net/archetypes/129/big-priest
 msgid "Big Priest"
 msgstr "Big Priest"
+
+#: https://hsreplay.net/archetypes/201/totem-shaman
+msgid "Totem Shaman"
+msgstr "Totem Shaman"
 
