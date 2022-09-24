@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-23 01:40+0000\n"
-"PO-Revision-Date: 2022-09-23 12:40\n"
+"POT-Creation-Date: 2022-09-24 01:40+0000\n"
+"PO-Revision-Date: 2022-09-24 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -272,7 +272,7 @@ msgstr ""
 msgid "Applications"
 msgstr ""
 
-#: templates/account/base.html:23 templates/account/login.html:80
+#: templates/account/base.html:23 templates/account/login.html:86
 #: templates/account/signup.html:33
 msgid "Password"
 msgstr "비밀번호"
@@ -393,27 +393,27 @@ msgstr "당신이 안전하게 로그인 할 수 있는 공식 블리자드 사�
 msgid "Blizzard will redirect you back here once you're done."
 msgstr "로그인이 완료되면 여기로 되돌아옵니다."
 
-#: templates/account/login.html:41
+#: templates/account/login.html:46
 msgid "Log in with Blizzard"
 msgstr "블리자드 계정으로 로그인"
 
-#: templates/account/login.html:45
+#: templates/account/login.html:51
 msgid "Region"
 msgstr "지역"
 
-#: templates/account/login.html:59
+#: templates/account/login.html:65
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
 msgstr "HSReplay.net은 절대로 당신의 블리자드 이메일이나 비밀번호를 취득하지 않습니다."
 
-#: templates/account/login.html:69
+#: templates/account/login.html:75
 msgid "Not using a Blizzard account? Sign in with your username and password here."
 msgstr "블리자드 계정이 없으세요? 아이디와 비밀번호로 가입하세요."
 
-#: templates/account/login.html:79 templates/account/signup.html:27
+#: templates/account/login.html:85 templates/account/signup.html:27
 msgid "Username"
 msgstr "아이디"
 
-#: templates/account/login.html:83
+#: templates/account/login.html:89
 msgid "Sign in"
 msgstr "로그인"
 

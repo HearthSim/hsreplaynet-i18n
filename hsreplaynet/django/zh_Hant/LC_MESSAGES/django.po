@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-23 01:40+0000\n"
-"PO-Revision-Date: 2022-09-23 12:40\n"
+"POT-Creation-Date: 2022-09-24 01:40+0000\n"
+"PO-Revision-Date: 2022-09-24 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -272,7 +272,7 @@ msgstr "連接"
 msgid "Applications"
 msgstr "應用程式授權"
 
-#: templates/account/base.html:23 templates/account/login.html:80
+#: templates/account/base.html:23 templates/account/login.html:86
 #: templates/account/signup.html:33
 msgid "Password"
 msgstr "密碼"
@@ -393,27 +393,27 @@ msgstr "我們會重導向官方的暴雪網站，以確保安全登入。"
 msgid "Blizzard will redirect you back here once you're done."
 msgstr "完成後暴雪將會把你重新導回這裡。"
 
-#: templates/account/login.html:41
+#: templates/account/login.html:46
 msgid "Log in with Blizzard"
 msgstr "以暴雪帳號登入"
 
-#: templates/account/login.html:45
+#: templates/account/login.html:51
 msgid "Region"
 msgstr "伺服器"
 
-#: templates/account/login.html:59
+#: templates/account/login.html:65
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
 msgstr "HSReplay.net 並不會也不能存取你的暴雪電子郵件信箱地址或是密碼。"
 
-#: templates/account/login.html:69
+#: templates/account/login.html:75
 msgid "Not using a Blizzard account? Sign in with your username and password here."
 msgstr "沒有在用暴雪帳號? 那就用你自己的帳號跟密碼來登錄吧。"
 
-#: templates/account/login.html:79 templates/account/signup.html:27
+#: templates/account/login.html:85 templates/account/signup.html:27
 msgid "Username"
 msgstr "使用者名稱"
 
-#: templates/account/login.html:83
+#: templates/account/login.html:89
 msgid "Sign in"
 msgstr "登入"
 

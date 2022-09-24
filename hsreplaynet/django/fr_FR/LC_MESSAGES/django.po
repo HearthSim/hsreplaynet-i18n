@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-23 01:40+0000\n"
-"PO-Revision-Date: 2022-09-23 12:40\n"
+"POT-Creation-Date: 2022-09-24 01:40+0000\n"
+"PO-Revision-Date: 2022-09-24 12:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -272,7 +272,7 @@ msgstr "Connexions"
 msgid "Applications"
 msgstr "Applications"
 
-#: templates/account/base.html:23 templates/account/login.html:80
+#: templates/account/base.html:23 templates/account/login.html:86
 #: templates/account/signup.html:33
 msgid "Password"
 msgstr "Mot de passe"
@@ -392,27 +392,27 @@ msgstr "Nous allons vous rediriger vers le site officiel de Blizzard où vous po
 msgid "Blizzard will redirect you back here once you're done."
 msgstr "Blizzard vous redirigera ici une fois que vous avez terminé."
 
-#: templates/account/login.html:41
+#: templates/account/login.html:46
 msgid "Log in with Blizzard"
 msgstr "Connexion via Blizzard"
 
-#: templates/account/login.html:45
+#: templates/account/login.html:51
 msgid "Region"
 msgstr "Région"
 
-#: templates/account/login.html:59
+#: templates/account/login.html:65
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
 msgstr "HSReplay.net n'obtiendra jamais l'accès à l'adresse mail ou au mot de passe de votre compte Blizzard."
 
-#: templates/account/login.html:69
+#: templates/account/login.html:75
 msgid "Not using a Blizzard account? Sign in with your username and password here."
 msgstr "Vous ne vous connectez pas à votre compte Blizzard ? Connectez-vous avec votre nom d'utilisateur et mot de passe ici."
 
-#: templates/account/login.html:79 templates/account/signup.html:27
+#: templates/account/login.html:85 templates/account/signup.html:27
 msgid "Username"
 msgstr "Nom d'utilisateur"
 
-#: templates/account/login.html:83
+#: templates/account/login.html:89
 msgid "Sign in"
 msgstr "Connexion"
 
