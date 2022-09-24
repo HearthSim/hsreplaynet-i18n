@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-23 01:40+0000\n"
+"POT-Creation-Date: 2022-09-24 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -287,7 +287,7 @@ msgstr ""
 msgid "Applications"
 msgstr ""
 
-#: templates/account/base.html:23 templates/account/login.html:80
+#: templates/account/base.html:23 templates/account/login.html:86
 #: templates/account/signup.html:33
 msgid "Password"
 msgstr ""
@@ -416,29 +416,29 @@ msgstr ""
 msgid "Blizzard will redirect you back here once you're done."
 msgstr ""
 
-#: templates/account/login.html:41
+#: templates/account/login.html:46
 msgid "Log in with Blizzard"
 msgstr ""
 
-#: templates/account/login.html:45
+#: templates/account/login.html:51
 msgid "Region"
 msgstr ""
 
-#: templates/account/login.html:59
+#: templates/account/login.html:65
 msgid ""
 "HSReplay.net never gains access to your Blizzard email address or password."
 msgstr ""
 
-#: templates/account/login.html:69
+#: templates/account/login.html:75
 msgid ""
 "Not using a Blizzard account? Sign in with your username and password here."
 msgstr ""
 
-#: templates/account/login.html:79 templates/account/signup.html:27
+#: templates/account/login.html:85 templates/account/signup.html:27
 msgid "Username"
 msgstr ""
 
-#: templates/account/login.html:83
+#: templates/account/login.html:89
 msgid "Sign in"
 msgstr ""
 
