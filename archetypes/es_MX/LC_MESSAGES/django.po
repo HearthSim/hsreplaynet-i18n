@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-11T01:40:36.354068\n"
+"POT-Creation-Date: 2022-09-29T01:40:39.053482\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2022-09-28 12:40\n"
+"PO-Revision-Date: 2022-09-29 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -289,6 +289,10 @@ msgstr "Druida Agresivo"
 msgid "Spiteful Warrior"
 msgstr "Guerrero Invocadora Maliciosa"
 
+#: https://hsreplay.net/archetypes/226/mill-druid
+msgid "Mill Druid"
+msgstr "Druida Fatiga"
+
 #: https://hsreplay.net/archetypes/303/highlander-quest-mage
 msgid "Highlander Quest Mage"
 msgstr "Mago Highlander Misión"
@@ -353,10 +357,6 @@ msgstr "Guerrero Misión Impar"
 msgid "Odd Druid"
 msgstr "Druida Impar"
 
-#: https://hsreplay.net/archetypes/226/mill-druid
-msgid "Mill Druid"
-msgstr "Druida Fatiga"
-
 #: https://hsreplay.net/archetypes/227/even-mage
 msgid "Even Mage"
 msgstr "Mago Par"
@@ -380,6 +380,10 @@ msgstr "Cazador de Demonios Midrange"
 #: https://hsreplay.net/archetypes/154/pirate-rogue
 msgid "Pirate Rogue"
 msgstr "Pícaro Piratas"
+
+#: https://hsreplay.net/archetypes/551/rats-and-bats-hunter
+msgid "Rats and Bats Hunter"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/19/dragon-warrior
 msgid "Dragon Warrior"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-24 01:40+0000\n"
-"PO-Revision-Date: 2022-09-28 12:40\n"
+"POT-Creation-Date: 2022-09-29 01:40+0000\n"
+"PO-Revision-Date: 2022-09-29 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -481,7 +481,7 @@ msgstr "인증메일을 보냈습니다. 메일 안 링크를 눌러 가입을 �
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr ""
 
-#: templates/base.html:85
+#: templates/base.html:75
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
 msgstr ""
 
