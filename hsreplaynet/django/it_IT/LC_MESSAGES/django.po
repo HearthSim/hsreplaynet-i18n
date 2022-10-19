@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-29 01:40+0000\n"
-"PO-Revision-Date: 2022-10-17 00:40\n"
+"PO-Revision-Date: 2022-10-19 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -596,7 +596,7 @@ msgstr "Lista Tier"
 
 #: templates/navigation.html:98
 msgid "Parties"
-msgstr ""
+msgstr "Squadre"
 
 #: templates/navigation.html:116 web/views/battlegrounds.py:124
 #: web/views/battlegrounds.py:201
@@ -687,14 +687,15 @@ msgstr "Questo potrebbe essere perché hai fatto qualcosa di insolito durante il
 msgid "\n"
 "\t\t\t\t\tIf you'd like to <a href=\"%(contact_url)s\">contact us</a>, please pass along the following event reference:\n"
 "\t\t\t\t"
-msgstr ""
+msgstr "Se vuoi <a href=\"%(contact_url)s\">contattarci</a>, segui per favore la seguente referenza:"
 
 #: templates/socialaccount/authentication_error.html:29
 #, python-format
 msgid "\n"
 "\t\t\t\tPlease <a href=\"%(contact_url)s\">contact us</a> if you keep seeing this error.\n"
 "\t\t\t\t"
-msgstr ""
+msgstr "\n"
+"Per favore <a href=\"%(contact_url)s\">contattaci</a> se continui a vedere questo errore."
 
 #: templates/socialaccount/authentication_error.html:49
 msgid "Back to the office."
@@ -837,11 +838,11 @@ msgstr "Impara come iniziare con HSReplay.net e cosa puoi fare con esso."
 
 #: web/views/__init__.py:307
 msgid "Welcome to Hearthstone Deck Tracker"
-msgstr ""
+msgstr "Benvenuto in Hearthstone Deck Tracker"
 
 #: web/views/__init__.py:309
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
-msgstr ""
+msgstr "Scopri cosa puoi fare con Hearthstone Deck Tracker, oltre che nel nostro sito!"
 
 #: web/views/archetypes.py:30
 msgid "Hearthstone Meta"
@@ -874,11 +875,11 @@ msgstr "Trova statistiche e diverse {name} liste di mazzi."
 
 #: web/views/archetypes.py:113
 msgid "Archetypes"
-msgstr ""
+msgstr "Archetipi"
 
 #: web/views/battlegrounds.py:92
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
-msgstr ""
+msgstr "Migliora il tuo stile di gioco con le statistiche di Battaglia all'interno di Tier7's, incluso le informazioni reperibili sui migliori eroi, composizioni, servitori e molto altro!"
 
 #: web/views/battlegrounds.py:109
 msgid "HSReplay.net Tier7 for Battlegrounds"
@@ -890,7 +891,7 @@ msgstr "Battlegrounds Eroi"
 
 #: web/views/battlegrounds.py:116
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
-msgstr ""
+msgstr "Esplora la nostro Tier List degli Eroi di Battaglia e impara quale eroe sia il migliore - basato sui dati di milioni di partite."
 
 #: web/views/battlegrounds.py:133
 msgid "Battlegrounds Darkmoon Prizes"
@@ -942,7 +943,7 @@ msgstr "Nessuna carta trovata corrispondente alla richiesta."
 
 #: web/views/cards.py:126 web/views/cards.py:129
 msgid "Hearthstone Card"
-msgstr ""
+msgstr "Carta di Hearthstone"
 
 #: web/views/cards.py:151
 msgid "Statistics and decks!"
@@ -1040,32 +1041,32 @@ msgstr "Trova i nuovi mazzi popolari su Hearthstone, lista aggiornata tutti i gi
 
 #: web/views/decks.py:133
 msgid "Trending Decks"
-msgstr ""
+msgstr "Mazzi più utilizzati"
 
 #: web/views/mercenaries.py:74 web/views/mercenaries.py:94
 msgid "Mercenaries Collection"
-msgstr ""
+msgstr "Collezione di Mercenari"
 
 #: web/views/mercenaries.py:108
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
-msgstr ""
+msgstr "{utente} Collezione di Mercenari"
 
 #: web/views/mercenaries.py:139
 msgid "Mercenaries Home"
-msgstr ""
+msgstr "Home Mercenari"
 
 #: web/views/mercenaries.py:145
 msgid "Get all the information you need to win at Hearthstone Mercenaries with our Mercenaries stats and collection tracking. See top mercenaries tier lists and parties."
-msgstr ""
+msgstr "Trova tutte le informazioni che ti serveno a vincere in Mercenari con il nostro Tracking di collezione e statistiche di Mercenari. Vedi le migliori tier list e le migliori squadre di mercenari."
 
 #: web/views/mercenaries.py:160
 msgid "Mercenaries Parties"
-msgstr ""
+msgstr "Squadre Mercenari"
 
 #: web/views/mercenaries.py:170
 msgid "Mercenaries Tier List"
-msgstr ""
+msgstr "Tier List Mercenari"
 
 #: web/views/oauth2.py:46
 msgid "Access has been revoked."
