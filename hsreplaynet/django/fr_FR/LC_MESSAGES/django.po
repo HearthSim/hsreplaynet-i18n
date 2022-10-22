@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-29 01:40+0000\n"
-"PO-Revision-Date: 2022-10-19 00:40\n"
+"POT-Creation-Date: 2022-10-22 01:40+0000\n"
+"PO-Revision-Date: 2022-10-22 12:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -512,20 +512,21 @@ msgstr "Suivez-nous sur Instagram"
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Non affilié à Blizzard Entertainment."
 
-#: templates/footer.html:63 templates/navigation.html:105
-#: templates/navigation.html:171 templates/navigation.html:231
+#: templates/footer.html:63 templates/navigation.html:106
+#: templates/navigation.html:185 templates/navigation.html:245
 #: web/views/__init__.py:174
 msgid "Downloads"
 msgstr "Téléchargements"
 
-#: templates/footer.html:64 templates/navigation.html:220
-#: templates/navigation.html:223 web/views/premium.py:29
+#: templates/footer.html:64 templates/navigation.html:234
+#: templates/navigation.html:237 web/views/premium.py:29
 msgid "Premium"
 msgstr "Premium"
 
-#: templates/footer.html:65 templates/navigation.html:55
+#: templates/footer.html:65 templates/navigation.html:56
 #: web/views/battlegrounds.py:103 web/views/battlegrounds.py:123
-#: web/views/battlegrounds.py:137 web/views/battlegrounds.py:192
+#: web/views/battlegrounds.py:137 web/views/battlegrounds.py:151
+#: web/views/battlegrounds.py:206
 msgid "Battlegrounds"
 msgstr "Champs de bataille"
 
@@ -577,77 +578,81 @@ msgstr "Le replay n'est pas disponible"
 msgid "This replay is no longer available."
 msgstr "Ce replay n'est plus disponible."
 
-#: templates/navigation.html:14
+#: templates/navigation.html:15
 msgid "Toggle navigation"
 msgstr "Navigation"
 
-#: templates/navigation.html:43
+#: templates/navigation.html:44
 msgid "Hearthstone"
 msgstr "Hearthstone"
 
-#: templates/navigation.html:72
+#: templates/navigation.html:73
 msgid "Home"
 msgstr "Accueil"
 
-#: templates/navigation.html:85
+#: templates/navigation.html:86
 msgid "Tier List"
 msgstr "Tier List"
 
-#: templates/navigation.html:98
+#: templates/navigation.html:99
 msgid "Parties"
 msgstr "Groupes"
 
-#: templates/navigation.html:116 web/views/battlegrounds.py:124
-#: web/views/battlegrounds.py:201
+#: templates/navigation.html:117 web/views/battlegrounds.py:124
+#: web/views/battlegrounds.py:215
 msgid "Heroes"
 msgstr "Héros"
 
-#: templates/navigation.html:128 web/views/battlegrounds.py:138
+#: templates/navigation.html:129 web/views/battlegrounds.py:138
 msgid "Darkmoon Prizes"
 msgstr "Prix de Sombrelune"
 
-#: templates/navigation.html:139
+#: templates/navigation.html:140
 msgid "Minions"
 msgstr "Serviteurs"
 
-#: templates/navigation.html:149
+#: templates/navigation.html:150
 msgid "Compositions"
 msgstr "Compositions"
 
-#: templates/navigation.html:163 templates/navigation.html:221
+#: templates/navigation.html:164 templates/navigation.html:235
 msgid "SALE!"
 msgstr "SOLDES !"
 
 #: templates/navigation.html:178
+msgid "New Autobattler!"
+msgstr ""
+
+#: templates/navigation.html:192
 msgid "Articles"
 msgstr "Articles"
 
-#: templates/navigation.html:184
+#: templates/navigation.html:198
 msgid "Trending"
 msgstr "Tendances"
 
-#: templates/navigation.html:192 templates/navigation.html:198
+#: templates/navigation.html:206 templates/navigation.html:212
 #: web/views/archetypes.py:39
 msgid "Meta"
 msgstr "Meta"
 
-#: templates/navigation.html:193
+#: templates/navigation.html:207
 msgid "Back soon!"
 msgstr "Revenez bientôt !"
 
-#: templates/navigation.html:205 web/views/decks.py:33
+#: templates/navigation.html:219 web/views/decks.py:33
 msgid "Decks"
 msgstr "Decks"
 
-#: templates/navigation.html:211 web/views/cards.py:38 web/views/cards.py:169
+#: templates/navigation.html:225 web/views/cards.py:38 web/views/cards.py:169
 msgid "Cards"
 msgstr "Cartes"
 
-#: templates/navigation.html:257
+#: templates/navigation.html:271
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "Nous sommes en train de mettre à jour cette section à la suite du dernier patch Champ de batailles. Il se peut que vous rencontriez temporairement des données incomplètes ou retardées."
 
-#: templates/navigation.html:263
+#: templates/navigation.html:277
 msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
 msgstr "À partir du 1er septembre, les replays qui n'ont pas été consultés au cours des six derniers mois seront définitivement supprimés du site. Si vous souhaitez conserver un replay spécifique, veuillez ouvrir la page de ce replay au moins une fois avant le 31 août."
 
@@ -897,35 +902,43 @@ msgstr "Explorez notre Tier List de héros de Champs de bataille et apprenez que
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr "Prix de Sombrelune du Champ de batailles"
 
-#: web/views/battlegrounds.py:143 web/views/battlegrounds.py:169
+#: web/views/battlegrounds.py:147
+msgid "Battlegrounds Storybook Brawl"
+msgstr ""
+
+#: web/views/battlegrounds.py:152
+msgid "Storybook Brawl"
+msgstr ""
+
+#: web/views/battlegrounds.py:157 web/views/battlegrounds.py:183
 msgid "Battlegrounds Hero"
 msgstr "Héros des Champs de bataille"
 
-#: web/views/battlegrounds.py:161
+#: web/views/battlegrounds.py:175
 msgid "No matching hero found."
 msgstr "Pas de héros correspondant trouvé."
 
-#: web/views/battlegrounds.py:262
+#: web/views/battlegrounds.py:276
 msgid "Battlegrounds Minions"
 msgstr "Serviteurs des Champs de bataille"
 
-#: web/views/battlegrounds.py:268 web/views/battlegrounds.py:294
+#: web/views/battlegrounds.py:282 web/views/battlegrounds.py:308
 msgid "Battlegrounds Minion"
 msgstr "Serviteur des Champs de bataille"
 
-#: web/views/battlegrounds.py:286
+#: web/views/battlegrounds.py:300
 msgid "No matching minion found."
 msgstr "Pas de serviteur correspondant trouvé."
 
-#: web/views/battlegrounds.py:326
+#: web/views/battlegrounds.py:340
 msgid "Battlegrounds Compositions"
 msgstr "Compositions des Champs de bataille"
 
-#: web/views/battlegrounds.py:332 web/views/battlegrounds.py:355
+#: web/views/battlegrounds.py:346 web/views/battlegrounds.py:369
 msgid "Battlegrounds Composition"
 msgstr "Composition des Champs de bataille"
 
-#: web/views/battlegrounds.py:350
+#: web/views/battlegrounds.py:364
 msgid "No matching composition found."
 msgstr "Pas de composition correspondante trouvée."
 

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-29 01:40+0000\n"
-"PO-Revision-Date: 2022-10-19 00:40\n"
+"POT-Creation-Date: 2022-10-22 01:40+0000\n"
+"PO-Revision-Date: 2022-10-22 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -513,20 +513,21 @@ msgstr "在Instagram上关注我们"
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "与Blizzard Entertainment没有从属关系。"
 
-#: templates/footer.html:63 templates/navigation.html:105
-#: templates/navigation.html:171 templates/navigation.html:231
+#: templates/footer.html:63 templates/navigation.html:106
+#: templates/navigation.html:185 templates/navigation.html:245
 #: web/views/__init__.py:174
 msgid "Downloads"
 msgstr "下载"
 
-#: templates/footer.html:64 templates/navigation.html:220
-#: templates/navigation.html:223 web/views/premium.py:29
+#: templates/footer.html:64 templates/navigation.html:234
+#: templates/navigation.html:237 web/views/premium.py:29
 msgid "Premium"
 msgstr "升级会员"
 
-#: templates/footer.html:65 templates/navigation.html:55
+#: templates/footer.html:65 templates/navigation.html:56
 #: web/views/battlegrounds.py:103 web/views/battlegrounds.py:123
-#: web/views/battlegrounds.py:137 web/views/battlegrounds.py:192
+#: web/views/battlegrounds.py:137 web/views/battlegrounds.py:151
+#: web/views/battlegrounds.py:206
 msgid "Battlegrounds"
 msgstr "酒馆战棋"
 
@@ -578,77 +579,81 @@ msgstr "不支持回放"
 msgid "This replay is no longer available."
 msgstr "这个录像已不可用"
 
-#: templates/navigation.html:14
+#: templates/navigation.html:15
 msgid "Toggle navigation"
 msgstr "切换导航"
 
-#: templates/navigation.html:43
+#: templates/navigation.html:44
 msgid "Hearthstone"
 msgstr "炉石传说"
 
-#: templates/navigation.html:72
+#: templates/navigation.html:73
 msgid "Home"
 msgstr "首页"
 
-#: templates/navigation.html:85
+#: templates/navigation.html:86
 msgid "Tier List"
 msgstr "佣兵强度"
 
-#: templates/navigation.html:98
+#: templates/navigation.html:99
 msgid "Parties"
 msgstr "队伍"
 
-#: templates/navigation.html:116 web/views/battlegrounds.py:124
-#: web/views/battlegrounds.py:201
+#: templates/navigation.html:117 web/views/battlegrounds.py:124
+#: web/views/battlegrounds.py:215
 msgid "Heroes"
 msgstr "英雄"
 
-#: templates/navigation.html:128 web/views/battlegrounds.py:138
+#: templates/navigation.html:129 web/views/battlegrounds.py:138
 msgid "Darkmoon Prizes"
 msgstr "暗月奖品"
 
-#: templates/navigation.html:139
+#: templates/navigation.html:140
 msgid "Minions"
 msgstr "随从"
 
-#: templates/navigation.html:149
+#: templates/navigation.html:150
 msgid "Compositions"
 msgstr "流派"
 
-#: templates/navigation.html:163 templates/navigation.html:221
+#: templates/navigation.html:164 templates/navigation.html:235
 msgid "SALE!"
 msgstr "促销！"
 
 #: templates/navigation.html:178
+msgid "New Autobattler!"
+msgstr ""
+
+#: templates/navigation.html:192
 msgid "Articles"
 msgstr "文章"
 
-#: templates/navigation.html:184
+#: templates/navigation.html:198
 msgid "Trending"
 msgstr "趋势"
 
-#: templates/navigation.html:192 templates/navigation.html:198
+#: templates/navigation.html:206 templates/navigation.html:212
 #: web/views/archetypes.py:39
 msgid "Meta"
 msgstr "环境"
 
-#: templates/navigation.html:193
+#: templates/navigation.html:207
 msgid "Back soon!"
 msgstr "马上回来！"
 
-#: templates/navigation.html:205 web/views/decks.py:33
+#: templates/navigation.html:219 web/views/decks.py:33
 msgid "Decks"
 msgstr "套牌"
 
-#: templates/navigation.html:211 web/views/cards.py:38 web/views/cards.py:169
+#: templates/navigation.html:225 web/views/cards.py:38 web/views/cards.py:169
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:257
+#: templates/navigation.html:271
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "我们正在根据最新酒馆战棋补丁更新此页面。您可能会暂时看到缺失和过期的信息。"
 
-#: templates/navigation.html:263
+#: templates/navigation.html:277
 msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
 msgstr "从9月1日开始，过去6个月内未被观看过的游戏回放将会被永久删除。 如果您想保留特定的回放，请在8月31日之前打开该重播页面至少一次。"
 
@@ -900,35 +905,43 @@ msgstr ""
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr "暗月奖品"
 
-#: web/views/battlegrounds.py:143 web/views/battlegrounds.py:169
+#: web/views/battlegrounds.py:147
+msgid "Battlegrounds Storybook Brawl"
+msgstr ""
+
+#: web/views/battlegrounds.py:152
+msgid "Storybook Brawl"
+msgstr ""
+
+#: web/views/battlegrounds.py:157 web/views/battlegrounds.py:183
 msgid "Battlegrounds Hero"
 msgstr "酒馆战棋英雄"
 
-#: web/views/battlegrounds.py:161
+#: web/views/battlegrounds.py:175
 msgid "No matching hero found."
 msgstr "未找到匹配的英雄。"
 
-#: web/views/battlegrounds.py:262
+#: web/views/battlegrounds.py:276
 msgid "Battlegrounds Minions"
 msgstr "酒馆战棋随从"
 
-#: web/views/battlegrounds.py:268 web/views/battlegrounds.py:294
+#: web/views/battlegrounds.py:282 web/views/battlegrounds.py:308
 msgid "Battlegrounds Minion"
 msgstr "酒馆战棋随从"
 
-#: web/views/battlegrounds.py:286
+#: web/views/battlegrounds.py:300
 msgid "No matching minion found."
 msgstr "未找到匹配的随从。"
 
-#: web/views/battlegrounds.py:326
+#: web/views/battlegrounds.py:340
 msgid "Battlegrounds Compositions"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:332 web/views/battlegrounds.py:355
+#: web/views/battlegrounds.py:346 web/views/battlegrounds.py:369
 msgid "Battlegrounds Composition"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:350
+#: web/views/battlegrounds.py:364
 msgid "No matching composition found."
 msgstr "没有找到对应的流派。"
 
