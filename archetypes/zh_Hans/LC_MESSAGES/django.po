@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-29T01:40:39.053482\n"
+"POT-Creation-Date: 2022-11-03T01:40:40.437704\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-11-03 00:40\n"
+"PO-Revision-Date: 2022-11-03 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1293,10 +1293,6 @@ msgstr "快攻骑"
 msgid "Celestial Druid"
 msgstr "超凡德"
 
-#: https://hsreplay.net/archetypes/149/taunt-druid
-msgid "Taunt Druid"
-msgstr "墙德"
-
 #: https://hsreplay.net/archetypes/138/secret-hunter
 msgid "Secret Hunter"
 msgstr "奥秘猎"
@@ -1729,11 +1725,23 @@ msgstr "报告骑"
 msgid "Big Demon Hunter"
 msgstr "大哥瞎"
 
+#: https://hsreplay.net/archetypes/201/totem-shaman
+msgid "Totem Shaman"
+msgstr "图腾萨"
+
+#: https://hsreplay.net/archetypes/149/taunt-druid
+msgid "Taunt Druid"
+msgstr "墙德"
+
 #: https://hsreplay.net/archetypes/129/big-priest
 msgid "Big Priest"
 msgstr "大哥牧"
 
-#: https://hsreplay.net/archetypes/201/totem-shaman
-msgid "Totem Shaman"
-msgstr "图腾萨"
+#: https://hsreplay.net/archetypes/552/prestor-rogue
+msgid "Prestor Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/553/keleseth-rogue
+msgid "Keleseth Rogue"
+msgstr ""
 

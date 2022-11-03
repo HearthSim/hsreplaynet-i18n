@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-09-29T01:40:39.053482\n"
+"POT-Creation-Date: 2022-11-03T01:40:40.437704\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2022-11-03 00:40\n"
+"PO-Revision-Date: 2022-11-03 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1293,10 +1293,6 @@ msgstr "Агро паладин"
 msgid "Celestial Druid"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/149/taunt-druid
-msgid "Taunt Druid"
-msgstr "Друид-провокатор"
-
 #: https://hsreplay.net/archetypes/138/secret-hunter
 msgid "Secret Hunter"
 msgstr "Секрет охотник"
@@ -1729,11 +1725,23 @@ msgstr "Рекрут паладин"
 msgid "Big Demon Hunter"
 msgstr "Большой охотник на демонов"
 
+#: https://hsreplay.net/archetypes/201/totem-shaman
+msgid "Totem Shaman"
+msgstr "Тотем шаман"
+
+#: https://hsreplay.net/archetypes/149/taunt-druid
+msgid "Taunt Druid"
+msgstr "Друид-провокатор"
+
 #: https://hsreplay.net/archetypes/129/big-priest
 msgid "Big Priest"
 msgstr "Большой жрец"
 
-#: https://hsreplay.net/archetypes/201/totem-shaman
-msgid "Totem Shaman"
-msgstr "Тотем шаман"
+#: https://hsreplay.net/archetypes/552/prestor-rogue
+msgid "Prestor Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/553/keleseth-rogue
+msgid "Keleseth Rogue"
+msgstr ""
 
