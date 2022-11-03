@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-01 01:40+0000\n"
-"PO-Revision-Date: 2022-11-01 12:40\n"
+"POT-Creation-Date: 2022-11-02 18:32+0000\n"
+"PO-Revision-Date: 2022-11-03 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -533,7 +533,7 @@ msgstr ""
 msgid "Tier7"
 msgstr ""
 
-#: templates/footer.html:67 web/views/mercenaries.py:151
+#: templates/footer.html:67 web/views/mercenaries.py:143
 msgid "Mercenaries"
 msgstr ""
 
@@ -1053,28 +1053,28 @@ msgstr ""
 msgid "Trending Decks"
 msgstr ""
 
-#: web/views/mercenaries.py:74 web/views/mercenaries.py:94
+#: web/views/mercenaries.py:70 web/views/mercenaries.py:86
 msgid "Mercenaries Collection"
 msgstr ""
 
-#: web/views/mercenaries.py:108
+#: web/views/mercenaries.py:100
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
 msgstr ""
 
-#: web/views/mercenaries.py:139
+#: web/views/mercenaries.py:131
 msgid "Mercenaries Home"
 msgstr ""
 
-#: web/views/mercenaries.py:145
+#: web/views/mercenaries.py:137
 msgid "Get all the information you need to win at Hearthstone Mercenaries with our Mercenaries stats and collection tracking. See top mercenaries tier lists and parties."
 msgstr ""
 
-#: web/views/mercenaries.py:160
+#: web/views/mercenaries.py:152
 msgid "Mercenaries Parties"
 msgstr ""
 
-#: web/views/mercenaries.py:170
+#: web/views/mercenaries.py:162
 msgid "Mercenaries Tier List"
 msgstr ""
 
