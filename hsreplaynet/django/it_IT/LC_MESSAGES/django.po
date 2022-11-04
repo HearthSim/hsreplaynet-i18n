@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-02 18:32+0000\n"
-"PO-Revision-Date: 2022-11-03 12:40\n"
+"PO-Revision-Date: 2022-11-04 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -35,7 +35,7 @@ msgstr "La carta è stata rifiutata."
 
 #: api/exceptions.py:31
 msgid "You need to authenticate to view this collection."
-msgstr "E' necessaria l'autenticazione per vedere la tua collezione."
+msgstr "È necessaria l'autenticazione per vedere la tua collezione."
 
 #: api/exceptions.py:36
 msgid "You do not have permission to view this collection."
@@ -52,7 +52,7 @@ msgstr "Questo piano non è disponibile."
 #: api/fields.py:9
 #, python-brace-format
 msgid "{input} is not a valid member of {enum}."
-msgstr "{input} non è membro di {enum}."
+msgstr "{input} non è un membro valido di {enum}."
 
 #: api/views/features.py:33
 msgid "Code has already been used."
@@ -88,7 +88,7 @@ msgstr "La tua carta è stata rifiutata. Per favore utilizza una carta diversa."
 
 #: billing/views.py:295
 msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
-msgstr "Questo indirizzo email è associato ad un altro account. Se desideri unire gli account, contattaci!"
+msgstr "Questo indirizzo email è associato a un altro account. Se desideri unire gli account, contattaci!"
 
 #: billing/views.py:323
 msgid "You have multiple subscriptions. Please contact us."
@@ -104,7 +104,7 @@ msgstr "Il tuo abbonamento attuale è ancora attivo. Se hai problemi di fatturaz
 
 #: billing/views.py:347
 msgid "You are already subscribed!"
-msgstr "Sei già iscritto!"
+msgstr "Sei già abbonato!"
 
 #: billing/views.py:353 billing/views.py:498
 msgid "You already have an active or a pending subscription."
@@ -112,7 +112,7 @@ msgstr "Hai già un abbonamento attivo o in sospeso."
 
 #: billing/views.py:364
 msgid "You cannot create a new subscription using this payment method."
-msgstr ""
+msgstr "Non è possibile creare un nuovo abbonamento utilizzando questo metodo di pagamento."
 
 #: billing/views.py:399
 msgid "Could not process subscription."
@@ -626,7 +626,7 @@ msgstr "VENDITA!"
 
 #: templates/navigation.html:178
 msgid "New Autobattler!"
-msgstr ""
+msgstr "Nuovo Autobattler!"
 
 #: templates/navigation.html:192
 msgid "Articles"

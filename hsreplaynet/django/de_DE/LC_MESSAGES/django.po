@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-02 18:32+0000\n"
-"PO-Revision-Date: 2022-11-03 12:40\n"
+"PO-Revision-Date: 2022-11-04 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -160,7 +160,7 @@ msgstr "Du bist nicht als der korrekte Benutzer angemeldet."
 
 #: billing/views.py:517
 msgid "Subscription was canceled by PayPal."
-msgstr "Das Abonnement wurde von PayPal abgebrochen."
+msgstr "Das Abo wurde von PayPal abgebrochen."
 
 #: billing/views.py:525
 msgid "You are now subscribed with PayPal!"
@@ -1065,7 +1065,7 @@ msgstr "Söldner-Sammlung"
 #: web/views/mercenaries.py:100
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
-msgstr "{user}'s Söldner-Sammlung"
+msgstr "{user}s Söldner-Sammlung"
 
 #: web/views/mercenaries.py:131
 msgid "Mercenaries Home"
