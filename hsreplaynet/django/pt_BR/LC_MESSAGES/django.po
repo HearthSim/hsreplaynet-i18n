@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-11-02 18:32+0000\n"
-"PO-Revision-Date: 2022-11-04 12:40\n"
+"PO-Revision-Date: 2022-11-05 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -258,11 +258,11 @@ msgstr "Criado em"
 
 #: templates/account/base.html:15 web/views/dashboard.py:38
 msgid "Account"
-msgstr ""
+msgstr "Conta"
 
 #: templates/account/base.html:16 web/views/allauth.py:21
 msgid "Emails"
-msgstr ""
+msgstr "Emails"
 
 #: templates/account/base.html:17
 msgid "Billing"
@@ -270,11 +270,11 @@ msgstr "Pagamento"
 
 #: templates/account/base.html:18 web/views/allauth.py:14
 msgid "Connections"
-msgstr ""
+msgstr "Conexões"
 
 #: templates/account/base.html:19 web/views/dashboard.py:282
 msgid "Applications"
-msgstr ""
+msgstr "Aplicativos"
 
 #: templates/account/base.html:23 templates/account/login.html:86
 #: templates/account/signup.html:33
@@ -487,7 +487,7 @@ msgstr ""
 
 #: templates/base.html:75
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
-msgstr ""
+msgstr "Xsolla é um distribuidor global autorizado de HSReplay.net"
 
 #: templates/footer.html:8
 msgid "Back to top"
@@ -515,7 +515,7 @@ msgstr ""
 
 #: templates/footer.html:55
 msgid "Not affiliated with Blizzard Entertainment."
-msgstr ""
+msgstr "Não vinculado com Blizzard Entertainment."
 
 #: templates/footer.html:63 templates/navigation.html:106
 #: templates/navigation.html:185 templates/navigation.html:245
@@ -533,35 +533,35 @@ msgstr "Premium"
 #: web/views/battlegrounds.py:137 web/views/battlegrounds.py:151
 #: web/views/battlegrounds.py:206
 msgid "Battlegrounds"
-msgstr ""
+msgstr "Battlegrounds"
 
 #: templates/footer.html:66 web/views/battlegrounds.py:104
 msgid "Tier7"
-msgstr ""
+msgstr "Tier7"
 
 #: templates/footer.html:67 web/views/mercenaries.py:143
 msgid "Mercenaries"
-msgstr ""
+msgstr "Mercenários"
 
 #: templates/footer.html:71
 msgid "Support"
-msgstr ""
+msgstr "Suporte"
 
 #: templates/footer.html:73
 msgid "Your Account"
-msgstr ""
+msgstr "Sua Conta"
 
 #: templates/footer.html:85
 msgid "Help Center"
-msgstr ""
+msgstr "Central de Ajuda"
 
 #: templates/footer.html:87
 msgid "Contact Us"
-msgstr ""
+msgstr "Fale Conosco"
 
 #: templates/footer.html:92
 msgid "Legal"
-msgstr ""
+msgstr "Legal"
 
 #: templates/footer.html:95
 msgid "Terms of Service"
@@ -589,7 +589,7 @@ msgstr "Ativar/desativar navegação"
 
 #: templates/navigation.html:44
 msgid "Hearthstone"
-msgstr ""
+msgstr "Hearthstone"
 
 #: templates/navigation.html:73
 msgid "Home"
