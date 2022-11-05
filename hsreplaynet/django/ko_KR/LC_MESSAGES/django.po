@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-02 18:32+0000\n"
-"PO-Revision-Date: 2022-11-04 12:40\n"
+"POT-Creation-Date: 2022-11-05 01:40+0000\n"
+"PO-Revision-Date: 2022-11-05 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -485,7 +485,7 @@ msgstr "인증메일을 보냈습니다. 메일 안 링크를 눌러 가입을 �
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr ""
 
-#: templates/base.html:75
+#: templates/base.html:82
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
 msgstr ""
 
@@ -517,29 +517,28 @@ msgstr ""
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr ""
 
-#: templates/footer.html:63 templates/navigation.html:106
-#: templates/navigation.html:185 templates/navigation.html:245
+#: templates/footer.html:63 templates/navigation.html:77
+#: templates/navigation.html:156 templates/navigation.html:216
 #: web/views/__init__.py:174
 msgid "Downloads"
 msgstr "다운로드"
 
-#: templates/footer.html:64 templates/navigation.html:234
-#: templates/navigation.html:237 web/views/premium.py:29
+#: templates/footer.html:64 templates/navigation.html:205
+#: templates/navigation.html:208 web/views/premium.py:31
 msgid "Premium"
 msgstr "프리미엄"
 
-#: templates/footer.html:65 templates/navigation.html:56
-#: web/views/battlegrounds.py:103 web/views/battlegrounds.py:123
-#: web/views/battlegrounds.py:137 web/views/battlegrounds.py:151
-#: web/views/battlegrounds.py:206
+#: templates/footer.html:65 web/views/battlegrounds.py:106
+#: web/views/battlegrounds.py:126 web/views/battlegrounds.py:140
+#: web/views/battlegrounds.py:154 web/views/battlegrounds.py:210
 msgid "Battlegrounds"
 msgstr "전장"
 
-#: templates/footer.html:66 web/views/battlegrounds.py:104
+#: templates/footer.html:66 web/views/battlegrounds.py:107
 msgid "Tier7"
 msgstr ""
 
-#: templates/footer.html:67 web/views/mercenaries.py:143
+#: templates/footer.html:67 web/views/mercenaries.py:147
 msgid "Mercenaries"
 msgstr ""
 
@@ -588,76 +587,72 @@ msgid "Toggle navigation"
 msgstr "메뉴보기"
 
 #: templates/navigation.html:44
-msgid "Hearthstone"
-msgstr ""
-
-#: templates/navigation.html:73
 msgid "Home"
 msgstr ""
 
-#: templates/navigation.html:86
+#: templates/navigation.html:57
 msgid "Tier List"
 msgstr ""
 
-#: templates/navigation.html:99
+#: templates/navigation.html:70
 msgid "Parties"
 msgstr ""
 
-#: templates/navigation.html:117 web/views/battlegrounds.py:124
-#: web/views/battlegrounds.py:215
+#: templates/navigation.html:88 web/views/battlegrounds.py:127
+#: web/views/battlegrounds.py:219
 msgid "Heroes"
 msgstr ""
 
-#: templates/navigation.html:129 web/views/battlegrounds.py:138
+#: templates/navigation.html:100 web/views/battlegrounds.py:141
 msgid "Darkmoon Prizes"
 msgstr ""
 
-#: templates/navigation.html:140
+#: templates/navigation.html:111
 msgid "Minions"
 msgstr ""
 
-#: templates/navigation.html:150
+#: templates/navigation.html:121
 msgid "Compositions"
 msgstr ""
 
-#: templates/navigation.html:164 templates/navigation.html:235
+#: templates/navigation.html:135 templates/navigation.html:206
 msgid "SALE!"
 msgstr ""
 
-#: templates/navigation.html:178
+#: templates/navigation.html:149
 msgid "New Autobattler!"
 msgstr ""
 
-#: templates/navigation.html:192
+#: templates/navigation.html:163
 msgid "Articles"
 msgstr "최근소식"
 
-#: templates/navigation.html:198
+#: templates/navigation.html:169
 msgid "Trending"
 msgstr "떠오르는 덱"
 
-#: templates/navigation.html:206 templates/navigation.html:212
+#: templates/navigation.html:177 templates/navigation.html:183
 #: web/views/archetypes.py:39
 msgid "Meta"
 msgstr "최신유행"
 
-#: templates/navigation.html:207
+#: templates/navigation.html:178
 msgid "Back soon!"
 msgstr ""
 
-#: templates/navigation.html:219 web/views/decks.py:33
+#: templates/navigation.html:190 web/views/decks.py:33
 msgid "Decks"
 msgstr "덱"
 
-#: templates/navigation.html:225 web/views/cards.py:38 web/views/cards.py:169
+#: templates/navigation.html:196 web/views/cards.py:38 web/views/cards.py:170
 msgid "Cards"
 msgstr "카드목록"
 
-#: templates/navigation.html:271
+#: templates/navigation.html:242
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
-#: templates/navigation.html:277
+#: templates/navigation.html:248
 msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
 msgstr ""
 
@@ -816,15 +811,15 @@ msgstr ""
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - 하스스톤 승률통계"
 
-#: web/views/__init__.py:162 web/views/battlegrounds.py:72
+#: web/views/__init__.py:162 web/views/battlegrounds.py:75
 msgid "Download Hearthstone Deck Tracker"
 msgstr "하스스톤 덱 트래커 다운로드"
 
-#: web/views/__init__.py:164 web/views/battlegrounds.py:74
+#: web/views/__init__.py:164 web/views/battlegrounds.py:77
 msgid "HSReplay.net Companion App"
 msgstr "HSReplay.net 컴패니언 앱"
 
-#: web/views/__init__.py:166 web/views/battlegrounds.py:76
+#: web/views/__init__.py:166 web/views/battlegrounds.py:79
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "하스스톤 덱 트래커는 당신이 프로들처럼 플레이 할 수 있게 도와주는 무료 프로그램입니다."
 
@@ -868,80 +863,80 @@ msgstr "발견하기"
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr ""
 
-#: web/views/archetypes.py:72
+#: web/views/archetypes.py:74
 msgid "Archetype"
 msgstr "아키타입"
 
-#: web/views/archetypes.py:77
+#: web/views/archetypes.py:80
 msgid "This archetype is no longer available."
 msgstr "이 아키타입은 더 이상 유효하지 않습니다."
 
-#: web/views/archetypes.py:85
+#: web/views/archetypes.py:88
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr ""
 
-#: web/views/archetypes.py:113
+#: web/views/archetypes.py:116
 msgid "Archetypes"
 msgstr ""
 
-#: web/views/battlegrounds.py:92
+#: web/views/battlegrounds.py:95
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
 msgstr ""
 
-#: web/views/battlegrounds.py:109
+#: web/views/battlegrounds.py:112
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr ""
 
-#: web/views/battlegrounds.py:114
+#: web/views/battlegrounds.py:117
 msgid "Battlegrounds Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:116
+#: web/views/battlegrounds.py:119
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:133
+#: web/views/battlegrounds.py:136
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr ""
 
-#: web/views/battlegrounds.py:147
+#: web/views/battlegrounds.py:150
 msgid "Battlegrounds Storybook Brawl"
 msgstr ""
 
-#: web/views/battlegrounds.py:152
+#: web/views/battlegrounds.py:155
 msgid "Storybook Brawl"
 msgstr ""
 
-#: web/views/battlegrounds.py:157 web/views/battlegrounds.py:183
+#: web/views/battlegrounds.py:160 web/views/battlegrounds.py:187
 msgid "Battlegrounds Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:175
+#: web/views/battlegrounds.py:179
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:276
+#: web/views/battlegrounds.py:280
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:282 web/views/battlegrounds.py:308
+#: web/views/battlegrounds.py:286 web/views/battlegrounds.py:313
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:300
+#: web/views/battlegrounds.py:305
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:340
+#: web/views/battlegrounds.py:345
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:346 web/views/battlegrounds.py:369
+#: web/views/battlegrounds.py:351 web/views/battlegrounds.py:375
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:364
+#: web/views/battlegrounds.py:370
 msgid "No matching composition found."
 msgstr ""
 
@@ -953,19 +948,19 @@ msgstr "하스스톤 카드 통계"
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
 msgstr "수집 가능한 모든 하스스톤 카드 통계를 비교합니다. 가장 승률이 높은 카드와 가장 많이 플레이한 카드를 찾아보세요."
 
-#: web/views/cards.py:108
+#: web/views/cards.py:109
 msgid "No card found matching the query."
 msgstr "해당 카드가 없습니다."
 
-#: web/views/cards.py:126 web/views/cards.py:129
+#: web/views/cards.py:127 web/views/cards.py:130
 msgid "Hearthstone Card"
 msgstr ""
 
-#: web/views/cards.py:151
+#: web/views/cards.py:152
 msgid "Statistics and decks!"
 msgstr "통계와 덱!"
 
-#: web/views/cards.py:207
+#: web/views/cards.py:208
 msgid "Hearthstone Card Editor"
 msgstr "하스스톤 카드 에디터"
 
@@ -977,7 +972,7 @@ msgstr "내 카드"
 msgid "Collection"
 msgstr "내 카드"
 
-#: web/views/collections.py:38
+#: web/views/collections.py:39
 #, python-brace-format
 msgid "{user}'s Hearthstone Collection"
 msgstr "{user}의 하스스톤 카드 모음"
@@ -1026,61 +1021,61 @@ msgstr ""
 msgid "My Decks"
 msgstr "내 덱"
 
-#: web/views/decks.py:57
+#: web/views/decks.py:58
 msgid "Deck does not exist."
 msgstr "덱이 존재하지 않습니다."
 
-#: web/views/decks.py:67
+#: web/views/decks.py:68
 msgid "Deck list is too small."
 msgstr "덱이 너무 작습니다."
 
-#: web/views/decks.py:71
+#: web/views/decks.py:72
 msgid "Deck list contains uncollectible cards."
 msgstr "덱 리스트에 수집 불가능한 카드가 포함되어 있습니다."
 
-#: web/views/decks.py:75
+#: web/views/decks.py:76
 msgid "Neutral Deck"
 msgstr ""
 
-#: web/views/decks.py:89
+#: web/views/decks.py:90
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr ""
 
-#: web/views/decks.py:125
+#: web/views/decks.py:128
 msgid "Trending Hearthstone Decks"
 msgstr "떠오르는 하스스톤 덱"
 
-#: web/views/decks.py:127
+#: web/views/decks.py:130
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "매일 매일 업데이트되는 최신 인기 덱을 찾아보세요."
 
-#: web/views/decks.py:133
+#: web/views/decks.py:136
 msgid "Trending Decks"
 msgstr ""
 
-#: web/views/mercenaries.py:70 web/views/mercenaries.py:86
+#: web/views/mercenaries.py:73 web/views/mercenaries.py:89
 msgid "Mercenaries Collection"
 msgstr ""
 
-#: web/views/mercenaries.py:100
+#: web/views/mercenaries.py:104
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
 msgstr ""
 
-#: web/views/mercenaries.py:131
+#: web/views/mercenaries.py:135
 msgid "Mercenaries Home"
 msgstr ""
 
-#: web/views/mercenaries.py:137
+#: web/views/mercenaries.py:141
 msgid "Get all the information you need to win at Hearthstone Mercenaries with our Mercenaries stats and collection tracking. See top mercenaries tier lists and parties."
 msgstr ""
 
-#: web/views/mercenaries.py:152
+#: web/views/mercenaries.py:156
 msgid "Mercenaries Parties"
 msgstr ""
 
-#: web/views/mercenaries.py:162
+#: web/views/mercenaries.py:166
 msgid "Mercenaries Tier List"
 msgstr ""
 
@@ -1093,11 +1088,11 @@ msgstr "액세스가 취소되었습니다."
 msgid "{count} access tokens deleted."
 msgstr "{count} 액세스 토큰 삭제."
 
-#: web/views/premium.py:19
+#: web/views/premium.py:21
 msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."
 msgstr "더 많은 필터, 더 많은 기능, 더 많은 데이터: 수십만개의 게임으로 HSReplay.net이 산출해낸 고급 통계정보를 접해보세요."
 
-#: web/views/premium.py:34
+#: web/views/premium.py:36
 msgid "HSReplay.net Premium for Hearthstone"
 msgstr ""
 
@@ -1105,7 +1100,7 @@ msgstr ""
 msgid "My Replays"
 msgstr "내 리플레이"
 
-#: web/views/replays.py:325
+#: web/views/replays.py:326
 msgid "Uploading replay…"
 msgstr "리플레이 업로드 중…"
 
