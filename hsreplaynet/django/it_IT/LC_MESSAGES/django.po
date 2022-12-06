@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-05 01:40+0000\n"
-"PO-Revision-Date: 2022-12-02 00:40\n"
+"POT-Creation-Date: 2022-12-06 01:40+0000\n"
+"PO-Revision-Date: 2022-12-06 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -178,47 +178,47 @@ msgstr "Il pagamento è già stato completato e non può essere annullato."
 msgid "Your payment was interrupted."
 msgstr "Il tuo pagamento è stato interrotto."
 
-#: settings.py:364
+#: settings.py:366
 msgid "Full access to your HSReplay.net account"
 msgstr "Accesso completo al tuo account HSReplay.net"
 
-#: settings.py:365
+#: settings.py:367
 msgid "Access information about your connected social accounts"
 msgstr "Accedi alle informazioni sui tuoi account social connessi"
 
-#: settings.py:366
+#: settings.py:368
 msgid "View your Hearthstone card collection"
 msgstr "Vedi la tua collezione di carte di Hearthstone"
 
-#: settings.py:367
+#: settings.py:369
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Carica la tua collezione di carte di Hearthstone sul sito"
 
-#: settings.py:368
+#: settings.py:370
 msgid "View your replays"
 msgstr "Visualizza i tuoi replay"
 
-#: settings.py:369
+#: settings.py:371
 msgid "Update and delete your replays"
 msgstr "Aggiorna ed elimina i tuoi replay"
 
-#: settings.py:370
+#: settings.py:372
 msgid "Access the Partner API"
 msgstr "Accedi all'API dei Partner"
 
-#: settings.py:371
+#: settings.py:373
 msgid "Read access to the tournaments service"
 msgstr "Accesso in modalità sola lettura al servizio tornei"
 
-#: settings.py:372
+#: settings.py:374
 msgid "Write access to the tournaments service"
 msgstr "Accesso in modalità scrittura al servizio tornei"
 
-#: settings.py:373
+#: settings.py:375
 msgid "View your webhooks"
 msgstr "Visualizza i tuoi webhooks"
 
-#: settings.py:374
+#: settings.py:376
 msgid "Create and delete webhooks on your behalf"
 msgstr "Crea ed elimina i webhooks per tuo conto"
 
