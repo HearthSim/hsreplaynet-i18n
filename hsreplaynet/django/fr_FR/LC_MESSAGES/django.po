@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-06 01:40+0000\n"
-"PO-Revision-Date: 2022-12-07 00:40\n"
+"POT-Creation-Date: 2022-12-08 01:40+0000\n"
+"PO-Revision-Date: 2022-12-08 12:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -256,7 +256,7 @@ msgstr "Jeton"
 msgid "Created on"
 msgstr "Créé le"
 
-#: templates/account/base.html:15 web/views/dashboard.py:38
+#: templates/account/base.html:15 web/views/dashboard.py:39
 msgid "Account"
 msgstr "Compte"
 
@@ -272,7 +272,7 @@ msgstr "Facturation"
 msgid "Connections"
 msgstr "Connexions"
 
-#: templates/account/base.html:19 web/views/dashboard.py:282
+#: templates/account/base.html:19 web/views/dashboard.py:283
 msgid "Applications"
 msgstr "Applications"
 
@@ -281,7 +281,7 @@ msgstr "Applications"
 msgid "Password"
 msgstr "Mot de passe"
 
-#: templates/account/base.html:25 web/views/dashboard.py:89
+#: templates/account/base.html:25 web/views/dashboard.py:90
 msgid "Delete Account"
 msgstr "Supprimer mon compte"
 
@@ -978,35 +978,35 @@ msgstr "Collection"
 msgid "{user}'s Hearthstone Collection"
 msgstr "Collection Hearthstone de {user}"
 
-#: web/views/dashboard.py:78
+#: web/views/dashboard.py:79
 msgid "API Access"
 msgstr "Accès à l'API"
 
-#: web/views/dashboard.py:111
+#: web/views/dashboard.py:112
 msgid "This account cannot be deleted."
 msgstr "Ce compte ne peut pas être supprimé."
 
-#: web/views/dashboard.py:140
+#: web/views/dashboard.py:141
 msgid "Your replays have been deleted."
 msgstr "Vos rediffusions ont été supprimées."
 
-#: web/views/dashboard.py:175
+#: web/views/dashboard.py:176
 msgid "Could not make account primary."
 msgstr "Impossible de faire de ce compte votre principal."
 
-#: web/views/dashboard.py:249
+#: web/views/dashboard.py:250
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr "Vérifiez votre boîte de réception ! Nous avons envoyé un email pour confirmer vos préférences d'abonnement."
 
-#: web/views/dashboard.py:256 web/views/dashboard.py:262
+#: web/views/dashboard.py:257 web/views/dashboard.py:263
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "Impossible de sauvegarder vos préférences de courriel. Veuillez réessayer plus tard !"
 
-#: web/views/dashboard.py:272
+#: web/views/dashboard.py:273
 msgid "Your email preferences have been saved."
 msgstr "Vos préférences de courrier électronique ont été enregistrées."
 
-#: web/views/dashboard.py:329
+#: web/views/dashboard.py:334
 msgid "Your Application"
 msgstr "Votre demande"
 
@@ -1080,14 +1080,9 @@ msgstr "Groupe de mercenaires"
 msgid "Mercenaries Tier List"
 msgstr "Tier liste Mercenaires"
 
-#: web/views/oauth2.py:46
+#: web/views/oauth2.py:60
 msgid "Access has been revoked."
 msgstr "L’accès a été révoqué."
-
-#: web/views/oauth2.py:80
-#, python-brace-format
-msgid "{count} access tokens deleted."
-msgstr "{count} jetons supprimés."
 
 #: web/views/premium.py:21
 msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."

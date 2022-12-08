@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03T01:40:40.437704\n"
+"POT-Creation-Date: 2022-12-08T01:40:37.033193\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2022-12-07 00:40\n"
+"PO-Revision-Date: 2022-12-08 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -469,6 +469,10 @@ msgstr "海鱼骑"
 msgid "Murloc Aggro Paladin"
 msgstr "快攻鱼人骑"
 
+#: https://hsreplay.net/archetypes/199/big-shaman
+msgid "Big Shaman"
+msgstr "大哥萨"
+
 #: https://hsreplay.net/archetypes/30/token-shaman
 msgid "Token Shaman"
 msgstr "铺场萨"
@@ -508,10 +512,6 @@ msgstr "潜行祈求贼"
 #: https://hsreplay.net/archetypes/185/demon-warlock
 msgid "Demon Warlock"
 msgstr "恶魔术"
-
-#: https://hsreplay.net/archetypes/199/big-shaman
-msgid "Big Shaman"
-msgstr "大哥萨"
 
 #: https://hsreplay.net/archetypes/425/etc-control-warrior
 msgid "ETC Control Warrior"
@@ -1293,6 +1293,10 @@ msgstr "快攻骑"
 msgid "Celestial Druid"
 msgstr "超凡德"
 
+#: https://hsreplay.net/archetypes/554/triple-blood-death-knight
+msgid "Triple Blood Death Knight"
+msgstr "三血死"
+
 #: https://hsreplay.net/archetypes/138/secret-hunter
 msgid "Secret Hunter"
 msgstr "奥秘猎"
@@ -1744,4 +1748,60 @@ msgstr "找龙贼"
 #: https://hsreplay.net/archetypes/553/keleseth-rogue
 msgid "Keleseth Rogue"
 msgstr "王子贼"
+
+#: https://hsreplay.net/archetypes/555/blood-death-knight
+msgid "Blood Death Knight"
+msgstr "控制血死"
+
+#: https://hsreplay.net/archetypes/556/unholy-death-knight
+msgid "Unholy Death Knight"
+msgstr "超生邪死"
+
+#: https://hsreplay.net/archetypes/557/frost-death-knight
+msgid "Frost Death Knight"
+msgstr "控制冰死"
+
+#: https://hsreplay.net/archetypes/558/outcast-demon-hunter
+msgid "Outcast Demon Hunter"
+msgstr "流放瞎"
+
+#: https://hsreplay.net/archetypes/559/boar-druid
+msgid "Boar Druid"
+msgstr "野猪德"
+
+#: https://hsreplay.net/archetypes/560/arcane-hunter
+msgid "Arcane Hunter"
+msgstr "奥术龙鹰猎"
+
+#: https://hsreplay.net/archetypes/561/arcane-mage
+msgid "Arcane Mage"
+msgstr "奥术法"
+
+#: https://hsreplay.net/archetypes/562/breakfast-paladin
+msgid "Breakfast Paladin"
+msgstr "快攻蛋骑"
+
+#: https://hsreplay.net/archetypes/563/undead-priest
+msgid "Undead Priest"
+msgstr "亡灵牧"
+
+#: https://hsreplay.net/archetypes/564/shadow-undead-priest
+msgid "Shadow Undead Priest"
+msgstr "亡灵暗牧"
+
+#: https://hsreplay.net/archetypes/565/concoction-rogue
+msgid "Concoction Rogue"
+msgstr "药水奇迹贼"
+
+#: https://hsreplay.net/archetypes/566/swarm-shaman
+msgid "Swarm Shaman"
+msgstr "亡灵萨"
+
+#: https://hsreplay.net/archetypes/567/alakir-otk-shaman
+msgid "Al'Akir OTK Shaman"
+msgstr "霜语萨"
+
+#: https://hsreplay.net/archetypes/568/undead-warlock
+msgid "Undead Warlock"
+msgstr "亡灵术"
 

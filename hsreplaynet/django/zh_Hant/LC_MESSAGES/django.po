@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-06 01:40+0000\n"
-"PO-Revision-Date: 2022-12-07 00:40\n"
+"POT-Creation-Date: 2022-12-08 01:40+0000\n"
+"PO-Revision-Date: 2022-12-08 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -256,7 +256,7 @@ msgstr "Token"
 msgid "Created on"
 msgstr "創建於"
 
-#: templates/account/base.html:15 web/views/dashboard.py:38
+#: templates/account/base.html:15 web/views/dashboard.py:39
 msgid "Account"
 msgstr "帳號"
 
@@ -272,7 +272,7 @@ msgstr "帳單"
 msgid "Connections"
 msgstr "連接"
 
-#: templates/account/base.html:19 web/views/dashboard.py:282
+#: templates/account/base.html:19 web/views/dashboard.py:283
 msgid "Applications"
 msgstr "應用程式授權"
 
@@ -281,7 +281,7 @@ msgstr "應用程式授權"
 msgid "Password"
 msgstr "密碼"
 
-#: templates/account/base.html:25 web/views/dashboard.py:89
+#: templates/account/base.html:25 web/views/dashboard.py:90
 msgid "Delete Account"
 msgstr "刪除帳號"
 
@@ -980,35 +980,35 @@ msgstr ""
 msgid "{user}'s Hearthstone Collection"
 msgstr ""
 
-#: web/views/dashboard.py:78
+#: web/views/dashboard.py:79
 msgid "API Access"
 msgstr "取得API"
 
-#: web/views/dashboard.py:111
+#: web/views/dashboard.py:112
 msgid "This account cannot be deleted."
 msgstr "這個帳號不能被刪除。"
 
-#: web/views/dashboard.py:140
+#: web/views/dashboard.py:141
 msgid "Your replays have been deleted."
 msgstr "你的重播已被刪除。"
 
-#: web/views/dashboard.py:175
+#: web/views/dashboard.py:176
 msgid "Could not make account primary."
 msgstr "無法將此帳號變為主要帳號。"
 
-#: web/views/dashboard.py:249
+#: web/views/dashboard.py:250
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr ""
 
-#: web/views/dashboard.py:256 web/views/dashboard.py:262
+#: web/views/dashboard.py:257 web/views/dashboard.py:263
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr ""
 
-#: web/views/dashboard.py:272
+#: web/views/dashboard.py:273
 msgid "Your email preferences have been saved."
 msgstr "您的電子郵件偏好已保存。"
 
-#: web/views/dashboard.py:329
+#: web/views/dashboard.py:334
 msgid "Your Application"
 msgstr ""
 
@@ -1082,14 +1082,9 @@ msgstr ""
 msgid "Mercenaries Tier List"
 msgstr ""
 
-#: web/views/oauth2.py:46
+#: web/views/oauth2.py:60
 msgid "Access has been revoked."
 msgstr "存取已被撤銷。"
-
-#: web/views/oauth2.py:80
-#, python-brace-format
-msgid "{count} access tokens deleted."
-msgstr "{count} 存取Token已刪除。"
 
 #: web/views/premium.py:21
 msgid "More filters, more features, more data: Gain access to advanced Hearthstone statistics backed by millions of games with HSReplay.net Premium for HSReplay.net."

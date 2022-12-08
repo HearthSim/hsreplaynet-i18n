@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03T01:40:40.437704\n"
+"POT-Creation-Date: 2022-12-08T01:40:37.033193\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2022-12-07 00:40\n"
+"PO-Revision-Date: 2022-12-08 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -469,6 +469,10 @@ msgstr "Пират мурлок паладин"
 msgid "Murloc Aggro Paladin"
 msgstr "Мурлок агро паладин"
 
+#: https://hsreplay.net/archetypes/199/big-shaman
+msgid "Big Shaman"
+msgstr "Большой шаман"
+
 #: https://hsreplay.net/archetypes/30/token-shaman
 msgid "Token Shaman"
 msgstr "Токен-шаман"
@@ -508,10 +512,6 @@ msgstr "Галакронд разбойник на маскировке"
 #: https://hsreplay.net/archetypes/185/demon-warlock
 msgid "Demon Warlock"
 msgstr "Демон чернокнижник"
-
-#: https://hsreplay.net/archetypes/199/big-shaman
-msgid "Big Shaman"
-msgstr "Большой шаман"
 
 #: https://hsreplay.net/archetypes/425/etc-control-warrior
 msgid "ETC Control Warrior"
@@ -1293,6 +1293,10 @@ msgstr "Агро паладин"
 msgid "Celestial Druid"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/554/triple-blood-death-knight
+msgid "Triple Blood Death Knight"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/138/secret-hunter
 msgid "Secret Hunter"
 msgstr "Секрет охотник"
@@ -1743,5 +1747,61 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/553/keleseth-rogue
 msgid "Keleseth Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/555/blood-death-knight
+msgid "Blood Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/556/unholy-death-knight
+msgid "Unholy Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/557/frost-death-knight
+msgid "Frost Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/558/outcast-demon-hunter
+msgid "Outcast Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/559/boar-druid
+msgid "Boar Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/560/arcane-hunter
+msgid "Arcane Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/561/arcane-mage
+msgid "Arcane Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/562/breakfast-paladin
+msgid "Breakfast Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/563/undead-priest
+msgid "Undead Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/564/shadow-undead-priest
+msgid "Shadow Undead Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/565/concoction-rogue
+msgid "Concoction Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/566/swarm-shaman
+msgid "Swarm Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/567/alakir-otk-shaman
+msgid "Al'Akir OTK Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/568/undead-warlock
+msgid "Undead Warlock"
 msgstr ""
 
