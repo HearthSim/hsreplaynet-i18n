@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-10 01:40+0000\n"
-"PO-Revision-Date: 2022-12-10 12:40\n"
+"POT-Creation-Date: 2022-12-15 01:40+0000\n"
+"PO-Revision-Date: 2022-12-15 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -77,106 +77,6 @@ msgstr "金鑰啟用失敗，但可以在其他帳戶使用。"
 #: api/views/features.py:52
 msgid "Code has been applied to your account."
 msgstr "金鑰啟用成功。"
-
-#: billing/views.py:275
-msgid "Error adding payment card"
-msgstr "新增信用卡時發生錯誤"
-
-#: billing/views.py:279
-msgid "Your card was declined. Please use a different card."
-msgstr "您的卡片被拒絕付款，請使用其他卡片。"
-
-#: billing/views.py:295
-msgid "That email address is associated with another account. If you'd like to merge accounts, please contact us!"
-msgstr "這個Email地址已經和另一個帳戶關聯。如果您想要合併帳戶，請聯繫我們!"
-
-#: billing/views.py:323
-msgid "You have multiple subscriptions. Please contact us."
-msgstr "您有重複訂閱，請聯絡我們。"
-
-#: billing/views.py:337
-msgid "Your subscription has expired."
-msgstr "您的訂閱已經過期。"
-
-#: billing/views.py:343
-msgid "Your current subscription is still active. If you are having billing issues, please contact us!"
-msgstr "您的訂閱依然有效中。如果您對帳務有任何問題，請聯繫我們。"
-
-#: billing/views.py:347
-msgid "You are already subscribed!"
-msgstr "您已訂閱!"
-
-#: billing/views.py:353 billing/views.py:498
-msgid "You already have an active or a pending subscription."
-msgstr "你已經開通會員，或有一個待支付的訂閱。"
-
-#: billing/views.py:364
-msgid "You cannot create a new subscription using this payment method."
-msgstr ""
-
-#: billing/views.py:399
-msgid "Could not process subscription."
-msgstr "無法處理訂閱。"
-
-#: billing/views.py:416
-msgid "Your card declined the charge. Please contact your bank for information."
-msgstr "您的卡片拒絕付款。請聯繫你的銀行以了解更多資訊。"
-
-#: billing/views.py:418
-msgid "Your card does not support payments in USD. Please try a different card."
-msgstr "您的卡片不支援美金計價付款。請試用其他卡片。"
-
-#: billing/views.py:420
-msgid "Your card has exceeded its credit limit. Please use a different one."
-msgstr "您的卡片已經超額。請試用其他卡片。"
-
-#: billing/views.py:422
-msgid "Your card has insufficient funds to proceed."
-msgstr "您的卡片沒有足夠餘額。"
-
-#: billing/views.py:426
-msgid "Your card was declined, you have not been charged. Please try a different card; contact us if this persists."
-msgstr "您的卡片被拒絕了。您並沒有被扣款。請嘗試其他卡片。如果這持續發生，請聯絡我們。"
-
-#: billing/views.py:457
-msgid "You are now subscribed!"
-msgstr "您已訂閱!"
-
-#: billing/views.py:466
-msgid " Please contact us if you are seeing this in error."
-msgstr " 如果您收到此錯誤資訊, 請與我們聯繫。"
-
-#: billing/views.py:487
-msgid "Unable to complete subscription."
-msgstr "無法完成訂閱。"
-
-#: billing/views.py:492
-msgid "Invalid subscription token."
-msgstr "訂閱TOKEN無效。"
-
-#: billing/views.py:495
-msgid "You are not logged in as the correct user."
-msgstr "您沒有作為正確的使用者登錄。"
-
-#: billing/views.py:517
-msgid "Subscription was canceled by PayPal."
-msgstr "訂閱遭到 PayPal取消。"
-
-#: billing/views.py:525
-msgid "You are now subscribed with PayPal!"
-msgstr "你已用Paypal訂閱!"
-
-#: billing/views.py:546
-msgid "Invalid token while cancelling payment."
-msgstr "在取消付款時發生了錯誤。"
-
-#: billing/views.py:551
-msgid "Payment has already completed and cannot be canceled."
-msgstr "已完成付款且不得取消。"
-
-#: billing/views.py:555
-msgid "Your payment was interrupted."
-msgstr "你的付款中斷了。"
 
 #: settings.py:366
 msgid "Full access to your HSReplay.net account"
