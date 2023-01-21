@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-12-15 01:40+0000\n"
-"PO-Revision-Date: 2023-01-19 12:40\n"
+"POT-Creation-Date: 2023-01-21 01:40+0000\n"
+"PO-Revision-Date: 2023-01-21 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -548,11 +548,11 @@ msgstr "套牌"
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:242
+#: templates/navigation.html:243
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "我们正在根据最新酒馆战棋补丁更新此页面。您可能会暂时看到缺失和过期的信息。"
 
-#: templates/navigation.html:248
+#: templates/navigation.html:249
 msgid "Starting on September 1st, replays that have not been viewed within the past 6 months will be permanently removed from the website. If you would like to keep a specific replay, please open that replay's page at least once by August 31st."
 msgstr "从9月1日开始，过去6个月内未被观看过的游戏回放将会被永久删除。 如果您想保留特定的回放，请在8月31日之前打开该重播页面至少一次。"
 
