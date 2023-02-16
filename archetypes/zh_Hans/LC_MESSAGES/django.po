@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-28T01:40:36.333032\n"
+"POT-Creation-Date: 2023-02-16T01:40:38.697511\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-02-15 12:40\n"
+"PO-Revision-Date: 2023-02-16 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1725,10 +1725,6 @@ msgstr "小鬼术"
 msgid "Silver Hand Paladin"
 msgstr "报告骑"
 
-#: https://hsreplay.net/archetypes/371/big-demon-hunter
-msgid "Big Demon Hunter"
-msgstr "大哥瞎"
-
 #: https://hsreplay.net/archetypes/201/totem-shaman
 msgid "Totem Shaman"
 msgstr "图腾萨"
@@ -1813,10 +1809,6 @@ msgstr "法术瞎"
 msgid "Shockspitter Hunter"
 msgstr "龙鹰猎"
 
-#: https://hsreplay.net/archetypes/571/svalna-otk-priest
-msgid "Svalna OTK Priest"
-msgstr "女武神牧"
-
 #: https://hsreplay.net/archetypes/572/fire-warrior
 msgid "Fire Warrior"
 msgstr "火焰战"
@@ -1840,4 +1832,44 @@ msgstr "亡语术"
 #: https://hsreplay.net/archetypes/577/undead-druid
 msgid "Undead Druid"
 msgstr "亡灵德"
+
+#: https://hsreplay.net/archetypes/578/rainbow-death-knight
+msgid "Rainbow Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/579/frozen-blood-death-knight
+msgid "Frozen Blood Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/581/horsemen-demon-hunter
+msgid "Horsemen Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/371/big-demon-hunter
+msgid "Big Demon Hunter"
+msgstr "大哥瞎"
+
+#: https://hsreplay.net/archetypes/582/horsemen-druid
+msgid "Horsemen Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/583/zoo-hunter
+msgid "Zoo Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/584/thaddius-paladin
+msgid "Thaddius Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/571/svalna-priest
+msgid "Svalna Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/585/thaddius-rogue
+msgid "Thaddius Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/586/thaddius-warlock
+msgid "Thaddius Warlock"
+msgstr ""
 
