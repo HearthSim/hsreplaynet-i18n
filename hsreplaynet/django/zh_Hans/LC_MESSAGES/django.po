@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-21 01:40+0000\n"
-"PO-Revision-Date: 2023-02-18 00:40\n"
+"POT-Creation-Date: 2023-02-22 01:40+0000\n"
+"PO-Revision-Date: 2023-02-22 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -176,7 +176,7 @@ msgstr "关联的账户"
 msgid "Applications"
 msgstr "应用授权"
 
-#: templates/account/base.html:23 templates/account/login.html:86
+#: templates/account/base.html:23 templates/account/login.html:81
 #: templates/account/signup.html:33
 msgid "Password"
 msgstr "密码"
@@ -305,19 +305,19 @@ msgstr "使用暴雪战网账号登录"
 msgid "Region"
 msgstr "区域"
 
-#: templates/account/login.html:65
+#: templates/account/login.html:60
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
 msgstr "HSReplay.net不会获取您的暴雪邮箱地址或密码。"
 
-#: templates/account/login.html:75
+#: templates/account/login.html:70
 msgid "Not using a Blizzard account? Sign in with your username and password here."
 msgstr "不用暴雪账号？用您的用户名和密码在此登录。"
 
-#: templates/account/login.html:85 templates/account/signup.html:27
+#: templates/account/login.html:80 templates/account/signup.html:27
 msgid "Username"
 msgstr "用户名"
 
-#: templates/account/login.html:89
+#: templates/account/login.html:84
 msgid "Sign in"
 msgstr "登录"
 

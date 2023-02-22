@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-01-21 01:40+0000\n"
-"PO-Revision-Date: 2023-02-18 00:40\n"
+"POT-Creation-Date: 2023-02-22 01:40+0000\n"
+"PO-Revision-Date: 2023-02-22 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -176,7 +176,7 @@ msgstr "接続"
 msgid "Applications"
 msgstr "アプリケーション"
 
-#: templates/account/base.html:23 templates/account/login.html:86
+#: templates/account/base.html:23 templates/account/login.html:81
 #: templates/account/signup.html:33
 msgid "Password"
 msgstr "パスワード"
@@ -299,19 +299,19 @@ msgstr "Blizzardでログイン"
 msgid "Region"
 msgstr "地域"
 
-#: templates/account/login.html:65
+#: templates/account/login.html:60
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
 msgstr "HSReplay.netは決してあなたのBlizzardのメールアドレスやパスワードにアクセスしません。"
 
-#: templates/account/login.html:75
+#: templates/account/login.html:70
 msgid "Not using a Blizzard account? Sign in with your username and password here."
 msgstr "Blizzardのアカウントをお持ちですか？　ユーザー名とパスワードを入力し、サインインしてください。"
 
-#: templates/account/login.html:85 templates/account/signup.html:27
+#: templates/account/login.html:80 templates/account/signup.html:27
 msgid "Username"
 msgstr "ユーザー名"
 
-#: templates/account/login.html:89
+#: templates/account/login.html:84
 msgid "Sign in"
 msgstr "サインイン"
 
