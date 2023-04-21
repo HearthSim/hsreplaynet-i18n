@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-16T01:40:31.506932\n"
+"POT-Creation-Date: 2023-04-21T01:40:33.862426\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-04-16 12:40\n"
+"PO-Revision-Date: 2023-04-21 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -272,10 +272,6 @@ msgstr "Guerrier fatigue"
 #: https://hsreplay.net/archetypes/195/midrange-paladin
 msgid "Midrange Paladin"
 msgstr "Paladin midrange"
-
-#: https://hsreplay.net/archetypes/127/overload-shaman
-msgid "Overload Shaman"
-msgstr "Chaman surcharge"
 
 #: https://hsreplay.net/archetypes/197/cube-warlock
 msgid "Cube Warlock"
@@ -1217,10 +1213,6 @@ msgstr ""
 msgid "Control Warlock"
 msgstr "Démoniste contrôle"
 
-#: https://hsreplay.net/archetypes/419/menagerie-warrior
-msgid "Menagerie Warrior"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/422/secret-face-hunter
 msgid "Secret Face Hunter"
 msgstr ""
@@ -1375,10 +1367,6 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/466/chaos-warlock
 msgid "Chaos Warlock"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/467/menagerie-rogue
-msgid "Menagerie Rogue"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/1/freeze-mage
@@ -1697,10 +1685,6 @@ msgstr ""
 msgid "Skeleton Mage"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/544/deathrattle-druid
-msgid "Deathrattle Druid"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/338/pure-paladin
 msgid "Pure Paladin"
 msgstr "Paladin Pur"
@@ -1724,6 +1708,14 @@ msgstr ""
 #: https://hsreplay.net/archetypes/183/silver-hand-paladin
 msgid "Silver Hand Paladin"
 msgstr "Paladin recrues"
+
+#: https://hsreplay.net/archetypes/467/menagerie-rogue
+msgid "Menagerie Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/419/menagerie-warrior
+msgid "Menagerie Warrior"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/201/totem-shaman
 msgid "Totem Shaman"
@@ -1932,4 +1924,20 @@ msgstr ""
 #: https://hsreplay.net/archetypes/601/hybrid-hunter
 msgid "Hybrid Hunter"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/544/deathrattle-druid
+msgid "Deathrattle Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/602/dagger-rogue
+msgid "Dagger Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/603/combo-rogue
+msgid "Combo Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/127/overload-shaman
+msgid "Overload Shaman"
+msgstr "Chaman surcharge"
 
