@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-22 01:40+0000\n"
-"PO-Revision-Date: 2023-04-22 12:40\n"
+"PO-Revision-Date: 2023-04-23 00:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -386,7 +386,7 @@ msgstr "Veuillez <a href=\"%(contact_url)s\">nous contacter</a> si vous ne le re
 
 #: templates/base.html:82
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
-msgstr ""
+msgstr "Xsolla est un distributeur mondial autorisé de HSReplay.net"
 
 #: templates/footer.html:8
 msgid "Back to top"
@@ -583,7 +583,7 @@ msgstr "Nous n'avons pas pu vous authentifier avec %(name)s.<br/>"
 
 #: templates/socialaccount/authentication_error.html:17
 msgid "This could be because you did something unusual during your login, or the provider rejected your account."
-msgstr ""
+msgstr "Cela peut être dû au fait que vous avez fait quelque chose d'inhabituel pendant votre connexion, ou que le fournisseur a rejeté votre compte."
 
 #: templates/socialaccount/authentication_error.html:22
 #, python-format
@@ -746,7 +746,7 @@ msgstr "Bienvenue sur Hearthstone Deck Tracker"
 
 #: web/views/__init__.py:323
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
-msgstr ""
+msgstr "Découvrez ce que vous pouvez faire avec Hearthstone Deck Tracker, ainsi que le site web !"
 
 #: web/views/archetypes.py:30
 msgid "Hearthstone Meta"
@@ -783,7 +783,7 @@ msgstr "Archétypes"
 
 #: web/views/battlegrounds.py:127
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
-msgstr ""
+msgstr "Améliorez votre niveau de jeu grâce aux statistiques approfondies de Tier7 sur les champs de bataille, y compris des informations exploitables sur les meilleurs héros, compositions, serviteurs et bien plus encore !"
 
 #: web/views/battlegrounds.py:144
 msgid "HSReplay.net Tier7 for Battlegrounds"
@@ -962,7 +962,7 @@ msgstr "Collection de mercenaires"
 #: web/views/mercenaries.py:104
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
-msgstr ""
+msgstr "Collection de mercenaires de {user}"
 
 #: web/views/mercenaries.py:135
 msgid "Mercenaries Home"
@@ -970,7 +970,7 @@ msgstr ""
 
 #: web/views/mercenaries.py:141
 msgid "Get all the information you need to win at Hearthstone Mercenaries with our Mercenaries stats and collection tracking. See top mercenaries tier lists and parties."
-msgstr ""
+msgstr "Obtenez toutes les informations nécessaires gagner dans le mode mercenaires de Hearthstone grâce à nos statistiques et notre suivi de collection. Consultez les meilleures listes de niveau et parties du mode mercenaires."
 
 #: web/views/mercenaries.py:156
 msgid "Mercenaries Parties"
