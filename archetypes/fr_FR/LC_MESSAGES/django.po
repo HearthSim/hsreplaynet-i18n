@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-04-23 00:40\n"
+"PO-Revision-Date: 2023-04-24 00:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -643,7 +643,7 @@ msgstr "Guerrier Méc'Thun"
 
 #: https://hsreplay.net/archetypes/260/turvy-otk-priest
 msgid "Turvy OTK Priest"
-msgstr "Prêtre OTK sens dessus dessous"
+msgstr "Prêtre sens dessus dessous OTK"
 
 #: https://hsreplay.net/archetypes/261/deathrattle-paladin
 msgid "Deathrattle Paladin"
@@ -999,7 +999,7 @@ msgstr "Chasseur de démons Test"
 
 #: https://hsreplay.net/archetypes/549/edwin-rogue
 msgid "Edwin Rogue"
-msgstr ""
+msgstr "Voleur Edwin"
 
 #: https://hsreplay.net/archetypes/372/spell-druid
 msgid "Spell Druid"
@@ -1095,19 +1095,19 @@ msgstr "Mage dégâts des sorts"
 
 #: https://hsreplay.net/archetypes/402/duel-paladin
 msgid "Duel Paladin"
-msgstr ""
+msgstr "Paladin duels"
 
 #: https://hsreplay.net/archetypes/159/buff-paladin
 msgid "Buff Paladin"
-msgstr "Paladin buffs"
+msgstr "Paladin améliorations"
 
 #: https://hsreplay.net/archetypes/404/aggro-rogue
 msgid "Aggro Rogue"
-msgstr ""
+msgstr "Voleur aggro"
 
 #: https://hsreplay.net/archetypes/405/face-rogue
 msgid "Face Rogue"
-msgstr ""
+msgstr "Voleur face"
 
 #: https://hsreplay.net/archetypes/406/spell-damage-shaman
 msgid "Spell Damage Shaman"
@@ -1131,7 +1131,7 @@ msgstr "Prêtre résurrection Galakrond"
 
 #: https://hsreplay.net/archetypes/411/broom-paladin
 msgid "Broom Paladin"
-msgstr ""
+msgstr "Paladin balais"
 
 #: https://hsreplay.net/archetypes/410/skipper-bomb-warrior
 msgid "Skipper Bomb Warrior"
@@ -1139,7 +1139,7 @@ msgstr "Guerrier bombes Capitaine Tous-Risques"
 
 #: https://hsreplay.net/archetypes/412/silas-otk-warrior
 msgid "Silas OTK Warrior"
-msgstr ""
+msgstr "Guerrier Silas OTK"
 
 #: https://hsreplay.net/archetypes/431/mozaki-otk-mage
 msgid "Mozaki OTK Mage"
@@ -1151,7 +1151,7 @@ msgstr "Druide Drek'Thar"
 
 #: https://hsreplay.net/archetypes/414/menagerie-paladin
 msgid "Menagerie Paladin"
-msgstr ""
+msgstr "Paladin ménagerie"
 
 #: https://hsreplay.net/archetypes/392/no-minion-mage
 msgid "No Minion Mage"
@@ -1159,11 +1159,11 @@ msgstr "Mage zéro serviteur"
 
 #: https://hsreplay.net/archetypes/428/ramp-paladin
 msgid "Ramp Paladin"
-msgstr ""
+msgstr "Paladin gain de mana"
 
 #: https://hsreplay.net/archetypes/408/weapon-rogue
 msgid "Weapon Rogue"
-msgstr ""
+msgstr "Voleur armes"
 
 #: https://hsreplay.net/archetypes/374/libram-paladin
 msgid "Libram Paladin"
@@ -1215,7 +1215,7 @@ msgstr "Démoniste contrôle"
 
 #: https://hsreplay.net/archetypes/422/secret-face-hunter
 msgid "Secret Face Hunter"
-msgstr ""
+msgstr "Chasseur secrets face"
 
 #: https://hsreplay.net/archetypes/423/cthun-mage
 msgid "C'thun Mage"
@@ -1223,7 +1223,7 @@ msgstr "Mage C'thun"
 
 #: https://hsreplay.net/archetypes/426/whirlkick-rogue
 msgid "Whirlkick Rogue"
-msgstr ""
+msgstr "Voleur tourbillon"
 
 #: https://hsreplay.net/archetypes/417/enhancement-shaman
 msgid "Enhancement Shaman"
@@ -1251,7 +1251,7 @@ msgstr "Démoniste quête contrôle"
 
 #: https://hsreplay.net/archetypes/416/cthun-rogue
 msgid "C'Thun Rogue"
-msgstr ""
+msgstr "Voleur C'Thun"
 
 #: https://hsreplay.net/archetypes/437/malygos-shaman
 msgid "Malygos Shaman"
@@ -1263,7 +1263,7 @@ msgstr "Chasseur de démons âmes"
 
 #: https://hsreplay.net/archetypes/459/leoroxx-otk-hunter
 msgid "Leoroxx OTK Hunter"
-msgstr ""
+msgstr "Chasseur Leoroxx OTK"
 
 #: https://hsreplay.net/archetypes/461/menagerie-priest
 msgid "Menagerie Priest"
@@ -1271,7 +1271,7 @@ msgstr "Prêtre ménagerie"
 
 #: https://hsreplay.net/archetypes/438/exodia-warrior
 msgid "Exodia Warrior"
-msgstr ""
+msgstr "Guerrier Exodia"
 
 #: https://hsreplay.net/archetypes/439/deathrattle-demon-hunter
 msgid "Deathrattle Demon Hunter"
@@ -1287,7 +1287,7 @@ msgstr "Druide alignement céleste"
 
 #: https://hsreplay.net/archetypes/554/triple-blood-death-knight
 msgid "Triple Blood Death Knight"
-msgstr ""
+msgstr "Chevalier de la mort triple sang"
 
 #: https://hsreplay.net/archetypes/138/secret-hunter
 msgid "Secret Hunter"
@@ -1311,19 +1311,19 @@ msgstr "Prêtre soins"
 
 #: https://hsreplay.net/archetypes/445/watch-post-priest
 msgid "Watch Post Priest"
-msgstr "Prêtre poste"
+msgstr "Prêtre postes de garde"
 
 #: https://hsreplay.net/archetypes/446/watch-post-druid
 msgid "Watch Post Druid"
-msgstr "Druide postes"
+msgstr "Druide postes de garde"
 
 #: https://hsreplay.net/archetypes/447/watch-post-rogue
 msgid "Watch Post Rogue"
-msgstr ""
+msgstr "Voleur poste de garde"
 
 #: https://hsreplay.net/archetypes/448/poison-rogue
 msgid "Poison Rogue"
-msgstr ""
+msgstr "Voleur poisons"
 
 #: https://hsreplay.net/archetypes/449/nature-shaman
 msgid "Nature Shaman"
@@ -1339,7 +1339,7 @@ msgstr "Démoniste effacement"
 
 #: https://hsreplay.net/archetypes/452/watch-post-warrior
 msgid "Watch Post Warrior"
-msgstr ""
+msgstr "Guerrier postes de garde"
 
 #: https://hsreplay.net/archetypes/453/menagerie-druid
 msgid "Menagerie Druid"
@@ -1347,11 +1347,11 @@ msgstr "Druide ménagerie"
 
 #: https://hsreplay.net/archetypes/454/primordial-hunter
 msgid "Primordial Hunter"
-msgstr ""
+msgstr "Chasseur primordiaux"
 
 #: https://hsreplay.net/archetypes/455/watch-post-paladin
 msgid "Watch Post Paladin"
-msgstr ""
+msgstr "Paladin postes de garde"
 
 #: https://hsreplay.net/archetypes/462/primordial-druid
 msgid "Primordial Druid"
@@ -1375,7 +1375,7 @@ msgstr "Mage freeze"
 
 #: https://hsreplay.net/archetypes/468/frenzy-warrior
 msgid "Frenzy Warrior"
-msgstr ""
+msgstr "Guerrier frénésie"
 
 #: https://hsreplay.net/archetypes/470/hybrid-demon-hunter
 msgid "Hybrid Demon Hunter"
@@ -1415,7 +1415,7 @@ msgstr "Druide nature"
 
 #: https://hsreplay.net/archetypes/476/boar-hunter
 msgid "Boar Hunter"
-msgstr ""
+msgstr "Chasseur sangliers"
 
 #: https://hsreplay.net/archetypes/477/quest-face-hunter
 msgid "Quest Face Hunter"
@@ -1427,7 +1427,7 @@ msgstr "Mage feu"
 
 #: https://hsreplay.net/archetypes/479/handbuff-paladin
 msgid "Handbuff Paladin"
-msgstr ""
+msgstr "Paladin améliorations de main"
 
 #: https://hsreplay.net/archetypes/480/quest-libram-paladin
 msgid "Quest Libram Paladin"
@@ -1447,7 +1447,7 @@ msgstr "Guerrier quête contrôle"
 
 #: https://hsreplay.net/archetypes/487/garrote-rogue
 msgid "Garrote Rogue"
-msgstr ""
+msgstr "Voleur garrots"
 
 #: https://hsreplay.net/archetypes/488/quest-face-warlock
 msgid "Quest Face Warlock"
@@ -1463,11 +1463,11 @@ msgstr "Mage élémentaires"
 
 #: https://hsreplay.net/archetypes/490/shuffle-rogue
 msgid "Shuffle Rogue"
-msgstr ""
+msgstr "Voleur mélanges"
 
 #: https://hsreplay.net/archetypes/493/rhino-hunter
 msgid "Rhino Hunter"
-msgstr ""
+msgstr "Chasseur rhinos"
 
 #: https://hsreplay.net/archetypes/494/quest-hand-warlock
 msgid "Quest Hand Warlock"
@@ -1495,7 +1495,7 @@ msgstr "Mage gros sorts"
 
 #: https://hsreplay.net/archetypes/550/shark-rogue
 msgid "Shark Rogue"
-msgstr ""
+msgstr "Voleur requins"
 
 #: https://hsreplay.net/archetypes/6/malygos-druid
 msgid "Malygos Druid"
@@ -1503,7 +1503,7 @@ msgstr "Druide Malygos"
 
 #: https://hsreplay.net/archetypes/500/trap-hunter
 msgid "Trap Hunter"
-msgstr ""
+msgstr "Chasseur pièges"
 
 #: https://hsreplay.net/archetypes/288/big-paladin
 msgid "Big Paladin"
@@ -1511,7 +1511,7 @@ msgstr "Paladin de Big"
 
 #: https://hsreplay.net/archetypes/501/heal-paladin
 msgid "Heal Paladin"
-msgstr ""
+msgstr "Paladin soins"
 
 #: https://hsreplay.net/archetypes/502/bless-priest
 msgid "Bless Priest"
@@ -1519,7 +1519,7 @@ msgstr "Prêtre bénédiction"
 
 #: https://hsreplay.net/archetypes/503/boar-rogue
 msgid "Boar Rogue"
-msgstr ""
+msgstr "Voleur sangliers"
 
 #: https://hsreplay.net/archetypes/504/freeze-shaman
 msgid "Freeze Shaman"
@@ -1539,11 +1539,11 @@ msgstr "Démoniste fiel"
 
 #: https://hsreplay.net/archetypes/508/charge-warrior
 msgid "Charge Warrior"
-msgstr ""
+msgstr "Guerrier charge"
 
 #: https://hsreplay.net/archetypes/510/secret-thief-rogue
 msgid "Secret Thief Rogue"
-msgstr ""
+msgstr "Voleur secrets vol"
 
 #: https://hsreplay.net/archetypes/511/burn-shaman
 msgid "Burn Shaman"
@@ -1555,7 +1555,7 @@ msgstr "Druide gain de mana"
 
 #: https://hsreplay.net/archetypes/513/cute-rogue
 msgid "Cute Rogue"
-msgstr ""
+msgstr "Voleur mignon"
 
 #: https://hsreplay.net/archetypes/469/aggro-elemental-shaman
 msgid "Aggro Elemental Shaman"
@@ -1563,7 +1563,7 @@ msgstr "Chaman aggro élémentaires"
 
 #: https://hsreplay.net/archetypes/515/drekthar-hunter
 msgid "Drek'Thar Hunter"
-msgstr ""
+msgstr "Chasseur Drek'Thar"
 
 #: https://hsreplay.net/archetypes/516/agony-warlock
 msgid "Agony Warlock"
@@ -1639,19 +1639,19 @@ msgstr "Chaman piranhas"
 
 #: https://hsreplay.net/archetypes/532/weapon-warrior
 msgid "Weapon Warrior"
-msgstr ""
+msgstr "Guerrier armes"
 
 #: https://hsreplay.net/archetypes/533/mine-rogue
 msgid "Mine Rogue"
-msgstr ""
+msgstr "Voleur mines"
 
 #: https://hsreplay.net/archetypes/534/colossal-rogue
 msgid "Colossal Rogue"
-msgstr ""
+msgstr "Voleur colosses"
 
 #: https://hsreplay.net/archetypes/535/boat-rogue
 msgid "Boat Rogue"
-msgstr ""
+msgstr "Voleur vaisseaux"
 
 #: https://hsreplay.net/archetypes/536/beam-druid
 msgid "Beam Druid"
@@ -1667,7 +1667,7 @@ msgstr "Démoniste phylactère"
 
 #: https://hsreplay.net/archetypes/539/aggro-beast-hunter
 msgid "Aggro Beast Hunter"
-msgstr ""
+msgstr "Chasseur bêtes aggro"
 
 #: https://hsreplay.net/archetypes/540/choose-druid
 msgid "Choose Druid"
@@ -1711,11 +1711,11 @@ msgstr "Paladin recrues"
 
 #: https://hsreplay.net/archetypes/467/menagerie-rogue
 msgid "Menagerie Rogue"
-msgstr ""
+msgstr "Voleur ménagerie"
 
 #: https://hsreplay.net/archetypes/419/menagerie-warrior
 msgid "Menagerie Warrior"
-msgstr ""
+msgstr "Guerrier ménagerie"
 
 #: https://hsreplay.net/archetypes/201/totem-shaman
 msgid "Totem Shaman"
@@ -1731,23 +1731,23 @@ msgstr "Prêtre grosses créas"
 
 #: https://hsreplay.net/archetypes/552/prestor-rogue
 msgid "Prestor Rogue"
-msgstr ""
+msgstr "Voleur Prestor"
 
 #: https://hsreplay.net/archetypes/553/keleseth-rogue
 msgid "Keleseth Rogue"
-msgstr ""
+msgstr "Voleur Keleseth"
 
 #: https://hsreplay.net/archetypes/555/blood-death-knight
 msgid "Blood Death Knight"
-msgstr ""
+msgstr "Chevalier de la mort de sang"
 
 #: https://hsreplay.net/archetypes/556/unholy-death-knight
 msgid "Unholy Death Knight"
-msgstr ""
+msgstr "Chevalier de la mort impie"
 
 #: https://hsreplay.net/archetypes/557/frost-death-knight
 msgid "Frost Death Knight"
-msgstr ""
+msgstr "Chevalier de la mort gel"
 
 #: https://hsreplay.net/archetypes/558/outcast-demon-hunter
 msgid "Outcast Demon Hunter"
@@ -1759,7 +1759,7 @@ msgstr "Druide sangliers"
 
 #: https://hsreplay.net/archetypes/560/arcane-hunter
 msgid "Arcane Hunter"
-msgstr ""
+msgstr "Chasseur arcanes"
 
 #: https://hsreplay.net/archetypes/561/arcane-mage
 msgid "Arcane Mage"
@@ -1767,7 +1767,7 @@ msgstr "Mage arcanes"
 
 #: https://hsreplay.net/archetypes/562/breakfast-paladin
 msgid "Breakfast Paladin"
-msgstr ""
+msgstr "Paladin déjeûner"
 
 #: https://hsreplay.net/archetypes/563/undead-priest
 msgid "Undead Priest"
@@ -1779,7 +1779,7 @@ msgstr "Prêtre ombre morts-vivants"
 
 #: https://hsreplay.net/archetypes/565/concoction-rogue
 msgid "Concoction Rogue"
-msgstr ""
+msgstr "Voleur décoctions"
 
 #: https://hsreplay.net/archetypes/566/swarm-shaman
 msgid "Swarm Shaman"
@@ -1799,11 +1799,11 @@ msgstr "Chasseur de démons sorts"
 
 #: https://hsreplay.net/archetypes/570/shockspitter-hunter
 msgid "Shockspitter Hunter"
-msgstr ""
+msgstr "Chasseur crache-foudre"
 
 #: https://hsreplay.net/archetypes/572/fire-warrior
 msgid "Fire Warrior"
-msgstr ""
+msgstr "Guerrier feu"
 
 #: https://hsreplay.net/archetypes/573/quest-spell-demon-hunter
 msgid "Quest Spell Demon Hunter"
@@ -1827,15 +1827,15 @@ msgstr "Druide morts-vivants"
 
 #: https://hsreplay.net/archetypes/578/rainbow-death-knight
 msgid "Rainbow Death Knight"
-msgstr ""
+msgstr "Chevalier de la mort arc-en-ciel"
 
 #: https://hsreplay.net/archetypes/579/frozen-blood-death-knight
 msgid "Frozen Blood Death Knight"
-msgstr ""
+msgstr "Chevalier de la mort de sang gelé"
 
 #: https://hsreplay.net/archetypes/587/frost-aggro-death-knight
 msgid "Frost Aggro Death Knight"
-msgstr ""
+msgstr "Chevalier de la mort gel aggro"
 
 #: https://hsreplay.net/archetypes/581/horsemen-demon-hunter
 msgid "Horsemen Demon Hunter"
@@ -1851,11 +1851,11 @@ msgstr "Druide cavaliers"
 
 #: https://hsreplay.net/archetypes/583/zoo-hunter
 msgid "Zoo Hunter"
-msgstr ""
+msgstr "Chasseur zoo"
 
 #: https://hsreplay.net/archetypes/584/thaddius-paladin
 msgid "Thaddius Paladin"
-msgstr ""
+msgstr "Paladin Thaddius"
 
 #: https://hsreplay.net/archetypes/571/svalna-priest
 msgid "Svalna Priest"
@@ -1863,7 +1863,7 @@ msgstr "Prêtre Svalna"
 
 #: https://hsreplay.net/archetypes/585/thaddius-rogue
 msgid "Thaddius Rogue"
-msgstr ""
+msgstr "Voleur Thaddius"
 
 #: https://hsreplay.net/archetypes/586/thaddius-warlock
 msgid "Thaddius Warlock"
@@ -1899,19 +1899,19 @@ msgstr "Mage burn"
 
 #: https://hsreplay.net/archetypes/595/bubble-paladin
 msgid "Bubble Paladin"
-msgstr ""
+msgstr "Paladin bulles"
 
 #: https://hsreplay.net/archetypes/596/dancing-paladin
 msgid "Dancing Paladin"
-msgstr ""
+msgstr "Paladin danseurs"
 
 #: https://hsreplay.net/archetypes/597/combo-miracle-rogue
 msgid "Combo Miracle Rogue"
-msgstr ""
+msgstr "Voleur miracle combo"
 
 #: https://hsreplay.net/archetypes/598/freebird-rogue
 msgid "Freebird Rogue"
-msgstr ""
+msgstr "Voleur oiseaux libres"
 
 #: https://hsreplay.net/archetypes/599/fatigue-imp-warlock
 msgid "Fatigue Imp Warlock"
@@ -1919,11 +1919,11 @@ msgstr "Démoniste diablotins fatigue"
 
 #: https://hsreplay.net/archetypes/600/tony-warrior
 msgid "Tony Warrior"
-msgstr ""
+msgstr "Guerrier Tony"
 
 #: https://hsreplay.net/archetypes/601/hybrid-hunter
 msgid "Hybrid Hunter"
-msgstr ""
+msgstr "Chasseur hybride"
 
 #: https://hsreplay.net/archetypes/544/deathrattle-druid
 msgid "Deathrattle Druid"
@@ -1931,11 +1931,11 @@ msgstr "Druide râles d'agonie"
 
 #: https://hsreplay.net/archetypes/602/dagger-rogue
 msgid "Dagger Rogue"
-msgstr ""
+msgstr "Voleur dagues"
 
 #: https://hsreplay.net/archetypes/603/combo-rogue
 msgid "Combo Rogue"
-msgstr ""
+msgstr "Voleur combo"
 
 #: https://hsreplay.net/archetypes/127/overload-shaman
 msgid "Overload Shaman"
