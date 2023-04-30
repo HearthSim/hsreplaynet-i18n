@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-04-22T01:40:33.312865\n"
+"POT-Creation-Date: 2023-04-30T01:40:30.987092\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-04-28 12:40\n"
+"PO-Revision-Date: 2023-04-30 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -393,10 +393,6 @@ msgstr "Druide quête Malygos"
 msgid "Jade Druid"
 msgstr "Druide jade"
 
-#: https://hsreplay.net/archetypes/148/big-druid
-msgid "Big Druid"
-msgstr "Druide grosses créas"
-
 #: https://hsreplay.net/archetypes/153/elemental-rogue
 msgid "Elemental Rogue"
 msgstr "Voleur élémentaires"
@@ -508,6 +504,10 @@ msgstr "Voleur Galakrond Camouflage"
 #: https://hsreplay.net/archetypes/185/demon-warlock
 msgid "Demon Warlock"
 msgstr "Démoniste démons"
+
+#: https://hsreplay.net/archetypes/148/big-druid
+msgid "Big Druid"
+msgstr "Druide grosses créas"
 
 #: https://hsreplay.net/archetypes/425/etc-control-warrior
 msgid "ETC Control Warrior"
