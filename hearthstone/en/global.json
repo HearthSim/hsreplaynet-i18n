@@ -657,7 +657,8 @@
 	"GLOBAL_KEYWORD_BLEED": "Bleed",
 	"GLOBAL_KEYWORD_BLEED_TEXT": "Bleeding characters take damage at the end of each turn. Bleeding can be removed by restoring Health.",
 	"GLOBAL_KEYWORD_BLOOD_GEM": "Blood Gem",
-	"GLOBAL_KEYWORD_BLOOD_GEM_TEXT": "A spell that gives a friendly minion +1/+1.",
+	"GLOBAL_KEYWORD_BLOOD_GEM_TEXT": "A spell that gives a minion {0}.",
+	"GLOBAL_KEYWORD_BLOOD_GEM_TEXT_ADDITIONAL": "\\nYours Give {0}.",
 	"GLOBAL_KEYWORD_BONUSEFFECTS": "Bonus Effects",
 	"GLOBAL_KEYWORD_BONUSEFFECTS_TEXT": "Divine Shield, Lifesteal, Poisonous, Reborn, Rush, Stealth, Taunt, Windfury",
 	"GLOBAL_KEYWORD_BOSS": "Boss",
@@ -697,6 +698,8 @@
 	"GLOBAL_KEYWORD_DIVINE_SHIELD": "Divine Shield",
 	"GLOBAL_KEYWORD_DIVINE_SHIELD_REF_TEXT": "The first time a Shielded minion takes damage, ignore it.",
 	"GLOBAL_KEYWORD_DIVINE_SHIELD_TEXT": "The first time this minion takes damage, ignore it.",
+	"GLOBAL_KEYWORD_DONT_PICK_FROM_SUBSETS": "[WIP] Cannot be discovered.",
+	"GLOBAL_KEYWORD_DONT_PICK_FROM_SUBSETS_TEXT": "[WIP] Cannot be discovered. ",
 	"GLOBAL_KEYWORD_DORMANT": "Dormant",
 	"GLOBAL_KEYWORD_DORMANT_TEXT": "Untouchable for both players.",
 	"GLOBAL_KEYWORD_DREDGE": "Dredge",
@@ -947,6 +950,8 @@
 	"GLOBAL_KEYWORD_TRADE_TEXT": "Drag this into your deck to spend 1 Mana and draw a new card.",
 	"GLOBAL_KEYWORD_TWINSPELL": "Twinspell",
 	"GLOBAL_KEYWORD_TWINSPELL_TEXT": "Can be cast twice.",
+	"GLOBAL_KEYWORD_VENOMOUS": "Venomous",
+	"GLOBAL_KEYWORD_VENOMOUS_TEXT": "Destroy the first minion this deals damage to.",
 	"GLOBAL_KEYWORD_WILD": "Wild",
 	"GLOBAL_KEYWORD_WILD_TEXT": "Wild cards are cards from Hearthstone's past no longer allowed in Standard.",
 	"GLOBAL_KEYWORD_WINDFURY": "Windfury",
@@ -1504,5 +1509,8 @@
 	"GLOBAL_WAIT_FOR_OPPONENT_RECONNECT_SPECTATOR": "Waiting for player to reconnect...({0}m{1}s)",
 	"GLOBAL_WARNING_GENERIC_HEADER": "Warning",
 	"GLOBAL_WILD": "Wild",
-	"GLOBAL_WINS": "Wins"
+	"GLOBAL_WINS": "Wins",
+	"Non Discoverable Name": "DontPickFromSubsets",
+	"Non Discoverable Ref Text": "Non Discoverable Ref Text Value",
+	"Sideboard": "NEW"
 }

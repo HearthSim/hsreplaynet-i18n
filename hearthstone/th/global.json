@@ -657,7 +657,8 @@
 	"GLOBAL_KEYWORD_BLEED": "เลือดไหล",
 	"GLOBAL_KEYWORD_BLEED_TEXT": "ตัวละครที่เลือดไหลได้รับ[b]ความเสียหายเมื่อจบเทิร์น เลือดไหลจะหายไปเมื่อ[b]ได้รับการฟื้นฟูพลังชีวิต",
 	"GLOBAL_KEYWORD_BLOOD_GEM": "ผลึกเลือด",
-	"GLOBAL_KEYWORD_BLOOD_GEM_TEXT": "เวทมนตร์ที่มอบ +1/+1_ให้มินเนี่ยน[b]ฝ่ายคุณหนึ่งตัว",
+	"GLOBAL_KEYWORD_BLOOD_GEM_TEXT": "เวทมนตร์ที่มอบ {0}_ให้[b]มินเนี่ยนหนึ่งตัว",
+	"GLOBAL_KEYWORD_BLOOD_GEM_TEXT_ADDITIONAL": "\\nของคุณมอบ {0}",
 	"GLOBAL_KEYWORD_BONUSEFFECTS": "เอฟเฟกต์โบนัส",
 	"GLOBAL_KEYWORD_BONUSEFFECTS_TEXT": "โล่ศักดิ์สิทธิ์ สูบชีวิต พิษ คืนชีพ จู่โจม ซ่อนตัว ยั่วยุ วายุพิโรธ",
 	"GLOBAL_KEYWORD_BOSS": "บอส",
@@ -697,6 +698,8 @@
 	"GLOBAL_KEYWORD_DIVINE_SHIELD": "โล่ศักดิ์สิทธิ์",
 	"GLOBAL_KEYWORD_DIVINE_SHIELD_REF_TEXT": "ป้องกันความเสียหายครั้งแรก[b]ที่มินเนี่ยนที่มีโล่ได้รับ",
 	"GLOBAL_KEYWORD_DIVINE_SHIELD_TEXT": "ป้องกันความเสียหายครั้งแรก[b]ที่มินเนี่ยนตัวนี้ได้รับ",
+	"GLOBAL_KEYWORD_DONT_PICK_FROM_SUBSETS": "[WIP] ค้นพบไม่ได้",
+	"GLOBAL_KEYWORD_DONT_PICK_FROM_SUBSETS_TEXT": "[WIP] ค้นพบไม่ได้ ",
 	"GLOBAL_KEYWORD_DORMANT": "จำศีล",
 	"GLOBAL_KEYWORD_DORMANT_TEXT": "ผู้เล่นทั้งสองฝ่าย[b]ทำอะไรกับมันไม่ได้",
 	"GLOBAL_KEYWORD_DREDGE": "ขุด",
@@ -947,6 +950,8 @@
 	"GLOBAL_KEYWORD_TRADE_TEXT": "ลากการ์ดนี้ไปเหนือเด็คคุณ[b]เพื่อจ่าย 1 มานาแล้ว[b]จั่วการ์ดใหม่หนึ่งใบ",
 	"GLOBAL_KEYWORD_TWINSPELL": "ทวิอาคม",
 	"GLOBAL_KEYWORD_TWINSPELL_TEXT": "สามารถร่ายได้สองครั้ง",
+	"GLOBAL_KEYWORD_VENOMOUS": "ปล่อยพิษ",
+	"GLOBAL_KEYWORD_VENOMOUS_TEXT": "ทำลายมินเนี่ยน[b]ตัวแรกที่มันสร้าง[b]ความเสียหายให้",
 	"GLOBAL_KEYWORD_WILD": "อิสระ",
 	"GLOBAL_KEYWORD_WILD_TEXT": "การ์ดอิสระคือการ์ด Hearthstone ในอดีตซึ่งใช้เล่นในรูปแบบมาตรฐานไม่ได้",
 	"GLOBAL_KEYWORD_WINDFURY": "วายุพิโรธ",
@@ -1504,5 +1509,8 @@
 	"GLOBAL_WAIT_FOR_OPPONENT_RECONNECT_SPECTATOR": "กำลังรอให้ผู้เล่นเชื่อมต่อกลับมา...({0}m{1}s)",
 	"GLOBAL_WARNING_GENERIC_HEADER": "คำเตือน",
 	"GLOBAL_WILD": "อิสระ",
-	"GLOBAL_WINS": "ชนะ"
+	"GLOBAL_WINS": "ชนะ",
+	"Non Discoverable Name": "DontPickFromSubsets",
+	"Non Discoverable Ref Text": "Non Discoverable Ref Text Value",
+	"Sideboard": "ใหม่"
 }
