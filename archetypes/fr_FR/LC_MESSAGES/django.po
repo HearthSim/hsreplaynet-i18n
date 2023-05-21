@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-03T01:40:30.148226\n"
+"POT-Creation-Date: 2023-05-21T01:40:30.957107\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-05-20 12:40\n"
+"PO-Revision-Date: 2023-05-21 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -92,10 +92,6 @@ msgstr "Chasseur aggro"
 #: https://hsreplay.net/archetypes/140/grime-street-hunter
 msgid "Grime Street Hunter"
 msgstr "Chasseur dessoudeurs"
-
-#: https://hsreplay.net/archetypes/31/dragon-paladin
-msgid "Dragon Paladin"
-msgstr "Paladin dragons"
 
 #: https://hsreplay.net/archetypes/143/nzoth-mage
 msgid "N'Zoth Mage"
@@ -1956,4 +1952,12 @@ msgstr "Démoniste Tony"
 #: https://hsreplay.net/archetypes/607/riff-n-roll-warrior
 msgid "Riff 'n' Roll Warrior"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/608/zok-druid
+msgid "Zok Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/31/dragon-paladin
+msgid "Dragon Paladin"
+msgstr "Paladin dragons"
 
