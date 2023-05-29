@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-05-19 01:40+0000\n"
-"PO-Revision-Date: 2023-05-25 12:40\n"
+"PO-Revision-Date: 2023-05-29 00:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -586,7 +586,9 @@ msgstr "Cela peut être dû au fait que vous avez fait quelque chose d'inhabitue
 msgid "\n"
 "\t\t\t\t\tIf you'd like to <a href=\"%(contact_url)s\">contact us</a>, please pass along the following event reference:\n"
 "\t\t\t\t"
-msgstr ""
+msgstr "\n"
+"\t\t\t\t\tSi vous souhaitez <a href=\"%(contact_url)s\">nous contacter</a>, veuillez communiquer la référence d’événement suivante :\n"
+"\t\t\t\t"
 
 #: templates/socialaccount/authentication_error.html:29
 #, python-format
