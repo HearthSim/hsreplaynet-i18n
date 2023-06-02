@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-19 01:40+0000\n"
-"PO-Revision-Date: 2023-05-29 00:40\n"
+"POT-Creation-Date: 2023-06-02 01:40+0000\n"
+"PO-Revision-Date: 2023-06-02 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -536,7 +536,7 @@ msgstr "최신유행"
 msgid "Back soon!"
 msgstr ""
 
-#: templates/navigation.html:176 web/views/decks.py:33
+#: templates/navigation.html:176 web/views/decks.py:35
 msgid "Decks"
 msgstr "덱"
 
@@ -901,48 +901,48 @@ msgstr ""
 msgid "Your Application"
 msgstr ""
 
-#: web/views/decks.py:24
+#: web/views/decks.py:26
 msgid "Hearthstone Decks"
 msgstr "하스스톤 덱"
 
-#: web/views/decks.py:26
+#: web/views/decks.py:28
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
 msgstr ""
 
-#: web/views/decks.py:38
+#: web/views/decks.py:40
 msgid "My Decks"
 msgstr "내 덱"
 
-#: web/views/decks.py:58
+#: web/views/decks.py:60
 msgid "Deck does not exist."
 msgstr "덱이 존재하지 않습니다."
 
-#: web/views/decks.py:68
+#: web/views/decks.py:70
 msgid "Deck list is too small."
 msgstr "덱이 너무 작습니다."
 
-#: web/views/decks.py:72
+#: web/views/decks.py:74
 msgid "Deck list contains uncollectible cards."
 msgstr "덱 리스트에 수집 불가능한 카드가 포함되어 있습니다."
 
-#: web/views/decks.py:76
+#: web/views/decks.py:78
 msgid "Neutral Deck"
 msgstr ""
 
-#: web/views/decks.py:90
+#: web/views/decks.py:92
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr ""
 
-#: web/views/decks.py:128
+#: web/views/decks.py:131
 msgid "Trending Hearthstone Decks"
 msgstr "떠오르는 하스스톤 덱"
 
-#: web/views/decks.py:130
+#: web/views/decks.py:133
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "매일 매일 업데이트되는 최신 인기 덱을 찾아보세요."
 
-#: web/views/decks.py:136
+#: web/views/decks.py:139
 msgid "Trending Decks"
 msgstr ""
 
