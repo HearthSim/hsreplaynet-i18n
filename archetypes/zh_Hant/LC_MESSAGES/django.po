@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-21T01:40:30.957107\n"
+"POT-Creation-Date: 2023-06-04T01:40:30.258811\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2023-06-02 12:40\n"
+"PO-Revision-Date: 2023-06-04 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1161,10 +1161,6 @@ msgstr "無手下法"
 msgid "Ramp Paladin"
 msgstr "跳費聖"
 
-#: https://hsreplay.net/archetypes/408/weapon-rogue
-msgid "Weapon Rogue"
-msgstr "武器賊"
-
 #: https://hsreplay.net/archetypes/374/libram-paladin
 msgid "Libram Paladin"
 msgstr "聖契聖"
@@ -1701,10 +1697,6 @@ msgstr "偷牌牧"
 msgid "Secret Rogue"
 msgstr "秘密賊"
 
-#: https://hsreplay.net/archetypes/202/evolve-shaman
-msgid "Evolve Shaman"
-msgstr "進化薩"
-
 #: https://hsreplay.net/archetypes/546/imp-warlock
 msgid "Imp Warlock"
 msgstr "小鬼術"
@@ -1960,4 +1952,16 @@ msgstr "佐克德"
 #: https://hsreplay.net/archetypes/31/dragon-paladin
 msgid "Dragon Paladin"
 msgstr "龍聖"
+
+#: https://hsreplay.net/archetypes/609/otk-cage-head-death-knight
+msgid "OTK Cage Head Death Knight"
+msgstr "籠頭OTK DK"
+
+#: https://hsreplay.net/archetypes/408/weapon-rogue
+msgid "Weapon Rogue"
+msgstr "武器賊"
+
+#: https://hsreplay.net/archetypes/202/evolve-shaman
+msgid "Evolve Shaman"
+msgstr "進化薩"
 

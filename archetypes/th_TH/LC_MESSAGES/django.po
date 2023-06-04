@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-05-21T01:40:30.957107\n"
+"POT-Creation-Date: 2023-06-04T01:40:30.258811\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Thai\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: th_TH\n"
-"PO-Revision-Date: 2023-06-02 12:41\n"
+"PO-Revision-Date: 2023-06-04 12:41\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1161,10 +1161,6 @@ msgstr ""
 msgid "Ramp Paladin"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/408/weapon-rogue
-msgid "Weapon Rogue"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/374/libram-paladin
 msgid "Libram Paladin"
 msgstr ""
@@ -1701,10 +1697,6 @@ msgstr ""
 msgid "Secret Rogue"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/202/evolve-shaman
-msgid "Evolve Shaman"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/546/imp-warlock
 msgid "Imp Warlock"
 msgstr ""
@@ -1960,4 +1952,16 @@ msgstr ""
 #: https://hsreplay.net/archetypes/31/dragon-paladin
 msgid "Dragon Paladin"
 msgstr "พาลาดินมังกร"
+
+#: https://hsreplay.net/archetypes/609/otk-cage-head-death-knight
+msgid "OTK Cage Head Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/408/weapon-rogue
+msgid "Weapon Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/202/evolve-shaman
+msgid "Evolve Shaman"
+msgstr ""
 
