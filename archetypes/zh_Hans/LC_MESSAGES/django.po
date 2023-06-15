@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-04T01:40:30.258811\n"
+"POT-Creation-Date: 2023-06-15T01:40:34.603238\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2023-06-14 12:40\n"
+"PO-Revision-Date: 2023-06-15 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -52,6 +52,10 @@ msgstr "野兽德"
 #: https://hsreplay.net/archetypes/471/anacondra-druid
 msgid "Anacondra Druid"
 msgstr "安娜德"
+
+#: https://hsreplay.net/archetypes/610/thaddius-druid
+msgid "Thaddius Druid"
+msgstr "巨怪德"
 
 #: https://hsreplay.net/archetypes/36/control-priest
 msgid "Control Priest"
@@ -1113,6 +1117,10 @@ msgstr "打脸贼"
 msgid "Spell Damage Shaman"
 msgstr "法强萨"
 
+#: https://hsreplay.net/archetypes/611/hound-hunter
+msgid "Hound Hunter"
+msgstr "恶犬猎"
+
 #: https://hsreplay.net/archetypes/366/highlander-demon-hunter
 msgid "Highlander Demon Hunter"
 msgstr "宇宙瞎"
@@ -1851,7 +1859,7 @@ msgstr "注能野兽猎"
 
 #: https://hsreplay.net/archetypes/584/thaddius-paladin
 msgid "Thaddius Paladin"
-msgstr "塔迪乌斯骑"
+msgstr "巨怪骑"
 
 #: https://hsreplay.net/archetypes/571/svalna-priest
 msgid "Svalna Priest"
@@ -1859,11 +1867,11 @@ msgstr "女武神牧"
 
 #: https://hsreplay.net/archetypes/585/thaddius-rogue
 msgid "Thaddius Rogue"
-msgstr "塔迪乌斯贼"
+msgstr "巨怪贼"
 
 #: https://hsreplay.net/archetypes/586/thaddius-warlock
 msgid "Thaddius Warlock"
-msgstr "亡灵术"
+msgstr "巨怪术"
 
 #: https://hsreplay.net/archetypes/588/hero-power-druid
 msgid "Hero Power Druid"
