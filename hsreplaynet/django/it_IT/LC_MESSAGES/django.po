@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-02 01:40+0000\n"
-"PO-Revision-Date: 2023-06-28 12:40\n"
+"POT-Creation-Date: 2023-06-28 13:30+0000\n"
+"PO-Revision-Date: 2023-06-28 14:17\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -78,47 +78,47 @@ msgstr "Il codice non ha influenzato l'account e rimane valido."
 msgid "Code has been applied to your account."
 msgstr "Il codice è stato applicato al tuo account."
 
-#: settings.py:366
+#: settings.py:367
 msgid "Full access to your HSReplay.net account"
 msgstr "Accesso completo al tuo account HSReplay.net"
 
-#: settings.py:367
+#: settings.py:368
 msgid "Access information about your connected social accounts"
 msgstr "Accedi alle informazioni sui tuoi account social connessi"
 
-#: settings.py:368
+#: settings.py:369
 msgid "View your Hearthstone card collection"
 msgstr "Vedi la tua collezione di carte di Hearthstone"
 
-#: settings.py:369
+#: settings.py:370
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Carica la tua collezione di carte di Hearthstone sul sito"
 
-#: settings.py:370
+#: settings.py:371
 msgid "View your replays"
 msgstr "Visualizza i tuoi replay"
 
-#: settings.py:371
+#: settings.py:372
 msgid "Update and delete your replays"
 msgstr "Aggiorna ed elimina i tuoi replay"
 
-#: settings.py:372
+#: settings.py:373
 msgid "Access the Partner API"
 msgstr "Accedi all'API dei Partner"
 
-#: settings.py:373
+#: settings.py:374
 msgid "Read access to the tournaments service"
 msgstr "Accesso in modalità sola lettura al servizio tornei"
 
-#: settings.py:374
+#: settings.py:375
 msgid "Write access to the tournaments service"
 msgstr "Accesso in modalità scrittura al servizio tornei"
 
-#: settings.py:375
+#: settings.py:376
 msgid "View your webhooks"
 msgstr "Visualizza i tuoi webhooks"
 
-#: settings.py:376
+#: settings.py:377
 msgid "Create and delete webhooks on your behalf"
 msgstr "Crea ed elimina i webhooks per tuo conto"
 
@@ -573,26 +573,27 @@ msgstr "Sembra che hai disattivato Javascript. Questa pagina non funzionerà cor
 msgid "Authentication error"
 msgstr "Errore di autenticazione"
 
-#: templates/socialaccount/authentication_error.html:11
+#: templates/socialaccount/authentication_error.html:10
 #, python-format
-msgid "We could not authenticate you with %(name)s.<br/>"
-msgstr "Non è stato possibile autenticarti con %(name)s.<br/>"
+msgid "We could not authenticate you with %(provider)s."
+msgstr ""
 
-#: templates/socialaccount/authentication_error.html:17
-msgid "This could be because you did something unusual during your login, or the provider rejected your account."
-msgstr "Questo potrebbe essere perché hai fatto qualcosa di insolito durante il login, o il provider ha rifiutato il tuo account."
-
-#: templates/socialaccount/authentication_error.html:22
+#: templates/socialaccount/authentication_error.html:16
 #, python-format
-msgid "If you'd like to <a href=\"%(contact_url)s\">contact us</a>, please pass along the following event reference:"
-msgstr "Se vuoi <a href=\"%(contact_url)s\">contattarci</a>, segui per favore la seguente referenza:"
+msgid "This could be because you did something unusual during your login or an issue with %(provider)s."
+msgstr ""
 
-#: templates/socialaccount/authentication_error.html:29
+#: templates/socialaccount/authentication_error.html:24
 #, python-format
-msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you keep seeing this error."
-msgstr "Per favore <a href=\"%(contact_url)s\">contattaci</a> se continui a vedere questo errore."
+msgid "Please try again in a few minutes. If you keep seeing this error you can <a href=\"%(contact_url)s\">contact us</a> with the following error reference: <code>%(sentry_event_id)s</code>"
+msgstr ""
 
-#: templates/socialaccount/authentication_error.html:49
+#: templates/socialaccount/authentication_error.html:28
+#, python-format
+msgid "Please try again in a few minutes. If you keep seeing this error you can <a href=\"%(contact_url)s\">contact us</a>."
+msgstr ""
+
+#: templates/socialaccount/authentication_error.html:48
 msgid "Back to the office."
 msgstr "Torna in ufficio."
 

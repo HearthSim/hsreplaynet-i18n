@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-02 01:40+0000\n"
-"PO-Revision-Date: 2023-06-28 12:40\n"
+"POT-Creation-Date: 2023-06-28 13:30+0000\n"
+"PO-Revision-Date: 2023-06-28 14:17\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -78,47 +78,47 @@ msgstr "Kod nie wpłynął na konto i pozostaje ważny."
 msgid "Code has been applied to your account."
 msgstr "Kod został zastosowany na twoim koncie."
 
-#: settings.py:366
+#: settings.py:367
 msgid "Full access to your HSReplay.net account"
 msgstr "Pełny dostęp do twojego konta HSReplay.net"
 
-#: settings.py:367
+#: settings.py:368
 msgid "Access information about your connected social accounts"
 msgstr "Uzyskaj dostęp do informacji na temat swoich powiązanych kont społecznościowych"
 
-#: settings.py:368
+#: settings.py:369
 msgid "View your Hearthstone card collection"
 msgstr "Zobacz swoją kolekcję kart Hearthstone"
 
-#: settings.py:369
+#: settings.py:370
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Wyślij swoją kolekcję kart Hearthstone na stronę"
 
-#: settings.py:370
+#: settings.py:371
 msgid "View your replays"
 msgstr "Zobacz swoje powtórki"
 
-#: settings.py:371
+#: settings.py:372
 msgid "Update and delete your replays"
 msgstr "Zaktualizuj i usuń swoje powtórki"
 
-#: settings.py:372
+#: settings.py:373
 msgid "Access the Partner API"
 msgstr "Dostęp do API partnerów"
 
-#: settings.py:373
+#: settings.py:374
 msgid "Read access to the tournaments service"
 msgstr "Dostęp do odczytu usługi turniejów"
 
-#: settings.py:374
+#: settings.py:375
 msgid "Write access to the tournaments service"
 msgstr "Dostęp do zapisu usługi turniejów"
 
-#: settings.py:375
+#: settings.py:376
 msgid "View your webhooks"
 msgstr "Zobacz swoje webhooki"
 
-#: settings.py:376
+#: settings.py:377
 msgid "Create and delete webhooks on your behalf"
 msgstr "Stwórz i usuń webhooki w swoim imieniu"
 
@@ -573,30 +573,27 @@ msgstr "Wygląda na to, że masz wyłączony Javascript. Ta strona nie będzie d
 msgid "Authentication error"
 msgstr "Błąd uwierzytelniania"
 
-#: templates/socialaccount/authentication_error.html:11
+#: templates/socialaccount/authentication_error.html:10
 #, python-format
-msgid "We could not authenticate you with %(name)s.<br/>"
+msgid "We could not authenticate you with %(provider)s."
 msgstr ""
 
-#: templates/socialaccount/authentication_error.html:17
-msgid "This could be because you did something unusual during your login, or the provider rejected your account."
-msgstr ""
-
-#: templates/socialaccount/authentication_error.html:22
+#: templates/socialaccount/authentication_error.html:16
 #, python-format
-msgid "\n"
-"\t\t\t\t\tIf you'd like to <a href=\"%(contact_url)s\">contact us</a>, please pass along the following event reference:\n"
-"\t\t\t\t"
+msgid "This could be because you did something unusual during your login or an issue with %(provider)s."
 msgstr ""
 
-#: templates/socialaccount/authentication_error.html:29
+#: templates/socialaccount/authentication_error.html:24
 #, python-format
-msgid "\n"
-"\t\t\t\tPlease <a href=\"%(contact_url)s\">contact us</a> if you keep seeing this error.\n"
-"\t\t\t\t"
+msgid "Please try again in a few minutes. If you keep seeing this error you can <a href=\"%(contact_url)s\">contact us</a> with the following error reference: <code>%(sentry_event_id)s</code>"
 msgstr ""
 
-#: templates/socialaccount/authentication_error.html:49
+#: templates/socialaccount/authentication_error.html:28
+#, python-format
+msgid "Please try again in a few minutes. If you keep seeing this error you can <a href=\"%(contact_url)s\">contact us</a>."
+msgstr ""
+
+#: templates/socialaccount/authentication_error.html:48
 msgid "Back to the office."
 msgstr "I myk do lobby."
 
