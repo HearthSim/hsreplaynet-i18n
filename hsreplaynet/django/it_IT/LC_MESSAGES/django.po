@@ -584,18 +584,13 @@ msgstr "Questo potrebbe essere perché hai fatto qualcosa di insolito durante il
 
 #: templates/socialaccount/authentication_error.html:22
 #, python-format
-msgid "\n"
-"\t\t\t\t\tIf you'd like to <a href=\"%(contact_url)s\">contact us</a>, please pass along the following event reference:\n"
-"\t\t\t\t"
+msgid "If you'd like to <a href=\"%(contact_url)s\">contact us</a>, please pass along the following event reference:"
 msgstr "Se vuoi <a href=\"%(contact_url)s\">contattarci</a>, segui per favore la seguente referenza:"
 
 #: templates/socialaccount/authentication_error.html:29
 #, python-format
-msgid "\n"
-"\t\t\t\tPlease <a href=\"%(contact_url)s\">contact us</a> if you keep seeing this error.\n"
-"\t\t\t\t"
-msgstr "\n"
-"Per favore <a href=\"%(contact_url)s\">contattaci</a> se continui a vedere questo errore."
+msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you keep seeing this error."
+msgstr "Per favore <a href=\"%(contact_url)s\">contattaci</a> se continui a vedere questo errore."
 
 #: templates/socialaccount/authentication_error.html:49
 msgid "Back to the office."
