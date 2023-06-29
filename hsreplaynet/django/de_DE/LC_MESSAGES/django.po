@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-28 15:29+0000\n"
-"PO-Revision-Date: 2023-06-29 00:40\n"
+"POT-Creation-Date: 2023-06-29 01:40+0000\n"
+"PO-Revision-Date: 2023-06-29 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -579,20 +579,24 @@ msgstr "Wir konnten dich nicht mit %(provider)s authentifizieren."
 
 #: templates/socialaccount/authentication_error.html:16
 #, python-format
-msgid "This could be because you did something unusual during your login or an issue with %(provider)s."
+msgid "This could be because you did something unusual during your login or due to an ongoing issue with %(provider)s."
 msgstr ""
 
-#: templates/socialaccount/authentication_error.html:24
+#: templates/socialaccount/authentication_error.html:21
+msgid "Please try again in a few minutes."
+msgstr ""
+
+#: templates/socialaccount/authentication_error.html:26
 #, python-format
-msgid "Please try again in a few minutes. If you keep seeing this error you can <a href=\"%(contact_url)s\">contact us</a> with the following error reference: <code>%(sentry_event_id)s</code>"
+msgid "If you keep seeing this error, you can <a href=\"%(contact_url)s\">contact us</a> with the following error reference: <code>%(sentry_event_id)s</code>"
 msgstr ""
 
-#: templates/socialaccount/authentication_error.html:28
+#: templates/socialaccount/authentication_error.html:30
 #, python-format
-msgid "Please try again in a few minutes. If you keep seeing this error you can <a href=\"%(contact_url)s\">contact us</a>."
+msgid "If you keep seeing this error, you can <a href=\"%(contact_url)s\">contact us</a>."
 msgstr ""
 
-#: templates/socialaccount/authentication_error.html:48
+#: templates/socialaccount/authentication_error.html:50
 msgid "Back to the office."
 msgstr "Befreit mich!"
 
