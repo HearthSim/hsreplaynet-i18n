@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-28 13:30+0000\n"
-"PO-Revision-Date: 2023-06-28 14:17\n"
+"POT-Creation-Date: 2023-06-28 15:29+0000\n"
+"PO-Revision-Date: 2023-06-29 00:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -575,7 +575,7 @@ msgstr "Authentifizierungsfehler"
 #: templates/socialaccount/authentication_error.html:10
 #, python-format
 msgid "We could not authenticate you with %(provider)s."
-msgstr ""
+msgstr "Wir konnten dich nicht mit %(provider)s authentifizieren."
 
 #: templates/socialaccount/authentication_error.html:16
 #, python-format
@@ -983,7 +983,7 @@ msgstr "HSReplay.net Premium für Hearthstone"
 msgid "My Replays"
 msgstr "Meine Aufzeichnungen"
 
-#: web/views/replays.py:326
+#: web/views/replays.py:329
 msgid "Uploading replay…"
 msgstr "Lade Aufzeichnung hoch…"
 
