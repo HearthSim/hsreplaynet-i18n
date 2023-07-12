@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-04 01:40+0000\n"
-"PO-Revision-Date: 2023-07-11 12:40\n"
+"PO-Revision-Date: 2023-07-12 00:41\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -35,7 +35,7 @@ msgstr "Карта была отклонена."
 
 #: api/exceptions.py:31
 msgid "You need to authenticate to view this collection."
-msgstr ""
+msgstr "Вам нужно авторизоваться для просмотра этой коллекции."
 
 #: api/exceptions.py:36
 msgid "You do not have permission to view this collection."
@@ -43,16 +43,16 @@ msgstr "У вас нет разрешения на просмотр этой к�
 
 #: api/exceptions.py:42
 msgid "This product is not available."
-msgstr ""
+msgstr "Товар не доступен."
 
 #: api/exceptions.py:48
 msgid "This plan is not available."
-msgstr ""
+msgstr "Этот план недоступен."
 
 #: api/fields.py:9
 #, python-brace-format
 msgid "{input} is not a valid member of {enum}."
-msgstr "{input} не является допустимым членом {enum}."
+msgstr "{input} не является допустимым значением {enum}."
 
 #: api/views/features.py:33
 msgid "Code has already been used."
@@ -84,7 +84,7 @@ msgstr "Полный доступ к вашей учетной записи HSRe
 
 #: settings.py:368
 msgid "Access information about your connected social accounts"
-msgstr "Доступ к списку ваших связанных учетных записей"
+msgstr "Доступ к информации о ваших подключенных учетных записях в социальных сетях"
 
 #: settings.py:369
 msgid "View your Hearthstone card collection"
@@ -440,7 +440,7 @@ msgstr "Тир7"
 
 #: templates/footer.html:67 web/views/mercenaries.py:142
 msgid "Mercenaries"
-msgstr ""
+msgstr "Наёмники"
 
 #: templates/footer.html:71
 msgid "Support"
@@ -488,15 +488,15 @@ msgstr "Вкл/выкл навигацию"
 
 #: templates/navigation.html:41
 msgid "Home"
-msgstr ""
+msgstr "Главная"
 
 #: templates/navigation.html:53
 msgid "Tier List"
-msgstr ""
+msgstr "Рейтинг"
 
 #: templates/navigation.html:66
 msgid "Parties"
-msgstr ""
+msgstr "Команды"
 
 #: templates/navigation.html:84 web/views/battlegrounds.py:164
 #: web/views/battlegrounds.py:242
@@ -505,7 +505,7 @@ msgstr "Герои"
 
 #: templates/navigation.html:96 web/views/battlegrounds.py:178
 msgid "Darkmoon Prizes"
-msgstr ""
+msgstr "Призы Новолуния"
 
 #: templates/navigation.html:107
 msgid "Minions"
@@ -572,26 +572,26 @@ msgstr "Ошибка аутентификации"
 #: templates/socialaccount/authentication_error.html:10
 #, python-format
 msgid "We could not authenticate you with %(provider)s."
-msgstr ""
+msgstr "Мы не смогли авторизовать Вас с помощью %(provider)s."
 
 #: templates/socialaccount/authentication_error.html:16
 #, python-format
 msgid "This could be because you did something unusual during your login or due to an ongoing issue with %(provider)s."
-msgstr ""
+msgstr "Это может быть потому, что вы делали что-то необычное во время вашего входа или из-за текущей проблемы с %(provider)s."
 
 #: templates/socialaccount/authentication_error.html:21
 msgid "Please try again in a few minutes."
-msgstr ""
+msgstr "Пожалуйста, повторите попытку через несколько минут."
 
 #: templates/socialaccount/authentication_error.html:26
 #, python-format
 msgid "If you keep seeing this error, you can <a href=\"%(contact_url)s\">contact us</a> with the following error reference: <code>%(sentry_event_id)s</code>"
-msgstr ""
+msgstr "Если вы продолжаете видеть эту ошибку, вы можете <a href=\"%(contact_url)s\">связаться с нами</a> со следующей ссылкой на ошибку: <code>%(sentry_event_id)s</code>"
 
 #: templates/socialaccount/authentication_error.html:30
 #, python-format
 msgid "If you keep seeing this error, you can <a href=\"%(contact_url)s\">contact us</a>."
-msgstr ""
+msgstr "Если вы продолжаете видеть эту ошибку, вы можете <a href=\"%(contact_url)s\">связаться с нами</a>."
 
 #: templates/socialaccount/authentication_error.html:50
 msgid "Back to the office."
@@ -726,19 +726,19 @@ msgstr "Свяжитесь с командой поддержки HSReplay.net."
 
 #: web/views/__init__.py:308
 msgid "Welcome to HSReplay.net"
-msgstr ""
+msgstr "Добро пожаловать на HSReplay.net"
 
 #: web/views/__init__.py:310
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
-msgstr ""
+msgstr "Узнайте, как начать работу с HSReplay.net и что вы можете делать с ним."
 
 #: web/views/__init__.py:321
 msgid "Welcome to Hearthstone Deck Tracker"
-msgstr ""
+msgstr "Добро пожаловать в Hearthstone Deck Tracker"
 
 #: web/views/__init__.py:323
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
-msgstr ""
+msgstr "Узнайте, что вы можете сделать с Hearthstone Deck Tracker, а также с вебсайтом!"
 
 #: web/views/archetypes.py:30
 msgid "Hearthstone Meta"
@@ -771,11 +771,11 @@ msgstr "Просматривайте статистику и другие кол
 
 #: web/views/archetypes.py:116
 msgid "Archetypes"
-msgstr ""
+msgstr "Архетипы"
 
 #: web/views/battlegrounds.py:132
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
-msgstr ""
+msgstr "Повысьте уровень своего игрового процесса с помощью подробной статистики полей сражений 7 уровня, включая полезную информацию о лучших героях, стратегиях, существах и многом другом!"
 
 #: web/views/battlegrounds.py:149
 msgid "HSReplay.net Tier7 for Battlegrounds"
@@ -787,11 +787,11 @@ msgstr "Герои Полей сражений"
 
 #: web/views/battlegrounds.py:156
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
-msgstr ""
+msgstr "Изучите наш список уровней героев Полей Сражений и узнайте, какой герой является лучшим — на основе данных из миллионов игр."
 
 #: web/views/battlegrounds.py:173
 msgid "Battlegrounds Darkmoon Prizes"
-msgstr ""
+msgstr "Награды новолуния полей сражений"
 
 #: web/views/battlegrounds.py:183 web/views/battlegrounds.py:210
 msgid "Battlegrounds Hero"
@@ -823,7 +823,7 @@ msgstr "Состав Полей сражений"
 
 #: web/views/battlegrounds.py:397
 msgid "No matching live or lingering composition found."
-msgstr ""
+msgstr "Соответствующая транслируемая или транслированная ранее стратегия не найдена."
 
 #: web/views/battlegrounds.py:399
 msgid "No matching composition found."
@@ -843,7 +843,7 @@ msgstr "Ни одна карта не соответствует запросу.
 
 #: web/views/cards.py:127 web/views/cards.py:130
 msgid "Hearthstone Card"
-msgstr ""
+msgstr "Карта Hearthstone"
 
 #: web/views/cards.py:152
 msgid "Statistics and decks!"
@@ -941,32 +941,32 @@ msgstr "Здесь вы найдете многообещающие колоды
 
 #: web/views/decks.py:139
 msgid "Trending Decks"
-msgstr ""
+msgstr "Популярные колоды"
 
 #: web/views/mercenaries.py:68 web/views/mercenaries.py:84
 msgid "Mercenaries Collection"
-msgstr ""
+msgstr "Коллекция Наемников"
 
 #: web/views/mercenaries.py:99
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
-msgstr ""
+msgstr "Набор Наёмников игрока {user}"
 
 #: web/views/mercenaries.py:130
 msgid "Mercenaries Home"
-msgstr ""
+msgstr "Наемники Главная"
 
 #: web/views/mercenaries.py:136
 msgid "Get all the information you need to win at Hearthstone Mercenaries with our Mercenaries stats and collection tracking. See top mercenaries tier lists and parties."
-msgstr ""
+msgstr "Получите всю необходимую информацию о наемниках из Hearthstone Mercenaries с помощью нашей статистики по наемникам и слежения за коллекциями. Смотрите лучшие списки наемников и партии."
 
 #: web/views/mercenaries.py:151
 msgid "Mercenaries Parties"
-msgstr ""
+msgstr "Наёмники Партии"
 
 #: web/views/mercenaries.py:161
 msgid "Mercenaries Tier List"
-msgstr ""
+msgstr "Список наемников"
 
 #: web/views/oauth2.py:60
 msgid "Access has been revoked."
