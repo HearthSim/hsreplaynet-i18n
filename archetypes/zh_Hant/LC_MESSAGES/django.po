@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-15T01:40:34.603238\n"
+"POT-Creation-Date: 2023-08-03T01:40:31.868161\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2023-08-02 12:40\n"
+"PO-Revision-Date: 2023-08-03 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1209,6 +1209,10 @@ msgstr "大大戰"
 msgid "Quest Miracle Mage"
 msgstr "任務奇蹟法"
 
+#: https://hsreplay.net/archetypes/612/plague-death-knight
+msgid "Plague Death Knight"
+msgstr "瘟疫DK"
+
 #: https://hsreplay.net/archetypes/530/naga-priest
 msgid "Naga Priest"
 msgstr "納迦牧"
@@ -1292,10 +1296,6 @@ msgstr "星穹德"
 #: https://hsreplay.net/archetypes/554/triple-blood-death-knight
 msgid "Triple Blood Death Knight"
 msgstr "血魄DK"
-
-#: https://hsreplay.net/archetypes/138/secret-hunter
-msgid "Secret Hunter"
-msgstr "秘密獵"
 
 #: https://hsreplay.net/archetypes/441/ping-mage
 msgid "Ping Mage"
@@ -1705,6 +1705,10 @@ msgstr "偷牌牧"
 msgid "Secret Rogue"
 msgstr "秘密賊"
 
+#: https://hsreplay.net/archetypes/613/myth-hunter
+msgid "Myth Hunter"
+msgstr "神話獵"
+
 #: https://hsreplay.net/archetypes/546/imp-warlock
 msgid "Imp Warlock"
 msgstr "小鬼術"
@@ -1972,4 +1976,36 @@ msgstr "武器賊"
 #: https://hsreplay.net/archetypes/202/evolve-shaman
 msgid "Evolve Shaman"
 msgstr "進化薩"
+
+#: https://hsreplay.net/archetypes/138/secret-hunter
+msgid "Secret Hunter"
+msgstr "秘密獵"
+
+#: https://hsreplay.net/archetypes/614/spell-school-mage
+msgid "Spell School Mage"
+msgstr "多系法"
+
+#: https://hsreplay.net/archetypes/615/rainbow-mage
+msgid "Rainbow Mage"
+msgstr "彩虹法"
+
+#: https://hsreplay.net/archetypes/616/earthen-paladin
+msgid "Earthen Paladin"
+msgstr "土靈聖"
+
+#: https://hsreplay.net/archetypes/617/automaton-priest
+msgid "Automaton Priest"
+msgstr "自動機牧"
+
+#: https://hsreplay.net/archetypes/618/mech-rogue
+msgid "Mech Rogue"
+msgstr "機械賊"
+
+#: https://hsreplay.net/archetypes/619/big-rogue
+msgid "Big Rogue"
+msgstr "大大賊"
+
+#: https://hsreplay.net/archetypes/620/rock-n-roll-warrior
+msgid "Rock 'n' Roll Warrior"
+msgstr "搖滾戰"
 
