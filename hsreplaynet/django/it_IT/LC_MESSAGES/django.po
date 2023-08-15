@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-09 23:06+0000\n"
-"PO-Revision-Date: 2023-08-14 12:40\n"
+"PO-Revision-Date: 2023-08-15 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -215,16 +215,16 @@ msgid "The following email addresses are associated with your account:"
 msgstr "I seguenti indirizzi email sono associati al tuo account:"
 
 #: templates/account/email.html:18
-msgid "✔ Verified"
-msgstr "✔ Verificato"
+msgid "тЬФ Verified"
+msgstr ""
 
 #: templates/account/email.html:23
 msgid "Re-send Verification"
 msgstr "Invia nuovamente il Codice di Verifica"
 
 #: templates/account/email.html:28
-msgid "✔ Primary"
-msgstr "✔ Principale"
+msgid "тЬФ Primary"
+msgstr ""
 
 #: templates/account/email.html:33
 msgid "Make Primary"
@@ -774,8 +774,8 @@ msgid "Archetypes"
 msgstr "Archetipi"
 
 #: web/views/battlegrounds.py:132
-msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
-msgstr "Migliora il tuo stile di gioco con le statistiche di Battaglia all'interno di Tier7's, incluso le informazioni reperibili sui migliori eroi, composizioni, servitori e molto altro!"
+msgid "Level up your gameplay with Tier7тАЩs in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
+msgstr ""
 
 #: web/views/battlegrounds.py:149
 msgid "HSReplay.net Tier7 for Battlegrounds"
@@ -985,8 +985,8 @@ msgid "My Replays"
 msgstr "I miei Replay"
 
 #: web/views/replays.py:316
-msgid "Uploading replay…"
-msgstr "Caricamento replay…"
+msgid "Uploading replayтАж"
+msgstr ""
 
 #: web/views/stats.py:15
 msgid "My Stats"
