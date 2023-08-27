@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-08-16 01:40+0000\n"
-"PO-Revision-Date: 2023-08-26 12:40\n"
+"PO-Revision-Date: 2023-08-27 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -504,7 +504,7 @@ msgstr "Helden"
 
 #: templates/navigation.html:96 web/views/battlegrounds.py:178
 msgid "Darkmoon Prizes"
-msgstr ""
+msgstr "Dunkelmond-Preise"
 
 #: templates/navigation.html:107
 msgid "Minions"
@@ -580,7 +580,7 @@ msgstr ""
 
 #: templates/socialaccount/authentication_error.html:21
 msgid "Please try again in a few minutes."
-msgstr ""
+msgstr "Bitte versuche es in ein paar Minuten erneut."
 
 #: templates/socialaccount/authentication_error.html:26
 #, python-format
@@ -733,7 +733,7 @@ msgstr "Erfahre wie du mit HSReplay.net startest und was du damit tun kannst."
 
 #: web/views/__init__.py:321
 msgid "Welcome to Hearthstone Deck Tracker"
-msgstr ""
+msgstr "Willkommen beim Hearthstone Deck Tracker"
 
 #: web/views/__init__.py:323
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
@@ -790,7 +790,7 @@ msgstr ""
 
 #: web/views/battlegrounds.py:173
 msgid "Battlegrounds Darkmoon Prizes"
-msgstr ""
+msgstr "Schlachtfeld Dunkelmond-Preise"
 
 #: web/views/battlegrounds.py:183 web/views/battlegrounds.py:210
 msgid "Battlegrounds Hero"
@@ -842,7 +842,7 @@ msgstr "Keine passende Karte gefunden."
 
 #: web/views/cards.py:127 web/views/cards.py:130
 msgid "Hearthstone Card"
-msgstr ""
+msgstr "Hearthstone-Karten"
 
 #: web/views/cards.py:152
 msgid "Statistics and decks!"
@@ -940,7 +940,7 @@ msgstr "Finde die Hearthstone-Decks von morgen mittels steigender Beliebtheit, f
 
 #: web/views/decks.py:139
 msgid "Trending Decks"
-msgstr ""
+msgstr "Decks im Trend"
 
 #: web/views/mercenaries.py:68 web/views/mercenaries.py:84
 msgid "Mercenaries Collection"
@@ -989,5 +989,5 @@ msgstr ""
 
 #: web/views/stats.py:15
 msgid "My Stats"
-msgstr ""
+msgstr "Meine Statistiken"
 
