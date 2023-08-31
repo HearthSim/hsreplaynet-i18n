@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-08-28 01:40+0000\n"
-"PO-Revision-Date: 2023-08-30 12:40\n"
+"POT-Creation-Date: 2023-08-30 17:47+0000\n"
+"PO-Revision-Date: 2023-08-31 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -388,7 +388,7 @@ msgstr "我們已經寄給妳Email認證信，請點擊連結來完成註冊手�
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr "如果幾分鐘後仍沒收到電子郵件，請到<a href=\"%(contact_url)s\">聯繫我們</a>。"
 
-#: templates/base.html:82
+#: templates/base.html:87
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
 msgstr "Xsolla是HSReplay.net授權的全球經銷商"
 
