@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-21T01:40:29.662476\n"
+"POT-Creation-Date: 2023-09-22T01:40:29.586101\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2023-09-21 12:40\n"
+"PO-Revision-Date: 2023-09-22 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1461,10 +1461,6 @@ msgstr "Quest Face Warlock"
 msgid "Felrattle Demon Hunter"
 msgstr "Felrattle Demon Hunter"
 
-#: https://hsreplay.net/archetypes/145/elemental-mage
-msgid "Elemental Mage"
-msgstr "Elemental Mage"
-
 #: https://hsreplay.net/archetypes/490/shuffle-rogue
 msgid "Shuffle Rogue"
 msgstr "Shuffle Rogue"
@@ -2024,4 +2020,12 @@ msgstr ""
 #: https://hsreplay.net/archetypes/624/giant-druid
 msgid "Giant Druid"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/625/breakfast-hunter
+msgid "Breakfast Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/145/elemental-mage
+msgid "Elemental Mage"
+msgstr "Elemental Mage"
 
