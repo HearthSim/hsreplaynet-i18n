@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-22T01:40:29.586101\n"
+"POT-Creation-Date: 2023-09-29T14:42:28.300559\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-29 12:40\n"
+"PO-Revision-Date: 2023-09-29 15:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -252,10 +252,6 @@ msgstr "Druide appel"
 #: https://hsreplay.net/archetypes/180/recruit-hunter
 msgid "Recruit Hunter"
 msgstr "Chasseur appel"
-
-#: https://hsreplay.net/archetypes/55/miracle-priest
-msgid "Miracle Priest"
-msgstr "Prêtre miracle"
 
 #: https://hsreplay.net/archetypes/193/oakheart-druid
 msgid "Oakheart Druid"
@@ -1297,6 +1293,10 @@ msgstr "Druide alignement céleste"
 msgid "Triple Blood Death Knight"
 msgstr "Chevalier de la mort triple sang"
 
+#: https://hsreplay.net/archetypes/55/miracle-priest
+msgid "Miracle Priest"
+msgstr "Prêtre miracle"
+
 #: https://hsreplay.net/archetypes/441/ping-mage
 msgid "Ping Mage"
 msgstr "Mage ping"
@@ -2028,4 +2028,12 @@ msgstr ""
 #: https://hsreplay.net/archetypes/145/elemental-mage
 msgid "Elemental Mage"
 msgstr "Mage élémentaires"
+
+#: https://hsreplay.net/archetypes/626/tendril-shaman
+msgid "Tendril Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/627/yogg-shaman
+msgid "Yogg Shaman"
+msgstr ""
 
