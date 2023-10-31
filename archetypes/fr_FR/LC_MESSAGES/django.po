@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-29T14:42:28.300559\n"
+"POT-Creation-Date: 2023-10-31T01:40:28.162901\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-09-29 15:40\n"
+"PO-Revision-Date: 2023-10-31 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -96,6 +96,10 @@ msgstr "Chasseur aggro"
 #: https://hsreplay.net/archetypes/140/grime-street-hunter
 msgid "Grime Street Hunter"
 msgstr "Chasseur dessoudeurs"
+
+#: https://hsreplay.net/archetypes/226/mill-druid
+msgid "Mill Druid"
+msgstr "Druide meule"
 
 #: https://hsreplay.net/archetypes/143/nzoth-mage
 msgid "N'Zoth Mage"
@@ -284,10 +288,6 @@ msgstr "Druide aggro"
 #: https://hsreplay.net/archetypes/200/spiteful-warrior
 msgid "Spiteful Warrior"
 msgstr "Guerrier Invocatrice"
-
-#: https://hsreplay.net/archetypes/226/mill-druid
-msgid "Mill Druid"
-msgstr "Druide meule"
 
 #: https://hsreplay.net/archetypes/303/highlander-quest-mage
 msgid "Highlander Quest Mage"
@@ -505,10 +505,6 @@ msgstr "Voleur Galakrond Camouflage"
 msgid "Demon Warlock"
 msgstr "Démoniste démons"
 
-#: https://hsreplay.net/archetypes/148/big-druid
-msgid "Big Druid"
-msgstr "Druide grosses créas"
-
 #: https://hsreplay.net/archetypes/425/etc-control-warrior
 msgid "ETC Control Warrior"
 msgstr "Guerrier contrôle ETC"
@@ -696,6 +692,10 @@ msgstr "Chasseur secrets grosses créas"
 #: https://hsreplay.net/archetypes/157/murloc-paladin
 msgid "Murloc Paladin"
 msgstr "Paladin murlocs"
+
+#: https://hsreplay.net/archetypes/148/big-druid
+msgid "Big Druid"
+msgstr "Druide grosses créas"
 
 #: https://hsreplay.net/archetypes/460/secret-libram-paladin
 msgid "Secret Libram Paladin"

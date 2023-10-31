@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-29T14:42:28.300559\n"
+"POT-Creation-Date: 2023-10-31T01:40:28.162901\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2023-09-29 15:40\n"
+"PO-Revision-Date: 2023-10-31 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -96,6 +96,10 @@ msgstr "アグロハンター"
 #: https://hsreplay.net/archetypes/140/grime-street-hunter
 msgid "Grime Street Hunter"
 msgstr "グライムストリート ハンター"
+
+#: https://hsreplay.net/archetypes/226/mill-druid
+msgid "Mill Druid"
+msgstr "ミルドルイド"
 
 #: https://hsreplay.net/archetypes/143/nzoth-mage
 msgid "N'Zoth Mage"
@@ -284,10 +288,6 @@ msgstr "アグロドルイド"
 #: https://hsreplay.net/archetypes/200/spiteful-warrior
 msgid "Spiteful Warrior"
 msgstr "性悪ウォリアー"
-
-#: https://hsreplay.net/archetypes/226/mill-druid
-msgid "Mill Druid"
-msgstr "ミルドルイド"
 
 #: https://hsreplay.net/archetypes/303/highlander-quest-mage
 msgid "Highlander Quest Mage"
@@ -505,10 +505,6 @@ msgstr "ガラクロンド隠れ身ローグ"
 msgid "Demon Warlock"
 msgstr "悪魔ウォーロック"
 
-#: https://hsreplay.net/archetypes/148/big-druid
-msgid "Big Druid"
-msgstr "ビッグドルイド"
-
 #: https://hsreplay.net/archetypes/425/etc-control-warrior
 msgid "ETC Control Warrior"
 msgstr "ETCコントロールウォリアー"
@@ -696,6 +692,10 @@ msgstr "ビッグ秘策ハンター"
 #: https://hsreplay.net/archetypes/157/murloc-paladin
 msgid "Murloc Paladin"
 msgstr "マーロックパラディン"
+
+#: https://hsreplay.net/archetypes/148/big-druid
+msgid "Big Druid"
+msgstr "ビッグドルイド"
 
 #: https://hsreplay.net/archetypes/460/secret-libram-paladin
 msgid "Secret Libram Paladin"
