@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-10-10 01:40+0000\n"
-"PO-Revision-Date: 2023-10-10 12:40\n"
+"PO-Revision-Date: 2023-11-01 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -216,7 +216,7 @@ msgstr "I seguenti indirizzi email sono associati al tuo account:"
 
 #: templates/account/email.html:18
 msgid "✔ Verified"
-msgstr ""
+msgstr "✔Verificato"
 
 #: templates/account/email.html:23
 msgid "Re-send Verification"
@@ -224,7 +224,7 @@ msgstr "Invia nuovamente il Codice di Verifica"
 
 #: templates/account/email.html:28
 msgid "✔ Primary"
-msgstr ""
+msgstr "✔Principale"
 
 #: templates/account/email.html:33
 msgid "Make Primary"
@@ -572,26 +572,26 @@ msgstr "Errore di autenticazione"
 #: templates/socialaccount/authentication_error.html:10
 #, python-format
 msgid "We could not authenticate you with %(provider)s."
-msgstr ""
+msgstr "Non è stato possibile autenticarti con %(provider)s."
 
 #: templates/socialaccount/authentication_error.html:16
 #, python-format
 msgid "This could be because you did something unusual during your login or due to an ongoing issue with %(provider)s."
-msgstr ""
+msgstr "Questo può darsi perchè hai fatto qualcosa di insolito durante il tuo accesso o dovuto a un problema presente con %(provider)s."
 
 #: templates/socialaccount/authentication_error.html:21
 msgid "Please try again in a few minutes."
-msgstr ""
+msgstr "Per favore riprova tra pochi minuti."
 
 #: templates/socialaccount/authentication_error.html:26
 #, python-format
 msgid "If you keep seeing this error, you can <a href=\"%(contact_url)s\">contact us</a> with the following error reference: <code>%(sentry_event_id)s</code>"
-msgstr ""
+msgstr "Se continui a vedere questo errore, puoi contattarci <a href=\"%(contact_url)s\"></a>con il seguente riferimento all'errore: <code>%(sentry_event_id)s</code>"
 
 #: templates/socialaccount/authentication_error.html:30
 #, python-format
 msgid "If you keep seeing this error, you can <a href=\"%(contact_url)s\">contact us</a>."
-msgstr ""
+msgstr "Se continui a vedere questo errore, puoi contattarci <a href=\"%(contact_url)s\"></a>."
 
 #: templates/socialaccount/authentication_error.html:50
 msgid "Back to the office."
@@ -775,7 +775,7 @@ msgstr "Archetipi"
 
 #: web/views/battlegrounds.py:132
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
-msgstr ""
+msgstr "Alza di livello il tuo stile di gioco con le statistiche di Battaglia all'interno di Tier7's, includendo le informazioni reperibili sui miglioti eroi, composizioni, servitori e molto altro!"
 
 #: web/views/battlegrounds.py:149
 msgid "HSReplay.net Tier7 for Battlegrounds"
@@ -831,7 +831,7 @@ msgstr "Nessuna composizione corrispondente trovata."
 
 #: web/views/battlegrounds.py:466
 msgid "My Battlegrounds Stats"
-msgstr ""
+msgstr "Le mie statistiche di Battaglia"
 
 #: web/views/cards.py:29
 msgid "Hearthstone Card Statistics"
