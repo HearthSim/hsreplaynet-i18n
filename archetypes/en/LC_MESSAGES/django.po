@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-15T01:40:28.598282\n"
+"POT-Creation-Date: 2023-11-16T01:40:30.390684\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: English\n"
 "MIME-Version: 1.0\n"
@@ -98,8 +98,8 @@ msgstr ""
 msgid "N'Zoth Mage"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/302/highlander-hunter
-msgid "Highlander Hunter"
+#: https://hsreplay.net/archetypes/128/highlander-priest
+msgid "Highlander Priest"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/61/elemental-shaman
@@ -116,10 +116,6 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/605/drum-druid
 msgid "Drum Druid"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/128/highlander-priest
-msgid "Highlander Priest"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/13/cthun-druid
@@ -162,6 +158,10 @@ msgstr ""
 msgid "Elemental Priest"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/366/highlander-demon-hunter
+msgid "Highlander Demon Hunter"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/198/deathrattle-rogue
 msgid "Deathrattle Rogue"
 msgstr ""
@@ -196,10 +196,6 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/491/quest-stealer-warlock
 msgid "Quest Stealer Warlock"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/170/beast-hunter
-msgid "Beast Hunter"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/172/stealth-rogue
@@ -248,6 +244,10 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/180/recruit-hunter
 msgid "Recruit Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/302/highlander-hunter
+msgid "Highlander Hunter"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/193/oakheart-druid
@@ -1054,8 +1054,8 @@ msgstr ""
 msgid "Control Demon Hunter"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/335/dragon-druid
-msgid "Dragon Druid"
+#: https://hsreplay.net/archetypes/360/highlander-shaman
+msgid "Highlander Shaman"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/395/cube-priest
@@ -1110,8 +1110,8 @@ msgstr ""
 msgid "Hound Hunter"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/366/highlander-demon-hunter
-msgid "Highlander Demon Hunter"
+#: https://hsreplay.net/archetypes/335/dragon-druid
+msgid "Dragon Druid"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/407/tortollan-mage
@@ -1154,6 +1154,10 @@ msgstr ""
 msgid "No Minion Mage"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/316/highlander-warrior
+msgid "Highlander Warrior"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/428/ramp-paladin
 msgid "Ramp Paladin"
 msgstr ""
@@ -1180,14 +1184,6 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/324/highlander-rogue
 msgid "Highlander Rogue"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/360/highlander-shaman
-msgid "Highlander Shaman"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/316/highlander-warrior
-msgid "Highlander Warrior"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/291/big-warrior
@@ -1454,6 +1450,10 @@ msgstr ""
 msgid "Felrattle Demon Hunter"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/304/highlander-paladin
+msgid "Highlander Paladin"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/490/shuffle-rogue
 msgid "Shuffle Rogue"
 msgstr ""
@@ -1572,14 +1572,6 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/15/secret-paladin
 msgid "Secret Paladin"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/353/highlander-druid
-msgid "Highlander Druid"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/304/highlander-paladin
-msgid "Highlander Paladin"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/314/highlander-quest-priest
@@ -2028,4 +2020,36 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/627/yogg-shaman
 msgid "Yogg Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/353/highlander-druid
+msgid "Highlander Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/170/beast-hunter
+msgid "Beast Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/628/excavate-mage
+msgid "Excavate Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/629/mining-mage
+msgid "Mining Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/630/ogre-rogue
+msgid "Ogre Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/631/mining-rogue
+msgid "Mining Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/632/mining-warlock
+msgid "Mining Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/633/sludge-warlock
+msgid "Sludge Warlock"
 msgstr ""
