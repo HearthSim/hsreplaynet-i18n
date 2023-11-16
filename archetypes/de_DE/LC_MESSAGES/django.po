@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-31T01:40:28.162901\n"
+"POT-Creation-Date: 2023-11-16T01:40:30.390684\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2023-11-05 00:40\n"
+"PO-Revision-Date: 2023-11-16 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -105,8 +105,8 @@ msgstr ""
 msgid "N'Zoth Mage"
 msgstr "N'Zoth-Magier"
 
-#: https://hsreplay.net/archetypes/302/highlander-hunter
-msgid "Highlander Hunter"
+#: https://hsreplay.net/archetypes/128/highlander-priest
+msgid "Highlander Priest"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/61/elemental-shaman
@@ -124,10 +124,6 @@ msgstr "Nomi-Priester"
 #: https://hsreplay.net/archetypes/605/drum-druid
 msgid "Drum Druid"
 msgstr "Trommel-Druide"
-
-#: https://hsreplay.net/archetypes/128/highlander-priest
-msgid "Highlander Priest"
-msgstr ""
 
 #: https://hsreplay.net/archetypes/13/cthun-druid
 msgid "C'Thun Druid"
@@ -169,6 +165,10 @@ msgstr "Aggro-Schamane"
 msgid "Elemental Priest"
 msgstr "Elementar-Priester"
 
+#: https://hsreplay.net/archetypes/366/highlander-demon-hunter
+msgid "Highlander Demon Hunter"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/198/deathrattle-rogue
 msgid "Deathrattle Rogue"
 msgstr "Todesröcheln-Schurke"
@@ -204,10 +204,6 @@ msgstr "Murloc-Schamane"
 #: https://hsreplay.net/archetypes/491/quest-stealer-warlock
 msgid "Quest Stealer Warlock"
 msgstr ""
-
-#: https://hsreplay.net/archetypes/170/beast-hunter
-msgid "Beast Hunter"
-msgstr "Wildtier-Jäger"
 
 #: https://hsreplay.net/archetypes/172/stealth-rogue
 msgid "Stealth Rogue"
@@ -256,6 +252,10 @@ msgstr "Rekrutier-Druide"
 #: https://hsreplay.net/archetypes/180/recruit-hunter
 msgid "Recruit Hunter"
 msgstr "Rekrutier-Jäger"
+
+#: https://hsreplay.net/archetypes/302/highlander-hunter
+msgid "Highlander Hunter"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/193/oakheart-druid
 msgid "Oakheart Druid"
@@ -1061,9 +1061,9 @@ msgstr ""
 msgid "Control Demon Hunter"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/335/dragon-druid
-msgid "Dragon Druid"
-msgstr "Drachen-Druide"
+#: https://hsreplay.net/archetypes/360/highlander-shaman
+msgid "Highlander Shaman"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/395/cube-priest
 msgid "Cube Priest"
@@ -1117,9 +1117,9 @@ msgstr ""
 msgid "Hound Hunter"
 msgstr "Jagdhund-Jäger"
 
-#: https://hsreplay.net/archetypes/366/highlander-demon-hunter
-msgid "Highlander Demon Hunter"
-msgstr ""
+#: https://hsreplay.net/archetypes/335/dragon-druid
+msgid "Dragon Druid"
+msgstr "Drachen-Druide"
 
 #: https://hsreplay.net/archetypes/407/tortollan-mage
 msgid "Tortollan Mage"
@@ -1161,6 +1161,10 @@ msgstr ""
 msgid "No Minion Mage"
 msgstr "Kein-Diener-Magier"
 
+#: https://hsreplay.net/archetypes/316/highlander-warrior
+msgid "Highlander Warrior"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/428/ramp-paladin
 msgid "Ramp Paladin"
 msgstr ""
@@ -1187,14 +1191,6 @@ msgstr "Diebischer Schurke"
 
 #: https://hsreplay.net/archetypes/324/highlander-rogue
 msgid "Highlander Rogue"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/360/highlander-shaman
-msgid "Highlander Shaman"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/316/highlander-warrior
-msgid "Highlander Warrior"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/291/big-warrior
@@ -1461,6 +1457,10 @@ msgstr ""
 msgid "Felrattle Demon Hunter"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/304/highlander-paladin
+msgid "Highlander Paladin"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/490/shuffle-rogue
 msgid "Shuffle Rogue"
 msgstr ""
@@ -1580,14 +1580,6 @@ msgstr "Amulett-Magier"
 #: https://hsreplay.net/archetypes/15/secret-paladin
 msgid "Secret Paladin"
 msgstr "Geheimnis-Paladin"
-
-#: https://hsreplay.net/archetypes/353/highlander-druid
-msgid "Highlander Druid"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/304/highlander-paladin
-msgid "Highlander Paladin"
-msgstr ""
 
 #: https://hsreplay.net/archetypes/314/highlander-quest-priest
 msgid "Highlander Quest Priest"
@@ -2035,5 +2027,37 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/627/yogg-shaman
 msgid "Yogg Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/353/highlander-druid
+msgid "Highlander Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/170/beast-hunter
+msgid "Beast Hunter"
+msgstr "Wildtier-Jäger"
+
+#: https://hsreplay.net/archetypes/628/excavate-mage
+msgid "Excavate Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/629/mining-mage
+msgid "Mining Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/630/ogre-rogue
+msgid "Ogre Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/631/mining-rogue
+msgid "Mining Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/632/mining-warlock
+msgid "Mining Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/633/sludge-warlock
+msgid "Sludge Warlock"
 msgstr ""
 

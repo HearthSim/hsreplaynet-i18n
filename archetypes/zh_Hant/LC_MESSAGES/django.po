@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-10-31T01:40:28.162901\n"
+"POT-Creation-Date: 2023-11-16T01:40:30.390684\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2023-10-31 12:40\n"
+"PO-Revision-Date: 2023-11-16 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -105,9 +105,9 @@ msgstr "國王德"
 msgid "N'Zoth Mage"
 msgstr "恩若斯法"
 
-#: https://hsreplay.net/archetypes/302/highlander-hunter
-msgid "Highlander Hunter"
-msgstr "無雙獵"
+#: https://hsreplay.net/archetypes/128/highlander-priest
+msgid "Highlander Priest"
+msgstr "無雙牧"
 
 #: https://hsreplay.net/archetypes/61/elemental-shaman
 msgid "Elemental Shaman"
@@ -124,10 +124,6 @@ msgstr "糯米牧"
 #: https://hsreplay.net/archetypes/605/drum-druid
 msgid "Drum Druid"
 msgstr "環鼓德"
-
-#: https://hsreplay.net/archetypes/128/highlander-priest
-msgid "Highlander Priest"
-msgstr "無雙牧"
 
 #: https://hsreplay.net/archetypes/13/cthun-druid
 msgid "C'Thun Druid"
@@ -169,6 +165,10 @@ msgstr "打頭薩"
 msgid "Elemental Priest"
 msgstr "元素牧"
 
+#: https://hsreplay.net/archetypes/366/highlander-demon-hunter
+msgid "Highlander Demon Hunter"
+msgstr "無雙DH"
+
 #: https://hsreplay.net/archetypes/198/deathrattle-rogue
 msgid "Deathrattle Rogue"
 msgstr "死聲賊"
@@ -204,10 +204,6 @@ msgstr "魚人薩"
 #: https://hsreplay.net/archetypes/491/quest-stealer-warlock
 msgid "Quest Stealer Warlock"
 msgstr "任務竊魂術"
-
-#: https://hsreplay.net/archetypes/170/beast-hunter
-msgid "Beast Hunter"
-msgstr "野獸獵"
 
 #: https://hsreplay.net/archetypes/172/stealth-rogue
 msgid "Stealth Rogue"
@@ -256,6 +252,10 @@ msgstr "號召德"
 #: https://hsreplay.net/archetypes/180/recruit-hunter
 msgid "Recruit Hunter"
 msgstr "號召獵"
+
+#: https://hsreplay.net/archetypes/302/highlander-hunter
+msgid "Highlander Hunter"
+msgstr "無雙獵"
 
 #: https://hsreplay.net/archetypes/193/oakheart-druid
 msgid "Oakheart Druid"
@@ -1061,9 +1061,9 @@ msgstr "無雙龍法"
 msgid "Control Demon Hunter"
 msgstr "控制DH"
 
-#: https://hsreplay.net/archetypes/335/dragon-druid
-msgid "Dragon Druid"
-msgstr "龍德"
+#: https://hsreplay.net/archetypes/360/highlander-shaman
+msgid "Highlander Shaman"
+msgstr "無雙薩"
 
 #: https://hsreplay.net/archetypes/395/cube-priest
 msgid "Cube Priest"
@@ -1117,9 +1117,9 @@ msgstr "法傷薩"
 msgid "Hound Hunter"
 msgstr "獵犬獵"
 
-#: https://hsreplay.net/archetypes/366/highlander-demon-hunter
-msgid "Highlander Demon Hunter"
-msgstr "無雙DH"
+#: https://hsreplay.net/archetypes/335/dragon-druid
+msgid "Dragon Druid"
+msgstr "龍德"
 
 #: https://hsreplay.net/archetypes/407/tortollan-mage
 msgid "Tortollan Mage"
@@ -1161,6 +1161,10 @@ msgstr "恩若司聖"
 msgid "No Minion Mage"
 msgstr "無手下法"
 
+#: https://hsreplay.net/archetypes/316/highlander-warrior
+msgid "Highlander Warrior"
+msgstr "無雙戰"
+
 #: https://hsreplay.net/archetypes/428/ramp-paladin
 msgid "Ramp Paladin"
 msgstr "跳費聖"
@@ -1188,14 +1192,6 @@ msgstr "偷牌賊"
 #: https://hsreplay.net/archetypes/324/highlander-rogue
 msgid "Highlander Rogue"
 msgstr "無雙賊"
-
-#: https://hsreplay.net/archetypes/360/highlander-shaman
-msgid "Highlander Shaman"
-msgstr "無雙薩"
-
-#: https://hsreplay.net/archetypes/316/highlander-warrior
-msgid "Highlander Warrior"
-msgstr "無雙戰"
 
 #: https://hsreplay.net/archetypes/291/big-warrior
 msgid "Big Warrior"
@@ -1461,6 +1457,10 @@ msgstr "任務直傷術"
 msgid "Felrattle Demon Hunter"
 msgstr "魔化死聲DH"
 
+#: https://hsreplay.net/archetypes/304/highlander-paladin
+msgid "Highlander Paladin"
+msgstr "無雙聖"
+
 #: https://hsreplay.net/archetypes/490/shuffle-rogue
 msgid "Shuffle Rogue"
 msgstr "洗入賊"
@@ -1580,14 +1580,6 @@ msgstr "護符法"
 #: https://hsreplay.net/archetypes/15/secret-paladin
 msgid "Secret Paladin"
 msgstr "秘密聖"
-
-#: https://hsreplay.net/archetypes/353/highlander-druid
-msgid "Highlander Druid"
-msgstr "無雙德"
-
-#: https://hsreplay.net/archetypes/304/highlander-paladin
-msgid "Highlander Paladin"
-msgstr "無雙聖"
 
 #: https://hsreplay.net/archetypes/314/highlander-quest-priest
 msgid "Highlander Quest Priest"
@@ -2036,4 +2028,36 @@ msgstr "觸鬚薩"
 #: https://hsreplay.net/archetypes/627/yogg-shaman
 msgid "Yogg Shaman"
 msgstr "尤格薩"
+
+#: https://hsreplay.net/archetypes/353/highlander-druid
+msgid "Highlander Druid"
+msgstr "無雙德"
+
+#: https://hsreplay.net/archetypes/170/beast-hunter
+msgid "Beast Hunter"
+msgstr "野獸獵"
+
+#: https://hsreplay.net/archetypes/628/excavate-mage
+msgid "Excavate Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/629/mining-mage
+msgid "Mining Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/630/ogre-rogue
+msgid "Ogre Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/631/mining-rogue
+msgid "Mining Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/632/mining-warlock
+msgid "Mining Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/633/sludge-warlock
+msgid "Sludge Warlock"
+msgstr ""
 
