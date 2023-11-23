@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-16T01:40:30.390684\n"
+"POT-Creation-Date: 2023-11-23T01:40:30.811170\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2023-11-16 12:40\n"
+"PO-Revision-Date: 2023-11-23 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -141,10 +141,6 @@ msgstr "棄牌術"
 msgid "Dragon Priest"
 msgstr "龍牧"
 
-#: https://hsreplay.net/archetypes/136/highlander-warlock
-msgid "Highlander Warlock"
-msgstr "無雙術"
-
 #: https://hsreplay.net/archetypes/22/pirate-warrior
 msgid "Pirate Warrior"
 msgstr "海盜戰"
@@ -204,6 +200,10 @@ msgstr "魚人薩"
 #: https://hsreplay.net/archetypes/491/quest-stealer-warlock
 msgid "Quest Stealer Warlock"
 msgstr "任務竊魂術"
+
+#: https://hsreplay.net/archetypes/634/highlander-blood-death-knight
+msgid "Highlander Blood Death Knight"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/172/stealth-rogue
 msgid "Stealth Rogue"
@@ -276,6 +276,10 @@ msgstr "疲勞戰"
 #: https://hsreplay.net/archetypes/195/midrange-paladin
 msgid "Midrange Paladin"
 msgstr "中速聖"
+
+#: https://hsreplay.net/archetypes/637/well-rogue
+msgid "Well Rogue"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/197/cube-warlock
 msgid "Cube Warlock"
@@ -356,10 +360,6 @@ msgstr "奇數德"
 #: https://hsreplay.net/archetypes/227/even-mage
 msgid "Even Mage"
 msgstr "偶數法"
-
-#: https://hsreplay.net/archetypes/146/highlander-mage
-msgid "Highlander Mage"
-msgstr "無雙法"
 
 #: https://hsreplay.net/archetypes/131/silence-priest
 msgid "Silence Priest"
@@ -985,6 +985,10 @@ msgstr "節奏戰"
 msgid "Quest Highlander Hunter"
 msgstr "任務無雙獵"
 
+#: https://hsreplay.net/archetypes/146/highlander-mage
+msgid "Highlander Mage"
+msgstr "無雙法"
+
 #: https://hsreplay.net/archetypes/367/tempo-demon-hunter
 msgid "Tempo Demon Hunter"
 msgstr "節奏DH"
@@ -1220,6 +1224,10 @@ msgstr "秘密打頭獵"
 #: https://hsreplay.net/archetypes/423/cthun-mage
 msgid "C'thun Mage"
 msgstr "克蘇恩法"
+
+#: https://hsreplay.net/archetypes/635/showdown-paladin
+msgid "Showdown Paladin"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/426/whirlkick-rogue
 msgid "Whirlkick Rogue"
@@ -2060,4 +2068,16 @@ msgstr ""
 #: https://hsreplay.net/archetypes/633/sludge-warlock
 msgid "Sludge Warlock"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/636/ogre-priest
+msgid "Ogre Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/638/wishing-rogue
+msgid "Wishing Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/136/highlander-warlock
+msgid "Highlander Warlock"
+msgstr "無雙術"
 
