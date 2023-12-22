@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-11-23T01:40:30.811170\n"
+"POT-Creation-Date: 2023-12-22T01:40:30.010192\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2023-11-23 12:40\n"
+"PO-Revision-Date: 2023-12-22 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -136,6 +136,10 @@ msgstr "Breakfast Priest"
 #: https://hsreplay.net/archetypes/135/discard-warlock
 msgid "Discard Warlock"
 msgstr "Discard Warlock"
+
+#: https://hsreplay.net/archetypes/639/cleave-hunter
+msgid "Cleave Hunter"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/130/dragon-priest
 msgid "Dragon Priest"
@@ -1193,10 +1197,6 @@ msgstr "Quest Warlock"
 msgid "Thief Rogue"
 msgstr "Thief Rogue"
 
-#: https://hsreplay.net/archetypes/324/highlander-rogue
-msgid "Highlander Rogue"
-msgstr "Highlander Rogue"
-
 #: https://hsreplay.net/archetypes/291/big-warrior
 msgid "Big Warrior"
 msgstr "Big Warrior"
@@ -2080,4 +2080,12 @@ msgstr ""
 #: https://hsreplay.net/archetypes/136/highlander-warlock
 msgid "Highlander Warlock"
 msgstr "Highlander Warlock"
+
+#: https://hsreplay.net/archetypes/324/highlander-rogue
+msgid "Highlander Rogue"
+msgstr "Highlander Rogue"
+
+#: https://hsreplay.net/archetypes/640/mining-warrior
+msgid "Mining Warrior"
+msgstr ""
 
