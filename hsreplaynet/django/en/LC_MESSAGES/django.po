@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-22 01:40+0000\n"
+"POT-Creation-Date: 2023-12-23 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -130,8 +130,8 @@ msgstr ""
 #: templates/account/account_inactive.html:10
 #, python-format
 msgid ""
-"This account is inactive or has been banned. Please <a href=\"%(contact_url)s"
-"\">contact us</a> if this is in error."
+"This account is inactive or has been banned. Please <a "
+"href=\"%(contact_url)s\">contact us</a> if this is in error."
 msgstr ""
 
 #: templates/account/api.html:7
@@ -141,9 +141,9 @@ msgstr ""
 #: templates/account/api.html:12
 #, python-format
 msgid ""
-"You do not have any upload client associated with your account. <a href="
-"\"%(downloads_url)s\">Download Hearthstone Deck Tracker</a> and claim your "
-"account from there!"
+"You do not have any upload client associated with your account. <a "
+"href=\"%(downloads_url)s\">Download Hearthstone Deck Tracker</a> and claim "
+"your account from there!"
 msgstr ""
 
 #: templates/account/api.html:19
@@ -275,9 +275,9 @@ msgstr ""
 #: templates/account/email.html:99
 #, python-format
 msgid ""
-"Looking for a password setting? You can sign with any of <a href="
-"\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there "
-"is no HSReplay.net password."
+"Looking for a password setting? You can sign with any of <a "
+"href=\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, "
+"there is no HSReplay.net password."
 msgstr ""
 
 #: templates/account/email/email_confirmation_message.txt:1
@@ -589,8 +589,8 @@ msgstr ""
 #: templates/snippets/noscript.html:5
 msgid ""
 "It looks like you have Javascript turned off. This page will not work "
-"correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel="
-"\"noopener\">Here is how to enable it</a>."
+"correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" "
+"rel=\"noopener\">Here is how to enable it</a>."
 msgstr ""
 
 #: templates/socialaccount/authentication_error.html:7
@@ -662,8 +662,9 @@ msgstr ""
 
 #: templates/socialaccount/signup.html:18
 msgid ""
-"Please <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener"
-"\">visit Blizzard.com</a> and sign out to choose a different account."
+"Please <a href=\"https://www.blizzard.com\" target=\"_blank\" "
+"rel=\"noopener\">visit Blizzard.com</a> and sign out to choose a different "
+"account."
 msgstr ""
 
 #: templates/socialaccount/signup.html:22
