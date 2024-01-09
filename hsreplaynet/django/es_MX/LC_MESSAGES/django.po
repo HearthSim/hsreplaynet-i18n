@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-12-23 01:40+0000\n"
-"PO-Revision-Date: 2023-12-23 12:40\n"
+"PO-Revision-Date: 2024-01-09 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -216,7 +216,7 @@ msgstr "Las siguientes direcciones de email están asociadas con tu cuenta:"
 
 #: templates/account/email.html:18
 msgid "✔ Verified"
-msgstr ""
+msgstr "✔️ Verificado"
 
 #: templates/account/email.html:23
 msgid "Re-send Verification"
@@ -224,7 +224,7 @@ msgstr "Reenviar verificación"
 
 #: templates/account/email.html:28
 msgid "✔ Primary"
-msgstr ""
+msgstr "Principal"
 
 #: templates/account/email.html:33
 msgid "Make Primary"
@@ -572,16 +572,16 @@ msgstr "Error de autenticación"
 #: templates/socialaccount/authentication_error.html:10
 #, python-format
 msgid "We could not authenticate you with %(provider)s."
-msgstr ""
+msgstr "No pudimos autenticarte con %(provider)s."
 
 #: templates/socialaccount/authentication_error.html:16
 #, python-format
 msgid "This could be because you did something unusual during your login or due to an ongoing issue with %(provider)s."
-msgstr ""
+msgstr "Esto podría deberse a que has hecho algo inusual durante tu inicio de sesión o debido a un problema reciente con %(provider)s."
 
 #: templates/socialaccount/authentication_error.html:21
 msgid "Please try again in a few minutes."
-msgstr ""
+msgstr "Por favor, inténtalo de nuevo en unos minutos."
 
 #: templates/socialaccount/authentication_error.html:26
 #, python-format
@@ -730,7 +730,7 @@ msgstr "Bienvenido a HSReplay.net"
 
 #: web/views/__init__.py:310
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
-msgstr ""
+msgstr "Aprende cómo empezar con HSReplay.net y lo que puedes hacer con él."
 
 #: web/views/__init__.py:321
 msgid "Welcome to Hearthstone Deck Tracker"
@@ -738,7 +738,7 @@ msgstr "Bienvenido a Hearthstone Deck Tracker"
 
 #: web/views/__init__.py:323
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
-msgstr ""
+msgstr "Averigua qué puedes hacer con Hearthstone Deck Tracker, así como con el sitio web!"
 
 #: web/views/archetypes.py:30
 msgid "Hearthstone Meta"
@@ -787,7 +787,7 @@ msgstr "Héroes de Campos de Batalla"
 
 #: web/views/battlegrounds.py:156
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
-msgstr ""
+msgstr "Explora nuestra Lista de Nivel de Héroes de los Campos de Batalla y aprende qué héroe es el mejor - alimentado por datos de millones de juegos."
 
 #: web/views/battlegrounds.py:173
 msgid "Battlegrounds Darkmoon Prizes"
@@ -831,7 +831,7 @@ msgstr "No se encontraron coincidencias."
 
 #: web/views/battlegrounds.py:466
 msgid "My Battlegrounds Stats"
-msgstr ""
+msgstr "Estadísticas de Mis Campos de Batalla"
 
 #: web/views/cards.py:29
 msgid "Hearthstone Card Statistics"
@@ -990,9 +990,9 @@ msgstr "Mis Repeticiones"
 
 #: web/views/replays.py:315
 msgid "Uploading replay…"
-msgstr ""
+msgstr "Subiendo repetición…"
 
 #: web/views/stats.py:15
 msgid "My Stats"
-msgstr ""
+msgstr "Mis Estadísticas"
 
