@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-23 01:40+0000\n"
-"PO-Revision-Date: 2023-12-23 12:40\n"
+"POT-Creation-Date: 2024-01-10 01:40+0000\n"
+"PO-Revision-Date: 2024-01-10 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -17,35 +17,35 @@ msgstr ""
 "X-Crowdin-File: /hsreplaynet/django/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 47\n"
 
-#: api/exceptions.py:8
+#: api/exceptions.py:12
 msgid "An upstream gateway returned an invalid response."
 msgstr "Il gateway ha restituito una risposta non valida."
 
-#: api/exceptions.py:14
+#: api/exceptions.py:18
 msgid "The entity cannot be processed."
 msgstr "L'entità non può essere elaborata."
 
-#: api/exceptions.py:20
+#: api/exceptions.py:24
 msgid "A resource is not in the expected state."
 msgstr "Una risorsa non è nello stato previsto."
 
-#: api/exceptions.py:26
+#: api/exceptions.py:30
 msgid "The card has been rejected."
 msgstr "La carta è stata rifiutata."
 
-#: api/exceptions.py:31
+#: api/exceptions.py:35
 msgid "You need to authenticate to view this collection."
 msgstr "È necessaria l'autenticazione per vedere la tua collezione."
 
-#: api/exceptions.py:36
+#: api/exceptions.py:40
 msgid "You do not have permission to view this collection."
 msgstr "Non hai il permesso di visualizzare questa collezione."
 
-#: api/exceptions.py:42
+#: api/exceptions.py:46
 msgid "This product is not available."
 msgstr "Questo prodotto non è disponibile."
 
-#: api/exceptions.py:48
+#: api/exceptions.py:52
 msgid "This plan is not available."
 msgstr "Questo piano non è disponibile."
 
