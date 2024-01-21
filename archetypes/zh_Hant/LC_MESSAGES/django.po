@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-12-22T01:40:30.010192\n"
+"POT-Creation-Date: 2024-01-21T01:40:28.146111\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2023-12-22 12:40\n"
+"PO-Revision-Date: 2024-01-21 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -856,6 +856,10 @@ msgstr "節奏法"
 #: https://hsreplay.net/archetypes/323/secret-highlander-paladin
 msgid "Secret Highlander Paladin"
 msgstr "秘密無雙聖"
+
+#: https://hsreplay.net/archetypes/641/shattered-druid
+msgid "Shattered Druid"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/331/highlander-big-spell-mage
 msgid "Highlander Big Spell Mage"
@@ -1885,10 +1889,6 @@ msgstr "東尼德"
 msgid "Big Drum Druid"
 msgstr "大大鈴鼓德"
 
-#: https://hsreplay.net/archetypes/591/big-beast-hunter
-msgid "Big Beast Hunter"
-msgstr "大野獸獵"
-
 #: https://hsreplay.net/archetypes/592/lightshow-mage
 msgid "Lightshow Mage"
 msgstr "燈光秀法"
@@ -2009,10 +2009,6 @@ msgstr "搖滾戰"
 msgid "Moonbeam Druid"
 msgstr "月光德"
 
-#: https://hsreplay.net/archetypes/622/giant-priest
-msgid "Giant Priest"
-msgstr "巨人牧"
-
 #: https://hsreplay.net/archetypes/623/alignment-priest
 msgid "Alignment Priest"
 msgstr "星辰牧"
@@ -2087,5 +2083,21 @@ msgstr "無雙賊"
 
 #: https://hsreplay.net/archetypes/640/mining-warrior
 msgid "Mining Warrior"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/591/big-beast-hunter
+msgid "Big Beast Hunter"
+msgstr "大野獸獵"
+
+#: https://hsreplay.net/archetypes/642/mining-paladin
+msgid "Mining Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/622/giant-priest
+msgid "Giant Priest"
+msgstr "巨人牧"
+
+#: https://hsreplay.net/archetypes/643/mining-shaman
+msgid "Mining Shaman"
 msgstr ""
 
