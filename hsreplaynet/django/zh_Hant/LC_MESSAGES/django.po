@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 01:40+0000\n"
-"PO-Revision-Date: 2024-01-16 12:40\n"
+"POT-Creation-Date: 2024-02-02 01:40+0000\n"
+"PO-Revision-Date: 2024-02-02 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -17,35 +17,39 @@ msgstr ""
 "X-Crowdin-File: /hsreplaynet/django/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 47\n"
 
-#: api/exceptions.py:12
+#: api/exceptions.py:17
 msgid "An upstream gateway returned an invalid response."
 msgstr "無效的回應。"
 
-#: api/exceptions.py:18
+#: api/exceptions.py:23
+msgid "An upstream gateway timed out."
+msgstr ""
+
+#: api/exceptions.py:29
 msgid "The entity cannot be processed."
 msgstr "無法執行"
 
-#: api/exceptions.py:24
+#: api/exceptions.py:35
 msgid "A resource is not in the expected state."
 msgstr "某個資源不在預期狀態內。"
 
-#: api/exceptions.py:30
+#: api/exceptions.py:41
 msgid "The card has been rejected."
 msgstr "這張卡被拒絕。"
 
-#: api/exceptions.py:35
+#: api/exceptions.py:46
 msgid "You need to authenticate to view this collection."
 msgstr ""
 
-#: api/exceptions.py:40
+#: api/exceptions.py:51
 msgid "You do not have permission to view this collection."
 msgstr "您無權檢視此收藏。"
 
-#: api/exceptions.py:46
+#: api/exceptions.py:57
 msgid "This product is not available."
 msgstr ""
 
-#: api/exceptions.py:52
+#: api/exceptions.py:63
 msgid "This plan is not available."
 msgstr ""
 
@@ -78,47 +82,47 @@ msgstr "金鑰啟用失敗，但可以在其他帳戶使用。"
 msgid "Code has been applied to your account."
 msgstr "金鑰啟用成功。"
 
-#: settings.py:372
+#: settings.py:375
 msgid "Full access to your HSReplay.net account"
 msgstr "完全存取你的HSReplay.net帳戶"
 
-#: settings.py:373
+#: settings.py:376
 msgid "Access information about your connected social accounts"
 msgstr "存取您的社交帳戶資訊"
 
-#: settings.py:374
+#: settings.py:377
 msgid "View your Hearthstone card collection"
 msgstr "檢視你的爐石卡片收藏"
 
-#: settings.py:375
+#: settings.py:378
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "上傳你的爐石卡片收藏到網站"
 
-#: settings.py:376
+#: settings.py:379
 msgid "View your replays"
 msgstr "檢視你的重播"
 
-#: settings.py:377
+#: settings.py:380
 msgid "Update and delete your replays"
 msgstr "上傳和刪除你的重播"
 
-#: settings.py:378
+#: settings.py:381
 msgid "Access the Partner API"
 msgstr "存取夥伴API"
 
-#: settings.py:379
+#: settings.py:382
 msgid "Read access to the tournaments service"
 msgstr "存取賽事服務權限"
 
-#: settings.py:380
+#: settings.py:383
 msgid "Write access to the tournaments service"
 msgstr "寫入賽事服務權限"
 
-#: settings.py:381
+#: settings.py:384
 msgid "View your webhooks"
 msgstr "查看你的Webhooks"
 
-#: settings.py:382
+#: settings.py:385
 msgid "Create and delete webhooks on your behalf"
 msgstr "代表您創建和刪除 Webhooks"
 
@@ -172,7 +176,7 @@ msgstr "帳單"
 msgid "Connections"
 msgstr "連接"
 
-#: templates/account/base.html:18 web/views/dashboard.py:283
+#: templates/account/base.html:18 web/views/dashboard.py:290
 msgid "Applications"
 msgstr "應用程式授權"
 
@@ -889,19 +893,23 @@ msgstr "你的重播已被刪除。"
 msgid "Could not make account primary."
 msgstr "無法將此帳號變為主要帳號。"
 
-#: web/views/dashboard.py:250
+#: web/views/dashboard.py:212
+msgid "You must add a verified email before we can send you marketing emails."
+msgstr ""
+
+#: web/views/dashboard.py:257
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr ""
 
-#: web/views/dashboard.py:257 web/views/dashboard.py:263
+#: web/views/dashboard.py:264 web/views/dashboard.py:270
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr ""
 
-#: web/views/dashboard.py:273
+#: web/views/dashboard.py:280
 msgid "Your email preferences have been saved."
 msgstr "您的電子郵件偏好已保存。"
 
-#: web/views/dashboard.py:334
+#: web/views/dashboard.py:341
 msgid "Your Application"
 msgstr ""
 

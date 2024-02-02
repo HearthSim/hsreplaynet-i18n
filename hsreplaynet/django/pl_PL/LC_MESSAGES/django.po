@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 01:40+0000\n"
-"PO-Revision-Date: 2024-01-16 12:40\n"
+"POT-Creation-Date: 2024-02-02 01:40+0000\n"
+"PO-Revision-Date: 2024-02-02 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -17,35 +17,39 @@ msgstr ""
 "X-Crowdin-File: /hsreplaynet/django/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 47\n"
 
-#: api/exceptions.py:12
+#: api/exceptions.py:17
 msgid "An upstream gateway returned an invalid response."
 msgstr "Brama strumieniowania zwróciła nieprawidłową odpowiedź."
 
-#: api/exceptions.py:18
+#: api/exceptions.py:23
+msgid "An upstream gateway timed out."
+msgstr ""
+
+#: api/exceptions.py:29
 msgid "The entity cannot be processed."
 msgstr "Jednostka nie może zostać przetworzona."
 
-#: api/exceptions.py:24
+#: api/exceptions.py:35
 msgid "A resource is not in the expected state."
 msgstr "Zasób nie jest w oczekiwanym stanie."
 
-#: api/exceptions.py:30
+#: api/exceptions.py:41
 msgid "The card has been rejected."
 msgstr "Karta została odrzucona."
 
-#: api/exceptions.py:35
+#: api/exceptions.py:46
 msgid "You need to authenticate to view this collection."
 msgstr ""
 
-#: api/exceptions.py:40
+#: api/exceptions.py:51
 msgid "You do not have permission to view this collection."
 msgstr "Nie masz uprawnień do przeglądania tej kolekcji."
 
-#: api/exceptions.py:46
+#: api/exceptions.py:57
 msgid "This product is not available."
 msgstr ""
 
-#: api/exceptions.py:52
+#: api/exceptions.py:63
 msgid "This plan is not available."
 msgstr ""
 
@@ -78,47 +82,47 @@ msgstr "Kod nie wpłynął na konto i pozostaje ważny."
 msgid "Code has been applied to your account."
 msgstr "Kod został zastosowany na twoim koncie."
 
-#: settings.py:372
+#: settings.py:375
 msgid "Full access to your HSReplay.net account"
 msgstr "Pełny dostęp do twojego konta HSReplay.net"
 
-#: settings.py:373
+#: settings.py:376
 msgid "Access information about your connected social accounts"
 msgstr "Uzyskaj dostęp do informacji na temat swoich powiązanych kont społecznościowych"
 
-#: settings.py:374
+#: settings.py:377
 msgid "View your Hearthstone card collection"
 msgstr "Zobacz swoją kolekcję kart Hearthstone"
 
-#: settings.py:375
+#: settings.py:378
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Wyślij swoją kolekcję kart Hearthstone na stronę"
 
-#: settings.py:376
+#: settings.py:379
 msgid "View your replays"
 msgstr "Zobacz swoje powtórki"
 
-#: settings.py:377
+#: settings.py:380
 msgid "Update and delete your replays"
 msgstr "Zaktualizuj i usuń swoje powtórki"
 
-#: settings.py:378
+#: settings.py:381
 msgid "Access the Partner API"
 msgstr "Dostęp do API partnerów"
 
-#: settings.py:379
+#: settings.py:382
 msgid "Read access to the tournaments service"
 msgstr "Dostęp do odczytu usługi turniejów"
 
-#: settings.py:380
+#: settings.py:383
 msgid "Write access to the tournaments service"
 msgstr "Dostęp do zapisu usługi turniejów"
 
-#: settings.py:381
+#: settings.py:384
 msgid "View your webhooks"
 msgstr "Zobacz swoje webhooki"
 
-#: settings.py:382
+#: settings.py:385
 msgid "Create and delete webhooks on your behalf"
 msgstr "Stwórz i usuń webhooki w swoim imieniu"
 
@@ -172,7 +176,7 @@ msgstr "Płatności"
 msgid "Connections"
 msgstr "Połączenia"
 
-#: templates/account/base.html:18 web/views/dashboard.py:283
+#: templates/account/base.html:18 web/views/dashboard.py:290
 msgid "Applications"
 msgstr "Aplikacje"
 
@@ -886,19 +890,23 @@ msgstr "Twoje powtórki zostały usunięte."
 msgid "Could not make account primary."
 msgstr "Nie udało się ustawić konta jako główne."
 
-#: web/views/dashboard.py:250
+#: web/views/dashboard.py:212
+msgid "You must add a verified email before we can send you marketing emails."
+msgstr ""
+
+#: web/views/dashboard.py:257
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr "Sprawdź swoją skrzynkę odbiorczą! Wysłaliśmy do ciebie wiadomość email, aby potwierdzić Twoje ustawienia subskrypcji."
 
-#: web/views/dashboard.py:257 web/views/dashboard.py:263
+#: web/views/dashboard.py:264 web/views/dashboard.py:270
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "Nie udało się zapisać Twoich ustawień emaila. Spróbuj ponownie później!"
 
-#: web/views/dashboard.py:273
+#: web/views/dashboard.py:280
 msgid "Your email preferences have been saved."
 msgstr "Twoje preferencje email zostały zapisane."
 
-#: web/views/dashboard.py:334
+#: web/views/dashboard.py:341
 msgid "Your Application"
 msgstr "Twoja Aplikacja"
 

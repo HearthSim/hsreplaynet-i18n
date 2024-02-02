@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-01-16 01:40+0000\n"
-"PO-Revision-Date: 2024-01-16 12:40\n"
+"POT-Creation-Date: 2024-02-02 01:40+0000\n"
+"PO-Revision-Date: 2024-02-02 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -17,35 +17,39 @@ msgstr ""
 "X-Crowdin-File: /hsreplaynet/django/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 47\n"
 
-#: api/exceptions.py:12
+#: api/exceptions.py:17
 msgid "An upstream gateway returned an invalid response."
 msgstr ""
 
-#: api/exceptions.py:18
+#: api/exceptions.py:23
+msgid "An upstream gateway timed out."
+msgstr ""
+
+#: api/exceptions.py:29
 msgid "The entity cannot be processed."
 msgstr ""
 
-#: api/exceptions.py:24
+#: api/exceptions.py:35
 msgid "A resource is not in the expected state."
 msgstr ""
 
-#: api/exceptions.py:30
+#: api/exceptions.py:41
 msgid "The card has been rejected."
 msgstr ""
 
-#: api/exceptions.py:35
+#: api/exceptions.py:46
 msgid "You need to authenticate to view this collection."
 msgstr ""
 
-#: api/exceptions.py:40
+#: api/exceptions.py:51
 msgid "You do not have permission to view this collection."
 msgstr ""
 
-#: api/exceptions.py:46
+#: api/exceptions.py:57
 msgid "This product is not available."
 msgstr ""
 
-#: api/exceptions.py:52
+#: api/exceptions.py:63
 msgid "This plan is not available."
 msgstr ""
 
@@ -78,47 +82,47 @@ msgstr ""
 msgid "Code has been applied to your account."
 msgstr ""
 
-#: settings.py:372
+#: settings.py:375
 msgid "Full access to your HSReplay.net account"
 msgstr "Acesso completo de sua conta HSReplay.net"
 
-#: settings.py:373
+#: settings.py:376
 msgid "Access information about your connected social accounts"
 msgstr "Acesse informações sobre suas redes sociais conectadas"
 
-#: settings.py:374
+#: settings.py:377
 msgid "View your Hearthstone card collection"
 msgstr "Ver sua coleção de cartas do Hearthstone"
 
-#: settings.py:375
+#: settings.py:378
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Atualize sua coleção de cartas do Hearthstone para o site"
 
-#: settings.py:376
+#: settings.py:379
 msgid "View your replays"
 msgstr "Ver seus replays"
 
-#: settings.py:377
+#: settings.py:380
 msgid "Update and delete your replays"
 msgstr "Atualizar e deletar seus replays"
 
-#: settings.py:378
+#: settings.py:381
 msgid "Access the Partner API"
 msgstr "Acesso ao API dos parceiros"
 
-#: settings.py:379
+#: settings.py:382
 msgid "Read access to the tournaments service"
 msgstr "Acesso de leitura ao serviço de torneios"
 
-#: settings.py:380
+#: settings.py:383
 msgid "Write access to the tournaments service"
 msgstr "Acesso de escrita ao serviço de torneios"
 
-#: settings.py:381
+#: settings.py:384
 msgid "View your webhooks"
 msgstr "Visualizar seus webhooks"
 
-#: settings.py:382
+#: settings.py:385
 msgid "Create and delete webhooks on your behalf"
 msgstr "Criar e deletar webhooks ao seu favor"
 
@@ -172,7 +176,7 @@ msgstr "Pagamento"
 msgid "Connections"
 msgstr "Conexões"
 
-#: templates/account/base.html:18 web/views/dashboard.py:283
+#: templates/account/base.html:18 web/views/dashboard.py:290
 msgid "Applications"
 msgstr "Aplicativos"
 
@@ -886,19 +890,23 @@ msgstr "Seus replays foram deletados."
 msgid "Could not make account primary."
 msgstr "Não foi possível tornar a conta principal."
 
-#: web/views/dashboard.py:250
+#: web/views/dashboard.py:212
+msgid "You must add a verified email before we can send you marketing emails."
+msgstr ""
+
+#: web/views/dashboard.py:257
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr ""
 
-#: web/views/dashboard.py:257 web/views/dashboard.py:263
+#: web/views/dashboard.py:264 web/views/dashboard.py:270
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr ""
 
-#: web/views/dashboard.py:273
+#: web/views/dashboard.py:280
 msgid "Your email preferences have been saved."
 msgstr "Suas preferências de email foram salvas."
 
-#: web/views/dashboard.py:334
+#: web/views/dashboard.py:341
 msgid "Your Application"
 msgstr ""
 
