@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-01 01:40+0000\n"
+"POT-Creation-Date: 2024-02-02 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,35 +18,39 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: api/exceptions.py:12
+#: api/exceptions.py:17
 msgid "An upstream gateway returned an invalid response."
 msgstr ""
 
-#: api/exceptions.py:18
+#: api/exceptions.py:23
+msgid "An upstream gateway timed out."
+msgstr ""
+
+#: api/exceptions.py:29
 msgid "The entity cannot be processed."
 msgstr ""
 
-#: api/exceptions.py:24
+#: api/exceptions.py:35
 msgid "A resource is not in the expected state."
 msgstr ""
 
-#: api/exceptions.py:30
+#: api/exceptions.py:41
 msgid "The card has been rejected."
 msgstr ""
 
-#: api/exceptions.py:35
+#: api/exceptions.py:46
 msgid "You need to authenticate to view this collection."
 msgstr ""
 
-#: api/exceptions.py:40
+#: api/exceptions.py:51
 msgid "You do not have permission to view this collection."
 msgstr ""
 
-#: api/exceptions.py:46
+#: api/exceptions.py:57
 msgid "This product is not available."
 msgstr ""
 
-#: api/exceptions.py:52
+#: api/exceptions.py:63
 msgid "This plan is not available."
 msgstr ""
 
@@ -79,47 +83,47 @@ msgstr ""
 msgid "Code has been applied to your account."
 msgstr ""
 
-#: settings.py:372
+#: settings.py:375
 msgid "Full access to your HSReplay.net account"
 msgstr ""
 
-#: settings.py:373
+#: settings.py:376
 msgid "Access information about your connected social accounts"
 msgstr ""
 
-#: settings.py:374
+#: settings.py:377
 msgid "View your Hearthstone card collection"
 msgstr ""
 
-#: settings.py:375
+#: settings.py:378
 msgid "Upload your Hearthstone card collection to the site"
 msgstr ""
 
-#: settings.py:376
+#: settings.py:379
 msgid "View your replays"
 msgstr ""
 
-#: settings.py:377
+#: settings.py:380
 msgid "Update and delete your replays"
 msgstr ""
 
-#: settings.py:378
+#: settings.py:381
 msgid "Access the Partner API"
 msgstr ""
 
-#: settings.py:379
+#: settings.py:382
 msgid "Read access to the tournaments service"
 msgstr ""
 
-#: settings.py:380
+#: settings.py:383
 msgid "Write access to the tournaments service"
 msgstr ""
 
-#: settings.py:381
+#: settings.py:384
 msgid "View your webhooks"
 msgstr ""
 
-#: settings.py:382
+#: settings.py:385
 msgid "Create and delete webhooks on your behalf"
 msgstr ""
 
@@ -179,7 +183,7 @@ msgstr ""
 msgid "Connections"
 msgstr ""
 
-#: templates/account/base.html:18 web/views/dashboard.py:283
+#: templates/account/base.html:18 web/views/dashboard.py:290
 msgid "Applications"
 msgstr ""
 
@@ -956,21 +960,25 @@ msgstr ""
 msgid "Could not make account primary."
 msgstr ""
 
-#: web/views/dashboard.py:250
+#: web/views/dashboard.py:212
+msgid "You must add a verified email before we can send you marketing emails."
+msgstr ""
+
+#: web/views/dashboard.py:257
 msgid ""
 "Check your inbox! We've sent an email to confirm your subscription "
 "preferences."
 msgstr ""
 
-#: web/views/dashboard.py:257 web/views/dashboard.py:263
+#: web/views/dashboard.py:264 web/views/dashboard.py:270
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr ""
 
-#: web/views/dashboard.py:273
+#: web/views/dashboard.py:280
 msgid "Your email preferences have been saved."
 msgstr ""
 
-#: web/views/dashboard.py:334
+#: web/views/dashboard.py:341
 msgid "Your Application"
 msgstr ""
 
