@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-02 01:40+0000\n"
-"PO-Revision-Date: 2024-02-02 12:40\n"
+"POT-Creation-Date: 2024-02-07 01:40+0000\n"
+"PO-Revision-Date: 2024-02-07 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -82,47 +82,47 @@ msgstr "Code betrifft dieses Konto nicht und bleibt gültig."
 msgid "Code has been applied to your account."
 msgstr "Code wurde auf dein Konto angewendet."
 
-#: settings.py:375
+#: settings.py:378
 msgid "Full access to your HSReplay.net account"
 msgstr "Vollständiger Zugriff auf dein HSReplay.net-Konto"
 
-#: settings.py:376
+#: settings.py:379
 msgid "Access information about your connected social accounts"
 msgstr "Zugriff auf Informationen über deine verknüpften sozialen Konten"
 
-#: settings.py:377
+#: settings.py:380
 msgid "View your Hearthstone card collection"
 msgstr "Betrachte deine Hearthstone-Kartensammlung"
 
-#: settings.py:378
+#: settings.py:381
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Deine Hearthstone-Kartensammlung zur Seite hochladen"
 
-#: settings.py:379
+#: settings.py:382
 msgid "View your replays"
 msgstr "Deine Aufzeichnungen betrachten"
 
-#: settings.py:380
+#: settings.py:383
 msgid "Update and delete your replays"
 msgstr "Deine Aufzeichnungen hochladen und entfernen"
 
-#: settings.py:381
+#: settings.py:384
 msgid "Access the Partner API"
 msgstr "Zugriff auf die Partner-API"
 
-#: settings.py:382
+#: settings.py:385
 msgid "Read access to the tournaments service"
 msgstr "Lesezugriff auf den Turnierdienst"
 
-#: settings.py:383
+#: settings.py:386
 msgid "Write access to the tournaments service"
 msgstr "Schreibzugriff auf den Turnierdienst"
 
-#: settings.py:384
+#: settings.py:387
 msgid "View your webhooks"
 msgstr "Deine Webhooks betrachten"
 
-#: settings.py:385
+#: settings.py:388
 msgid "Create and delete webhooks on your behalf"
 msgstr "Webhooks für dich erstellen und löschen"
 
@@ -441,7 +441,7 @@ msgstr "Schlachtfeld"
 msgid "Tier7"
 msgstr "Tier7"
 
-#: templates/footer.html:67 web/views/mercenaries.py:142
+#: templates/footer.html:67 web/views/mercenaries.py:140
 msgid "Mercenaries"
 msgstr "Söldner"
 
@@ -954,28 +954,28 @@ msgstr "Finde die Hearthstone-Decks von morgen mittels steigender Beliebtheit, f
 msgid "Trending Decks"
 msgstr "Decks im Trend"
 
-#: web/views/mercenaries.py:68 web/views/mercenaries.py:84
+#: web/views/mercenaries.py:66 web/views/mercenaries.py:82
 msgid "Mercenaries Collection"
 msgstr "Söldner-Sammlung"
 
-#: web/views/mercenaries.py:99
+#: web/views/mercenaries.py:97
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
 msgstr "{user}s Söldner-Sammlung"
 
-#: web/views/mercenaries.py:130
+#: web/views/mercenaries.py:128
 msgid "Mercenaries Home"
 msgstr "Söldner Start"
 
-#: web/views/mercenaries.py:136
+#: web/views/mercenaries.py:134
 msgid "Get all the information you need to win at Hearthstone Mercenaries with our Mercenaries stats and collection tracking. See top mercenaries tier lists and parties."
 msgstr ""
 
-#: web/views/mercenaries.py:151
+#: web/views/mercenaries.py:145
 msgid "Mercenaries Parties"
 msgstr "Söldner-Gruppen"
 
-#: web/views/mercenaries.py:161
+#: web/views/mercenaries.py:151
 msgid "Mercenaries Tier List"
 msgstr ""
 
@@ -999,7 +999,7 @@ msgstr "Meine Aufzeichnungen"
 msgid "Uploading replay…"
 msgstr ""
 
-#: web/views/stats.py:15
+#: web/views/stats.py:8
 msgid "My Stats"
 msgstr "Meine Statistiken"
 

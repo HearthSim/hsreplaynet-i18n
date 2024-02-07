@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-02 01:40+0000\n"
-"PO-Revision-Date: 2024-02-02 12:40\n"
+"POT-Creation-Date: 2024-02-07 01:40+0000\n"
+"PO-Revision-Date: 2024-02-07 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -82,47 +82,47 @@ msgstr "Kod nie wpłynął na konto i pozostaje ważny."
 msgid "Code has been applied to your account."
 msgstr "Kod został zastosowany na twoim koncie."
 
-#: settings.py:375
+#: settings.py:378
 msgid "Full access to your HSReplay.net account"
 msgstr "Pełny dostęp do twojego konta HSReplay.net"
 
-#: settings.py:376
+#: settings.py:379
 msgid "Access information about your connected social accounts"
 msgstr "Uzyskaj dostęp do informacji na temat swoich powiązanych kont społecznościowych"
 
-#: settings.py:377
+#: settings.py:380
 msgid "View your Hearthstone card collection"
 msgstr "Zobacz swoją kolekcję kart Hearthstone"
 
-#: settings.py:378
+#: settings.py:381
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Wyślij swoją kolekcję kart Hearthstone na stronę"
 
-#: settings.py:379
+#: settings.py:382
 msgid "View your replays"
 msgstr "Zobacz swoje powtórki"
 
-#: settings.py:380
+#: settings.py:383
 msgid "Update and delete your replays"
 msgstr "Zaktualizuj i usuń swoje powtórki"
 
-#: settings.py:381
+#: settings.py:384
 msgid "Access the Partner API"
 msgstr "Dostęp do API partnerów"
 
-#: settings.py:382
+#: settings.py:385
 msgid "Read access to the tournaments service"
 msgstr "Dostęp do odczytu usługi turniejów"
 
-#: settings.py:383
+#: settings.py:386
 msgid "Write access to the tournaments service"
 msgstr "Dostęp do zapisu usługi turniejów"
 
-#: settings.py:384
+#: settings.py:387
 msgid "View your webhooks"
 msgstr "Zobacz swoje webhooki"
 
-#: settings.py:385
+#: settings.py:388
 msgid "Create and delete webhooks on your behalf"
 msgstr "Stwórz i usuń webhooki w swoim imieniu"
 
@@ -442,7 +442,7 @@ msgstr "Ustawka"
 msgid "Tier7"
 msgstr "Poziom7"
 
-#: templates/footer.html:67 web/views/mercenaries.py:142
+#: templates/footer.html:67 web/views/mercenaries.py:140
 msgid "Mercenaries"
 msgstr ""
 
@@ -955,28 +955,28 @@ msgstr "Znajdź nadchodzące talie z rosnącą popularnością w Hearthstone dla
 msgid "Trending Decks"
 msgstr ""
 
-#: web/views/mercenaries.py:68 web/views/mercenaries.py:84
+#: web/views/mercenaries.py:66 web/views/mercenaries.py:82
 msgid "Mercenaries Collection"
 msgstr ""
 
-#: web/views/mercenaries.py:99
+#: web/views/mercenaries.py:97
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
 msgstr ""
 
-#: web/views/mercenaries.py:130
+#: web/views/mercenaries.py:128
 msgid "Mercenaries Home"
 msgstr ""
 
-#: web/views/mercenaries.py:136
+#: web/views/mercenaries.py:134
 msgid "Get all the information you need to win at Hearthstone Mercenaries with our Mercenaries stats and collection tracking. See top mercenaries tier lists and parties."
 msgstr ""
 
-#: web/views/mercenaries.py:151
+#: web/views/mercenaries.py:145
 msgid "Mercenaries Parties"
 msgstr ""
 
-#: web/views/mercenaries.py:161
+#: web/views/mercenaries.py:151
 msgid "Mercenaries Tier List"
 msgstr ""
 
@@ -1000,7 +1000,7 @@ msgstr "Moje Powtórki"
 msgid "Uploading replay…"
 msgstr ""
 
-#: web/views/stats.py:15
+#: web/views/stats.py:8
 msgid "My Stats"
 msgstr ""
 
