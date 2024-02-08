@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-07 01:40+0000\n"
-"PO-Revision-Date: 2024-02-07 12:40\n"
+"POT-Creation-Date: 2024-02-08 01:40+0000\n"
+"PO-Revision-Date: 2024-02-08 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -424,14 +424,14 @@ msgstr "在Instagram上關注我們"
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "與暴雪娛樂沒有任何關係。"
 
-#: templates/footer.html:63 templates/navigation.html:73
-#: templates/navigation.html:139 templates/navigation.html:199
+#: templates/footer.html:63 templates/navigation.html:67
+#: templates/navigation.html:133 templates/navigation.html:193
 #: web/views/__init__.py:188
 msgid "Downloads"
 msgstr "下載"
 
-#: templates/footer.html:64 templates/navigation.html:188
-#: templates/navigation.html:191 web/views/premium.py:31
+#: templates/footer.html:64 templates/navigation.html:182
+#: templates/navigation.html:185 web/views/premium.py:31
 msgid "Premium"
 msgstr "尊榮會員"
 
@@ -497,61 +497,61 @@ msgstr "開啟/關閉導航工具列"
 msgid "Home"
 msgstr "首頁"
 
-#: templates/navigation.html:53
+#: templates/navigation.html:51
 msgid "Tier List"
 msgstr "強度列表"
 
-#: templates/navigation.html:66
+#: templates/navigation.html:61
 msgid "Parties"
 msgstr "隊伍"
 
-#: templates/navigation.html:84 web/views/battlegrounds.py:164
+#: templates/navigation.html:78 web/views/battlegrounds.py:164
 #: web/views/battlegrounds.py:242
 msgid "Heroes"
 msgstr "英雄"
 
-#: templates/navigation.html:96 web/views/battlegrounds.py:178
+#: templates/navigation.html:90 web/views/battlegrounds.py:178
 msgid "Darkmoon Prizes"
 msgstr "暗月獎品"
 
-#: templates/navigation.html:107
+#: templates/navigation.html:101
 msgid "Minions"
 msgstr "手下"
 
-#: templates/navigation.html:117
+#: templates/navigation.html:111
 msgid "Compositions"
 msgstr "陣容"
 
-#: templates/navigation.html:131 templates/navigation.html:189
+#: templates/navigation.html:125 templates/navigation.html:183
 msgid "SALE!"
 msgstr "大特賣!"
 
-#: templates/navigation.html:146
+#: templates/navigation.html:140
 msgid "Articles"
 msgstr "文章"
 
-#: templates/navigation.html:152
+#: templates/navigation.html:146
 msgid "Trending"
 msgstr "趨勢分析"
 
-#: templates/navigation.html:160 templates/navigation.html:166
+#: templates/navigation.html:154 templates/navigation.html:160
 #: web/views/archetypes.py:39
 msgid "Meta"
 msgstr "環境主流"
 
-#: templates/navigation.html:161
+#: templates/navigation.html:155
 msgid "Back soon!"
 msgstr "馬上回來"
 
-#: templates/navigation.html:173 web/views/decks.py:35
+#: templates/navigation.html:167 web/views/decks.py:35
 msgid "Decks"
 msgstr "牌組"
 
-#: templates/navigation.html:179 web/views/cards.py:38 web/views/cards.py:170
+#: templates/navigation.html:173 web/views/cards.py:38 web/views/cards.py:170
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:224
+#: templates/navigation.html:218
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "我們正在依英雄戰場最新更新更改此頁面。你可能會暫時看到過時的東西。"
 
