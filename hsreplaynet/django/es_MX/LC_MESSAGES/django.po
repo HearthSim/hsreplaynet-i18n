@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-02-08 01:40+0000\n"
-"PO-Revision-Date: 2024-02-08 12:40\n"
+"PO-Revision-Date: 2024-02-12 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -892,7 +892,7 @@ msgstr "No es posible hacer la cuenta principal."
 
 #: web/views/dashboard.py:212
 msgid "You must add a verified email before we can send you marketing emails."
-msgstr ""
+msgstr "Debes agregar un correo electrónico verificado antes de que podamos enviarte correos electrónicos de marketing."
 
 #: web/views/dashboard.py:257
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
