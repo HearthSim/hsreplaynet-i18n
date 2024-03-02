@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-28T01:40:26.460353\n"
+"POT-Creation-Date: 2024-03-01T21:38:43.527971\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2024-02-28 12:40\n"
+"PO-Revision-Date: 2024-03-02 00:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -104,6 +104,10 @@ msgstr "國王德"
 #: https://hsreplay.net/archetypes/143/nzoth-mage
 msgid "N'Zoth Mage"
 msgstr "恩若斯法"
+
+#: https://hsreplay.net/archetypes/179/spell-hunter
+msgid "Spell Hunter"
+msgstr "法術獵"
 
 #: https://hsreplay.net/archetypes/61/elemental-shaman
 msgid "Elemental Shaman"
@@ -728,10 +732,6 @@ msgstr "長城牧"
 #: https://hsreplay.net/archetypes/284/heal-druid
 msgid "Heal Druid"
 msgstr "治療德"
-
-#: https://hsreplay.net/archetypes/179/spell-hunter
-msgid "Spell Hunter"
-msgstr "法術獵"
 
 #: https://hsreplay.net/archetypes/285/spell-mage
 msgid "Spell Mage"
@@ -2073,10 +2073,6 @@ msgstr ""
 msgid "Highlander Warlock"
 msgstr "無雙術"
 
-#: https://hsreplay.net/archetypes/324/highlander-rogue
-msgid "Highlander Rogue"
-msgstr "無雙賊"
-
 #: https://hsreplay.net/archetypes/640/mining-warrior
 msgid "Mining Warrior"
 msgstr ""
@@ -2096,6 +2092,10 @@ msgstr "巨人牧"
 #: https://hsreplay.net/archetypes/643/mining-shaman
 msgid "Mining Shaman"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/324/highlander-rogue
+msgid "Highlander Rogue"
+msgstr "無雙賊"
 
 #: https://hsreplay.net/archetypes/645/colifero-hunter
 msgid "Colifero Hunter"
