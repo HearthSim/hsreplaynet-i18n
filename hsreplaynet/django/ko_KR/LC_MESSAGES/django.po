@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-02-08 01:40+0000\n"
-"PO-Revision-Date: 2024-02-09 12:40\n"
+"POT-Creation-Date: 2024-03-11 18:54+0000\n"
+"PO-Revision-Date: 2024-03-12 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -992,11 +992,11 @@ msgstr "더 많은 필터, 더 많은 기능, 더 많은 데이터: 수십만개
 msgid "HSReplay.net Premium for Hearthstone"
 msgstr ""
 
-#: web/views/replays.py:34
+#: web/views/replays.py:35
 msgid "My Replays"
 msgstr "내 리플레이"
 
-#: web/views/replays.py:336
+#: web/views/replays.py:337
 msgid "Uploading replay…"
 msgstr ""
 
