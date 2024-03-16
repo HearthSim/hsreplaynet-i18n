@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-15 01:40+0000\n"
-"PO-Revision-Date: 2024-03-15 12:40\n"
+"POT-Creation-Date: 2024-03-16 01:40+0000\n"
+"PO-Revision-Date: 2024-03-16 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -82,47 +82,47 @@ msgstr "Código no afecta a esta cuenta y sigue siendo válido."
 msgid "Code has been applied to your account."
 msgstr "Código ha sido aplicado a su cuenta."
 
-#: settings.py:379
+#: settings.py:381
 msgid "Full access to your HSReplay.net account"
 msgstr "Acceso total a tu cuenta de HSReplay.net"
 
-#: settings.py:380
+#: settings.py:382
 msgid "Access information about your connected social accounts"
 msgstr "Información de tu cuenta sobre tus cuentas de redes sociales"
 
-#: settings.py:381
+#: settings.py:383
 msgid "View your Hearthstone card collection"
 msgstr "Ver colección de Heartstone"
 
-#: settings.py:382
+#: settings.py:384
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Subir colección de cartas de Heartstone a la web"
 
-#: settings.py:383
+#: settings.py:385
 msgid "View your replays"
 msgstr "Ver tus repeticiones"
 
-#: settings.py:384
+#: settings.py:386
 msgid "Update and delete your replays"
 msgstr "Subir y borrar tus repeticiones"
 
-#: settings.py:385
+#: settings.py:387
 msgid "Access the Partner API"
 msgstr "Acceder al API asociada"
 
-#: settings.py:386
+#: settings.py:388
 msgid "Read access to the tournaments service"
 msgstr "Leer accesos al servicio de torneos"
 
-#: settings.py:387
+#: settings.py:389
 msgid "Write access to the tournaments service"
 msgstr "Acceder al servicio de torneos"
 
-#: settings.py:388
+#: settings.py:390
 msgid "View your webhooks"
 msgstr "Ver tus webhooks"
 
-#: settings.py:389
+#: settings.py:391
 msgid "Create and delete webhooks on your behalf"
 msgstr "Crear y borrar webhooks en tu posesión"
 
@@ -389,7 +389,7 @@ msgstr "Te hemos mandado un email de verificación. Sigue el enlace para finaliz
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr "Por favor contáctanos <a href=\"%(contact_url)s\"></a> si no lo recibes en unos minutos."
 
-#: templates/base.html:87
+#: templates/base.html:86
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
 msgstr "Xsolla es un distribuidor global autorizado de HSReplay.net"
 
@@ -432,17 +432,17 @@ msgstr "Descargas"
 msgid "Premium"
 msgstr "Premium"
 
-#: templates/footer.html:65 web/views/battlegrounds.py:143
-#: web/views/battlegrounds.py:163 web/views/battlegrounds.py:177
-#: web/views/battlegrounds.py:233
+#: templates/footer.html:65 web/views/battlegrounds.py:142
+#: web/views/battlegrounds.py:161 web/views/battlegrounds.py:174
+#: web/views/battlegrounds.py:229
 msgid "Battlegrounds"
 msgstr "Campos de Batalla"
 
-#: templates/footer.html:66 web/views/battlegrounds.py:144
+#: templates/footer.html:66 web/views/battlegrounds.py:143
 msgid "Tier7"
 msgstr "Tier7"
 
-#: templates/footer.html:67 web/views/mercenaries.py:140
+#: templates/footer.html:67 web/views/mercenaries.py:137
 msgid "Mercenaries"
 msgstr "Mercenarios"
 
@@ -478,11 +478,11 @@ msgstr "Política de Privacidad"
 msgid "About Us"
 msgstr "Sobre nosotros"
 
-#: templates/games/replay_detail.html:28
+#: templates/games/replay_detail.html:29
 msgid "Replay not available"
 msgstr "Repetición no disponible"
 
-#: templates/games/replay_detail.html:30
+#: templates/games/replay_detail.html:31
 msgid "This replay is no longer available."
 msgstr "Esta repetición ya no está disponible."
 
@@ -502,12 +502,12 @@ msgstr "Lista del meta"
 msgid "Parties"
 msgstr "Equipos"
 
-#: templates/navigation.html:78 web/views/battlegrounds.py:164
-#: web/views/battlegrounds.py:242
+#: templates/navigation.html:78 web/views/battlegrounds.py:162
+#: web/views/battlegrounds.py:238
 msgid "Heroes"
 msgstr "Héroes"
 
-#: templates/navigation.html:90 web/views/battlegrounds.py:178
+#: templates/navigation.html:90 web/views/battlegrounds.py:175
 msgid "Darkmoon Prizes"
 msgstr "Premios de la Luna Negra"
 
@@ -532,7 +532,7 @@ msgid "Trending"
 msgstr "Tendencias"
 
 #: templates/navigation.html:154 templates/navigation.html:160
-#: web/views/archetypes.py:39
+#: web/views/archetypes.py:38
 msgid "Meta"
 msgstr "Meta"
 
@@ -540,11 +540,11 @@ msgstr "Meta"
 msgid "Back soon!"
 msgstr "¡Vuelva pronto!"
 
-#: templates/navigation.html:167 web/views/decks.py:35
+#: templates/navigation.html:167 web/views/decks.py:34
 msgid "Decks"
 msgstr "Mazos"
 
-#: templates/navigation.html:173 web/views/cards.py:38 web/views/cards.py:170
+#: templates/navigation.html:173 web/views/cards.py:37 web/views/cards.py:168
 msgid "Cards"
 msgstr "Cartas"
 
@@ -752,28 +752,28 @@ msgstr "Meta de Hearthstone"
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr "Explora el metajuego Hearthstone y descubre como coinciden los arquetipos."
 
-#: web/views/archetypes.py:56
+#: web/views/archetypes.py:55
 msgid "Discover"
 msgstr "Descubrir"
 
-#: web/views/archetypes.py:58
+#: web/views/archetypes.py:57
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr "Descubre el metajuego de Heartstone para descubrir los arquetipos mas recientes y los que vendrán."
 
-#: web/views/archetypes.py:74
+#: web/views/archetypes.py:73
 msgid "Archetype"
 msgstr "Arquetipo"
 
-#: web/views/archetypes.py:80
+#: web/views/archetypes.py:79
 msgid "This archetype is no longer available."
 msgstr "Este arquetipo ya no esta disponible."
 
-#: web/views/archetypes.py:88
+#: web/views/archetypes.py:87
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr "Buscar estadísticas y diferentes {name} listas de mazos."
 
-#: web/views/archetypes.py:116
+#: web/views/archetypes.py:115
 msgid "Archetypes"
 msgstr "Arquetipos"
 
@@ -781,59 +781,59 @@ msgstr "Arquetipos"
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
 msgstr ""
 
-#: web/views/battlegrounds.py:149
+#: web/views/battlegrounds.py:148
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr "HSReplay.net Nivel 7 para Campos de Batalla"
 
-#: web/views/battlegrounds.py:154
+#: web/views/battlegrounds.py:153
 msgid "Battlegrounds Heroes"
 msgstr "Héroes de Campos de Batalla"
 
-#: web/views/battlegrounds.py:156
+#: web/views/battlegrounds.py:155
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr "Explora nuestra Lista de Nivel de Héroes de los Campos de Batalla y aprende qué héroe es el mejor - alimentado por datos de millones de juegos."
 
-#: web/views/battlegrounds.py:173
+#: web/views/battlegrounds.py:171
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr "Premios de Luna Negra de Campos de batalla"
 
-#: web/views/battlegrounds.py:183 web/views/battlegrounds.py:210
+#: web/views/battlegrounds.py:180 web/views/battlegrounds.py:206
 msgid "Battlegrounds Hero"
 msgstr "Héroes de Campos de Batalla"
 
-#: web/views/battlegrounds.py:202
+#: web/views/battlegrounds.py:198
 msgid "No matching hero found."
 msgstr "Héroe no encontrado."
 
-#: web/views/battlegrounds.py:303
+#: web/views/battlegrounds.py:299
 msgid "Battlegrounds Minions"
 msgstr "Esbirros de Campos de Batalla"
 
-#: web/views/battlegrounds.py:309 web/views/battlegrounds.py:336
+#: web/views/battlegrounds.py:304 web/views/battlegrounds.py:330
 msgid "Battlegrounds Minion"
 msgstr "Esbirros de Campos de Batalla"
 
-#: web/views/battlegrounds.py:328
+#: web/views/battlegrounds.py:322
 msgid "No matching minion found."
 msgstr "No se encontraron esbirros que coincidan."
 
-#: web/views/battlegrounds.py:368
+#: web/views/battlegrounds.py:361
 msgid "Battlegrounds Compositions"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:374 web/views/battlegrounds.py:404
+#: web/views/battlegrounds.py:366 web/views/battlegrounds.py:395
 msgid "Battlegrounds Composition"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:397
+#: web/views/battlegrounds.py:388
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:399
+#: web/views/battlegrounds.py:390
 msgid "No matching composition found."
 msgstr "No se encontraron coincidencias."
 
-#: web/views/battlegrounds.py:466
+#: web/views/battlegrounds.py:457
 msgid "My Battlegrounds Stats"
 msgstr "Estadísticas de Mis Campos de Batalla"
 
@@ -845,19 +845,19 @@ msgstr "Estadísticas de cartas Heartstone"
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
 msgstr "Compara estadísticas sobre todas las cartas coleccionables de Hearstone. Encuentra las cartas mas jugadas o las que tienen el porcentaje de victorias mas alto."
 
-#: web/views/cards.py:109
+#: web/views/cards.py:107
 msgid "No card found matching the query."
 msgstr "No hay cartas que coincidan con la búsqueda."
 
-#: web/views/cards.py:127 web/views/cards.py:130
+#: web/views/cards.py:125 web/views/cards.py:128
 msgid "Hearthstone Card"
 msgstr "Carta de Hearthstone"
 
-#: web/views/cards.py:152
+#: web/views/cards.py:150
 msgid "Statistics and decks!"
 msgstr "Estadísticas y mazos!"
 
-#: web/views/cards.py:208
+#: web/views/cards.py:206
 msgid "Hearthstone Card Editor"
 msgstr "Editor de cartas Heartstone"
 
@@ -865,11 +865,11 @@ msgstr "Editor de cartas Heartstone"
 msgid "My Collection"
 msgstr "Mi colección"
 
-#: web/views/collections.py:24
+#: web/views/collections.py:23
 msgid "Collection"
 msgstr "Colección"
 
-#: web/views/collections.py:39
+#: web/views/collections.py:37
 #, python-brace-format
 msgid "{user}'s Hearthstone Collection"
 msgstr "{user}'s colección de Heartstone"
@@ -918,65 +918,65 @@ msgstr "Mazos Heartstone"
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
 msgstr "Encuentra los mazos populares para cada clase, cartas y modo de juego. Compara porcentaje de victorias y encuentra el mazo perfecto para ti!"
 
-#: web/views/decks.py:40
+#: web/views/decks.py:39
 msgid "My Decks"
 msgstr "Mis mazos"
 
-#: web/views/decks.py:60
+#: web/views/decks.py:58
 msgid "Deck does not exist."
 msgstr "El mazo no existe."
 
-#: web/views/decks.py:70
+#: web/views/decks.py:68
 msgid "Deck list is too small."
 msgstr "La lista es demasiado pequeña."
 
-#: web/views/decks.py:74
+#: web/views/decks.py:72
 msgid "Deck list contains uncollectible cards."
 msgstr "La lista contiene cartas no disponibles."
 
-#: web/views/decks.py:78
+#: web/views/decks.py:76
 msgid "Neutral Deck"
 msgstr "Mazo Neutral"
 
-#: web/views/decks.py:92
+#: web/views/decks.py:90
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "{name} listas y estadisticas. Importar: {deckstring}"
 
-#: web/views/decks.py:131
+#: web/views/decks.py:129
 msgid "Trending Hearthstone Decks"
 msgstr "Mazos Heartstone Tendencias"
 
-#: web/views/decks.py:133
+#: web/views/decks.py:131
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "Encuentra los mazos prometedores que están ganando popularidad en Heartstone para cada clase actualizados a diario."
 
-#: web/views/decks.py:139
+#: web/views/decks.py:137
 msgid "Trending Decks"
 msgstr "Tendencia de Mazos"
 
-#: web/views/mercenaries.py:66 web/views/mercenaries.py:82
+#: web/views/mercenaries.py:66 web/views/mercenaries.py:81
 msgid "Mercenaries Collection"
 msgstr "Colección de Mercenarios"
 
-#: web/views/mercenaries.py:97
+#: web/views/mercenaries.py:95
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
 msgstr "Colección de Mercenarios de {user}"
 
-#: web/views/mercenaries.py:128
+#: web/views/mercenaries.py:126
 msgid "Mercenaries Home"
 msgstr "Inicio de Mercenarios"
 
-#: web/views/mercenaries.py:134
+#: web/views/mercenaries.py:131
 msgid "Get all the information you need to win at Hearthstone Mercenaries with our Mercenaries stats and collection tracking. See top mercenaries tier lists and parties."
 msgstr "Obtén toda la información que necesitas para ganar en los Mercenarios de Hearthstone con nuestras estadísticas de Mercenarios y seguimiento de colecciones. Mira las mejores listas de mercenarios y grupos."
 
-#: web/views/mercenaries.py:145
+#: web/views/mercenaries.py:142
 msgid "Mercenaries Parties"
 msgstr "Grupo de Mercenarios"
 
-#: web/views/mercenaries.py:151
+#: web/views/mercenaries.py:147
 msgid "Mercenaries Tier List"
 msgstr "Lista de los Mejores Mercenarios"
 

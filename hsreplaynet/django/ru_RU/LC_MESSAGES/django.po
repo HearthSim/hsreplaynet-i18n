@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-15 01:40+0000\n"
-"PO-Revision-Date: 2024-03-15 12:40\n"
+"POT-Creation-Date: 2024-03-16 01:40+0000\n"
+"PO-Revision-Date: 2024-03-16 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -82,47 +82,47 @@ msgstr "Код не применился и остается действите�
 msgid "Code has been applied to your account."
 msgstr "Код применен к вашей учетной записи."
 
-#: settings.py:379
+#: settings.py:381
 msgid "Full access to your HSReplay.net account"
 msgstr "Полный доступ к вашей учетной записи HSReplay.net"
 
-#: settings.py:380
+#: settings.py:382
 msgid "Access information about your connected social accounts"
 msgstr "Доступ к информации о ваших подключенных учетных записях в социальных сетях"
 
-#: settings.py:381
+#: settings.py:383
 msgid "View your Hearthstone card collection"
 msgstr "Просмотр вашей коллекции карт в Hearthstone"
 
-#: settings.py:382
+#: settings.py:384
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Загрузка вашей коллекции карт из Hearthstone на сайт"
 
-#: settings.py:383
+#: settings.py:385
 msgid "View your replays"
 msgstr "Просмотр ваших повторов"
 
-#: settings.py:384
+#: settings.py:386
 msgid "Update and delete your replays"
 msgstr "Изменение и удаление ваших повторов"
 
-#: settings.py:385
+#: settings.py:387
 msgid "Access the Partner API"
 msgstr "Доступ к партнерским API"
 
-#: settings.py:386
+#: settings.py:388
 msgid "Read access to the tournaments service"
 msgstr "Доступ на чтение к турнирным службам"
 
-#: settings.py:387
+#: settings.py:389
 msgid "Write access to the tournaments service"
 msgstr "Доступ на запись к турнирным службам"
 
-#: settings.py:388
+#: settings.py:390
 msgid "View your webhooks"
 msgstr "Просмотр ваших веб-хуков"
 
-#: settings.py:389
+#: settings.py:391
 msgid "Create and delete webhooks on your behalf"
 msgstr "Создавать и удалять веб-хуки от вашего имени"
 
@@ -389,7 +389,7 @@ msgstr "Мы отправили тебе ссылку для подтвержд�
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr "Пожалуйста, <a href=\"%(contact_url)s\">свяжитесь с нами</a>, если вы не получили ее в течение нескольких минут."
 
-#: templates/base.html:87
+#: templates/base.html:86
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
 msgstr "Xsolla — авторизованный международный дистрибьютор HSReplay.net"
 
@@ -432,17 +432,17 @@ msgstr "Скачать"
 msgid "Premium"
 msgstr "Премиум"
 
-#: templates/footer.html:65 web/views/battlegrounds.py:143
-#: web/views/battlegrounds.py:163 web/views/battlegrounds.py:177
-#: web/views/battlegrounds.py:233
+#: templates/footer.html:65 web/views/battlegrounds.py:142
+#: web/views/battlegrounds.py:161 web/views/battlegrounds.py:174
+#: web/views/battlegrounds.py:229
 msgid "Battlegrounds"
 msgstr "Поля сражений"
 
-#: templates/footer.html:66 web/views/battlegrounds.py:144
+#: templates/footer.html:66 web/views/battlegrounds.py:143
 msgid "Tier7"
 msgstr "Тир7"
 
-#: templates/footer.html:67 web/views/mercenaries.py:140
+#: templates/footer.html:67 web/views/mercenaries.py:137
 msgid "Mercenaries"
 msgstr "Наёмники"
 
@@ -478,11 +478,11 @@ msgstr "Конфиденциальность"
 msgid "About Us"
 msgstr "О нас"
 
-#: templates/games/replay_detail.html:28
+#: templates/games/replay_detail.html:29
 msgid "Replay not available"
 msgstr "Повтор отсутствует"
 
-#: templates/games/replay_detail.html:30
+#: templates/games/replay_detail.html:31
 msgid "This replay is no longer available."
 msgstr "Этот повтор больше не доступен."
 
@@ -502,12 +502,12 @@ msgstr "Рейтинг"
 msgid "Parties"
 msgstr "Команды"
 
-#: templates/navigation.html:78 web/views/battlegrounds.py:164
-#: web/views/battlegrounds.py:242
+#: templates/navigation.html:78 web/views/battlegrounds.py:162
+#: web/views/battlegrounds.py:238
 msgid "Heroes"
 msgstr "Герои"
 
-#: templates/navigation.html:90 web/views/battlegrounds.py:178
+#: templates/navigation.html:90 web/views/battlegrounds.py:175
 msgid "Darkmoon Prizes"
 msgstr "Призы Новолуния"
 
@@ -532,7 +532,7 @@ msgid "Trending"
 msgstr "Популярное"
 
 #: templates/navigation.html:154 templates/navigation.html:160
-#: web/views/archetypes.py:39
+#: web/views/archetypes.py:38
 msgid "Meta"
 msgstr "Мета"
 
@@ -540,11 +540,11 @@ msgstr "Мета"
 msgid "Back soon!"
 msgstr "Скоро вернется!"
 
-#: templates/navigation.html:167 web/views/decks.py:35
+#: templates/navigation.html:167 web/views/decks.py:34
 msgid "Decks"
 msgstr "Колоды"
 
-#: templates/navigation.html:173 web/views/cards.py:38 web/views/cards.py:170
+#: templates/navigation.html:173 web/views/cards.py:37 web/views/cards.py:168
 msgid "Cards"
 msgstr "Карты"
 
@@ -752,28 +752,28 @@ msgstr "Мета Hearthstone"
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr "Исследуйте Мету Hearthstone, чтобы узнать как показывают себя разные архетипы."
 
-#: web/views/archetypes.py:56
+#: web/views/archetypes.py:55
 msgid "Discover"
 msgstr "Детектор"
 
-#: web/views/archetypes.py:58
+#: web/views/archetypes.py:57
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr "Включайтесь в многообещающую мету Hearthstone, чтобы узнать о новейших архетипах и грядущих изменениях."
 
-#: web/views/archetypes.py:74
+#: web/views/archetypes.py:73
 msgid "Archetype"
 msgstr "Архетип"
 
-#: web/views/archetypes.py:80
+#: web/views/archetypes.py:79
 msgid "This archetype is no longer available."
 msgstr "Этот Архетип больше не доступен."
 
-#: web/views/archetypes.py:88
+#: web/views/archetypes.py:87
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr "Просматривайте статистику и другие колоды архетипа {name}."
 
-#: web/views/archetypes.py:116
+#: web/views/archetypes.py:115
 msgid "Archetypes"
 msgstr "Архетипы"
 
@@ -781,59 +781,59 @@ msgstr "Архетипы"
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
 msgstr ""
 
-#: web/views/battlegrounds.py:149
+#: web/views/battlegrounds.py:148
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr "HSReplay.net Тир7 для Полей сражений"
 
-#: web/views/battlegrounds.py:154
+#: web/views/battlegrounds.py:153
 msgid "Battlegrounds Heroes"
 msgstr "Герои Полей сражений"
 
-#: web/views/battlegrounds.py:156
+#: web/views/battlegrounds.py:155
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr "Изучите наш список уровней героев Полей Сражений и узнайте, какой герой является лучшим — на основе данных из миллионов игр."
 
-#: web/views/battlegrounds.py:173
+#: web/views/battlegrounds.py:171
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr "Награды новолуния полей сражений"
 
-#: web/views/battlegrounds.py:183 web/views/battlegrounds.py:210
+#: web/views/battlegrounds.py:180 web/views/battlegrounds.py:206
 msgid "Battlegrounds Hero"
 msgstr "Герой Полей сражений"
 
-#: web/views/battlegrounds.py:202
+#: web/views/battlegrounds.py:198
 msgid "No matching hero found."
 msgstr "Подходящих героев не найдено."
 
-#: web/views/battlegrounds.py:303
+#: web/views/battlegrounds.py:299
 msgid "Battlegrounds Minions"
 msgstr "Существа Полей сражений"
 
-#: web/views/battlegrounds.py:309 web/views/battlegrounds.py:336
+#: web/views/battlegrounds.py:304 web/views/battlegrounds.py:330
 msgid "Battlegrounds Minion"
 msgstr "Существо Полей сражений"
 
-#: web/views/battlegrounds.py:328
+#: web/views/battlegrounds.py:322
 msgid "No matching minion found."
 msgstr "Подходящих существ не найдено."
 
-#: web/views/battlegrounds.py:368
+#: web/views/battlegrounds.py:361
 msgid "Battlegrounds Compositions"
 msgstr "Составы Полей сражений"
 
-#: web/views/battlegrounds.py:374 web/views/battlegrounds.py:404
+#: web/views/battlegrounds.py:366 web/views/battlegrounds.py:395
 msgid "Battlegrounds Composition"
 msgstr "Состав Полей сражений"
 
-#: web/views/battlegrounds.py:397
+#: web/views/battlegrounds.py:388
 msgid "No matching live or lingering composition found."
 msgstr "Соответствующая транслируемая или транслированная ранее стратегия не найдена."
 
-#: web/views/battlegrounds.py:399
+#: web/views/battlegrounds.py:390
 msgid "No matching composition found."
 msgstr "Подходящий состав не найден."
 
-#: web/views/battlegrounds.py:466
+#: web/views/battlegrounds.py:457
 msgid "My Battlegrounds Stats"
 msgstr ""
 
@@ -845,19 +845,19 @@ msgstr "Статистика карт Hearthstone"
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
 msgstr "Сравнивайте статистику коллекционных карт Hearthstone. Выявите самые популярные и наиболее эффективные карты."
 
-#: web/views/cards.py:109
+#: web/views/cards.py:107
 msgid "No card found matching the query."
 msgstr "Ни одна карта не соответствует запросу."
 
-#: web/views/cards.py:127 web/views/cards.py:130
+#: web/views/cards.py:125 web/views/cards.py:128
 msgid "Hearthstone Card"
 msgstr "Карта Hearthstone"
 
-#: web/views/cards.py:152
+#: web/views/cards.py:150
 msgid "Statistics and decks!"
 msgstr "Статистика и колоды!"
 
-#: web/views/cards.py:208
+#: web/views/cards.py:206
 msgid "Hearthstone Card Editor"
 msgstr "Редактор карт Hearthstone"
 
@@ -865,11 +865,11 @@ msgstr "Редактор карт Hearthstone"
 msgid "My Collection"
 msgstr "Моя коллекция"
 
-#: web/views/collections.py:24
+#: web/views/collections.py:23
 msgid "Collection"
 msgstr "Коллекция"
 
-#: web/views/collections.py:39
+#: web/views/collections.py:37
 #, python-brace-format
 msgid "{user}'s Hearthstone Collection"
 msgstr "Коллекция игрока {user}"
@@ -918,65 +918,65 @@ msgstr "Колоды Hearthstone"
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
 msgstr "Погрузитесь в Мету Hearthstone и найдите новые колоды, исходя из класса, используемых карт или режима игры. Проверьте их успешность и популярность в рейтинге."
 
-#: web/views/decks.py:40
+#: web/views/decks.py:39
 msgid "My Decks"
 msgstr "Мои колоды"
 
-#: web/views/decks.py:60
+#: web/views/decks.py:58
 msgid "Deck does not exist."
 msgstr "Колода не существует."
 
-#: web/views/decks.py:70
+#: web/views/decks.py:68
 msgid "Deck list is too small."
 msgstr "Недостаточно карт в колоде."
 
-#: web/views/decks.py:74
+#: web/views/decks.py:72
 msgid "Deck list contains uncollectible cards."
 msgstr "Колода содержит не коллекционные карты."
 
-#: web/views/decks.py:78
+#: web/views/decks.py:76
 msgid "Neutral Deck"
 msgstr "Нейтральная колода"
 
-#: web/views/decks.py:92
+#: web/views/decks.py:90
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "Статистика и колоды {name}. Импортировать: {deckstring}"
 
-#: web/views/decks.py:131
+#: web/views/decks.py:129
 msgid "Trending Hearthstone Decks"
 msgstr "Набирающие популярность колоды"
 
-#: web/views/decks.py:133
+#: web/views/decks.py:131
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "Здесь вы найдете многообещающие колоды с растущей популярностью для каждого класса. Список обновляется ежедневно."
 
-#: web/views/decks.py:139
+#: web/views/decks.py:137
 msgid "Trending Decks"
 msgstr "Популярные колоды"
 
-#: web/views/mercenaries.py:66 web/views/mercenaries.py:82
+#: web/views/mercenaries.py:66 web/views/mercenaries.py:81
 msgid "Mercenaries Collection"
 msgstr "Коллекция Наемников"
 
-#: web/views/mercenaries.py:97
+#: web/views/mercenaries.py:95
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
 msgstr "Набор Наёмников игрока {user}"
 
-#: web/views/mercenaries.py:128
+#: web/views/mercenaries.py:126
 msgid "Mercenaries Home"
 msgstr "Наемники Главная"
 
-#: web/views/mercenaries.py:134
+#: web/views/mercenaries.py:131
 msgid "Get all the information you need to win at Hearthstone Mercenaries with our Mercenaries stats and collection tracking. See top mercenaries tier lists and parties."
 msgstr "Получите всю необходимую информацию о наемниках из Hearthstone Mercenaries с помощью нашей статистики по наемникам и слежения за коллекциями. Смотрите лучшие списки наемников и партии."
 
-#: web/views/mercenaries.py:145
+#: web/views/mercenaries.py:142
 msgid "Mercenaries Parties"
 msgstr "Наёмники Партии"
 
-#: web/views/mercenaries.py:151
+#: web/views/mercenaries.py:147
 msgid "Mercenaries Tier List"
 msgstr "Список наемников"
 

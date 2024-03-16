@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-15 01:40+0000\n"
-"PO-Revision-Date: 2024-03-15 12:40\n"
+"POT-Creation-Date: 2024-03-16 01:40+0000\n"
+"PO-Revision-Date: 2024-03-16 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -82,47 +82,47 @@ msgstr "激活码使用失败，激活码依旧可用于其他账号。"
 msgid "Code has been applied to your account."
 msgstr "激活码使用成功。"
 
-#: settings.py:379
+#: settings.py:381
 msgid "Full access to your HSReplay.net account"
 msgstr "完全访问您的HSReplay.net帐户"
 
-#: settings.py:380
+#: settings.py:382
 msgid "Access information about your connected social accounts"
 msgstr "访问您已连接的社交帐户的信息"
 
-#: settings.py:381
+#: settings.py:383
 msgid "View your Hearthstone card collection"
 msgstr "查看您的炉石卡牌收藏"
 
-#: settings.py:382
+#: settings.py:384
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "上传您的炉石卡牌收藏到网站"
 
-#: settings.py:383
+#: settings.py:385
 msgid "View your replays"
 msgstr "查看您的回放"
 
-#: settings.py:384
+#: settings.py:386
 msgid "Update and delete your replays"
 msgstr "更新和删除您的回放"
 
-#: settings.py:385
+#: settings.py:387
 msgid "Access the Partner API"
 msgstr "获取合作伙伴的API"
 
-#: settings.py:386
+#: settings.py:388
 msgid "Read access to the tournaments service"
 msgstr "获得锦标赛服务的读取权限"
 
-#: settings.py:387
+#: settings.py:389
 msgid "Write access to the tournaments service"
 msgstr "获得锦标赛服务的写入权限"
 
-#: settings.py:388
+#: settings.py:390
 msgid "View your webhooks"
 msgstr "查看您的 webhooks"
 
-#: settings.py:389
+#: settings.py:391
 msgid "Create and delete webhooks on your behalf"
 msgstr "为您创建和删除 webhooks"
 
@@ -389,7 +389,7 @@ msgstr "我们已经给您发了一封验证电子邮件。按照其中的链接
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr "如果几分钟内仍未收到邮件，请<a href=\"%(contact_url)s\">联系我们</a>。"
 
-#: templates/base.html:87
+#: templates/base.html:86
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
 msgstr "Xsolla是HSReplay.net的授权全球经销商"
 
@@ -432,17 +432,17 @@ msgstr "下载"
 msgid "Premium"
 msgstr "升级会员"
 
-#: templates/footer.html:65 web/views/battlegrounds.py:143
-#: web/views/battlegrounds.py:163 web/views/battlegrounds.py:177
-#: web/views/battlegrounds.py:233
+#: templates/footer.html:65 web/views/battlegrounds.py:142
+#: web/views/battlegrounds.py:161 web/views/battlegrounds.py:174
+#: web/views/battlegrounds.py:229
 msgid "Battlegrounds"
 msgstr "酒馆战棋"
 
-#: templates/footer.html:66 web/views/battlegrounds.py:144
+#: templates/footer.html:66 web/views/battlegrounds.py:143
 msgid "Tier7"
 msgstr "Tier7"
 
-#: templates/footer.html:67 web/views/mercenaries.py:140
+#: templates/footer.html:67 web/views/mercenaries.py:137
 msgid "Mercenaries"
 msgstr "佣兵战纪"
 
@@ -478,11 +478,11 @@ msgstr "隐私权政策"
 msgid "About Us"
 msgstr "关于我们"
 
-#: templates/games/replay_detail.html:28
+#: templates/games/replay_detail.html:29
 msgid "Replay not available"
 msgstr "不支持回放"
 
-#: templates/games/replay_detail.html:30
+#: templates/games/replay_detail.html:31
 msgid "This replay is no longer available."
 msgstr "这个录像已不可用"
 
@@ -502,12 +502,12 @@ msgstr "佣兵强度"
 msgid "Parties"
 msgstr "队伍"
 
-#: templates/navigation.html:78 web/views/battlegrounds.py:164
-#: web/views/battlegrounds.py:242
+#: templates/navigation.html:78 web/views/battlegrounds.py:162
+#: web/views/battlegrounds.py:238
 msgid "Heroes"
 msgstr "英雄"
 
-#: templates/navigation.html:90 web/views/battlegrounds.py:178
+#: templates/navigation.html:90 web/views/battlegrounds.py:175
 msgid "Darkmoon Prizes"
 msgstr "暗月奖品"
 
@@ -532,7 +532,7 @@ msgid "Trending"
 msgstr "趋势"
 
 #: templates/navigation.html:154 templates/navigation.html:160
-#: web/views/archetypes.py:39
+#: web/views/archetypes.py:38
 msgid "Meta"
 msgstr "环境"
 
@@ -540,11 +540,11 @@ msgstr "环境"
 msgid "Back soon!"
 msgstr "马上回来！"
 
-#: templates/navigation.html:167 web/views/decks.py:35
+#: templates/navigation.html:167 web/views/decks.py:34
 msgid "Decks"
 msgstr "套牌"
 
-#: templates/navigation.html:173 web/views/cards.py:38 web/views/cards.py:170
+#: templates/navigation.html:173 web/views/cards.py:37 web/views/cards.py:168
 msgid "Cards"
 msgstr "卡牌"
 
@@ -752,28 +752,28 @@ msgstr "炉石环境"
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr "探索炉石对局环境，搜索各个卡组的优劣对抗。"
 
-#: web/views/archetypes.py:56
+#: web/views/archetypes.py:55
 msgid "Discover"
 msgstr "探索"
 
-#: web/views/archetypes.py:58
+#: web/views/archetypes.py:57
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr "迎接炉石即将到来的新环境，搜索最新卡组与后起之秀。"
 
-#: web/views/archetypes.py:74
+#: web/views/archetypes.py:73
 msgid "Archetype"
 msgstr "构筑"
 
-#: web/views/archetypes.py:80
+#: web/views/archetypes.py:79
 msgid "This archetype is no longer available."
 msgstr "此卡组已不再可用。"
 
-#: web/views/archetypes.py:88
+#: web/views/archetypes.py:87
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr "查找统计信息和不同的 {name} 套牌。"
 
-#: web/views/archetypes.py:116
+#: web/views/archetypes.py:115
 msgid "Archetypes"
 msgstr "卡组"
 
@@ -781,59 +781,59 @@ msgstr "卡组"
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
 msgstr ""
 
-#: web/views/battlegrounds.py:149
+#: web/views/battlegrounds.py:148
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr "酒馆战棋HSReplay.net Tier7"
 
-#: web/views/battlegrounds.py:154
+#: web/views/battlegrounds.py:153
 msgid "Battlegrounds Heroes"
 msgstr "酒馆战棋英雄"
 
-#: web/views/battlegrounds.py:156
+#: web/views/battlegrounds.py:155
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr "打开我们的战棋英雄梯度表，查看在百万场对局中它们的表现"
 
-#: web/views/battlegrounds.py:173
+#: web/views/battlegrounds.py:171
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr "暗月奖品"
 
-#: web/views/battlegrounds.py:183 web/views/battlegrounds.py:210
+#: web/views/battlegrounds.py:180 web/views/battlegrounds.py:206
 msgid "Battlegrounds Hero"
 msgstr "酒馆战棋英雄"
 
-#: web/views/battlegrounds.py:202
+#: web/views/battlegrounds.py:198
 msgid "No matching hero found."
 msgstr "未找到匹配的英雄。"
 
-#: web/views/battlegrounds.py:303
+#: web/views/battlegrounds.py:299
 msgid "Battlegrounds Minions"
 msgstr "酒馆战棋随从"
 
-#: web/views/battlegrounds.py:309 web/views/battlegrounds.py:336
+#: web/views/battlegrounds.py:304 web/views/battlegrounds.py:330
 msgid "Battlegrounds Minion"
 msgstr "酒馆战棋随从"
 
-#: web/views/battlegrounds.py:328
+#: web/views/battlegrounds.py:322
 msgid "No matching minion found."
 msgstr "未找到匹配的随从。"
 
-#: web/views/battlegrounds.py:368
+#: web/views/battlegrounds.py:361
 msgid "Battlegrounds Compositions"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:374 web/views/battlegrounds.py:404
+#: web/views/battlegrounds.py:366 web/views/battlegrounds.py:395
 msgid "Battlegrounds Composition"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:397
+#: web/views/battlegrounds.py:388
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:399
+#: web/views/battlegrounds.py:390
 msgid "No matching composition found."
 msgstr "没有找到对应的流派。"
 
-#: web/views/battlegrounds.py:466
+#: web/views/battlegrounds.py:457
 msgid "My Battlegrounds Stats"
 msgstr ""
 
@@ -845,19 +845,19 @@ msgstr "炉石卡牌统计"
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
 msgstr "横向对比所有的可收集炉石卡牌。搜索打出最多的或胜率最高的卡牌。"
 
-#: web/views/cards.py:109
+#: web/views/cards.py:107
 msgid "No card found matching the query."
 msgstr "没有与条件对应的卡牌。"
 
-#: web/views/cards.py:127 web/views/cards.py:130
+#: web/views/cards.py:125 web/views/cards.py:128
 msgid "Hearthstone Card"
 msgstr "炉石卡牌"
 
-#: web/views/cards.py:152
+#: web/views/cards.py:150
 msgid "Statistics and decks!"
 msgstr "统计信息和套牌！"
 
-#: web/views/cards.py:208
+#: web/views/cards.py:206
 msgid "Hearthstone Card Editor"
 msgstr "炉石卡牌编辑器"
 
@@ -865,11 +865,11 @@ msgstr "炉石卡牌编辑器"
 msgid "My Collection"
 msgstr "我的收藏"
 
-#: web/views/collections.py:24
+#: web/views/collections.py:23
 msgid "Collection"
 msgstr "收藏"
 
-#: web/views/collections.py:39
+#: web/views/collections.py:37
 #, python-brace-format
 msgid "{user}'s Hearthstone Collection"
 msgstr "{user} 的卡牌收藏"
@@ -918,65 +918,65 @@ msgstr "炉石套牌"
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
 msgstr "深入探索炉石环境，按职业、卡牌、模式寻找套牌。了解它们在天梯上的胜率与热度。"
 
-#: web/views/decks.py:40
+#: web/views/decks.py:39
 msgid "My Decks"
 msgstr "我的套牌"
 
-#: web/views/decks.py:60
+#: web/views/decks.py:58
 msgid "Deck does not exist."
 msgstr "不存在这种套牌。"
 
-#: web/views/decks.py:70
+#: web/views/decks.py:68
 msgid "Deck list is too small."
 msgstr "套牌列表过短。"
 
-#: web/views/decks.py:74
+#: web/views/decks.py:72
 msgid "Deck list contains uncollectible cards."
 msgstr "套牌中包含不可收集的卡牌。"
 
-#: web/views/decks.py:78
+#: web/views/decks.py:76
 msgid "Neutral Deck"
 msgstr "中立套牌"
 
-#: web/views/decks.py:92
+#: web/views/decks.py:90
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "{name}的统计与套牌列表。导入：{deckstring}"
 
-#: web/views/decks.py:131
+#: web/views/decks.py:129
 msgid "Trending Hearthstone Decks"
 msgstr "流行炉石套牌"
 
-#: web/views/decks.py:133
+#: web/views/decks.py:131
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "按职业寻找后来居上的炉石套牌，每日更新。"
 
-#: web/views/decks.py:139
+#: web/views/decks.py:137
 msgid "Trending Decks"
 msgstr "热门套牌"
 
-#: web/views/mercenaries.py:66 web/views/mercenaries.py:82
+#: web/views/mercenaries.py:66 web/views/mercenaries.py:81
 msgid "Mercenaries Collection"
 msgstr "佣兵收藏"
 
-#: web/views/mercenaries.py:97
+#: web/views/mercenaries.py:95
 #, python-brace-format
 msgid "{user}'s Mercenaries Collection"
 msgstr "{user}的佣兵收藏"
 
-#: web/views/mercenaries.py:128
+#: web/views/mercenaries.py:126
 msgid "Mercenaries Home"
 msgstr "佣兵首页"
 
-#: web/views/mercenaries.py:134
+#: web/views/mercenaries.py:131
 msgid "Get all the information you need to win at Hearthstone Mercenaries with our Mercenaries stats and collection tracking. See top mercenaries tier lists and parties."
 msgstr "帮助你在佣兵对战中获得胜利，查看我们的佣兵统计数据以及佣兵收藏追踪，查看胜率高的佣兵和佣兵队伍。"
 
-#: web/views/mercenaries.py:145
+#: web/views/mercenaries.py:142
 msgid "Mercenaries Parties"
 msgstr "佣兵队伍"
 
-#: web/views/mercenaries.py:151
+#: web/views/mercenaries.py:147
 msgid "Mercenaries Tier List"
 msgstr "佣兵强度列表"
 
