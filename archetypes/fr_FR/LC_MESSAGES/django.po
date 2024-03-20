@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-01T21:38:43.527971\n"
+"POT-Creation-Date: 2024-03-20T11:15:30.226599\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-03-02 00:40\n"
+"PO-Revision-Date: 2024-03-20 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -732,6 +732,10 @@ msgstr "Prêtre mur"
 #: https://hsreplay.net/archetypes/284/heal-druid
 msgid "Heal Druid"
 msgstr "Druide Guérison"
+
+#: https://hsreplay.net/archetypes/647/rainbow-handbuff-death-knight
+msgid "Rainbow Handbuff Death Knight"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/285/spell-mage
 msgid "Spell Mage"
@@ -2108,4 +2112,8 @@ msgstr ""
 #: https://hsreplay.net/archetypes/128/highlander-priest
 msgid "Highlander Priest"
 msgstr "Prêtre Razakus"
+
+#: https://hsreplay.net/archetypes/648/boomkin-druid
+msgid "Boomkin Druid"
+msgstr ""
 
