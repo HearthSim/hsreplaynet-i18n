@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-20T11:15:30.226599\n"
+"POT-Creation-Date: 2024-03-21T01:40:28.225136\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2024-03-20 12:40\n"
+"PO-Revision-Date: 2024-03-21 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -140,10 +140,6 @@ msgstr "Чернокнижник на сбросе"
 #: https://hsreplay.net/archetypes/639/cleave-hunter
 msgid "Cleave Hunter"
 msgstr ""
-
-#: https://hsreplay.net/archetypes/130/dragon-priest
-msgid "Dragon Priest"
-msgstr "Драконо-жрец"
 
 #: https://hsreplay.net/archetypes/22/pirate-warrior
 msgid "Pirate Warrior"
@@ -445,10 +441,6 @@ msgstr "Квест разбойник"
 msgid "Control Shaman"
 msgstr "Контроль шаман"
 
-#: https://hsreplay.net/archetypes/25/miracle-rogue
-msgid "Miracle Rogue"
-msgstr "Миракл разбойник"
-
 #: https://hsreplay.net/archetypes/213/dragon-hunter
 msgid "Dragon Hunter"
 msgstr "Драконо-охотник"
@@ -508,6 +500,10 @@ msgstr "Галакронд разбойник на маскировке"
 #: https://hsreplay.net/archetypes/185/demon-warlock
 msgid "Demon Warlock"
 msgstr "Демон чернокнижник"
+
+#: https://hsreplay.net/archetypes/25/miracle-rogue
+msgid "Miracle Rogue"
+msgstr "Миракл разбойник"
 
 #: https://hsreplay.net/archetypes/425/etc-control-warrior
 msgid "ETC Control Warrior"
@@ -736,10 +732,6 @@ msgstr "Друид на исцелении"
 #: https://hsreplay.net/archetypes/647/rainbow-handbuff-death-knight
 msgid "Rainbow Handbuff Death Knight"
 msgstr ""
-
-#: https://hsreplay.net/archetypes/285/spell-mage
-msgid "Spell Mage"
-msgstr "Маг на заклинаниях"
 
 #: https://hsreplay.net/archetypes/286/khadgar-mage
 msgid "Khadgar Mage"
@@ -1049,10 +1041,6 @@ msgstr "Квест друид на увеличении"
 msgid "Secret Stealth Rogue"
 msgstr "Секрет разбойник на маскировке"
 
-#: https://hsreplay.net/archetypes/132/hand-warlock
-msgid "Hand Warlock"
-msgstr "Хэндлок"
-
 #: https://hsreplay.net/archetypes/2/control-warrior
 msgid "Control Warrior"
 msgstr "Контроль воин"
@@ -1181,6 +1169,10 @@ msgstr "Хайлендер воин"
 msgid "Ramp Paladin"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/132/hand-warlock
+msgid "Hand Warlock"
+msgstr "Хэндлок"
+
 #: https://hsreplay.net/archetypes/374/libram-paladin
 msgid "Libram Paladin"
 msgstr "Манускрипт паладин"
@@ -1288,10 +1280,6 @@ msgstr ""
 #: https://hsreplay.net/archetypes/439/deathrattle-demon-hunter
 msgid "Deathrattle Demon Hunter"
 msgstr ""
-
-#: https://hsreplay.net/archetypes/171/aggro-paladin
-msgid "Aggro Paladin"
-msgstr "Агро паладин"
 
 #: https://hsreplay.net/archetypes/440/celestial-druid
 msgid "Celestial Druid"
@@ -1435,10 +1423,6 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/478/fire-mage
 msgid "Fire Mage"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/479/handbuff-paladin
-msgid "Handbuff Paladin"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/480/quest-libram-paladin
@@ -1592,6 +1576,10 @@ msgstr ""
 #: https://hsreplay.net/archetypes/15/secret-paladin
 msgid "Secret Paladin"
 msgstr "Секрет паладин"
+
+#: https://hsreplay.net/archetypes/171/aggro-paladin
+msgid "Aggro Paladin"
+msgstr "Агро паладин"
 
 #: https://hsreplay.net/archetypes/314/highlander-quest-priest
 msgid "Highlander Quest Priest"
@@ -1965,17 +1953,9 @@ msgstr "Драконо-паладин"
 msgid "OTK Cage Head Death Knight"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/408/weapon-rogue
-msgid "Weapon Rogue"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/202/evolve-shaman
 msgid "Evolve Shaman"
 msgstr "Шаман на эволюции"
-
-#: https://hsreplay.net/archetypes/138/secret-hunter
-msgid "Secret Hunter"
-msgstr "Секрет охотник"
 
 #: https://hsreplay.net/archetypes/614/spell-school-mage
 msgid "Spell School Mage"
@@ -2015,10 +1995,6 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/624/giant-druid
 msgid "Giant Druid"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/625/breakfast-hunter
-msgid "Breakfast Hunter"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/145/elemental-mage
@@ -2115,5 +2091,61 @@ msgstr "Хайлендер жрец"
 
 #: https://hsreplay.net/archetypes/648/boomkin-druid
 msgid "Boomkin Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/649/control-death-knight
+msgid "Control Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/650/sharpshooter-demon-hunter
+msgid "Sharpshooter Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/651/spell-token-hunter
+msgid "Spell Token Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/652/buff-hunter
+msgid "Buff Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/625/breakfast-hunter
+msgid "Breakfast Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/138/secret-hunter
+msgid "Secret Hunter"
+msgstr "Секрет охотник"
+
+#: https://hsreplay.net/archetypes/285/spell-mage
+msgid "Spell Mage"
+msgstr "Маг на заклинаниях"
+
+#: https://hsreplay.net/archetypes/479/handbuff-paladin
+msgid "Handbuff Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/653/flood-paladin
+msgid "Flood Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/654/aura-paladin
+msgid "Aura Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/130/dragon-priest
+msgid "Dragon Priest"
+msgstr "Драконо-жрец"
+
+#: https://hsreplay.net/archetypes/408/weapon-rogue
+msgid "Weapon Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/655/wheel-warlock
+msgid "Wheel Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/656/chemical-warrior
+msgid "Chemical Warrior"
 msgstr ""
 
