@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-21T01:40:28.225136\n"
+"POT-Creation-Date: 2024-03-24T01:40:25.523103\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-03-21 12:40\n"
+"PO-Revision-Date: 2024-03-24 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1541,10 +1541,6 @@ msgstr "冲锋战"
 msgid "Secret Thief Rogue"
 msgstr "奥秘剽窃贼"
 
-#: https://hsreplay.net/archetypes/511/burn-shaman
-msgid "Burn Shaman"
-msgstr "法强萨"
-
 #: https://hsreplay.net/archetypes/512/ramp-druid
 msgid "Ramp Druid"
 msgstr "跳费德"
@@ -1712,6 +1708,10 @@ msgstr "光牙贼"
 #: https://hsreplay.net/archetypes/419/menagerie-warrior
 msgid "Menagerie Warrior"
 msgstr "光牙战"
+
+#: https://hsreplay.net/archetypes/511/burn-shaman
+msgid "Burn Shaman"
+msgstr "法强萨"
 
 #: https://hsreplay.net/archetypes/201/totem-shaman
 msgid "Totem Shaman"
@@ -2148,4 +2148,16 @@ msgstr "转盘术"
 #: https://hsreplay.net/archetypes/656/chemical-warrior
 msgid "Chemical Warrior"
 msgstr "化工泄漏战"
+
+#: https://hsreplay.net/archetypes/657/aviana-druid
+msgid "Aviana Druid"
+msgstr "艾维娜德"
+
+#: https://hsreplay.net/archetypes/658/zarimi-priest
+msgid "Zarimi Priest"
+msgstr "开门龙牧"
+
+#: https://hsreplay.net/archetypes/659/tendril-rogue
+msgid "Tendril Rogue"
+msgstr "触须贼"
 

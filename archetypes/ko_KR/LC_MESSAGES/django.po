@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-03-21T01:40:28.225136\n"
+"POT-Creation-Date: 2024-03-24T01:40:25.523103\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2024-03-21 12:40\n"
+"PO-Revision-Date: 2024-03-24 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1541,10 +1541,6 @@ msgstr "돌진 전사"
 msgid "Secret Thief Rogue"
 msgstr "비밀 훔치기 도적"
 
-#: https://hsreplay.net/archetypes/511/burn-shaman
-msgid "Burn Shaman"
-msgstr "번 주술사"
-
 #: https://hsreplay.net/archetypes/512/ramp-druid
 msgid "Ramp Druid"
 msgstr ""
@@ -1712,6 +1708,10 @@ msgstr ""
 #: https://hsreplay.net/archetypes/419/menagerie-warrior
 msgid "Menagerie Warrior"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/511/burn-shaman
+msgid "Burn Shaman"
+msgstr "번 주술사"
 
 #: https://hsreplay.net/archetypes/201/totem-shaman
 msgid "Totem Shaman"
@@ -2147,5 +2147,17 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/656/chemical-warrior
 msgid "Chemical Warrior"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/657/aviana-druid
+msgid "Aviana Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/658/zarimi-priest
+msgid "Zarimi Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/659/tendril-rogue
+msgid "Tendril Rogue"
 msgstr ""
 
