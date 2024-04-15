@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-04-02 01:40+0000\n"
-"PO-Revision-Date: 2024-04-02 12:40\n"
+"POT-Creation-Date: 2024-04-15 01:40+0000\n"
+"PO-Revision-Date: 2024-04-15 12:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -82,47 +82,47 @@ msgstr "Code inefficace sur ce compte mais encore valide."
 msgid "Code has been applied to your account."
 msgstr "Ce code a été appliqué à votre compte."
 
-#: settings.py:382
+#: settings.py:380
 msgid "Full access to your HSReplay.net account"
 msgstr "Accès complet à votre compte HSReplay.net"
 
-#: settings.py:383
+#: settings.py:381
 msgid "Access information about your connected social accounts"
 msgstr "Accéder aux informations relatives à vos comptes sociaux liés"
 
-#: settings.py:384
+#: settings.py:382
 msgid "View your Hearthstone card collection"
 msgstr "Voir votre collection de cartes Hearthstone"
 
-#: settings.py:385
+#: settings.py:383
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Importer votre collection de cartes Hearthstone sur le site"
 
-#: settings.py:386
+#: settings.py:384
 msgid "View your replays"
 msgstr "Regarder vos rediffusions"
 
-#: settings.py:387
+#: settings.py:385
 msgid "Update and delete your replays"
 msgstr "Mettre à jour et supprimer vos rediffusions"
 
-#: settings.py:388
+#: settings.py:386
 msgid "Access the Partner API"
 msgstr "Accéder à l’API du Partenaire"
 
-#: settings.py:389
+#: settings.py:387
 msgid "Read access to the tournaments service"
 msgstr "Accès en lecture au service de tournois"
 
-#: settings.py:390
+#: settings.py:388
 msgid "Write access to the tournaments service"
 msgstr "Accès en écriture au service de tournois"
 
-#: settings.py:391
+#: settings.py:389
 msgid "View your webhooks"
 msgstr "Voir vos webhooks"
 
-#: settings.py:392
+#: settings.py:390
 msgid "Create and delete webhooks on your behalf"
 msgstr "Donner l'autorisation de créer et effacer des webhooks"
 
