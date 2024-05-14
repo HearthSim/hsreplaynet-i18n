@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-05-08 01:40+0000\n"
-"PO-Revision-Date: 2024-05-08 12:40\n"
+"PO-Revision-Date: 2024-05-14 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -220,7 +220,7 @@ msgstr "Die folgenden E-Mail-Adressen sind mit deinem Konto verknüpft:"
 
 #: templates/account/email.html:18
 msgid "✔ Verified"
-msgstr ""
+msgstr "✔ Bestätigt"
 
 #: templates/account/email.html:23
 msgid "Re-send Verification"
@@ -228,7 +228,7 @@ msgstr "Bestätigungs-E-Mail erneut versenden"
 
 #: templates/account/email.html:28
 msgid "✔ Primary"
-msgstr ""
+msgstr "✔ Primär"
 
 #: templates/account/email.html:33
 msgid "Make Primary"
