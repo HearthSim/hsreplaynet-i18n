@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-16T01:40:27.120275\n"
+"POT-Creation-Date: 2024-05-18T01:40:29.634305\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-05-16 12:40\n"
+"PO-Revision-Date: 2024-05-18 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -756,10 +756,6 @@ msgstr "Pícaro Tempo"
 #: https://hsreplay.net/archetypes/289/plot-twist-warlock
 msgid "Plot Twist Warlock"
 msgstr "Brujo Plot Twist"
-
-#: https://hsreplay.net/archetypes/290/bomb-warrior
-msgid "Bomb Warrior"
-msgstr "Guerrero Bombas"
 
 #: https://hsreplay.net/archetypes/292/khadgar-dragon-mage
 msgid "Khadgar Dragon Mage"
@@ -2077,8 +2073,8 @@ msgstr ""
 msgid "Mining Shaman"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/324/highlander-rogue
-msgid "Highlander Rogue"
+#: https://hsreplay.net/archetypes/669/tempo-shaman
+msgid "Tempo Shaman"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/645/colifero-hunter
@@ -2195,5 +2191,17 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/668/highlander-death-knight
 msgid "Highlander Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/324/highlander-rogue
+msgid "Highlander Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/290/bomb-warrior
+msgid "Bomb Warrior"
+msgstr "Guerrero Bombas"
+
+#: https://hsreplay.net/archetypes/670/dummy-warrior
+msgid "Dummy Warrior"
 msgstr ""
 
