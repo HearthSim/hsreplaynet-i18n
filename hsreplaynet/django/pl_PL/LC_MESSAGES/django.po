@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-08 01:40+0000\n"
-"PO-Revision-Date: 2024-05-08 12:40\n"
+"POT-Creation-Date: 2024-05-19 01:40+0000\n"
+"PO-Revision-Date: 2024-05-19 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -82,47 +82,47 @@ msgstr "Kod nie wpłynął na konto i pozostaje ważny."
 msgid "Code has been applied to your account."
 msgstr "Kod został zastosowany na twoim koncie."
 
-#: settings.py:381
+#: settings.py:383
 msgid "Full access to your HSReplay.net account"
 msgstr "Pełny dostęp do twojego konta HSReplay.net"
 
-#: settings.py:382
+#: settings.py:384
 msgid "Access information about your connected social accounts"
 msgstr "Uzyskaj dostęp do informacji na temat swoich powiązanych kont społecznościowych"
 
-#: settings.py:383
+#: settings.py:385
 msgid "View your Hearthstone card collection"
 msgstr "Zobacz swoją kolekcję kart Hearthstone"
 
-#: settings.py:384
+#: settings.py:386
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Wyślij swoją kolekcję kart Hearthstone na stronę"
 
-#: settings.py:385
+#: settings.py:387
 msgid "View your replays"
 msgstr "Zobacz swoje powtórki"
 
-#: settings.py:386
+#: settings.py:388
 msgid "Update and delete your replays"
 msgstr "Zaktualizuj i usuń swoje powtórki"
 
-#: settings.py:387
+#: settings.py:389
 msgid "Access the Partner API"
 msgstr "Dostęp do API partnerów"
 
-#: settings.py:388
+#: settings.py:390
 msgid "Read access to the tournaments service"
 msgstr "Dostęp do odczytu usługi turniejów"
 
-#: settings.py:389
+#: settings.py:391
 msgid "Write access to the tournaments service"
 msgstr "Dostęp do zapisu usługi turniejów"
 
-#: settings.py:390
+#: settings.py:392
 msgid "View your webhooks"
 msgstr "Zobacz swoje webhooki"
 
-#: settings.py:391
+#: settings.py:393
 msgid "Create and delete webhooks on your behalf"
 msgstr "Stwórz i usuń webhooki w swoim imieniu"
 
@@ -389,7 +389,7 @@ msgstr "Wysłaliśmy ci wiadomość e-mail w celu weryfikacji. Wejdź w link, by
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr "Prosimy <a href=\"%(contact_url)s\">skontaktuj się z nami</a> jeśli nie otrzymasz go w ciągu paru minut."
 
-#: templates/base.html:86
+#: templates/base.html:76
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
 msgstr "Xsolla jest autoryzowanym globalnym dystrybutorem HSReplay.net"
 
@@ -926,28 +926,28 @@ msgstr "Talia nie istnieje."
 msgid "Deck list is too small."
 msgstr "Talia jest za krótka."
 
-#: web/views/decks.py:72
+#: web/views/decks.py:71
 msgid "Deck list contains uncollectible cards."
 msgstr "Talia zawiera karty nie do zdobycia."
 
-#: web/views/decks.py:76
+#: web/views/decks.py:75
 msgid "Neutral Deck"
 msgstr "Neutralna Talia"
 
-#: web/views/decks.py:90
+#: web/views/decks.py:89
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "{name} statystyki i lista talii. Zaimportuj to: {deckstring}"
 
-#: web/views/decks.py:129
+#: web/views/decks.py:128
 msgid "Trending Hearthstone Decks"
 msgstr "Popularne Talie Hearthstone"
 
-#: web/views/decks.py:131
+#: web/views/decks.py:130
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "Znajdź nadchodzące talie z rosnącą popularnością w Hearthstone dla każdej klasy, aktualizowane każdego dnia."
 
-#: web/views/decks.py:137
+#: web/views/decks.py:136
 msgid "Trending Decks"
 msgstr ""
 

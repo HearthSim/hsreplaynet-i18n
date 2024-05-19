@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-08 01:40+0000\n"
-"PO-Revision-Date: 2024-05-08 12:40\n"
+"POT-Creation-Date: 2024-05-19 01:40+0000\n"
+"PO-Revision-Date: 2024-05-19 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -82,47 +82,47 @@ msgstr "コードがアカウントに影響せず有効なままです。"
 msgid "Code has been applied to your account."
 msgstr "コードが適用されています。"
 
-#: settings.py:381
+#: settings.py:383
 msgid "Full access to your HSReplay.net account"
 msgstr ""
 
-#: settings.py:382
+#: settings.py:384
 msgid "Access information about your connected social accounts"
 msgstr ""
 
-#: settings.py:383
+#: settings.py:385
 msgid "View your Hearthstone card collection"
 msgstr "あなたのハースストーンのカード・コレクションを見る"
 
-#: settings.py:384
+#: settings.py:386
 msgid "Upload your Hearthstone card collection to the site"
 msgstr ""
 
-#: settings.py:385
+#: settings.py:387
 msgid "View your replays"
 msgstr "自分のリプレイを見る"
 
-#: settings.py:386
+#: settings.py:388
 msgid "Update and delete your replays"
 msgstr ""
 
-#: settings.py:387
+#: settings.py:389
 msgid "Access the Partner API"
 msgstr "パートナーAPIにアクセスします。"
 
-#: settings.py:388
+#: settings.py:390
 msgid "Read access to the tournaments service"
 msgstr "トーナメントサービスへの読み取りアクセス"
 
-#: settings.py:389
+#: settings.py:391
 msgid "Write access to the tournaments service"
 msgstr "トーナメントサービスへの書き込みアクセス"
 
-#: settings.py:390
+#: settings.py:392
 msgid "View your webhooks"
 msgstr "あなたのwebhooksを表示します。"
 
-#: settings.py:391
+#: settings.py:393
 msgid "Create and delete webhooks on your behalf"
 msgstr "webhooksを作成、削除"
 
@@ -383,7 +383,7 @@ msgstr "あなたのメールアドレスに、確認のためのメールを送
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr ""
 
-#: templates/base.html:86
+#: templates/base.html:76
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
 msgstr ""
 
@@ -920,28 +920,28 @@ msgstr "デッキが存在しません。"
 msgid "Deck list is too small."
 msgstr ""
 
-#: web/views/decks.py:72
+#: web/views/decks.py:71
 msgid "Deck list contains uncollectible cards."
 msgstr ""
 
-#: web/views/decks.py:76
+#: web/views/decks.py:75
 msgid "Neutral Deck"
 msgstr ""
 
-#: web/views/decks.py:90
+#: web/views/decks.py:89
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr ""
 
-#: web/views/decks.py:129
+#: web/views/decks.py:128
 msgid "Trending Hearthstone Decks"
 msgstr ""
 
-#: web/views/decks.py:131
+#: web/views/decks.py:130
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr ""
 
-#: web/views/decks.py:137
+#: web/views/decks.py:136
 msgid "Trending Decks"
 msgstr ""
 
