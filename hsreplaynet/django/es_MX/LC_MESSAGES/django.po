@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-25 01:40+0000\n"
-"PO-Revision-Date: 2024-05-25 12:40\n"
+"POT-Creation-Date: 2024-05-28 01:40+0000\n"
+"PO-Revision-Date: 2024-05-28 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -434,7 +434,7 @@ msgstr "Premium"
 
 #: templates/footer.html:65 web/views/battlegrounds.py:142
 #: web/views/battlegrounds.py:161 web/views/battlegrounds.py:174
-#: web/views/battlegrounds.py:229
+#: web/views/battlegrounds.py:187 web/views/battlegrounds.py:243
 msgid "Battlegrounds"
 msgstr "Campos de Batalla"
 
@@ -499,11 +499,11 @@ msgid "Parties"
 msgstr "Equipos"
 
 #: templates/navigation.html:78 web/views/battlegrounds.py:162
-#: web/views/battlegrounds.py:238
+#: web/views/battlegrounds.py:252
 msgid "Heroes"
 msgstr "Héroes"
 
-#: templates/navigation.html:90 web/views/battlegrounds.py:175
+#: templates/navigation.html:90 web/views/battlegrounds.py:188
 msgid "Darkmoon Prizes"
 msgstr "Premios de la Luna Negra"
 
@@ -790,46 +790,58 @@ msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best
 msgstr "Explora nuestra Lista de Nivel de Héroes de los Campos de Batalla y aprende qué héroe es el mejor - alimentado por datos de millones de juegos."
 
 #: web/views/battlegrounds.py:171
+msgid "Battlegrounds Duos Heroes"
+msgstr ""
+
+#: web/views/battlegrounds.py:175
+msgid "Duos Heroes"
+msgstr ""
+
+#: web/views/battlegrounds.py:184
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr "Premios de Luna Negra de Campos de batalla"
 
-#: web/views/battlegrounds.py:180 web/views/battlegrounds.py:206
+#: web/views/battlegrounds.py:193 web/views/battlegrounds.py:220
 msgid "Battlegrounds Hero"
 msgstr "Héroes de Campos de Batalla"
 
-#: web/views/battlegrounds.py:198
+#: web/views/battlegrounds.py:212
 msgid "No matching hero found."
 msgstr "Héroe no encontrado."
 
-#: web/views/battlegrounds.py:306
+#: web/views/battlegrounds.py:324
+msgid "Battlegrounds Duos Hero"
+msgstr ""
+
+#: web/views/battlegrounds.py:331
 msgid "Battlegrounds Minions"
 msgstr "Esbirros de Campos de Batalla"
 
-#: web/views/battlegrounds.py:311 web/views/battlegrounds.py:337
+#: web/views/battlegrounds.py:336 web/views/battlegrounds.py:362
 msgid "Battlegrounds Minion"
 msgstr "Esbirros de Campos de Batalla"
 
-#: web/views/battlegrounds.py:329
+#: web/views/battlegrounds.py:354
 msgid "No matching minion found."
 msgstr "No se encontraron esbirros que coincidan."
 
-#: web/views/battlegrounds.py:368
+#: web/views/battlegrounds.py:393
 msgid "Battlegrounds Compositions"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:373 web/views/battlegrounds.py:402
+#: web/views/battlegrounds.py:398 web/views/battlegrounds.py:427
 msgid "Battlegrounds Composition"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:395
+#: web/views/battlegrounds.py:420
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:397
+#: web/views/battlegrounds.py:422
 msgid "No matching composition found."
 msgstr "No se encontraron coincidencias."
 
-#: web/views/battlegrounds.py:464
+#: web/views/battlegrounds.py:489
 msgid "My Battlegrounds Stats"
 msgstr "Estadísticas de Mis Campos de Batalla"
 
