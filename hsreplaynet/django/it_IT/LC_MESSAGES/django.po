@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-28 01:40+0000\n"
-"PO-Revision-Date: 2024-05-28 12:40\n"
+"POT-Creation-Date: 2024-05-31 01:40+0000\n"
+"PO-Revision-Date: 2024-05-31 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -421,56 +421,46 @@ msgstr "Seguici su Instagram"
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Non affiliato a Blizzard Entertainment."
 
-#: templates/footer.html:63 templates/navigation.html:67
-#: templates/navigation.html:133 templates/navigation.html:193
+#: templates/footer.html:64 templates/navigation.html:67
+#: templates/navigation.html:133 templates/navigation.html:187
 #: web/views/__init__.py:187
 msgid "Downloads"
 msgstr "Downloads"
 
-#: templates/footer.html:64 templates/navigation.html:182
-#: templates/navigation.html:185 web/views/premium.py:31
+#: templates/footer.html:65 templates/navigation.html:176
+#: templates/navigation.html:179 web/views/premium.py:31
 msgid "Premium"
 msgstr "Premium"
-
-#: templates/footer.html:65 web/views/battlegrounds.py:142
-#: web/views/battlegrounds.py:161 web/views/battlegrounds.py:174
-#: web/views/battlegrounds.py:187 web/views/battlegrounds.py:243
-msgid "Battlegrounds"
-msgstr "Battlegrorounds"
 
 #: templates/footer.html:66 web/views/battlegrounds.py:143
 msgid "Tier7"
 msgstr "Tier7"
 
-#: templates/footer.html:67 web/views/mercenaries.py:137
-msgid "Mercenaries"
-msgstr "Mercenari"
-
-#: templates/footer.html:71
+#: templates/footer.html:70
 msgid "Support"
 msgstr "Assistenza"
 
-#: templates/footer.html:73
+#: templates/footer.html:72
 msgid "Your Account"
 msgstr "Il tuo Account"
 
-#: templates/footer.html:85
+#: templates/footer.html:84
 msgid "Help Center"
 msgstr "Centro Assistenza"
 
-#: templates/footer.html:87
+#: templates/footer.html:86
 msgid "Contact Us"
 msgstr "Contattaci"
 
-#: templates/footer.html:92
+#: templates/footer.html:91
 msgid "Legal"
 msgstr "Informazioni legali"
 
-#: templates/footer.html:95
+#: templates/footer.html:94
 msgid "Terms of Service"
 msgstr "Condizioni d'uso"
 
-#: templates/footer.html:98
+#: templates/footer.html:97
 msgid "Privacy Policy"
 msgstr "Informativa sulla privacy"
 
@@ -515,36 +505,32 @@ msgstr "Servitori"
 msgid "Compositions"
 msgstr "Composizioni"
 
-#: templates/navigation.html:125 templates/navigation.html:183
+#: templates/navigation.html:125 templates/navigation.html:177
 msgid "SALE!"
 msgstr "VENDITA!"
 
 #: templates/navigation.html:140
-msgid "Articles"
-msgstr "Articoli"
-
-#: templates/navigation.html:146
 msgid "Trending"
 msgstr "Tendenze"
 
-#: templates/navigation.html:154 templates/navigation.html:160
+#: templates/navigation.html:148 templates/navigation.html:154
 #: web/views/archetypes.py:38
 msgid "Meta"
 msgstr "Meta"
 
-#: templates/navigation.html:155
+#: templates/navigation.html:149
 msgid "Back soon!"
 msgstr "Torneremo presto!"
 
-#: templates/navigation.html:167 web/views/decks.py:34
+#: templates/navigation.html:161 web/views/decks.py:34
 msgid "Decks"
 msgstr "Mazzi"
 
-#: templates/navigation.html:173 web/views/cards.py:37 web/views/cards.py:168
+#: templates/navigation.html:167 web/views/cards.py:37 web/views/cards.py:168
 msgid "Cards"
 msgstr "Carte"
 
-#: templates/navigation.html:218
+#: templates/navigation.html:212
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "Stiamo aggiornando questa sezione con l'ultima patch del Battleground. Potresti incontrare informazione incomplete o vecchie."
 
@@ -777,6 +763,12 @@ msgstr "Archetipi"
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
 msgstr "Alza di livello il tuo stile di gioco con le statistiche di Battaglia all'interno di Tier7's, includendo le informazioni reperibili sui miglioti eroi, composizioni, servitori e molto altro!"
 
+#: web/views/battlegrounds.py:142 web/views/battlegrounds.py:161
+#: web/views/battlegrounds.py:174 web/views/battlegrounds.py:187
+#: web/views/battlegrounds.py:243
+msgid "Battlegrounds"
+msgstr "Battlegrorounds"
+
 #: web/views/battlegrounds.py:148
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr "HSReplay.net Tier7 Battlegroround"
@@ -979,6 +971,10 @@ msgstr "Home Mercenari"
 #: web/views/mercenaries.py:131
 msgid "Get all the information you need to win at Hearthstone Mercenaries with our Mercenaries stats and collection tracking. See top mercenaries tier lists and parties."
 msgstr "Trova tutte le informazioni che ti serveno a vincere in Mercenari con il nostro Tracking di collezione e statistiche di Mercenari. Vedi le migliori tier list e le migliori squadre di mercenari."
+
+#: web/views/mercenaries.py:137
+msgid "Mercenaries"
+msgstr "Mercenari"
 
 #: web/views/mercenaries.py:142
 msgid "Mercenaries Parties"
