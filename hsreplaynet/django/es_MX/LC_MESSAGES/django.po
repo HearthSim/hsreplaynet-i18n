@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-31 20:20+0000\n"
-"PO-Revision-Date: 2024-06-01 00:40\n"
+"POT-Creation-Date: 2024-06-01 01:40+0000\n"
+"PO-Revision-Date: 2024-06-01 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -489,11 +489,11 @@ msgid "Parties"
 msgstr "Equipos"
 
 #: templates/navigation.html:78 web/views/battlegrounds.py:162
-#: web/views/battlegrounds.py:252
+#: web/views/battlegrounds.py:255
 msgid "Heroes"
 msgstr "Héroes"
 
-#: templates/navigation.html:90 web/views/battlegrounds.py:188
+#: templates/navigation.html:90 web/views/battlegrounds.py:191
 msgid "Darkmoon Prizes"
 msgstr "Premios de la Luna Negra"
 
@@ -764,8 +764,8 @@ msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics,
 msgstr ""
 
 #: web/views/battlegrounds.py:142 web/views/battlegrounds.py:161
-#: web/views/battlegrounds.py:174 web/views/battlegrounds.py:187
-#: web/views/battlegrounds.py:243
+#: web/views/battlegrounds.py:174 web/views/battlegrounds.py:190
+#: web/views/battlegrounds.py:246
 msgid "Battlegrounds"
 msgstr "Campos de Batalla"
 
@@ -789,51 +789,51 @@ msgstr ""
 msgid "Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:184
+#: web/views/battlegrounds.py:187
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr "Premios de Luna Negra de Campos de batalla"
 
-#: web/views/battlegrounds.py:193
+#: web/views/battlegrounds.py:196
 msgid "Battlegrounds Hero"
 msgstr "Héroes de Campos de Batalla"
 
-#: web/views/battlegrounds.py:212
+#: web/views/battlegrounds.py:215
 msgid "No matching hero found."
 msgstr "Héroe no encontrado."
 
-#: web/views/battlegrounds.py:324
+#: web/views/battlegrounds.py:327
 msgid "Battlegrounds Duos Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:331
+#: web/views/battlegrounds.py:335
 msgid "Battlegrounds Minions"
 msgstr "Esbirros de Campos de Batalla"
 
-#: web/views/battlegrounds.py:336 web/views/battlegrounds.py:362
+#: web/views/battlegrounds.py:340 web/views/battlegrounds.py:366
 msgid "Battlegrounds Minion"
 msgstr "Esbirros de Campos de Batalla"
 
-#: web/views/battlegrounds.py:354
+#: web/views/battlegrounds.py:358
 msgid "No matching minion found."
 msgstr "No se encontraron esbirros que coincidan."
 
-#: web/views/battlegrounds.py:393
+#: web/views/battlegrounds.py:397
 msgid "Battlegrounds Compositions"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:398 web/views/battlegrounds.py:427
+#: web/views/battlegrounds.py:402 web/views/battlegrounds.py:431
 msgid "Battlegrounds Composition"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:420
+#: web/views/battlegrounds.py:424
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:422
+#: web/views/battlegrounds.py:426
 msgid "No matching composition found."
 msgstr "No se encontraron coincidencias."
 
-#: web/views/battlegrounds.py:489
+#: web/views/battlegrounds.py:493
 msgid "My Battlegrounds Stats"
 msgstr "Estadísticas de Mis Campos de Batalla"
 
