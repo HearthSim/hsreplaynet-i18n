@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-01 01:40+0000\n"
-"PO-Revision-Date: 2024-06-01 12:40\n"
+"POT-Creation-Date: 2024-06-05 01:40+0000\n"
+"PO-Revision-Date: 2024-06-05 12:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -431,7 +431,7 @@ msgstr "Téléchargements"
 msgid "Premium"
 msgstr "Premium"
 
-#: templates/footer.html:66 web/views/battlegrounds.py:143
+#: templates/footer.html:66 web/views/battlegrounds.py:141
 msgid "Tier7"
 msgstr "Tier7"
 
@@ -487,12 +487,12 @@ msgstr "Tier List"
 msgid "Parties"
 msgstr "Groupes"
 
-#: templates/navigation.html:78 web/views/battlegrounds.py:162
-#: web/views/battlegrounds.py:255
+#: templates/navigation.html:78 web/views/battlegrounds.py:160
+#: web/views/battlegrounds.py:253
 msgid "Heroes"
 msgstr "Héros"
 
-#: templates/navigation.html:90 web/views/battlegrounds.py:191
+#: templates/navigation.html:90 web/views/battlegrounds.py:189
 msgid "Darkmoon Prizes"
 msgstr "Prix de Sombrelune"
 
@@ -689,15 +689,15 @@ msgstr "Regardez et partagez les rediffusions directement à partir de votre nav
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - Jouez Pro"
 
-#: web/views/__init__.py:175 web/views/battlegrounds.py:112
+#: web/views/__init__.py:175 web/views/battlegrounds.py:110
 msgid "Download Hearthstone Deck Tracker"
 msgstr "Télécharger Hearthstone Deck Tracker"
 
-#: web/views/__init__.py:177 web/views/battlegrounds.py:114
+#: web/views/__init__.py:177 web/views/battlegrounds.py:112
 msgid "HSReplay.net Companion App"
 msgstr "App HSReplay.net associée"
 
-#: web/views/__init__.py:179 web/views/battlegrounds.py:116
+#: web/views/__init__.py:179 web/views/battlegrounds.py:114
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "Hearthstone Deck Tracker est une application gratuite pour vous aider à jouer comme les pros."
 
@@ -758,81 +758,81 @@ msgstr "Trouver les stats et les différentes decklists {name}."
 msgid "Archetypes"
 msgstr "Archétypes"
 
-#: web/views/battlegrounds.py:132
+#: web/views/battlegrounds.py:130
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
 msgstr ""
 
-#: web/views/battlegrounds.py:142 web/views/battlegrounds.py:161
-#: web/views/battlegrounds.py:174 web/views/battlegrounds.py:190
-#: web/views/battlegrounds.py:246
+#: web/views/battlegrounds.py:140 web/views/battlegrounds.py:159
+#: web/views/battlegrounds.py:172 web/views/battlegrounds.py:188
+#: web/views/battlegrounds.py:244
 msgid "Battlegrounds"
 msgstr "Champs de bataille"
 
-#: web/views/battlegrounds.py:148
+#: web/views/battlegrounds.py:146
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr "HSReplay.net Tier7 pour Champs de Bataille"
 
-#: web/views/battlegrounds.py:153
+#: web/views/battlegrounds.py:151
 msgid "Battlegrounds Heroes"
 msgstr "Héros des Champs de bataille"
 
-#: web/views/battlegrounds.py:155
+#: web/views/battlegrounds.py:153
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr "Explorez notre Tier List de héros de Champs de bataille et apprenez quel héros est le meilleur grâce aux données de millions de parties."
 
-#: web/views/battlegrounds.py:171
+#: web/views/battlegrounds.py:169
 msgid "Battlegrounds Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:175
+#: web/views/battlegrounds.py:173
 msgid "Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:187
+#: web/views/battlegrounds.py:185
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr "Prix de Sombrelune du Champ de batailles"
 
-#: web/views/battlegrounds.py:196
+#: web/views/battlegrounds.py:194
 msgid "Battlegrounds Hero"
 msgstr "Héros des Champs de bataille"
 
-#: web/views/battlegrounds.py:215
+#: web/views/battlegrounds.py:213
 msgid "No matching hero found."
 msgstr "Pas de héros correspondant trouvé."
 
-#: web/views/battlegrounds.py:327
+#: web/views/battlegrounds.py:325
 msgid "Battlegrounds Duos Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:335
+#: web/views/battlegrounds.py:333
 msgid "Battlegrounds Minions"
 msgstr "Serviteurs des Champs de bataille"
 
-#: web/views/battlegrounds.py:340 web/views/battlegrounds.py:366
+#: web/views/battlegrounds.py:338 web/views/battlegrounds.py:364
 msgid "Battlegrounds Minion"
 msgstr "Serviteur des Champs de bataille"
 
-#: web/views/battlegrounds.py:358
+#: web/views/battlegrounds.py:356
 msgid "No matching minion found."
 msgstr "Pas de serviteur correspondant trouvé."
 
-#: web/views/battlegrounds.py:397
+#: web/views/battlegrounds.py:395
 msgid "Battlegrounds Compositions"
 msgstr "Compositions des Champs de bataille"
 
-#: web/views/battlegrounds.py:402 web/views/battlegrounds.py:431
+#: web/views/battlegrounds.py:400 web/views/battlegrounds.py:429
 msgid "Battlegrounds Composition"
 msgstr "Composition des Champs de bataille"
 
-#: web/views/battlegrounds.py:424
+#: web/views/battlegrounds.py:422
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:426
+#: web/views/battlegrounds.py:424
 msgid "No matching composition found."
 msgstr "Pas de composition correspondante trouvée."
 
-#: web/views/battlegrounds.py:493
+#: web/views/battlegrounds.py:482
 msgid "My Battlegrounds Stats"
 msgstr ""
 
