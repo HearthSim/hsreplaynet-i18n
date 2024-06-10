@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-05 01:40+0000\n"
-"PO-Revision-Date: 2024-06-05 12:40\n"
+"PO-Revision-Date: 2024-06-10 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -572,12 +572,12 @@ msgstr "Por favor, inténtalo de nuevo en unos minutos."
 #: templates/socialaccount/authentication_error.html:26
 #, python-format
 msgid "If you keep seeing this error, you can <a href=\"%(contact_url)s\">contact us</a> with the following error reference: <code>%(sentry_event_id)s</code>"
-msgstr ""
+msgstr "Si continuas viendo este error, puedes <a href=\"%(contact_url)s\">contactarnos</a> con el siguiente código de error de referencia: <code>%(sentry_event_id)s</code>"
 
 #: templates/socialaccount/authentication_error.html:30
 #, python-format
 msgid "If you keep seeing this error, you can <a href=\"%(contact_url)s\">contact us</a>."
-msgstr ""
+msgstr "Si continuas viendo este error, puedes <a href=\"%(contact_url)s\">contáctanos</a>."
 
 #: templates/socialaccount/authentication_error.html:50
 msgid "Back to the office."
@@ -761,7 +761,7 @@ msgstr "Arquetipos"
 
 #: web/views/battlegrounds.py:130
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
-msgstr ""
+msgstr "¡Sube de nivel tu juego con las estadísticas más profundas en Campos de batalla con Tier7, incluyendo información sobre los mejores héroes, composiciones, esbirros y más!"
 
 #: web/views/battlegrounds.py:140 web/views/battlegrounds.py:159
 #: web/views/battlegrounds.py:172 web/views/battlegrounds.py:188
@@ -783,11 +783,11 @@ msgstr "Explora nuestra Lista de Nivel de Héroes de los Campos de Batalla y apr
 
 #: web/views/battlegrounds.py:169
 msgid "Battlegrounds Duos Heroes"
-msgstr ""
+msgstr "Campos de batalla Héroes Duales"
 
 #: web/views/battlegrounds.py:173
 msgid "Duos Heroes"
-msgstr ""
+msgstr "Héroes Duales"
 
 #: web/views/battlegrounds.py:185
 msgid "Battlegrounds Darkmoon Prizes"
@@ -803,7 +803,7 @@ msgstr "Héroe no encontrado."
 
 #: web/views/battlegrounds.py:325
 msgid "Battlegrounds Duos Hero"
-msgstr ""
+msgstr "Campo de Batalla Héroes Duales"
 
 #: web/views/battlegrounds.py:333
 msgid "Battlegrounds Minions"
