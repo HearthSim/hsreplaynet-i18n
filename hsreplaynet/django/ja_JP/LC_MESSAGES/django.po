@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-05 01:40+0000\n"
-"PO-Revision-Date: 2024-06-05 12:40\n"
+"POT-Creation-Date: 2024-06-13 01:40+0000\n"
+"PO-Revision-Date: 2024-06-13 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -180,7 +180,7 @@ msgstr "接続"
 msgid "Applications"
 msgstr "アプリケーション"
 
-#: templates/account/base.html:22 templates/account/login.html:81
+#: templates/account/base.html:22 templates/account/login.html:70
 #: templates/account/signup.html:33
 msgid "Password"
 msgstr "パスワード"
@@ -282,40 +282,40 @@ msgid "Hello %(user)s!\n\n"
 "The HSReplay.net Team\n"
 msgstr ""
 
-#: templates/account/login.html:25
+#: templates/account/login.html:14
 #, python-format
 msgid "Sign in to continue to %(oauth2_client)s"
 msgstr ""
 
-#: templates/account/login.html:30
+#: templates/account/login.html:19
 msgid "We'll send you to the official Blizzard site where you can securely sign in."
 msgstr ""
 
-#: templates/account/login.html:32
+#: templates/account/login.html:21
 msgid "Blizzard will redirect you back here once you're done."
 msgstr ""
 
-#: templates/account/login.html:46
+#: templates/account/login.html:35
 msgid "Log in with Blizzard"
 msgstr "Blizzardでログイン"
 
-#: templates/account/login.html:51
+#: templates/account/login.html:40
 msgid "Region"
 msgstr "地域"
 
-#: templates/account/login.html:60
+#: templates/account/login.html:49
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
 msgstr "HSReplay.netは決してあなたのBlizzardのメールアドレスやパスワードにアクセスしません。"
 
-#: templates/account/login.html:70
+#: templates/account/login.html:59
 msgid "Not using a Blizzard account? Sign in with your username and password here."
 msgstr "Blizzardのアカウントをお持ちですか？　ユーザー名とパスワードを入力し、サインインしてください。"
 
-#: templates/account/login.html:80 templates/account/signup.html:27
+#: templates/account/login.html:69 templates/account/signup.html:27
 msgid "Username"
 msgstr "ユーザー名"
 
-#: templates/account/login.html:84
+#: templates/account/login.html:73
 msgid "Sign in"
 msgstr "サインイン"
 

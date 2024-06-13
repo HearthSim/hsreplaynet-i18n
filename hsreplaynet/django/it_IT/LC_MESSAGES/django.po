@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-05 01:40+0000\n"
-"PO-Revision-Date: 2024-06-05 12:40\n"
+"POT-Creation-Date: 2024-06-13 01:40+0000\n"
+"PO-Revision-Date: 2024-06-13 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -180,7 +180,7 @@ msgstr "Connessioni"
 msgid "Applications"
 msgstr "Applicazioni"
 
-#: templates/account/base.html:22 templates/account/login.html:81
+#: templates/account/base.html:22 templates/account/login.html:70
 #: templates/account/signup.html:33
 msgid "Password"
 msgstr "Password"
@@ -288,40 +288,40 @@ msgstr "Ciao %(user)s!\n\n"
 "Saluti,\n"
 "Il Team HSReplay.net\n"
 
-#: templates/account/login.html:25
+#: templates/account/login.html:14
 #, python-format
 msgid "Sign in to continue to %(oauth2_client)s"
 msgstr "Accedi per continuare a %(oauth2_client)s"
 
-#: templates/account/login.html:30
+#: templates/account/login.html:19
 msgid "We'll send you to the official Blizzard site where you can securely sign in."
 msgstr "Ti reindirizzeremo al sito ufficiale Blizzard, dove potrai accedere in modo sicuro."
 
-#: templates/account/login.html:32
+#: templates/account/login.html:21
 msgid "Blizzard will redirect you back here once you're done."
 msgstr "Blizzard ti reindirizzerà qui una volta terminato."
 
-#: templates/account/login.html:46
+#: templates/account/login.html:35
 msgid "Log in with Blizzard"
 msgstr "Accedi tramite Blizzard"
 
-#: templates/account/login.html:51
+#: templates/account/login.html:40
 msgid "Region"
 msgstr "Regione"
 
-#: templates/account/login.html:60
+#: templates/account/login.html:49
 msgid "HSReplay.net never gains access to your Blizzard email address or password."
 msgstr "HSReplay.net non otterrà mai l'accesso al tuo indirizzo email o password di Blizzard."
 
-#: templates/account/login.html:70
+#: templates/account/login.html:59
 msgid "Not using a Blizzard account? Sign in with your username and password here."
 msgstr "Non utilizzi un account Blizzard? Accedi con il tuo nome utente e password qui."
 
-#: templates/account/login.html:80 templates/account/signup.html:27
+#: templates/account/login.html:69 templates/account/signup.html:27
 msgid "Username"
 msgstr "Nome utente"
 
-#: templates/account/login.html:84
+#: templates/account/login.html:73
 msgid "Sign in"
 msgstr "Accedi"
 
