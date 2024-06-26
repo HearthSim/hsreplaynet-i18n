@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-18T01:40:29.634305\n"
+"POT-Creation-Date: 2024-06-26T01:40:24.594172\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Thai\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: th_TH\n"
-"PO-Revision-Date: 2024-05-18 12:40\n"
+"PO-Revision-Date: 2024-06-26 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -127,6 +127,10 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/660/highlander-rainbow-death-knight
 msgid "Highlander Rainbow Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/671/mining-death-knight
+msgid "Mining Death Knight"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/13/cthun-druid
@@ -345,10 +349,6 @@ msgstr ""
 msgid "Pick Pocket Rogue"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/220/even-shaman
-msgid "Even Shaman"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/224/odd-quest-warrior
 msgid "Odd Quest Warrior"
 msgstr ""
@@ -441,6 +441,10 @@ msgstr ""
 msgid "Control Shaman"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/234/even-hunter
+msgid "Even Hunter"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/213/dragon-hunter
 msgid "Dragon Hunter"
 msgstr ""
@@ -517,10 +521,6 @@ msgstr ""
 msgid "Odd Rogue"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/223/odd-warrior
-msgid "Odd Warrior"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/247/mechathun-druid
 msgid "Mecha'thun Druid"
 msgstr ""
@@ -533,20 +533,12 @@ msgstr ""
 msgid "Whirlwind Warrior"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/231/even-warlock
-msgid "Even Warlock"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/232/deathrattle-priest
 msgid "Deathrattle Priest"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/233/otk-hunter
 msgid "OTK Hunter"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/234/even-hunter
-msgid "Even Hunter"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/235/murloc-mage
@@ -697,6 +689,14 @@ msgstr ""
 msgid "Big Druid"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/231/even-warlock
+msgid "Even Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/223/odd-warrior
+msgid "Odd Warrior"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/460/secret-libram-paladin
 msgid "Secret Libram Paladin"
 msgstr ""
@@ -755,6 +755,10 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/289/plot-twist-warlock
 msgid "Plot Twist Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/672/even-death-knight
+msgid "Even Death Knight"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/292/khadgar-dragon-mage
@@ -1231,6 +1235,10 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/417/enhancement-shaman
 msgid "Enhancement Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/673/odd-demon-hunter
+msgid "Odd Demon Hunter"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/141/secret-mage
@@ -2203,5 +2211,21 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/670/dummy-warrior
 msgid "Dummy Warrior"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/674/highlander-odd-demon-hunter
+msgid "Highlander Odd Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/675/combo-druid
+msgid "Combo Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/676/even-druid
+msgid "Even Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/220/even-shaman
+msgid "Even Shaman"
 msgstr ""
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-05-18T01:40:29.634305\n"
+"POT-Creation-Date: 2024-06-26T01:40:24.594172\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2024-06-10 00:40\n"
+"PO-Revision-Date: 2024-06-26 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -127,6 +127,10 @@ msgstr "Druida Tambores"
 
 #: https://hsreplay.net/archetypes/660/highlander-rainbow-death-knight
 msgid "Highlander Rainbow Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/671/mining-death-knight
+msgid "Mining Death Knight"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/13/cthun-druid
@@ -345,10 +349,6 @@ msgstr "Paladín Impar"
 msgid "Pick Pocket Rogue"
 msgstr "Pícaro Ladron"
 
-#: https://hsreplay.net/archetypes/220/even-shaman
-msgid "Even Shaman"
-msgstr "Chaman Par"
-
 #: https://hsreplay.net/archetypes/224/odd-quest-warrior
 msgid "Odd Quest Warrior"
 msgstr "Guerrero Misión Impar"
@@ -441,6 +441,10 @@ msgstr "Pícaro Misión"
 msgid "Control Shaman"
 msgstr "Chaman Control"
 
+#: https://hsreplay.net/archetypes/234/even-hunter
+msgid "Even Hunter"
+msgstr "Cazador Par"
+
 #: https://hsreplay.net/archetypes/213/dragon-hunter
 msgid "Dragon Hunter"
 msgstr "Cazador Dragones"
@@ -517,10 +521,6 @@ msgstr "Sacerdote Impar"
 msgid "Odd Rogue"
 msgstr "Pícaro Impar"
 
-#: https://hsreplay.net/archetypes/223/odd-warrior
-msgid "Odd Warrior"
-msgstr "Guerrero Impar"
-
 #: https://hsreplay.net/archetypes/247/mechathun-druid
 msgid "Mecha'thun Druid"
 msgstr "Druida Mecha'thun"
@@ -533,10 +533,6 @@ msgstr "Brujo Eco"
 msgid "Whirlwind Warrior"
 msgstr "Guerrero Remolino"
 
-#: https://hsreplay.net/archetypes/231/even-warlock
-msgid "Even Warlock"
-msgstr "Brujo Par"
-
 #: https://hsreplay.net/archetypes/232/deathrattle-priest
 msgid "Deathrattle Priest"
 msgstr "Sacerdote Ultimos Alientos"
@@ -544,10 +540,6 @@ msgstr "Sacerdote Ultimos Alientos"
 #: https://hsreplay.net/archetypes/233/otk-hunter
 msgid "OTK Hunter"
 msgstr "Cazador OTK"
-
-#: https://hsreplay.net/archetypes/234/even-hunter
-msgid "Even Hunter"
-msgstr "Cazador Par"
 
 #: https://hsreplay.net/archetypes/235/murloc-mage
 msgid "Murloc Mage"
@@ -697,6 +689,14 @@ msgstr "Paladín Murlocs"
 msgid "Big Druid"
 msgstr "Druida Big"
 
+#: https://hsreplay.net/archetypes/231/even-warlock
+msgid "Even Warlock"
+msgstr "Brujo Par"
+
+#: https://hsreplay.net/archetypes/223/odd-warrior
+msgid "Odd Warrior"
+msgstr "Guerrero Impar"
+
 #: https://hsreplay.net/archetypes/460/secret-libram-paladin
 msgid "Secret Libram Paladin"
 msgstr "Paladin Tratados y Secretos"
@@ -756,6 +756,10 @@ msgstr "Pícaro Tempo"
 #: https://hsreplay.net/archetypes/289/plot-twist-warlock
 msgid "Plot Twist Warlock"
 msgstr "Brujo Plot Twist"
+
+#: https://hsreplay.net/archetypes/672/even-death-knight
+msgid "Even Death Knight"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/292/khadgar-dragon-mage
 msgid "Khadgar Dragon Mage"
@@ -1232,6 +1236,10 @@ msgstr "Picaro Maestra de Combos"
 #: https://hsreplay.net/archetypes/417/enhancement-shaman
 msgid "Enhancement Shaman"
 msgstr "Chamán Encantamientos"
+
+#: https://hsreplay.net/archetypes/673/odd-demon-hunter
+msgid "Odd Demon Hunter"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/141/secret-mage
 msgid "Secret Mage"
@@ -2204,4 +2212,20 @@ msgstr "Guerrero Bombas"
 #: https://hsreplay.net/archetypes/670/dummy-warrior
 msgid "Dummy Warrior"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/674/highlander-odd-demon-hunter
+msgid "Highlander Odd Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/675/combo-druid
+msgid "Combo Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/676/even-druid
+msgid "Even Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/220/even-shaman
+msgid "Even Shaman"
+msgstr "Chaman Par"
 
