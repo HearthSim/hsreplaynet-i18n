@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-06-14 01:40+0000\n"
-"PO-Revision-Date: 2024-07-09 12:40\n"
+"PO-Revision-Date: 2024-07-13 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -23,7 +23,7 @@ msgstr "Una puerta de enlace principal devolvió una respuesta no válida."
 
 #: api/exceptions.py:23
 msgid "An upstream gateway timed out."
-msgstr ""
+msgstr "Se ha agotado el tiempo de espera."
 
 #: api/exceptions.py:29
 msgid "The entity cannot be processed."
@@ -827,7 +827,7 @@ msgstr "Composiciones de Campos de Batalla"
 
 #: web/views/battlegrounds.py:422
 msgid "No matching live or lingering composition found."
-msgstr ""
+msgstr "Ninguna composición en vivo se encontró."
 
 #: web/views/battlegrounds.py:424
 msgid "No matching composition found."
