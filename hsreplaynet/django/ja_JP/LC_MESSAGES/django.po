@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-14 01:40+0000\n"
-"PO-Revision-Date: 2024-06-26 12:40\n"
+"POT-Creation-Date: 2024-07-13 01:40+0000\n"
+"PO-Revision-Date: 2024-07-13 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -483,7 +483,7 @@ msgid "Parties"
 msgstr ""
 
 #: templates/navigation.html:78 web/views/battlegrounds.py:160
-#: web/views/battlegrounds.py:253
+#: web/views/battlegrounds.py:254
 msgid "Heroes"
 msgstr "ヒーロー"
 
@@ -759,7 +759,7 @@ msgstr ""
 
 #: web/views/battlegrounds.py:140 web/views/battlegrounds.py:159
 #: web/views/battlegrounds.py:172 web/views/battlegrounds.py:188
-#: web/views/battlegrounds.py:244
+#: web/views/battlegrounds.py:245
 msgid "Battlegrounds"
 msgstr "バトルグラウンド"
 
@@ -791,43 +791,43 @@ msgstr ""
 msgid "Battlegrounds Hero"
 msgstr "バトルグラウンド ヒーロー"
 
-#: web/views/battlegrounds.py:213
+#: web/views/battlegrounds.py:214
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:325
+#: web/views/battlegrounds.py:326
 msgid "Battlegrounds Duos Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:333
+#: web/views/battlegrounds.py:334
 msgid "Battlegrounds Minions"
 msgstr "バトルグラウンド ミニオン"
 
-#: web/views/battlegrounds.py:338 web/views/battlegrounds.py:364
+#: web/views/battlegrounds.py:339 web/views/battlegrounds.py:365
 msgid "Battlegrounds Minion"
 msgstr "バトルグラウンド ミニオン"
 
-#: web/views/battlegrounds.py:356
+#: web/views/battlegrounds.py:357
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:395
+#: web/views/battlegrounds.py:396
 msgid "Battlegrounds Compositions"
 msgstr "バトルグラウンド 構成"
 
-#: web/views/battlegrounds.py:400 web/views/battlegrounds.py:429
+#: web/views/battlegrounds.py:401 web/views/battlegrounds.py:430
 msgid "Battlegrounds Composition"
 msgstr "バトルグラウンド 構成"
 
-#: web/views/battlegrounds.py:422
+#: web/views/battlegrounds.py:423
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:424
+#: web/views/battlegrounds.py:425
 msgid "No matching composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:482
+#: web/views/battlegrounds.py:483
 msgid "My Battlegrounds Stats"
 msgstr ""
 
