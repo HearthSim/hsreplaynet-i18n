@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-18 01:40+0000\n"
+"POT-Creation-Date: 2024-07-19 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -304,7 +304,7 @@ msgstr ""
 
 #: templates/account/login.html:14
 #, python-format
-msgid "Sign in to continue to %(oauth2_client)s"
+msgid "Sign in to connect %(oauth2_client)s"
 msgstr ""
 
 #: templates/account/login.html:19
@@ -748,6 +748,10 @@ msgstr ""
 msgid "HSReplay.net - Unleash your potential"
 msgstr ""
 
+#: web/views/__init__.py:133 web/views/oauth2.py:40
+msgid "Sign in to HSReplay.net"
+msgstr ""
+
 #: web/views/__init__.py:175 web/views/battlegrounds.py:110
 msgid "Download Hearthstone Deck Tracker"
 msgstr ""
@@ -1063,7 +1067,12 @@ msgstr ""
 msgid "Mercenaries Tier List"
 msgstr ""
 
-#: web/views/oauth2.py:60
+#: web/views/oauth2.py:35
+#, python-format
+msgid "Connect %(application)s"
+msgstr ""
+
+#: web/views/oauth2.py:76
 msgid "Access has been revoked."
 msgstr ""
 
