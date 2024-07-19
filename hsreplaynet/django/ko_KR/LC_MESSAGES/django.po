@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-13 01:40+0000\n"
-"PO-Revision-Date: 2024-07-13 12:40\n"
+"POT-Creation-Date: 2024-07-19 01:40+0000\n"
+"PO-Revision-Date: 2024-07-19 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -290,8 +290,8 @@ msgstr "안녕하세요 %(user)s님!\n\n"
 
 #: templates/account/login.html:14
 #, python-format
-msgid "Sign in to continue to %(oauth2_client)s"
-msgstr "%(oauth2_client)s으로 로그인"
+msgid "Sign in to connect %(oauth2_client)s"
+msgstr ""
 
 #: templates/account/login.html:19
 msgid "We'll send you to the official Blizzard site where you can securely sign in."
@@ -690,6 +690,10 @@ msgstr ""
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - 하스스톤 승률통계"
 
+#: web/views/__init__.py:133 web/views/oauth2.py:40
+msgid "Sign in to HSReplay.net"
+msgstr ""
+
 #: web/views/__init__.py:175 web/views/battlegrounds.py:110
 msgid "Download Hearthstone Deck Tracker"
 msgstr "하스스톤 덱 트래커 다운로드"
@@ -984,7 +988,12 @@ msgstr ""
 msgid "Mercenaries Tier List"
 msgstr ""
 
-#: web/views/oauth2.py:60
+#: web/views/oauth2.py:35
+#, python-format
+msgid "Connect %(application)s"
+msgstr ""
+
+#: web/views/oauth2.py:76
 msgid "Access has been revoked."
 msgstr "액세스가 취소되었습니다."
 
