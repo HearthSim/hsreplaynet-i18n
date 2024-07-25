@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-06-26T01:40:24.594172\n"
+"POT-Creation-Date: 2024-07-25T01:40:26.754950\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-06-26 12:40\n"
+"PO-Revision-Date: 2024-07-25 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -147,6 +147,10 @@ msgstr "Démoniste défausse"
 
 #: https://hsreplay.net/archetypes/639/cleave-hunter
 msgid "Cleave Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/678/infinite-death-knight
+msgid "Infinite Death Knight"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/22/pirate-warrior
@@ -1493,10 +1497,6 @@ msgstr "Prêtre sangliers"
 msgid "Quest Zoo Warlock"
 msgstr "Démoniste quête zoo"
 
-#: https://hsreplay.net/archetypes/182/big-spell-mage
-msgid "Big Spell Mage"
-msgstr "Mage gros sorts"
-
 #: https://hsreplay.net/archetypes/550/shark-rogue
 msgid "Shark Rogue"
 msgstr "Voleur requins"
@@ -1549,10 +1549,6 @@ msgstr "Guerrier charge"
 msgid "Secret Thief Rogue"
 msgstr "Voleur secrets vol"
 
-#: https://hsreplay.net/archetypes/512/ramp-druid
-msgid "Ramp Druid"
-msgstr "Druide gain de mana"
-
 #: https://hsreplay.net/archetypes/513/cute-rogue
 msgid "Cute Rogue"
 msgstr "Voleur mignon"
@@ -1588,10 +1584,6 @@ msgstr "Paladin aggro"
 #: https://hsreplay.net/archetypes/314/highlander-quest-priest
 msgid "Highlander Quest Priest"
 msgstr "Prêtre quête Highlander"
-
-#: https://hsreplay.net/archetypes/519/rainbow-shaman
-msgid "Rainbow Shaman"
-msgstr "Chaman arc-en-ciel"
 
 #: https://hsreplay.net/archetypes/520/pirahna-shaman
 msgid "Pirahna Shaman"
@@ -1721,13 +1713,17 @@ msgstr "Guerrier ménagerie"
 msgid "Burn Shaman"
 msgstr "Chaman burn"
 
+#: https://hsreplay.net/archetypes/182/big-spell-mage
+msgid "Big Spell Mage"
+msgstr "Mage gros sorts"
+
+#: https://hsreplay.net/archetypes/519/rainbow-shaman
+msgid "Rainbow Shaman"
+msgstr "Chaman arc-en-ciel"
+
 #: https://hsreplay.net/archetypes/201/totem-shaman
 msgid "Totem Shaman"
 msgstr "Chaman totems"
-
-#: https://hsreplay.net/archetypes/149/taunt-druid
-msgid "Taunt Druid"
-msgstr "Druide provocations"
 
 #: https://hsreplay.net/archetypes/129/big-priest
 msgid "Big Priest"
@@ -2021,10 +2017,6 @@ msgstr ""
 msgid "Highlander Druid"
 msgstr "Druide Highlander"
 
-#: https://hsreplay.net/archetypes/170/beast-hunter
-msgid "Beast Hunter"
-msgstr "Chasseur bêtes"
-
 #: https://hsreplay.net/archetypes/628/excavate-mage
 msgid "Excavate Mage"
 msgstr ""
@@ -2228,4 +2220,72 @@ msgstr ""
 #: https://hsreplay.net/archetypes/220/even-shaman
 msgid "Even Shaman"
 msgstr "Chaman pair"
+
+#: https://hsreplay.net/archetypes/677/rainbow-tourist-death-knight
+msgid "Rainbow Tourist Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/679/pirate-demon-hunter
+msgid "Pirate Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/680/fatigue-demon-hunter
+msgid "Fatigue Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/681/pain-demon-hunter
+msgid "Pain Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/149/taunt-druid
+msgid "Taunt Druid"
+msgstr "Druide provocations"
+
+#: https://hsreplay.net/archetypes/512/ramp-druid
+msgid "Ramp Druid"
+msgstr "Druide gain de mana"
+
+#: https://hsreplay.net/archetypes/682/buffet-hunter
+msgid "Buffet Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/683/amalgam-hunter
+msgid "Amalgam Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/684/sandwich-hunter
+msgid "Sandwich Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/170/beast-hunter
+msgid "Beast Hunter"
+msgstr "Chasseur bêtes"
+
+#: https://hsreplay.net/archetypes/685/tourist-paladin
+msgid "Tourist Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/686/tourist-mage
+msgid "Tourist Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/687/pirate-shaman
+msgid "Pirate Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/688/incindius-shaman
+msgid "Incindius Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/689/deathrattle-token-warlock
+msgid "Deathrattle Token Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/690/virus-control-warrior
+msgid "Virus Control Warrior"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/691/sandwich-warrior
+msgid "Sandwich Warrior"
+msgstr ""
 
