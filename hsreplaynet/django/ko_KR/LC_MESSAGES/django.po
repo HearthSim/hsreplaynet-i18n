@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-19 01:40+0000\n"
-"PO-Revision-Date: 2024-07-19 12:40\n"
+"POT-Creation-Date: 2024-07-29 01:40+0000\n"
+"PO-Revision-Date: 2024-07-29 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -423,7 +423,7 @@ msgstr ""
 
 #: templates/footer.html:64 templates/navigation.html:67
 #: templates/navigation.html:133 templates/navigation.html:187
-#: web/views/__init__.py:187
+#: web/views/__init__.py:171
 msgid "Downloads"
 msgstr "다운로드"
 
@@ -514,7 +514,7 @@ msgid "Trending"
 msgstr "떠오르는 덱"
 
 #: templates/navigation.html:148 templates/navigation.html:154
-#: web/views/archetypes.py:38
+#: web/views/archetypes.py:39
 msgid "Meta"
 msgstr "최신유행"
 
@@ -682,85 +682,85 @@ msgstr ""
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
 msgstr ""
 
-#: web/views/__init__.py:25
+#: web/views/__init__.py:24
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr ""
 
-#: web/views/__init__.py:52
+#: web/views/__init__.py:36
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - 하스스톤 승률통계"
 
-#: web/views/__init__.py:133 web/views/oauth2.py:40
+#: web/views/__init__.py:117 web/views/oauth2.py:40
 msgid "Sign in to HSReplay.net"
 msgstr ""
 
-#: web/views/__init__.py:175 web/views/battlegrounds.py:110
+#: web/views/__init__.py:159 web/views/battlegrounds.py:110
 msgid "Download Hearthstone Deck Tracker"
 msgstr "하스스톤 덱 트래커 다운로드"
 
-#: web/views/__init__.py:177 web/views/battlegrounds.py:112
+#: web/views/__init__.py:161 web/views/battlegrounds.py:112
 msgid "HSReplay.net Companion App"
 msgstr "HSReplay.net 컴패니언 앱"
 
-#: web/views/__init__.py:179 web/views/battlegrounds.py:114
+#: web/views/__init__.py:163 web/views/battlegrounds.py:114
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "하스스톤 덱 트래커는 당신이 프로들처럼 플레이 할 수 있게 도와주는 무료 프로그램입니다."
 
-#: web/views/__init__.py:247
+#: web/views/__init__.py:231
 msgid "Contact our Support Team"
 msgstr ""
 
-#: web/views/__init__.py:249
+#: web/views/__init__.py:233
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr ""
 
-#: web/views/__init__.py:307
+#: web/views/__init__.py:291
 msgid "Welcome to HSReplay.net"
 msgstr ""
 
-#: web/views/__init__.py:309
+#: web/views/__init__.py:293
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr ""
 
-#: web/views/__init__.py:320
+#: web/views/__init__.py:304
 msgid "Welcome to Hearthstone Deck Tracker"
 msgstr ""
 
-#: web/views/__init__.py:322
+#: web/views/__init__.py:306
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
 msgstr ""
 
-#: web/views/archetypes.py:30
+#: web/views/archetypes.py:31
 msgid "Hearthstone Meta"
 msgstr "하스스톤 메타"
 
-#: web/views/archetypes.py:32
+#: web/views/archetypes.py:33
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr ""
 
-#: web/views/archetypes.py:55
+#: web/views/archetypes.py:56
 msgid "Discover"
 msgstr "발견하기"
 
-#: web/views/archetypes.py:57
+#: web/views/archetypes.py:58
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr ""
 
-#: web/views/archetypes.py:73
+#: web/views/archetypes.py:74
 msgid "Archetype"
 msgstr "아키타입"
 
-#: web/views/archetypes.py:79
+#: web/views/archetypes.py:80
 msgid "This archetype is no longer available."
 msgstr "이 아키타입은 더 이상 유효하지 않습니다."
 
-#: web/views/archetypes.py:87
-#, python-brace-format
-msgid "Find stats and different {name} decklists."
+#: web/views/archetypes.py:110
+msgid "Archetypes"
 msgstr ""
 
-#: web/views/archetypes.py:115
-msgid "Archetypes"
+#: web/views/archetypes.py:130
+#, python-brace-format
+msgid "Find stats and different {name} decklists."
 msgstr ""
 
 #: web/views/battlegrounds.py:130

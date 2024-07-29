@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-07-19 01:40+0000\n"
-"PO-Revision-Date: 2024-07-19 12:40\n"
+"POT-Creation-Date: 2024-07-29 01:40+0000\n"
+"PO-Revision-Date: 2024-07-29 12:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -422,7 +422,7 @@ msgstr "Non affilié à Blizzard Entertainment."
 
 #: templates/footer.html:64 templates/navigation.html:67
 #: templates/navigation.html:133 templates/navigation.html:187
-#: web/views/__init__.py:187
+#: web/views/__init__.py:171
 msgid "Downloads"
 msgstr "Téléchargements"
 
@@ -513,7 +513,7 @@ msgid "Trending"
 msgstr "Tendances"
 
 #: templates/navigation.html:148 templates/navigation.html:154
-#: web/views/archetypes.py:38
+#: web/views/archetypes.py:39
 msgid "Meta"
 msgstr "Meta"
 
@@ -681,86 +681,86 @@ msgstr "Les Webhooks sont obsolètes"
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
 msgstr "Aucun nouveau connecteur ne peut être rajouté. Nous continuerons à livrer des webhooks existants pour l'instant."
 
-#: web/views/__init__.py:25
+#: web/views/__init__.py:24
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr "Regardez et partagez les rediffusions directement à partir de votre navigateur web. Explorez les statistiques avancées des decks et cartes, basées sur des millions de parties par semaine."
 
-#: web/views/__init__.py:52
+#: web/views/__init__.py:36
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - Jouez Pro"
 
-#: web/views/__init__.py:133 web/views/oauth2.py:40
+#: web/views/__init__.py:117 web/views/oauth2.py:40
 msgid "Sign in to HSReplay.net"
 msgstr ""
 
-#: web/views/__init__.py:175 web/views/battlegrounds.py:110
+#: web/views/__init__.py:159 web/views/battlegrounds.py:110
 msgid "Download Hearthstone Deck Tracker"
 msgstr "Télécharger Hearthstone Deck Tracker"
 
-#: web/views/__init__.py:177 web/views/battlegrounds.py:112
+#: web/views/__init__.py:161 web/views/battlegrounds.py:112
 msgid "HSReplay.net Companion App"
 msgstr "App HSReplay.net associée"
 
-#: web/views/__init__.py:179 web/views/battlegrounds.py:114
+#: web/views/__init__.py:163 web/views/battlegrounds.py:114
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "Hearthstone Deck Tracker est une application gratuite pour vous aider à jouer comme les pros."
 
-#: web/views/__init__.py:247
+#: web/views/__init__.py:231
 msgid "Contact our Support Team"
 msgstr "Contacter notre service client"
 
-#: web/views/__init__.py:249
+#: web/views/__init__.py:233
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr "Communiquez avec l'équipe d'assistance HSReplay.net."
 
-#: web/views/__init__.py:307
+#: web/views/__init__.py:291
 msgid "Welcome to HSReplay.net"
 msgstr "Bienvenue sur HSRplay.net"
 
-#: web/views/__init__.py:309
+#: web/views/__init__.py:293
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr "Apprenez comment jouer avec HSReplay.net et ce que vous pouvez faire avec."
 
-#: web/views/__init__.py:320
+#: web/views/__init__.py:304
 msgid "Welcome to Hearthstone Deck Tracker"
 msgstr "Bienvenue sur Hearthstone Deck Tracker"
 
-#: web/views/__init__.py:322
+#: web/views/__init__.py:306
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
 msgstr "Découvrez ce que vous pouvez faire avec Hearthstone Deck Tracker, ainsi que le site web !"
 
-#: web/views/archetypes.py:30
+#: web/views/archetypes.py:31
 msgid "Hearthstone Meta"
 msgstr "Méta Hearthstone"
 
-#: web/views/archetypes.py:32
+#: web/views/archetypes.py:33
 msgid "Explore the Hearthstone meta game and find out how the archetypes match up."
 msgstr "Explorez la méta Hearthstone et trouvez contre quels archétypes votre deck est fort."
 
-#: web/views/archetypes.py:55
+#: web/views/archetypes.py:56
 msgid "Discover"
 msgstr "Découvrir"
 
-#: web/views/archetypes.py:57
+#: web/views/archetypes.py:58
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr "Voyez émerger la prochaine méta Hearthstone et découvrez les archétypes les plus récents."
 
-#: web/views/archetypes.py:73
+#: web/views/archetypes.py:74
 msgid "Archetype"
 msgstr "Archétype"
 
-#: web/views/archetypes.py:79
+#: web/views/archetypes.py:80
 msgid "This archetype is no longer available."
 msgstr "Cet archétype n'est plus disponible."
 
-#: web/views/archetypes.py:87
+#: web/views/archetypes.py:110
+msgid "Archetypes"
+msgstr "Archétypes"
+
+#: web/views/archetypes.py:130
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr "Trouver les stats et les différentes decklists {name}."
-
-#: web/views/archetypes.py:115
-msgid "Archetypes"
-msgstr "Archétypes"
 
 #: web/views/battlegrounds.py:130
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
