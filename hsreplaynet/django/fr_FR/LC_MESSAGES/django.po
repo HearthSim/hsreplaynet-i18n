@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-06 23:25+0000\n"
-"PO-Revision-Date: 2024-08-07 00:40\n"
+"POT-Creation-Date: 2024-08-08 01:40+0000\n"
+"PO-Revision-Date: 2024-08-08 12:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -388,7 +388,7 @@ msgstr "Nous vous avons envoyé un e-mail de vérification. Suivez le lien à l'
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
 msgstr "Veuillez <a href=\"%(contact_url)s\">nous contacter</a> si vous ne le recevez pas d'ici quelques minutes."
 
-#: templates/base.html:76
+#: templates/base.html:75
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
 msgstr "Xsolla est un distributeur mondial autorisé de HSReplay.net"
 
