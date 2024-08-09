@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-08 01:40+0000\n"
-"PO-Revision-Date: 2024-08-08 12:40\n"
+"POT-Creation-Date: 2024-08-09 01:40+0000\n"
+"PO-Revision-Date: 2024-08-09 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -516,7 +516,7 @@ msgstr "メタ"
 msgid "Back soon!"
 msgstr ""
 
-#: templates/navigation.html:161 web/views/decks.py:34
+#: templates/navigation.html:161
 msgid "Decks"
 msgstr "デッキ"
 
@@ -908,57 +908,63 @@ msgstr ""
 msgid "Your Application"
 msgstr ""
 
-#: web/views/decks.py:26
-msgid "Hearthstone Decks"
-msgstr "ハースストーンデッキ"
+#: web/views/decks.py:30
+#, python-brace-format
+msgid "Best Hearthstone Decks - {month} {year}"
+msgstr ""
 
-#: web/views/decks.py:28
+#: web/views/decks.py:36
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
 msgstr ""
 
-#: web/views/decks.py:44
-msgid " Decks"
+#: web/views/decks.py:43 web/views/decks.py:73
+msgid "Hearthstone Decks"
+msgstr "ハースストーンデッキ"
+
+#: web/views/decks.py:53
+#, python-brace-format
+msgid "Best {class} Decks - {month} {year} - Hearthstone"
 msgstr ""
 
-#: web/views/decks.py:49
+#: web/views/decks.py:62
 #, python-format
 msgid "Find popular %s decks for every card and Hearthstone game mode. Compare winrates and find the deck for you!"
 msgstr ""
 
-#: web/views/decks.py:68
+#: web/views/decks.py:84
 msgid "My Decks"
 msgstr "マイデッキ"
 
-#: web/views/decks.py:87
+#: web/views/decks.py:103
 msgid "Deck does not exist."
 msgstr "デッキが存在しません。"
 
-#: web/views/decks.py:97
+#: web/views/decks.py:113
 msgid "Deck list is too small."
 msgstr ""
 
-#: web/views/decks.py:100
+#: web/views/decks.py:116
 msgid "Deck list contains uncollectible cards."
 msgstr ""
 
-#: web/views/decks.py:104
+#: web/views/decks.py:120
 msgid "Neutral Deck"
 msgstr ""
 
-#: web/views/decks.py:118
+#: web/views/decks.py:134
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr ""
 
-#: web/views/decks.py:157
+#: web/views/decks.py:173
 msgid "Trending Hearthstone Decks"
 msgstr ""
 
-#: web/views/decks.py:159
+#: web/views/decks.py:175
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr ""
 
-#: web/views/decks.py:165
+#: web/views/decks.py:181
 msgid "Trending Decks"
 msgstr ""
 
