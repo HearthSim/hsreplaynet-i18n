@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-13 01:40+0000\n"
-"PO-Revision-Date: 2024-08-13 12:40\n"
+"POT-Creation-Date: 2024-08-14 01:40+0000\n"
+"PO-Revision-Date: 2024-08-14 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -423,7 +423,7 @@ msgstr "与Blizzard Entertainment没有从属关系。"
 
 #: templates/footer.html:64 templates/navigation.html:67
 #: templates/navigation.html:133 templates/navigation.html:187
-#: web/views/__init__.py:171
+#: web/views/__init__.py:170
 msgid "Downloads"
 msgstr "下载"
 
@@ -682,51 +682,51 @@ msgstr "Webhooks已被废止"
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
 msgstr "无法再添加新的终端。目前我们仍继续为现存webhooks提供服务。"
 
-#: web/views/__init__.py:24
+#: web/views/__init__.py:19
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr "在浏览器上直接观看分享您的炉石传说回放。探索卡组和新卡的进阶统计信息，每周上万的对局的聚会营地。"
 
-#: web/views/__init__.py:36
+#: web/views/__init__.py:25
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - 释放您的潜能"
 
-#: web/views/__init__.py:117 web/views/oauth2.py:40
+#: web/views/__init__.py:116 web/views/oauth2.py:40
 msgid "Sign in to HSReplay.net"
 msgstr ""
 
-#: web/views/__init__.py:159 web/views/battlegrounds.py:110
+#: web/views/__init__.py:158 web/views/battlegrounds.py:110
 msgid "Download Hearthstone Deck Tracker"
 msgstr "下载HDT炉石记牌器"
 
-#: web/views/__init__.py:161 web/views/battlegrounds.py:112
+#: web/views/__init__.py:160 web/views/battlegrounds.py:112
 msgid "HSReplay.net Companion App"
 msgstr "HSReplay.net随身应用程序"
 
-#: web/views/__init__.py:163 web/views/battlegrounds.py:114
+#: web/views/__init__.py:162 web/views/battlegrounds.py:114
 msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
 msgstr "HDT炉石记牌器是一款免费应用，可以帮助您拥有职业选手的炉石传说水平。"
 
-#: web/views/__init__.py:231
+#: web/views/__init__.py:223
 msgid "Contact our Support Team"
 msgstr "联系我们的支持团队"
 
-#: web/views/__init__.py:233
+#: web/views/__init__.py:225
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr "与HSReplay.net支持团队取得联系。"
 
-#: web/views/__init__.py:291
+#: web/views/__init__.py:283
 msgid "Welcome to HSReplay.net"
 msgstr "欢迎使用 HSReplay.net"
 
-#: web/views/__init__.py:293
+#: web/views/__init__.py:285
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr "学习如何开始使用 HSReplay.net 以及你可以用它来做些什么。"
 
-#: web/views/__init__.py:304
+#: web/views/__init__.py:296
 msgid "Welcome to Hearthstone Deck Tracker"
 msgstr "欢迎使用Hearthstone Deck Tracker炉石记牌器"
 
-#: web/views/__init__.py:306
+#: web/views/__init__.py:298
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
 msgstr "看看你能使用Hearthstone Deck Tracker和这个网站做些什么吧！"
 
