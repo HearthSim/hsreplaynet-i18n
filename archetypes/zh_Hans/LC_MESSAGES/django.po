@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-11T01:40:26.676691\n"
+"POT-Creation-Date: 2024-08-17T01:40:27.610251\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-13 00:40\n"
+"PO-Revision-Date: 2024-08-17 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1549,6 +1549,10 @@ msgstr "冲锋战"
 msgid "Secret Thief Rogue"
 msgstr "奥秘剽窃贼"
 
+#: https://hsreplay.net/archetypes/700/razzle-death-knight
+msgid "Razzle Death Knight"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/513/cute-rogue
 msgid "Cute Rogue"
 msgstr "宝宝贼"
@@ -1953,6 +1957,10 @@ msgstr "龙骑"
 msgid "OTK Cage Head Death Knight"
 msgstr "牢头DK"
 
+#: https://hsreplay.net/archetypes/512/ramp-druid
+msgid "Ramp Druid"
+msgstr "跳费德"
+
 #: https://hsreplay.net/archetypes/614/spell-school-mage
 msgid "Spell School Mage"
 msgstr "多系法"
@@ -2232,10 +2240,6 @@ msgstr "自残瞎"
 #: https://hsreplay.net/archetypes/149/taunt-druid
 msgid "Taunt Druid"
 msgstr "墙德"
-
-#: https://hsreplay.net/archetypes/512/ramp-druid
-msgid "Ramp Druid"
-msgstr "跳费德"
 
 #: https://hsreplay.net/archetypes/682/buffet-hunter
 msgid "Buffet Hunter"

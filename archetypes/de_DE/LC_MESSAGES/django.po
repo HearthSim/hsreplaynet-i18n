@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-11T01:40:26.676691\n"
+"POT-Creation-Date: 2024-08-17T01:40:27.610251\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2024-08-11 12:40\n"
+"PO-Revision-Date: 2024-08-17 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1549,6 +1549,10 @@ msgstr "Ansturm-Krieger"
 msgid "Secret Thief Rogue"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/700/razzle-death-knight
+msgid "Razzle Death Knight"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/513/cute-rogue
 msgid "Cute Rogue"
 msgstr ""
@@ -1953,6 +1957,10 @@ msgstr "Drachen-Paladin"
 msgid "OTK Cage Head Death Knight"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/512/ramp-druid
+msgid "Ramp Druid"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/614/spell-school-mage
 msgid "Spell School Mage"
 msgstr ""
@@ -2232,10 +2240,6 @@ msgstr "Schmerz-Dämonenjäger"
 #: https://hsreplay.net/archetypes/149/taunt-druid
 msgid "Taunt Druid"
 msgstr "Spott-Druide"
-
-#: https://hsreplay.net/archetypes/512/ramp-druid
-msgid "Ramp Druid"
-msgstr ""
 
 #: https://hsreplay.net/archetypes/682/buffet-hunter
 msgid "Buffet Hunter"
