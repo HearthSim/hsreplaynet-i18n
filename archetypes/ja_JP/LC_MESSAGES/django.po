@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-17T01:40:27.610251\n"
+"POT-Creation-Date: 2024-08-18T01:40:25.800478\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2024-08-17 12:40\n"
+"PO-Revision-Date: 2024-08-18 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1313,10 +1313,6 @@ msgstr "ヒロパタワーメイジ"
 msgid "Spell Priest"
 msgstr "呪文プリースト"
 
-#: https://hsreplay.net/archetypes/444/heal-priest
-msgid "Heal Priest"
-msgstr "回復プリースト"
-
 #: https://hsreplay.net/archetypes/445/watch-post-priest
 msgid "Watch Post Priest"
 msgstr "番所プリースト"
@@ -1588,6 +1584,10 @@ msgstr "アグロパラディン"
 #: https://hsreplay.net/archetypes/314/highlander-quest-priest
 msgid "Highlander Quest Priest"
 msgstr "ハイランダークエストプリースト"
+
+#: https://hsreplay.net/archetypes/444/heal-priest
+msgid "Heal Priest"
+msgstr "回復プリースト"
 
 #: https://hsreplay.net/archetypes/520/pirahna-shaman
 msgid "Pirahna Shaman"
