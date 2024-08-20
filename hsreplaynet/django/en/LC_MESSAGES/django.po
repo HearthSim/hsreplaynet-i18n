@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-20 09:37+0000\n"
+"POT-Creation-Date: 2024-08-20 21:35+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -455,7 +455,7 @@ msgstr ""
 msgid "Premium"
 msgstr ""
 
-#: templates/footer.html:66 web/views/battlegrounds.py:141
+#: templates/footer.html:66 web/views/battlegrounds.py:125
 msgid "Tier7"
 msgstr ""
 
@@ -511,12 +511,12 @@ msgstr ""
 msgid "Parties"
 msgstr ""
 
-#: templates/navigation.html:78 web/views/battlegrounds.py:160
-#: web/views/battlegrounds.py:254
+#: templates/navigation.html:78 web/views/battlegrounds.py:144
+#: web/views/battlegrounds.py:238
 msgid "Heroes"
 msgstr ""
 
-#: templates/navigation.html:90 web/views/battlegrounds.py:189
+#: templates/navigation.html:90 web/views/battlegrounds.py:173
 msgid "Darkmoon Prizes"
 msgstr ""
 
@@ -537,7 +537,6 @@ msgid "Trending"
 msgstr ""
 
 #: templates/navigation.html:148 templates/navigation.html:154
-#: web/views/archetypes.py:39
 msgid "Meta"
 msgstr ""
 
@@ -549,7 +548,7 @@ msgstr ""
 msgid "Decks"
 msgstr ""
 
-#: templates/navigation.html:167 web/views/cards.py:37 web/views/cards.py:168
+#: templates/navigation.html:167 web/views/cards.py:37 web/views/cards.py:163
 msgid "Cards"
 msgstr ""
 
@@ -752,16 +751,18 @@ msgstr ""
 msgid "Sign in to HSReplay.net"
 msgstr ""
 
-#: web/views/__init__.py:158 web/views/battlegrounds.py:110
+#: web/views/__init__.py:158
 msgid "Download Hearthstone Deck Tracker"
 msgstr ""
 
-#: web/views/__init__.py:160 web/views/battlegrounds.py:112
+#: web/views/__init__.py:160
 msgid "HSReplay.net Companion App"
 msgstr ""
 
-#: web/views/__init__.py:162 web/views/battlegrounds.py:114
-msgid "Hearthstone Deck Tracker is a free app to help you play like the pros."
+#: web/views/__init__.py:162
+msgid ""
+"Hearthstone Deck Tracker is a free companion app to help you play like the "
+"pros."
 msgstr ""
 
 #: web/views/__init__.py:223
@@ -790,122 +791,128 @@ msgid ""
 "website!"
 msgstr ""
 
-#: web/views/archetypes.py:31
-msgid "Hearthstone Meta"
+#: web/views/archetypes.py:37
+#, python-brace-format
+msgid "Hearthstone Meta Tier List - {month} {year}"
 msgstr ""
 
-#: web/views/archetypes.py:33
+#: web/views/archetypes.py:43
 msgid ""
-"Explore the Hearthstone meta game and find out how the archetypes match up."
+"Explore the Hearthstone meta tier list, find the best decks for every class,"
+"and how the archetypes match up."
 msgstr ""
 
-#: web/views/archetypes.py:56
+#: web/views/archetypes.py:47
+msgid "Meta Tier List"
+msgstr ""
+
+#: web/views/archetypes.py:64
 msgid "Discover"
 msgstr ""
 
-#: web/views/archetypes.py:58
+#: web/views/archetypes.py:66
 msgid ""
 "Engage with the up-and-coming Hearthstone meta game to discover the newest "
 "archetypes and what's next."
 msgstr ""
 
-#: web/views/archetypes.py:74
+#: web/views/archetypes.py:82
 msgid "Archetype"
 msgstr ""
 
-#: web/views/archetypes.py:80
+#: web/views/archetypes.py:88
 msgid "This archetype is no longer available."
 msgstr ""
 
-#: web/views/archetypes.py:110
+#: web/views/archetypes.py:118
 msgid "Archetypes"
 msgstr ""
 
-#: web/views/archetypes.py:130
+#: web/views/archetypes.py:138
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr ""
 
-#: web/views/battlegrounds.py:130
+#: web/views/battlegrounds.py:114
 msgid ""
 "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, "
 "including actionable information about the best heroes, compositions, "
 "minions, and more!"
 msgstr ""
 
-#: web/views/battlegrounds.py:140 web/views/battlegrounds.py:159
-#: web/views/battlegrounds.py:172 web/views/battlegrounds.py:188
-#: web/views/battlegrounds.py:245
+#: web/views/battlegrounds.py:124 web/views/battlegrounds.py:143
+#: web/views/battlegrounds.py:156 web/views/battlegrounds.py:172
+#: web/views/battlegrounds.py:229
 msgid "Battlegrounds"
 msgstr ""
 
-#: web/views/battlegrounds.py:146
+#: web/views/battlegrounds.py:130
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr ""
 
-#: web/views/battlegrounds.py:151
+#: web/views/battlegrounds.py:135
 msgid "Battlegrounds Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:153
+#: web/views/battlegrounds.py:137
 msgid ""
 "Explore our Battlegrounds Hero Tier List and learn which hero is the best - "
 "powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:169
+#: web/views/battlegrounds.py:153
 msgid "Battlegrounds Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:173
+#: web/views/battlegrounds.py:157
 msgid "Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:185
+#: web/views/battlegrounds.py:169
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr ""
 
-#: web/views/battlegrounds.py:194
+#: web/views/battlegrounds.py:178
 msgid "Battlegrounds Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:214
+#: web/views/battlegrounds.py:198
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:326
+#: web/views/battlegrounds.py:310
 msgid "Battlegrounds Duos Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:334
+#: web/views/battlegrounds.py:318
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:339 web/views/battlegrounds.py:365
+#: web/views/battlegrounds.py:323 web/views/battlegrounds.py:349
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:357
+#: web/views/battlegrounds.py:341
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:396
+#: web/views/battlegrounds.py:380
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:401 web/views/battlegrounds.py:430
+#: web/views/battlegrounds.py:385 web/views/battlegrounds.py:414
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:423
+#: web/views/battlegrounds.py:407
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:425
+#: web/views/battlegrounds.py:409
 msgid "No matching composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:483
+#: web/views/battlegrounds.py:467
 msgid "My Battlegrounds Stats"
 msgstr ""
 
@@ -923,15 +930,12 @@ msgstr ""
 msgid "No card found matching the query."
 msgstr ""
 
-#: web/views/cards.py:125 web/views/cards.py:128
-msgid "Hearthstone Card"
+#: web/views/cards.py:144
+#, python-brace-format
+msgid "{name} decks and stats"
 msgstr ""
 
-#: web/views/cards.py:150
-msgid "Statistics and decks!"
-msgstr ""
-
-#: web/views/cards.py:206
+#: web/views/cards.py:197
 msgid "Hearthstone Card Editor"
 msgstr ""
 
