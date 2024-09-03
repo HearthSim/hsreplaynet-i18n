@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-20 21:35+0000\n"
-"PO-Revision-Date: 2024-08-21 00:40\n"
+"PO-Revision-Date: 2024-09-03 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -291,7 +291,7 @@ msgstr "Hola %(user)s!\n\n"
 #: templates/account/login.html:14
 #, python-format
 msgid "Sign in to connect %(oauth2_client)s"
-msgstr ""
+msgstr "Inicia sesión para conectar a %(oauth2_client)s"
 
 #: templates/account/login.html:19
 msgid "We'll send you to the official Blizzard site where you can securely sign in."
@@ -691,7 +691,7 @@ msgstr "HSReplay.net - Libera tu potencial"
 
 #: web/views/__init__.py:116 web/views/oauth2.py:40
 msgid "Sign in to HSReplay.net"
-msgstr ""
+msgstr "Iniciar sesión en HSReplay.net"
 
 #: web/views/__init__.py:158
 msgid "Download Hearthstone Deck Tracker"
@@ -703,7 +703,7 @@ msgstr "Aplicación HSReplay.net"
 
 #: web/views/__init__.py:162
 msgid "Hearthstone Deck Tracker is a free companion app to help you play like the pros."
-msgstr ""
+msgstr "Hearthstone Deck Tracker es una aplicación gratuita que te ayuda a jugar como los profesionales."
 
 #: web/views/__init__.py:223
 msgid "Contact our Support Team"
@@ -732,15 +732,15 @@ msgstr "Averigua qué puedes hacer con Hearthstone Deck Tracker, así como con e
 #: web/views/archetypes.py:37
 #, python-brace-format
 msgid "Hearthstone Meta Tier List - {month} {year}"
-msgstr ""
+msgstr "Lista del Meta de Hearthstone - {month} {year}"
 
 #: web/views/archetypes.py:43
 msgid "Explore the Hearthstone meta tier list, find the best decks for every class,and how the archetypes match up."
-msgstr ""
+msgstr "Explora la lista del meta de Hearthstone, encuentra los mejores mazos para cada clase y cómo los arquetipos se equiparan."
 
 #: web/views/archetypes.py:47
 msgid "Meta Tier List"
-msgstr ""
+msgstr "Ver lista del Meta"
 
 #: web/views/archetypes.py:64
 msgid "Discover"
@@ -860,7 +860,7 @@ msgstr "No hay cartas que coincidan con la búsqueda."
 #: web/views/cards.py:144
 #, python-brace-format
 msgid "{name} decks and stats"
-msgstr ""
+msgstr "{name} mazos y estadísticas"
 
 #: web/views/cards.py:197
 msgid "Hearthstone Card Editor"
@@ -918,7 +918,7 @@ msgstr "Tu Aplicación"
 #: web/views/decks.py:30
 #, python-brace-format
 msgid "Best Hearthstone Decks - {month} {year}"
-msgstr ""
+msgstr "Mejores mazos de Hearthstone - {month} {year}"
 
 #: web/views/decks.py:36
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
@@ -931,12 +931,12 @@ msgstr "Mazos Heartstone"
 #: web/views/decks.py:54
 #, python-brace-format
 msgid "Best {class} Decks - {month} {year} - Hearthstone"
-msgstr ""
+msgstr "Mejores mazos {class} - {month} {year} - Hearthstone"
 
 #: web/views/decks.py:63
 #, python-format
 msgid "Find popular %s decks for every card and Hearthstone game mode. Compare winrates and find the deck for you!"
-msgstr ""
+msgstr "Encuentra %s mazos populares para cada carta y modo de juego. Compara porcentaje de victorias y encuentra el mazo perfecto para ti!"
 
 #: web/views/decks.py:85
 msgid "My Decks"
