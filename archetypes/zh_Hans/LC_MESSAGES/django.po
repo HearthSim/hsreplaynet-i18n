@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-08-18T01:40:25.800478\n"
+"POT-Creation-Date: 2024-09-13T01:40:26.604379\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-08-25 12:40\n"
+"PO-Revision-Date: 2024-09-13 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1193,10 +1193,6 @@ msgstr "任务萨"
 msgid "Quest Warlock"
 msgstr "疲劳术"
 
-#: https://hsreplay.net/archetypes/276/thief-rogue
-msgid "Thief Rogue"
-msgstr "剽窃贼"
-
 #: https://hsreplay.net/archetypes/661/shopper-demon-hunter
 msgid "Shopper Demon Hunter"
 msgstr "看客瞎"
@@ -2017,6 +2013,10 @@ msgstr "尤格萨"
 msgid "Highlander Druid"
 msgstr "宇宙德"
 
+#: https://hsreplay.net/archetypes/276/thief-rogue
+msgid "Thief Rogue"
+msgstr "剽窃贼"
+
 #: https://hsreplay.net/archetypes/628/excavate-mage
 msgid "Excavate Mage"
 msgstr "挖宝法"
@@ -2324,4 +2324,8 @@ msgstr "多系萨"
 #: https://hsreplay.net/archetypes/699/tourist-warlock
 msgid "Tourist Warlock"
 msgstr "游客术"
+
+#: https://hsreplay.net/archetypes/701/amalgam-rogue
+msgid "Amalgam Rogue"
+msgstr ""
 
