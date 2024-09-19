@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-18 01:40+0000\n"
+"POT-Creation-Date: 2024-09-19 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -83,47 +83,47 @@ msgstr ""
 msgid "Code has been applied to your account."
 msgstr ""
 
-#: settings.py:384
+#: settings.py:385
 msgid "Full access to your HSReplay.net account"
 msgstr ""
 
-#: settings.py:385
+#: settings.py:386
 msgid "Access information about your connected social accounts"
 msgstr ""
 
-#: settings.py:386
+#: settings.py:387
 msgid "View your Hearthstone card collection"
 msgstr ""
 
-#: settings.py:387
+#: settings.py:388
 msgid "Upload your Hearthstone card collection to the site"
 msgstr ""
 
-#: settings.py:388
+#: settings.py:389
 msgid "View your replays"
 msgstr ""
 
-#: settings.py:389
+#: settings.py:390
 msgid "Update and delete your replays"
 msgstr ""
 
-#: settings.py:390
+#: settings.py:391
 msgid "Access the Partner API"
 msgstr ""
 
-#: settings.py:391
+#: settings.py:392
 msgid "Read access to the tournaments service"
 msgstr ""
 
-#: settings.py:392
+#: settings.py:393
 msgid "Write access to the tournaments service"
 msgstr ""
 
-#: settings.py:393
+#: settings.py:394
 msgid "View your webhooks"
 msgstr ""
 
-#: settings.py:394
+#: settings.py:395
 msgid "Create and delete webhooks on your behalf"
 msgstr ""
 
@@ -552,7 +552,7 @@ msgstr ""
 msgid "Cards"
 msgstr ""
 
-#: templates/navigation.html:212
+#: templates/navigation.html:213
 msgid ""
 "We are currently updating this section for the latest Battlegrounds patch. "
 "You may temporarily encounter incomplete or delayed data."
