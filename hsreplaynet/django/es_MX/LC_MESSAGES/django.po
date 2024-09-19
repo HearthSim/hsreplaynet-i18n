@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-14 01:40+0000\n"
-"PO-Revision-Date: 2024-09-14 12:40\n"
+"POT-Creation-Date: 2024-09-19 01:40+0000\n"
+"PO-Revision-Date: 2024-09-19 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -82,47 +82,47 @@ msgstr "Código no afecta a esta cuenta y sigue siendo válido."
 msgid "Code has been applied to your account."
 msgstr "Código ha sido aplicado a su cuenta."
 
-#: settings.py:384
+#: settings.py:385
 msgid "Full access to your HSReplay.net account"
 msgstr "Acceso total a tu cuenta de HSReplay.net"
 
-#: settings.py:385
+#: settings.py:386
 msgid "Access information about your connected social accounts"
 msgstr "Información de tu cuenta sobre tus cuentas de redes sociales"
 
-#: settings.py:386
+#: settings.py:387
 msgid "View your Hearthstone card collection"
 msgstr "Ver colección de Heartstone"
 
-#: settings.py:387
+#: settings.py:388
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Subir colección de cartas de Heartstone a la web"
 
-#: settings.py:388
+#: settings.py:389
 msgid "View your replays"
 msgstr "Ver tus repeticiones"
 
-#: settings.py:389
+#: settings.py:390
 msgid "Update and delete your replays"
 msgstr "Subir y borrar tus repeticiones"
 
-#: settings.py:390
+#: settings.py:391
 msgid "Access the Partner API"
 msgstr "Acceder al API asociada"
 
-#: settings.py:391
+#: settings.py:392
 msgid "Read access to the tournaments service"
 msgstr "Leer accesos al servicio de torneos"
 
-#: settings.py:392
+#: settings.py:393
 msgid "Write access to the tournaments service"
 msgstr "Acceder al servicio de torneos"
 
-#: settings.py:393
+#: settings.py:394
 msgid "View your webhooks"
 msgstr "Ver tus webhooks"
 
-#: settings.py:394
+#: settings.py:395
 msgid "Create and delete webhooks on your behalf"
 msgstr "Crear y borrar webhooks en tu posesión"
 
@@ -529,7 +529,7 @@ msgstr "Mazos"
 msgid "Cards"
 msgstr "Cartas"
 
-#: templates/navigation.html:212
+#: templates/navigation.html:213
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "Actualmente estamos actualizando esta sección para el último parche de Campos de Batalla. Pueda que los datos que encuentres sean incompletos o con demora."
 

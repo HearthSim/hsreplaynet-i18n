@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-14 01:40+0000\n"
-"PO-Revision-Date: 2024-09-14 12:40\n"
+"POT-Creation-Date: 2024-09-19 01:40+0000\n"
+"PO-Revision-Date: 2024-09-19 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -82,47 +82,47 @@ msgstr "Код не применился и остается действите�
 msgid "Code has been applied to your account."
 msgstr "Код применен к вашей учетной записи."
 
-#: settings.py:384
+#: settings.py:385
 msgid "Full access to your HSReplay.net account"
 msgstr "Полный доступ к вашей учетной записи HSReplay.net"
 
-#: settings.py:385
+#: settings.py:386
 msgid "Access information about your connected social accounts"
 msgstr "Доступ к информации о ваших подключенных учетных записях в социальных сетях"
 
-#: settings.py:386
+#: settings.py:387
 msgid "View your Hearthstone card collection"
 msgstr "Просмотр вашей коллекции карт в Hearthstone"
 
-#: settings.py:387
+#: settings.py:388
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Загрузка вашей коллекции карт из Hearthstone на сайт"
 
-#: settings.py:388
+#: settings.py:389
 msgid "View your replays"
 msgstr "Просмотр ваших повторов"
 
-#: settings.py:389
+#: settings.py:390
 msgid "Update and delete your replays"
 msgstr "Изменение и удаление ваших повторов"
 
-#: settings.py:390
+#: settings.py:391
 msgid "Access the Partner API"
 msgstr "Доступ к партнерским API"
 
-#: settings.py:391
+#: settings.py:392
 msgid "Read access to the tournaments service"
 msgstr "Доступ на чтение к турнирным службам"
 
-#: settings.py:392
+#: settings.py:393
 msgid "Write access to the tournaments service"
 msgstr "Доступ на запись к турнирным службам"
 
-#: settings.py:393
+#: settings.py:394
 msgid "View your webhooks"
 msgstr "Просмотр ваших веб-хуков"
 
-#: settings.py:394
+#: settings.py:395
 msgid "Create and delete webhooks on your behalf"
 msgstr "Создавать и удалять веб-хуки от вашего имени"
 
@@ -529,7 +529,7 @@ msgstr "Колоды"
 msgid "Cards"
 msgstr "Карты"
 
-#: templates/navigation.html:212
+#: templates/navigation.html:213
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "Мы обновляем этот раздел в связи с выходом обновления на Полях сражений. Данные могут быть не полными или отображаться с задержкой."
 
