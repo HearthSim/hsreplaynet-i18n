@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-28 01:40+0000\n"
-"PO-Revision-Date: 2024-09-28 12:40\n"
+"POT-Creation-Date: 2024-10-01 01:40+0000\n"
+"PO-Revision-Date: 2024-10-01 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -176,7 +176,7 @@ msgstr "Zahlungen"
 msgid "Connections"
 msgstr "Verbindungen"
 
-#: templates/account/base.html:18 web/views/dashboard.py:290
+#: templates/account/base.html:18 web/views/dashboard.py:298
 msgid "Applications"
 msgstr "Anwendungen"
 
@@ -882,35 +882,35 @@ msgstr "{user}'s Hearthstone-Sammlung"
 msgid "API Access"
 msgstr "API-Zugriff"
 
-#: web/views/dashboard.py:112
+#: web/views/dashboard.py:120
 msgid "This account cannot be deleted."
 msgstr "Dieses Konto kann nicht gelöscht werden."
 
-#: web/views/dashboard.py:141
+#: web/views/dashboard.py:149
 msgid "Your replays have been deleted."
 msgstr "Deine Aufzeichnungen wurden gelöscht."
 
-#: web/views/dashboard.py:176
+#: web/views/dashboard.py:184
 msgid "Could not make account primary."
 msgstr "Konnte Konto nicht primär setzen."
 
-#: web/views/dashboard.py:212
+#: web/views/dashboard.py:220
 msgid "You must add a verified email before we can send you marketing emails."
 msgstr ""
 
-#: web/views/dashboard.py:257
+#: web/views/dashboard.py:265
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr "Überprüfe deinen Posteingang! Wir haben eine E-Mail gesendet um deine Abonnements zu bestätigen."
 
-#: web/views/dashboard.py:264 web/views/dashboard.py:270
+#: web/views/dashboard.py:272 web/views/dashboard.py:278
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "Fehler beim Speichern der E-Mail-Einstellungen. Bitte versuche es später erneut!"
 
-#: web/views/dashboard.py:280
+#: web/views/dashboard.py:288
 msgid "Your email preferences have been saved."
 msgstr "Deine E-Mail-Präferenzen wurden gespeichert."
 
-#: web/views/dashboard.py:341
+#: web/views/dashboard.py:349
 msgid "Your Application"
 msgstr "Deine Anwendung"
 

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-28 01:40+0000\n"
-"PO-Revision-Date: 2024-09-28 12:40\n"
+"POT-Creation-Date: 2024-10-01 01:40+0000\n"
+"PO-Revision-Date: 2024-10-01 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -176,7 +176,7 @@ msgstr "会员订单"
 msgid "Connections"
 msgstr "关联的账户"
 
-#: templates/account/base.html:18 web/views/dashboard.py:290
+#: templates/account/base.html:18 web/views/dashboard.py:298
 msgid "Applications"
 msgstr "应用授权"
 
@@ -883,35 +883,35 @@ msgstr "{user} 的卡牌收藏"
 msgid "API Access"
 msgstr "API权限"
 
-#: web/views/dashboard.py:112
+#: web/views/dashboard.py:120
 msgid "This account cannot be deleted."
 msgstr "此账号不能被删除。"
 
-#: web/views/dashboard.py:141
+#: web/views/dashboard.py:149
 msgid "Your replays have been deleted."
 msgstr "您的回放已删除。"
 
-#: web/views/dashboard.py:176
+#: web/views/dashboard.py:184
 msgid "Could not make account primary."
 msgstr "无法设为首要账号。"
 
-#: web/views/dashboard.py:212
+#: web/views/dashboard.py:220
 msgid "You must add a verified email before we can send you marketing emails."
 msgstr "您必须添加并验证一个电子邮件地址才能接收营销邮件。"
 
-#: web/views/dashboard.py:257
+#: web/views/dashboard.py:265
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr "请检查收件箱！我们已经向您发送了一封电子邮件来核实您的订阅偏好。"
 
-#: web/views/dashboard.py:264 web/views/dashboard.py:270
+#: web/views/dashboard.py:272 web/views/dashboard.py:278
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "您的电子邮件首选项保存失败。请稍候再试！"
 
-#: web/views/dashboard.py:280
+#: web/views/dashboard.py:288
 msgid "Your email preferences have been saved."
 msgstr "您的邮箱偏好已设定。"
 
-#: web/views/dashboard.py:341
+#: web/views/dashboard.py:349
 msgid "Your Application"
 msgstr "您的应用"
 
