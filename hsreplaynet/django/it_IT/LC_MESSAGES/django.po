@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-01 01:40+0000\n"
-"PO-Revision-Date: 2024-10-01 12:40\n"
+"POT-Creation-Date: 2024-10-02 01:40+0000\n"
+"PO-Revision-Date: 2024-10-02 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -82,49 +82,57 @@ msgstr "Il codice non ha influenzato l'account e rimane valido."
 msgid "Code has been applied to your account."
 msgstr "Il codice è stato applicato al tuo account."
 
-#: settings.py:387
+#: settings.py:390
 msgid "Full access to your HSReplay.net account"
 msgstr "Accesso completo al tuo account HSReplay.net"
 
-#: settings.py:388
+#: settings.py:391
 msgid "Access information about your connected social accounts"
 msgstr "Accedi alle informazioni sui tuoi account social connessi"
 
-#: settings.py:389
+#: settings.py:392
 msgid "View your Hearthstone card collection"
 msgstr "Vedi la tua collezione di carte di Hearthstone"
 
-#: settings.py:390
+#: settings.py:393
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Carica la tua collezione di carte di Hearthstone sul sito"
 
-#: settings.py:391
+#: settings.py:394
 msgid "View your replays"
 msgstr "Visualizza i tuoi replay"
 
-#: settings.py:392
+#: settings.py:395
 msgid "Update and delete your replays"
 msgstr "Aggiorna ed elimina i tuoi replay"
 
-#: settings.py:393
+#: settings.py:396
 msgid "Access the Partner API"
 msgstr "Accedi all'API dei Partner"
 
-#: settings.py:394
+#: settings.py:397
 msgid "Read access to the tournaments service"
 msgstr "Accesso in modalità sola lettura al servizio tornei"
 
-#: settings.py:395
+#: settings.py:398
 msgid "Write access to the tournaments service"
 msgstr "Accesso in modalità scrittura al servizio tornei"
 
-#: settings.py:396
+#: settings.py:399
 msgid "View your webhooks"
 msgstr "Visualizza i tuoi webhooks"
 
-#: settings.py:397
+#: settings.py:400
 msgid "Create and delete webhooks on your behalf"
 msgstr "Crea ed elimina i webhooks per tuo conto"
+
+#: templates/429.html:6
+msgid "Too many requests"
+msgstr ""
+
+#: templates/429.html:10 templates/socialaccount/authentication_error.html:21
+msgid "Please try again in a few minutes."
+msgstr "Per favore riprova tra pochi minuti."
 
 #: templates/account/account_inactive.html:6
 msgid "Account inactive"
@@ -180,8 +188,7 @@ msgstr "Connessioni"
 msgid "Applications"
 msgstr "Applicazioni"
 
-#: templates/account/base.html:22 templates/account/login.html:70
-#: templates/account/signup.html:33
+#: templates/account/base.html:22 templates/account/signup.html:37
 msgid "Password"
 msgstr "Password"
 
@@ -288,43 +295,6 @@ msgstr "Ciao %(user)s!\n\n"
 "Saluti,\n"
 "Il Team HSReplay.net\n"
 
-#: templates/account/login.html:14
-#, python-format
-msgid "Sign in to connect %(oauth2_client)s"
-msgstr ""
-
-#: templates/account/login.html:19
-msgid "We'll send you to the official Blizzard site where you can securely sign in."
-msgstr "Ti reindirizzeremo al sito ufficiale Blizzard, dove potrai accedere in modo sicuro."
-
-#: templates/account/login.html:21
-msgid "Blizzard will redirect you back here once you're done."
-msgstr "Blizzard ti reindirizzerà qui una volta terminato."
-
-#: templates/account/login.html:35
-msgid "Log in with Blizzard"
-msgstr "Accedi tramite Blizzard"
-
-#: templates/account/login.html:40
-msgid "Region"
-msgstr "Regione"
-
-#: templates/account/login.html:49
-msgid "HSReplay.net never gains access to your Blizzard email address or password."
-msgstr "HSReplay.net non otterrà mai l'accesso al tuo indirizzo email o password di Blizzard."
-
-#: templates/account/login.html:59
-msgid "Not using a Blizzard account? Sign in with your username and password here."
-msgstr "Non utilizzi un account Blizzard? Accedi con il tuo nome utente e password qui."
-
-#: templates/account/login.html:69 templates/account/signup.html:27
-msgid "Username"
-msgstr "Nome utente"
-
-#: templates/account/login.html:73
-msgid "Sign in"
-msgstr "Accedi"
-
 #: templates/account/logout.html:6 templates/account/logout.html:17
 msgid "Sign out"
 msgstr "Esci"
@@ -350,24 +320,28 @@ msgstr "Reimpostare la password"
 msgid "Need help? <a href=\"%(contact_url)s\">Contact us</a>."
 msgstr "Hai bisogno di aiuto? <a href=\"%(contact_url)s\">Contattaci</a>."
 
-#: templates/account/signup.html:8 templates/account/signup.html:39
+#: templates/account/signup.html:12 templates/account/signup.html:43
 #: templates/socialaccount/signup.html:12
 msgid "Sign up"
 msgstr "Registrati"
 
-#: templates/account/signup.html:10
+#: templates/account/signup.html:14
 msgid "To sign up to HSReplay.net, use your Blizzard account."
 msgstr "Per iscriverti a HSReplay.net, usa il tuo account Blizzard."
 
-#: templates/account/signup.html:16
+#: templates/account/signup.html:20
 msgid "Alternatively, sign up with an email and password."
 msgstr "In alternativa, iscriviti con email e una password."
 
-#: templates/account/signup.html:30 templates/socialaccount/signup.html:45
+#: templates/account/signup.html:31
+msgid "Username"
+msgstr "Nome utente"
+
+#: templates/account/signup.html:34 templates/socialaccount/signup.html:45
 msgid "Email address"
 msgstr "Indirizzo Email"
 
-#: templates/account/signup.html:36
+#: templates/account/signup.html:40
 msgid "Password (repeat)"
 msgstr "Password (di nuovo)"
 
@@ -563,10 +537,6 @@ msgstr "Non è stato possibile autenticarti con %(provider)s."
 #, python-format
 msgid "This could be because you did something unusual during your login or due to an ongoing issue with %(provider)s."
 msgstr "Questo può darsi perchè hai fatto qualcosa di insolito durante il tuo accesso o dovuto a un problema presente con %(provider)s."
-
-#: templates/socialaccount/authentication_error.html:21
-msgid "Please try again in a few minutes."
-msgstr "Per favore riprova tra pochi minuti."
 
 #: templates/socialaccount/authentication_error.html:26
 #, python-format

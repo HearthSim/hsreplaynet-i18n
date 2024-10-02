@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-01 01:40+0000\n"
-"PO-Revision-Date: 2024-10-01 12:40\n"
+"POT-Creation-Date: 2024-10-02 01:40+0000\n"
+"PO-Revision-Date: 2024-10-02 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -82,49 +82,57 @@ msgstr "金鑰啟用失敗，但可以在其他帳戶使用。"
 msgid "Code has been applied to your account."
 msgstr "金鑰啟用成功。"
 
-#: settings.py:387
+#: settings.py:390
 msgid "Full access to your HSReplay.net account"
 msgstr "完全存取你的HSReplay.net帳戶"
 
-#: settings.py:388
+#: settings.py:391
 msgid "Access information about your connected social accounts"
 msgstr "存取您的社交帳戶資訊"
 
-#: settings.py:389
+#: settings.py:392
 msgid "View your Hearthstone card collection"
 msgstr "檢視你的爐石卡片收藏"
 
-#: settings.py:390
+#: settings.py:393
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "上傳你的爐石卡片收藏到網站"
 
-#: settings.py:391
+#: settings.py:394
 msgid "View your replays"
 msgstr "檢視你的重播"
 
-#: settings.py:392
+#: settings.py:395
 msgid "Update and delete your replays"
 msgstr "上傳和刪除你的重播"
 
-#: settings.py:393
+#: settings.py:396
 msgid "Access the Partner API"
 msgstr "存取夥伴API"
 
-#: settings.py:394
+#: settings.py:397
 msgid "Read access to the tournaments service"
 msgstr "存取賽事服務權限"
 
-#: settings.py:395
+#: settings.py:398
 msgid "Write access to the tournaments service"
 msgstr "寫入賽事服務權限"
 
-#: settings.py:396
+#: settings.py:399
 msgid "View your webhooks"
 msgstr "查看你的Webhooks"
 
-#: settings.py:397
+#: settings.py:400
 msgid "Create and delete webhooks on your behalf"
 msgstr "代表您創建和刪除 Webhooks"
+
+#: templates/429.html:6
+msgid "Too many requests"
+msgstr ""
+
+#: templates/429.html:10 templates/socialaccount/authentication_error.html:21
+msgid "Please try again in a few minutes."
+msgstr ""
 
 #: templates/account/account_inactive.html:6
 msgid "Account inactive"
@@ -180,8 +188,7 @@ msgstr "連接"
 msgid "Applications"
 msgstr "應用程式授權"
 
-#: templates/account/base.html:22 templates/account/login.html:70
-#: templates/account/signup.html:33
+#: templates/account/base.html:22 templates/account/signup.html:37
 msgid "Password"
 msgstr "密碼"
 
@@ -288,43 +295,6 @@ msgstr "哈囉 %(user)s\n\n"
 "謝謝!\n"
 "HSReplay.net 團隊\n"
 
-#: templates/account/login.html:14
-#, python-format
-msgid "Sign in to connect %(oauth2_client)s"
-msgstr ""
-
-#: templates/account/login.html:19
-msgid "We'll send you to the official Blizzard site where you can securely sign in."
-msgstr "我們會重導向官方的暴雪網站，以確保安全登入。"
-
-#: templates/account/login.html:21
-msgid "Blizzard will redirect you back here once you're done."
-msgstr "完成後暴雪將會把你重新導回這裡。"
-
-#: templates/account/login.html:35
-msgid "Log in with Blizzard"
-msgstr "以暴雪帳號登入"
-
-#: templates/account/login.html:40
-msgid "Region"
-msgstr "伺服器"
-
-#: templates/account/login.html:49
-msgid "HSReplay.net never gains access to your Blizzard email address or password."
-msgstr "HSReplay.net 並不會也不能存取你的暴雪電子郵件信箱地址或是密碼。"
-
-#: templates/account/login.html:59
-msgid "Not using a Blizzard account? Sign in with your username and password here."
-msgstr "沒有在用暴雪帳號? 那就用你自己的帳號跟密碼來登錄吧。"
-
-#: templates/account/login.html:69 templates/account/signup.html:27
-msgid "Username"
-msgstr "使用者名稱"
-
-#: templates/account/login.html:73
-msgid "Sign in"
-msgstr "登入"
-
 #: templates/account/logout.html:6 templates/account/logout.html:17
 msgid "Sign out"
 msgstr "登出"
@@ -353,24 +323,28 @@ msgstr "重設密碼"
 msgid "Need help? <a href=\"%(contact_url)s\">Contact us</a>."
 msgstr "需要幫助？到<a href=\"%(contact_url)s\">聯繫我們</a>。"
 
-#: templates/account/signup.html:8 templates/account/signup.html:39
+#: templates/account/signup.html:12 templates/account/signup.html:43
 #: templates/socialaccount/signup.html:12
 msgid "Sign up"
 msgstr "註冊"
 
-#: templates/account/signup.html:10
+#: templates/account/signup.html:14
 msgid "To sign up to HSReplay.net, use your Blizzard account."
 msgstr "使用暴雪帳號來登入HSReplay.net"
 
-#: templates/account/signup.html:16
+#: templates/account/signup.html:20
 msgid "Alternatively, sign up with an email and password."
 msgstr "或是，用信箱來註冊。"
 
-#: templates/account/signup.html:30 templates/socialaccount/signup.html:45
+#: templates/account/signup.html:31
+msgid "Username"
+msgstr "使用者名稱"
+
+#: templates/account/signup.html:34 templates/socialaccount/signup.html:45
 msgid "Email address"
 msgstr "電子郵件地址"
 
-#: templates/account/signup.html:36
+#: templates/account/signup.html:40
 msgid "Password (repeat)"
 msgstr "密碼 （再次輸入）"
 
@@ -565,10 +539,6 @@ msgstr ""
 #: templates/socialaccount/authentication_error.html:16
 #, python-format
 msgid "This could be because you did something unusual during your login or due to an ongoing issue with %(provider)s."
-msgstr ""
-
-#: templates/socialaccount/authentication_error.html:21
-msgid "Please try again in a few minutes."
 msgstr ""
 
 #: templates/socialaccount/authentication_error.html:26

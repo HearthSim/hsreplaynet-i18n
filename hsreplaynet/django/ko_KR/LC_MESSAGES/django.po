@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-01 01:40+0000\n"
-"PO-Revision-Date: 2024-10-01 12:40\n"
+"POT-Creation-Date: 2024-10-02 01:40+0000\n"
+"PO-Revision-Date: 2024-10-02 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -82,48 +82,56 @@ msgstr "코드는 이 계정에는 영향을 미치지 않았고 아직 유효�
 msgid "Code has been applied to your account."
 msgstr "코드가 귀하의 계정에 적용 되었습니다."
 
-#: settings.py:387
+#: settings.py:390
 msgid "Full access to your HSReplay.net account"
 msgstr ""
 
-#: settings.py:388
+#: settings.py:391
 msgid "Access information about your connected social accounts"
 msgstr ""
 
-#: settings.py:389
+#: settings.py:392
 msgid "View your Hearthstone card collection"
 msgstr ""
 
-#: settings.py:390
+#: settings.py:393
 msgid "Upload your Hearthstone card collection to the site"
 msgstr ""
 
-#: settings.py:391
+#: settings.py:394
 msgid "View your replays"
 msgstr ""
 
-#: settings.py:392
+#: settings.py:395
 msgid "Update and delete your replays"
 msgstr ""
 
-#: settings.py:393
+#: settings.py:396
 msgid "Access the Partner API"
 msgstr ""
 
-#: settings.py:394
+#: settings.py:397
 msgid "Read access to the tournaments service"
 msgstr ""
 
-#: settings.py:395
+#: settings.py:398
 msgid "Write access to the tournaments service"
 msgstr ""
 
-#: settings.py:396
+#: settings.py:399
 msgid "View your webhooks"
 msgstr ""
 
-#: settings.py:397
+#: settings.py:400
 msgid "Create and delete webhooks on your behalf"
+msgstr ""
+
+#: templates/429.html:6
+msgid "Too many requests"
+msgstr ""
+
+#: templates/429.html:10 templates/socialaccount/authentication_error.html:21
+msgid "Please try again in a few minutes."
 msgstr ""
 
 #: templates/account/account_inactive.html:6
@@ -180,8 +188,7 @@ msgstr ""
 msgid "Applications"
 msgstr ""
 
-#: templates/account/base.html:22 templates/account/login.html:70
-#: templates/account/signup.html:33
+#: templates/account/base.html:22 templates/account/signup.html:37
 msgid "Password"
 msgstr "비밀번호"
 
@@ -288,43 +295,6 @@ msgstr "안녕하세요 %(user)s님!\n\n"
 "감사합니다.\n"
 "HSReplay.net 팀\n"
 
-#: templates/account/login.html:14
-#, python-format
-msgid "Sign in to connect %(oauth2_client)s"
-msgstr ""
-
-#: templates/account/login.html:19
-msgid "We'll send you to the official Blizzard site where you can securely sign in."
-msgstr "당신이 안전하게 로그인 할 수 있는 공식 블리자드 사이트로 보내드리겠습니다."
-
-#: templates/account/login.html:21
-msgid "Blizzard will redirect you back here once you're done."
-msgstr "로그인이 완료되면 여기로 되돌아옵니다."
-
-#: templates/account/login.html:35
-msgid "Log in with Blizzard"
-msgstr "블리자드 계정으로 로그인"
-
-#: templates/account/login.html:40
-msgid "Region"
-msgstr "지역"
-
-#: templates/account/login.html:49
-msgid "HSReplay.net never gains access to your Blizzard email address or password."
-msgstr "HSReplay.net은 절대로 당신의 블리자드 이메일이나 비밀번호를 취득하지 않습니다."
-
-#: templates/account/login.html:59
-msgid "Not using a Blizzard account? Sign in with your username and password here."
-msgstr "블리자드 계정이 없으세요? 아이디와 비밀번호로 가입하세요."
-
-#: templates/account/login.html:69 templates/account/signup.html:27
-msgid "Username"
-msgstr "아이디"
-
-#: templates/account/login.html:73
-msgid "Sign in"
-msgstr "로그인"
-
 #: templates/account/logout.html:6 templates/account/logout.html:17
 msgid "Sign out"
 msgstr "로그아웃"
@@ -350,24 +320,28 @@ msgstr "비밀번호 재설정"
 msgid "Need help? <a href=\"%(contact_url)s\">Contact us</a>."
 msgstr ""
 
-#: templates/account/signup.html:8 templates/account/signup.html:39
+#: templates/account/signup.html:12 templates/account/signup.html:43
 #: templates/socialaccount/signup.html:12
 msgid "Sign up"
 msgstr "회원가입"
 
-#: templates/account/signup.html:10
+#: templates/account/signup.html:14
 msgid "To sign up to HSReplay.net, use your Blizzard account."
 msgstr "HSReplay.net에 가입하기 위해 블리자드 계정이 필요합니다."
 
-#: templates/account/signup.html:16
+#: templates/account/signup.html:20
 msgid "Alternatively, sign up with an email and password."
 msgstr "대신, 이메일과 비밀번호로 가입할 수 있습니다."
 
-#: templates/account/signup.html:30 templates/socialaccount/signup.html:45
+#: templates/account/signup.html:31
+msgid "Username"
+msgstr "아이디"
+
+#: templates/account/signup.html:34 templates/socialaccount/signup.html:45
 msgid "Email address"
 msgstr "이메일"
 
-#: templates/account/signup.html:36
+#: templates/account/signup.html:40
 msgid "Password (repeat)"
 msgstr "비밀번호(재확인)"
 
@@ -562,10 +536,6 @@ msgstr ""
 #: templates/socialaccount/authentication_error.html:16
 #, python-format
 msgid "This could be because you did something unusual during your login or due to an ongoing issue with %(provider)s."
-msgstr ""
-
-#: templates/socialaccount/authentication_error.html:21
-msgid "Please try again in a few minutes."
 msgstr ""
 
 #: templates/socialaccount/authentication_error.html:26
