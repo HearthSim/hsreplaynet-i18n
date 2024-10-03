@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-02 01:40+0000\n"
-"PO-Revision-Date: 2024-10-02 12:40\n"
+"POT-Creation-Date: 2024-10-03 01:40+0000\n"
+"PO-Revision-Date: 2024-10-03 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -82,47 +82,47 @@ msgstr "Kod nie wpłynął na konto i pozostaje ważny."
 msgid "Code has been applied to your account."
 msgstr "Kod został zastosowany na twoim koncie."
 
-#: settings.py:390
+#: settings.py:399
 msgid "Full access to your HSReplay.net account"
 msgstr "Pełny dostęp do twojego konta HSReplay.net"
 
-#: settings.py:391
+#: settings.py:400
 msgid "Access information about your connected social accounts"
 msgstr "Uzyskaj dostęp do informacji na temat swoich powiązanych kont społecznościowych"
 
-#: settings.py:392
+#: settings.py:401
 msgid "View your Hearthstone card collection"
 msgstr "Zobacz swoją kolekcję kart Hearthstone"
 
-#: settings.py:393
+#: settings.py:402
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Wyślij swoją kolekcję kart Hearthstone na stronę"
 
-#: settings.py:394
+#: settings.py:403
 msgid "View your replays"
 msgstr "Zobacz swoje powtórki"
 
-#: settings.py:395
+#: settings.py:404
 msgid "Update and delete your replays"
 msgstr "Zaktualizuj i usuń swoje powtórki"
 
-#: settings.py:396
+#: settings.py:405
 msgid "Access the Partner API"
 msgstr "Dostęp do API partnerów"
 
-#: settings.py:397
+#: settings.py:406
 msgid "Read access to the tournaments service"
 msgstr "Dostęp do odczytu usługi turniejów"
 
-#: settings.py:398
+#: settings.py:407
 msgid "Write access to the tournaments service"
 msgstr "Dostęp do zapisu usługi turniejów"
 
-#: settings.py:399
+#: settings.py:408
 msgid "View your webhooks"
 msgstr "Zobacz swoje webhooki"
 
-#: settings.py:400
+#: settings.py:409
 msgid "Create and delete webhooks on your behalf"
 msgstr "Stwórz i usuń webhooki w swoim imieniu"
 
@@ -168,7 +168,7 @@ msgstr "Token"
 msgid "Created on"
 msgstr "Data utworzenia"
 
-#: templates/account/base.html:14 web/views/dashboard.py:39
+#: templates/account/base.html:14 web/views/dashboard.py:38
 msgid "Account"
 msgstr "Konto"
 
@@ -184,7 +184,7 @@ msgstr "Płatności"
 msgid "Connections"
 msgstr "Połączenia"
 
-#: templates/account/base.html:18 web/views/dashboard.py:298
+#: templates/account/base.html:18 web/views/dashboard.py:259
 msgid "Applications"
 msgstr "Aplikacje"
 
@@ -192,7 +192,7 @@ msgstr "Aplikacje"
 msgid "Password"
 msgstr "Hasło"
 
-#: templates/account/base.html:24 web/views/dashboard.py:90
+#: templates/account/base.html:24 web/views/dashboard.py:89
 msgid "Delete Account"
 msgstr "Usuń Konto"
 
@@ -241,7 +241,7 @@ msgstr ""
 msgid "Make Primary"
 msgstr "Ustaw jako główny"
 
-#: templates/account/email.html:42 templates/socialaccount/connections.html:53
+#: templates/account/email.html:42 templates/socialaccount/connections.html:45
 msgid "Remove"
 msgstr "Usuń"
 
@@ -321,7 +321,7 @@ msgid "Need help? <a href=\"%(contact_url)s\">Contact us</a>."
 msgstr "Potrzebujesz pomocy? <a href=\"%(contact_url)s\">Skontaktuj się z nami</a>."
 
 #: templates/account/signup.html:12 templates/account/signup.html:43
-#: templates/socialaccount/signup.html:12
+#: templates/socialaccount/signup.html:11
 msgid "Sign up"
 msgstr "Rejestracja"
 
@@ -337,7 +337,7 @@ msgstr "Alternatywnie, możesz zarejestrować się przy pomocy konta email i has
 msgid "Username"
 msgstr "Nazwa użytkownika"
 
-#: templates/account/signup.html:34 templates/socialaccount/signup.html:45
+#: templates/account/signup.html:34 templates/socialaccount/signup.html:20
 msgid "Email address"
 msgstr "Adres email"
 
@@ -406,7 +406,7 @@ msgstr "Pobieranie"
 msgid "Premium"
 msgstr "Premium"
 
-#: templates/footer.html:66 web/views/battlegrounds.py:125
+#: templates/footer.html:66 web/views/battlegrounds.py:126
 msgid "Tier7"
 msgstr "Poziom7"
 
@@ -462,12 +462,12 @@ msgstr ""
 msgid "Parties"
 msgstr ""
 
-#: templates/navigation.html:78 web/views/battlegrounds.py:144
-#: web/views/battlegrounds.py:238
+#: templates/navigation.html:78 web/views/battlegrounds.py:145
+#: web/views/battlegrounds.py:239
 msgid "Heroes"
 msgstr "Bohaterowie"
 
-#: templates/navigation.html:90 web/views/battlegrounds.py:173
+#: templates/navigation.html:90 web/views/battlegrounds.py:174
 msgid "Darkmoon Prizes"
 msgstr ""
 
@@ -560,85 +560,56 @@ msgstr "Połączone konta"
 msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard account."
 msgstr "Następujące konta społecznościowe są połączone z twoim kontem HSReplay.net. Możesz się zalogować używając dowolnego konta, które jest połączone z kontem Blizzard."
 
-#: templates/socialaccount/connections.html:41
-msgid "Make primary"
-msgstr "Ustaw jako główny"
-
-#: templates/socialaccount/connections.html:44
-msgid "Primary account"
-msgstr "Główne konto"
-
-#: templates/socialaccount/connections.html:62
+#: templates/socialaccount/connections.html:59
 msgid "You currently have no social network accounts connected to this account."
 msgstr "Obecnie nie posiadasz żadnych kont społecznościowych połączonych z tym kontem."
 
-#: templates/socialaccount/signup.html:17
-msgid "The Blizzard account you are signing up with does not have a confirmed battletag yet, and cannot play Hearthstone."
-msgstr "Konto Blizzarda, do którego próbujesz się zalogować nie ma jeszcze potwierdzonego BattleTaga, przez co nie możesz grać w Hearthstone."
-
-#: templates/socialaccount/signup.html:18
-msgid "Please <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">visit Blizzard.com</a> and sign out to choose a different account."
-msgstr "Prosimy <a href=\"https://www.blizzard.com\" target=\"_blank\" rel=\"noopener\">odwiedzić Blizzard.com</a> i wylogować się aby wybrać inne konto."
-
-#: templates/socialaccount/signup.html:22
-#, python-format
-msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account."
-msgstr "<a href=\"%(contact_url)s\">Skontaktuj się z nami</a> jeśli potrzebujesz pomocy z zalogowaniem się do istniejącego konta."
-
-#: templates/socialaccount/signup.html:25
+#: templates/socialaccount/signup.html:14
 msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
 msgstr "Zamierzasz stworzyć nowe konto na HSReplay.net. Prosimy wypełnić poniższe szczegóły:"
 
-#: templates/socialaccount/signup.html:31
-msgid "Battletag"
-msgstr "Battletag"
-
-#: templates/socialaccount/signup.html:40
-msgid "You can change this later by connecting additional accounts."
-msgstr "Możesz to później zmienić, łącząc dodatkowe konta."
-
-#: templates/socialaccount/signup.html:53
+#: templates/socialaccount/signup.html:28
 msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
 msgstr "Wykorzystywane do celów związanych z kontem i rozliczeniami oraz do opcjonalnych aktualizacji produktów. Potwierdzenie adresu email jest wymagane."
 
-#: templates/socialaccount/signup.html:60
+#: templates/socialaccount/signup.html:35
 #, python-format
 msgid "I agree to the <a href=\"%(tos_url)s\">Terms of Service</a>."
 msgstr "Zgadzam się na <a href=\"%(tos_url)s\">Warunki Usługi</a>."
 
-#: templates/socialaccount/signup.html:67
+#: templates/socialaccount/signup.html:42
 msgid "I want to receive product updates by email."
 msgstr "Chcę otrzymywać aktualizacje produktu przez email."
 
-#: templates/socialaccount/signup.html:69
+#: templates/socialaccount/signup.html:44
 msgid "You can change this at any time."
 msgstr ""
 
-#: templates/socialaccount/signup.html:75
+#: templates/socialaccount/signup.html:50
 msgid "Already have an HSReplay.net account?"
 msgstr "Posiadasz już konto HSReplay.net?"
 
-#: templates/socialaccount/signup.html:76
+#: templates/socialaccount/signup.html:51
 msgid "If you keep seeing this page despite having registered an HSReplay.net account in the past, you may be logged into the wrong Blizzard account."
 msgstr "Jeśli nadal widzisz tę stronę pomimo zarejestrowania konta HSReplay.net w przeszłości, możesz być zalogowany na niewłaściwe konto Blizzarda."
 
-#: templates/socialaccount/signup.html:77
+#: templates/socialaccount/signup.html:52
 msgid "You can sign in to a different Blizzard account by following these steps:"
 msgstr "Możesz zalogować się na inne konto Blizzarda wykonując następujące kroki:"
 
-#: templates/socialaccount/signup.html:81
+#: templates/socialaccount/signup.html:56
 msgid "Sign out of your Blizzard account"
 msgstr "Wyloguj się z konta Blizzarda"
 
-#: templates/socialaccount/signup.html:86
+#: templates/socialaccount/signup.html:61
 msgid "Return to the HSReplay.net sign in page"
 msgstr "Wróć do strony logowania HSReplay.net"
 
-#: templates/socialaccount/signup.html:89
+#: templates/socialaccount/signup.html:64
 msgid "Sign into the correct Blizzard account"
 msgstr "Zaloguj się do poprawnego konta Blizzarda"
 
-#: templates/socialaccount/signup.html:93
+#: templates/socialaccount/signup.html:68
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
 msgstr "<a href=\"%(contact_url)s\">Skontaktuj się z nami</a> jeśli potrzebujesz pomocy z zalogowaniem się do istniejącego konta. Możemy połączyć dla ciebie konta!"
@@ -650,6 +621,10 @@ msgstr "Webhooki zostały przeterminowane"
 #: templates/webhooks/detail.html:12
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
 msgstr "Nie można już dodawać nowych punktów końcowych. Póki co będziemy kontynuować obsługę już istniejących webhooków."
+
+#: web/adapters.py:131
+msgid "You cannot remove the last account you can sign in with. Instead, you can delete your HSReplay.net account entirely."
+msgstr ""
 
 #: web/views/__init__.py:19
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
@@ -737,81 +712,81 @@ msgstr ""
 msgid "Find stats and different {name} decklists."
 msgstr "Znajdź statystyki i inne {name} listy talii."
 
-#: web/views/battlegrounds.py:114
+#: web/views/battlegrounds.py:115
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
 msgstr ""
 
-#: web/views/battlegrounds.py:124 web/views/battlegrounds.py:143
-#: web/views/battlegrounds.py:156 web/views/battlegrounds.py:172
-#: web/views/battlegrounds.py:229
+#: web/views/battlegrounds.py:125 web/views/battlegrounds.py:144
+#: web/views/battlegrounds.py:157 web/views/battlegrounds.py:173
+#: web/views/battlegrounds.py:230
 msgid "Battlegrounds"
 msgstr "Ustawka"
 
-#: web/views/battlegrounds.py:130
+#: web/views/battlegrounds.py:131
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr ""
 
-#: web/views/battlegrounds.py:135
+#: web/views/battlegrounds.py:136
 msgid "Battlegrounds Heroes"
 msgstr "Bohaterowie Ustawek"
 
-#: web/views/battlegrounds.py:137
+#: web/views/battlegrounds.py:138
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:153
+#: web/views/battlegrounds.py:154
 msgid "Battlegrounds Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:157
+#: web/views/battlegrounds.py:158
 msgid "Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:169
+#: web/views/battlegrounds.py:170
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr ""
 
-#: web/views/battlegrounds.py:178
+#: web/views/battlegrounds.py:179
 msgid "Battlegrounds Hero"
 msgstr "Bohater Ustawki"
 
-#: web/views/battlegrounds.py:198
+#: web/views/battlegrounds.py:199
 msgid "No matching hero found."
 msgstr "Nie znaleziono pasującego bohatera."
 
-#: web/views/battlegrounds.py:310
+#: web/views/battlegrounds.py:317
 msgid "Battlegrounds Duos Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:318
+#: web/views/battlegrounds.py:325
 msgid "Battlegrounds Minions"
 msgstr "Stronnicy Ustawki"
 
-#: web/views/battlegrounds.py:323 web/views/battlegrounds.py:349
+#: web/views/battlegrounds.py:330 web/views/battlegrounds.py:356
 msgid "Battlegrounds Minion"
 msgstr "Stronnik Ustawki"
 
-#: web/views/battlegrounds.py:341
+#: web/views/battlegrounds.py:348
 msgid "No matching minion found."
 msgstr "Nie znaleziono pasującego stronnika."
 
-#: web/views/battlegrounds.py:380
+#: web/views/battlegrounds.py:387
 msgid "Battlegrounds Compositions"
 msgstr "Kompozycje Ustawki"
 
-#: web/views/battlegrounds.py:385 web/views/battlegrounds.py:414
+#: web/views/battlegrounds.py:392 web/views/battlegrounds.py:421
 msgid "Battlegrounds Composition"
 msgstr "Kompozycja Ustawki"
 
-#: web/views/battlegrounds.py:407
+#: web/views/battlegrounds.py:414
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:409
+#: web/views/battlegrounds.py:416
 msgid "No matching composition found."
 msgstr "Nie znaleziono pasującej kompozycji."
 
-#: web/views/battlegrounds.py:467
+#: web/views/battlegrounds.py:474
 msgid "My Battlegrounds Stats"
 msgstr ""
 
@@ -849,39 +824,35 @@ msgstr "Kolekcja"
 msgid "{user}'s Hearthstone Collection"
 msgstr "Kolekcja Kart Hearthstone {user}'a"
 
-#: web/views/dashboard.py:79
+#: web/views/dashboard.py:78
 msgid "API Access"
 msgstr "Dostęp do API"
 
-#: web/views/dashboard.py:120
+#: web/views/dashboard.py:119
 msgid "This account cannot be deleted."
 msgstr "To konto nie może zostać usunięte."
 
-#: web/views/dashboard.py:149
+#: web/views/dashboard.py:148
 msgid "Your replays have been deleted."
 msgstr "Twoje powtórki zostały usunięte."
 
-#: web/views/dashboard.py:184
-msgid "Could not make account primary."
-msgstr "Nie udało się ustawić konta jako główne."
-
-#: web/views/dashboard.py:220
+#: web/views/dashboard.py:181
 msgid "You must add a verified email before we can send you marketing emails."
 msgstr ""
 
-#: web/views/dashboard.py:265
+#: web/views/dashboard.py:226
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr "Sprawdź swoją skrzynkę odbiorczą! Wysłaliśmy do ciebie wiadomość email, aby potwierdzić Twoje ustawienia subskrypcji."
 
-#: web/views/dashboard.py:272 web/views/dashboard.py:278
+#: web/views/dashboard.py:233 web/views/dashboard.py:239
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "Nie udało się zapisać Twoich ustawień emaila. Spróbuj ponownie później!"
 
-#: web/views/dashboard.py:288
+#: web/views/dashboard.py:249
 msgid "Your email preferences have been saved."
 msgstr "Twoje preferencje email zostały zapisane."
 
-#: web/views/dashboard.py:349
+#: web/views/dashboard.py:310
 msgid "Your Application"
 msgstr "Twoja Aplikacja"
 
