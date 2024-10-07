@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-03 01:40+0000\n"
-"PO-Revision-Date: 2024-10-04 12:40\n"
+"PO-Revision-Date: 2024-10-07 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -872,7 +872,7 @@ msgstr "炉石套牌"
 #: web/views/decks.py:54
 #, python-brace-format
 msgid "Best {class} Decks - {month} {year} - Hearthstone"
-msgstr ""
+msgstr "{class} 最佳卡组 - {year} 年 {month} 月 - 《炉石传说》"
 
 #: web/views/decks.py:63
 #, python-format
