@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-10-03 01:40+0000\n"
-"PO-Revision-Date: 2024-10-03 12:40\n"
+"POT-Creation-Date: 2024-10-10 01:40+0000\n"
+"PO-Revision-Date: 2024-10-10 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -748,39 +748,39 @@ msgstr ""
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:317
+#: web/views/battlegrounds.py:327
 msgid "Battlegrounds Duos Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:325
+#: web/views/battlegrounds.py:335
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:330 web/views/battlegrounds.py:356
+#: web/views/battlegrounds.py:340 web/views/battlegrounds.py:366
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:348
+#: web/views/battlegrounds.py:358
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:387
+#: web/views/battlegrounds.py:397
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:392 web/views/battlegrounds.py:421
+#: web/views/battlegrounds.py:402 web/views/battlegrounds.py:431
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:414
+#: web/views/battlegrounds.py:424
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:416
+#: web/views/battlegrounds.py:426
 msgid "No matching composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:474
+#: web/views/battlegrounds.py:484
 msgid "My Battlegrounds Stats"
 msgstr ""
 
