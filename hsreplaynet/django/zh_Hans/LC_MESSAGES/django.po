@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-10 01:40+0000\n"
-"PO-Revision-Date: 2024-10-10 12:40\n"
+"PO-Revision-Date: 2024-10-11 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -128,7 +128,7 @@ msgstr "为您创建和删除 webhooks"
 
 #: templates/429.html:6
 msgid "Too many requests"
-msgstr ""
+msgstr "请求过多"
 
 #: templates/429.html:10 templates/socialaccount/authentication_error.html:21
 msgid "Please try again in a few minutes."
@@ -624,7 +624,7 @@ msgstr "无法再添加新的终端。目前我们仍继续为现存webhooks提�
 
 #: web/adapters.py:131
 msgid "You cannot remove the last account you can sign in with. Instead, you can delete your HSReplay.net account entirely."
-msgstr ""
+msgstr "您不能删除您登录的最后一个帐户。相反，您可以完全删除您的 HSReplay.net 帐户。"
 
 #: web/views/__init__.py:19
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
@@ -636,7 +636,7 @@ msgstr "HSReplay.net - 释放您的潜能"
 
 #: web/views/__init__.py:117 web/views/oauth2.py:40
 msgid "Sign in to HSReplay.net"
-msgstr ""
+msgstr "登录到HSReplay.net"
 
 #: web/views/__init__.py:159
 msgid "Download Hearthstone Deck Tracker"
@@ -648,7 +648,7 @@ msgstr "HSReplay.net随身应用程序"
 
 #: web/views/__init__.py:163
 msgid "Hearthstone Deck Tracker is a free companion app to help you play like the pros."
-msgstr ""
+msgstr "HDT炉石记牌器是一款免费应用，可以帮助您拥有职业选手的炉石传说水平。"
 
 #: web/views/__init__.py:224
 msgid "Contact our Support Team"
@@ -677,7 +677,7 @@ msgstr "看看你能使用Hearthstone Deck Tracker和这个网站做些什么吧
 #: web/views/archetypes.py:37
 #, python-brace-format
 msgid "Hearthstone Meta Tier List - {month} {year}"
-msgstr ""
+msgstr "炉石传说环境梯队列表 - {year}年{month}月"
 
 #: web/views/archetypes.py:43
 msgid "Explore the Hearthstone meta tier list, find the best decks for every class,and how the archetypes match up."
@@ -685,7 +685,7 @@ msgstr ""
 
 #: web/views/archetypes.py:47
 msgid "Meta Tier List"
-msgstr ""
+msgstr "环境梯队表"
 
 #: web/views/archetypes.py:64
 msgid "Discover"
@@ -714,7 +714,7 @@ msgstr "查找统计信息和不同的 {name} 套牌。"
 
 #: web/views/battlegrounds.py:115
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
-msgstr ""
+msgstr "使用Tier7细致入微的战棋统计数据来提升你的游戏策略，例如最佳英雄、流派、随从的实战信息等！"
 
 #: web/views/battlegrounds.py:125 web/views/battlegrounds.py:144
 #: web/views/battlegrounds.py:157 web/views/battlegrounds.py:173
@@ -780,7 +780,7 @@ msgstr "酒馆战棋流派"
 
 #: web/views/battlegrounds.py:424
 msgid "No matching live or lingering composition found."
-msgstr ""
+msgstr "没有找到匹配的流派。"
 
 #: web/views/battlegrounds.py:426
 msgid "No matching composition found."
@@ -805,7 +805,7 @@ msgstr "没有与条件对应的卡牌。"
 #: web/views/cards.py:144
 #, python-brace-format
 msgid "{name} decks and stats"
-msgstr ""
+msgstr "{name} 套牌和统计"
 
 #: web/views/cards.py:197
 msgid "Hearthstone Card Editor"
@@ -859,7 +859,7 @@ msgstr "您的应用"
 #: web/views/decks.py:30
 #, python-brace-format
 msgid "Best Hearthstone Decks - {month} {year}"
-msgstr ""
+msgstr "最佳炉石传说套牌 - {year}年{month}月"
 
 #: web/views/decks.py:36
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
