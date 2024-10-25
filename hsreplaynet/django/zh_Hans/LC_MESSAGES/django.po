@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-23 01:40+0000\n"
-"PO-Revision-Date: 2024-10-24 00:40\n"
+"PO-Revision-Date: 2024-10-25 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -469,7 +469,7 @@ msgstr "英雄"
 
 #: templates/navigation.html:90 web/views/battlegrounds.py:160
 msgid "Trinkets"
-msgstr ""
+msgstr "饰品"
 
 #: templates/navigation.html:103 web/views/battlegrounds.py:229
 msgid "Darkmoon Prizes"
@@ -685,7 +685,7 @@ msgstr "炉石传说环境梯队列表 - {year}年{month}月"
 
 #: web/views/archetypes.py:43
 msgid "Explore the Hearthstone meta tier list, find the best decks for every class,and how the archetypes match up."
-msgstr ""
+msgstr "探索《炉石传说》中的最强职业、职业套牌及卡组克制。"
 
 #: web/views/archetypes.py:47
 msgid "Meta Tier List"
@@ -740,11 +740,11 @@ msgstr "打开我们的战棋英雄梯度表，查看在百万场对局中它们
 
 #: web/views/battlegrounds.py:151
 msgid "Battlegrounds Trinkets"
-msgstr ""
+msgstr "酒馆战棋饰品"
 
 #: web/views/battlegrounds.py:153
 msgid "Explore our Battlegrounds Trinkets Tier List and learn which trinket is the best - powered by data from millions of games."
-msgstr ""
+msgstr "透过千千万对局数据，探索酒馆战棋中最适合您的饰品"
 
 #: web/views/battlegrounds.py:209
 msgid "Battlegrounds Duos Heroes"
@@ -889,7 +889,7 @@ msgstr "{class} 最佳卡组 - {year} 年 {month} 月 - 《炉石传说》"
 #: web/views/decks.py:63
 #, python-format
 msgid "Find popular %s decks for every card and Hearthstone game mode. Compare winrates and find the deck for you!"
-msgstr ""
+msgstr "深入探索不同炉石模式中的最热门 %s 组套牌，了解它们在天梯上的胜率与热度。"
 
 #: web/views/decks.py:85
 msgid "My Decks"
@@ -960,7 +960,7 @@ msgstr "佣兵强度列表"
 #: web/views/oauth2.py:35
 #, python-format
 msgid "Connect %(application)s"
-msgstr ""
+msgstr "关联到 %(application)s"
 
 #: web/views/oauth2.py:76
 msgid "Access has been revoked."
