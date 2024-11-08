@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-07T01:40:25.754567\n"
+"POT-Creation-Date: 2024-11-08T01:40:26.287105\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-11-07 12:40\n"
+"PO-Revision-Date: 2024-11-08 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -127,7 +127,7 @@ msgstr "鼓圈德"
 
 #: https://hsreplay.net/archetypes/660/highlander-rainbow-death-knight
 msgid "Highlander Rainbow Death Knight"
-msgstr "宇宙彩虹DK"
+msgstr "宇宙DK（彩虹）"
 
 #: https://hsreplay.net/archetypes/671/mining-death-knight
 msgid "Mining Death Knight"
@@ -505,10 +505,6 @@ msgstr "恶毒牧"
 msgid "Galakrond Stealth Rogue"
 msgstr "潜行祈求贼"
 
-#: https://hsreplay.net/archetypes/185/demon-warlock
-msgid "Demon Warlock"
-msgstr "恶魔术"
-
 #: https://hsreplay.net/archetypes/25/miracle-rogue
 msgid "Miracle Rogue"
 msgstr "奇迹贼"
@@ -705,6 +701,10 @@ msgstr "奇数战"
 msgid "Secret Libram Paladin"
 msgstr "奥秘圣契骑"
 
+#: https://hsreplay.net/archetypes/185/demon-warlock
+msgid "Demon Warlock"
+msgstr "恶魔术"
+
 #: https://hsreplay.net/archetypes/273/secret-odd-mage
 msgid "Secret Odd Mage"
 msgstr "奇数奥秘法"
@@ -716,6 +716,10 @@ msgstr "龙萨"
 #: https://hsreplay.net/archetypes/275/murloc-warrior
 msgid "Murloc Warrior"
 msgstr "鱼人战"
+
+#: https://hsreplay.net/archetypes/374/libram-paladin
+msgid "Libram Paladin"
+msgstr "圣契骑"
 
 #: https://hsreplay.net/archetypes/277/murloc-druid
 msgid "Murloc Druid"
@@ -735,7 +739,7 @@ msgstr "奶德"
 
 #: https://hsreplay.net/archetypes/647/rainbow-handbuff-death-knight
 msgid "Rainbow Handbuff Death Knight"
-msgstr "污手彩虹DK"
+msgstr "污手DK（彩虹）"
 
 #: https://hsreplay.net/archetypes/367/tempo-demon-hunter
 msgid "Tempo Demon Hunter"
@@ -764,6 +768,10 @@ msgstr "麻将术"
 #: https://hsreplay.net/archetypes/672/even-death-knight
 msgid "Even Death Knight"
 msgstr "偶数DK"
+
+#: https://hsreplay.net/archetypes/132/hand-warlock
+msgid "Hand Warlock"
+msgstr "手牌术"
 
 #: https://hsreplay.net/archetypes/292/khadgar-dragon-mage
 msgid "Khadgar Dragon Mage"
@@ -1172,14 +1180,6 @@ msgstr "宇宙战"
 #: https://hsreplay.net/archetypes/428/ramp-paladin
 msgid "Ramp Paladin"
 msgstr "跳费骑"
-
-#: https://hsreplay.net/archetypes/132/hand-warlock
-msgid "Hand Warlock"
-msgstr "手牌术"
-
-#: https://hsreplay.net/archetypes/374/libram-paladin
-msgid "Libram Paladin"
-msgstr "圣契骑"
 
 #: https://hsreplay.net/archetypes/328/taunt-warrior
 msgid "Taunt Warrior"
@@ -2375,7 +2375,7 @@ msgstr "亲王贼"
 
 #: https://hsreplay.net/archetypes/713/rainbow-space-death-knight
 msgid "Rainbow Space Death Knight"
-msgstr "星舰彩虹DK"
+msgstr "星舰DK（彩虹）"
 
 #: https://hsreplay.net/archetypes/714/bbu-control-death-knight
 msgid "BBU Control Death Knight"
@@ -2404,4 +2404,36 @@ msgstr "星舰德"
 #: https://hsreplay.net/archetypes/720/discover-hunter
 msgid "Discover Hunter"
 msgstr "发现猎"
+
+#: https://hsreplay.net/archetypes/721/arkwing-mage
+msgid "Arkwing Mage"
+msgstr "阿肯法"
+
+#: https://hsreplay.net/archetypes/722/draenei-priest
+msgid "Draenei Priest"
+msgstr "德莱尼牧"
+
+#: https://hsreplay.net/archetypes/723/coals-priest
+msgid "Coals Priest"
+msgstr "自伤牧"
+
+#: https://hsreplay.net/archetypes/724/quasar-rogue
+msgid "Quasar Rogue"
+msgstr "类星体贼"
+
+#: https://hsreplay.net/archetypes/725/space-rogue
+msgid "Space Rogue"
+msgstr "星舰贼"
+
+#: https://hsreplay.net/archetypes/726/asteroid-shaman
+msgid "Asteroid Shaman"
+msgstr "小行星萨"
+
+#: https://hsreplay.net/archetypes/727/space-warlock
+msgid "Space Warlock"
+msgstr "星舰术"
+
+#: https://hsreplay.net/archetypes/728/draenei-warrior
+msgid "Draenei Warrior"
+msgstr "德莱尼战"
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-07T01:40:25.754567\n"
+"POT-Creation-Date: 2024-11-08T01:40:26.287105\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-11-07 12:40\n"
+"PO-Revision-Date: 2024-11-08 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -505,10 +505,6 @@ msgstr "Sacerdote Invocadora Maliciosa"
 msgid "Galakrond Stealth Rogue"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/185/demon-warlock
-msgid "Demon Warlock"
-msgstr "Brujo Demonios"
-
 #: https://hsreplay.net/archetypes/25/miracle-rogue
 msgid "Miracle Rogue"
 msgstr "Pícaro Milagro"
@@ -705,6 +701,10 @@ msgstr "Guerrero Impar"
 msgid "Secret Libram Paladin"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/185/demon-warlock
+msgid "Demon Warlock"
+msgstr "Brujo Demonios"
+
 #: https://hsreplay.net/archetypes/273/secret-odd-mage
 msgid "Secret Odd Mage"
 msgstr "Mago Secretos Impar"
@@ -716,6 +716,10 @@ msgstr "Chaman Dragones"
 #: https://hsreplay.net/archetypes/275/murloc-warrior
 msgid "Murloc Warrior"
 msgstr "Guerrero Murlocs"
+
+#: https://hsreplay.net/archetypes/374/libram-paladin
+msgid "Libram Paladin"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/277/murloc-druid
 msgid "Murloc Druid"
@@ -763,6 +767,10 @@ msgstr "Brujo Plot Twist"
 
 #: https://hsreplay.net/archetypes/672/even-death-knight
 msgid "Even Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/132/hand-warlock
+msgid "Hand Warlock"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/292/khadgar-dragon-mage
@@ -1171,14 +1179,6 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/428/ramp-paladin
 msgid "Ramp Paladin"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/132/hand-warlock
-msgid "Hand Warlock"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/374/libram-paladin
-msgid "Libram Paladin"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/328/taunt-warrior
@@ -2403,5 +2403,37 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/720/discover-hunter
 msgid "Discover Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/721/arkwing-mage
+msgid "Arkwing Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/722/draenei-priest
+msgid "Draenei Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/723/coals-priest
+msgid "Coals Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/724/quasar-rogue
+msgid "Quasar Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/725/space-rogue
+msgid "Space Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/726/asteroid-shaman
+msgid "Asteroid Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/727/space-warlock
+msgid "Space Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/728/draenei-warrior
+msgid "Draenei Warrior"
 msgstr ""
 
