@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-09 01:40+0000\n"
-"PO-Revision-Date: 2024-11-09 12:40\n"
+"PO-Revision-Date: 2024-11-11 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -469,7 +469,7 @@ msgstr "Eroi"
 
 #: templates/navigation.html:90 web/views/battlegrounds.py:159
 msgid "Trinkets"
-msgstr ""
+msgstr "Monili"
 
 #: templates/navigation.html:103 web/views/battlegrounds.py:232
 msgid "Darkmoon Prizes"
@@ -640,7 +640,7 @@ msgstr "HSReplay.net - Scatena il tuo potenziale"
 
 #: web/views/__init__.py:117 web/views/oauth2.py:40
 msgid "Sign in to HSReplay.net"
-msgstr ""
+msgstr "Registrati su HSReplay.net"
 
 #: web/views/__init__.py:159
 msgid "Download Hearthstone Deck Tracker"
@@ -652,7 +652,7 @@ msgstr "HSReplay.net Companion App"
 
 #: web/views/__init__.py:163
 msgid "Hearthstone Deck Tracker is a free companion app to help you play like the pros."
-msgstr ""
+msgstr "Hearthstone Deck Tracker è un'applicazione gratuita che ti aiuta a giocare come un professionista."
 
 #: web/views/__init__.py:224
 msgid "Contact our Support Team"
@@ -740,7 +740,7 @@ msgstr "Esplora la nostro Tier List degli Eroi di Battaglia e impara quale eroe 
 
 #: web/views/battlegrounds.py:151
 msgid "Battlegrounds Trinkets"
-msgstr ""
+msgstr "Monili della Battaglia"
 
 #: web/views/battlegrounds.py:153
 msgid "Explore our Battlegrounds Trinkets Tier List and learn which trinket is the best - powered by data from millions of games."
@@ -748,11 +748,11 @@ msgstr ""
 
 #: web/views/battlegrounds.py:212
 msgid "Battlegrounds Duos Heroes"
-msgstr ""
+msgstr "Eroi Duo di Battaglia"
 
 #: web/views/battlegrounds.py:216
 msgid "Duos Heroes"
-msgstr ""
+msgstr "Eroi Duo"
 
 #: web/views/battlegrounds.py:228
 msgid "Battlegrounds Darkmoon Prizes"
@@ -768,7 +768,7 @@ msgstr "Nessuna corrispondenza con l'Eroe trovata."
 
 #: web/views/battlegrounds.py:384
 msgid "Battlegrounds Duos Hero"
-msgstr ""
+msgstr "Eroi Duo di Battaglia"
 
 #: web/views/battlegrounds.py:392
 msgid "Battlegrounds Minions"
@@ -817,7 +817,7 @@ msgstr "Nessuna carta trovata corrispondente alla richiesta."
 #: web/views/cards.py:144
 #, python-brace-format
 msgid "{name} decks and stats"
-msgstr ""
+msgstr "{name} mazzi e statistiche"
 
 #: web/views/cards.py:197
 msgid "Hearthstone Card Editor"
@@ -960,7 +960,7 @@ msgstr "Tier List Mercenari"
 #: web/views/oauth2.py:35
 #, python-format
 msgid "Connect %(application)s"
-msgstr ""
+msgstr "Connetti %(application)s"
 
 #: web/views/oauth2.py:76
 msgid "Access has been revoked."
