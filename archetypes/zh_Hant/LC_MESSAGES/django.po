@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-10T01:40:27.732722\n"
+"POT-Creation-Date: 2024-11-18T01:40:26.559059\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2024-11-10 12:40\n"
+"PO-Revision-Date: 2024-11-18 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -652,10 +652,6 @@ msgstr "快攻牧"
 #: https://hsreplay.net/archetypes/228/clone-priest
 msgid "Clone Priest"
 msgstr "克隆牧"
-
-#: https://hsreplay.net/archetypes/266/resurrect-priest
-msgid "Resurrect Priest"
-msgstr "復活牧"
 
 #: https://hsreplay.net/archetypes/267/gonk-druid
 msgid "Gonk Druid"
@@ -2289,10 +2285,6 @@ msgstr ""
 msgid "Corpsicle Death Knight"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/693/deathrattle-death-knight
-msgid "Deathrattle Death Knight"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/694/concierge-druid
 msgid "Concierge Druid"
 msgstr ""
@@ -2447,5 +2439,49 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/731/core-priest
 msgid "Core Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/693/deathrattle-death-knight
+msgid "Deathrattle Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/732/trample-hunter
+msgid "Trample Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/733/core-hunter
+msgid "Core Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/734/taethelan-mage
+msgid "Tae'thelan Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/735/pipsi-paladin
+msgid "Pipsi Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/736/core-paladin
+msgid "Core Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/266/resurrect-priest
+msgid "Resurrect Priest"
+msgstr "復活牧"
+
+#: https://hsreplay.net/archetypes/737/cycle-rogue
+msgid "Cycle Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/738/pressure-rogue
+msgid "Pressure Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/739/cutlass-rogue
+msgid "Cutlass Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/740/core-warlock
+msgid "Core Warlock"
 msgstr ""
 
