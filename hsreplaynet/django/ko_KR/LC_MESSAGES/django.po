@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-09 01:40+0000\n"
-"PO-Revision-Date: 2024-11-09 12:40\n"
+"POT-Creation-Date: 2024-11-20 01:40+0000\n"
+"PO-Revision-Date: 2024-11-20 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -396,13 +396,13 @@ msgid "Not affiliated with Blizzard Entertainment."
 msgstr ""
 
 #: templates/footer.html:64 templates/navigation.html:67
-#: templates/navigation.html:146 templates/navigation.html:200
+#: templates/navigation.html:162 templates/navigation.html:216
 #: web/views/__init__.py:171
 msgid "Downloads"
 msgstr "다운로드"
 
-#: templates/footer.html:65 templates/navigation.html:189
-#: templates/navigation.html:192 web/views/premium.py:31
+#: templates/footer.html:65 templates/navigation.html:205
+#: templates/navigation.html:208 web/views/premium.py:31
 msgid "Premium"
 msgstr "프리미엄"
 
@@ -463,51 +463,55 @@ msgid "Parties"
 msgstr ""
 
 #: templates/navigation.html:78 web/views/battlegrounds.py:145
-#: web/views/battlegrounds.py:297
+#: web/views/battlegrounds.py:366
 msgid "Heroes"
 msgstr ""
 
-#: templates/navigation.html:90 web/views/battlegrounds.py:159
+#: templates/navigation.html:90 web/views/battlegrounds.py:228
 msgid "Trinkets"
 msgstr ""
 
-#: templates/navigation.html:103 web/views/battlegrounds.py:232
+#: templates/navigation.html:103 web/views/battlegrounds.py:301
 msgid "Darkmoon Prizes"
 msgstr ""
 
-#: templates/navigation.html:114
+#: templates/navigation.html:116 web/views/battlegrounds.py:160
+msgid "Comps"
+msgstr ""
+
+#: templates/navigation.html:127
 msgid "Minions"
 msgstr ""
 
-#: templates/navigation.html:124
+#: templates/navigation.html:139
 msgid "Compositions"
 msgstr ""
 
-#: templates/navigation.html:138 templates/navigation.html:190
+#: templates/navigation.html:154 templates/navigation.html:206
 msgid "SALE!"
 msgstr ""
 
-#: templates/navigation.html:153
+#: templates/navigation.html:169
 msgid "Trending"
 msgstr "떠오르는 덱"
 
-#: templates/navigation.html:161 templates/navigation.html:167
+#: templates/navigation.html:177 templates/navigation.html:183
 msgid "Meta"
 msgstr "최신유행"
 
-#: templates/navigation.html:162
+#: templates/navigation.html:178
 msgid "Back soon!"
 msgstr ""
 
-#: templates/navigation.html:174
+#: templates/navigation.html:190
 msgid "Decks"
 msgstr "덱"
 
-#: templates/navigation.html:180 web/views/cards.py:37 web/views/cards.py:163
+#: templates/navigation.html:196 web/views/cards.py:37 web/views/cards.py:163
 msgid "Cards"
 msgstr "카드목록"
 
-#: templates/navigation.html:226
+#: templates/navigation.html:242
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
@@ -721,8 +725,9 @@ msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics,
 msgstr ""
 
 #: web/views/battlegrounds.py:125 web/views/battlegrounds.py:144
-#: web/views/battlegrounds.py:158 web/views/battlegrounds.py:215
-#: web/views/battlegrounds.py:231 web/views/battlegrounds.py:288
+#: web/views/battlegrounds.py:159 web/views/battlegrounds.py:227
+#: web/views/battlegrounds.py:284 web/views/battlegrounds.py:300
+#: web/views/battlegrounds.py:357
 msgid "Battlegrounds"
 msgstr "전장"
 
@@ -739,66 +744,82 @@ msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best
 msgstr ""
 
 #: web/views/battlegrounds.py:151
-msgid "Battlegrounds Trinkets"
+msgid "Battlegrounds Comps"
 msgstr ""
 
 #: web/views/battlegrounds.py:153
+msgid "Explore our Comps Tier List and learn which comp is the best - powered by JeefHS, Top BGs player."
+msgstr ""
+
+#: web/views/battlegrounds.py:220
+msgid "Battlegrounds Trinkets"
+msgstr ""
+
+#: web/views/battlegrounds.py:222
 msgid "Explore our Battlegrounds Trinkets Tier List and learn which trinket is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:212
+#: web/views/battlegrounds.py:281
 msgid "Battlegrounds Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:216
+#: web/views/battlegrounds.py:285
 msgid "Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:228
+#: web/views/battlegrounds.py:297
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr ""
 
-#: web/views/battlegrounds.py:237
+#: web/views/battlegrounds.py:306
 msgid "Battlegrounds Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:257
+#: web/views/battlegrounds.py:326
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:384
+#: web/views/battlegrounds.py:453
 msgid "Battlegrounds Duos Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:392
+#: web/views/battlegrounds.py:461
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:397 web/views/battlegrounds.py:423
+#: web/views/battlegrounds.py:466 web/views/battlegrounds.py:492
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:415
+#: web/views/battlegrounds.py:484
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:454
+#: web/views/battlegrounds.py:523
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:459 web/views/battlegrounds.py:488
+#: web/views/battlegrounds.py:528 web/views/battlegrounds.py:557
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:481
+#: web/views/battlegrounds.py:550
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:483
+#: web/views/battlegrounds.py:552
 msgid "No matching composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:541
+#: web/views/battlegrounds.py:611
+msgid "Battlegrounds Comp"
+msgstr ""
+
+#: web/views/battlegrounds.py:629
+msgid "No matching comp found."
+msgstr ""
+
+#: web/views/battlegrounds.py:695
 msgid "My Battlegrounds Stats"
 msgstr ""
 
