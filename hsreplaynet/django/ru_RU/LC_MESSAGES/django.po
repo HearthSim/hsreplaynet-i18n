@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-20 01:40+0000\n"
-"PO-Revision-Date: 2024-11-20 12:40\n"
+"POT-Creation-Date: 2024-11-21 01:40+0000\n"
+"PO-Revision-Date: 2024-11-21 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -53,7 +53,7 @@ msgstr "Товар не доступен."
 msgid "This plan is not available."
 msgstr "Этот план недоступен."
 
-#: api/fields.py:9
+#: api/fields.py:13
 #, python-brace-format
 msgid "{input} is not a valid member of {enum}."
 msgstr "{input} не является допустимым значением {enum}."
