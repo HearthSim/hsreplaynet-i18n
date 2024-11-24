@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-18T01:40:26.559059\n"
+"POT-Creation-Date: 2024-11-24T01:40:25.394722\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-11-22 12:40\n"
+"PO-Revision-Date: 2024-11-24 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -504,6 +504,10 @@ msgstr "恶毒牧"
 #: https://hsreplay.net/archetypes/383/galakrond-stealth-rogue
 msgid "Galakrond Stealth Rogue"
 msgstr "潜行祈求贼"
+
+#: https://hsreplay.net/archetypes/741/big-hunter
+msgid "Big Hunter"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/25/miracle-rogue
 msgid "Miracle Rogue"
@@ -2101,10 +2105,6 @@ msgstr "神射手瞎"
 msgid "Spell Token Hunter"
 msgstr "超生猎"
 
-#: https://hsreplay.net/archetypes/652/buff-hunter
-msgid "Buff Hunter"
-msgstr "污手猎"
-
 #: https://hsreplay.net/archetypes/625/breakfast-hunter
 msgid "Breakfast Hunter"
 msgstr "蛋猎"
@@ -2244,6 +2244,10 @@ msgstr "自助餐猎"
 #: https://hsreplay.net/archetypes/683/amalgam-hunter
 msgid "Amalgam Hunter"
 msgstr "融合怪猎"
+
+#: https://hsreplay.net/archetypes/652/buff-hunter
+msgid "Buff Hunter"
+msgstr "污手猎"
 
 #: https://hsreplay.net/archetypes/684/sandwich-hunter
 msgid "Sandwich Hunter"
@@ -2484,4 +2488,8 @@ msgstr "弯刀剽窃贼"
 #: https://hsreplay.net/archetypes/740/core-warlock
 msgid "Core Warlock"
 msgstr "脚本术"
+
+#: https://hsreplay.net/archetypes/742/nostalgia-shaman
+msgid "Nostalgia Shaman"
+msgstr ""
 
