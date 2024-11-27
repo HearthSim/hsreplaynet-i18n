@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-26 01:40+0000\n"
-"PO-Revision-Date: 2024-11-26 12:40\n"
+"PO-Revision-Date: 2024-11-27 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -477,11 +477,11 @@ msgstr "暗月奖品"
 
 #: templates/navigation.html:116 web/views/battlegrounds.py:160
 msgid "Comps"
-msgstr ""
+msgstr "流派"
 
 #: templates/navigation.html:119
 msgid "NEW"
-msgstr ""
+msgstr "新"
 
 #: templates/navigation.html:131
 msgid "Minions"
@@ -749,11 +749,11 @@ msgstr "打开我们的战棋英雄梯度表，查看在百万场对局中它们
 
 #: web/views/battlegrounds.py:151
 msgid "Battlegrounds Comps"
-msgstr ""
+msgstr "酒馆战棋流派"
 
 #: web/views/battlegrounds.py:153
 msgid "Explore our Comps Tier List and learn which comp is the best - powered by JeefHS, Top BGs player."
-msgstr ""
+msgstr "探索我们的战棋流派梯队表并学习哪个流派是最好的 - 由顶级酒馆战棋玩家 JeefHS 提供支持。"
 
 #: web/views/battlegrounds.py:223
 msgid "Battlegrounds Trinkets"
@@ -817,11 +817,11 @@ msgstr "没有找到对应的流派。"
 
 #: web/views/battlegrounds.py:614
 msgid "Battlegrounds Comp"
-msgstr ""
+msgstr "酒馆战棋流派"
 
 #: web/views/battlegrounds.py:632
 msgid "No matching comp found."
-msgstr ""
+msgstr "未找到匹配的流派。"
 
 #: web/views/battlegrounds.py:706
 msgid "My Battlegrounds Stats"
