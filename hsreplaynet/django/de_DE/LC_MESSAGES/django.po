@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-26 01:40+0000\n"
-"PO-Revision-Date: 2024-11-26 12:40\n"
+"POT-Creation-Date: 2024-12-02 22:38+0000\n"
+"PO-Revision-Date: 2024-12-03 00:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -82,47 +82,47 @@ msgstr "Code betrifft dieses Konto nicht und bleibt gültig."
 msgid "Code has been applied to your account."
 msgstr "Code wurde auf dein Konto angewendet."
 
-#: settings.py:399
+#: settings.py:401
 msgid "Full access to your HSReplay.net account"
 msgstr "Vollständiger Zugriff auf dein HSReplay.net-Konto"
 
-#: settings.py:400
+#: settings.py:402
 msgid "Access information about your connected social accounts"
 msgstr "Zugriff auf Informationen über deine verknüpften sozialen Konten"
 
-#: settings.py:401
+#: settings.py:403
 msgid "View your Hearthstone card collection"
 msgstr "Betrachte deine Hearthstone-Kartensammlung"
 
-#: settings.py:402
+#: settings.py:404
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Deine Hearthstone-Kartensammlung zur Seite hochladen"
 
-#: settings.py:403
+#: settings.py:405
 msgid "View your replays"
 msgstr "Deine Aufzeichnungen betrachten"
 
-#: settings.py:404
+#: settings.py:406
 msgid "Update and delete your replays"
 msgstr "Deine Aufzeichnungen hochladen und entfernen"
 
-#: settings.py:405
+#: settings.py:407
 msgid "Access the Partner API"
 msgstr "Zugriff auf die Partner-API"
 
-#: settings.py:406
+#: settings.py:408
 msgid "Read access to the tournaments service"
 msgstr "Lesezugriff auf den Turnierdienst"
 
-#: settings.py:407
+#: settings.py:409
 msgid "Write access to the tournaments service"
 msgstr "Schreibzugriff auf den Turnierdienst"
 
-#: settings.py:408
+#: settings.py:410
 msgid "View your webhooks"
 msgstr "Deine Webhooks betrachten"
 
-#: settings.py:409
+#: settings.py:411
 msgid "Create and delete webhooks on your behalf"
 msgstr "Webhooks für dich erstellen und löschen"
 
@@ -217,82 +217,90 @@ msgstr "Deine personalisierten Statistiken werden nicht zurückgesetzt. Bist du 
 msgid "Cancel"
 msgstr "Abbrechen"
 
-#: templates/account/email.html:6
-msgid "Email Addresses"
-msgstr "E-Mail-Adressen"
-
-#: templates/account/email.html:10
-msgid "The following email addresses are associated with your account:"
-msgstr "Die folgenden E-Mail-Adressen sind mit deinem Konto verknüpft:"
-
-#: templates/account/email.html:18
-msgid "✔ Verified"
-msgstr "✔ Bestätigt"
-
-#: templates/account/email.html:23
-msgid "Re-send Verification"
-msgstr "Bestätigungs-E-Mail erneut versenden"
-
-#: templates/account/email.html:28
-msgid "✔ Primary"
-msgstr "✔ Primär"
-
-#: templates/account/email.html:33
-msgid "Make Primary"
-msgstr "Primär setzen"
-
-#: templates/account/email.html:42 templates/socialaccount/connections.html:45
-msgid "Remove"
-msgstr "Entfernen"
-
-#: templates/account/email.html:64
-msgid "Add email address"
-msgstr "E-Mail-Adresse hinzufügen"
-
-#: templates/account/email.html:73
-msgid "Notification settings"
-msgstr "Benachrichtigungseinstellungen"
-
-#: templates/account/email.html:77
-msgid "Control which types of emails you receive at your primary address."
-msgstr "Konfiguriere welche Arten von E-Mails du an deiner primären Adresse erhalten möchtest."
-
-#: templates/account/email.html:83
-msgid "Account & security (required)"
-msgstr "Konto & Sicherheit (erforderlich)"
-
-#: templates/account/email.html:84
-msgid "Billing (required)"
-msgstr "Zahlungen (erforderlich)"
-
-#: templates/account/email.html:87
-msgid "Product and feature announcements"
-msgstr "Produkt- und Funktionsankündigungen"
-
-#: templates/account/email.html:91
-msgid "Save"
-msgstr "Speichern"
-
-#: templates/account/email.html:99
-#, python-format
-msgid "Looking for a password setting? You can sign with any of <a href=\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there is no HSReplay.net password."
-msgstr "Du suchst eine Passworteinstellung? Du kannst dich mit jedem <a href=\"%(connected_accounts_url)s\">deiner verknüpften Blizzard-Konto</a> anmelden, es gibt kein HSReplay.net-Passwort."
-
 #: templates/account/email/email_confirmation_message.txt:1
 #, python-format
-msgid "Hello %(user)s!\n\n"
-"You've added this email address to your account. We need to verify that you own it.\n\n"
+msgid "Hello,\n\n"
+"You're receiving this email because you (or somebody else) is trying to change their HSReplay.net email address. We need to verify that you own it.\n\n"
 "If this is correct, go to the following URL within three days to confirm:\n\n"
 "%(activate_url)s\n\n"
 "If this was not you, you can simply ignore this email.\n\n"
 "Cheers,\n"
 "The HSReplay.net Team\n"
-msgstr "Hallo %(user)s!\n\n"
-"Du hast diese E-Mail-Adresse zu deinem Konto hinzugefügt. Wir müssen verifizieren dass sie dir gehört.\n\n"
-"Falls das korrekt ist, besuche innerhalb von drei Tagen zur Bestätigung die folgende URL:\n\n"
+msgstr ""
+
+#: templates/account/email/email_confirmation_signup_message.txt:1
+#, python-format
+msgid "Hello,\n\n"
+"You're receiving this email because you (or somebody else) is trying to create a new HSReplay.net account with this email address. We need to verify that you own it.\n\n"
+"If this is correct, go to the following URL within three days to confirm:\n\n"
 "%(activate_url)s\n\n"
-"Falls du das nicht warst, kannst du diese E-Mail ignorieren.\n\n"
-"Das HSReplay.net-Team\n"
+"If this was not you, you can simply ignore this email.\n\n"
+"Cheers,\n"
+"The HSReplay.net Team\n"
+msgstr ""
+
+#: templates/account/email_change.html:6
+msgid "Email Address"
+msgstr ""
+
+#: templates/account/email_change.html:11
+msgid "The following email addresses are associated with your account:"
+msgstr "Die folgenden E-Mail-Adressen sind mit deinem Konto verknüpft:"
+
+#: templates/account/email_change.html:18
+msgid "✔ Current Email Address"
+msgstr ""
+
+#: templates/account/email_change.html:24
+msgid "Make Primary"
+msgstr "Primär setzen"
+
+#: templates/account/email_change.html:26
+msgid "Re-send Verification"
+msgstr "Bestätigungs-E-Mail erneut versenden"
+
+#: templates/account/email_change.html:34
+#: templates/socialaccount/connections.html:45
+msgid "Remove"
+msgstr "Entfernen"
+
+#: templates/account/email_change.html:43
+#, python-format
+msgid "Your account's email address is currently set to <strong>%(email)s</strong>"
+msgstr ""
+
+#: templates/account/email_change.html:57
+msgid "Change Email"
+msgstr ""
+
+#: templates/account/email_change.html:66
+msgid "Notification settings"
+msgstr "Benachrichtigungseinstellungen"
+
+#: templates/account/email_change.html:70
+msgid "Control which types of emails you want receive from us:"
+msgstr ""
+
+#: templates/account/email_change.html:76
+msgid "Account & security (required)"
+msgstr "Konto & Sicherheit (erforderlich)"
+
+#: templates/account/email_change.html:77
+msgid "Billing (required)"
+msgstr "Zahlungen (erforderlich)"
+
+#: templates/account/email_change.html:80
+msgid "Product and feature announcements"
+msgstr "Produkt- und Funktionsankündigungen"
+
+#: templates/account/email_change.html:84
+msgid "Save"
+msgstr "Speichern"
+
+#: templates/account/email_change.html:92
+#, python-format
+msgid "Looking for a password setting? You can sign with any of <a href=\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there is no HSReplay.net password."
+msgstr "Du suchst eine Passworteinstellung? Du kannst dich mit jedem <a href=\"%(connected_accounts_url)s\">deiner verknüpften Blizzard-Konto</a> anmelden, es gibt kein HSReplay.net-Passwort."
 
 #: templates/account/logout.html:6 templates/account/logout.html:17
 msgid "Sign out"

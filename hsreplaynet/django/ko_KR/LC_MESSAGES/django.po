@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-26 01:40+0000\n"
-"PO-Revision-Date: 2024-11-26 12:40\n"
+"POT-Creation-Date: 2024-12-02 22:38+0000\n"
+"PO-Revision-Date: 2024-12-03 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -82,47 +82,47 @@ msgstr "코드는 이 계정에는 영향을 미치지 않았고 아직 유효�
 msgid "Code has been applied to your account."
 msgstr "코드가 귀하의 계정에 적용 되었습니다."
 
-#: settings.py:399
+#: settings.py:401
 msgid "Full access to your HSReplay.net account"
 msgstr ""
 
-#: settings.py:400
+#: settings.py:402
 msgid "Access information about your connected social accounts"
 msgstr ""
 
-#: settings.py:401
+#: settings.py:403
 msgid "View your Hearthstone card collection"
 msgstr ""
 
-#: settings.py:402
+#: settings.py:404
 msgid "Upload your Hearthstone card collection to the site"
 msgstr ""
 
-#: settings.py:403
+#: settings.py:405
 msgid "View your replays"
 msgstr ""
 
-#: settings.py:404
+#: settings.py:406
 msgid "Update and delete your replays"
 msgstr ""
 
-#: settings.py:405
+#: settings.py:407
 msgid "Access the Partner API"
 msgstr ""
 
-#: settings.py:406
+#: settings.py:408
 msgid "Read access to the tournaments service"
 msgstr ""
 
-#: settings.py:407
+#: settings.py:409
 msgid "Write access to the tournaments service"
 msgstr ""
 
-#: settings.py:408
+#: settings.py:410
 msgid "View your webhooks"
 msgstr ""
 
-#: settings.py:409
+#: settings.py:411
 msgid "Create and delete webhooks on your behalf"
 msgstr ""
 
@@ -217,83 +217,90 @@ msgstr "개인 통계정보는 재설정되지 않습니다. 계속하시겠습�
 msgid "Cancel"
 msgstr "취소"
 
-#: templates/account/email.html:6
-msgid "Email Addresses"
-msgstr "이메일"
-
-#: templates/account/email.html:10
-msgid "The following email addresses are associated with your account:"
-msgstr "다음 이메일들이 계정과 연결되어있습니다:"
-
-#: templates/account/email.html:18
-msgid "✔ Verified"
-msgstr ""
-
-#: templates/account/email.html:23
-msgid "Re-send Verification"
-msgstr "인증 재전송"
-
-#: templates/account/email.html:28
-msgid "✔ Primary"
-msgstr ""
-
-#: templates/account/email.html:33
-msgid "Make Primary"
-msgstr "기본으로 지정"
-
-#: templates/account/email.html:42 templates/socialaccount/connections.html:45
-msgid "Remove"
-msgstr "제거"
-
-#: templates/account/email.html:64
-msgid "Add email address"
-msgstr "이메일 추가"
-
-#: templates/account/email.html:73
-msgid "Notification settings"
-msgstr "알림 설정"
-
-#: templates/account/email.html:77
-msgid "Control which types of emails you receive at your primary address."
-msgstr ""
-
-#: templates/account/email.html:83
-msgid "Account & security (required)"
-msgstr "계정 & 보안 (필수)"
-
-#: templates/account/email.html:84
-msgid "Billing (required)"
-msgstr "결제 (필수)"
-
-#: templates/account/email.html:87
-msgid "Product and feature announcements"
-msgstr "제품 및 기능 알림"
-
-#: templates/account/email.html:91
-msgid "Save"
-msgstr "저장"
-
-#: templates/account/email.html:99
-#, python-format
-msgid "Looking for a password setting? You can sign with any of <a href=\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there is no HSReplay.net password."
-msgstr ""
-
 #: templates/account/email/email_confirmation_message.txt:1
 #, python-format
-msgid "Hello %(user)s!\n\n"
-"You've added this email address to your account. We need to verify that you own it.\n\n"
+msgid "Hello,\n\n"
+"You're receiving this email because you (or somebody else) is trying to change their HSReplay.net email address. We need to verify that you own it.\n\n"
 "If this is correct, go to the following URL within three days to confirm:\n\n"
 "%(activate_url)s\n\n"
 "If this was not you, you can simply ignore this email.\n\n"
 "Cheers,\n"
 "The HSReplay.net Team\n"
-msgstr "안녕하세요 %(user)s님!\n\n"
-"방금 이 이메일을 계정에 추가하셨습니다. 추가 완료를 위해 이메일 소유자 인증이 필요합니다..\n\n"
-"당신이 맞다면, 3일 안에 아래 확인 링크를 클릭해주세요:\n\n"
+msgstr ""
+
+#: templates/account/email/email_confirmation_signup_message.txt:1
+#, python-format
+msgid "Hello,\n\n"
+"You're receiving this email because you (or somebody else) is trying to create a new HSReplay.net account with this email address. We need to verify that you own it.\n\n"
+"If this is correct, go to the following URL within three days to confirm:\n\n"
 "%(activate_url)s\n\n"
-"만약 당신이 아니라면, 이 이메일은 그냥 무시하셔도 좋습니다.\n\n"
-"감사합니다.\n"
-"HSReplay.net 팀\n"
+"If this was not you, you can simply ignore this email.\n\n"
+"Cheers,\n"
+"The HSReplay.net Team\n"
+msgstr ""
+
+#: templates/account/email_change.html:6
+msgid "Email Address"
+msgstr ""
+
+#: templates/account/email_change.html:11
+msgid "The following email addresses are associated with your account:"
+msgstr "다음 이메일들이 계정과 연결되어있습니다:"
+
+#: templates/account/email_change.html:18
+msgid "✔ Current Email Address"
+msgstr ""
+
+#: templates/account/email_change.html:24
+msgid "Make Primary"
+msgstr "기본으로 지정"
+
+#: templates/account/email_change.html:26
+msgid "Re-send Verification"
+msgstr "인증 재전송"
+
+#: templates/account/email_change.html:34
+#: templates/socialaccount/connections.html:45
+msgid "Remove"
+msgstr "제거"
+
+#: templates/account/email_change.html:43
+#, python-format
+msgid "Your account's email address is currently set to <strong>%(email)s</strong>"
+msgstr ""
+
+#: templates/account/email_change.html:57
+msgid "Change Email"
+msgstr ""
+
+#: templates/account/email_change.html:66
+msgid "Notification settings"
+msgstr "알림 설정"
+
+#: templates/account/email_change.html:70
+msgid "Control which types of emails you want receive from us:"
+msgstr ""
+
+#: templates/account/email_change.html:76
+msgid "Account & security (required)"
+msgstr "계정 & 보안 (필수)"
+
+#: templates/account/email_change.html:77
+msgid "Billing (required)"
+msgstr "결제 (필수)"
+
+#: templates/account/email_change.html:80
+msgid "Product and feature announcements"
+msgstr "제품 및 기능 알림"
+
+#: templates/account/email_change.html:84
+msgid "Save"
+msgstr "저장"
+
+#: templates/account/email_change.html:92
+#, python-format
+msgid "Looking for a password setting? You can sign with any of <a href=\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there is no HSReplay.net password."
+msgstr ""
 
 #: templates/account/logout.html:6 templates/account/logout.html:17
 msgid "Sign out"
