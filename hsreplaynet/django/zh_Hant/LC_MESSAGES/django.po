@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-02 22:38+0000\n"
-"PO-Revision-Date: 2024-12-03 00:40\n"
+"POT-Creation-Date: 2024-12-05 01:40+0000\n"
+"PO-Revision-Date: 2024-12-05 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -82,47 +82,47 @@ msgstr "金鑰啟用失敗，但可以在其他帳戶使用。"
 msgid "Code has been applied to your account."
 msgstr "金鑰啟用成功。"
 
-#: settings.py:401
+#: settings.py:407
 msgid "Full access to your HSReplay.net account"
 msgstr "完全存取你的HSReplay.net帳戶"
 
-#: settings.py:402
+#: settings.py:408
 msgid "Access information about your connected social accounts"
 msgstr "存取您的社交帳戶資訊"
 
-#: settings.py:403
+#: settings.py:409
 msgid "View your Hearthstone card collection"
 msgstr "檢視你的爐石卡片收藏"
 
-#: settings.py:404
+#: settings.py:410
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "上傳你的爐石卡片收藏到網站"
 
-#: settings.py:405
+#: settings.py:411
 msgid "View your replays"
 msgstr "檢視你的重播"
 
-#: settings.py:406
+#: settings.py:412
 msgid "Update and delete your replays"
 msgstr "上傳和刪除你的重播"
 
-#: settings.py:407
+#: settings.py:413
 msgid "Access the Partner API"
 msgstr "存取夥伴API"
 
-#: settings.py:408
+#: settings.py:414
 msgid "Read access to the tournaments service"
 msgstr "存取賽事服務權限"
 
-#: settings.py:409
+#: settings.py:415
 msgid "Write access to the tournaments service"
 msgstr "寫入賽事服務權限"
 
-#: settings.py:410
+#: settings.py:416
 msgid "View your webhooks"
 msgstr "查看你的Webhooks"
 
-#: settings.py:411
+#: settings.py:417
 msgid "Create and delete webhooks on your behalf"
 msgstr "代表您創建和刪除 Webhooks"
 
