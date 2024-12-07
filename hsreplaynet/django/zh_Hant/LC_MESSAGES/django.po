@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-05 01:40+0000\n"
-"PO-Revision-Date: 2024-12-05 12:40\n"
+"POT-Creation-Date: 2024-12-07 01:40+0000\n"
+"PO-Revision-Date: 2024-12-07 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -17,39 +17,39 @@ msgstr ""
 "X-Crowdin-File: /hsreplaynet/django/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 47\n"
 
-#: api/exceptions.py:17
+#: api/exceptions.py:21
 msgid "An upstream gateway returned an invalid response."
 msgstr "無效的回應。"
 
-#: api/exceptions.py:23
+#: api/exceptions.py:27
 msgid "An upstream gateway timed out."
 msgstr ""
 
-#: api/exceptions.py:29
+#: api/exceptions.py:33
 msgid "The entity cannot be processed."
 msgstr "無法執行"
 
-#: api/exceptions.py:35
+#: api/exceptions.py:39
 msgid "A resource is not in the expected state."
 msgstr "某個資源不在預期狀態內。"
 
-#: api/exceptions.py:41
+#: api/exceptions.py:45
 msgid "The card has been rejected."
 msgstr "這張卡被拒絕。"
 
-#: api/exceptions.py:46
+#: api/exceptions.py:50
 msgid "You need to authenticate to view this collection."
 msgstr ""
 
-#: api/exceptions.py:51
+#: api/exceptions.py:55
 msgid "You do not have permission to view this collection."
 msgstr "您無權檢視此收藏。"
 
-#: api/exceptions.py:57
+#: api/exceptions.py:61
 msgid "This product is not available."
 msgstr ""
 
-#: api/exceptions.py:63
+#: api/exceptions.py:67
 msgid "This plan is not available."
 msgstr ""
 
@@ -82,47 +82,47 @@ msgstr "金鑰啟用失敗，但可以在其他帳戶使用。"
 msgid "Code has been applied to your account."
 msgstr "金鑰啟用成功。"
 
-#: settings.py:407
+#: settings.py:408
 msgid "Full access to your HSReplay.net account"
 msgstr "完全存取你的HSReplay.net帳戶"
 
-#: settings.py:408
+#: settings.py:409
 msgid "Access information about your connected social accounts"
 msgstr "存取您的社交帳戶資訊"
 
-#: settings.py:409
+#: settings.py:410
 msgid "View your Hearthstone card collection"
 msgstr "檢視你的爐石卡片收藏"
 
-#: settings.py:410
+#: settings.py:411
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "上傳你的爐石卡片收藏到網站"
 
-#: settings.py:411
+#: settings.py:412
 msgid "View your replays"
 msgstr "檢視你的重播"
 
-#: settings.py:412
+#: settings.py:413
 msgid "Update and delete your replays"
 msgstr "上傳和刪除你的重播"
 
-#: settings.py:413
+#: settings.py:414
 msgid "Access the Partner API"
 msgstr "存取夥伴API"
 
-#: settings.py:414
+#: settings.py:415
 msgid "Read access to the tournaments service"
 msgstr "存取賽事服務權限"
 
-#: settings.py:415
+#: settings.py:416
 msgid "Write access to the tournaments service"
 msgstr "寫入賽事服務權限"
 
-#: settings.py:416
+#: settings.py:417
 msgid "View your webhooks"
 msgstr "查看你的Webhooks"
 
-#: settings.py:417
+#: settings.py:418
 msgid "Create and delete webhooks on your behalf"
 msgstr "代表您創建和刪除 Webhooks"
 
@@ -172,27 +172,28 @@ msgstr "創建於"
 msgid "Account"
 msgstr "帳號"
 
-#: templates/account/base.html:15 web/views/allauth.py:21
-msgid "Emails"
-msgstr "Emails"
-
-#: templates/account/base.html:16
-msgid "Billing"
-msgstr "帳單"
-
-#: templates/account/base.html:17 web/views/allauth.py:14
-msgid "Connections"
-msgstr "連接"
-
-#: templates/account/base.html:18 web/views/dashboard.py:259
-msgid "Applications"
-msgstr "應用程式授權"
-
-#: templates/account/base.html:22 templates/account/signup.html:37
+#: templates/account/base.html:16 templates/account/base.html:25
+#: templates/account/signup.html:34
 msgid "Password"
 msgstr "密碼"
 
-#: templates/account/base.html:24 web/views/dashboard.py:89
+#: templates/account/base.html:18 web/views/allauth.py:21
+msgid "Emails"
+msgstr "Emails"
+
+#: templates/account/base.html:19
+msgid "Billing"
+msgstr "帳單"
+
+#: templates/account/base.html:20 web/views/allauth.py:14
+msgid "Connections"
+msgstr "連接"
+
+#: templates/account/base.html:21 web/views/dashboard.py:262
+msgid "Applications"
+msgstr "應用程式授權"
+
+#: templates/account/base.html:27 web/views/dashboard.py:89
 msgid "Delete Account"
 msgstr "刪除帳號"
 
@@ -297,11 +298,6 @@ msgstr "產品以及功能宣告"
 msgid "Save"
 msgstr "儲存"
 
-#: templates/account/email_change.html:92
-#, python-format
-msgid "Looking for a password setting? You can sign with any of <a href=\"%(connected_accounts_url)s\">your connected Blizzard accounts</a>, there is no HSReplay.net password."
-msgstr "正在尋找密碼設定嗎? 你可以用任何<a href=\"%(connected_accounts_url)s\">已關聯的暴雪帳號</a>登入。並沒有HSReplay.net自己的密碼。"
-
 #: templates/account/logout.html:6 templates/account/logout.html:17
 msgid "Sign out"
 msgstr "登出"
@@ -310,9 +306,20 @@ msgstr "登出"
 msgid "Are you sure you want to sign out?"
 msgstr "確定要登出嗎？"
 
+#: templates/account/password_change.html:5
+#: templates/account/password_change.html:9
+#: templates/account/password_change.html:14
+#: templates/account/password_set.html:5
+msgid "Change Password"
+msgstr ""
+
+#: templates/account/password_change.html:15
+msgid "Forgot Password?"
+msgstr ""
+
 #: templates/account/password_reset.html:11
-msgid "Password reset"
-msgstr "密碼重設"
+msgid "Password Reset"
+msgstr ""
 
 #: templates/account/password_reset.html:13
 msgid "Forgot your password? Enter your email below, we'll send you a link to reset it."
@@ -325,12 +332,16 @@ msgstr "忘記了你的密碼?\n"
 msgid "Reset password"
 msgstr "重設密碼"
 
-#: templates/account/password_reset.html:26
+#: templates/account/password_reset.html:24
 #, python-format
 msgid "Need help? <a href=\"%(contact_url)s\">Contact us</a>."
 msgstr "需要幫助？到<a href=\"%(contact_url)s\">聯繫我們</a>。"
 
-#: templates/account/signup.html:12 templates/account/signup.html:43
+#: templates/account/password_set.html:9 templates/account/password_set.html:14
+msgid "Set Password"
+msgstr ""
+
+#: templates/account/signup.html:12 templates/account/signup.html:40
 #: templates/socialaccount/signup.html:11
 msgid "Sign up"
 msgstr "註冊"
@@ -343,22 +354,18 @@ msgstr "使用暴雪帳號來登入HSReplay.net"
 msgid "Alternatively, sign up with an email and password."
 msgstr "或是，用信箱來註冊。"
 
-#: templates/account/signup.html:31
-msgid "Username"
-msgstr "使用者名稱"
-
-#: templates/account/signup.html:34 templates/socialaccount/signup.html:20
+#: templates/account/signup.html:31 templates/socialaccount/signup.html:20
 msgid "Email address"
 msgstr "電子郵件地址"
 
-#: templates/account/signup.html:40
+#: templates/account/signup.html:37
 msgid "Password (repeat)"
 msgstr "密碼 （再次輸入）"
 
-#: templates/account/snippets/already_logged_in.html:3
+#: templates/account/snippets/already_logged_in.html:5
 #, python-format
-msgid "You are already logged in as <em>%(user)s</em>."
-msgstr "您已以<em>%(user)s</em> 登錄。"
+msgid "You are already logged in as %(user)s."
+msgstr ""
 
 #: templates/account/verification_sent.html:7
 msgid "Verify your e-mail address"
@@ -416,7 +423,7 @@ msgstr "下載"
 msgid "Premium"
 msgstr "尊榮會員"
 
-#: templates/footer.html:66 web/views/battlegrounds.py:126
+#: templates/footer.html:66 web/views/battlegrounds.py:124
 msgid "Tier7"
 msgstr "Tier7"
 
@@ -472,20 +479,20 @@ msgstr "強度列表"
 msgid "Parties"
 msgstr "隊伍"
 
-#: templates/navigation.html:78 web/views/battlegrounds.py:145
-#: web/views/battlegrounds.py:369
+#: templates/navigation.html:78 web/views/battlegrounds.py:143
+#: web/views/battlegrounds.py:367
 msgid "Heroes"
 msgstr "英雄"
 
-#: templates/navigation.html:90 web/views/battlegrounds.py:231
+#: templates/navigation.html:90 web/views/battlegrounds.py:229
 msgid "Trinkets"
 msgstr ""
 
-#: templates/navigation.html:103 web/views/battlegrounds.py:304
+#: templates/navigation.html:103 web/views/battlegrounds.py:302
 msgid "Darkmoon Prizes"
 msgstr "暗月獎品"
 
-#: templates/navigation.html:116 web/views/battlegrounds.py:160
+#: templates/navigation.html:116 web/views/battlegrounds.py:158
 msgid "Comps"
 msgstr ""
 
@@ -734,106 +741,106 @@ msgstr ""
 msgid "Find stats and different {name} decklists."
 msgstr ""
 
-#: web/views/battlegrounds.py:115
+#: web/views/battlegrounds.py:113
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
 msgstr ""
 
-#: web/views/battlegrounds.py:125 web/views/battlegrounds.py:144
-#: web/views/battlegrounds.py:159 web/views/battlegrounds.py:230
-#: web/views/battlegrounds.py:287 web/views/battlegrounds.py:303
-#: web/views/battlegrounds.py:360
+#: web/views/battlegrounds.py:123 web/views/battlegrounds.py:142
+#: web/views/battlegrounds.py:157 web/views/battlegrounds.py:228
+#: web/views/battlegrounds.py:285 web/views/battlegrounds.py:301
+#: web/views/battlegrounds.py:358
 msgid "Battlegrounds"
 msgstr "英雄戰場"
 
-#: web/views/battlegrounds.py:131
+#: web/views/battlegrounds.py:129
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr ""
 
-#: web/views/battlegrounds.py:136
+#: web/views/battlegrounds.py:134
 msgid "Battlegrounds Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:138
+#: web/views/battlegrounds.py:136
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:151
+#: web/views/battlegrounds.py:149
 msgid "Battlegrounds Comps"
 msgstr ""
 
-#: web/views/battlegrounds.py:153
+#: web/views/battlegrounds.py:151
 msgid "Explore our Comps Tier List and learn which comp is the best - powered by JeefHS, Top BGs player."
 msgstr ""
 
-#: web/views/battlegrounds.py:223
+#: web/views/battlegrounds.py:221
 msgid "Battlegrounds Trinkets"
 msgstr ""
 
-#: web/views/battlegrounds.py:225
+#: web/views/battlegrounds.py:223
 msgid "Explore our Battlegrounds Trinkets Tier List and learn which trinket is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:284
+#: web/views/battlegrounds.py:282
 msgid "Battlegrounds Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:288
+#: web/views/battlegrounds.py:286
 msgid "Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:300
+#: web/views/battlegrounds.py:298
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr ""
 
-#: web/views/battlegrounds.py:309
+#: web/views/battlegrounds.py:307
 msgid "Battlegrounds Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:329
+#: web/views/battlegrounds.py:327
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:456
+#: web/views/battlegrounds.py:454
 msgid "Battlegrounds Duos Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:464
+#: web/views/battlegrounds.py:462
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:469 web/views/battlegrounds.py:495
+#: web/views/battlegrounds.py:467 web/views/battlegrounds.py:493
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:487
+#: web/views/battlegrounds.py:485
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:526
+#: web/views/battlegrounds.py:524
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:531 web/views/battlegrounds.py:560
+#: web/views/battlegrounds.py:529 web/views/battlegrounds.py:558
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:553
+#: web/views/battlegrounds.py:551
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:555
+#: web/views/battlegrounds.py:553
 msgid "No matching composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:614
+#: web/views/battlegrounds.py:604
 msgid "Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:632
+#: web/views/battlegrounds.py:622
 msgid "No matching comp found."
 msgstr ""
 
-#: web/views/battlegrounds.py:706
+#: web/views/battlegrounds.py:696
 msgid "My Battlegrounds Stats"
 msgstr ""
 
@@ -883,23 +890,23 @@ msgstr "這個帳號不能被刪除。"
 msgid "Your replays have been deleted."
 msgstr "你的重播已被刪除。"
 
-#: web/views/dashboard.py:181
+#: web/views/dashboard.py:184
 msgid "You must add a verified email before we can send you marketing emails."
 msgstr ""
 
-#: web/views/dashboard.py:226
+#: web/views/dashboard.py:229
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr ""
 
-#: web/views/dashboard.py:233 web/views/dashboard.py:239
+#: web/views/dashboard.py:236 web/views/dashboard.py:242
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr ""
 
-#: web/views/dashboard.py:249
+#: web/views/dashboard.py:252
 msgid "Your email preferences have been saved."
 msgstr "您的電子郵件偏好已保存。"
 
-#: web/views/dashboard.py:310
+#: web/views/dashboard.py:313
 msgid "Your Application"
 msgstr ""
 
