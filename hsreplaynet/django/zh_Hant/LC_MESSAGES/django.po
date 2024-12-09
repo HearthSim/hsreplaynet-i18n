@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-07 01:40+0000\n"
-"PO-Revision-Date: 2024-12-07 12:40\n"
+"POT-Creation-Date: 2024-12-09 16:50+0000\n"
+"PO-Revision-Date: 2024-12-09 17:59\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -82,47 +82,47 @@ msgstr "金鑰啟用失敗，但可以在其他帳戶使用。"
 msgid "Code has been applied to your account."
 msgstr "金鑰啟用成功。"
 
-#: settings.py:408
+#: settings.py:410
 msgid "Full access to your HSReplay.net account"
 msgstr "完全存取你的HSReplay.net帳戶"
 
-#: settings.py:409
+#: settings.py:411
 msgid "Access information about your connected social accounts"
 msgstr "存取您的社交帳戶資訊"
 
-#: settings.py:410
+#: settings.py:412
 msgid "View your Hearthstone card collection"
 msgstr "檢視你的爐石卡片收藏"
 
-#: settings.py:411
+#: settings.py:413
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "上傳你的爐石卡片收藏到網站"
 
-#: settings.py:412
+#: settings.py:414
 msgid "View your replays"
 msgstr "檢視你的重播"
 
-#: settings.py:413
+#: settings.py:415
 msgid "Update and delete your replays"
 msgstr "上傳和刪除你的重播"
 
-#: settings.py:414
+#: settings.py:416
 msgid "Access the Partner API"
 msgstr "存取夥伴API"
 
-#: settings.py:415
+#: settings.py:417
 msgid "Read access to the tournaments service"
 msgstr "存取賽事服務權限"
 
-#: settings.py:416
+#: settings.py:418
 msgid "Write access to the tournaments service"
 msgstr "寫入賽事服務權限"
 
-#: settings.py:417
+#: settings.py:419
 msgid "View your webhooks"
 msgstr "查看你的Webhooks"
 
-#: settings.py:418
+#: settings.py:420
 msgid "Create and delete webhooks on your behalf"
 msgstr "代表您創建和刪除 Webhooks"
 
@@ -173,7 +173,7 @@ msgid "Account"
 msgstr "帳號"
 
 #: templates/account/base.html:16 templates/account/base.html:25
-#: templates/account/signup.html:34
+#: templates/account/signup.html:35
 msgid "Password"
 msgstr "密碼"
 
@@ -309,7 +309,6 @@ msgstr "確定要登出嗎？"
 #: templates/account/password_change.html:5
 #: templates/account/password_change.html:9
 #: templates/account/password_change.html:14
-#: templates/account/password_set.html:5
 msgid "Change Password"
 msgstr ""
 
@@ -337,30 +336,41 @@ msgstr "重設密碼"
 msgid "Need help? <a href=\"%(contact_url)s\">Contact us</a>."
 msgstr "需要幫助？到<a href=\"%(contact_url)s\">聯繫我們</a>。"
 
-#: templates/account/password_set.html:9 templates/account/password_set.html:14
+#: templates/account/password_set.html:5 templates/account/password_set.html:9
+#: templates/account/password_set.html:14
 msgid "Set Password"
 msgstr ""
 
-#: templates/account/signup.html:12 templates/account/signup.html:40
+#: templates/account/signup.html:14 templates/account/signup.html:55
 #: templates/socialaccount/signup.html:11
+#: templates/socialaccount/signup.html:47
 msgid "Sign up"
 msgstr "註冊"
 
-#: templates/account/signup.html:14
-msgid "To sign up to HSReplay.net, use your Blizzard account."
-msgstr "使用暴雪帳號來登入HSReplay.net"
+#: templates/account/signup.html:17 templates/socialaccount/signup.html:14
+msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
+msgstr ""
 
-#: templates/account/signup.html:20
-msgid "Alternatively, sign up with an email and password."
-msgstr "或是，用信箱來註冊。"
-
-#: templates/account/signup.html:31 templates/socialaccount/signup.html:20
+#: templates/account/signup.html:27 templates/socialaccount/signup.html:20
 msgid "Email address"
 msgstr "電子郵件地址"
 
-#: templates/account/signup.html:37
+#: templates/account/signup.html:30 templates/socialaccount/signup.html:28
+msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
+msgstr ""
+
+#: templates/account/signup.html:38
+msgid "Don't use the same password for multiple accounts."
+msgstr ""
+
+#: templates/account/signup.html:43
 msgid "Password (repeat)"
 msgstr "密碼 （再次輸入）"
+
+#: templates/account/signup.html:50 templates/socialaccount/signup.html:35
+#, python-format
+msgid "I agree to the <a href=\"%(tos_url)s\">Terms of Service</a>."
+msgstr ""
 
 #: templates/account/snippets/already_logged_in.html:5
 #, python-format
@@ -593,19 +603,6 @@ msgstr "以下的社交帳戶已經連結到你的HSReplay.net。你可以用任
 msgid "You currently have no social network accounts connected to this account."
 msgstr "您目前沒有連接到此帳戶的社交網絡帳戶。"
 
-#: templates/socialaccount/signup.html:14
-msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
-msgstr ""
-
-#: templates/socialaccount/signup.html:28
-msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
-msgstr ""
-
-#: templates/socialaccount/signup.html:35
-#, python-format
-msgid "I agree to the <a href=\"%(tos_url)s\">Terms of Service</a>."
-msgstr ""
-
 #: templates/socialaccount/signup.html:42
 msgid "I want to receive product updates by email."
 msgstr ""
@@ -614,31 +611,31 @@ msgstr ""
 msgid "You can change this at any time."
 msgstr ""
 
-#: templates/socialaccount/signup.html:50
+#: templates/socialaccount/signup.html:52
 msgid "Already have an HSReplay.net account?"
 msgstr ""
 
-#: templates/socialaccount/signup.html:51
+#: templates/socialaccount/signup.html:53
 msgid "If you keep seeing this page despite having registered an HSReplay.net account in the past, you may be logged into the wrong Blizzard account."
 msgstr ""
 
-#: templates/socialaccount/signup.html:52
+#: templates/socialaccount/signup.html:54
 msgid "You can sign in to a different Blizzard account by following these steps:"
 msgstr ""
 
-#: templates/socialaccount/signup.html:56
+#: templates/socialaccount/signup.html:58
 msgid "Sign out of your Blizzard account"
 msgstr ""
 
-#: templates/socialaccount/signup.html:61
+#: templates/socialaccount/signup.html:63
 msgid "Return to the HSReplay.net sign in page"
 msgstr ""
 
-#: templates/socialaccount/signup.html:64
+#: templates/socialaccount/signup.html:66
 msgid "Sign into the correct Blizzard account"
 msgstr ""
 
-#: templates/socialaccount/signup.html:68
+#: templates/socialaccount/signup.html:70
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
 msgstr ""

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-07 01:40+0000\n"
-"PO-Revision-Date: 2024-12-07 12:40\n"
+"POT-Creation-Date: 2024-12-09 16:50+0000\n"
+"PO-Revision-Date: 2024-12-09 17:59\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -82,47 +82,47 @@ msgstr "激活码使用失败，激活码依旧可用于其他账号。"
 msgid "Code has been applied to your account."
 msgstr "激活码使用成功。"
 
-#: settings.py:408
+#: settings.py:410
 msgid "Full access to your HSReplay.net account"
 msgstr "完全访问您的HSReplay.net帐户"
 
-#: settings.py:409
+#: settings.py:411
 msgid "Access information about your connected social accounts"
 msgstr "访问您已连接的社交帐户的信息"
 
-#: settings.py:410
+#: settings.py:412
 msgid "View your Hearthstone card collection"
 msgstr "查看您的炉石卡牌收藏"
 
-#: settings.py:411
+#: settings.py:413
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "上传您的炉石卡牌收藏到网站"
 
-#: settings.py:412
+#: settings.py:414
 msgid "View your replays"
 msgstr "查看您的回放"
 
-#: settings.py:413
+#: settings.py:415
 msgid "Update and delete your replays"
 msgstr "更新和删除您的回放"
 
-#: settings.py:414
+#: settings.py:416
 msgid "Access the Partner API"
 msgstr "获取合作伙伴的API"
 
-#: settings.py:415
+#: settings.py:417
 msgid "Read access to the tournaments service"
 msgstr "获得锦标赛服务的读取权限"
 
-#: settings.py:416
+#: settings.py:418
 msgid "Write access to the tournaments service"
 msgstr "获得锦标赛服务的写入权限"
 
-#: settings.py:417
+#: settings.py:419
 msgid "View your webhooks"
 msgstr "查看您的 webhooks"
 
-#: settings.py:418
+#: settings.py:420
 msgid "Create and delete webhooks on your behalf"
 msgstr "为您创建和删除 webhooks"
 
@@ -173,7 +173,7 @@ msgid "Account"
 msgstr "账号"
 
 #: templates/account/base.html:16 templates/account/base.html:25
-#: templates/account/signup.html:34
+#: templates/account/signup.html:35
 msgid "Password"
 msgstr "密码"
 
@@ -321,13 +321,12 @@ msgstr "您确定需要注销吗？"
 #: templates/account/password_change.html:5
 #: templates/account/password_change.html:9
 #: templates/account/password_change.html:14
-#: templates/account/password_set.html:5
 msgid "Change Password"
 msgstr ""
 
 #: templates/account/password_change.html:15
 msgid "Forgot Password?"
-msgstr ""
+msgstr "忘记密码？"
 
 #: templates/account/password_reset.html:11
 msgid "Password Reset"
@@ -346,30 +345,41 @@ msgstr "重置密码"
 msgid "Need help? <a href=\"%(contact_url)s\">Contact us</a>."
 msgstr "需要帮助吗？ <a href=\"%(contact_url)s\">与我们联系</a>。"
 
-#: templates/account/password_set.html:9 templates/account/password_set.html:14
+#: templates/account/password_set.html:5 templates/account/password_set.html:9
+#: templates/account/password_set.html:14
 msgid "Set Password"
 msgstr ""
 
-#: templates/account/signup.html:12 templates/account/signup.html:40
+#: templates/account/signup.html:14 templates/account/signup.html:55
 #: templates/socialaccount/signup.html:11
+#: templates/socialaccount/signup.html:47
 msgid "Sign up"
 msgstr "注册"
 
-#: templates/account/signup.html:14
-msgid "To sign up to HSReplay.net, use your Blizzard account."
-msgstr "要注册HSReplay.net，请使用您的暴雪帐户。"
+#: templates/account/signup.html:17 templates/socialaccount/signup.html:14
+msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
+msgstr "您将要创建一个新的HSReplay.net账号。请输入并检查下列详情："
 
-#: templates/account/signup.html:20
-msgid "Alternatively, sign up with an email and password."
-msgstr "或者，用邮箱与密码登录。"
-
-#: templates/account/signup.html:31 templates/socialaccount/signup.html:20
+#: templates/account/signup.html:27 templates/socialaccount/signup.html:20
 msgid "Email address"
-msgstr "邮箱地址"
+msgstr "电子邮箱地址"
 
-#: templates/account/signup.html:37
+#: templates/account/signup.html:30 templates/socialaccount/signup.html:28
+msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
+msgstr "用于账户与付款，以及可选的产品消息。需要接收验证邮件。"
+
+#: templates/account/signup.html:38
+msgid "Don't use the same password for multiple accounts."
+msgstr ""
+
+#: templates/account/signup.html:43
 msgid "Password (repeat)"
 msgstr "密码（再输一次）"
+
+#: templates/account/signup.html:50 templates/socialaccount/signup.html:35
+#, python-format
+msgid "I agree to the <a href=\"%(tos_url)s\">Terms of Service</a>."
+msgstr "我同意<a href=\"%(tos_url)s\">服务条款</a>。"
 
 #: templates/account/snippets/already_logged_in.html:5
 #, python-format
@@ -602,19 +612,6 @@ msgstr "以下社交账户已和您的HSReplay.net账号关联。您也可以连
 msgid "You currently have no social network accounts connected to this account."
 msgstr "您目前尚未将此账户与任何社交账号绑定。"
 
-#: templates/socialaccount/signup.html:14
-msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
-msgstr "您将要创建一个新的HSReplay.net账号。请输入并检查下列详情："
-
-#: templates/socialaccount/signup.html:28
-msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
-msgstr "用于账户与付款，以及可选的产品消息。需要接收验证邮件。"
-
-#: templates/socialaccount/signup.html:35
-#, python-format
-msgid "I agree to the <a href=\"%(tos_url)s\">Terms of Service</a>."
-msgstr "我同意<a href=\"%(tos_url)s\">服务条款</a>。"
-
 #: templates/socialaccount/signup.html:42
 msgid "I want to receive product updates by email."
 msgstr "我想要用邮件接收产品消息"
@@ -623,31 +620,31 @@ msgstr "我想要用邮件接收产品消息"
 msgid "You can change this at any time."
 msgstr "您可以随时更改此项。"
 
-#: templates/socialaccount/signup.html:50
+#: templates/socialaccount/signup.html:52
 msgid "Already have an HSReplay.net account?"
 msgstr "已经有HSReplay.net账号啦？"
 
-#: templates/socialaccount/signup.html:51
+#: templates/socialaccount/signup.html:53
 msgid "If you keep seeing this page despite having registered an HSReplay.net account in the past, you may be logged into the wrong Blizzard account."
 msgstr "如果您已经注册了HSReplay.net账户还是持续看到这个页面，您可能登录的错误的暴雪账号。"
 
-#: templates/socialaccount/signup.html:52
+#: templates/socialaccount/signup.html:54
 msgid "You can sign in to a different Blizzard account by following these steps:"
 msgstr "您可以通过下列步骤登录另外一个暴雪账号："
 
-#: templates/socialaccount/signup.html:56
+#: templates/socialaccount/signup.html:58
 msgid "Sign out of your Blizzard account"
 msgstr "注销您的暴雪账户"
 
-#: templates/socialaccount/signup.html:61
+#: templates/socialaccount/signup.html:63
 msgid "Return to the HSReplay.net sign in page"
 msgstr "返回HSReplay.net登录页面"
 
-#: templates/socialaccount/signup.html:64
+#: templates/socialaccount/signup.html:66
 msgid "Sign into the correct Blizzard account"
 msgstr "登录正确的暴雪账号"
 
-#: templates/socialaccount/signup.html:68
+#: templates/socialaccount/signup.html:70
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
 msgstr "如果您无法登录已有账号，请<a href=\"%(contact_url)s\">联系我们</a>。我们可以为您合并账户！"

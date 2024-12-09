@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-07 01:40+0000\n"
-"PO-Revision-Date: 2024-12-07 12:40\n"
+"POT-Creation-Date: 2024-12-09 16:50+0000\n"
+"PO-Revision-Date: 2024-12-09 17:59\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -82,47 +82,47 @@ msgstr "Código no afecta a esta cuenta y sigue siendo válido."
 msgid "Code has been applied to your account."
 msgstr "Código ha sido aplicado a su cuenta."
 
-#: settings.py:408
+#: settings.py:410
 msgid "Full access to your HSReplay.net account"
 msgstr "Acceso total a tu cuenta de HSReplay.net"
 
-#: settings.py:409
+#: settings.py:411
 msgid "Access information about your connected social accounts"
 msgstr "Información de tu cuenta sobre tus cuentas de redes sociales"
 
-#: settings.py:410
+#: settings.py:412
 msgid "View your Hearthstone card collection"
 msgstr "Ver colección de Heartstone"
 
-#: settings.py:411
+#: settings.py:413
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Subir colección de cartas de Heartstone a la web"
 
-#: settings.py:412
+#: settings.py:414
 msgid "View your replays"
 msgstr "Ver tus repeticiones"
 
-#: settings.py:413
+#: settings.py:415
 msgid "Update and delete your replays"
 msgstr "Subir y borrar tus repeticiones"
 
-#: settings.py:414
+#: settings.py:416
 msgid "Access the Partner API"
 msgstr "Acceder al API asociada"
 
-#: settings.py:415
+#: settings.py:417
 msgid "Read access to the tournaments service"
 msgstr "Leer accesos al servicio de torneos"
 
-#: settings.py:416
+#: settings.py:418
 msgid "Write access to the tournaments service"
 msgstr "Acceder al servicio de torneos"
 
-#: settings.py:417
+#: settings.py:419
 msgid "View your webhooks"
 msgstr "Ver tus webhooks"
 
-#: settings.py:418
+#: settings.py:420
 msgid "Create and delete webhooks on your behalf"
 msgstr "Crear y borrar webhooks en tu posesión"
 
@@ -173,7 +173,7 @@ msgid "Account"
 msgstr "Cuenta"
 
 #: templates/account/base.html:16 templates/account/base.html:25
-#: templates/account/signup.html:34
+#: templates/account/signup.html:35
 msgid "Password"
 msgstr "Contraseña"
 
@@ -309,7 +309,6 @@ msgstr "Esta seguro que quieres cerrar la sesión?"
 #: templates/account/password_change.html:5
 #: templates/account/password_change.html:9
 #: templates/account/password_change.html:14
-#: templates/account/password_set.html:5
 msgid "Change Password"
 msgstr ""
 
@@ -334,30 +333,41 @@ msgstr "Resetear contraseña"
 msgid "Need help? <a href=\"%(contact_url)s\">Contact us</a>."
 msgstr "¿Necesitas ayuda? Contáctanos <a href=\"%(contact_url)s\"></a>."
 
-#: templates/account/password_set.html:9 templates/account/password_set.html:14
+#: templates/account/password_set.html:5 templates/account/password_set.html:9
+#: templates/account/password_set.html:14
 msgid "Set Password"
 msgstr ""
 
-#: templates/account/signup.html:12 templates/account/signup.html:40
+#: templates/account/signup.html:14 templates/account/signup.html:55
 #: templates/socialaccount/signup.html:11
+#: templates/socialaccount/signup.html:47
 msgid "Sign up"
 msgstr "Iniciar sesión"
 
-#: templates/account/signup.html:14
-msgid "To sign up to HSReplay.net, use your Blizzard account."
-msgstr "Para iniciar sesión en HSReplay.net, usa tu cuenta de Blizzard."
+#: templates/account/signup.html:17 templates/socialaccount/signup.html:14
+msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
+msgstr "Estás a punto de crear una nueva cuenta HSReplay.net. Por favor, introduce y confirma tus datos a continuación:"
 
-#: templates/account/signup.html:20
-msgid "Alternatively, sign up with an email and password."
-msgstr "Alternativamente, inicia sesión con un email y contraseña."
-
-#: templates/account/signup.html:31 templates/socialaccount/signup.html:20
+#: templates/account/signup.html:27 templates/socialaccount/signup.html:20
 msgid "Email address"
 msgstr "Dirección de email"
 
-#: templates/account/signup.html:37
+#: templates/account/signup.html:30 templates/socialaccount/signup.html:28
+msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
+msgstr "Se utiliza para propósitos de cuenta y facturación y para actualizaciones opcionales de productos. Se requiere confirmación por correo electrónico."
+
+#: templates/account/signup.html:38
+msgid "Don't use the same password for multiple accounts."
+msgstr ""
+
+#: templates/account/signup.html:43
 msgid "Password (repeat)"
 msgstr "Contraseña (repetir)"
+
+#: templates/account/signup.html:50 templates/socialaccount/signup.html:35
+#, python-format
+msgid "I agree to the <a href=\"%(tos_url)s\">Terms of Service</a>."
+msgstr "Estoy de acuerdo con <a href=\"%(tos_url)s\">Terminos de Servicio</a>."
 
 #: templates/account/snippets/already_logged_in.html:5
 #, python-format
@@ -590,19 +600,6 @@ msgstr "Las siguientes redes sociales están vinculadas a tu cuenta HSRepplay.ne
 msgid "You currently have no social network accounts connected to this account."
 msgstr "Actualmente no tienen ninguna red social vinculada a esta cuenta."
 
-#: templates/socialaccount/signup.html:14
-msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
-msgstr "Estás a punto de crear una nueva cuenta HSReplay.net. Por favor, introduce y confirma tus datos a continuación:"
-
-#: templates/socialaccount/signup.html:28
-msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
-msgstr "Se utiliza para propósitos de cuenta y facturación y para actualizaciones opcionales de productos. Se requiere confirmación por correo electrónico."
-
-#: templates/socialaccount/signup.html:35
-#, python-format
-msgid "I agree to the <a href=\"%(tos_url)s\">Terms of Service</a>."
-msgstr "Estoy de acuerdo con <a href=\"%(tos_url)s\">Terminos de Servicio</a>."
-
 #: templates/socialaccount/signup.html:42
 msgid "I want to receive product updates by email."
 msgstr "Quiero recibir actualizaciones por correo electrónico."
@@ -611,31 +608,31 @@ msgstr "Quiero recibir actualizaciones por correo electrónico."
 msgid "You can change this at any time."
 msgstr "Puedes cambiar esto en cualquier momento."
 
-#: templates/socialaccount/signup.html:50
+#: templates/socialaccount/signup.html:52
 msgid "Already have an HSReplay.net account?"
 msgstr "Ya tienes una cuenta en HSReplay.net?"
 
-#: templates/socialaccount/signup.html:51
+#: templates/socialaccount/signup.html:53
 msgid "If you keep seeing this page despite having registered an HSReplay.net account in the past, you may be logged into the wrong Blizzard account."
 msgstr "Si sigue viendo esta página a pesar de haber registrado una cuenta de HSReplay.net en el pasado, puede que se inicie sesión en la cuenta de Blizzard equivocada."
 
-#: templates/socialaccount/signup.html:52
+#: templates/socialaccount/signup.html:54
 msgid "You can sign in to a different Blizzard account by following these steps:"
 msgstr "Puedes iniciar sesión en una cuenta de Blizzard siguiendo estos pasos:"
 
-#: templates/socialaccount/signup.html:56
+#: templates/socialaccount/signup.html:58
 msgid "Sign out of your Blizzard account"
 msgstr "Desconectarse de tu cuenta de Blizzard"
 
-#: templates/socialaccount/signup.html:61
+#: templates/socialaccount/signup.html:63
 msgid "Return to the HSReplay.net sign in page"
 msgstr "Volver a la página de inicio de sesión HSReplay.net"
 
-#: templates/socialaccount/signup.html:64
+#: templates/socialaccount/signup.html:66
 msgid "Sign into the correct Blizzard account"
 msgstr "Conectarse a la cuenta correcta de Blizzard"
 
-#: templates/socialaccount/signup.html:68
+#: templates/socialaccount/signup.html:70
 #, python-format
 msgid "<a href=\"%(contact_url)s\">Contact us</a> if you need help signing in to an existing account. We can merge accounts for you!"
 msgstr ". <a href=\"%(contact_url)s\">Contáctanos</a> si necesitas ayuda para iniciar sesión en una cuenta existente. Podemos unir varias cuentas!"
