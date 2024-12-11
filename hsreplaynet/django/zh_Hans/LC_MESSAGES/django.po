@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-12-10 18:26+0000\n"
-"PO-Revision-Date: 2024-12-11 00:40\n"
+"PO-Revision-Date: 2024-12-11 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -288,7 +288,7 @@ msgstr "更改电子邮件地址"
 
 #: templates/account/email_change.html:61
 msgid "Set Email"
-msgstr ""
+msgstr "设置电子邮箱"
 
 #: templates/account/email_change.html:73
 msgid "Notification settings"
@@ -326,7 +326,7 @@ msgstr "您确定需要注销吗？"
 #: templates/account/password_change.html:9
 #: templates/account/password_change.html:14
 msgid "Change Password"
-msgstr ""
+msgstr "修改密码"
 
 #: templates/account/password_change.html:15
 msgid "Forgot Password?"
@@ -334,7 +334,7 @@ msgstr "忘记密码？"
 
 #: templates/account/password_reset.html:11
 msgid "Password Reset"
-msgstr ""
+msgstr "重置密码"
 
 #: templates/account/password_reset.html:13
 msgid "Forgot your password? Enter your email below, we'll send you a link to reset it."
@@ -352,7 +352,7 @@ msgstr "需要帮助吗？ <a href=\"%(contact_url)s\">与我们联系</a>。"
 #: templates/account/password_set.html:5 templates/account/password_set.html:9
 #: templates/account/password_set.html:14
 msgid "Set Password"
-msgstr ""
+msgstr "设置密码"
 
 #: templates/account/signup.html:14 templates/account/signup.html:55
 #: templates/socialaccount/signup.html:11
@@ -374,7 +374,7 @@ msgstr "用于账户与付款，以及可选的产品消息。需要接收验证
 
 #: templates/account/signup.html:38
 msgid "Don't use the same password for multiple accounts."
-msgstr ""
+msgstr "不要对多个帐户使用相同的密码。"
 
 #: templates/account/signup.html:43
 msgid "Password (repeat)"
@@ -388,7 +388,7 @@ msgstr "我同意<a href=\"%(tos_url)s\">服务条款</a>。"
 #: templates/account/snippets/already_logged_in.html:5
 #, python-format
 msgid "You are already logged in as %(user)s."
-msgstr ""
+msgstr "您已经以%(user)s登录了。"
 
 #: templates/account/verification_sent.html:7
 msgid "Verify your e-mail address"
