@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-09 16:50+0000\n"
-"PO-Revision-Date: 2024-12-09 17:59\n"
+"POT-Creation-Date: 2024-12-10 18:26+0000\n"
+"PO-Revision-Date: 2024-12-11 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -82,47 +82,47 @@ msgstr "Código no afecta a esta cuenta y sigue siendo válido."
 msgid "Code has been applied to your account."
 msgstr "Código ha sido aplicado a su cuenta."
 
-#: settings.py:410
+#: settings.py:411
 msgid "Full access to your HSReplay.net account"
 msgstr "Acceso total a tu cuenta de HSReplay.net"
 
-#: settings.py:411
+#: settings.py:412
 msgid "Access information about your connected social accounts"
 msgstr "Información de tu cuenta sobre tus cuentas de redes sociales"
 
-#: settings.py:412
+#: settings.py:413
 msgid "View your Hearthstone card collection"
 msgstr "Ver colección de Heartstone"
 
-#: settings.py:413
+#: settings.py:414
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Subir colección de cartas de Heartstone a la web"
 
-#: settings.py:414
+#: settings.py:415
 msgid "View your replays"
 msgstr "Ver tus repeticiones"
 
-#: settings.py:415
+#: settings.py:416
 msgid "Update and delete your replays"
 msgstr "Subir y borrar tus repeticiones"
 
-#: settings.py:416
+#: settings.py:417
 msgid "Access the Partner API"
 msgstr "Acceder al API asociada"
 
-#: settings.py:417
+#: settings.py:418
 msgid "Read access to the tournaments service"
 msgstr "Leer accesos al servicio de torneos"
 
-#: settings.py:418
+#: settings.py:419
 msgid "Write access to the tournaments service"
 msgstr "Acceder al servicio de torneos"
 
-#: settings.py:419
+#: settings.py:420
 msgid "View your webhooks"
 msgstr "Ver tus webhooks"
 
-#: settings.py:420
+#: settings.py:421
 msgid "Create and delete webhooks on your behalf"
 msgstr "Crear y borrar webhooks en tu posesión"
 
@@ -189,7 +189,7 @@ msgstr "Facturación"
 msgid "Connections"
 msgstr "Conexiones"
 
-#: templates/account/base.html:21 web/views/dashboard.py:262
+#: templates/account/base.html:21 web/views/dashboard.py:273
 msgid "Applications"
 msgstr "Aplicaciones"
 
@@ -270,31 +270,35 @@ msgstr "Quitar"
 msgid "Your account's email address is currently set to <strong>%(email)s</strong>"
 msgstr ""
 
-#: templates/account/email_change.html:57
+#: templates/account/email_change.html:59
 msgid "Change Email"
 msgstr ""
 
-#: templates/account/email_change.html:66
+#: templates/account/email_change.html:61
+msgid "Set Email"
+msgstr ""
+
+#: templates/account/email_change.html:73
 msgid "Notification settings"
 msgstr "Ajustes de notificaciones"
 
-#: templates/account/email_change.html:70
+#: templates/account/email_change.html:77
 msgid "Control which types of emails you want receive from us:"
 msgstr ""
 
-#: templates/account/email_change.html:76
+#: templates/account/email_change.html:83
 msgid "Account & security (required)"
 msgstr "Cuenta y seguridad (requerido)"
 
-#: templates/account/email_change.html:77
+#: templates/account/email_change.html:84
 msgid "Billing (required)"
 msgstr "Facturación (requerido)"
 
-#: templates/account/email_change.html:80
+#: templates/account/email_change.html:87
 msgid "Product and feature announcements"
 msgstr "Anuncios de productos y características"
 
-#: templates/account/email_change.html:84
+#: templates/account/email_change.html:91
 msgid "Save"
 msgstr "Guardar"
 
@@ -645,7 +649,7 @@ msgstr "Los webhooks están obsoletos"
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
 msgstr "No se pueden añadir nuevos puntos. Seguiremos ofreciendo los webhooks existentes por el momento."
 
-#: web/adapters.py:131
+#: web/adapters.py:132
 msgid "You cannot remove the last account you can sign in with. Instead, you can delete your HSReplay.net account entirely."
 msgstr ""
 
@@ -888,19 +892,19 @@ msgstr "Tus repeticiones se han borrado."
 msgid "You must add a verified email before we can send you marketing emails."
 msgstr "Debes agregar un correo electrónico verificado antes de que podamos enviarte correos electrónicos de marketing."
 
-#: web/views/dashboard.py:229
-msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
-msgstr "¡Comprueba tu bandeja de entrada! Hemos enviado un correo electrónico para confirmar tus preferencias de suscripción."
-
-#: web/views/dashboard.py:236 web/views/dashboard.py:242
-msgid "Failed to save your email preferences. Please try again later!"
-msgstr "Error al guardar tus preferencias de correo electrónico. ¡Por favor, inténtalo de nuevo más tarde!"
-
-#: web/views/dashboard.py:252
+#: web/views/dashboard.py:196 web/views/dashboard.py:263
 msgid "Your email preferences have been saved."
 msgstr "Tus preferencias de correo se han guardado."
 
-#: web/views/dashboard.py:313
+#: web/views/dashboard.py:240
+msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
+msgstr "¡Comprueba tu bandeja de entrada! Hemos enviado un correo electrónico para confirmar tus preferencias de suscripción."
+
+#: web/views/dashboard.py:247 web/views/dashboard.py:253
+msgid "Failed to save your email preferences. Please try again later!"
+msgstr "Error al guardar tus preferencias de correo electrónico. ¡Por favor, inténtalo de nuevo más tarde!"
+
+#: web/views/dashboard.py:324
 msgid "Your Application"
 msgstr "Tu Aplicación"
 

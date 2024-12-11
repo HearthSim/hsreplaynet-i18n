@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-09 16:50+0000\n"
-"PO-Revision-Date: 2024-12-09 17:59\n"
+"POT-Creation-Date: 2024-12-10 18:26+0000\n"
+"PO-Revision-Date: 2024-12-11 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -82,47 +82,47 @@ msgstr "コードがアカウントに影響せず有効なままです。"
 msgid "Code has been applied to your account."
 msgstr "コードが適用されています。"
 
-#: settings.py:410
+#: settings.py:411
 msgid "Full access to your HSReplay.net account"
 msgstr ""
 
-#: settings.py:411
+#: settings.py:412
 msgid "Access information about your connected social accounts"
 msgstr ""
 
-#: settings.py:412
+#: settings.py:413
 msgid "View your Hearthstone card collection"
 msgstr "あなたのハースストーンのカード・コレクションを見る"
 
-#: settings.py:413
+#: settings.py:414
 msgid "Upload your Hearthstone card collection to the site"
 msgstr ""
 
-#: settings.py:414
+#: settings.py:415
 msgid "View your replays"
 msgstr "自分のリプレイを見る"
 
-#: settings.py:415
+#: settings.py:416
 msgid "Update and delete your replays"
 msgstr ""
 
-#: settings.py:416
+#: settings.py:417
 msgid "Access the Partner API"
 msgstr "パートナーAPIにアクセスします。"
 
-#: settings.py:417
+#: settings.py:418
 msgid "Read access to the tournaments service"
 msgstr "トーナメントサービスへの読み取りアクセス"
 
-#: settings.py:418
+#: settings.py:419
 msgid "Write access to the tournaments service"
 msgstr "トーナメントサービスへの書き込みアクセス"
 
-#: settings.py:419
+#: settings.py:420
 msgid "View your webhooks"
 msgstr "あなたのwebhooksを表示します。"
 
-#: settings.py:420
+#: settings.py:421
 msgid "Create and delete webhooks on your behalf"
 msgstr "webhooksを作成、削除"
 
@@ -189,7 +189,7 @@ msgstr "課金"
 msgid "Connections"
 msgstr "接続"
 
-#: templates/account/base.html:21 web/views/dashboard.py:262
+#: templates/account/base.html:21 web/views/dashboard.py:273
 msgid "Applications"
 msgstr "アプリケーション"
 
@@ -270,31 +270,35 @@ msgstr ""
 msgid "Your account's email address is currently set to <strong>%(email)s</strong>"
 msgstr ""
 
-#: templates/account/email_change.html:57
+#: templates/account/email_change.html:59
 msgid "Change Email"
 msgstr ""
 
-#: templates/account/email_change.html:66
+#: templates/account/email_change.html:61
+msgid "Set Email"
+msgstr ""
+
+#: templates/account/email_change.html:73
 msgid "Notification settings"
 msgstr "通知設定"
 
-#: templates/account/email_change.html:70
+#: templates/account/email_change.html:77
 msgid "Control which types of emails you want receive from us:"
 msgstr ""
 
-#: templates/account/email_change.html:76
+#: templates/account/email_change.html:83
 msgid "Account & security (required)"
 msgstr "アカウントとセキュリティ(必須)"
 
-#: templates/account/email_change.html:77
+#: templates/account/email_change.html:84
 msgid "Billing (required)"
 msgstr "お支払い(必須)"
 
-#: templates/account/email_change.html:80
+#: templates/account/email_change.html:87
 msgid "Product and feature announcements"
 msgstr "製品や機能のアナウンス"
 
-#: templates/account/email_change.html:84
+#: templates/account/email_change.html:91
 msgid "Save"
 msgstr "保存"
 
@@ -645,7 +649,7 @@ msgstr ""
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
 msgstr ""
 
-#: web/adapters.py:131
+#: web/adapters.py:132
 msgid "You cannot remove the last account you can sign in with. Instead, you can delete your HSReplay.net account entirely."
 msgstr ""
 
@@ -888,19 +892,19 @@ msgstr "あなたのリプレイが削除されました。"
 msgid "You must add a verified email before we can send you marketing emails."
 msgstr ""
 
-#: web/views/dashboard.py:229
-msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
-msgstr ""
-
-#: web/views/dashboard.py:236 web/views/dashboard.py:242
-msgid "Failed to save your email preferences. Please try again later!"
-msgstr ""
-
-#: web/views/dashboard.py:252
+#: web/views/dashboard.py:196 web/views/dashboard.py:263
 msgid "Your email preferences have been saved."
 msgstr ""
 
-#: web/views/dashboard.py:313
+#: web/views/dashboard.py:240
+msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
+msgstr ""
+
+#: web/views/dashboard.py:247 web/views/dashboard.py:253
+msgid "Failed to save your email preferences. Please try again later!"
+msgstr ""
+
+#: web/views/dashboard.py:324
 msgid "Your Application"
 msgstr ""
 

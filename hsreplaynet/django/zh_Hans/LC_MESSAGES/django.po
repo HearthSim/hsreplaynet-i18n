@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-09 16:50+0000\n"
-"PO-Revision-Date: 2024-12-09 17:59\n"
+"POT-Creation-Date: 2024-12-10 18:26+0000\n"
+"PO-Revision-Date: 2024-12-11 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -82,47 +82,47 @@ msgstr "激活码使用失败，激活码依旧可用于其他账号。"
 msgid "Code has been applied to your account."
 msgstr "激活码使用成功。"
 
-#: settings.py:410
+#: settings.py:411
 msgid "Full access to your HSReplay.net account"
 msgstr "完全访问您的HSReplay.net帐户"
 
-#: settings.py:411
+#: settings.py:412
 msgid "Access information about your connected social accounts"
 msgstr "访问您已连接的社交帐户的信息"
 
-#: settings.py:412
+#: settings.py:413
 msgid "View your Hearthstone card collection"
 msgstr "查看您的炉石卡牌收藏"
 
-#: settings.py:413
+#: settings.py:414
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "上传您的炉石卡牌收藏到网站"
 
-#: settings.py:414
+#: settings.py:415
 msgid "View your replays"
 msgstr "查看您的回放"
 
-#: settings.py:415
+#: settings.py:416
 msgid "Update and delete your replays"
 msgstr "更新和删除您的回放"
 
-#: settings.py:416
+#: settings.py:417
 msgid "Access the Partner API"
 msgstr "获取合作伙伴的API"
 
-#: settings.py:417
+#: settings.py:418
 msgid "Read access to the tournaments service"
 msgstr "获得锦标赛服务的读取权限"
 
-#: settings.py:418
+#: settings.py:419
 msgid "Write access to the tournaments service"
 msgstr "获得锦标赛服务的写入权限"
 
-#: settings.py:419
+#: settings.py:420
 msgid "View your webhooks"
 msgstr "查看您的 webhooks"
 
-#: settings.py:420
+#: settings.py:421
 msgid "Create and delete webhooks on your behalf"
 msgstr "为您创建和删除 webhooks"
 
@@ -189,7 +189,7 @@ msgstr "会员订单"
 msgid "Connections"
 msgstr "关联的账户"
 
-#: templates/account/base.html:21 web/views/dashboard.py:262
+#: templates/account/base.html:21 web/views/dashboard.py:273
 msgid "Applications"
 msgstr "应用授权"
 
@@ -282,31 +282,35 @@ msgstr "移除"
 msgid "Your account's email address is currently set to <strong>%(email)s</strong>"
 msgstr "您帐户的电子邮件地址当前设置为 <strong>%(email)s</strong>"
 
-#: templates/account/email_change.html:57
+#: templates/account/email_change.html:59
 msgid "Change Email"
 msgstr "更改电子邮件地址"
 
-#: templates/account/email_change.html:66
+#: templates/account/email_change.html:61
+msgid "Set Email"
+msgstr ""
+
+#: templates/account/email_change.html:73
 msgid "Notification settings"
 msgstr "通知设置"
 
-#: templates/account/email_change.html:70
+#: templates/account/email_change.html:77
 msgid "Control which types of emails you want receive from us:"
 msgstr "控制您希望从我们这里接收的电子邮件类型："
 
-#: templates/account/email_change.html:76
+#: templates/account/email_change.html:83
 msgid "Account & security (required)"
 msgstr "账户与安全（必需）"
 
-#: templates/account/email_change.html:77
+#: templates/account/email_change.html:84
 msgid "Billing (required)"
 msgstr "计费方式（必需）"
 
-#: templates/account/email_change.html:80
+#: templates/account/email_change.html:87
 msgid "Product and feature announcements"
 msgstr "产品与功能公告"
 
-#: templates/account/email_change.html:84
+#: templates/account/email_change.html:91
 msgid "Save"
 msgstr "保存"
 
@@ -657,7 +661,7 @@ msgstr "Webhooks已被废止"
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
 msgstr "无法再添加新的终端。目前我们仍继续为现存webhooks提供服务。"
 
-#: web/adapters.py:131
+#: web/adapters.py:132
 msgid "You cannot remove the last account you can sign in with. Instead, you can delete your HSReplay.net account entirely."
 msgstr "您不能删除您登录的最后一个帐户。相反，您可以完全删除您的 HSReplay.net 帐户。"
 
@@ -900,19 +904,19 @@ msgstr "您的回放已删除。"
 msgid "You must add a verified email before we can send you marketing emails."
 msgstr "您必须添加并验证一个电子邮件地址才能接收营销邮件。"
 
-#: web/views/dashboard.py:229
-msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
-msgstr "请检查收件箱！我们已经向您发送了一封电子邮件来核实您的订阅偏好。"
-
-#: web/views/dashboard.py:236 web/views/dashboard.py:242
-msgid "Failed to save your email preferences. Please try again later!"
-msgstr "您的电子邮件首选项保存失败。请稍候再试！"
-
-#: web/views/dashboard.py:252
+#: web/views/dashboard.py:196 web/views/dashboard.py:263
 msgid "Your email preferences have been saved."
 msgstr "您的邮箱偏好已设定。"
 
-#: web/views/dashboard.py:313
+#: web/views/dashboard.py:240
+msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
+msgstr "请检查收件箱！我们已经向您发送了一封电子邮件来核实您的订阅偏好。"
+
+#: web/views/dashboard.py:247 web/views/dashboard.py:253
+msgid "Failed to save your email preferences. Please try again later!"
+msgstr "您的电子邮件首选项保存失败。请稍候再试！"
+
+#: web/views/dashboard.py:324
 msgid "Your Application"
 msgstr "您的应用"
 
