@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-10 18:26+0000\n"
-"PO-Revision-Date: 2024-12-11 00:40\n"
+"POT-Creation-Date: 2024-12-12 01:40+0000\n"
+"PO-Revision-Date: 2024-12-12 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -189,7 +189,7 @@ msgstr "Facturación"
 msgid "Connections"
 msgstr "Conexiones"
 
-#: templates/account/base.html:21 web/views/dashboard.py:273
+#: templates/account/base.html:21 web/views/dashboard.py:278
 msgid "Applications"
 msgstr "Aplicaciones"
 
@@ -424,13 +424,13 @@ msgid "Not affiliated with Blizzard Entertainment."
 msgstr "No estámos afiliados a Blizzard Entertainment."
 
 #: templates/footer.html:64 templates/navigation.html:67
-#: templates/navigation.html:166 templates/navigation.html:220
-#: web/views/__init__.py:171
+#: templates/navigation.html:150 templates/navigation.html:204
+#: web/views/__init__.py:174
 msgid "Downloads"
 msgstr "Descargas"
 
-#: templates/footer.html:65 templates/navigation.html:209
-#: templates/navigation.html:212 web/views/premium.py:31
+#: templates/footer.html:65 templates/navigation.html:193
+#: templates/navigation.html:196 web/views/premium.py:31
 msgid "Premium"
 msgstr "Premium"
 
@@ -491,59 +491,55 @@ msgid "Parties"
 msgstr "Equipos"
 
 #: templates/navigation.html:78 web/views/battlegrounds.py:143
-#: web/views/battlegrounds.py:367
+#: web/views/battlegrounds.py:366
 msgid "Heroes"
 msgstr "Héroes"
 
-#: templates/navigation.html:90 web/views/battlegrounds.py:229
+#: templates/navigation.html:90 web/views/battlegrounds.py:228
 msgid "Trinkets"
 msgstr ""
 
-#: templates/navigation.html:103 web/views/battlegrounds.py:302
+#: templates/navigation.html:103 web/views/battlegrounds.py:301
 msgid "Darkmoon Prizes"
 msgstr "Premios de la Luna Negra"
 
-#: templates/navigation.html:116 web/views/battlegrounds.py:158
+#: templates/navigation.html:114 web/views/battlegrounds.py:157
 msgid "Comps"
 msgstr ""
 
-#: templates/navigation.html:119
+#: templates/navigation.html:117
 msgid "NEW"
 msgstr ""
 
-#: templates/navigation.html:131
+#: templates/navigation.html:128
 msgid "Minions"
 msgstr "Esbirros"
 
-#: templates/navigation.html:143
-msgid "Compositions"
-msgstr "Composiciones"
-
-#: templates/navigation.html:158 templates/navigation.html:210
+#: templates/navigation.html:142 templates/navigation.html:194
 msgid "SALE!"
 msgstr "¡OFERTA!"
 
-#: templates/navigation.html:173
+#: templates/navigation.html:157
 msgid "Trending"
 msgstr "Tendencias"
 
-#: templates/navigation.html:181 templates/navigation.html:187
+#: templates/navigation.html:165 templates/navigation.html:171
 msgid "Meta"
 msgstr "Meta"
 
-#: templates/navigation.html:182
+#: templates/navigation.html:166
 msgid "Back soon!"
 msgstr "¡Vuelva pronto!"
 
-#: templates/navigation.html:194
+#: templates/navigation.html:178
 msgid "Decks"
 msgstr "Mazos"
 
-#: templates/navigation.html:200 web/views/cards.py:37 web/views/cards.py:163
+#: templates/navigation.html:184 web/views/cards.py:37 web/views/cards.py:163
 msgid "Cards"
 msgstr "Cartas"
 
-#: templates/navigation.html:246
+#: templates/navigation.html:230
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "Actualmente estamos actualizando esta sección para el último parche de Campos de Batalla. Pueda que los datos que encuentres sean incompletos o con demora."
 
@@ -665,39 +661,39 @@ msgstr "HSReplay.net - Libera tu potencial"
 msgid "Sign in to HSReplay.net"
 msgstr "Iniciar sesión en HSReplay.net"
 
-#: web/views/__init__.py:159
+#: web/views/__init__.py:162
 msgid "Download Hearthstone Deck Tracker"
 msgstr "Descargar Hearthstone Deck Tracker"
 
-#: web/views/__init__.py:161
+#: web/views/__init__.py:164
 msgid "HSReplay.net Companion App"
 msgstr "Aplicación HSReplay.net"
 
-#: web/views/__init__.py:163
+#: web/views/__init__.py:166
 msgid "Hearthstone Deck Tracker is a free companion app to help you play like the pros."
 msgstr "Hearthstone Deck Tracker es una aplicación gratuita que te ayuda a jugar como los profesionales."
 
-#: web/views/__init__.py:224
+#: web/views/__init__.py:227
 msgid "Contact our Support Team"
 msgstr "Contacta con nuestro Equipo de Soporte"
 
-#: web/views/__init__.py:226
+#: web/views/__init__.py:229
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr "Contactar con el Equipo de Soporte de HSReplay.net."
 
-#: web/views/__init__.py:284
+#: web/views/__init__.py:287
 msgid "Welcome to HSReplay.net"
 msgstr "Bienvenido a HSReplay.net"
 
-#: web/views/__init__.py:286
+#: web/views/__init__.py:289
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr "Aprende cómo empezar con HSReplay.net y lo que puedes hacer con él."
 
-#: web/views/__init__.py:297
+#: web/views/__init__.py:300
 msgid "Welcome to Hearthstone Deck Tracker"
 msgstr "Bienvenido a Hearthstone Deck Tracker"
 
-#: web/views/__init__.py:299
+#: web/views/__init__.py:302
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
 msgstr "Averigua qué puedes hacer con Hearthstone Deck Tracker, así como con el sitio web!"
 
@@ -744,9 +740,9 @@ msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics,
 msgstr "¡Sube de nivel tu juego con las estadísticas más profundas en Campos de batalla con Tier7, incluyendo información sobre los mejores héroes, composiciones, esbirros y más!"
 
 #: web/views/battlegrounds.py:123 web/views/battlegrounds.py:142
-#: web/views/battlegrounds.py:157 web/views/battlegrounds.py:228
-#: web/views/battlegrounds.py:285 web/views/battlegrounds.py:301
-#: web/views/battlegrounds.py:358
+#: web/views/battlegrounds.py:156 web/views/battlegrounds.py:227
+#: web/views/battlegrounds.py:284 web/views/battlegrounds.py:300
+#: web/views/battlegrounds.py:357
 msgid "Battlegrounds"
 msgstr "Campos de Batalla"
 
@@ -762,83 +758,83 @@ msgstr "Héroes de Campos de Batalla"
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr "Explora nuestra Lista de Nivel de Héroes de los Campos de Batalla y aprende qué héroe es el mejor - alimentado por datos de millones de juegos."
 
-#: web/views/battlegrounds.py:149
+#: web/views/battlegrounds.py:148
 msgid "Battlegrounds Comps"
 msgstr ""
 
-#: web/views/battlegrounds.py:151
+#: web/views/battlegrounds.py:150
 msgid "Explore our Comps Tier List and learn which comp is the best - powered by JeefHS, Top BGs player."
 msgstr ""
 
-#: web/views/battlegrounds.py:221
+#: web/views/battlegrounds.py:220
 msgid "Battlegrounds Trinkets"
 msgstr ""
 
-#: web/views/battlegrounds.py:223
+#: web/views/battlegrounds.py:222
 msgid "Explore our Battlegrounds Trinkets Tier List and learn which trinket is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:282
+#: web/views/battlegrounds.py:281
 msgid "Battlegrounds Duos Heroes"
 msgstr "Campos de batalla Héroes Duales"
 
-#: web/views/battlegrounds.py:286
+#: web/views/battlegrounds.py:285
 msgid "Duos Heroes"
 msgstr "Héroes Duales"
 
-#: web/views/battlegrounds.py:298
+#: web/views/battlegrounds.py:297
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr "Premios de Luna Negra de Campos de batalla"
 
-#: web/views/battlegrounds.py:307
+#: web/views/battlegrounds.py:306
 msgid "Battlegrounds Hero"
 msgstr "Héroes de Campos de Batalla"
 
-#: web/views/battlegrounds.py:327
+#: web/views/battlegrounds.py:326
 msgid "No matching hero found."
 msgstr "Héroe no encontrado."
 
-#: web/views/battlegrounds.py:454
+#: web/views/battlegrounds.py:453
 msgid "Battlegrounds Duos Hero"
 msgstr "Campo de Batalla Héroes Duales"
 
-#: web/views/battlegrounds.py:462
+#: web/views/battlegrounds.py:461
 msgid "Battlegrounds Minions"
 msgstr "Esbirros de Campos de Batalla"
 
-#: web/views/battlegrounds.py:467 web/views/battlegrounds.py:493
+#: web/views/battlegrounds.py:466 web/views/battlegrounds.py:492
 msgid "Battlegrounds Minion"
 msgstr "Esbirros de Campos de Batalla"
 
-#: web/views/battlegrounds.py:485
+#: web/views/battlegrounds.py:484
 msgid "No matching minion found."
 msgstr "No se encontraron esbirros que coincidan."
 
-#: web/views/battlegrounds.py:524
+#: web/views/battlegrounds.py:523
 msgid "Battlegrounds Compositions"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:529 web/views/battlegrounds.py:558
+#: web/views/battlegrounds.py:528 web/views/battlegrounds.py:557
 msgid "Battlegrounds Composition"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:551
+#: web/views/battlegrounds.py:550
 msgid "No matching live or lingering composition found."
 msgstr "Ninguna composición en vivo se encontró."
 
-#: web/views/battlegrounds.py:553
+#: web/views/battlegrounds.py:552
 msgid "No matching composition found."
 msgstr "No se encontraron coincidencias."
 
-#: web/views/battlegrounds.py:604
+#: web/views/battlegrounds.py:602
 msgid "Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:622
+#: web/views/battlegrounds.py:620
 msgid "No matching comp found."
 msgstr ""
 
-#: web/views/battlegrounds.py:696
+#: web/views/battlegrounds.py:694
 msgid "My Battlegrounds Stats"
 msgstr "Estadísticas de Mis Campos de Batalla"
 
@@ -884,27 +880,31 @@ msgstr "Acceso API"
 msgid "This account cannot be deleted."
 msgstr "Esta cuenta no puede ser borrada."
 
-#: web/views/dashboard.py:148
+#: web/views/dashboard.py:138
+msgid "Your HSReplay.net account has been deleted. It was great having you!"
+msgstr ""
+
+#: web/views/dashboard.py:153
 msgid "Your replays have been deleted."
 msgstr "Tus repeticiones se han borrado."
 
-#: web/views/dashboard.py:184
+#: web/views/dashboard.py:189
 msgid "You must add a verified email before we can send you marketing emails."
 msgstr "Debes agregar un correo electrónico verificado antes de que podamos enviarte correos electrónicos de marketing."
 
-#: web/views/dashboard.py:196 web/views/dashboard.py:263
+#: web/views/dashboard.py:201 web/views/dashboard.py:268
 msgid "Your email preferences have been saved."
 msgstr "Tus preferencias de correo se han guardado."
 
-#: web/views/dashboard.py:240
+#: web/views/dashboard.py:245
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr "¡Comprueba tu bandeja de entrada! Hemos enviado un correo electrónico para confirmar tus preferencias de suscripción."
 
-#: web/views/dashboard.py:247 web/views/dashboard.py:253
+#: web/views/dashboard.py:252 web/views/dashboard.py:258
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "Error al guardar tus preferencias de correo electrónico. ¡Por favor, inténtalo de nuevo más tarde!"
 
-#: web/views/dashboard.py:324
+#: web/views/dashboard.py:329
 msgid "Your Application"
 msgstr "Tu Aplicación"
 
