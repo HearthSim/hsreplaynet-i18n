@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-20 01:40+0000\n"
-"PO-Revision-Date: 2024-12-20 12:40\n"
+"POT-Creation-Date: 2024-12-26 01:40+0000\n"
+"PO-Revision-Date: 2024-12-26 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -425,7 +425,7 @@ msgstr "Blizzard Entertainmentとは提携しておりません。"
 
 #: templates/footer.html:64 templates/navigation.html:67
 #: templates/navigation.html:150 templates/navigation.html:204
-#: web/views/__init__.py:174
+#: web/views/__init__.py:176
 msgid "Downloads"
 msgstr "ダウンロード"
 
@@ -657,43 +657,43 @@ msgstr ""
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net─あなたの潜在能力を解き放とう"
 
-#: web/views/__init__.py:117 web/views/oauth2.py:40
+#: web/views/__init__.py:117
 msgid "Sign in to HSReplay.net"
 msgstr ""
 
-#: web/views/__init__.py:162
+#: web/views/__init__.py:164
 msgid "Download Hearthstone Deck Tracker"
 msgstr "Hearthstone Deck Tracker のダウンロード"
 
-#: web/views/__init__.py:164
+#: web/views/__init__.py:166
 msgid "HSReplay.net Companion App"
 msgstr ""
 
-#: web/views/__init__.py:166
+#: web/views/__init__.py:168
 msgid "Hearthstone Deck Tracker is a free companion app to help you play like the pros."
 msgstr ""
 
-#: web/views/__init__.py:227
+#: web/views/__init__.py:229
 msgid "Contact our Support Team"
 msgstr ""
 
-#: web/views/__init__.py:229
+#: web/views/__init__.py:231
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr ""
 
-#: web/views/__init__.py:287
+#: web/views/__init__.py:289
 msgid "Welcome to HSReplay.net"
 msgstr ""
 
-#: web/views/__init__.py:289
+#: web/views/__init__.py:291
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr ""
 
-#: web/views/__init__.py:300
+#: web/views/__init__.py:302
 msgid "Welcome to Hearthstone Deck Tracker"
 msgstr ""
 
-#: web/views/__init__.py:302
+#: web/views/__init__.py:304
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
 msgstr ""
 
@@ -997,12 +997,12 @@ msgstr ""
 msgid "Mercenaries Tier List"
 msgstr ""
 
-#: web/views/oauth2.py:35
+#: web/views/oauth2.py:38
 #, python-format
 msgid "Connect %(application)s"
 msgstr ""
 
-#: web/views/oauth2.py:76
+#: web/views/oauth2.py:81
 msgid "Access has been revoked."
 msgstr ""
 
