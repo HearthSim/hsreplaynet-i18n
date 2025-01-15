@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-27 01:40+0000\n"
-"PO-Revision-Date: 2024-12-27 12:40\n"
+"POT-Creation-Date: 2025-01-15 01:40+0000\n"
+"PO-Revision-Date: 2025-01-15 12:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -82,47 +82,47 @@ msgstr "Code inefficace sur ce compte mais encore valide."
 msgid "Code has been applied to your account."
 msgstr "Ce code a été appliqué à votre compte."
 
-#: settings.py:412
+#: settings.py:408
 msgid "Full access to your HSReplay.net account"
 msgstr "Accès complet à votre compte HSReplay.net"
 
-#: settings.py:413
+#: settings.py:409
 msgid "Access information about your connected social accounts"
 msgstr "Accéder aux informations relatives à vos comptes sociaux liés"
 
-#: settings.py:414
+#: settings.py:410
 msgid "View your Hearthstone card collection"
 msgstr "Voir votre collection de cartes Hearthstone"
 
-#: settings.py:415
+#: settings.py:411
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Importer votre collection de cartes Hearthstone sur le site"
 
-#: settings.py:416
+#: settings.py:412
 msgid "View your replays"
 msgstr "Regarder vos rediffusions"
 
-#: settings.py:417
+#: settings.py:413
 msgid "Update and delete your replays"
 msgstr "Mettre à jour et supprimer vos rediffusions"
 
-#: settings.py:418
+#: settings.py:414
 msgid "Access the Partner API"
 msgstr "Accéder à l’API du Partenaire"
 
-#: settings.py:419
+#: settings.py:415
 msgid "Read access to the tournaments service"
 msgstr "Accès en lecture au service de tournois"
 
-#: settings.py:420
+#: settings.py:416
 msgid "Write access to the tournaments service"
 msgstr "Accès en écriture au service de tournois"
 
-#: settings.py:421
+#: settings.py:417
 msgid "View your webhooks"
 msgstr "Voir vos webhooks"
 
-#: settings.py:422
+#: settings.py:418
 msgid "Create and delete webhooks on your behalf"
 msgstr "Donner l'autorisation de créer et effacer des webhooks"
 
@@ -261,7 +261,7 @@ msgid "Re-send Verification"
 msgstr "Renvoyer le message de vérification"
 
 #: templates/account/email_change.html:34
-#: templates/socialaccount/connections.html:45
+#: templates/socialaccount/connections.html:48
 msgid "Remove"
 msgstr "Supprimer"
 
@@ -596,7 +596,7 @@ msgstr "Comptes associés"
 msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard account."
 msgstr "Les comptes sociaux suivants sont liés à votre compte HSReplay.net. Vous pouvez vous connecter avec n'importe quel compte Blizzard associé."
 
-#: templates/socialaccount/connections.html:59
+#: templates/socialaccount/connections.html:62
 msgid "You currently have no social network accounts connected to this account."
 msgstr "Aucun compte de réseau social n'est actuellement associé à ce compte."
 
@@ -645,7 +645,7 @@ msgstr "Les Webhooks sont obsolètes"
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
 msgstr "Aucun nouveau connecteur ne peut être rajouté. Nous continuerons à livrer des webhooks existants pour l'instant."
 
-#: web/adapters.py:132
+#: web/adapters.py:136
 msgid "You cannot remove the last account you can sign in with. Instead, you can delete your HSReplay.net account entirely."
 msgstr ""
 
