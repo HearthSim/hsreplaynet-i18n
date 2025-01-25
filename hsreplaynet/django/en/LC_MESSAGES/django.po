@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-24 01:40+0000\n"
+"POT-Creation-Date: 2025-01-25 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -778,7 +778,7 @@ msgstr ""
 msgid "Meta Tier List"
 msgstr ""
 
-#: web/views/archetypes.py:64
+#: web/views/archetypes.py:64 web/views/archetypes.py:84
 msgid "Discover"
 msgstr ""
 
@@ -788,19 +788,24 @@ msgid ""
 "archetypes and what's next."
 msgstr ""
 
-#: web/views/archetypes.py:82
+#: web/views/archetypes.py:86
+msgid ""
+"Analyze the quality of the most recently trained archetype cluster weights."
+msgstr ""
+
+#: web/views/archetypes.py:108
 msgid "Archetype"
 msgstr ""
 
-#: web/views/archetypes.py:88
+#: web/views/archetypes.py:114
 msgid "This archetype is no longer available."
 msgstr ""
 
-#: web/views/archetypes.py:118
+#: web/views/archetypes.py:144
 msgid "Archetypes"
 msgstr ""
 
-#: web/views/archetypes.py:138
+#: web/views/archetypes.py:164
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr ""
