@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-26T01:40:20.591403\n"
+"POT-Creation-Date: 2025-01-25T01:40:23.119671\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-01-23 00:40\n"
+"PO-Revision-Date: 2025-01-25 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -2353,10 +2353,6 @@ msgstr "杜加尔萨"
 msgid "Dungar Druid"
 msgstr "杜加尔德"
 
-#: https://hsreplay.net/archetypes/709/battlecry-shaman
-msgid "Battlecry Shaman"
-msgstr "战吼萨"
-
 #: https://hsreplay.net/archetypes/710/core-demon-hunter
 msgid "Core Demon Hunter"
 msgstr "脚本瞎"
@@ -2508,4 +2504,52 @@ msgstr "脚本法"
 #: https://hsreplay.net/archetypes/746/supernova-mage
 msgid "Supernova Mage"
 msgstr "超新星法"
+
+#: https://hsreplay.net/archetypes/747/zerg-death-knight
+msgid "Zerg Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/748/zerg-demon-hunter
+msgid "Zerg Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/749/protoss-druid
+msgid "Protoss Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/750/zerg-hunter
+msgid "Zerg Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/751/protoss-mage
+msgid "Protoss Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/752/terran-paladin
+msgid "Terran Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/753/protoss-priest
+msgid "Protoss Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/754/protoss-rogue
+msgid "Protoss Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/755/terran-shaman
+msgid "Terran Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/709/battlecry-shaman
+msgid "Battlecry Shaman"
+msgstr "战吼萨"
+
+#: https://hsreplay.net/archetypes/756/zerg-warlock
+msgid "Zerg Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/757/terran-warrior
+msgid "Terran Warrior"
+msgstr ""
 
