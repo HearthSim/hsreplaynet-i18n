@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-25 01:40+0000\n"
-"PO-Revision-Date: 2025-01-26 12:40\n"
+"POT-Creation-Date: 2025-01-29 01:40+0000\n"
+"PO-Revision-Date: 2025-01-29 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -722,13 +722,17 @@ msgstr "探索《炉石传说》中的最强职业、职业套牌及卡组克制
 msgid "Meta Tier List"
 msgstr "环境梯队表"
 
-#: web/views/archetypes.py:64 web/views/archetypes.py:84
+#: web/views/archetypes.py:64
 msgid "Discover"
 msgstr "探索"
 
 #: web/views/archetypes.py:66
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr "迎接炉石即将到来的新环境，搜索最新卡组与后起之秀。"
+
+#: web/views/archetypes.py:84
+msgid "Archetype Quality"
+msgstr ""
 
 #: web/views/archetypes.py:86
 msgid "Analyze the quality of the most recently trained archetype cluster weights."

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-25 01:40+0000\n"
-"PO-Revision-Date: 2025-01-27 00:40\n"
+"POT-Creation-Date: 2025-01-29 01:40+0000\n"
+"PO-Revision-Date: 2025-01-29 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -710,12 +710,16 @@ msgstr ""
 msgid "Meta Tier List"
 msgstr ""
 
-#: web/views/archetypes.py:64 web/views/archetypes.py:84
+#: web/views/archetypes.py:64
 msgid "Discover"
 msgstr "発見"
 
 #: web/views/archetypes.py:66
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
+msgstr ""
+
+#: web/views/archetypes.py:84
+msgid "Archetype Quality"
 msgstr ""
 
 #: web/views/archetypes.py:86

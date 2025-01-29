@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-25 01:40+0000\n"
-"PO-Revision-Date: 2025-01-25 12:40\n"
+"POT-Creation-Date: 2025-01-29 01:40+0000\n"
+"PO-Revision-Date: 2025-01-29 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -710,13 +710,17 @@ msgstr ""
 msgid "Meta Tier List"
 msgstr ""
 
-#: web/views/archetypes.py:64 web/views/archetypes.py:84
+#: web/views/archetypes.py:64
 msgid "Discover"
 msgstr "Descubrir"
 
 #: web/views/archetypes.py:66
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr "Descubre el metajuego de Heartstone para descubrir los arquetipos mas recientes y los que vendrán."
+
+#: web/views/archetypes.py:84
+msgid "Archetype Quality"
+msgstr ""
 
 #: web/views/archetypes.py:86
 msgid "Analyze the quality of the most recently trained archetype cluster weights."
