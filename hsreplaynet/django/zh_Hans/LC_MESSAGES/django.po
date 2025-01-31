@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-29 01:40+0000\n"
-"PO-Revision-Date: 2025-01-30 12:40\n"
+"POT-Creation-Date: 2025-01-31 01:40+0000\n"
+"PO-Revision-Date: 2025-01-31 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -273,7 +273,7 @@ msgid "Re-send Verification"
 msgstr "重新发送验证"
 
 #: templates/account/email_change.html:34
-#: templates/socialaccount/connections.html:48
+#: templates/socialaccount/connections.html:47
 msgid "Remove"
 msgstr "移除"
 
@@ -605,10 +605,10 @@ msgid "Connected accounts"
 msgstr "关联的帐户"
 
 #: templates/socialaccount/connections.html:14
-msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard account."
-msgstr "以下社交账户已和您的HSReplay.net账号关联。您也可以连接暴雪账号登录。"
+msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard, Google, or WeChat account."
+msgstr ""
 
-#: templates/socialaccount/connections.html:62
+#: templates/socialaccount/connections.html:61
 msgid "You currently have no social network accounts connected to this account."
 msgstr "您目前尚未将此账户与任何社交账号绑定。"
 

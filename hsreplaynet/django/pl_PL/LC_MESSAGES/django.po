@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-29 01:40+0000\n"
-"PO-Revision-Date: 2025-01-29 12:40\n"
+"POT-Creation-Date: 2025-01-31 01:40+0000\n"
+"PO-Revision-Date: 2025-01-31 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -261,7 +261,7 @@ msgid "Re-send Verification"
 msgstr "Wyślij ponownie kod weryfikacyjny"
 
 #: templates/account/email_change.html:34
-#: templates/socialaccount/connections.html:48
+#: templates/socialaccount/connections.html:47
 msgid "Remove"
 msgstr "Usuń"
 
@@ -593,10 +593,10 @@ msgid "Connected accounts"
 msgstr "Połączone konta"
 
 #: templates/socialaccount/connections.html:14
-msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard account."
-msgstr "Następujące konta społecznościowe są połączone z twoim kontem HSReplay.net. Możesz się zalogować używając dowolnego konta, które jest połączone z kontem Blizzard."
+msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard, Google, or WeChat account."
+msgstr ""
 
-#: templates/socialaccount/connections.html:62
+#: templates/socialaccount/connections.html:61
 msgid "You currently have no social network accounts connected to this account."
 msgstr "Obecnie nie posiadasz żadnych kont społecznościowych połączonych z tym kontem."
 
