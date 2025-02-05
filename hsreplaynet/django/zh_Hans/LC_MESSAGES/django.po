@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-01-31 01:40+0000\n"
-"PO-Revision-Date: 2025-01-31 12:40\n"
+"PO-Revision-Date: 2025-02-05 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -606,7 +606,7 @@ msgstr "关联的帐户"
 
 #: templates/socialaccount/connections.html:14
 msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard, Google, or WeChat account."
-msgstr ""
+msgstr "以下社交账号与您的 HSReplay.net 账号相连。您可以使用任何已连接的暴雪、谷歌或微信账号登录。"
 
 #: templates/socialaccount/connections.html:61
 msgid "You currently have no social network accounts connected to this account."
@@ -732,7 +732,7 @@ msgstr "迎接炉石即将到来的新环境，搜索最新卡组与后起之秀
 
 #: web/views/archetypes.py:84
 msgid "Archetype Quality"
-msgstr ""
+msgstr "套牌质量"
 
 #: web/views/archetypes.py:86
 msgid "Analyze the quality of the most recently trained archetype cluster weights."
