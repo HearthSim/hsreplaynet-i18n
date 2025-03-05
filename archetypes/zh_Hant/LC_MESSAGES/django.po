@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-25T01:40:23.119671\n"
+"POT-Creation-Date: 2025-03-05T01:40:22.289253\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-01-25 12:40\n"
+"PO-Revision-Date: 2025-03-05 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -2105,17 +2105,13 @@ msgstr "神射手DH"
 msgid "Spell Token Hunter"
 msgstr "Token獵"
 
-#: https://hsreplay.net/archetypes/625/breakfast-hunter
-msgid "Breakfast Hunter"
-msgstr "蛋蛋獵"
+#: https://hsreplay.net/archetypes/285/spell-mage
+msgid "Spell Mage"
+msgstr "法術法"
 
 #: https://hsreplay.net/archetypes/138/secret-hunter
 msgid "Secret Hunter"
 msgstr "秘密獵"
-
-#: https://hsreplay.net/archetypes/285/spell-mage
-msgid "Spell Mage"
-msgstr "法術法"
 
 #: https://hsreplay.net/archetypes/479/handbuff-paladin
 msgid "Handbuff Paladin"
@@ -2248,6 +2244,10 @@ msgstr ""
 #: https://hsreplay.net/archetypes/652/buff-hunter
 msgid "Buff Hunter"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/625/breakfast-hunter
+msgid "Breakfast Hunter"
+msgstr "蛋蛋獵"
 
 #: https://hsreplay.net/archetypes/684/sandwich-hunter
 msgid "Sandwich Hunter"
@@ -2551,5 +2551,45 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/757/terran-warrior
 msgid "Terran Warrior"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/758/attack-demon-hunter
+msgid "Attack Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/759/zerg-handbuff-hunter
+msgid "Zerg Handbuff Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/760/lynessa-paladin
+msgid "Lynessa Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/761/protoss-weapon-rogue
+msgid "Protoss Weapon Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/762/archon-rogue
+msgid "Archon Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/763/core-rogue
+msgid "Core Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/764/ramp-shaman
+msgid "Ramp Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/765/concede-shaman
+msgid "Concede Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/766/nebula-shaman
+msgid "Nebula Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/767/location-warlock
+msgid "Location Warlock"
 msgstr ""
 
