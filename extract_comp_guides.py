@@ -3,8 +3,8 @@ import os
 import re
 from datetime import datetime
 
-import requests
 from polib import POEntry, POFile
+import requests
 
 def main():
     out_dir = os.path.join(
