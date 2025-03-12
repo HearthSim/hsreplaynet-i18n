@@ -29,6 +29,9 @@ def main():
 	r = requests.get("https://hsreplay.net/api/v1/battlegrounds/hero_guides/")
 	for hero_guide in r.json():
 		published_guide = hero_guide.get("published_guide", "")
+  	hero_id = str(hero_guide.get("hero", ""))
+		guide_id = str(hero_guide.get("id", ""))
+  
 		if not published_guide:
 			continue
 
@@ -37,17 +40,14 @@ def main():
 			msgstr="",
 			occurrences=[
 				(
-					"https://hsreplay.net/battlegrounds/heroes/" + str(hero_guide.get("hero", ""))
+      		f"https://hsreplay.net/battlegrounds/heroes/{hero_id}/"
 					, ""
 				),
 				(
-					"Hero id " + str(hero_guide.get("hero", "")) + " | " +
-					"Guide id " + str(hero_guide.get("id", "")) + " | " +
-					"Last edited " + str(hero_guide.get("last_updated", ""))
+					f"Hero id {hero_id} | Guide id {guide_id}"
 					, ""
 				),
 			],
-			comment = "Please do not translate card names and ids, e.g., [[Blazing Skyfin||97551]]"
 		)
 
 		if entry in po:

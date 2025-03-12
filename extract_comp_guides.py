@@ -58,13 +58,11 @@ def main():
                 msgstr="",
                 occurrences=[
                     (
-                        field + " | " +
-                        "https://hsreplay.net/battlegrounds/comps/" + comp_id
+                        f"{field} | https://hsreplay.net/battlegrounds/comps/{comp_id}/"
                         , ""
                     ),
                 ],
-                tcomment=f"Full name with tribe: {fullname}",
-                comment = "Please do not translate card names and ids, e.g., [[Blazing Skyfin||97551]]"
+                tcomment=f"Full name with tribe: {fullname}"
             )
 
             if entry not in po:
@@ -76,3 +74,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
