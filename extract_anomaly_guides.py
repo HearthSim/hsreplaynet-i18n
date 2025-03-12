@@ -40,10 +40,6 @@ def main():
 			msgstr="",
 			occurrences=[
 				(
-					f"https://hsreplay.net/battlegrounds/anomalyes/{anomaly_id}/"
-					, ""
-				),
-				(
 					f"Anomaly id {anomaly_id} | Guide id {guide_id}"
 					, ""
 				),
