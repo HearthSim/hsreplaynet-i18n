@@ -5,7 +5,6 @@ base_path: ""
 preserve_hierarchy: true
 
 files:
-
   - source: "/hsreplaynet/django/en/LC_MESSAGES/*.po"
     translation: "/hsreplaynet/django/%locale_with_underscore%/LC_MESSAGES/%original_file_name%"
     languages_mapping:
@@ -22,6 +21,27 @@ files:
 
   - source: "/compositions/en/LC_MESSAGES/*.po"
     translation: "/compositions/%locale_with_underscore%/LC_MESSAGES/%original_file_name%"
+    languages_mapping:
+      locale_with_underscore:
+        zh-CN: "zh_Hans"
+        zh-TW: "zh_Hant"
+
+  - source: "/hero_guides/en/LC_MESSAGES/*.po"
+    translation: "/hero_guides/%locale_with_underscore%/LC_MESSAGES/%original_file_name%"
+    languages_mapping:
+      locale_with_underscore:
+        zh-CN: "zh_Hans"
+        zh-TW: "zh_Hant"
+
+  - source: "/comp_guides/en/LC_MESSAGES/*.po"
+    translation: "/comp_guides/%locale_with_underscore%/LC_MESSAGES/%original_file_name%"
+    languages_mapping:
+      locale_with_underscore:
+        zh-CN: "zh_Hans"
+        zh-TW: "zh_Hant"
+
+  - source: "/anomaly_guides/en/LC_MESSAGES/*.po"
+    translation: "/anomaly_guides/%locale_with_underscore%/LC_MESSAGES/%original_file_name%"
     languages_mapping:
       locale_with_underscore:
         zh-CN: "zh_Hans"
