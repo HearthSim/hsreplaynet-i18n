@@ -29,9 +29,9 @@ def main():
 	r = requests.get("https://hsreplay.net/api/v1/battlegrounds/anomaly_guides/")
 	for anomaly_guide in r.json():
 		published_guide = anomaly_guide.get("published_guide", "")
-  	anomaly_id = str(anomaly_guide.get("anomaly", ""))
+		anomaly_id = str(anomaly_guide.get("anomaly", ""))
 		guide_id = str(anomaly_guide.get("id", ""))
-  
+
 		if not published_guide:
 			continue
 	
@@ -44,7 +44,7 @@ def main():
 					, ""
 				),
 				(
-     		 	f"Anomaly id {anomaly_id} | Guide id {guide_id}"
+					f"Anomaly id {anomaly_id} | Guide id {guide_id}"
 					, ""
 				),
 			]

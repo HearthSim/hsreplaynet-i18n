@@ -29,9 +29,9 @@ def main():
 	r = requests.get("https://hsreplay.net/api/v1/battlegrounds/hero_guides/")
 	for hero_guide in r.json():
 		published_guide = hero_guide.get("published_guide", "")
-  	hero_id = str(hero_guide.get("hero", ""))
+		hero_id = str(hero_guide.get("hero", ""))
 		guide_id = str(hero_guide.get("id", ""))
-  
+		
 		if not published_guide:
 			continue
 
@@ -40,7 +40,7 @@ def main():
 			msgstr="",
 			occurrences=[
 				(
-      		f"https://hsreplay.net/battlegrounds/heroes/{hero_id}/"
+					f"https://hsreplay.net/battlegrounds/heroes/{hero_id}/"
 					, ""
 				),
 				(
