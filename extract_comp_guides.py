@@ -47,12 +47,7 @@ def main():
                 continue
             
             fullname = str(comp.get("name", ""))
-            
-            # Split on any sequence of non-alphanumeric characters to get only the comp name
-            if(field == 'name' and comp.get("primary_tribe") != None):
-                # Match "word + space + any non-word chars + space"
-                content = re.sub(r'^[\w]+ [^\w]+ ', '', content)
-            
+
             entry = POEntry(
                 msgid=content,
                 msgstr="",
@@ -61,8 +56,7 @@ def main():
                         f"{field} | https://hsreplay.net/battlegrounds/comps/{comp_id}/"
                         , ""
                     ),
-                ],
-                tcomment=f"Full name with tribe: {fullname}"
+                ]
             )
 
             if entry not in po:
