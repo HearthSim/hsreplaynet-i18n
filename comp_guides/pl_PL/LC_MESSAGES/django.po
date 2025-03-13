@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-12 19:12\n"
+"POT-Creation-Date: 2025-03-13 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: pl\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-03-13 00:40\n"
+"PO-Revision-Date: 2025-03-13 09:45\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - Hand Buff"
@@ -30,7 +30,7 @@ msgid "[[Brann Bronzebeard||96786]] + [[Neon Agent||115844]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/34/
-msgid "[[Brann Bronzebeard||96786]]\r\n"
+msgid "[[Brann Bronzebeard||96786]]\n"
 "[[Neon Agent||115844]]"
 msgstr ""
 
@@ -83,8 +83,7 @@ msgid "Elementals - NOMI"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/24/
-msgid "Your scaling engine is [[Nomi, Kitchen Nightmare||63626]] to buff the elementals in the tavern. The best way to generate elementals to support Nomi is with Brann, and then you should cycle every [[Gentle Djinni||64062]] and [[Refreshing Anomaly||64042]] for free. \r\n"
-"\r\n"
+msgid "Your scaling engine is [[Nomi, Kitchen Nightmare||63626]] to buff the elementals in the tavern. The best way to generate elementals to support Nomi is with Brann, and then you should cycle every [[Gentle Djinni||64062]] and [[Refreshing Anomaly||64042]] for free. \n\n"
 "Once your shop elementals are big enough, start buying good elementals such as [[Ichoron the Protector||115585]] from the shop to make your board strong. The way you cap out your board is by tripling big elementals so you have a massive golden elemental."
 msgstr ""
 
@@ -93,7 +92,7 @@ msgid "[[Nomi, Kitchen Nightmare||63626]] plus [[Gentle Djinni||64062]] or anoth
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/24/
-msgid "[[Gentle Djinni||64062]]\r\n"
+msgid "[[Gentle Djinni||64062]]\n"
 "[[Brann Bronzebeard||96786]]"
 msgstr ""
 
@@ -190,7 +189,7 @@ msgid "Buffed shop ([[Big Brother||116695]]) + [[Batty Terrorguard||116697]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Buffed shop ([[Big Brother||116695]])\r\n"
+msgid "Buffed shop ([[Big Brother||116695]])\n"
 "[[Archimonde||114043]]"
 msgstr ""
 
@@ -203,10 +202,8 @@ msgid "Demons - Self Damage"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/13/
-msgid "The idea of this comp is to use effects such as [[Malchezaar, Prince of Dance||99199]] to deal damage to your hero, and [[Archimonde||114043]] to negate this damage, while helping your [[Tichondrius||99228]] scale. With [[Wrath Weaver||59670]], every single Demon played makes your next spell free which generates a ton of value.\r\n"
-"\r\n"
-"After you have committed to the comp, roll on Tavern 5 for your Core pieces. The [[Brann Bronzebeard||96786]] + [[Imposing Percussionist||99232]] combo is going to help damage yourself a lot and find more of your setup, and cycling [[Keyboard Igniter||99197]] is also worth it.\r\n"
-"\r\n"
+msgid "The idea of this comp is to use effects such as [[Malchezaar, Prince of Dance||99199]] to deal damage to your hero, and [[Archimonde||114043]] to negate this damage, while helping your [[Tichondrius||99228]] scale. With [[Wrath Weaver||59670]], every single Demon played makes your next spell free which generates a ton of value.\n\n"
+"After you have committed to the comp, roll on Tavern 5 for your Core pieces. The [[Brann Bronzebeard||96786]] + [[Imposing Percussionist||99232]] combo is going to help damage yourself a lot and find more of your setup, and cycling [[Keyboard Igniter||99197]] is also worth it.\n\n"
 "You can also try pivoting to shop buff demons from this setup."
 msgstr ""
 
@@ -251,7 +248,7 @@ msgid "[[Persistent Poet||108463]] + [[Nightbane, Ignited||110088]] + [[Prized P
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/11/
-msgid "Alextrassa or Ysera\r\n"
+msgid "Alextrassa or Ysera\n"
 "Buffed [[Nightbane, Ignited||110088]]"
 msgstr ""
 
@@ -272,7 +269,7 @@ msgid "[[Darkcrest Strategist||115555]] plus [[Groundbreaker||114816]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/20/
-msgid "[[Darkcrest Strategist||115555]]\r\n"
+msgid "[[Darkcrest Strategist||115555]]\n"
 "[[Brann Bronzebeard||96786]]"
 msgstr ""
 
@@ -285,8 +282,7 @@ msgid "Dragons - Kalecgos"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/15/
-msgid "[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +2/4 every single battlecry you play. You want to trigger as many battlecries as possible.\r\n"
-"\r\n"
+msgid "[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +2/4 every single battlecry you play. You want to trigger as many battlecries as possible.\n\n"
 "Cycle only PREMIUM battlecries, such as [[Gentle Djinni||64062]], [[Refreshing Anomaly||64042]], or [[Primalfin Lookout||60028]]."
 msgstr ""
 
@@ -307,8 +303,7 @@ msgid "Undead - Overflow"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid "BEST PLAYED WITH BEASTS! Put [[Monstrous Macaw||62230]] position 1, then [[Cadaver Caretaker||113158]] in position 2. When the  [[Cadaver Caretaker||113158]] deathrattle gets triggered, they’ll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. You just want to roll on tier 5 for as many of the Core/Addon pieces of the comp as possible. It’s best to have 2 summon deathrattles: one taunted and one untaunted for [[Monstrous Macaw||62230]]. \r\n"
-"\r\n"
+msgid "BEST PLAYED WITH BEASTS! Put [[Monstrous Macaw||62230]] position 1, then [[Cadaver Caretaker||113158]] in position 2. When the  [[Cadaver Caretaker||113158]] deathrattle gets triggered, they’ll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. You just want to roll on tier 5 for as many of the Core/Addon pieces of the comp as possible. It’s best to have 2 summon deathrattles: one taunted and one untaunted for [[Monstrous Macaw||62230]]. \n\n"
 "Tripling [[Cadaver Caretaker||113158]] is a big spike now that the golden version summons 6."
 msgstr ""
 
@@ -317,7 +312,7 @@ msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||11437
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
-msgid "[[Cadaver Caretaker||113158]]\r\n"
+msgid "[[Cadaver Caretaker||113158]]\n"
 "[[Thundering Abomination||113156]]"
 msgstr ""
 
@@ -330,8 +325,7 @@ msgid "Pirates - Deathrattles"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/7/
-msgid "The idea of this comp is to summon a ton of high attack [[Sky Pirate||113148]]s that attack immediately. [[Cruise Controller||115595]] plus [[Titus Rivendare||97408]] combo gives your pirate summons tons of attack, and [[Sky Pirate Flagbearer||113148]] plus [[Rapscallion Recruiter||101180]] generates a ton of [[Scallywag||61061]]s. Roll on tier 5 and buy as many of the Core/Addon pieces as possible.\r\n"
-"\r\n"
+msgid "The idea of this comp is to summon a ton of high attack [[Sky Pirate||113148]]s that attack immediately. [[Cruise Controller||115595]] plus [[Titus Rivendare||97408]] combo gives your pirate summons tons of attack, and [[Sky Pirate Flagbearer||113148]] plus [[Rapscallion Recruiter||101180]] generates a ton of [[Scallywag||61061]]s. Roll on tier 5 and buy as many of the Core/Addon pieces as possible.\n\n"
 "1 Taunted Sky Pirate Flagbearer is good enough! Then, you usually have taunted Cruise Controllers, Herald, Rapscallion, and Titus' in the back."
 msgstr ""
 
@@ -340,7 +334,7 @@ msgid "[[Cruise Controller||115595]] + [[Titus Rivendare||97408]] + Sky Pirate G
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/7/
-msgid "[[Rapscallion Recruiter||101180]]\r\n"
+msgid "[[Rapscallion Recruiter||101180]]\n"
 "[[Sky Pirate Flagbearer||113148]] + [[Ripsnarl Captain||61056]]"
 msgstr ""
 
@@ -353,8 +347,7 @@ msgid "Undead - Attack Scaling"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
-msgid "You want to scale Attack Undead, most commonly through [[Champion of the Primus||103724]]. Then, you want to have a bunch of summons with [[Handless Forsaken||95265]] and/or [[Deathly Striker||115610]] that have high attack.\r\n"
-"\r\n"
+msgid "You want to scale Attack Undead, most commonly through [[Champion of the Primus||103724]]. Then, you want to have a bunch of summons with [[Handless Forsaken||95265]] and/or [[Deathly Striker||115610]] that have high attack.\n\n"
 "You can reborn your undeads through [[Prosthetic Hand||112364]], or by targetting [[Mummifier||108992]] with [[Disguised Graverobber||104610]]."
 msgstr ""
 
@@ -363,7 +356,7 @@ msgid "Attack scaling ([[Champion of the Primus||103724]]) + Undead summons ([[D
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
-msgid "[[Deathly Striker||115610]] \r\n"
+msgid "[[Deathly Striker||115610]] \n"
 "Undead Summons [[Cadaver Caretaker||113158]]"
 msgstr ""
 
@@ -384,7 +377,7 @@ msgid "[[Gemsplitter||75484]] + Gem Scaling ([[Pokey Thornmantle||112882]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/35/
-msgid "[[Prophet of the Boar||70153]]\r\n"
+msgid "[[Prophet of the Boar||70153]]\n"
 "[[Gem Splitter||75484]]"
 msgstr ""
 
@@ -425,7 +418,7 @@ msgid "[[Runed Progenitor||117499]] + Beetle generation ([[Turquoise Skitterer||
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/18/
-msgid "[[Turquoise Skitterer||119255]]\r\n"
+msgid "[[Turquoise Skitterer||119255]]\n"
 "[[Forest Rover||115577]]"
 msgstr ""
 
@@ -438,9 +431,7 @@ msgid "Beasts - Goldrinn"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/12/
-msgid "[[Goldrinn, the Great Wolf||59955]] gives a +4/4 aura affect to all beasts you summon, so this comp relies on aura buffs and summons. [[Indomitable Mount||113132]] is a lot of summons, and [[Monstrous Macaw||62230]]/[[Hawkstrider herald||106484]] +  [[Goldrinn, the Great Wolf||59955]] is responsible for increasing your aura buffs.\r\n"
-"\r\n"
-"\r\n"
+msgid "[[Goldrinn, the Great Wolf||59955]] gives a +4/4 aura affect to all beasts you summon, so this comp relies on aura buffs and summons. [[Indomitable Mount||113132]] is a lot of summons, and [[Monstrous Macaw||62230]]/[[Hawkstrider herald||106484]] +  [[Goldrinn, the Great Wolf||59955]] is responsible for increasing your aura buffs.\n\n\n"
 "Once you’ve commited to the comp with [[Goldrinn, the Great Wolf||59955]], roll for all of the other pieces in the comp, prioritizing the Core cards. [[Eyes of the Earth Mother||100601]] is the most common way to make [[Monstrous Macaw||62230]] golden, and having a Taunt + Reborn [[Goldrinn, the Great Wolf||59955]] is ideal."
 msgstr ""
 
