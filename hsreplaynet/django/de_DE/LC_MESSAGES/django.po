@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-31 01:40+0000\n"
-"PO-Revision-Date: 2025-03-14 00:40\n"
+"POT-Creation-Date: 2025-03-14 01:40+0000\n"
+"PO-Revision-Date: 2025-03-14 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -58,6 +58,11 @@ msgstr "Dieser Plan ist nicht verfügbar."
 msgid "{input} is not a valid member of {enum}."
 msgstr "{input} ist kein gültiges Element von {enum}."
 
+#: api/serializers/battlegrounds.py:448
+#, python-brace-format
+msgid "{tribe_name} - {instance.name}"
+msgstr ""
+
 #: api/views/features.py:33
 msgid "Code has already been used."
 msgstr "Code wurde bereits eingelöst."
@@ -82,47 +87,47 @@ msgstr "Code betrifft dieses Konto nicht und bleibt gültig."
 msgid "Code has been applied to your account."
 msgstr "Code wurde auf dein Konto angewendet."
 
-#: settings.py:408
+#: settings.py:411
 msgid "Full access to your HSReplay.net account"
 msgstr "Vollständiger Zugriff auf dein HSReplay.net-Konto"
 
-#: settings.py:409
+#: settings.py:412
 msgid "Access information about your connected social accounts"
 msgstr "Zugriff auf Informationen über deine verknüpften sozialen Konten"
 
-#: settings.py:410
+#: settings.py:413
 msgid "View your Hearthstone card collection"
 msgstr "Betrachte deine Hearthstone-Kartensammlung"
 
-#: settings.py:411
+#: settings.py:414
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Deine Hearthstone-Kartensammlung zur Seite hochladen"
 
-#: settings.py:412
+#: settings.py:415
 msgid "View your replays"
 msgstr "Deine Aufzeichnungen betrachten"
 
-#: settings.py:413
+#: settings.py:416
 msgid "Update and delete your replays"
 msgstr "Deine Aufzeichnungen hochladen und entfernen"
 
-#: settings.py:414
+#: settings.py:417
 msgid "Access the Partner API"
 msgstr "Zugriff auf die Partner-API"
 
-#: settings.py:415
+#: settings.py:418
 msgid "Read access to the tournaments service"
 msgstr "Lesezugriff auf den Turnierdienst"
 
-#: settings.py:416
+#: settings.py:419
 msgid "Write access to the tournaments service"
 msgstr "Schreibzugriff auf den Turnierdienst"
 
-#: settings.py:417
+#: settings.py:420
 msgid "View your webhooks"
 msgstr "Deine Webhooks betrachten"
 
-#: settings.py:418
+#: settings.py:421
 msgid "Create and delete webhooks on your behalf"
 msgstr "Webhooks für dich erstellen und löschen"
 

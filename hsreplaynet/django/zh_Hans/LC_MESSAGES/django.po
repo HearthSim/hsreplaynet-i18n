@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-31 01:40+0000\n"
-"PO-Revision-Date: 2025-03-13 09:45\n"
+"POT-Creation-Date: 2025-03-14 01:40+0000\n"
+"PO-Revision-Date: 2025-03-14 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -58,6 +58,11 @@ msgstr "这个计划现在不可用。"
 msgid "{input} is not a valid member of {enum}."
 msgstr "{input}不是{enum}的有效组分。"
 
+#: api/serializers/battlegrounds.py:448
+#, python-brace-format
+msgid "{tribe_name} - {instance.name}"
+msgstr ""
+
 #: api/views/features.py:33
 msgid "Code has already been used."
 msgstr "该激活码已被使用。"
@@ -82,47 +87,47 @@ msgstr "激活码使用失败，激活码依旧可用于其他账号。"
 msgid "Code has been applied to your account."
 msgstr "激活码使用成功。"
 
-#: settings.py:408
+#: settings.py:411
 msgid "Full access to your HSReplay.net account"
 msgstr "完全访问您的HSReplay.net帐户"
 
-#: settings.py:409
+#: settings.py:412
 msgid "Access information about your connected social accounts"
 msgstr "访问您已连接的社交帐户的信息"
 
-#: settings.py:410
+#: settings.py:413
 msgid "View your Hearthstone card collection"
 msgstr "查看您的炉石卡牌收藏"
 
-#: settings.py:411
+#: settings.py:414
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "上传您的炉石卡牌收藏到网站"
 
-#: settings.py:412
+#: settings.py:415
 msgid "View your replays"
 msgstr "查看您的回放"
 
-#: settings.py:413
+#: settings.py:416
 msgid "Update and delete your replays"
 msgstr "更新和删除您的回放"
 
-#: settings.py:414
+#: settings.py:417
 msgid "Access the Partner API"
 msgstr "获取合作伙伴的API"
 
-#: settings.py:415
+#: settings.py:418
 msgid "Read access to the tournaments service"
 msgstr "获得锦标赛服务的读取权限"
 
-#: settings.py:416
+#: settings.py:419
 msgid "Write access to the tournaments service"
 msgstr "获得锦标赛服务的写入权限"
 
-#: settings.py:417
+#: settings.py:420
 msgid "View your webhooks"
 msgstr "查看您的 webhooks"
 
-#: settings.py:418
+#: settings.py:421
 msgid "Create and delete webhooks on your behalf"
 msgstr "为您创建和删除 webhooks"
 

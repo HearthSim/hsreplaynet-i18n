@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-12T18:06:24.468579\n"
+"POT-Creation-Date: 2025-03-14T01:40:22.751393\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,38 +15,34 @@ msgstr ""
 "X-Crowdin-File: /anomaly_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 167\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-03-13 09:45\n"
+"PO-Revision-Date: 2025-03-14 12:40\n"
 
-#: Anomaly id 106500 | Guide id 64
-msgid "Be on tavern 4 by turn 5! That way, starting turn 6, you can spend your gold rolling instead of leveling."
+#: Anomaly id 119094 | Guide id 22
+msgid "For your second hero power, generally the lower armor the hero is, the better option it is. For example, Snake eyes is one of the best second hero powers to pick because it's a 6 armor hero paired alongside the armor of your first hero. Patchwerk technically counts as a 0 armor hero so it's one of the best second hero powers."
 msgstr ""
 
 #: Anomaly id 102457 | Guide id 1
 msgid "Your turn 1 buy is very important. Be prepared to only buy cards of that type."
 msgstr ""
 
-#: Anomaly id 119094 | Guide id 22
-msgid "For your second hero power, generally the lower armor the hero is, the better option it is. For example, Snake eyes is one of the best second hero powers to pick because it's a 6 armor hero paired alongside the armor of your first hero. Patchwerk technically counts as a 0 armor hero so it's one of the best second hero powers."
-msgstr ""
-
-#: Anomaly id 102083 | Guide id 93
-msgid "For this one, just play relatively normally."
+#: Anomaly id 103113 | Guide id 3
+msgid "Generally, quests that are easier to complete are better options. For example, pick a \"Summon\" or \"Have minions die\" quest with a deathrattle opener."
 msgstr ""
 
 #: Anomaly id 102076 | Guide id 44
 msgid "Break open your piggy bank when you level to 4 or 5, and then start buying 4 drops and 5 drops immediately."
 msgstr ""
 
-#: Anomaly id 103113 | Guide id 3
-msgid "Generally, quests that are easier to complete are better options. For example, pick a \"Summon\" or \"Have minions die\" quest with a deathrattle opener."
+#: Anomaly id 102085 | Guide id 43
+msgid "Level very fast in this one. Most of the time you're going level 4 on turn 4, or even 5 on 5."
 msgstr ""
 
 #: Anomaly id 102075 | Guide id 25
 msgid "Useless triples are less valuable because they don't give you a triple reward. If you don't plan on keeping a card, don't triple it."
 msgstr ""
 
-#: Anomaly id 118734 | Guide id 17
-msgid "In an Elemental/Pirate/Dragon lobby, Golden Brann is forceable, and then you will be infinite as long as you stay on tavern 5. With Beasts/Undead/Pirates, you can try forcing a Deathrattle comp."
+#: Anomaly id 102455 | Guide id 83
+msgid "You may want to win every fight, but it's still better to level as opposed to buying trash in the early turns. If you stay down and still don't win, it's game over. Don't buy trash!"
 msgstr ""
 
 #: Anomaly id 103541 | Guide id 70
@@ -57,8 +53,8 @@ msgstr ""
 msgid "If you have buffs in your hand, use the buffs on the shop and then buy the minion with double header to duplicate the buffs."
 msgstr ""
 
-#: Anomaly id 118697 | Guide id 10
-msgid "Don't be afraid to use a spell when you see it. An early [[Strike Oil||104029]] or [[Careful Investment||103779]] is much better to use immediately than to hold onto."
+#: Anomaly id 118734 | Guide id 17
+msgid "Deathrattle Pirates are very strong in this anomaly if you stay on tavern 5 the entire game."
 msgstr ""
 
 #: Anomaly id 119044 | Guide id 58
@@ -73,32 +69,36 @@ msgstr ""
 msgid "Level every turn and be tavern 5 by turn 4. You can do this because of damage cap."
 msgstr ""
 
-#: Anomaly id 102455 | Guide id 83
-msgid "You may want win every fight, but it's still better to level as opposed to buying trash in the early turns. If you stay down and still don't win, it's game over. Don't buy trash!"
+#: Anomaly id 102084 | Guide id 45
+msgid "Play this anomaly like you would play Reno. Either golden an early value generator or a win condition."
 msgstr ""
 
 #: Anomaly id 118670 | Guide id 37
 msgid "Try to line up an early triple into a 4 drop, so you can copy the 4 drop turn 4."
 msgstr ""
 
-#: Anomaly id 102982 | Guide id 20
-msgid "Hope you get good quests!"
-msgstr ""
-
-#: Anomaly id 102085 | Guide id 43
-msgid "Level very fast in this one. Most of the time you're going level 4 on turn 4, or even 5 on 5."
-msgstr ""
-
 #: Anomaly id 118673 | Guide id 39
-msgid "APM Comps are easier to go infinite, but otherwise play normally."
+msgid "APM Comps are easier to snowball gold and go infinite, but otherwise play normally."
+msgstr ""
+
+#: Anomaly id 119093 | Guide id 66
+msgid "In the late game, you can try to send the Sandy off your board if you have to biggest unit, so your partner can have 2 Sandys."
+msgstr ""
+
+#: Anomaly id 102748 | Guide id 13
+msgid "Pick default panda skin to hide your match history from other people."
 msgstr ""
 
 #: Anomaly id 118671 | Guide id 16
 msgid "Spell based comps are slightly better but mostly play normally."
 msgstr ""
 
-#: Anomaly id 102748 | Guide id 13
-msgid "Panda!"
+#: Anomaly id 106631 | Guide id 91
+msgid "Generally, you use your 2 faceless manipulators on the first win condition you see, and pretend you're Reno/Zerek on turn 8."
+msgstr ""
+
+#: Anomaly id 102083 | Guide id 93
+msgid "Play relatively normally."
 msgstr ""
 
 #: Anomaly id 119143 | Guide id 67
@@ -121,8 +121,12 @@ msgstr ""
 msgid "Pray to Yogg for good RNG"
 msgstr ""
 
+#: Anomaly id 102982 | Guide id 20
+msgid "Quests with spellcraft effects are really strong because you get the spellcraft for two turns."
+msgstr ""
+
 #: Anomaly id 107226 | Guide id 21
-msgid "If there's an OP card that synergizes with another hero in the lobby very well (eg. battlecry with Shudderwock/Brann), then don't give it to them. On the contrary, pick cards that are OP for your hero but not other people's."
+msgid "If there's an OP card that synergizes with another hero in the lobby very well (eg. battlecry with Shudderwock/Brann), then don't give it to them. On the contrary, pick cards that are OP for your hero/comp but not other people's."
 msgstr ""
 
 #: Anomaly id 102005 | Guide id 55
@@ -153,8 +157,8 @@ msgstr ""
 msgid "It's hard to pick heroes that love to level fast on this anomaly, such as maybe [[Snake Eyes||105314]]. You want your hero power to be able to put stats on the board without relying on high tier units."
 msgstr ""
 
-#: Anomaly id 102092 | Guide id 52
-msgid "Try rolling 3 times turn 1 and 2 times turn 3 to have a 6/6 monkey and a 3 drop on turn 3. You could even hold the monkey to get a 4 drop on turn 4."
+#: Anomaly id 118697 | Guide id 10
+msgid "Don't be afraid to use a good spell when you see it. An early [[Strike Oil||104029]] or [[Careful Investment||103779]] is much better to use immediately than to hold for a later tier spell."
 msgstr ""
 
 #: Anomaly id 119748 | Guide id 30
@@ -167,6 +171,10 @@ msgstr ""
 
 #: Anomaly id 119092 | Guide id 57
 msgid "ALWAYS go for a 5-6 drop with your scout."
+msgstr ""
+
+#: Anomaly id 102092 | Guide id 52
+msgid "Try rolling 3 times turn 1 and 2 times turn 3 to have a 6/6 monkey and a 3 drop on turn 3. You could even hold the monkey to get a 4 drop on turn 4."
 msgstr ""
 
 #: Anomaly id 103078 | Guide id 82
@@ -191,5 +199,9 @@ msgstr ""
 
 #: Anomaly id 102459 | Guide id 84
 msgid "Usually, you level to tavern 2 on turn 2, then tavern 3 on turn 4. The best T2 prizes to take are 2 coins and 3 rolls. The best T3 prizes to take are Great Deal and Unlimited Coin."
+msgstr ""
+
+#: Anomaly id 106500 | Guide id 64
+msgid "Try to be on tavern 4 by turn 5! That way, starting turn 6, you can spend your gold rolling instead of leveling."
 msgstr ""
 
