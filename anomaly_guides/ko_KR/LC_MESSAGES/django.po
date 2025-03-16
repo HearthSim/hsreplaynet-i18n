@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-15T01:40:23.981481\n"
+"POT-Creation-Date: 2025-03-16T01:40:22.695151\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,23 @@ msgstr ""
 "X-Crowdin-File: /anomaly_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 167\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-03-15 12:40\n"
+"PO-Revision-Date: 2025-03-16 12:40\n"
+
+#: Anomaly id 102982 | Guide id 20
+msgid "Quests with spellcraft effects are really strong because you get the spellcraft for two turns."
+msgstr ""
+
+#: Anomaly id 118734 | Guide id 17
+msgid "Deathrattle Pirates are very strong in this anomaly if you stay on tavern 5 the entire game. The other good strategy is forcing Golden Brann with Murlocs and/or Dragons."
+msgstr ""
+
+#: Anomaly id 106631 | Guide id 91
+msgid "Generally, you use your 2 faceless manipulators on the first win condition you see on turn 8, such as goldenning a.Brann or Titus."
+msgstr ""
+
+#: Anomaly id 102083 | Guide id 93
+msgid "Wait a bit after you buy something before rolling, the minion that pops up might be useful."
+msgstr ""
 
 #: Anomaly id 119094 | Guide id 22
 msgid "For your second hero power, generally the lower armor the hero is, the better option it is. For example, Snake eyes is one of the best second hero powers to pick because it's a 6 armor hero paired alongside the armor of your first hero. Patchwerk technically counts as a 0 armor hero so it's one of the best second hero powers."
@@ -27,10 +43,6 @@ msgstr ""
 
 #: Anomaly id 103113 | Guide id 3
 msgid "Generally, quests that are easier to complete are better options. For example, pick a \"Summon\" or \"Have minions die\" quest with a deathrattle opener."
-msgstr ""
-
-#: Anomaly id 102076 | Guide id 44
-msgid "Break open your piggy bank when you level to 4 or 5, and then start buying 4 drops and 5 drops immediately."
 msgstr ""
 
 #: Anomaly id 102085 | Guide id 43
@@ -53,16 +65,8 @@ msgstr ""
 msgid "If you have buffs in your hand, use the buffs on the shop and then buy the minion with double header to duplicate the buffs."
 msgstr ""
 
-#: Anomaly id 118734 | Guide id 17
-msgid "Deathrattle Pirates are very strong in this anomaly if you stay on tavern 5 the entire game."
-msgstr ""
-
 #: Anomaly id 119044 | Guide id 58
 msgid "ALWAYS go 3 on 3! Then you can golden a 3 drop on turn 4 and triple into a 4 drop. Use your 3rd arrow on something that wins you the game like golden Brann or Titus."
-msgstr ""
-
-#: Anomaly id 118676 | Guide id 56
-msgid "You can opt to stay on 2 and either cycle every baller, or play T2 Nagas ([[Thaumaturgist||115563]], [[Zesty Shaker||99054]], [[Lava Lurker||80747]]). However, I think level up and playing for first is also good."
 msgstr ""
 
 #: Anomaly id 101954 | Guide id 28
@@ -93,14 +97,6 @@ msgstr ""
 msgid "Spell based comps are slightly better but mostly play normally."
 msgstr ""
 
-#: Anomaly id 106631 | Guide id 91
-msgid "Generally, you use your 2 faceless manipulators on the first win condition you see, and pretend you're Reno/Zerek on turn 8."
-msgstr ""
-
-#: Anomaly id 102083 | Guide id 93
-msgid "Play relatively normally."
-msgstr ""
-
 #: Anomaly id 119143 | Guide id 67
 msgid "One person stays down on tavern 1/2, gives their partner gold to level really fast and start buying premium units early on."
 msgstr ""
@@ -119,10 +115,6 @@ msgstr ""
 
 #: Anomaly id 102976 | Guide id 7
 msgid "Pray to Yogg for good RNG"
-msgstr ""
-
-#: Anomaly id 102982 | Guide id 20
-msgid "Quests with spellcraft effects are really strong because you get the spellcraft for two turns."
 msgstr ""
 
 #: Anomaly id 107226 | Guide id 21
@@ -157,14 +149,6 @@ msgstr ""
 msgid "It's hard to pick heroes that love to level fast on this anomaly, such as maybe [[Snake Eyes||105314]]. You want your hero power to be able to put stats on the board without relying on high tier units."
 msgstr ""
 
-#: Anomaly id 118697 | Guide id 10
-msgid "Don't be afraid to use a good spell when you see it. An early [[Strike Oil||104029]] or [[Careful Investment||103779]] is much better to use immediately than to hold for a later tier spell."
-msgstr ""
-
-#: Anomaly id 102792 | Guide id 4
-msgid "Spells are really bad to buy in this anomaly. Typically you get one gold back from using [[Chef's Choice||105664]] but in this anomaly the spell is more expensive. Also minions are much more efficient to buy."
-msgstr ""
-
 #: Anomaly id 119748 | Guide id 30
 msgid "Your turn 1 buy is very important, because you'll only get cards from that tribe. Also, it's easy to level fast on this anomaly in order to not buy trash."
 msgstr ""
@@ -181,6 +165,10 @@ msgstr ""
 msgid "Try rolling 3 times turn 1 and 2 times turn 3 to have a 6/6 monkey and a 3 drop on turn 3. You could even hold the monkey to get a 4 drop on turn 4."
 msgstr ""
 
+#: Anomaly id 106500 | Guide id 64
+msgid "Try to be on tavern 4 by turn 5! That way, starting turn 6, you can spend your gold rolling instead of leveling."
+msgstr ""
+
 #: Anomaly id 103078 | Guide id 82
 msgid "Do not skip [[Elise Starseeker||60213]] in this anomaly! It's by far the best way to print 7 drops, and they're pretty OP. With Elise, you really want Golden [[Moira Bronzebeard||103502]], (with [[Captain Sanders||97539]] if it's available), and [[King Varian||102998]] for more money and 6 drops. You can go infinite like this, and scale in whatever way you want."
 msgstr ""
@@ -189,19 +177,31 @@ msgstr ""
 msgid "Spell based comps are slightly better in this anomaly, but other than that play normally and enjoy some free spells."
 msgstr ""
 
-#: Anomaly id 102991 | Guide id 34
-msgid "It's really hard to hit anything in this anomaly, so maybe you need to buy more marginal cards you wouldn't otherwise buy to become stronger."
+#: Anomaly id 102076 | Guide id 44
+msgid "Break open your piggy bank the turn you want to stabilize (buying strong minions). If you want to stabilize on tavern 4, break open your piggy bank after you level to 4."
 msgstr ""
 
-#: Anomaly id 102090 | Guide id 40
-msgid "If Murlocs are in, try to do [[Bassgill||98926]] spam with [[Bream Counter||98509]] and [[Operatic Belcher||101316]]."
+#: Anomaly id 102991 | Guide id 34
+msgid "It's really hard to hit anything in this anomaly, so maybe you need to buy more marginal cards you wouldn't otherwise buy to become stronger."
 msgstr ""
 
 #: Anomaly id 102459 | Guide id 84
 msgid "Usually, you level to tavern 2 on turn 2, then tavern 3 on turn 4. The best T2 prizes to take are 2 coins and 3 rolls. The best T3 prizes to take are Great Deal and Unlimited Coin."
 msgstr ""
 
-#: Anomaly id 106500 | Guide id 64
-msgid "Try to be on tavern 4 by turn 5! That way, starting turn 6, you can spend your gold rolling instead of leveling."
+#: Anomaly id 118697 | Guide id 10
+msgid "Don't be afraid to use a good spell when you see it. An early [[Strike Oil||104029]] or [[Time Management||117573]] is much better to use immediately than to hold for a later tier spell."
+msgstr ""
+
+#: Anomaly id 118676 | Guide id 56
+msgid "You can opt to stay on 2 and either cycle every baller, or play T2 Nagas ([[Thaumaturgist||115563]], [[Zesty Shaker||99054]], [[Lava Lurker||80747]]). The best heroes for this strategy are Silas and Kurtrus."
+msgstr ""
+
+#: Anomaly id 102090 | Guide id 40
+msgid "Golden Brann is utmost priority, and will guarantee you infinite. Then, try to force either Shop Buff Demons or Bassgill Murlocs with Belchers and Bream Counters."
+msgstr ""
+
+#: Anomaly id 102792 | Guide id 4
+msgid "Spells are really bad to buy in this anomaly. Typically you get one gold back from using [[Chef's Choice||105664]] but in this anomaly the spell is more expensive. Also minions are much more efficient to buy. Also, every single [[Refreshing Anomaly||64042]] is free."
 msgstr ""
 
