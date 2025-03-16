@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-15 01:40\n"
+"POT-Creation-Date: 2025-03-16 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -11,34 +11,33 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: name | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Murlocs - Hand Buff"
+#: name | https://hsreplay.net/battlegrounds/comps/25/
+msgid "Elementals - Ultraviolet"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/25/
 msgid ""
-"Generate a ton of battlecries using [[Neon Agent||115844]], which should "
-"give you tons of economy when paired with [[Brann Bronzebeard||96786]]. Use "
-"this economy to scale [[Bream Counter||98509]] in your hand alongside "
-"[[Bassgill||98926]] and [[Mrglin' Burglar||114391]] by cycling [[Primalfin "
-"Lookout||60028]] and [[Tad||87060]]. Finally, fill out your endgame board "
-"with as many [[Bassgill||98926]]s as possible, because there are always "
-"great murlocs you can summon from hand, notably [[Reckless "
-"Cliffdiver||115836]] and [[Operatic Belcher||101316]]."
+"Cycle every single free card with [[Brann Bronzebeard||96786]], such as "
+"[[Refreshing Anomaly||64042]], [[Gentle Djinni||64062]], or [[Hired "
+"Headhunter||105264]]. Then, use your economy to scale using [[Ultraviolet "
+"Ascendant||115581]]. [[Sellemental||64038]] and [[Windfall Tornado||116738]]"
+" are also always good to buy."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
-msgid "[[Brann Bronzebeard||96786]] + [[Neon Agent||115844]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/34/
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/25/
 msgid ""
-"[[Brann Bronzebeard||96786]]\n"
-"[[Neon Agent||115844]]"
+"[[Brann Bronzebeard||96786]]/[[Gentle Djinni||64062]] plus [[Ultraviolet "
+"Ascendant||115581]]"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Cycle Murlocs to scale Murlocs in hand"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/25/
+msgid ""
+"[[Gentle Djinni||64062]]\n"
+"[[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/25/
+msgid "Cycle elementals to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/5/
@@ -55,9 +54,7 @@ msgid ""
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/5/
-msgid ""
-"[[Gem Rat||116434]] + Gem Generation ([[Prophet of the Boar||70153]], "
-"[[Crystal Infuser||116188]])"
+msgid "[[Gem Rat||116434]] + [[Turbo Hogrider||116195]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/5/
@@ -108,12 +105,6 @@ msgstr ""
 msgid ""
 "[[Nomi, Kitchen Nightmare||63626]] plus [[Gentle Djinni||64062]] or another "
 "Nomi"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/24/
-msgid ""
-"[[Gentle Djinni||64062]]\n"
-"[[Brann Bronzebeard||96786]]"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/24/
@@ -176,25 +167,34 @@ msgstr ""
 msgid "Play unique spells to scale"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/25/
-msgid "Elementals - Ultraviolet"
+#: name | https://hsreplay.net/battlegrounds/comps/34/
+msgid "Murlocs - Hand Buff"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/25/
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
 msgid ""
-"Cycle every single free card with [[Brann Bronzebeard||96786]], such as "
-"[[Refreshing Anomaly||64042]], [[Gentle Djinni||64062]], or [[Hired "
-"Headhunter||105264]]. Then, use your economy to scale using [[Ultraviolet "
-"Ascendant||115581]]. [[Sellemental||64038]] and [[Windfall Tornado||116738]]"
-" are also always good to buy."
+"Generate a ton of battlecries using [[Neon Agent||115844]], which should "
+"give you tons of economy when paired with [[Brann Bronzebeard||96786]]. Use "
+"this economy to scale [[Bream Counter||98509]] in your hand alongside "
+"[[Bassgill||98926]] and [[Mrglin' Burglar||114391]] by cycling [[Primalfin "
+"Lookout||60028]] and [[Tad||87060]]. Finally, fill out your endgame board "
+"with as many [[Bassgill||98926]]s as possible, because there are always "
+"great murlocs you can summon from hand, notably [[Reckless "
+"Cliffdiver||115836]] and [[Operatic Belcher||101316]]."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/25/
-msgid "[[Brann Bronzebeard||96786]] plus [[Ultraviolet Ascendant||115581]]"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
+msgid "[[Brann Bronzebeard||96786]] + [[Neon Agent||115844]]"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/25/
-msgid "Cycle elementals to scale"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/34/
+msgid ""
+"[[Brann Bronzebeard||96786]]\n"
+"[[Neon Agent||115844]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/34/
+msgid "Cycle Murlocs to scale Murlocs in hand"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
@@ -225,34 +225,34 @@ msgstr ""
 msgid "Spend lots of gold to scale"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Demons - Shop Buff"
+#: name | https://hsreplay.net/battlegrounds/comps/11/
+msgid "Dragons - Nightbane"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/9/
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/11/
 msgid ""
-"The idea is to buff your shop a ton with [[Big Brother||116695]]s, and then "
-"cycle cheap spells to consume the shop with [[Batty Terrorguard||116697]]. "
-"You want to buy every single spell that effectively costs 1, such as "
-"[[Fleeting Vigor||105665]] and [[Enchanted Lasso||104502]]. [[Brann "
-"Bronzebeard||96786]] and [[Archimonde||114043]] are great to cycle "
-"[[Felemental||97553]]s, [[Imposing Percussionist||99232]]s, and [[Rodeo "
-"Performer||104466]]s. Eventually, level to 6 to cycle [[Mecha-"
-"Jaraxxus||95469]] to Divine Shield your demons."
+"This comp gets high attack and Divine Shield to all your dragons. Position "
+"[[Nightbane, Ignited||110088]] next to [[Persistent Poet||108463]] and scale"
+" them with [[Prized Promo-Drake||72073]]. Then, after your Nightbanes die, "
+"your dragons next to the poet will captures all the attack. Finally, "
+"[[Nadina the Red||60629]] or [[Amber Guardian||95006]] will put permanent "
+"Divine Shield on your buffed dragons."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Buffed shop ([[Big Brother||116695]]) + [[Batty Terrorguard||116697]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/9/
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/11/
 msgid ""
-"Buffed shop ([[Big Brother||116695]])\n"
-"[[Archimonde||114043]]"
+"[[Persistent Poet||108463]] + [[Nightbane, Ignited||110088]] + [[Prized "
+"Promo-drake||72073]]"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Buff and consume your shop"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/11/
+msgid ""
+"Alextrassa or Ysera\n"
+"Buffed [[Nightbane, Ignited||110088]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/11/
+msgid "Add stats to Dragons end of turn"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/13/
@@ -307,34 +307,27 @@ msgstr ""
 msgid "Cycle cards to scale"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/11/
-msgid "Dragons - Nightbane"
+#: name | https://hsreplay.net/battlegrounds/comps/15/
+msgid "Dragons - Kalecgos"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/11/
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/15/
 msgid ""
-"This comp gets high attack and Divine Shield to all your dragons. Position "
-"[[Nightbane, Ignited||110088]] next to [[Persistent Poet||108463]] and scale"
-" them with [[Prized Promo-Drake||72073]]. Then, after your Nightbanes die, "
-"your dragons next to the poet will captures all the attack. Finally, "
-"[[Nadina the Red||60629]] or [[Amber Guardian||95006]] will put permanent "
-"Divine Shield on your buffed dragons."
+"[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +2/4 every single battlecry you play. You want to trigger as many battlecries as possible.\n"
+"\n"
+"Cycle only PREMIUM battlecries, such as [[Gentle Djinni||64062]], [[Refreshing Anomaly||64042]], or [[Primalfin Lookout||60028]]."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/11/
-msgid ""
-"[[Persistent Poet||108463]] + [[Nightbane, Ignited||110088]] + [[Prized "
-"Promo-drake||72073]]"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Kalecgos, Arcane Aspect||60630]] + [[Brann Bronzebeard||96786]]"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/11/
-msgid ""
-"Alextrassa or Ysera\n"
-"Buffed [[Nightbane, Ignited||110088]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Brann Bronzebeard||96786]]"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/11/
-msgid "Add stats to Dragons end of turn"
+#: summary | https://hsreplay.net/battlegrounds/comps/15/
+msgid "Cycle battlecries to scale dragons"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/20/
@@ -364,29 +357,6 @@ msgstr ""
 msgid "Play spells and nagas to scale"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/15/
-msgid "Dragons - Kalecgos"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/15/
-msgid ""
-"[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +2/4 every single battlecry you play. You want to trigger as many battlecries as possible.\n"
-"\n"
-"Cycle only PREMIUM battlecries, such as [[Gentle Djinni||64062]], [[Refreshing Anomaly||64042]], or [[Primalfin Lookout||60028]]."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/15/
-msgid "[[Kalecgos, Arcane Aspect||60630]] + [[Brann Bronzebeard||96786]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/15/
-msgid "[[Brann Bronzebeard||96786]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/15/
-msgid "Cycle battlecries to scale dragons"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/6/
 msgid "Undead - Overflow"
 msgstr ""
@@ -414,31 +384,61 @@ msgstr ""
 msgid "Overflow your board to scale"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/7/
-msgid "Pirates - Deathrattles"
+#: name | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Demons - Shop Buff"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/7/
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/9/
 msgid ""
-"The idea of this comp is to summon a ton of high attack [[Sky Pirate||113148]]s that attack immediately. [[Cruise Controller||115595]] plus [[Titus Rivendare||97408]] combo gives your pirate summons tons of attack, and [[Sky Pirate Flagbearer||113148]] plus [[Rapscallion Recruiter||101180]] generates a ton of [[Scallywag||61061]]s. Roll on tier 5 and buy as many of the Core/Addon pieces as possible.\n"
+"The idea is to buff your shop a ton with [[Big Brother||116695]]s, and then "
+"cycle cheap spells to consume the shop with [[Batty Terrorguard||116697]]. "
+"You want to buy every single spell that effectively costs 1, such as "
+"[[Fleeting Vigor||105665]] and [[Enchanted Lasso||104502]]. [[Brann "
+"Bronzebeard||96786]] and [[Archimonde||114043]] are great to cycle "
+"[[Felemental||97553]]s, [[Imposing Percussionist||99232]]s, and [[Rodeo "
+"Performer||104466]]s. Eventually, level to 6 to cycle [[Mecha-"
+"Jaraxxus||95469]] to Divine Shield your demons."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Buffed shop ([[Big Brother||116695]]) + [[Batty Terrorguard||116697]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/9/
+msgid ""
+"Buffed shop ([[Big Brother||116695]])\n"
+"[[Archimonde||114043]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Buff and consume your shop"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Beasts - Goldrinn"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/12/
+msgid ""
+"[[Goldrinn, the Great Wolf||59955]] gives a +4/4 aura affect to all beasts you summon, so this comp relies on aura buffs and summons. [[Indomitable Mount||113132]] is a lot of summons, and [[Monstrous Macaw||62230]]/[[Hawkstrider herald||106484]] +  [[Goldrinn, the Great Wolf||59955]] is responsible for increasing your aura buffs.\n"
 "\n"
-"1 Taunted Sky Pirate Flagbearer is good enough! Then, you usually have taunted Cruise Controllers, Herald, Rapscallion, and Titus' in the back."
+"\n"
+"Once you’ve commited to the comp with [[Goldrinn, the Great Wolf||59955]], roll for all of the other pieces in the comp, prioritizing the Core cards. [[Eyes of the Earth Mother||100601]] is the most common way to make [[Monstrous Macaw||62230]] golden, and having a Taunt + Reborn [[Goldrinn, the Great Wolf||59955]] is ideal."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/7/
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/12/
 msgid ""
-"[[Cruise Controller||115595]] + [[Titus Rivendare||97408]] + Sky Pirate "
-"Generation ([[Rapscallion Recruiter||101180]])"
+"[[Goldrinn, the Great Wolf||59955]] + beast summons ([[Indomitable "
+"Mount||113132]])"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/7/
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/12/
 msgid ""
-"[[Rapscallion Recruiter||101180]]\n"
-"[[Sky Pirate Flagbearer||113148]] + [[Ripsnarl Captain||61056]]"
+"Deathrattle Beasts ([[Sly Raptor||101584]], [[Indomitable Mount||113132]])"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/7/
-msgid "Summon high-attack pirates that attack immediately"
+#: summary | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Scale summoned beasts in combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/14/
@@ -468,6 +468,36 @@ msgstr ""
 msgid "Summon high attack Undeads"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/7/
+msgid "Pirates - Deathrattles"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/7/
+msgid ""
+"The idea of this comp is to summon a ton of high attack [[Sky "
+"Pirate||113148]]s that attack immediately. [[Cruise Controller||115595]] "
+"plus [[Titus Rivendare||97408]] combo gives your pirate summons tons of "
+"attack, and [[Sky Pirate Flagbearer||113148]] plus [[Rapscallion "
+"Recruiter||101180]] generates a ton of [[Scallywag||61061]]s. Roll on tier 5"
+" and buy as many of the Core/Addon pieces as possible."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/7/
+msgid ""
+"[[Cruise Controller||115595]] + [[Titus Rivendare||97408]] + Sky Pirate "
+"Generation ([[Rapscallion Recruiter||101180]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/7/
+msgid ""
+"[[Rapscallion Recruiter||101180]]\n"
+"[[Sky Pirate Flagbearer||113148]] + [[Ripsnarl Captain||61056]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/7/
+msgid "Summon high-attack pirates that attack immediately"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/35/
 msgid "Quilboar - Gemsplitter"
 msgstr ""
@@ -483,9 +513,7 @@ msgid "[[Gemsplitter||75484]] + Gem Scaling ([[Pokey Thornmantle||112882]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/35/
-msgid ""
-"[[Prophet of the Boar||70153]]\n"
-"[[Gem Splitter||75484]]"
+msgid "[[Gemsplitter||75484]]"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/35/
@@ -523,10 +551,10 @@ msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/18/
 msgid ""
-"The best scaling that beetles have is Runed Progenitor, where you run a "
-"avenge setup with [[Mechanized Gift Horse||103682]] or [[Rapscallion "
-"Recruiter||101180]] to scale your beetles. Then you summon big beetles in "
-"the back."
+"Scale your beetles up with either [[Runed Progenitor||117499]], or [[Titus "
+"Rivendare||97408]] + [[Turquoise Skitterer||119255]] or Rylak/Rover. Then, "
+"fill out the rest of your board with Beetle generators ([[Nest "
+"Swarmer||117501]])"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/18/
@@ -543,29 +571,4 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/18/
 msgid "Summon large beetles in combat"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/12/
-msgid "Beasts - Goldrinn"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/12/
-msgid ""
-"[[Goldrinn, the Great Wolf||59955]] gives a +4/4 aura affect to all beasts you summon, so this comp relies on aura buffs and summons. [[Indomitable Mount||113132]] is a lot of summons, and [[Monstrous Macaw||62230]]/[[Hawkstrider herald||106484]] +  [[Goldrinn, the Great Wolf||59955]] is responsible for increasing your aura buffs.\n"
-"\n"
-"\n"
-"Once you’ve commited to the comp with [[Goldrinn, the Great Wolf||59955]], roll for all of the other pieces in the comp, prioritizing the Core cards. [[Eyes of the Earth Mother||100601]] is the most common way to make [[Monstrous Macaw||62230]] golden, and having a Taunt + Reborn [[Goldrinn, the Great Wolf||59955]] is ideal."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/12/
-msgid "[[Goldrinn, the Great Wolf||59955]] + beast summons"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/12/
-msgid ""
-"Deathrattle Beasts ([[Sly Raptor||101584]], [[Indomitable Mount||113132]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/12/
-msgid "Scale summoned beasts in combat"
 msgstr ""
