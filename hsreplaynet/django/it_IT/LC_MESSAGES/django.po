@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-20 01:40+0000\n"
-"PO-Revision-Date: 2025-03-20 12:40\n"
+"PO-Revision-Date: 2025-03-21 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -247,7 +247,7 @@ msgstr ""
 
 #: templates/account/email_change.html:6
 msgid "Email Address"
-msgstr ""
+msgstr "Indirizzo Email"
 
 #: templates/account/email_change.html:11
 msgid "The following email addresses are associated with your account:"
@@ -255,7 +255,7 @@ msgstr "I seguenti indirizzi email sono associati al tuo account:"
 
 #: templates/account/email_change.html:18
 msgid "✔ Current Email Address"
-msgstr ""
+msgstr "✔ Indirizzo Email Attuale"
 
 #: templates/account/email_change.html:24
 msgid "Make Primary"
@@ -273,11 +273,11 @@ msgstr "Elimina"
 #: templates/account/email_change.html:43
 #, python-format
 msgid "Your account's email address is currently set to <strong>%(email)s</strong>"
-msgstr ""
+msgstr "L'indirizzo email del tuo account in questo momento è <strong>%(email)s</strong>"
 
 #: templates/account/email_change.html:59
 msgid "Change Email"
-msgstr ""
+msgstr "Cambia Email"
 
 #: templates/account/email_change.html:61
 msgid "Set Email"
@@ -289,7 +289,7 @@ msgstr "Impostazioni di notifica"
 
 #: templates/account/email_change.html:77
 msgid "Control which types of emails you want receive from us:"
-msgstr ""
+msgstr "Scegli che tipo di email vuoi ricevere da noi:"
 
 #: templates/account/email_change.html:83
 msgid "Account & security (required)"
@@ -319,11 +319,11 @@ msgstr "Sei sicuro di voler uscire?"
 #: templates/account/password_change.html:9
 #: templates/account/password_change.html:14
 msgid "Change Password"
-msgstr ""
+msgstr "Cambia Password"
 
 #: templates/account/password_change.html:15
 msgid "Forgot Password?"
-msgstr ""
+msgstr "Password Dimenticata?"
 
 #: templates/account/password_reset.html:11
 msgid "Password Reset"
@@ -367,7 +367,7 @@ msgstr "Utilizzato per scopi di fatturazione e per aggiornamenti facoltativi del
 
 #: templates/account/signup.html:38
 msgid "Don't use the same password for multiple accounts."
-msgstr ""
+msgstr "Non usare la stessa password per più account."
 
 #: templates/account/signup.html:43
 msgid "Password (repeat)"
@@ -936,7 +936,7 @@ msgstr "La Tua Applicazione"
 #: web/views/decks.py:30
 #, python-brace-format
 msgid "Best Hearthstone Decks - {month} {year}"
-msgstr ""
+msgstr "Migliori Mazzi di Hearthstone - {month} {year}"
 
 #: web/views/decks.py:36
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
