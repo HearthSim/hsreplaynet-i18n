@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-03-26 01:40+0000\n"
-"PO-Revision-Date: 2025-03-26 12:40\n"
+"PO-Revision-Date: 2025-03-27 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -51,7 +51,7 @@ msgstr "产品不可用。"
 
 #: api/exceptions.py:67
 msgid "This plan is not available."
-msgstr "这个计划现在不可用。"
+msgstr "这个方案现在不可用。"
 
 #: api/fields.py:13
 #, python-brace-format
@@ -821,7 +821,7 @@ msgstr "双打英雄"
 
 #: web/views/battlegrounds.py:356
 msgid "Battlegrounds Darkmoon Prizes"
-msgstr "暗月奖品"
+msgstr "酒馆战棋暗月奖品"
 
 #: web/views/battlegrounds.py:365
 msgid "Battlegrounds Hero"

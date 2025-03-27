@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-25T01:40:21.902713\n"
+"POT-Creation-Date: 2025-03-27T01:40:21.172428\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-03-26 12:40\n"
+"PO-Revision-Date: 2025-03-27 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -231,7 +231,7 @@ msgstr "机械奥秘骑"
 
 #: https://hsreplay.net/archetypes/134/zoo-warlock
 msgid "Zoo Warlock"
-msgstr "动物园"
+msgstr "动物园术"
 
 #: https://hsreplay.net/archetypes/32/renounce-warlock
 msgid "Renounce Warlock"
@@ -384,10 +384,6 @@ msgstr "海盗贼"
 #: https://hsreplay.net/archetypes/551/rats-and-bats-hunter
 msgid "Rats and Bats Hunter"
 msgstr "老鼠猎"
-
-#: https://hsreplay.net/archetypes/19/dragon-warrior
-msgid "Dragon Warrior"
-msgstr "龙战"
 
 #: https://hsreplay.net/archetypes/315/malygos-quest-druid
 msgid "Malygos Quest Druid"
@@ -615,7 +611,7 @@ msgstr "机械战"
 
 #: https://hsreplay.net/archetypes/254/mechathun-priest
 msgid "Mecha'thun Priest"
-msgstr "机械克苏恩牧"
+msgstr "机克牧"
 
 #: https://hsreplay.net/archetypes/255/mechathun-quest-priest
 msgid "Mecha'thun Quest Priest"
@@ -787,7 +783,7 @@ msgstr "大盗骑"
 
 #: https://hsreplay.net/archetypes/299/mech-zoo-warlock
 msgid "Mech Zoo Warlock"
-msgstr "机械园"
+msgstr "机械园术"
 
 #: https://hsreplay.net/archetypes/300/mech-priest
 msgid "Mech Priest"
@@ -1129,9 +1125,9 @@ msgstr "法强萨"
 msgid "Hound Hunter"
 msgstr "恶犬猎"
 
-#: https://hsreplay.net/archetypes/335/dragon-druid
-msgid "Dragon Druid"
-msgstr "龙德"
+#: https://hsreplay.net/archetypes/414/menagerie-paladin
+msgid "Menagerie Paladin"
+msgstr "光牙骑"
 
 #: https://hsreplay.net/archetypes/407/tortollan-mage
 msgid "Tortollan Mage"
@@ -1165,10 +1161,6 @@ msgstr "决斗法"
 msgid "Drek'Thar Druid"
 msgstr "德雷克塔尔德"
 
-#: https://hsreplay.net/archetypes/414/menagerie-paladin
-msgid "Menagerie Paladin"
-msgstr "光牙骑"
-
 #: https://hsreplay.net/archetypes/392/no-minion-mage
 msgid "No Minion Mage"
 msgstr "法术法"
@@ -1184,6 +1176,10 @@ msgstr "跳费骑"
 #: https://hsreplay.net/archetypes/328/taunt-warrior
 msgid "Taunt Warrior"
 msgstr "嘲讽战"
+
+#: https://hsreplay.net/archetypes/335/dragon-druid
+msgid "Dragon Druid"
+msgstr "龙德"
 
 #: https://hsreplay.net/archetypes/306/quest-shaman
 msgid "Quest Shaman"
@@ -1360,10 +1356,6 @@ msgstr "始生德"
 #: https://hsreplay.net/archetypes/464/primordial-priest
 msgid "Primordial Priest"
 msgstr "始生牧"
-
-#: https://hsreplay.net/archetypes/465/menagerie-shaman
-msgid "Menagerie Shaman"
-msgstr "光牙萨"
 
 #: https://hsreplay.net/archetypes/466/chaos-warlock
 msgid "Chaos Warlock"
@@ -2309,10 +2301,6 @@ msgstr "奥丁战"
 msgid "Pain Rogue"
 msgstr "自伤贼"
 
-#: https://hsreplay.net/archetypes/202/evolve-shaman
-msgid "Evolve Shaman"
-msgstr "进化萨"
-
 #: https://hsreplay.net/archetypes/519/rainbow-shaman
 msgid "Rainbow Shaman"
 msgstr "多系萨"
@@ -2388,10 +2376,6 @@ msgstr "星舰瞎"
 #: https://hsreplay.net/archetypes/718/kiljaeden-demon-hunter
 msgid "Kil'jaeden Demon Hunter"
 msgstr "基丹瞎"
-
-#: https://hsreplay.net/archetypes/719/space-druid
-msgid "Space Druid"
-msgstr "星舰德"
 
 #: https://hsreplay.net/archetypes/720/discover-hunter
 msgid "Discover Hunter"
@@ -2596,4 +2580,100 @@ msgstr "地标术"
 #: https://hsreplay.net/archetypes/768/space-hunter
 msgid "Space Hunter"
 msgstr "星舰猎"
+
+#: https://hsreplay.net/archetypes/769/leech-death-knight
+msgid "Leech Death Knight"
+msgstr "水蛭DK"
+
+#: https://hsreplay.net/archetypes/770/leech-space-death-knight
+msgid "Leech Space Death Knight"
+msgstr "水蛭星舰DK"
+
+#: https://hsreplay.net/archetypes/771/menagerie-death-knight
+msgid "Menagerie Death Knight"
+msgstr "光牙DK"
+
+#: https://hsreplay.net/archetypes/772/corpse-death-knight
+msgid "Corpse Death Knight"
+msgstr "残骸DK"
+
+#: https://hsreplay.net/archetypes/773/armon-demon-hunter
+msgid "Armon Demon Hunter"
+msgstr "护甲瞎"
+
+#: https://hsreplay.net/archetypes/774/armor-demon-hunter
+msgid "Armor Demon Hunter"
+msgstr "护甲瞎"
+
+#: https://hsreplay.net/archetypes/775/menagerie-demon-hunter
+msgid "Menagerie Demon Hunter"
+msgstr "光牙瞎"
+
+#: https://hsreplay.net/archetypes/776/imbue-druid
+msgid "Imbue Druid"
+msgstr "灌注德"
+
+#: https://hsreplay.net/archetypes/719/space-druid
+msgid "Space Druid"
+msgstr "星舰德"
+
+#: https://hsreplay.net/archetypes/777/imbue-hunter
+msgid "Imbue Hunter"
+msgstr "灌注猎"
+
+#: https://hsreplay.net/archetypes/778/token-hunter
+msgid "Token Hunter"
+msgstr "超生猎"
+
+#: https://hsreplay.net/archetypes/779/protoss-imbue-mage
+msgid "Protoss Imbue Mage"
+msgstr "星灵灌注法"
+
+#: https://hsreplay.net/archetypes/780/imbue-mage
+msgid "Imbue Mage"
+msgstr "灌注法"
+
+#: https://hsreplay.net/archetypes/781/raylla-imbue-mage
+msgid "Raylla Imbue Mage"
+msgstr "蕾拉灌注法"
+
+#: https://hsreplay.net/archetypes/782/imbue-paladin
+msgid "Imbue Paladin"
+msgstr "灌注骑"
+
+#: https://hsreplay.net/archetypes/783/imbue-priest
+msgid "Imbue Priest"
+msgstr "灌注牧"
+
+#: https://hsreplay.net/archetypes/784/tyrande-priest
+msgid "Tyrande Priest"
+msgstr "泰兰德牧"
+
+#: https://hsreplay.net/archetypes/785/bounce-rogue
+msgid "Bounce Rogue"
+msgstr "回手贼"
+
+#: https://hsreplay.net/archetypes/202/evolve-shaman
+msgid "Evolve Shaman"
+msgstr "进化萨"
+
+#: https://hsreplay.net/archetypes/465/menagerie-shaman
+msgid "Menagerie Shaman"
+msgstr "光牙萨"
+
+#: https://hsreplay.net/archetypes/786/wallow-warlock
+msgid "Wallow Warlock"
+msgstr "瓦洛术"
+
+#: https://hsreplay.net/archetypes/787/location-wallow-warlock
+msgid "Location Wallow Warlock"
+msgstr "地标瓦洛术"
+
+#: https://hsreplay.net/archetypes/788/ysondre-warrior
+msgid "Ysondre Warrior"
+msgstr "伊森德雷战"
+
+#: https://hsreplay.net/archetypes/19/dragon-warrior
+msgid "Dragon Warrior"
+msgstr "龙战"
 

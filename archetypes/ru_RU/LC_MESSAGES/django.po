@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-25T01:40:21.902713\n"
+"POT-Creation-Date: 2025-03-27T01:40:21.172428\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2025-03-25 12:40\n"
+"PO-Revision-Date: 2025-03-27 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -384,10 +384,6 @@ msgstr "Пират разбойник"
 #: https://hsreplay.net/archetypes/551/rats-and-bats-hunter
 msgid "Rats and Bats Hunter"
 msgstr ""
-
-#: https://hsreplay.net/archetypes/19/dragon-warrior
-msgid "Dragon Warrior"
-msgstr "Драконо-воин"
 
 #: https://hsreplay.net/archetypes/315/malygos-quest-druid
 msgid "Malygos Quest Druid"
@@ -1129,9 +1125,9 @@ msgstr ""
 msgid "Hound Hunter"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/335/dragon-druid
-msgid "Dragon Druid"
-msgstr "Драконо-друид"
+#: https://hsreplay.net/archetypes/414/menagerie-paladin
+msgid "Menagerie Paladin"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/407/tortollan-mage
 msgid "Tortollan Mage"
@@ -1165,10 +1161,6 @@ msgstr ""
 msgid "Drek'Thar Druid"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/414/menagerie-paladin
-msgid "Menagerie Paladin"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/392/no-minion-mage
 msgid "No Minion Mage"
 msgstr ""
@@ -1184,6 +1176,10 @@ msgstr ""
 #: https://hsreplay.net/archetypes/328/taunt-warrior
 msgid "Taunt Warrior"
 msgstr "Воин-провокатор"
+
+#: https://hsreplay.net/archetypes/335/dragon-druid
+msgid "Dragon Druid"
+msgstr "Драконо-друид"
 
 #: https://hsreplay.net/archetypes/306/quest-shaman
 msgid "Quest Shaman"
@@ -1359,10 +1355,6 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/464/primordial-priest
 msgid "Primordial Priest"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/465/menagerie-shaman
-msgid "Menagerie Shaman"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/466/chaos-warlock
@@ -2309,10 +2301,6 @@ msgstr ""
 msgid "Pain Rogue"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/202/evolve-shaman
-msgid "Evolve Shaman"
-msgstr "Шаман на эволюции"
-
 #: https://hsreplay.net/archetypes/519/rainbow-shaman
 msgid "Rainbow Shaman"
 msgstr ""
@@ -2387,10 +2375,6 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/718/kiljaeden-demon-hunter
 msgid "Kil'jaeden Demon Hunter"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/719/space-druid
-msgid "Space Druid"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/720/discover-hunter
@@ -2596,4 +2580,100 @@ msgstr ""
 #: https://hsreplay.net/archetypes/768/space-hunter
 msgid "Space Hunter"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/769/leech-death-knight
+msgid "Leech Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/770/leech-space-death-knight
+msgid "Leech Space Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/771/menagerie-death-knight
+msgid "Menagerie Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/772/corpse-death-knight
+msgid "Corpse Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/773/armon-demon-hunter
+msgid "Armon Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/774/armor-demon-hunter
+msgid "Armor Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/775/menagerie-demon-hunter
+msgid "Menagerie Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/776/imbue-druid
+msgid "Imbue Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/719/space-druid
+msgid "Space Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/777/imbue-hunter
+msgid "Imbue Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/778/token-hunter
+msgid "Token Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/779/protoss-imbue-mage
+msgid "Protoss Imbue Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/780/imbue-mage
+msgid "Imbue Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/781/raylla-imbue-mage
+msgid "Raylla Imbue Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/782/imbue-paladin
+msgid "Imbue Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/783/imbue-priest
+msgid "Imbue Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/784/tyrande-priest
+msgid "Tyrande Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/785/bounce-rogue
+msgid "Bounce Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/202/evolve-shaman
+msgid "Evolve Shaman"
+msgstr "Шаман на эволюции"
+
+#: https://hsreplay.net/archetypes/465/menagerie-shaman
+msgid "Menagerie Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/786/wallow-warlock
+msgid "Wallow Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/787/location-wallow-warlock
+msgid "Location Wallow Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/788/ysondre-warrior
+msgid "Ysondre Warrior"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/19/dragon-warrior
+msgid "Dragon Warrior"
+msgstr "Драконо-воин"
 
