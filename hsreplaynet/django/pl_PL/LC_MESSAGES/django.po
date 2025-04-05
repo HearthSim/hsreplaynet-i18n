@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-26 01:40+0000\n"
-"PO-Revision-Date: 2025-03-26 12:40\n"
+"POT-Creation-Date: 2025-04-04 17:39+0000\n"
+"PO-Revision-Date: 2025-04-05 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -58,7 +58,7 @@ msgstr ""
 msgid "{input} is not a valid member of {enum}."
 msgstr "{input} nie jest prawidłową wartością {enum}."
 
-#: api/serializers/battlegrounds.py:448
+#: api/serializers/battlegrounds.py:456
 #, python-brace-format
 msgid "{tribe_name} - {instance.name}"
 msgstr ""
