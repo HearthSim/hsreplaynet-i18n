@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-16 01:40\n"
+"POT-Creation-Date: 2025-04-06 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish\n"
 "Language: es\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-03-16 12:40\n"
+"PO-Revision-Date: 2025-04-06 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/25/
 msgid "Elementals - Ultraviolet"
@@ -58,6 +58,28 @@ msgstr ""
 msgid "Buff your blood gems and generate them"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/24/
+msgid "Elementals - NOMI"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/24/
+msgid "Your scaling engine is [[Nomi, Kitchen Nightmare||63626]] to buff the elementals in the tavern. The best way to generate elementals to support Nomi is with Brann, and then you should cycle every [[Windfall Tornado||116738]], [[Sellemental||64038]], and [[Refreshing Anomaly||64042]] .\n\n"
+"Once your shop elementals are big enough, stay on tavern 4 and start buying good elementals such as [[Ichoron the Protector||115585]] from the shop to make your board strong. The way you cap out your board is by tripling big elementals so you have a massive golden elemental."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/24/
+msgid "[[Nomi, Kitchen Nightmare||63626]] x2 Early"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/24/
+msgid "[[Nomi, Kitchen Nightmare||63626]]\n"
+"[[Bountiful Bedrock||115438]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/24/
+msgid "Buff elementals in the tavern"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Poison Scam"
 msgstr ""
@@ -76,23 +98,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Buy scam cards and try to preserve placements"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/24/
-msgid "Elementals - NOMI"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/24/
-msgid "Your scaling engine is [[Nomi, Kitchen Nightmare||63626]] to buff the elementals in the tavern. The best way to generate elementals to support Nomi is with Brann, and then you should cycle every [[Gentle Djinni||64062]] and [[Refreshing Anomaly||64042]] for free. \n\n"
-"Once your shop elementals are big enough, start buying good elementals such as [[Ichoron the Protector||115585]] from the shop to make your board strong. The way you cap out your board is by tripling big elementals so you have a massive golden elemental."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/24/
-msgid "[[Nomi, Kitchen Nightmare||63626]] plus [[Gentle Djinni||64062]] or another Nomi"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/24/
-msgid "Buff elementals in the tavern"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/21/
