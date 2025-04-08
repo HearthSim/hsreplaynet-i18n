@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-03T01:40:23.249211\n"
+"POT-Creation-Date: 2025-04-08T01:40:21.732191\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-04-03 12:40\n"
+"PO-Revision-Date: 2025-04-08 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -68,6 +68,10 @@ msgstr "吸血DH"
 #: https://hsreplay.net/archetypes/66/water-rogue
 msgid "Water Rogue"
 msgstr "海盜魚人賊"
+
+#: https://hsreplay.net/archetypes/793/ffu-menagerie-death-knight
+msgid "FFU Menagerie Death Knight"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/390/casino-mage
 msgid "Casino Mage"
@@ -1357,6 +1361,10 @@ msgstr "原始德"
 msgid "Primordial Priest"
 msgstr "原始牧"
 
+#: https://hsreplay.net/archetypes/557/frost-death-knight
+msgid "Frost Death Knight"
+msgstr "冰霜DK"
+
 #: https://hsreplay.net/archetypes/466/chaos-warlock
 msgid "Chaos Warlock"
 msgstr "混沌術"
@@ -1732,10 +1740,6 @@ msgstr "血魄DK"
 #: https://hsreplay.net/archetypes/556/unholy-death-knight
 msgid "Unholy Death Knight"
 msgstr "穢邪DK"
-
-#: https://hsreplay.net/archetypes/557/frost-death-knight
-msgid "Frost Death Knight"
-msgstr "冰霜DK"
 
 #: https://hsreplay.net/archetypes/558/outcast-demon-hunter
 msgid "Outcast Demon Hunter"
@@ -2691,5 +2695,9 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/792/shaladrassil-paladin
 msgid "Shaladrassil Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/794/bff-leech-death-knight
+msgid "BFF Leech Death Knight"
 msgstr ""
 

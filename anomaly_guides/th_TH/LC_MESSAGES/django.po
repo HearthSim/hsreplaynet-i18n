@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-17T01:40:23.490576\n"
+"POT-Creation-Date: 2025-04-08T01:40:22.795921\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Thai\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /anomaly_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 167\n"
 "Language: th_TH\n"
-"PO-Revision-Date: 2025-03-17 12:40\n"
+"PO-Revision-Date: 2025-04-08 12:40\n"
 
 #: Anomaly id 102982 | Guide id 20
 msgid "Quests with spellcraft effects are really strong because you get the spellcraft for two turns."
@@ -37,6 +37,10 @@ msgstr ""
 msgid "Your turn 1 buy is very important. Be prepared to only buy cards of that type. In my opinion, the best turn 1 tribes are Nagas, Pirates, and Murlocs."
 msgstr ""
 
+#: Anomaly id 118670 | Guide id 37
+msgid "Try to line up an early triple into a 4 drop, so you can copy the 4 drop turn 4. Also [[Drakkari Enchanter||101314]] works with this anomaly, and can be used on itself or another key card such as [[Brann Bronzebeard||96786]]."
+msgstr ""
+
 #: Anomaly id 119094 | Guide id 22
 msgid "For your second hero power, generally the lower armor the hero is, the better option it is. For example, Snake eyes is one of the best second hero powers to pick because it's a 6 armor hero paired alongside the armor of your first hero. Patchwerk technically counts as a 0 armor hero so it's one of the best second hero powers."
 msgstr ""
@@ -51,10 +55,6 @@ msgstr ""
 
 #: Anomaly id 102075 | Guide id 25
 msgid "Useless triples are less valuable because they don't give you a triple reward. If you don't plan on keeping a card, don't triple it."
-msgstr ""
-
-#: Anomaly id 102455 | Guide id 83
-msgid "You may want to win every fight, but it's still better to level as opposed to buying trash in the early turns. If you stay down and still don't win, it's game over. Don't buy trash!"
 msgstr ""
 
 #: Anomaly id 103541 | Guide id 70
@@ -75,10 +75,6 @@ msgstr ""
 
 #: Anomaly id 102084 | Guide id 45
 msgid "Play this anomaly like you would play Reno. Either golden an early value generator or a win condition."
-msgstr ""
-
-#: Anomaly id 118670 | Guide id 37
-msgid "Try to line up an early triple into a 4 drop, so you can copy the 4 drop turn 4."
 msgstr ""
 
 #: Anomaly id 118673 | Guide id 39
@@ -137,10 +133,6 @@ msgstr ""
 msgid "A spell ticket is worth roughly 1 gold. Don't buy trash for the sake of buying a ticket though."
 msgstr ""
 
-#: Anomaly id 118669 | Guide id 15
-msgid "There are some trinkets that are OP in this meta but not OP in Trinket Meta because of different minion pool, so try to think of crazy combos with some trinkets."
-msgstr ""
-
 #: Anomaly id 102989 | Guide id 59
 msgid "For the first few turns, guaranteeing that you lose a fight by holding your unit is better than leaving it up to chance. After you've lost a couple of rounds, you can cash out all your gold on tavern 4, and start betting on yourself after you're confident in the win."
 msgstr ""
@@ -189,12 +181,20 @@ msgstr ""
 msgid "Usually, you level to tavern 2 on turn 2, then tavern 3 on turn 4. The best T2 prizes to take are 2 coins and 3 rolls. The best T3 prizes to take are Great Deal and Unlimited Coin."
 msgstr ""
 
+#: Anomaly id 118669 | Guide id 15
+msgid "There are some trinkets that are OP in this meta but not OP in Trinket Meta because of different minion pool, so try to think of crazy combos with some trinkets. One such example of [[Alliance Keychain]] now that [[Transmuted Bramblewitch]] is now in the game."
+msgstr ""
+
 #: Anomaly id 118697 | Guide id 10
 msgid "Don't be afraid to use a good spell when you see it. An early [[Strike Oil||104029]] or [[Time Management||117573]] is much better to use immediately than to hold for a later tier spell."
 msgstr ""
 
 #: Anomaly id 118676 | Guide id 56
 msgid "You can opt to stay on 2 and either cycle every baller, or play T2 Nagas ([[Thaumaturgist||115563]], [[Zesty Shaker||99054]], [[Lava Lurker||80747]]). The best heroes for this strategy are Silas and Kurtrus."
+msgstr ""
+
+#: Anomaly id 102455 | Guide id 83
+msgid "You may want to win every fight, but it's still better to level as opposed to buying trash in the early turns. If you stay down and still don't win, it's game over. Don't buy trash! Tempo hero powers such as Lich King and Alakir are very solid in this one."
 msgstr ""
 
 #: Anomaly id 102090 | Guide id 40
