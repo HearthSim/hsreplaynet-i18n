@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-27T01:40:22.000869\n"
+"POT-Creation-Date: 2025-04-13T01:40:23.487818\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-03-27 12:40\n"
+"PO-Revision-Date: 2025-04-13 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/117425/ Hero id 117425 | Guide id
 #: 696
@@ -27,6 +27,11 @@ msgstr ""
 msgid "This hero is very strong to copy the same, strong spell over and over. With an early [[Strike Oil||104029]], you can hero power every single turn to start printing Strike Oils. Then, later on you generate a strong spell such as [[Golden Touch||104448]] or [[Temperature Shift||117670]] every turn."
 msgstr ""
 
+#: https://hsreplay.net/battlegrounds/heroes/120358/ Hero id 120358 | Guide id
+#: 699
+msgid "Level up your Zerg to tavern 2 when it costs only 0 or 1, because they are not that good. Tavern 3 Zergs are good though, but no need to rush it either."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/118510/ Hero id 118510 | Guide id
 #: 698
 msgid "Mothership is the best one to pick in a beast/undead pick to try to farm 2+ protoss minions per turn. Before that, buy everything that costs effectively 1 ([[Sellemental||64038]], [[Enchanted Lasso||104502]]) and finish your quest as soon as possible."
@@ -35,11 +40,6 @@ msgstr ""
 #: https://hsreplay.net/battlegrounds/heroes/117409/ Hero id 117409 | Guide id
 #: 695
 msgid "It's much better to copy a big statted unit early game then greed it for the end game. If you hero power, say a large [[Blazing Skyfin]] or [[Defiant Shipwright||72061]] on turn 5, then you win all your midgame fights, allowing you to powerlevel and look for high tier direction."
-msgstr ""
-
-#: https://hsreplay.net/battlegrounds/heroes/120358/ Hero id 120358 | Guide id
-#: 699
-msgid "The tavern 3 zergs aren't *that* OP. This hero probably needs a buff."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/118509/ Hero id 118509 | Guide id
@@ -167,9 +167,9 @@ msgstr ""
 msgid "The best comps to play with this hero are the spell based ones, building around [[Charging Czarina||110321]] or [[Nalaa the Redeemer||104468]]."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/60369/ Hero id 60369 | Guide id
-#: 38
-msgid "Only pick with Mechs in. Divine Shielded units such as [[Annoy-o-tron||103652]] are premium in the early game. If you find no Divine Shields, then value units with higher HP."
+#: https://hsreplay.net/battlegrounds/heroes/60370/ Hero id 60370 | Guide id
+#: 54
+msgid "Upbeat Frontdrake is the best Dragon 1 drop. In the midgame, your board is generally going to have [[Persistent Poet||108463]], [[Nightbane, the Ignited]], and [[Prized Promo-Drake||72073]]. You can also add [[Sanctum Rester||99175]]."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/61488/ Hero id 61488 | Guide id
@@ -177,14 +177,14 @@ msgstr ""
 msgid "You must level to 4 on turn 5 on this hero! Either level to tavern 3 on turn 3 or turn 4 and then level to 4 on turn 5. Start hero powering every turn starting from turn 5."
 msgstr ""
 
+#: https://hsreplay.net/battlegrounds/heroes/60369/ Hero id 60369 | Guide id
+#: 38
+msgid "Only pick with Mechs in. Divine Shielded units such as [[Annoy-o-tron||103652]] are premium in the early game. If you find no Divine Shields, then value units with higher HP."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/105314/ Hero id 105314 | Guide id
 #: 658
 msgid "If you roll a 1 on turn 1, do NOT hero power on turn 2. Other than that, hero power whenever it's available."
-msgstr ""
-
-#: https://hsreplay.net/battlegrounds/heroes/60370/ Hero id 60370 | Guide id
-#: 54
-msgid "Your board is generally going to have [[Persistent Poet||108463]], [[Nightbane, the Ignited]], and [[Prized Promo-Drake||72073]]. The rest depends on what you hit."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/105434/ Hero id 105434 | Guide id
@@ -512,13 +512,13 @@ msgstr ""
 msgid "If you roll into a frozen card you want to triple, you can leave it frozen to try to get a 3rd frozen copy in the shop next turn. For example, if your hero power copied a Brann, you can leave one or two Branns frozen in the shop, and the hero power might copy it again next turn."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/67553/ Hero id 67553 | Guide id
-#: 18
-msgid "This hero is OP with Beetles comp and Attack Scaling Undeads! Don't force them, but try to enable them if you can!"
-msgstr ""
-
 #: https://hsreplay.net/battlegrounds/heroes/63602/ Hero id 63602 | Guide id 2
 msgid "To win your bets, generally bet against the person on higher tavern tier. In terms of using your coins, usually hold your coins to use on higher tavern tiers. Don't buy trash!"
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/67553/ Hero id 67553 | Guide id
+#: 18
+msgid "This hero is strong with token builds, notably Beast or Undead compositions. Try to lean towards those comps!"
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/60212/ Hero id 60212 | Guide id
