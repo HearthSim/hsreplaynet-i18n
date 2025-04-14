@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-08 01:40\n"
+"POT-Creation-Date: 2025-04-14 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-MX\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-04-08 12:40\n"
+"PO-Revision-Date: 2025-04-14 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/36/
 msgid "Nalaa"
@@ -367,6 +367,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/12/
 msgid "Scale summoned beasts in combat"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Mechs - Magnetics"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Attach all your magnetics to your [[Holo Rover||115674]] to generate tons of Magnetics every turn. Then, level to tavern 6 to start generating [[Dr. Boom's Monster||115676]] and put them on your premium mechs such as [[Deflect-o-bot||61930]]. [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]] will be your endgame scaling engine.\n\n"
+"If you find a Young Murk-eye, you can also scale with the Murk-eye Clunker variation with Brann to generate even more magnetics to scale with utility drone."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Holo Rover||115674]] + [[Utility Drone||98588]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Holo Rover||115674]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Put huge magnetics on premium Mechs"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/14/

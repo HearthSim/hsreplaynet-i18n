@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-08T01:40:22.795921\n"
+"POT-Creation-Date: 2025-04-14T01:40:25.805881\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /anomaly_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 167\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-04-08 12:40\n"
+"PO-Revision-Date: 2025-04-14 12:40\n"
 
 #: Anomaly id 102982 | Guide id 20
 msgid "Quests with spellcraft effects are really strong because you get the spellcraft for two turns."
@@ -39,6 +39,10 @@ msgstr ""
 
 #: Anomaly id 118670 | Guide id 37
 msgid "Try to line up an early triple into a 4 drop, so you can copy the 4 drop turn 4. Also [[Drakkari Enchanter||101314]] works with this anomaly, and can be used on itself or another key card such as [[Brann Bronzebeard||96786]]."
+msgstr ""
+
+#: Anomaly id 106633 | Guide id 69
+msgid "If you're at 11-15 HP with your secret still up, do NOT use armor. Wait until your secret is used up before you use your armor up, so you can first benefit from the 11 extra gold."
 msgstr ""
 
 #: Anomaly id 119094 | Guide id 22
@@ -157,10 +161,6 @@ msgstr ""
 msgid "Try rolling 3 times turn 1 and 2 times turn 3 to have a 6/6 monkey and a 3 drop on turn 3. You could even hold the monkey to get a 4 drop on turn 4."
 msgstr ""
 
-#: Anomaly id 106500 | Guide id 64
-msgid "Try to be on tavern 4 by turn 5! That way, starting turn 6, you can spend your gold rolling instead of leveling."
-msgstr ""
-
 #: Anomaly id 103078 | Guide id 82
 msgid "Do not skip [[Elise Starseeker||60213]] in this anomaly! It's by far the best way to print 7 drops, and they're pretty OP. With Elise, you really want Golden [[Moira Bronzebeard||103502]], (with [[Captain Sanders||97539]] if it's available), and [[King Varian||102998]] for more money and 6 drops. You can go infinite like this, and scale in whatever way you want."
 msgstr ""
@@ -181,10 +181,6 @@ msgstr ""
 msgid "Usually, you level to tavern 2 on turn 2, then tavern 3 on turn 4. The best T2 prizes to take are 2 coins and 3 rolls. The best T3 prizes to take are Great Deal and Unlimited Coin."
 msgstr ""
 
-#: Anomaly id 118669 | Guide id 15
-msgid "There are some trinkets that are OP in this meta but not OP in Trinket Meta because of different minion pool, so try to think of crazy combos with some trinkets. One such example of [[Alliance Keychain]] now that [[Transmuted Bramblewitch]] is now in the game."
-msgstr ""
-
 #: Anomaly id 118697 | Guide id 10
 msgid "Don't be afraid to use a good spell when you see it. An early [[Strike Oil||104029]] or [[Time Management||117573]] is much better to use immediately than to hold for a later tier spell."
 msgstr ""
@@ -201,7 +197,15 @@ msgstr ""
 msgid "Golden Brann is utmost priority, and will guarantee you infinite. Then, try to force either Shop Buff Demons or Bassgill Murlocs with Belchers and Bream Counters."
 msgstr ""
 
+#: Anomaly id 106500 | Guide id 64
+msgid "There are a couple of Wisdomball rolls to note: One of them is copy board, so make sure you have key units on board and not in hand. Another one is getting 2 copies of any card you have in hand or on board, so you should sell a bunch of garbage you don't want copied before you roll."
+msgstr ""
+
 #: Anomaly id 102792 | Guide id 4
 msgid "Spells are really bad to buy in this anomaly. Typically you get one gold back from using [[Chef's Choice||105664]] but in this anomaly the spell is more expensive. Also minions are much more efficient to buy. Also, every single [[Refreshing Anomaly||64042]] is free."
+msgstr ""
+
+#: Anomaly id 118669 | Guide id 15
+msgid "There are some trinkets that are OP in this meta but not OP in Trinket Meta because of different minion pool, so try to think of crazy combos with some trinkets. One such example of [[Alliance Keychain]] now that [[Transmuted Bramblewitch]] is not in the game."
 msgstr ""
 

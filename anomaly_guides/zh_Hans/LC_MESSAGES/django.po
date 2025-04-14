@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-08T01:40:22.795921\n"
+"POT-Creation-Date: 2025-04-14T01:40:25.805881\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /anomaly_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 167\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-04-10 12:40\n"
+"PO-Revision-Date: 2025-04-14 12:40\n"
 
 #: Anomaly id 102982 | Guide id 20
 msgid "Quests with spellcraft effects are really strong because you get the spellcraft for two turns."
@@ -40,6 +40,10 @@ msgstr "第1回合的购买非常重要。准备好只购买这种类型的随�
 #: Anomaly id 118670 | Guide id 37
 msgid "Try to line up an early triple into a 4 drop, so you can copy the 4 drop turn 4. Also [[Drakkari Enchanter||101314]] works with this anomaly, and can be used on itself or another key card such as [[Brann Bronzebeard||96786]]."
 msgstr "前期的三连尽量拿4级随从，这样你就能在第4回合复制4级随从。此外，[[达卡莱附魔师||101314]]也能与此畸变配合使用，可以用在它本身或另一张关键牌上，如[[布莱恩·铜须||96786]]。"
+
+#: Anomaly id 106633 | Guide id 69
+msgid "If you're at 11-15 HP with your secret still up, do NOT use armor. Wait until your secret is used up before you use your armor up, so you can first benefit from the 11 extra gold."
+msgstr "如果你的生命值在 11-15 之间，且奥秘还未触发，请不要损失护甲。等到奥秘用完后再使用护甲，这样你就能先从额外的11铸币中获益。"
 
 #: Anomaly id 119094 | Guide id 22
 msgid "For your second hero power, generally the lower armor the hero is, the better option it is. For example, Snake eyes is one of the best second hero powers to pick because it's a 6 armor hero paired alongside the armor of your first hero. Patchwerk technically counts as a 0 armor hero so it's one of the best second hero powers."
@@ -157,10 +161,6 @@ msgstr "始终用耐心的侦查员换5到6级的随从。"
 msgid "Try rolling 3 times turn 1 and 2 times turn 3 to have a 6/6 monkey and a 3 drop on turn 3. You could even hold the monkey to get a 4 drop on turn 4."
 msgstr "试着在第1回合刷新3次，第3回合刷新2次，这样就能在第3回合得到一只6/6的黄金猿和一个3级随从。你甚至可以把黄金猿留在手上，并在第4回合上场获得4级随从。"
 
-#: Anomaly id 106500 | Guide id 64
-msgid "Try to be on tavern 4 by turn 5! That way, starting turn 6, you can spend your gold rolling instead of leveling."
-msgstr "尽量在第5回合前升到4级酒馆！这样的话，从第6回合开始，你就可以把铸币都用来刷新而不是升级了。"
-
 #: Anomaly id 103078 | Guide id 82
 msgid "Do not skip [[Elise Starseeker||60213]] in this anomaly! It's by far the best way to print 7 drops, and they're pretty OP. With Elise, you really want Golden [[Moira Bronzebeard||103502]], (with [[Captain Sanders||97539]] if it's available), and [[King Varian||102998]] for more money and 6 drops. You can go infinite like this, and scale in whatever way you want."
 msgstr "在这个畸变下不要跳过 [[伊莉斯·逐星||60213]]！这是目前获取7级随从的最佳方法，而且它们非常超模。有了伊莉斯你就真的非常需要金色 [[茉艾拉·铜须||103502]]（如果有的话再加上[[杉德尔船长||97539]]），以及 [[瓦里安国王||102998]]，以获得更多的铸币和6级随从。你可以像这样无限资源并以任何你想要的方式扩大身材。"
@@ -181,10 +181,6 @@ msgstr "在这个畸变下，你真的很难凑出任何流派，所以也许需
 msgid "Usually, you level to tavern 2 on turn 2, then tavern 3 on turn 4. The best T2 prizes to take are 2 coins and 3 rolls. The best T3 prizes to take are Great Deal and Unlimited Coin."
 msgstr "通常情况下，在第2回合升到2级酒馆，然后在第4回合升到3级酒馆。等级2的最佳暗月奖品是2个铸币和3次刷新。等级3的最佳暗月奖品是 “绝妙的交易 ”和 “无穷铸币”。"
 
-#: Anomaly id 118669 | Guide id 15
-msgid "There are some trinkets that are OP in this meta but not OP in Trinket Meta because of different minion pool, so try to think of crazy combos with some trinkets. One such example of [[Alliance Keychain]] now that [[Transmuted Bramblewitch]] is now in the game."
-msgstr "有些饰品在这个环境中是超模的，但在饰品版本环境中却不超模，这是因为随从池不同，所以试着用一些饰品想出疯狂的组合。其中一个例子就是[[联盟钥匙链]]，现在[[棘化荆蔓女巫]]已经在游戏中了。"
-
 #: Anomaly id 118697 | Guide id 10
 msgid "Don't be afraid to use a good spell when you see it. An early [[Strike Oil||104029]] or [[Time Management||117573]] is much better to use immediately than to hold for a later tier spell."
 msgstr "看到好法术时不要怕去使用它。早期拿到[[钻探原油||104029]]或[[时间管理||117573]]的话立刻就使用，比等待后期的法术要好得多。"
@@ -201,7 +197,15 @@ msgstr "你可能想赢得每一场战斗，但与在前期买些垃圾相比，
 msgid "Golden Brann is utmost priority, and will guarantee you infinite. Then, try to force either Shop Buff Demons or Bassgill Murlocs with Belchers and Bream Counters."
 msgstr "金铜须是重中之重，他能保证你获得无限资源。然后尝试用酒馆Buff恶魔流或者低音提琴鱼人搭配异术家和裁脍鱼人流派。"
 
+#: Anomaly id 106500 | Guide id 64
+msgid "There are a couple of Wisdomball rolls to note: One of them is copy board, so make sure you have key units on board and not in hand. Another one is getting 2 copies of any card you have in hand or on board, so you should sell a bunch of garbage you don't want copied before you roll."
+msgstr "有几个“智慧之球”刷新需要注意的点：其中一个是复制棋盘，所以要确保你有关键的随从在棋盘上而不是在手上。另一个是复制2个手牌或棋盘上的任何牌，因此在刷新前你应该卖掉一堆不想被复制的垃圾。"
+
 #: Anomaly id 102792 | Guide id 4
 msgid "Spells are really bad to buy in this anomaly. Typically you get one gold back from using [[Chef's Choice||105664]] but in this anomaly the spell is more expensive. Also minions are much more efficient to buy. Also, every single [[Refreshing Anomaly||64042]] is free."
 msgstr "在这个畸变下购买法术非常不划算。通常情况下，使用[[主厨甄选||105664]]可以换回1铸币，但在此畸变下法术的价格更高。此外，购买随从也更有效率。另外，每个[[刷新畸体||64042]]都是免费的。"
+
+#: Anomaly id 118669 | Guide id 15
+msgid "There are some trinkets that are OP in this meta but not OP in Trinket Meta because of different minion pool, so try to think of crazy combos with some trinkets. One such example of [[Alliance Keychain]] now that [[Transmuted Bramblewitch]] is not in the game."
+msgstr "有些饰品在这个环境中是超模的，但在饰品版本环境中却不超模，这是因为随从池不同，所以试着用一些饰品想出疯狂的组合。其中一个例子就是[[联盟钥匙链]]，现在[[棘化荆蔓女巫]]已经不在游戏中了。"
 
