@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-14 01:40\n"
+"POT-Creation-Date: 2025-04-15 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-04-14 12:40\n"
+"PO-Revision-Date: 2025-04-15 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/36/
 msgid "Nalaa"
@@ -203,23 +203,6 @@ msgstr ""
 msgid "Spend lots of gold to scale"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/4/
-msgid "Murlocs - 'Loc Prince"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/4/
-msgid "Every time you play a cheap or free battlecry with [[Brann Bronzebeard||96786]], the [[One-Amalgam Tour Group||113126]] will buff the [['Loc Prince||113369]] a bunch of times. Cycle every single [[Hackerfin||115848]], [[Primalfin Lookout||60028]], [[Rodeo Performer||104466]], etc. Keeping other low tavern units such as [[Annoy-o-tron||103652]] or [[Bubble Gunner||116178]] is great so that your tour group scales them from every card you play.\n\n"
-"With [[Hunter of Gatherers||95293]] and a ton of economy, you can opt to scale with [[Reverber Drake||116023]], [[Efficient Engineer||116025]], and [[Drakkari Enchanter||101314]] as an alternative way to scale [['Loc Prince||113369]]."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/4/
-msgid "[[Brann Bronzebeard||96786]] + [[Neon Agent||115844]] or [[One-Amalgam Tour Group||113126]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/4/
-msgid "Cycle cards to scale"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/11/
 msgid "Dragons - Nightbane"
 msgstr ""
@@ -239,6 +222,23 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/11/
 msgid "Add stats to Dragons end of turn"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/4/
+msgid "Murlocs - 'Loc Prince"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/4/
+msgid "Every time you play a cheap or free battlecry with [[Brann Bronzebeard||96786]], the [[One-Amalgam Tour Group||113126]] will buff the [['Loc Prince||113369]] a bunch of times. Cycle every single [[Hackerfin||115848]], [[Primalfin Lookout||60028]], [[Rodeo Performer||104466]], etc. Keeping other low tavern units such as [[Annoy-o-tron||103652]] or [[Bubble Gunner||116178]] is great so that your tour group scales them from every card you play.\n\n"
+"With [[Hunter of Gatherers||95293]] and a ton of economy, you can opt to scale with [[Reverber Drake||116023]], [[Efficient Engineer||116025]], and [[Drakkari Enchanter||101314]] as an alternative way to scale [['Loc Prince||113369]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/4/
+msgid "[[Brann Bronzebeard||96786]] + [[Neon Agent||115844]] or [[One-Amalgam Tour Group||113126]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/4/
+msgid "Cycle cards to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/15/
