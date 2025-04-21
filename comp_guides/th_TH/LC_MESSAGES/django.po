@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-15 01:40\n"
+"POT-Creation-Date: 2025-04-21 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Thai\n"
 "Language: th\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: th\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-04-15 12:40\n"
+"PO-Revision-Date: 2025-04-21 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/36/
 msgid "Nalaa"
@@ -432,6 +432,26 @@ msgstr ""
 msgid "Generate huge magnetics"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/35/
+msgid "Quilboar - Gemsplitter"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/35/
+msgid "Divine Shield Generate Gems with [[Gemsplitter||75484]]. Put the buffed gems on the Roogug."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/35/
+msgid "[[Gemsplitter||75484]] + Gem Scaling ([[Pokey Thornmantle||112882]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/35/
+msgid "[[Gemsplitter||75484]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/35/
+msgid "Generate Gems with Divine Shields"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/18/
 msgid "Beasts - Beetles"
 msgstr ""
@@ -451,26 +471,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/18/
 msgid "Summon large beetles in combat"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/35/
-msgid "Quilboar - Gemsplitter"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/35/
-msgid "Divine Shield Generate Gems with [[Gemsplitter||75484]]. Put the buffed gems on the Roogug."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/35/
-msgid "[[Gemsplitter||75484]] + Gem Scaling ([[Pokey Thornmantle||112882]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/35/
-msgid "[[Gemsplitter||75484]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/35/
-msgid "Generate Gems with Divine Shields"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/7/
