@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-21 01:40\n"
+"POT-Creation-Date: 2025-04-25 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Thai\n"
 "Language: th\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: th\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-04-21 12:40\n"
+"PO-Revision-Date: 2025-04-25 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/36/
 msgid "Nalaa"
@@ -241,6 +241,27 @@ msgstr ""
 msgid "Cycle cards to scale"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Demons - Shop Buff"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/9/
+msgid "The idea is to buff your shop a ton with [[Big Brother||116695]]s, and then cycle cheap spells to consume the shop with [[Batty Terrorguard||116697]]. You want to buy every single spell that effectively costs 1, such as [[Fleeting Vigor||105665]] and [[Enchanted Lasso||104502]]. [[Brann Bronzebeard||96786]] and [[Archimonde||114043]] are great to cycle [[Felemental||97553]]s, [[Imposing Percussionist||99232]]s, and [[Rodeo Performer||104466]]s. Eventually, level to 6 to cycle [[Mecha-Jaraxxus||95469]] to Divine Shield your demons."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Buffed shop ([[Big Brother||116695]]) + [[Batty Terrorguard||116697]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Buffed shop ([[Big Brother||116695]])\n"
+"[[Archimonde||114043]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Buff and consume your shop"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/15/
 msgid "Dragons - Kalecgos"
 msgstr ""
@@ -327,27 +348,6 @@ msgstr ""
 msgid "Use self-damage to scale"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Demons - Shop Buff"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/9/
-msgid "The idea is to buff your shop a ton with [[Big Brother||116695]]s, and then cycle cheap spells to consume the shop with [[Batty Terrorguard||116697]]. You want to buy every single spell that effectively costs 1, such as [[Fleeting Vigor||105665]] and [[Enchanted Lasso||104502]]. [[Brann Bronzebeard||96786]] and [[Archimonde||114043]] are great to cycle [[Felemental||97553]]s, [[Imposing Percussionist||99232]]s, and [[Rodeo Performer||104466]]s. Eventually, level to 6 to cycle [[Mecha-Jaraxxus||95469]] to Divine Shield your demons."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Buffed shop ([[Big Brother||116695]]) + [[Batty Terrorguard||116697]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Buffed shop ([[Big Brother||116695]])\n"
-"[[Archimonde||114043]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Buff and consume your shop"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/12/
 msgid "Beasts - Goldrinn"
 msgstr ""
@@ -412,26 +412,6 @@ msgstr ""
 msgid "Summon high attack Undeads"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/30/
-msgid "Mechs - Juggernaut"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/30/
-msgid "BEST PLAYED WITH DRAGONS! Commit to this comp with a relatively early [[Moonsteel Juggernaut||115666]] + [[Drakkari Enchanter||101314]]. Then, your objective is to trigger the end of turn effect as much as possible, usually through [[Efficient Engineer||116025]] plus [[Brann Bronzebeard||96786]] and/or [[Young Murk-eye||87084]]."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/30/
-msgid "[[Moonsteel Juggernaut||115666]] + [[Drakkari Enchanter||101314]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/30/
-msgid "[[Moonsteel Juggernaut||115666]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/30/
-msgid "Generate huge magnetics"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/35/
 msgid "Quilboar - Gemsplitter"
 msgstr ""
@@ -450,6 +430,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/35/
 msgid "Generate Gems with Divine Shields"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/30/
+msgid "Mechs - Juggernaut"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/30/
+msgid "BEST PLAYED WITH DRAGONS! Commit to this comp with a relatively early [[Moonsteel Juggernaut||115666]] + [[Drakkari Enchanter||101314]]. Then, your objective is to trigger the end of turn effect as much as possible, usually through [[Efficient Engineer||116025]] plus [[Brann Bronzebeard||96786]] and/or [[Young Murk-eye||87084]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/30/
+msgid "[[Moonsteel Juggernaut||115666]] + [[Drakkari Enchanter||101314]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/30/
+msgid "[[Moonsteel Juggernaut||115666]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/30/
+msgid "Generate huge magnetics"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/18/
