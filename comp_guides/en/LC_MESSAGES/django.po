@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-06 01:40\n"
+"POT-Creation-Date: 2025-05-07 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -190,6 +190,33 @@ msgstr ""
 msgid "Cycle Murlocs to scale Murlocs in hand"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Undead - Attack Scaling"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
+msgid ""
+"You want to scale Attack Undead, most commonly through [[Drustfallen Butcher||120104]], but it could also be through [[Archlich Kel'Thuzad||105518]] + [[Anub'arak, Nerubian King||95259]]. Then, you want to have a bunch of summons with [[Eternal Summoner||95263]] and/or [[Deathly Striker||115610]] that have high attack.\n"
+"\n"
+"You can reborn your undeads through [[Prosthetic Hand||112364]], or by targetting [[Mummifier||108992]] with [[Disguised Graverobber||104610]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
+msgid ""
+"Attack scaling ([[Drustfallen Butcher||120104]]) + Undead summons ([[Deathly"
+" Striker||115610]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
+msgid ""
+"[[Deathly Striker||115610]] \n"
+"Undead Summons [[Cadaver Caretaker||113158]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Summon high attack Undeads"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/15/
 msgid "Dragons - Kalecgos"
 msgstr ""
@@ -239,6 +266,37 @@ msgstr ""
 msgid "Buff and consume your shop"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Pirates - APM"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
+msgid ""
+"With [[Brann Bronzebeard||96786]], a lot of battlecries become free to "
+"cycle, such as [[Gentle Djinni||64062]] and [[Refreshing Anomaly||64042]]. "
+"[[Freedealing Gambler||61049]] and [[Gritty Headhunter||115597]] are also "
+"good to always buy and sell. You want to cycle all of the free cards, while "
+"having pirates such as [[Dual-Wield Corsair||115708]] that benefit from "
+"spending gold cycling. Usually, you have an early [[Doubloon "
+"Grifter||116035]] on your board to ramp up max gold also."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
+msgid ""
+"[[Brann Bronzebeard||96786]] + econ scaling cards ([[Dual-Wield "
+"Corsair||115708]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
+msgid ""
+"[[Brann Bronzebeard||96786]]\n"
+"Midgame pirates ([[Gunpowder Courier||98889]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Spend lots of gold to scale"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/37/
 msgid "Elementals - End of turn"
 msgstr ""
@@ -264,31 +322,6 @@ msgstr ""
 msgid "Buff stat scaling on Elementals."
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Spell Buff"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
-msgid ""
-"*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early "
-"[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of "
-"your board are cards that can take advantage of the buffed spells. Firescale"
-" Hoarder and Nightmare Par-tea Guest are great for spell generation, "
-"especially when paired with Brann. Fauna could work Drakkari, and Hawstrider"
-" Herald could help with spell generation."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
-msgid ""
-"[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] or Spell "
-"Generation ([[Firescale Hoarder||120213]]/[[Nightmare Par-Tea "
-"Guest||120754]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Cast Buffed Spells"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/38/
 msgid "Beasts - Summon Beetles"
 msgstr ""
@@ -312,4 +345,29 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/38/
 msgid "Summon large beetles"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Spell Buff"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
+msgid ""
+"*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early "
+"[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of "
+"your board are cards that can take advantage of the buffed spells. Firescale"
+" Hoarder and Nightmare Par-tea Guest are great for spell generation, "
+"especially when paired with Brann. Fauna could work Drakkari, and Hawstrider"
+" Herald could help with spell generation."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
+msgid ""
+"[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] or Spell "
+"Generation ([[Firescale Hoarder||120213]]/[[Nightmare Par-Tea "
+"Guest||120754]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Cast Buffed Spells"
 msgstr ""
