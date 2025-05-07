@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-10T01:40:22.165923\n"
+"POT-Creation-Date: 2025-05-06T01:40:23.450242\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2025-04-10 12:40\n"
+"PO-Revision-Date: 2025-05-07 14:20\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -125,6 +125,10 @@ msgstr "Sacerdote Dragones Solo Una"
 msgid "Nomi Priest"
 msgstr "Sacerdote Nomi"
 
+#: https://hsreplay.net/archetypes/797/deckless-warlock
+msgid "Deckless Warlock"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/605/drum-druid
 msgid "Drum Druid"
 msgstr "Druida Tambores"
@@ -208,10 +212,6 @@ msgstr "Cazador de Demonios Vil"
 #: https://hsreplay.net/archetypes/151/mill-rogue
 msgid "Mill Rogue"
 msgstr "Pícaro Fatiga"
-
-#: https://hsreplay.net/archetypes/126/murloc-shaman
-msgid "Murloc Shaman"
-msgstr "Chaman Murlocs"
 
 #: https://hsreplay.net/archetypes/491/quest-stealer-warlock
 msgid "Quest Stealer Warlock"
@@ -1209,6 +1209,10 @@ msgstr "Mago Misión Milagro"
 msgid "Plague Death Knight"
 msgstr "Caballero de la Muerte Plagas"
 
+#: https://hsreplay.net/archetypes/126/murloc-shaman
+msgid "Murloc Shaman"
+msgstr "Chaman Murlocs"
+
 #: https://hsreplay.net/archetypes/530/naga-priest
 msgid "Naga Priest"
 msgstr "Sacerdote Naga"
@@ -1736,6 +1740,10 @@ msgstr "Caballero de la Muerte Sangre"
 #: https://hsreplay.net/archetypes/556/unholy-death-knight
 msgid "Unholy Death Knight"
 msgstr "Caballero de la Muerte Profano"
+
+#: https://hsreplay.net/archetypes/796/star-shaman
+msgid "Star Shaman"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/558/outcast-demon-hunter
 msgid "Outcast Demon Hunter"
@@ -2375,7 +2383,7 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/718/kiljaeden-demon-hunter
 msgid "Kil'jaeden Demon Hunter"
-msgstr ""
+msgstr "Cazador de Demonios Kil'jaeden"
 
 #: https://hsreplay.net/archetypes/720/discover-hunter
 msgid "Discover Hunter"

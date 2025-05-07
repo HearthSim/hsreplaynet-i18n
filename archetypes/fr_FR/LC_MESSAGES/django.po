@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-10T01:40:22.165923\n"
+"POT-Creation-Date: 2025-05-06T01:40:23.450242\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-04-10 12:40\n"
+"PO-Revision-Date: 2025-05-06 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -125,6 +125,10 @@ msgstr "Prêtre Razakus dragons"
 msgid "Nomi Priest"
 msgstr "Prêtre Nomi"
 
+#: https://hsreplay.net/archetypes/797/deckless-warlock
+msgid "Deckless Warlock"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/605/drum-druid
 msgid "Drum Druid"
 msgstr "Druide tambour"
@@ -208,10 +212,6 @@ msgstr "Chasseur de démons fiel"
 #: https://hsreplay.net/archetypes/151/mill-rogue
 msgid "Mill Rogue"
 msgstr "Voleur meule"
-
-#: https://hsreplay.net/archetypes/126/murloc-shaman
-msgid "Murloc Shaman"
-msgstr "Chaman murlocs"
 
 #: https://hsreplay.net/archetypes/491/quest-stealer-warlock
 msgid "Quest Stealer Warlock"
@@ -1209,6 +1209,10 @@ msgstr "Mage quête miracle"
 msgid "Plague Death Knight"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/126/murloc-shaman
+msgid "Murloc Shaman"
+msgstr "Chaman murlocs"
+
 #: https://hsreplay.net/archetypes/530/naga-priest
 msgid "Naga Priest"
 msgstr "Prêtre nagas"
@@ -1736,6 +1740,10 @@ msgstr "Chevalier de la mort de sang"
 #: https://hsreplay.net/archetypes/556/unholy-death-knight
 msgid "Unholy Death Knight"
 msgstr "Chevalier de la mort impie"
+
+#: https://hsreplay.net/archetypes/796/star-shaman
+msgid "Star Shaman"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/558/outcast-demon-hunter
 msgid "Outcast Demon Hunter"

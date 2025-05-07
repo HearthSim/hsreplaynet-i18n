@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-10T01:40:22.165923\n"
+"POT-Creation-Date: 2025-05-06T01:40:23.450242\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-04-14 12:40\n"
+"PO-Revision-Date: 2025-05-07 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -125,6 +125,10 @@ msgstr "宇宙龙牧"
 msgid "Nomi Priest"
 msgstr "诺米牧"
 
+#: https://hsreplay.net/archetypes/797/deckless-warlock
+msgid "Deckless Warlock"
+msgstr "撕牌库术"
+
 #: https://hsreplay.net/archetypes/605/drum-druid
 msgid "Drum Druid"
 msgstr "鼓圈德"
@@ -208,10 +212,6 @@ msgstr "邪能瞎"
 #: https://hsreplay.net/archetypes/151/mill-rogue
 msgid "Mill Rogue"
 msgstr "爆牌贼"
-
-#: https://hsreplay.net/archetypes/126/murloc-shaman
-msgid "Murloc Shaman"
-msgstr "鱼人萨"
 
 #: https://hsreplay.net/archetypes/491/quest-stealer-warlock
 msgid "Quest Stealer Warlock"
@@ -1209,6 +1209,10 @@ msgstr "加基森任务法"
 msgid "Plague Death Knight"
 msgstr "疫病DK"
 
+#: https://hsreplay.net/archetypes/126/murloc-shaman
+msgid "Murloc Shaman"
+msgstr "鱼人萨"
+
 #: https://hsreplay.net/archetypes/530/naga-priest
 msgid "Naga Priest"
 msgstr "纳迦牧"
@@ -1736,6 +1740,10 @@ msgstr "血DK"
 #: https://hsreplay.net/archetypes/556/unholy-death-knight
 msgid "Unholy Death Knight"
 msgstr "邪DK"
+
+#: https://hsreplay.net/archetypes/796/star-shaman
+msgid "Star Shaman"
+msgstr "星空萨"
 
 #: https://hsreplay.net/archetypes/558/outcast-demon-hunter
 msgid "Outcast Demon Hunter"
