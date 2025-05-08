@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-07T01:40:25.592491\n"
+"POT-Creation-Date: 2025-05-08T01:40:24.666400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-05-07 12:40\n"
+"PO-Revision-Date: 2025-05-08 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/117409/ Hero id 117409 | Guide id
 #: 695
@@ -76,6 +76,11 @@ msgstr "这个英雄技能主要有利于复仇的随从/饰品，如[[致命打
 #: 272
 msgid "Your hero power will save some HP, otherwise play normally."
 msgstr "你的英雄技能会帮你少掉点血，否则就正常玩。"
+
+#: https://hsreplay.net/battlegrounds/heroes/101130/ Hero id 101130 | Guide id
+#: 452
+msgid "This hero is best with Doubloon Grifter. With 2 of them, start buying every pirate and go APM Pirates."
+msgstr "这个英雄最好与金币诈骗犯搭配使用。有2个金币诈骗犯的话就能购买所有海盗玩海盗倒转流。"
 
 #: https://hsreplay.net/battlegrounds/heroes/98726/ Hero id 98726 | Guide id
 #: 420
@@ -412,6 +417,11 @@ msgstr "这个英雄的曲线通常是在第4回合升到3级酒馆，然后在�
 msgid "Usually go 3 on 3 on this hero. In your first 3 turns, try to hero power the same tribe to maximize your chances of getting a higher tavern tier card. If you hero power all different tribes, you have the possibility of only discovering 1 drops from your hero power."
 msgstr "通常在第3回合升到3级酒馆。在前3个回合中，尽量对同一个种族类型使用英雄技能，以最大限度地提高获得较高酒馆等级卡牌的机会。如果你对所有不同的种族类型使用英雄技能，你有可能只能从你的英雄技能中发现1级随从。"
 
+#: https://hsreplay.net/battlegrounds/heroes/60367/ Hero id 60367 | Guide id
+#: 10
+msgid "The more imbalanced the meta is, the better tess is, because everyone will just force a comp and you can steal it."
+msgstr "环境越不平衡苔丝就越强，因为每个人都会被逼着玩同一个流派，而你可以偷它们。"
+
 #: https://hsreplay.net/battlegrounds/heroes/60372/ Hero id 60372 | Guide id
 #: 42
 msgid "Flurgl is best in an economy-centric lobby, because the hero power benefits from cycling cards. Even though you're a Murloc hero, pirate or elemental cycle comps utilizing [[Brann Bronzebeard||96786]] can make a ton of use out of your hero power."
@@ -421,11 +431,6 @@ msgstr "弗洛格尔最适合在以经济为中心的对局中使用，因为你
 #: 52
 msgid "You have a lot of armor to work with, so don't be scared of leveling fast. You're basically Patchwerk with less HP, but higher chance to win the lobby."
 msgstr "你有大量护甲可以使用，所以不要怕快速升级。你基本上就是一个生命值较低的帕奇维克，但在酒馆中获胜的几率更高。"
-
-#: https://hsreplay.net/battlegrounds/heroes/60367/ Hero id 60367 | Guide id
-#: 10
-msgid "The more imbalanced the meta is, the better tess is, because everyone will just force a comp and you can still it."
-msgstr "环境越不平衡苔丝就越强，因为每个人都会被逼着玩同一个流派，而你可以偷它们。"
 
 #: https://hsreplay.net/battlegrounds/heroes/59203/ Hero id 59203 | Guide id
 #: 33
