@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-07 01:40\n"
+"POT-Creation-Date: 2025-05-09 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-05-08 12:40\n"
+"PO-Revision-Date: 2025-05-09 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
@@ -116,28 +116,6 @@ msgstr "[[遗骸看管者||113158]]"
 #: summary | https://hsreplay.net/battlegrounds/comps/6/
 msgid "Overflow your board to scale"
 msgstr "挤掉召唤物来成长"
-
-#: name | https://hsreplay.net/battlegrounds/comps/17/
-msgid "Quilboar - Combat Scaling"
-msgstr "野猪人 - 战斗提升"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/17/
-msgid "Scale up your gems in the midgame, usually using [[Prickly Piper||98946]] but [[Pokey Thornmantle||112882]] and [[Dreaming Thornweaver||120708]] work too. Then, pick up your core pieces for the Combat Scaling Quilboar board. [[Three lil' Quilboar||114486]] adds a ton of gems to your boars in combat, and [[Needling Crone||120035]] doubles those gems. \n\n"
-"Instead of Three lil Quilboar for combat scaling, you can opt to play towards Rylak/Gem smuggler as well."
-msgstr "在游戏中期升级鲜血宝石，通常使用[[刺头吹笛人||98946]]，但[[迟钝的刺鬃||112882]]和[[睡梦织棘者||120708]]也可以。然后开始凑“野猪人战斗提升”流派的核心随从。[[三只小野猪||114486]]会在战斗中为你的野猪贴上大量宝石，而[[刺针巫婆||120035]]则会使宝石属性翻倍。\n\n"
-"你也可以选择使用重金属双头飞龙/宝石走私商来代替三只小野猪进行战斗中提升。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/17/
-msgid "[[Three Lil' Quilboar||114486]] + Gem scaling ([[Prickly Piper||98946]]/[[Pokey Thornmantle||112882]])"
-msgstr "[[三只小野猪||114486]] + 鲜血宝石属性成长([[刺头吹笛人||98946]]/[[迟钝的刺鬃||112882]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/17/
-msgid "[[Prickly Piper||98946]]"
-msgstr "[[刺头吹笛人||98946]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/17/
-msgid "Scale up blood gems, unleash them during combat"
-msgstr "提升鲜血宝石属性，在战斗中施放"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - Hand Buff"
@@ -250,6 +228,28 @@ msgstr "[[布莱恩·铜须||96786]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Spend lots of gold to scale"
 msgstr "花费大量铸币来成长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/17/
+msgid "Quilboar - Combat Scaling"
+msgstr "野猪人 - 战斗提升"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/17/
+msgid "Scale up your gems in the midgame, usually using [[Prickly Piper||98946]] but [[Pokey Thornmantle||112882]] and [[Dreaming Thornweaver||120708]] work too. Then, pick up your core pieces for the Combat Scaling Quilboar board. [[Three lil' Quilboar||114486]] adds a ton of gems to your boars in combat, and [[Needling Crone||120035]] doubles those gems. \n\n"
+"Instead of Three lil Quilboar for combat scaling, you can opt to play towards Rylak/Gem smuggler as well."
+msgstr "在游戏中期升级鲜血宝石，通常使用[[刺头吹笛人||98946]]，但[[迟钝的刺鬃||112882]]和[[睡梦织棘者||120708]]也可以。然后开始凑“野猪人战斗提升”流派的核心随从。[[三只小野猪||114486]]会在战斗中为你的野猪贴上大量宝石，而[[刺针巫婆||120035]]则会使宝石属性翻倍。\n\n"
+"你也可以选择使用重金属双头飞龙/宝石走私商来代替三只小野猪进行战斗中提升。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/17/
+msgid "[[Three Lil' Quilboar||114486]] + Gem scaling ([[Prickly Piper||98946]]/[[Pokey Thornmantle||112882]])"
+msgstr "[[三只小野猪||114486]] + 鲜血宝石属性成长([[刺头吹笛人||98946]]/[[迟钝的刺鬃||112882]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/17/
+msgid "[[Prickly Piper||98946]]"
+msgstr "[[刺头吹笛人||98946]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/17/
+msgid "Scale up blood gems, unleash them during combat"
+msgstr "提升鲜血宝石属性，在战斗中施放"
 
 #: name | https://hsreplay.net/battlegrounds/comps/37/
 msgid "Elementals - End of turn"
