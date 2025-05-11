@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-04-29 18:05+0000\n"
-"PO-Revision-Date: 2025-04-30 00:40\n"
+"PO-Revision-Date: 2025-05-11 00:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -137,7 +137,7 @@ msgstr ""
 
 #: templates/429.html:10 templates/socialaccount/authentication_error.html:21
 msgid "Please try again in a few minutes."
-msgstr ""
+msgstr "Veuillez réessayer dans quelques minutes."
 
 #: templates/account/account_inactive.html:6
 msgid "Account inactive"
@@ -319,15 +319,15 @@ msgstr "Voulez-vous réellement vous déconnecter ?"
 #: templates/account/password_change.html:9
 #: templates/account/password_change.html:14
 msgid "Change Password"
-msgstr ""
+msgstr "Changer le mot de passe"
 
 #: templates/account/password_change.html:15
 msgid "Forgot Password?"
-msgstr ""
+msgstr "Mot de passe oublié?"
 
 #: templates/account/password_reset.html:11
 msgid "Password Reset"
-msgstr ""
+msgstr "Réinitialiser le mot de passe"
 
 #: templates/account/password_reset.html:13
 msgid "Forgot your password? Enter your email below, we'll send you a link to reset it."
@@ -345,7 +345,7 @@ msgstr "Besoin d’aide ? <a href=\"%(contact_url)s\">Contactez-nous</a>."
 #: templates/account/password_set.html:5 templates/account/password_set.html:9
 #: templates/account/password_set.html:14
 msgid "Set Password"
-msgstr ""
+msgstr "Définir le mot de passe"
 
 #: templates/account/signup.html:14 templates/account/signup.html:55
 #: templates/socialaccount/signup.html:11
@@ -367,7 +367,7 @@ msgstr "Utilisé pour la gestion de compte, la facturation et les mises à jour 
 
 #: templates/account/signup.html:38
 msgid "Don't use the same password for multiple accounts."
-msgstr ""
+msgstr "N'utilisez pas le même mot de passe pour plusieurs comptes."
 
 #: templates/account/signup.html:43
 msgid "Password (repeat)"
@@ -381,7 +381,7 @@ msgstr "J'accepte les <a href=\"%(tos_url)s\">Conditions du service</a>."
 #: templates/account/snippets/already_logged_in.html:5
 #, python-format
 msgid "You are already logged in as %(user)s."
-msgstr ""
+msgstr "Vous êtes déjà connecté en tant que %(user)s."
 
 #: templates/account/verification_sent.html:7
 msgid "Verify your e-mail address"
@@ -502,7 +502,7 @@ msgstr "Héros"
 
 #: templates/navigation.html:90 web/views/battlegrounds.py:222
 msgid "Trinkets"
-msgstr ""
+msgstr "Bibelots"
 
 #: templates/navigation.html:103 web/views/battlegrounds.py:349
 msgid "Darkmoon Prizes"
@@ -912,7 +912,7 @@ msgstr "Ce compte ne peut pas être supprimé."
 
 #: web/views/dashboard.py:138
 msgid "Your HSReplay.net account has been deleted. It was great having you!"
-msgstr ""
+msgstr "Votre compte HSReplay.net a été supprimé. C'était un plaisir de vous accueillir !"
 
 #: web/views/dashboard.py:153
 msgid "Your replays have been deleted."
