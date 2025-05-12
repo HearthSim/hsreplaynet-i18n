@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-09 01:40\n"
+"POT-Creation-Date: 2025-05-12 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: ko\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-05-09 12:40\n"
+"PO-Revision-Date: 2025-05-12 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
@@ -115,6 +115,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/6/
 msgid "Overflow your board to scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/38/
+msgid "Beasts - Summon Beetles"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/38/
+msgid "With the [[Bird Buddy||72055]] + [[Silky Shimmermoth||121135]] combo, your beetles will scale +2/2 every time a minion dies. Then, fill out the rest of your board with either an avenge setup, or beetle summoners. Reborning your beetle summoners is very important too.\n\n"
+"Instead of Bird Buddy variation, you can opt to go for [[Catacomb Crasher||114379]] to scale your Silky Shimmermoth as well, since every individual overflowed unit will count towards one proc of the Shimmermoth."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/38/
+msgid "[[Silky Shimmermoth||121135]] + some way to scale it ([[Bird Buddy||72055]]/[[Gentle Stag||119746]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/38/
+msgid "[[Turquoise Skitterer||119255]], [[Runed Progenitor||117499]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/38/
+msgid "Summon large beetles"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
@@ -263,27 +284,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/37/
 msgid "Buff stat scaling on Elementals."
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/38/
-msgid "Beasts - Summon Beetles"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/38/
-msgid "With the [[Bird Buddy||72055]] + [[Silky Shimmermoth||121135]] combo, your beetles will scale +2/2 every time a minion dies. Then, fill out the rest of your board with either an avenge setup, or beetle summoners. Reborning your beetle summoners is very important too.\n\n"
-"Instead of Bird Buddy variation, you can opt to go for [[Catacomb Crasher||114379]] to scale your Silky Shimmermoth as well, since every individual overflowed unit will count towards one proc of the Shimmermoth."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/38/
-msgid "[[Silky Shimmermoth||121135]] + some way to scale it ([[Bird Buddy||72055]]/[[Gentle Stag||119746]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/38/
-msgid "[[Turquoise Skitterer||119255]], [[Runed Progenitor||117499]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/38/
-msgid "Summon large beetles"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/39/
