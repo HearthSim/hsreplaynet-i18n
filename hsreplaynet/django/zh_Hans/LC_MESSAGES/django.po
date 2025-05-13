@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-29 18:05+0000\n"
-"PO-Revision-Date: 2025-05-09 12:40\n"
+"POT-Creation-Date: 2025-05-13 01:40+0000\n"
+"PO-Revision-Date: 2025-05-13 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1056,7 +1056,7 @@ msgstr "炉石传说HSReplay.net会员"
 msgid "My Replays"
 msgstr "我的回放"
 
-#: web/views/replays.py:337
+#: web/views/replays.py:340
 msgid "Uploading replay…"
 msgstr "正在上传回放..."
 
