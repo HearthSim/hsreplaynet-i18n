@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-13 19:54\n"
+"POT-Creation-Date: 2025-05-14 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-05-14 00:40\n"
+"PO-Revision-Date: 2025-05-14 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Mechs - Magnetics/Spells"
@@ -231,27 +231,6 @@ msgstr "[[布莱恩·铜须||96786]]\n"
 msgid "Spend lots of gold to scale"
 msgstr "花费大量铸币来成长"
 
-#: name | https://hsreplay.net/battlegrounds/comps/20/
-msgid "Nagas - Groundbreaker"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/20/
-msgid "After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Warden of Old||65660]]. Brann and Coilskar Sapper are very effective spell generation as well."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/20/
-msgid "[[Darkcrest Strategist||115555]] plus [[Groundbreaker||114816]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/20/
-msgid "[[Darkcrest Strategist||115555]]\n"
-"[[Brann Bronzebeard||96786]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/20/
-msgid "Play spells and nagas to scale"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/37/
 msgid "Elementals - End of turn"
 msgstr "元素 - 回合结束时"
@@ -312,9 +291,31 @@ msgstr "[[刺头吹笛人||98946]]"
 msgid "Scale up blood gems, unleash them during combat"
 msgstr "提升鲜血宝石属性，在战斗中施放"
 
+#: name | https://hsreplay.net/battlegrounds/comps/20/
+msgid "Nagas - Groundbreaker"
+msgstr "纳迦 - 碎地者"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/20/
+msgid "After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Warden of Old||65660]]. Brann and Coilskar Sapper are very effective spell generation as well."
+msgstr "在拥有至少2个碎地者后循环使用每一个效果不错的纳迦，例如[[贝类收藏家||80740]]和[[古神的卫士||65660]]。布莱恩·铜须和库斯卡工兵也是非常棒的法术生成器。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/20/
+msgid "[[Darkcrest Strategist||115555]] plus [[Groundbreaker||114816]]"
+msgstr "[[暗潮战略专家||115555]] + [[碎地者||114816]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/20/
+msgid "[[Darkcrest Strategist||115555]]\n"
+"[[Brann Bronzebeard||96786]]"
+msgstr "[[暗潮战略专家||115555]]\n"
+"[[布莱恩·铜须||96786]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/20/
+msgid "Play spells and nagas to scale"
+msgstr "打出法术和纳迦来成长"
+
 #: name | https://hsreplay.net/battlegrounds/comps/6/
 msgid "Undead - Overflow"
-msgstr ""
+msgstr "亡灵 - 挤爆"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
 msgid "BEST PLAYED WITH BEASTS! Put [[Monstrous Macaw||62230]] position 1, then [[Cadaver Caretaker||113158]] in position 2. When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, they’ll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Every proc of the Crasher will proc the [[Silky Shimmermoth||121135]] once, which is very powerful."
