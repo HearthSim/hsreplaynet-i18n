@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-12 01:40\n"
+"POT-Creation-Date: 2025-05-13 19:54\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,47 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-05-12 12:40\n"
-
-#: name | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Demons - Shop Buff/Spells"
-msgstr "恶魔 - 商店Buff/法术"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every single cheap spell to eat the shop with."
-msgstr "使用[[邪火咒龙||120299]]提升你的酒馆法术。然后从[[影舞者||120662]]获得的法术会被极度Buff，这可以让你的[[狂蝠恐惧卫士||116697]]吞噬掉一个大商店。购买每一个便宜的酒馆法术来吞噬商店。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
-msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]]/[[Shadowdancer||120662]]"
-msgstr "[[邪火咒龙||120299]] + [[达卡莱附魔师||101314]]/[[影舞者||120662]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
-msgid "[[Felfire Conjurer||120299]]"
-msgstr "[[邪火咒龙||120299]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Eat buffed shop with buffed spells."
-msgstr "用Buff过的酒馆法术吃掉商店中Buff过的随从。"
-
-#: name | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Nagas - Deathrattle"
-msgstr "娜迦 - 亡语"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Generate a ton of spellcrafts to play using reborned [[Coilskar Sapper||120565]]. The strength of your board comes from reborning [[Showy Cyclist||115565]] + [[Titus Rivendare||97408]], which buffs your nagas a lot in combat."
-msgstr "使用复生的[[库斯卡工兵||120565]]生成一堆塑造法术。你的棋盘的强度来自于复生[[显眼的骑手||115565]] + [[提图斯·瑞文戴尔|||97408]]，它会在战斗中狠狠Buff你的娜迦。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/40/
-msgid "[[Showy Cyclist||115565]] + [[Coilskar Sapper||120565]]"
-msgstr "[[显眼的骑手||115565]] + [[库斯卡工兵||120565]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Naga Midgame ([[Thaumaturgist||115563]]/[[Coilskar Sapper||120565]])"
-msgstr "纳迦中期过渡([[杂耍奇术师||115563]]/[[库斯卡工兵||120565]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Buff Nagas in Combat"
-msgstr "在战斗中Buff娜迦"
+"PO-Revision-Date: 2025-05-14 00:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Mechs - Magnetics/Spells"
@@ -77,6 +37,46 @@ msgstr "[[移动投影仪||115674]]"
 msgid "Put huge magnetics on premium Mechs"
 msgstr "将巨型磁力吸附在高级机械上"
 
+#: name | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Nagas - Deathrattle"
+msgstr "娜迦 - 亡语"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Generate a ton of spellcrafts to play using reborned [[Coilskar Sapper||120565]]. The strength of your board comes from reborning [[Showy Cyclist||115565]] + [[Titus Rivendare||97408]], which buffs your nagas a lot in combat."
+msgstr "使用复生的[[库斯卡工兵||120565]]生成一堆塑造法术。你的棋盘的强度来自于复生[[显眼的骑手||115565]] + [[提图斯·瑞文戴尔|||97408]]，它会在战斗中狠狠Buff你的娜迦。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/40/
+msgid "[[Showy Cyclist||115565]] + [[Coilskar Sapper||120565]]"
+msgstr "[[显眼的骑手||115565]] + [[库斯卡工兵||120565]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Naga Midgame ([[Thaumaturgist||115563]]/[[Coilskar Sapper||120565]])"
+msgstr "纳迦中期过渡([[杂耍奇术师||115563]]/[[库斯卡工兵||120565]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Buff Nagas in Combat"
+msgstr "在战斗中Buff娜迦"
+
+#: name | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Demons - Shop Buff/Spells"
+msgstr "恶魔 - 商店Buff/法术"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every single cheap spell to eat the shop with."
+msgstr "使用[[邪火咒龙||120299]]提升你的酒馆法术。然后从[[影舞者||120662]]获得的法术会被极度Buff，这可以让你的[[狂蝠恐惧卫士||116697]]吞噬掉一个大商店。购买每一个便宜的酒馆法术来吞噬商店。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]]/[[Shadowdancer||120662]]"
+msgstr "[[邪火咒龙||120299]] + [[达卡莱附魔师||101314]]/[[影舞者||120662]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Felfire Conjurer||120299]]"
+msgstr "[[邪火咒龙||120299]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Eat buffed shop with buffed spells."
+msgstr "用Buff过的酒馆法术吃掉商店中Buff过的随从。"
+
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Poison Scam"
 msgstr "鱼人 - 下毒"
@@ -96,26 +96,6 @@ msgstr "快被淘汰了"
 #: summary | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Buy scam cards and try to preserve placements"
 msgstr "购买下毒卡牌，试图吃烂分"
-
-#: name | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Undead - Overflow Beetles"
-msgstr "亡灵 - 挤爆甲虫"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid "BEST PLAYED WITH BEASTS! Put [[Monstrous Macaw||62230]] position 1, then [[Cadaver Caretaker||113158]] in position 2. When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, they’ll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Every proc of the Crasher will proc the [[Silky Shimmermoth||121135]] once, which is very powerful."
-msgstr "最好与野兽一起玩！把[[巨大的金刚鹦鹉||62230]]放在1号位置，然后把[[遗骸看管者||113158]]放在2号位置。当[[遗骸看管者||113158]]的亡语被触发时，他们会通过[[提图斯·瑞文戴尔||97408]] + [[古墓捣蛋鬼||114379]] 的组合给你的整个棋盘加buff。每触发一次古墓捣蛋鬼，就会触发一次[[丝柔烁光蛾||121135]]，非常强力。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
-msgstr "挤爆随从([[遗骸看管者||113158]]) + [[古墓捣蛋鬼||114379]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
-msgid "[[Cadaver Caretaker||113158]]"
-msgstr "[[遗骸看管者||113158]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow your board to scale"
-msgstr "挤掉召唤物来成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/38/
 msgid "Beasts - Summon Beetles"
@@ -251,27 +231,26 @@ msgstr "[[布莱恩·铜须||96786]]\n"
 msgid "Spend lots of gold to scale"
 msgstr "花费大量铸币来成长"
 
-#: name | https://hsreplay.net/battlegrounds/comps/17/
-msgid "Quilboar - Combat Scaling"
-msgstr "野猪人 - 战斗提升"
+#: name | https://hsreplay.net/battlegrounds/comps/20/
+msgid "Nagas - Groundbreaker"
+msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/17/
-msgid "Scale up your gems in the midgame, usually using [[Prickly Piper||98946]] but [[Pokey Thornmantle||112882]] and [[Dreaming Thornweaver||120708]] work too. Then, pick up your core pieces for the Combat Scaling Quilboar board. [[Three lil' Quilboar||114486]] adds a ton of gems to your boars in combat, and [[Needling Crone||120035]] doubles those gems. \n\n"
-"Instead of Three lil Quilboar for combat scaling, you can opt to play towards Rylak/Gem smuggler as well."
-msgstr "在游戏中期升级鲜血宝石，通常使用[[刺头吹笛人||98946]]，但[[迟钝的刺鬃||112882]]和[[睡梦织棘者||120708]]也可以。然后开始凑“野猪人战斗提升”流派的核心随从。[[三只小野猪||114486]]会在战斗中为你的野猪贴上大量宝石，而[[刺针巫婆||120035]]则会使宝石属性翻倍。\n\n"
-"你也可以选择使用重金属双头飞龙/宝石走私商来代替三只小野猪进行战斗中提升。"
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/20/
+msgid "After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Warden of Old||65660]]. Brann and Coilskar Sapper are very effective spell generation as well."
+msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/17/
-msgid "[[Three Lil' Quilboar||114486]] + Gem scaling ([[Prickly Piper||98946]]/[[Pokey Thornmantle||112882]])"
-msgstr "[[三只小野猪||114486]] + 鲜血宝石属性成长([[刺头吹笛人||98946]]/[[迟钝的刺鬃||112882]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/20/
+msgid "[[Darkcrest Strategist||115555]] plus [[Groundbreaker||114816]]"
+msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/17/
-msgid "[[Prickly Piper||98946]]"
-msgstr "[[刺头吹笛人||98946]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/20/
+msgid "[[Darkcrest Strategist||115555]]\n"
+"[[Brann Bronzebeard||96786]]"
+msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/17/
-msgid "Scale up blood gems, unleash them during combat"
-msgstr "提升鲜血宝石属性，在战斗中施放"
+#: summary | https://hsreplay.net/battlegrounds/comps/20/
+msgid "Play spells and nagas to scale"
+msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/37/
 msgid "Elementals - End of turn"
@@ -310,4 +289,46 @@ msgstr "[[邪火咒龙||120299]] + [[达卡莱附魔师||101314]] 或酒馆法�
 #: summary | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Cast Buffed Spells"
 msgstr "施放Buff过的酒馆法术"
+
+#: name | https://hsreplay.net/battlegrounds/comps/17/
+msgid "Quilboar - Combat Scaling"
+msgstr "野猪人 - 战斗提升"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/17/
+msgid "Scale up your gems in the midgame, usually using [[Prickly Piper||98946]] but [[Pokey Thornmantle||112882]] and [[Dreaming Thornweaver||120708]] work too. Then, pick up your core pieces for the Combat Scaling Quilboar board. [[Three lil' Quilboar||114486]] adds a ton of gems to your boars in combat, and [[Needling Crone||120035]] doubles those gems. \n\n"
+"Instead of Three lil Quilboar for combat scaling, you can opt to play towards Rylak/Gem smuggler as well."
+msgstr "在游戏中期升级鲜血宝石，通常使用[[刺头吹笛人||98946]]，但[[迟钝的刺鬃||112882]]和[[睡梦织棘者||120708]]也可以。然后开始凑“野猪人战斗提升”流派的核心随从。[[三只小野猪||114486]]会在战斗中为你的野猪贴上大量宝石，而[[刺针巫婆||120035]]则会使宝石属性翻倍。\n\n"
+"你也可以选择使用重金属双头飞龙/宝石走私商来代替三只小野猪进行战斗中提升。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/17/
+msgid "[[Three Lil' Quilboar||114486]] + Gem scaling ([[Prickly Piper||98946]]/[[Pokey Thornmantle||112882]])"
+msgstr "[[三只小野猪||114486]] + 鲜血宝石属性成长([[刺头吹笛人||98946]]/[[迟钝的刺鬃||112882]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/17/
+msgid "[[Prickly Piper||98946]]"
+msgstr "[[刺头吹笛人||98946]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/17/
+msgid "Scale up blood gems, unleash them during combat"
+msgstr "提升鲜血宝石属性，在战斗中施放"
+
+#: name | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Undead - Overflow"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
+msgid "BEST PLAYED WITH BEASTS! Put [[Monstrous Macaw||62230]] position 1, then [[Cadaver Caretaker||113158]] in position 2. When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, they’ll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Every proc of the Crasher will proc the [[Silky Shimmermoth||121135]] once, which is very powerful."
+msgstr "最好与野兽一起玩！把[[巨大的金刚鹦鹉||62230]]放在1号位置，然后把[[遗骸看管者||113158]]放在2号位置。当[[遗骸看管者||113158]]的亡语被触发时，他们会通过[[提图斯·瑞文戴尔||97408]] + [[古墓捣蛋鬼||114379]] 的组合给你的整个棋盘加buff。每触发一次古墓捣蛋鬼，就会触发一次[[丝柔烁光蛾||121135]]，非常强力。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+msgstr "挤爆随从([[遗骸看管者||113158]]) + [[古墓捣蛋鬼||114379]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
+msgid "[[Cadaver Caretaker||113158]]"
+msgstr "[[遗骸看管者||113158]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow your board to scale"
+msgstr "挤掉召唤物来成长"
 

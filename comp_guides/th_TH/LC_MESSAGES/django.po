@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-12 01:40\n"
+"POT-Creation-Date: 2025-05-13 19:54\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Thai\n"
 "Language: th\n"
@@ -15,26 +15,26 @@ msgstr ""
 "X-Crowdin-Language: th\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-05-12 12:40\n"
+"PO-Revision-Date: 2025-05-14 00:40\n"
 
-#: name | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Demons - Shop Buff/Spells"
+#: name | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Mechs - Magnetics/Spells"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every single cheap spell to eat the shop with."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Generate a ton of [[Dr. Boom's Monster||115676]] through an early [[Holo Rover||115674]], then put the Boom Monsters on either the Rover or [[Deflect-o-bot||61930]]. Then, cycle every single cheap spell with an [[Electron, Powered Up||120029]] setup. This will make your Boom Monster's huge. Spell generation ([[Marquee Ticker||115680]]/[[Nightmare Par-tea Guest||120754]]/Trinket) is nice to have."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
-msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]]/[[Shadowdancer||120662]]"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Holo Rover||115674]] + [[Electron, Powered Up||120029]]"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
-msgid "[[Felfire Conjurer||120299]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Holo Rover||115674]]"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Eat buffed shop with buffed spells."
+#: summary | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Put huge magnetics on premium Mechs"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/40/
@@ -57,24 +57,24 @@ msgstr ""
 msgid "Buff Nagas in Combat"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Mechs - Magnetics/Spells"
+#: name | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Demons - Shop Buff/Spells"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Generate a ton of [[Dr. Boom's Monster||115676]] through an early [[Holo Rover||115674]], then put the Boom Monsters on either the Rover or [[Deflect-o-bot||61930]]. Then, cycle every single cheap spell with an [[Electron, Powered Up||120029]] setup. This will make your Boom Monster's huge. Spell generation ([[Marquee Ticker||115680]]/[[Nightmare Par-tea Guest||120754]]/Trinket) is nice to have."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every single cheap spell to eat the shop with."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Holo Rover||115674]] + [[Electron, Powered Up||120029]]"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]]/[[Shadowdancer||120662]]"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Holo Rover||115674]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Felfire Conjurer||120299]]"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Put huge magnetics on premium Mechs"
+#: summary | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Eat buffed shop with buffed spells."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
@@ -95,26 +95,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Buy scam cards and try to preserve placements"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Undead - Overflow Beetles"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid "BEST PLAYED WITH BEASTS! Put [[Monstrous Macaw||62230]] position 1, then [[Cadaver Caretaker||113158]] in position 2. When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, they’ll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Every proc of the Crasher will proc the [[Silky Shimmermoth||121135]] once, which is very powerful."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
-msgid "[[Cadaver Caretaker||113158]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow your board to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/38/
@@ -244,25 +224,25 @@ msgstr ""
 msgid "Spend lots of gold to scale"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/17/
-msgid "Quilboar - Combat Scaling"
+#: name | https://hsreplay.net/battlegrounds/comps/20/
+msgid "Nagas - Groundbreaker"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/17/
-msgid "Scale up your gems in the midgame, usually using [[Prickly Piper||98946]] but [[Pokey Thornmantle||112882]] and [[Dreaming Thornweaver||120708]] work too. Then, pick up your core pieces for the Combat Scaling Quilboar board. [[Three lil' Quilboar||114486]] adds a ton of gems to your boars in combat, and [[Needling Crone||120035]] doubles those gems. \n\n"
-"Instead of Three lil Quilboar for combat scaling, you can opt to play towards Rylak/Gem smuggler as well."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/20/
+msgid "After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Warden of Old||65660]]. Brann and Coilskar Sapper are very effective spell generation as well."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/17/
-msgid "[[Three Lil' Quilboar||114486]] + Gem scaling ([[Prickly Piper||98946]]/[[Pokey Thornmantle||112882]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/20/
+msgid "[[Darkcrest Strategist||115555]] plus [[Groundbreaker||114816]]"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/17/
-msgid "[[Prickly Piper||98946]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/20/
+msgid "[[Darkcrest Strategist||115555]]\n"
+"[[Brann Bronzebeard||96786]]"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/17/
-msgid "Scale up blood gems, unleash them during combat"
+#: summary | https://hsreplay.net/battlegrounds/comps/20/
+msgid "Play spells and nagas to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/37/
@@ -300,5 +280,46 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Cast Buffed Spells"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/17/
+msgid "Quilboar - Combat Scaling"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/17/
+msgid "Scale up your gems in the midgame, usually using [[Prickly Piper||98946]] but [[Pokey Thornmantle||112882]] and [[Dreaming Thornweaver||120708]] work too. Then, pick up your core pieces for the Combat Scaling Quilboar board. [[Three lil' Quilboar||114486]] adds a ton of gems to your boars in combat, and [[Needling Crone||120035]] doubles those gems. \n\n"
+"Instead of Three lil Quilboar for combat scaling, you can opt to play towards Rylak/Gem smuggler as well."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/17/
+msgid "[[Three Lil' Quilboar||114486]] + Gem scaling ([[Prickly Piper||98946]]/[[Pokey Thornmantle||112882]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/17/
+msgid "[[Prickly Piper||98946]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/17/
+msgid "Scale up blood gems, unleash them during combat"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Undead - Overflow"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
+msgid "BEST PLAYED WITH BEASTS! Put [[Monstrous Macaw||62230]] position 1, then [[Cadaver Caretaker||113158]] in position 2. When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, they’ll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Every proc of the Crasher will proc the [[Silky Shimmermoth||121135]] once, which is very powerful."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
+msgid "[[Cadaver Caretaker||113158]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow your board to scale"
 msgstr ""
 
