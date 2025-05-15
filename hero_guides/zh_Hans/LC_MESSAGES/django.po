@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-13T19:54:29.885986\n"
+"POT-Creation-Date: 2025-05-15T01:40:24.047371\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-05-14 12:40\n"
+"PO-Revision-Date: 2025-05-15 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/117409/ Hero id 117409 | Guide id
 #: 695
@@ -325,6 +325,11 @@ msgstr "使用英雄技能的最佳方式是三连拿5级或6级随从，然后�
 msgid "Use your bananas early game on a good unit to save HP in the earlygame and then play normally from there. If you don't find a good unit on turn 1, you should use all of them turn 3 the latest."
 msgstr "在游戏初期将香蕉用在优质的随从上，以便在游戏初期节省血量，然后再正常游戏。如果第1回合没有找到好的随从，那么最迟在第3回合就应该使用所有的香蕉。"
 
+#: https://hsreplay.net/battlegrounds/heroes/57893/ Hero id 57893 | Guide id
+#: 111
+msgid "Hero power the first 6 turns (except turn 2), and be tavern 4 by turn 6. Then, you don't have to hero power every turn, only when the tribe is useful to you."
+msgstr "前6个回合（除了第2回合）都使用英雄技能，到第6回合升到4级酒馆。之后你就不必每回合都使用英雄技能了，只有当种族类型对你有用时才使用。"
+
 #: https://hsreplay.net/battlegrounds/heroes/64475/ Hero id 64475 | Guide id 6
 msgid "Try not to spend a lot of money leveling on this hero. You can buy elementals, and then level to taverns 4, 5 or 6 when it's 2 or less gold."
 msgstr "尽量不要在这个英雄身上花很多钱升级。你可以一直购买元素，然后在升级只要2或2以下铸币时升到4、5或6级酒馆。"
@@ -338,11 +343,6 @@ msgstr "这个英雄一定要玩循环流派！比如倒转海盗或元素。- �
 #: 121
 msgid "The only purpose of this hero is to save HP early game, so start hero powering every turn when the hero power reads +4 or +5 HP."
 msgstr "这个英雄唯一的作用就是在游戏前期节省血量，所以当英雄技能描述上看到+4或+5生命值时就开始每回合使用英雄技能。"
-
-#: https://hsreplay.net/battlegrounds/heroes/57893/ Hero id 57893 | Guide id
-#: 111
-msgid "Hero power the first 6 turns, and be tavern 4 by turn 6. Then, you don't have to hero power every turn, only when the tribe is useful to you."
-msgstr "前6个回合都使用英雄技能，到第6回合升到4级酒馆。之后你就不必每回合都使用英雄技能了，只有当种族类型对你有用时才使用。"
 
 #: https://hsreplay.net/battlegrounds/heroes/58534/ Hero id 58534 | Guide id
 #: 30
