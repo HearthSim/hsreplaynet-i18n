@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-15 01:40\n"
+"POT-Creation-Date: 2025-05-16 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,27 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-05-15 12:40\n"
+"PO-Revision-Date: 2025-05-16 12:40\n"
+
+#: name | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Dragons - Spells"
+msgstr "龙 - 法术"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Cycle spells to scale dragons (will add detail later)"
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/42/
+msgid "[[Fire-forged Evoker||120301]] + Spell Generation ([[Ignition Specialist||105852]])"
+msgstr "[[火铸唤魔师||120301]] + 酒馆法术生成器 ([[生火专家||105852]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Spell Generation ([[Ignition Specialist||105852]])"
+msgstr "酒馆法术生成器 ([[生火专家||105852]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Play spells to scale Dragons"
+msgstr "释放酒馆法术扩大龙的属性"
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Poison Scam"
@@ -117,6 +137,28 @@ msgstr "[[灰烬腐蚀者||121687]]"
 msgid "Buff and consume your shop"
 msgstr "Buff并吞噬你的商店"
 
+#: name | https://hsreplay.net/battlegrounds/comps/15/
+msgid "Dragons - Kalecgos"
+msgstr "龙 - 卡雷苟斯"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +2/4 every single battlecry you play. You want to trigger as many battlecries as possible.\n\n"
+"Cycle only PREMIUM battlecries, such as [[Gentle Djinni||64062]], [[Refreshing Anomaly||64042]], or [[Primalfin Lookout||60028]]."
+msgstr "[[布莱恩·铜须||96786]]+[[奥术守护者卡雷苟斯||60630]]能让你所有的龙在每一次战吼后都能获得+2/4。你要触发尽可能多的战吼。\n\n"
+"只循环使用高级的战吼，例如[[温和的灯神||64062]], [[刷新畸体||64042]]或[[蛮鱼斥候||60028]]。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Kalecgos, Arcane Aspect||60630]] + [[Brann Bronzebeard||96786]]"
+msgstr "[[奥术守护者卡雷苟斯||60630]] + [[布莱恩·铜须||96786]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Brann Bronzebeard||96786]]"
+msgstr "[[布莱恩·铜须||96786]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/15/
+msgid "Cycle battlecries to scale dragons"
+msgstr "循环使用战吼来扩大龙的属性值"
+
 #: name | https://hsreplay.net/battlegrounds/comps/38/
 msgid "Beasts - Summon Beetles"
 msgstr "野兽 - 召唤甲虫"
@@ -187,27 +229,27 @@ msgstr "[[致命打击者||115610]] \n"
 msgid "Summon high attack Undeads"
 msgstr "召唤高攻击力的亡灵"
 
-#: name | https://hsreplay.net/battlegrounds/comps/15/
-msgid "Dragons - Kalecgos"
-msgstr "龙 - 卡雷苟斯"
+#: name | https://hsreplay.net/battlegrounds/comps/37/
+msgid "Elementals - Stat scaling"
+msgstr "元素 - 属性成长"
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/15/
-msgid "[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +2/4 every single battlecry you play. You want to trigger as many battlecries as possible.\n\n"
-"Cycle only PREMIUM battlecries, such as [[Gentle Djinni||64062]], [[Refreshing Anomaly||64042]], or [[Primalfin Lookout||60028]]."
-msgstr "[[布莱恩·铜须||96786]]+[[奥术守护者卡雷苟斯||60630]]能让你所有的龙在每一次战吼后都能获得+2/4。你要触发尽可能多的战吼。\n\n"
-"只循环使用高级的战吼，例如[[温和的灯神||64062]], [[刷新畸体||64042]]或[[蛮鱼斥候||60028]]。"
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/37/
+msgid "Buff your stat scaling through the [[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]] Combo. Then, if you have Manasurge, cycle every good elemental ([[Sellemental||64038]], [[Windfall Tornado||116738]], [[Refreshing Anomaly||64042]], [[Sand Swirler||119949]]). It's even better if you cycle those cards with [[Brann Bronzebeard||96786]]\n\n"
+"This strategy is the best if you have a way of printing lots of 6 drops. Some trinkets allow this."
+msgstr "通过[[增强的光耀之子||119957]] + [[达卡莱附魔师||101314]]的组合增强你的属性值。如果你有狂放的法力涌流，循环使用每种优秀的元素（[[商贩元素||64038]], [[骤落飓风||116738]], [[刷新畸体||64042]], [[沙尘旋流||119949]]）。你的属性值也会影响到[[铸霜者洛克霍拉||119955]]，如果配合[[布莱恩·铜须||96786]]效果会更好。\n\n"
+"如果你有办法获得大量的6级随从，那么这个策略就是最好的。有些饰品就可以做到这一点。"
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/15/
-msgid "[[Kalecgos, Arcane Aspect||60630]] + [[Brann Bronzebeard||96786]]"
-msgstr "[[奥术守护者卡雷苟斯||60630]] + [[布莱恩·铜须||96786]]"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/37/
+msgid "[[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]]/[[Unleashed Mana Surge||120674]]"
+msgstr "[[增强的光耀之子||119957]] + [[达卡莱附魔师||101314]]/[[狂放的法力涌流||120674]]"
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/15/
-msgid "[[Brann Bronzebeard||96786]]"
-msgstr "[[布莱恩·铜须||96786]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/37/
+msgid "[[Drakkari Enchanter||101314]], [[Amplifying Lightspawn||119957]], [[Glowing Cinder||119951]]"
+msgstr "[[达卡莱附魔师||101314]], [[增强的光耀之子||119957]], [[辐光余烬||119951]]"
 
-#: summary | https://hsreplay.net/battlegrounds/comps/15/
-msgid "Cycle battlecries to scale dragons"
-msgstr "循环使用战吼来扩大龙的属性值"
+#: summary | https://hsreplay.net/battlegrounds/comps/37/
+msgid "Buff stat scaling on Elementals."
+msgstr "对元素的属性值进行Buff。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Quilboar - Combat Scaling"
@@ -246,28 +288,6 @@ msgstr "[[邪火咒龙||120299]] + [[达卡莱附魔师||101314]] 或酒馆法�
 #: summary | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Cast Buffed Spells"
 msgstr "施放Buff过的酒馆法术"
-
-#: name | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Elementals - Stat scaling"
-msgstr "元素 - 属性成长"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Buff your stat scaling through the [[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]] Combo. Then, if you have Manasurge, cycle every good elemental ([[Sellemental||64038]], [[Windfall Tornado||116738]], [[Refreshing Anomaly||64042]], [[Sand Swirler||119949]]). It's even better if you cycle those cards with [[Brann Bronzebeard||96786]]\n\n"
-"This strategy is the best if you have a way of printing lots of 6 drops. Some trinkets allow this."
-msgstr "通过[[增强的光耀之子||119957]] + [[达卡莱附魔师||101314]]的组合增强你的属性值。如果你有狂放的法力涌流，循环使用每种优秀的元素（[[商贩元素||64038]], [[骤落飓风||116738]], [[刷新畸体||64042]], [[沙尘旋流||119949]]）。你的属性值也会影响到[[铸霜者洛克霍拉||119955]]，如果配合[[布莱恩·铜须||96786]]效果会更好。\n\n"
-"如果你有办法获得大量的6级随从，那么这个策略就是最好的。有些饰品就可以做到这一点。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/37/
-msgid "[[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]]/[[Unleashed Mana Surge||120674]]"
-msgstr "[[增强的光耀之子||119957]] + [[达卡莱附魔师||101314]]/[[狂放的法力涌流||120674]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/37/
-msgid "[[Drakkari Enchanter||101314]], [[Amplifying Lightspawn||119957]], [[Glowing Cinder||119951]]"
-msgstr "[[达卡莱附魔师||101314]], [[增强的光耀之子||119957]], [[辐光余烬||119951]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Buff stat scaling on Elementals."
-msgstr "对元素的属性值进行Buff。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Pirates - APM"
