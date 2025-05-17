@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 01:40\n"
+"POT-Creation-Date: 2025-05-17 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-05-16 12:40\n"
+"PO-Revision-Date: 2025-05-17 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/42/
 msgid "Dragons - Spells"
@@ -97,6 +97,27 @@ msgstr "纳迦中期过渡([[杂耍奇术师||115563]]/[[库斯卡工兵||120565
 msgid "Buff Nagas in Combat"
 msgstr "在战斗中Buff娜迦"
 
+#: name | https://hsreplay.net/battlegrounds/comps/43/
+msgid "Murlocs - Mystic Spells"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/43/
+msgid "Buff Spell then spam them - will update later"
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/43/
+msgid "[[Brann Bronzebeard||96786]] + [[Shoalfin Mystic||120215]] + a way to proc it ([[Rylak Metalhead||98829]]/[[Greenskeeper||113930]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/43/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Shoalfin Mystic||120215]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/43/
+msgid "Buff Spells and cast them"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
 msgstr "恶魔 - 商店Buff/法术"
@@ -136,6 +157,30 @@ msgstr "[[灰烬腐蚀者||121687]]"
 #: summary | https://hsreplay.net/battlegrounds/comps/9/
 msgid "Buff and consume your shop"
 msgstr "Buff并吞噬你的商店"
+
+#: name | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Undead - Attack Scaling"
+msgstr "亡灵 - 攻击提升"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
+msgid "You want to scale Attack Undead, most commonly through [[Drustfallen Butcher||120104]], but it could also be through [[Titus Rivendare||97408]] + [[Anub'arak, Nerubian King||95259]]. Then, you want to have a bunch of summons with [[Eternal Summoner||95263]] and/or [[Deathly Striker||115610]] that have high attack.\n\n"
+"You can reborn your undeads through [[Prosthetic Hand||112364]], and you want to try to use your Butchering spells on [[Mummifier||108992]] and Moroes."
+msgstr "你想提升攻击亡灵的身材，最常见的方法是通过[[德鲁斯特堕落屠夫||120104]]，但也可以通过[[提图斯·瑞文戴尔||97408]]+[[蛛魔之王阿努巴拉克||95259]]的组合。然后你要用[[永恒召唤者||95263]]和/或[[致命打击者||115610]]等拥有大量高攻击的召唤物的随从。\n\n"
+"你可以通过使用[[义肢假手||112364]]让亡灵复生，试试对[[木乃伊工匠||108992]]或死亡管家莫罗斯使用宰割法术。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Attack scaling ([[Drustfallen Butcher||120104]]) + Undead summons ([[Deathly Striker||115610]])"
+msgstr "攻击成长 ([[德鲁斯特堕落屠夫||120104]]) + 亡灵召唤 ([[致命打击者||115610]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
+msgid "[[Deathly Striker||115610]] \n"
+"Undead Summons [[Cadaver Caretaker||113158]]"
+msgstr "[[致命打击者||115610]] \n"
+"亡灵召唤 [[遗骸看管者||113158]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Summon high attack Undeads"
+msgstr "召唤高攻击力的亡灵"
 
 #: name | https://hsreplay.net/battlegrounds/comps/15/
 msgid "Dragons - Kalecgos"
@@ -181,54 +226,6 @@ msgstr "[[绿松石飞掠虫||119255]], [[符文虫祖||117499]]"
 msgid "Summon large beetles"
 msgstr "召唤大甲虫"
 
-#: name | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Murlocs - Hand Buff"
-msgstr "鱼人 - 手牌Buff"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Bream Counter||98509]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] + [[Brann Bronzebeard||96786]] and cycling [[Primalfin Lookout||60028]] and [[Murky||92418]]. Golden [[Bubble Gunner||116178]] is also nice to have with [[Hackerfin||115848]]. Finally, [[Choral Mrrrglr||98948]] is a great way to capture the stats from your hand. \n\n"
-"In this comp, you can never go wrong with as many [[Bassgill||98926]] as possible. You'll always have murlocs you can summon from your hand, like Belcher and [[Reckless Cliffdiver||115836]]."
-msgstr "准备一个吃Buff专用的鱼人，把你所有的手牌Buff都加在它身上。通常是[[裁脍鱼人||98509]]，但也可以是[[歌剧异术家||101316]]。然后使用[[浊盐远行者||120687]]+[[布莱恩·铜须||96786]]的组合来给这个鱼人加buff。并循环使用[[蛮鱼斥候||60028]]和[[奔波尔霸||92418]]。金色的[[气泡枪手||116178]]和[[黑客鱼人||115848]]也很不错。最后，[[合唱鱼人||98948]]是获取手牌鱼人身上数值的好方法。\n\n"
-"在这个流派中尽可能多地使用[[低音提琴鱼人||98926]]是绝对不会出错的。你总能从手牌中召唤出一些鱼人，比如歌剧异术家和[[鲁莽的跳崖鱼人||115836]]。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
-msgid "[[Brann Bronzebeard||96786]] + Hand buff synergy ([[Bream Counter||98509]]/[[Murkbrine Expeditioner||120687]])"
-msgstr "[[布莱恩·铜须||96786]]+手牌Buff效果([[裁脍鱼人||98509]]/[[浊盐远行者||120687]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/34/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Bream Counter||98509]] + [[Bassgill||98926]]"
-msgstr "[[布莱恩·铜须||96786]]\n"
-"[[裁脍鱼人||98509]] + [[低音提琴鱼人||98926]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Cycle Murlocs to scale Murlocs in hand"
-msgstr "循环使用鱼人扩大手牌中鱼人的属性值"
-
-#: name | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Undead - Attack Scaling"
-msgstr "亡灵 - 攻击提升"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
-msgid "You want to scale Attack Undead, most commonly through [[Drustfallen Butcher||120104]], but it could also be through [[Titus Rivendare||97408]] + [[Anub'arak, Nerubian King||95259]]. Then, you want to have a bunch of summons with [[Eternal Summoner||95263]] and/or [[Deathly Striker||115610]] that have high attack.\n\n"
-"You can reborn your undeads through [[Prosthetic Hand||112364]], and you want to try to use your Butchering spells on [[Mummifier||108992]] and Moroes."
-msgstr "你想提升攻击亡灵的身材，最常见的方法是通过[[德鲁斯特堕落屠夫||120104]]，但也可以通过[[提图斯·瑞文戴尔||97408]]+[[蛛魔之王阿努巴拉克||95259]]的组合。然后你要用[[永恒召唤者||95263]]和/或[[致命打击者||115610]]等拥有大量高攻击的召唤物的随从。\n\n"
-"你可以通过使用[[义肢假手||112364]]让亡灵复生，试试对[[木乃伊工匠||108992]]或死亡管家莫罗斯使用宰割法术。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Attack scaling ([[Drustfallen Butcher||120104]]) + Undead summons ([[Deathly Striker||115610]])"
-msgstr "攻击成长 ([[德鲁斯特堕落屠夫||120104]]) + 亡灵召唤 ([[致命打击者||115610]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
-msgid "[[Deathly Striker||115610]] \n"
-"Undead Summons [[Cadaver Caretaker||113158]]"
-msgstr "[[致命打击者||115610]] \n"
-"亡灵召唤 [[遗骸看管者||113158]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Summon high attack Undeads"
-msgstr "召唤高攻击力的亡灵"
-
 #: name | https://hsreplay.net/battlegrounds/comps/37/
 msgid "Elementals - Stat scaling"
 msgstr "元素 - 属性成长"
@@ -251,6 +248,22 @@ msgstr "[[达卡莱附魔师||101314]], [[增强的光耀之子||119957]], [[辐
 msgid "Buff stat scaling on Elementals."
 msgstr "对元素的属性值进行Buff。"
 
+#: name | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Spell Buff/End of Turn"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
+msgid "*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Firescale Hoarder and Nightmare Par-tea Guest are great for spell generation, especially when paired with Brann. Fauna could work Drakkari, and Hawstrider Herald could help with spell generation."
+msgstr "*需要有龙或恶魔* 给法术Buff，最常见的是通过早期的[[邪火咒龙||120299]]+[[达卡莱附魔师||101314]]。你棋盘上的其他卡牌都能利用这些被buff过的法术。火鳞囤积者和梦魇茶客是生成酒馆法术的好帮手，尤其是配合布莱恩·铜须时。动物低语者可以配合达卡莱附魔师，另外陆行鸟先锋也可以帮助生成法术。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
+msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] or Spell Generation ([[Firescale Hoarder||120213]]/[[Nightmare Par-Tea Guest||120754]])"
+msgstr "[[邪火咒龙||120299]] + [[达卡莱附魔师||101314]] 或酒馆法术生成器 ([[火鳞囤积者||120213]]/[[梦魇茶客||120754]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Cast Buffed Spells"
+msgstr "施放Buff过的酒馆法术"
+
 #: name | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Quilboar - Combat Scaling"
 msgstr "野猪人 - 战斗提升"
@@ -272,22 +285,6 @@ msgstr "[[刺头吹笛人||98946]]"
 #: summary | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Scale up blood gems, unleash them during combat"
 msgstr "提升鲜血宝石属性，在战斗中施放"
-
-#: name | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Spell Buff"
-msgstr "酒馆法术Buff"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
-msgid "*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Firescale Hoarder and Nightmare Par-tea Guest are great for spell generation, especially when paired with Brann. Fauna could work Drakkari, and Hawstrider Herald could help with spell generation."
-msgstr "*需要有龙或恶魔* 给法术Buff，最常见的是通过早期的[[邪火咒龙||120299]]+[[达卡莱附魔师||101314]]。你棋盘上的其他卡牌都能利用这些被buff过的法术。火鳞囤积者和梦魇茶客是生成酒馆法术的好帮手，尤其是配合布莱恩·铜须时。动物低语者可以配合达卡莱附魔师，另外陆行鸟先锋也可以帮助生成法术。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
-msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] or Spell Generation ([[Firescale Hoarder||120213]]/[[Nightmare Par-Tea Guest||120754]])"
-msgstr "[[邪火咒龙||120299]] + [[达卡莱附魔师||101314]] 或酒馆法术生成器 ([[火鳞囤积者||120213]]/[[梦魇茶客||120754]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Cast Buffed Spells"
-msgstr "施放Buff过的酒馆法术"
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Pirates - APM"
@@ -352,4 +349,27 @@ msgstr "[[遗骸看管者||113158]]"
 #: summary | https://hsreplay.net/battlegrounds/comps/6/
 msgid "Overflow your board to scale"
 msgstr "挤掉召唤物来成长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/34/
+msgid "Murlocs - Hand Buff"
+msgstr "鱼人 - 手牌Buff"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
+msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] + [[Brann Bronzebeard||96786]] and cycling [[Primalfin Lookout||60028]] and [[Murky||92418]]. Most importantly, you need to buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is nice to have to carry a bunch of keywords for [[Hackerfin||115848]] and Seafood Stews.. Finally, [[Choral Mrrrglr||98948]] is a great way to capture the stats from your hand. \n\n"
+"In this comp, you can never go wrong with as many [[Bassgill||98926]] as possible. You'll always have murlocs you can summon from your hand, like Belcher and [[Reckless Cliffdiver||115836]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
+msgid "[[Brann Bronzebeard||96786]] + Hand buff synergy ([[Bream Counter||98509]]/[[Murkbrine Expeditioner||120687]])"
+msgstr "[[布莱恩·铜须||96786]]+手牌Buff效果([[裁脍鱼人||98509]]/[[浊盐远行者||120687]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/34/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Bream Counter||98509]] + [[Bassgill||98926]]"
+msgstr "[[布莱恩·铜须||96786]]\n"
+"[[裁脍鱼人||98509]] + [[低音提琴鱼人||98926]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/34/
+msgid "Cycle Murlocs to scale Murlocs in hand"
+msgstr "循环使用鱼人扩大手牌中鱼人的属性值"
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-06T01:40:23.450242\n"
+"POT-Creation-Date: 2025-05-17T01:40:24.098400\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Italian\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2025-05-06 12:40\n"
+"PO-Revision-Date: 2025-05-17 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1997,10 +1997,6 @@ msgstr ""
 msgid "Giant Druid"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/145/elemental-mage
-msgid "Elemental Mage"
-msgstr "Mago Elementale"
-
 #: https://hsreplay.net/archetypes/626/tendril-shaman
 msgid "Tendril Shaman"
 msgstr ""
@@ -2248,6 +2244,10 @@ msgstr ""
 #: https://hsreplay.net/archetypes/625/breakfast-hunter
 msgid "Breakfast Hunter"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/145/elemental-mage
+msgid "Elemental Mage"
+msgstr "Mago Elementale"
 
 #: https://hsreplay.net/archetypes/684/sandwich-hunter
 msgid "Sandwich Hunter"
@@ -2711,5 +2711,9 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/795/armor-warlock
 msgid "Armor Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/798/skyla-imbue-mage
+msgid "Skyla Imbue Mage"
 msgstr ""
 

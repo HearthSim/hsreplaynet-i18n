@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-16 01:40\n"
+"POT-Creation-Date: 2025-05-17 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: pl\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-05-16 12:40\n"
+"PO-Revision-Date: 2025-05-17 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/42/
 msgid "Dragons - Spells"
@@ -97,6 +97,27 @@ msgstr ""
 msgid "Buff Nagas in Combat"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/43/
+msgid "Murlocs - Mystic Spells"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/43/
+msgid "Buff Spell then spam them - will update later"
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/43/
+msgid "[[Brann Bronzebeard||96786]] + [[Shoalfin Mystic||120215]] + a way to proc it ([[Rylak Metalhead||98829]]/[[Greenskeeper||113930]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/43/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Shoalfin Mystic||120215]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/43/
+msgid "Buff Spells and cast them"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
 msgstr ""
@@ -135,6 +156,28 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/9/
 msgid "Buff and consume your shop"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Undead - Attack Scaling"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
+msgid "You want to scale Attack Undead, most commonly through [[Drustfallen Butcher||120104]], but it could also be through [[Titus Rivendare||97408]] + [[Anub'arak, Nerubian King||95259]]. Then, you want to have a bunch of summons with [[Eternal Summoner||95263]] and/or [[Deathly Striker||115610]] that have high attack.\n\n"
+"You can reborn your undeads through [[Prosthetic Hand||112364]], and you want to try to use your Butchering spells on [[Mummifier||108992]] and Moroes."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Attack scaling ([[Drustfallen Butcher||120104]]) + Undead summons ([[Deathly Striker||115610]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
+msgid "[[Deathly Striker||115610]] \n"
+"Undead Summons [[Cadaver Caretaker||113158]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Summon high attack Undeads"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/15/
@@ -179,50 +222,6 @@ msgstr ""
 msgid "Summon large beetles"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Murlocs - Hand Buff"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Bream Counter||98509]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] + [[Brann Bronzebeard||96786]] and cycling [[Primalfin Lookout||60028]] and [[Murky||92418]]. Golden [[Bubble Gunner||116178]] is also nice to have with [[Hackerfin||115848]]. Finally, [[Choral Mrrrglr||98948]] is a great way to capture the stats from your hand. \n\n"
-"In this comp, you can never go wrong with as many [[Bassgill||98926]] as possible. You'll always have murlocs you can summon from your hand, like Belcher and [[Reckless Cliffdiver||115836]]."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
-msgid "[[Brann Bronzebeard||96786]] + Hand buff synergy ([[Bream Counter||98509]]/[[Murkbrine Expeditioner||120687]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/34/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Bream Counter||98509]] + [[Bassgill||98926]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Cycle Murlocs to scale Murlocs in hand"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Undead - Attack Scaling"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
-msgid "You want to scale Attack Undead, most commonly through [[Drustfallen Butcher||120104]], but it could also be through [[Titus Rivendare||97408]] + [[Anub'arak, Nerubian King||95259]]. Then, you want to have a bunch of summons with [[Eternal Summoner||95263]] and/or [[Deathly Striker||115610]] that have high attack.\n\n"
-"You can reborn your undeads through [[Prosthetic Hand||112364]], and you want to try to use your Butchering spells on [[Mummifier||108992]] and Moroes."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Attack scaling ([[Drustfallen Butcher||120104]]) + Undead summons ([[Deathly Striker||115610]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
-msgid "[[Deathly Striker||115610]] \n"
-"Undead Summons [[Cadaver Caretaker||113158]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Summon high attack Undeads"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/37/
 msgid "Elementals - Stat scaling"
 msgstr ""
@@ -244,6 +243,22 @@ msgstr ""
 msgid "Buff stat scaling on Elementals."
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Spell Buff/End of Turn"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
+msgid "*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Firescale Hoarder and Nightmare Par-tea Guest are great for spell generation, especially when paired with Brann. Fauna could work Drakkari, and Hawstrider Herald could help with spell generation."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
+msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] or Spell Generation ([[Firescale Hoarder||120213]]/[[Nightmare Par-Tea Guest||120754]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Cast Buffed Spells"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Quilboar - Combat Scaling"
 msgstr ""
@@ -263,22 +278,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Scale up blood gems, unleash them during combat"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Spell Buff"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
-msgid "*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Firescale Hoarder and Nightmare Par-tea Guest are great for spell generation, especially when paired with Brann. Fauna could work Drakkari, and Hawstrider Herald could help with spell generation."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
-msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] or Spell Generation ([[Firescale Hoarder||120213]]/[[Nightmare Par-Tea Guest||120754]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Cast Buffed Spells"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
@@ -341,5 +340,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/6/
 msgid "Overflow your board to scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/34/
+msgid "Murlocs - Hand Buff"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
+msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] + [[Brann Bronzebeard||96786]] and cycling [[Primalfin Lookout||60028]] and [[Murky||92418]]. Most importantly, you need to buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is nice to have to carry a bunch of keywords for [[Hackerfin||115848]] and Seafood Stews.. Finally, [[Choral Mrrrglr||98948]] is a great way to capture the stats from your hand. \n\n"
+"In this comp, you can never go wrong with as many [[Bassgill||98926]] as possible. You'll always have murlocs you can summon from your hand, like Belcher and [[Reckless Cliffdiver||115836]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
+msgid "[[Brann Bronzebeard||96786]] + Hand buff synergy ([[Bream Counter||98509]]/[[Murkbrine Expeditioner||120687]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/34/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Bream Counter||98509]] + [[Bassgill||98926]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/34/
+msgid "Cycle Murlocs to scale Murlocs in hand"
 msgstr ""
 
