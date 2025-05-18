@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-17 01:40\n"
+"POT-Creation-Date: 2025-05-18 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -15,27 +15,7 @@ msgstr ""
 "X-Crowdin-Language: ko\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-05-17 12:40\n"
-
-#: name | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Dragons - Spells"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Cycle spells to scale dragons (will add detail later)"
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/42/
-msgid "[[Fire-forged Evoker||120301]] + Spell Generation ([[Ignition Specialist||105852]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Spell Generation ([[Ignition Specialist||105852]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Play spells to scale Dragons"
-msgstr ""
+"PO-Revision-Date: 2025-05-18 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Poison Scam"
@@ -97,25 +77,44 @@ msgstr ""
 msgid "Buff Nagas in Combat"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Murlocs - Mystic Spells"
+#: name | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Mechs - Automaton (SPECIFIC HEROES)"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Buff Spell then spam them - will update later"
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Reborn your Automaton as soon as possible to start scaling it. Roll on 5 for Kangors, and then you can fill out the rest of your comp with Leeroy."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/43/
-msgid "[[Brann Bronzebeard||96786]] + [[Shoalfin Mystic||120215]] + a way to proc it ([[Rylak Metalhead||98829]]/[[Greenskeeper||113930]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Automaton + Enabled Hero"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/43/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Shoalfin Mystic||120215]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Lich King, Akazamarak (Pack Tactics), and Teron Gorefield"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Buff Spells and cast them"
+#: summary | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Summon large Automatons"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Dragons - Spells"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Scale the ability of your [[Fireforged Evoker||120301]] using a ton of spell generation, which is usually through [[Ignition Specialist||105852]] and maybe [[Brann Bronzebeard||96786]]. Eventually, you'll need [[Persistent Poet||108463]] and/or [[Tarecgosa||72062]] to permanently capture the stats of your Evokers. [[Amber Guardian||95006]] or [[Nadina the Red||60629]] is also nice to give your dragons permanent Divine Shield."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/42/
+msgid "[[Fire-forged Evoker||120301]] + Spell Generation ([[Ignition Specialist||105852]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Spell Generation ([[Ignition Specialist||105852]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Play spells to scale Dragons"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
@@ -222,27 +221,6 @@ msgstr ""
 msgid "Summon large beetles"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Elementals - Stat scaling"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Buff your stat scaling through the [[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]] Combo. Then, if you have Manasurge, cycle every good elemental ([[Sellemental||64038]], [[Windfall Tornado||116738]], [[Refreshing Anomaly||64042]], [[Sand Swirler||119949]]). It's even better if you cycle those cards with [[Brann Bronzebeard||96786]]\n\n"
-"This strategy is the best if you have a way of printing lots of 6 drops. Some trinkets allow this."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/37/
-msgid "[[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]]/[[Unleashed Mana Surge||120674]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/37/
-msgid "[[Drakkari Enchanter||101314]], [[Amplifying Lightspawn||119957]], [[Glowing Cinder||119951]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Buff stat scaling on Elementals."
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Spell Buff/End of Turn"
 msgstr ""
@@ -257,6 +235,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Cast Buffed Spells"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/43/
+msgid "Murlocs - Mystic Menagerie"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/43/
+msgid "Find [[Brann Bronzebeard||96786]] and [[Shoalfin Mystic||120215]] and then either [[Greenskeeper||113930]] or [[Rylak Metalhead||98829]] to constantly proc the mystic. This will scale your spells a lot. Also keep some sort of spell generation on your board, for example [[Firescale Hoarder||120213]] or [[Nightmare Par-tea Guest||120754]]. Once you feel like your spells are big enough, solely focus on spell generation using your Rylak/Greenskeepers setup."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/43/
+msgid "[[Brann Bronzebeard||96786]] + [[Shoalfin Mystic||120215]] + a way to proc it ([[Rylak Metalhead||98829]]/[[Greenskeeper||113930]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/43/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Shoalfin Mystic||120215]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/43/
+msgid "Buff Spells and cast them"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/17/
@@ -306,7 +305,7 @@ msgid "Nagas - Groundbreaker"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/20/
-msgid "After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Warden of Old||65660]]. Brann and Coilskar Sapper are very effective spell generation as well."
+msgid "After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Warden of Old||65660]]. Brann and Coilskar Sapper are very effective spell generation as well. In the end game, sell your small units with ending units such as [[Leeroy the Reckless||90425]]/"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/20/
@@ -322,24 +321,25 @@ msgstr ""
 msgid "Play spells and nagas to scale"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Undead - Overflow"
+#: name | https://hsreplay.net/battlegrounds/comps/37/
+msgid "Elementals - Stat scaling"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid "BEST PLAYED WITH BEASTS! When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/37/
+msgid "Buff your stat scaling through the [[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]] Combo. Then, if you have Manasurge, cycle every good elemental ([[Sellemental||64038]], [[Windfall Tornado||116738]], [[Refreshing Anomaly||64042]], [[Sand Swirler||119949]]). It's even better if you cycle those cards with [[Brann Bronzebeard||96786]]\n\n"
+"This strategy is the best if you have a way of printing lots of 6 drops. Some trinkets allow this."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/37/
+msgid "[[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]]/[[Unleashed Mana Surge||120674]]"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
-msgid "[[Cadaver Caretaker||113158]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/37/
+msgid "[[Drakkari Enchanter||101314]], [[Amplifying Lightspawn||119957]], [[Glowing Cinder||119951]]"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow your board to scale"
+#: summary | https://hsreplay.net/battlegrounds/comps/37/
+msgid "Buff stat scaling on Elementals."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
@@ -362,5 +362,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Cycle Murlocs to scale Murlocs in hand"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Undead - Overflow"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
+msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else.\n\n"
+"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
+msgid "[[Cadaver Caretaker||113158]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow your board to scale"
 msgstr ""
 

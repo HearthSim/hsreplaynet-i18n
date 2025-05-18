@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-17 01:40\n"
+"POT-Creation-Date: 2025-05-18 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,27 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-05-17 12:40\n"
-
-#: name | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Dragons - Spells"
-msgstr "龙 - 法术"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Cycle spells to scale dragons (will add detail later)"
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/42/
-msgid "[[Fire-forged Evoker||120301]] + Spell Generation ([[Ignition Specialist||105852]])"
-msgstr "[[火铸唤魔师||120301]] + 酒馆法术生成器 ([[生火专家||105852]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Spell Generation ([[Ignition Specialist||105852]])"
-msgstr "酒馆法术生成器 ([[生火专家||105852]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Play spells to scale Dragons"
-msgstr "释放酒馆法术扩大龙的属性"
+"PO-Revision-Date: 2025-05-18 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Poison Scam"
@@ -97,26 +77,45 @@ msgstr "纳迦中期过渡([[杂耍奇术师||115563]]/[[库斯卡工兵||120565
 msgid "Buff Nagas in Combat"
 msgstr "在战斗中Buff娜迦"
 
-#: name | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Murlocs - Mystic Spells"
+#: name | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Mechs - Automaton (SPECIFIC HEROES)"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Buff Spell then spam them - will update later"
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Reborn your Automaton as soon as possible to start scaling it. Roll on 5 for Kangors, and then you can fill out the rest of your comp with Leeroy."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/43/
-msgid "[[Brann Bronzebeard||96786]] + [[Shoalfin Mystic||120215]] + a way to proc it ([[Rylak Metalhead||98829]]/[[Greenskeeper||113930]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Automaton + Enabled Hero"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/43/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Shoalfin Mystic||120215]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Lich King, Akazamarak (Pack Tactics), and Teron Gorefield"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Buff Spells and cast them"
+#: summary | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Summon large Automatons"
 msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Dragons - Spells"
+msgstr "龙 - 法术"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Scale the ability of your [[Fireforged Evoker||120301]] using a ton of spell generation, which is usually through [[Ignition Specialist||105852]] and maybe [[Brann Bronzebeard||96786]]. Eventually, you'll need [[Persistent Poet||108463]] and/or [[Tarecgosa||72062]] to permanently capture the stats of your Evokers. [[Amber Guardian||95006]] or [[Nadina the Red||60629]] is also nice to give your dragons permanent Divine Shield."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/42/
+msgid "[[Fire-forged Evoker||120301]] + Spell Generation ([[Ignition Specialist||105852]])"
+msgstr "[[火铸唤魔师||120301]] + 酒馆法术生成器 ([[生火专家||105852]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Spell Generation ([[Ignition Specialist||105852]])"
+msgstr "酒馆法术生成器 ([[生火专家||105852]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Play spells to scale Dragons"
+msgstr "释放酒馆法术扩大龙的属性"
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
@@ -226,28 +225,6 @@ msgstr "[[绿松石飞掠虫||119255]], [[符文虫祖||117499]]"
 msgid "Summon large beetles"
 msgstr "召唤大甲虫"
 
-#: name | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Elementals - Stat scaling"
-msgstr "元素 - 属性成长"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Buff your stat scaling through the [[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]] Combo. Then, if you have Manasurge, cycle every good elemental ([[Sellemental||64038]], [[Windfall Tornado||116738]], [[Refreshing Anomaly||64042]], [[Sand Swirler||119949]]). It's even better if you cycle those cards with [[Brann Bronzebeard||96786]]\n\n"
-"This strategy is the best if you have a way of printing lots of 6 drops. Some trinkets allow this."
-msgstr "通过[[增强的光耀之子||119957]] + [[达卡莱附魔师||101314]]的组合增强你的属性值。如果你有狂放的法力涌流，循环使用每种优秀的元素（[[商贩元素||64038]], [[骤落飓风||116738]], [[刷新畸体||64042]], [[沙尘旋流||119949]]）。你的属性值也会影响到[[铸霜者洛克霍拉||119955]]，如果配合[[布莱恩·铜须||96786]]效果会更好。\n\n"
-"如果你有办法获得大量的6级随从，那么这个策略就是最好的。有些饰品就可以做到这一点。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/37/
-msgid "[[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]]/[[Unleashed Mana Surge||120674]]"
-msgstr "[[增强的光耀之子||119957]] + [[达卡莱附魔师||101314]]/[[狂放的法力涌流||120674]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/37/
-msgid "[[Drakkari Enchanter||101314]], [[Amplifying Lightspawn||119957]], [[Glowing Cinder||119951]]"
-msgstr "[[达卡莱附魔师||101314]], [[增强的光耀之子||119957]], [[辐光余烬||119951]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Buff stat scaling on Elementals."
-msgstr "对元素的属性值进行Buff。"
-
 #: name | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Spell Buff/End of Turn"
 msgstr ""
@@ -263,6 +240,27 @@ msgstr "[[邪火咒龙||120299]] + [[达卡莱附魔师||101314]] 或酒馆法�
 #: summary | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Cast Buffed Spells"
 msgstr "施放Buff过的酒馆法术"
+
+#: name | https://hsreplay.net/battlegrounds/comps/43/
+msgid "Murlocs - Mystic Menagerie"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/43/
+msgid "Find [[Brann Bronzebeard||96786]] and [[Shoalfin Mystic||120215]] and then either [[Greenskeeper||113930]] or [[Rylak Metalhead||98829]] to constantly proc the mystic. This will scale your spells a lot. Also keep some sort of spell generation on your board, for example [[Firescale Hoarder||120213]] or [[Nightmare Par-tea Guest||120754]]. Once you feel like your spells are big enough, solely focus on spell generation using your Rylak/Greenskeepers setup."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/43/
+msgid "[[Brann Bronzebeard||96786]] + [[Shoalfin Mystic||120215]] + a way to proc it ([[Rylak Metalhead||98829]]/[[Greenskeeper||113930]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/43/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Shoalfin Mystic||120215]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/43/
+msgid "Buff Spells and cast them"
+msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Quilboar - Combat Scaling"
@@ -313,8 +311,8 @@ msgid "Nagas - Groundbreaker"
 msgstr "纳迦 - 碎地者"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/20/
-msgid "After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Warden of Old||65660]]. Brann and Coilskar Sapper are very effective spell generation as well."
-msgstr "在拥有至少2个碎地者后循环使用每一个效果不错的纳迦，例如[[贝类收藏家||80740]]和[[古神的卫士||65660]]。布莱恩·铜须和库斯卡工兵也是非常棒的法术生成器。"
+msgid "After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Warden of Old||65660]]. Brann and Coilskar Sapper are very effective spell generation as well. In the end game, sell your small units with ending units such as [[Leeroy the Reckless||90425]]/"
+msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/20/
 msgid "[[Darkcrest Strategist||115555]]/[[Coilskar Sapper||120565]] plus [[Groundbreaker||114816]]"
@@ -330,25 +328,27 @@ msgstr "[[暗潮战略专家||115555]]\n"
 msgid "Play spells and nagas to scale"
 msgstr "打出法术和纳迦来成长"
 
-#: name | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Undead - Overflow"
-msgstr "亡灵 - 挤爆"
+#: name | https://hsreplay.net/battlegrounds/comps/37/
+msgid "Elementals - Stat scaling"
+msgstr "元素 - 属性成长"
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid "BEST PLAYED WITH BEASTS! When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else."
-msgstr "最好与野兽一起使用！当[[遗骸看管者||113158]]亡语被触发时，它会通过[[提图斯·瑞文戴尔||97408]] + [[古墓捣蛋鬼||114379]]组合为你的整个棋盘加Buff。继续购买本流派的其余核心/附加组件，不要购买其他任何东西。"
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/37/
+msgid "Buff your stat scaling through the [[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]] Combo. Then, if you have Manasurge, cycle every good elemental ([[Sellemental||64038]], [[Windfall Tornado||116738]], [[Refreshing Anomaly||64042]], [[Sand Swirler||119949]]). It's even better if you cycle those cards with [[Brann Bronzebeard||96786]]\n\n"
+"This strategy is the best if you have a way of printing lots of 6 drops. Some trinkets allow this."
+msgstr "通过[[增强的光耀之子||119957]] + [[达卡莱附魔师||101314]]的组合增强你的属性值。如果你有狂放的法力涌流，循环使用每种优秀的元素（[[商贩元素||64038]], [[骤落飓风||116738]], [[刷新畸体||64042]], [[沙尘旋流||119949]]）。你的属性值也会影响到[[铸霜者洛克霍拉||119955]]，如果配合[[布莱恩·铜须||96786]]效果会更好。\n\n"
+"如果你有办法获得大量的6级随从，那么这个策略就是最好的。有些饰品就可以做到这一点。"
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
-msgstr "挤爆随从([[遗骸看管者||113158]]) + [[古墓捣蛋鬼||114379]]"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/37/
+msgid "[[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]]/[[Unleashed Mana Surge||120674]]"
+msgstr "[[增强的光耀之子||119957]] + [[达卡莱附魔师||101314]]/[[狂放的法力涌流||120674]]"
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
-msgid "[[Cadaver Caretaker||113158]]"
-msgstr "[[遗骸看管者||113158]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/37/
+msgid "[[Drakkari Enchanter||101314]], [[Amplifying Lightspawn||119957]], [[Glowing Cinder||119951]]"
+msgstr "[[达卡莱附魔师||101314]], [[增强的光耀之子||119957]], [[辐光余烬||119951]]"
 
-#: summary | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow your board to scale"
-msgstr "挤掉召唤物来成长"
+#: summary | https://hsreplay.net/battlegrounds/comps/37/
+msgid "Buff stat scaling on Elementals."
+msgstr "对元素的属性值进行Buff。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - Hand Buff"
@@ -372,4 +372,25 @@ msgstr "[[布莱恩·铜须||96786]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Cycle Murlocs to scale Murlocs in hand"
 msgstr "循环使用鱼人扩大手牌中鱼人的属性值"
+
+#: name | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Undead - Overflow"
+msgstr "亡灵 - 挤爆"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
+msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else.\n\n"
+"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+msgstr "挤爆随从([[遗骸看管者||113158]]) + [[古墓捣蛋鬼||114379]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
+msgid "[[Cadaver Caretaker||113158]]"
+msgstr "[[遗骸看管者||113158]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow your board to scale"
+msgstr "挤掉召唤物来成长"
 
