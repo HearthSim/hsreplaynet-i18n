@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-18 01:40\n"
+"POT-Creation-Date: 2025-05-19 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -35,6 +35,30 @@ msgstr ""
 msgid "Buy scam cards and try to preserve placements"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Nagas - Deathrattle"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/40/
+msgid ""
+"Generate a ton of spellcrafts to play using reborned [[Coilskar "
+"Sapper||120565]]. The strength of your board comes from reborning [[Showy "
+"Cyclist||115565]] + [[Titus Rivendare||97408]], which buffs your nagas a lot"
+" in combat."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/40/
+msgid "[[Showy Cyclist||115565]] + [[Coilskar Sapper||120565]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Naga Midgame ([[Thaumaturgist||115563]]/[[Coilskar Sapper||120565]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Buff Nagas in Combat"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Mechs - Magnetics"
 msgstr ""
@@ -58,30 +82,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Put huge magnetics on premium Mechs"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Nagas - Deathrattle"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/40/
-msgid ""
-"Generate a ton of spellcrafts to play using reborned [[Coilskar "
-"Sapper||120565]]. The strength of your board comes from reborning [[Showy "
-"Cyclist||115565]] + [[Titus Rivendare||97408]], which buffs your nagas a lot"
-" in combat."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/40/
-msgid "[[Showy Cyclist||115565]] + [[Coilskar Sapper||120565]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Naga Midgame ([[Thaumaturgist||115563]]/[[Coilskar Sapper||120565]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Buff Nagas in Combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/32/
@@ -373,6 +373,59 @@ msgstr ""
 msgid "Spend lots of gold to scale"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Mechs - Divine Shield"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/21/
+msgid ""
+"After you have your [[Charging Czarina||110321]] setup, then you should buy "
+"every single spell that effectively costs 1 gold, such as [[Careful "
+"Investment||103779]] and [[Enchanted Lasso||104502]]. Your spell generation "
+"comes from [[Marquee Ticker||115680]] or [[Nightmare Par-tea Guest||120754]]"
+" and gives you additional scaling. [[Holo rover||115674]] is also necessary "
+"to this comp because it will generate Divine Shields, reborns, and "
+"automatons for all your mechs."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/21/
+msgid ""
+"[[Charging Czarina||110321]] + Divine Shields ([[Holo Rover||115674]], "
+"[[Grease bot||72389]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Divine Shields ([[Deflect-o-bot||61930]], [[Grease bot||72389]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Play spells to buff Mechs"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Undead - Overflow"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
+msgid ""
+"When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else.\n"
+"\n"
+"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
+msgid ""
+"Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
+msgid "[[Cadaver Caretaker||113158]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow your board to scale"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/20/
 msgid "Nagas - Groundbreaker"
 msgstr ""
@@ -454,28 +507,4 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Cycle Murlocs to scale Murlocs in hand"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Undead - Overflow"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid ""
-"When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else.\n"
-"\n"
-"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
-msgid ""
-"Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
-msgid "[[Cadaver Caretaker||113158]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow your board to scale"
 msgstr ""
