@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-18 01:40\n"
+"POT-Creation-Date: 2025-05-19 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-05-18 12:40\n"
+"PO-Revision-Date: 2025-05-19 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Poison Scam"
@@ -37,26 +37,6 @@ msgstr "快被淘汰了"
 msgid "Buy scam cards and try to preserve placements"
 msgstr "购买下毒卡牌，试图吃烂分"
 
-#: name | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Mechs - Magnetics"
-msgstr "机械 - 磁力"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Generate a ton of [[Dr. Boom's Monster||115676]] through an early [[Holo Rover||115674]], then put the Boom Monsters on either the Rover or [[Deflect-o-bot||61930]]. Then, you may cycle every single cheap spell with a [[Charging Czarina||110321]] setup. This will make your Boom Monster's huge."
-msgstr "通过[[移动投影仪||1115674]]生成一堆[[砰砰博士的怪物||1115676]]，然后将砰砰博士的怪物磁力吸附在投影仪或[[偏折机器人||61930]]上。 然后配合[[蓄能女沙皇||110321]]来刷每一个便宜的酒馆法术。这将使你的砰砰博士的怪物变大。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Holo Rover||115674]] + [[Electron, Powered Up||120029]]"
-msgstr "[[移动投影仪||115674]] + [[充能的电荷金刚||120029]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Holo Rover||115674]]"
-msgstr "[[移动投影仪||115674]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Put huge magnetics on premium Mechs"
-msgstr "将巨型磁力吸附在高级机械上"
-
 #: name | https://hsreplay.net/battlegrounds/comps/40/
 msgid "Nagas - Deathrattle"
 msgstr "娜迦 - 亡语"
@@ -77,25 +57,45 @@ msgstr "纳迦中期过渡([[杂耍奇术师||115563]]/[[库斯卡工兵||120565
 msgid "Buff Nagas in Combat"
 msgstr "在战斗中Buff娜迦"
 
+#: name | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Mechs - Magnetics"
+msgstr "机械 - 磁力"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Generate a ton of [[Dr. Boom's Monster||115676]] through an early [[Holo Rover||115674]], then put the Boom Monsters on either the Rover or [[Deflect-o-bot||61930]]. Then, you may cycle every single cheap spell with a [[Charging Czarina||110321]] setup. This will make your Boom Monster's huge."
+msgstr "通过[[移动投影仪||1115674]]生成一堆[[砰砰博士的怪物||1115676]]，然后将砰砰博士的怪物磁力吸附在投影仪或[[偏折机器人||61930]]上。 然后配合[[蓄能女沙皇||110321]]来刷每一个便宜的酒馆法术。这将使你的砰砰博士的怪物变大。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Holo Rover||115674]] + [[Electron, Powered Up||120029]]"
+msgstr "[[移动投影仪||115674]] + [[充能的电荷金刚||120029]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Holo Rover||115674]]"
+msgstr "[[移动投影仪||115674]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Put huge magnetics on premium Mechs"
+msgstr "将巨型磁力吸附在高级机械上"
+
 #: name | https://hsreplay.net/battlegrounds/comps/32/
 msgid "Mechs - Automaton (SPECIFIC HEROES)"
-msgstr ""
+msgstr "机械机械 - 星元自动机（特定英雄）"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/32/
 msgid "Reborn your Automaton as soon as possible to start scaling it. Roll on 5 for Kangors, and then you can fill out the rest of your comp with Leeroy."
-msgstr ""
+msgstr "尽快使你的星元自动机获得复生并开始成长。在5级酒馆找坎格尔，然后用火车王填补剩余的位置。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/32/
 msgid "Automaton + Enabled Hero"
-msgstr ""
+msgstr "星元自动机 + 特定英雄"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/32/
 msgid "Lich King, Akazamarak (Pack Tactics), and Teron Gorefield"
-msgstr ""
+msgstr "巫妖王，阿卡扎曼扎拉克（集群战术），塔隆·血魔"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/32/
 msgid "Summon large Automatons"
-msgstr ""
+msgstr "召唤大型星元自动机"
 
 #: name | https://hsreplay.net/battlegrounds/comps/42/
 msgid "Dragons - Spells"
@@ -227,7 +227,7 @@ msgstr "召唤大甲虫"
 
 #: name | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Spell Buff/End of Turn"
-msgstr ""
+msgstr "酒馆法术Buff/回合结束时"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
 msgid "*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Firescale Hoarder and Nightmare Par-tea Guest are great for spell generation, especially when paired with Brann. Fauna could work Drakkari, and Hawstrider Herald could help with spell generation."
@@ -243,7 +243,7 @@ msgstr "施放Buff过的酒馆法术"
 
 #: name | https://hsreplay.net/battlegrounds/comps/43/
 msgid "Murlocs - Mystic Menagerie"
-msgstr ""
+msgstr "鱼人 - 秘法师喝茶"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/43/
 msgid "Find [[Brann Bronzebeard||96786]] and [[Shoalfin Mystic||120215]] and then either [[Greenskeeper||113930]] or [[Rylak Metalhead||98829]] to constantly proc the mystic. This will scale your spells a lot. Also keep some sort of spell generation on your board, for example [[Firescale Hoarder||120213]] or [[Nightmare Par-tea Guest||120754]]. Once you feel like your spells are big enough, solely focus on spell generation using your Rylak/Greenskeepers setup."
@@ -305,6 +305,47 @@ msgstr "[[布莱恩·铜须||96786]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Spend lots of gold to scale"
 msgstr "花费大量铸币来成长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Mechs - Divine Shield"
+msgstr "机械 - 圣盾"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/21/
+msgid "After you have your [[Charging Czarina||110321]] setup, then you should buy every single spell that effectively costs 1 gold, such as [[Careful Investment||103779]] and [[Enchanted Lasso||104502]]. Your spell generation comes from [[Marquee Ticker||115680]] or [[Nightmare Par-tea Guest||120754]] and gives you additional scaling. [[Holo rover||115674]] is also necessary to this comp because it will generate Divine Shields, reborns, and automatons for all your mechs."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/21/
+msgid "[[Charging Czarina||110321]] + Divine Shields ([[Holo Rover||115674]], [[Grease bot||72389]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Divine Shields ([[Deflect-o-bot||61930]], [[Grease bot||72389]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Play spells to buff Mechs"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Undead - Overflow"
+msgstr "亡灵 - 挤爆"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
+msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else.\n\n"
+"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+msgstr "挤爆随从([[遗骸看管者||113158]]) + [[古墓捣蛋鬼||114379]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
+msgid "[[Cadaver Caretaker||113158]]"
+msgstr "[[遗骸看管者||113158]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow your board to scale"
+msgstr "挤掉召唤物来成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/20/
 msgid "Nagas - Groundbreaker"
@@ -372,25 +413,4 @@ msgstr "[[布莱恩·铜须||96786]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Cycle Murlocs to scale Murlocs in hand"
 msgstr "循环使用鱼人扩大手牌中鱼人的属性值"
-
-#: name | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Undead - Overflow"
-msgstr "亡灵 - 挤爆"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else.\n\n"
-"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
-msgstr "挤爆随从([[遗骸看管者||113158]]) + [[古墓捣蛋鬼||114379]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
-msgid "[[Cadaver Caretaker||113158]]"
-msgstr "[[遗骸看管者||113158]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow your board to scale"
-msgstr "挤掉召唤物来成长"
 
