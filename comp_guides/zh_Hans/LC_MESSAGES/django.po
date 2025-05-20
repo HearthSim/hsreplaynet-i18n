@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-05-19 12:40\n"
+"PO-Revision-Date: 2025-05-20 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Poison Scam"
@@ -79,7 +79,7 @@ msgstr "将巨型磁力吸附在高级机械上"
 
 #: name | https://hsreplay.net/battlegrounds/comps/32/
 msgid "Mechs - Automaton (SPECIFIC HEROES)"
-msgstr "机械机械 - 星元自动机（特定英雄）"
+msgstr "机械 - 星元自动机（特定英雄）"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/32/
 msgid "Reborn your Automaton as soon as possible to start scaling it. Roll on 5 for Kangors, and then you can fill out the rest of your comp with Leeroy."
@@ -103,7 +103,7 @@ msgstr "龙 - 法术"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/42/
 msgid "Scale the ability of your [[Fireforged Evoker||120301]] using a ton of spell generation, which is usually through [[Ignition Specialist||105852]] and maybe [[Brann Bronzebeard||96786]]. Eventually, you'll need [[Persistent Poet||108463]] and/or [[Tarecgosa||72062]] to permanently capture the stats of your Evokers. [[Amber Guardian||95006]] or [[Nadina the Red||60629]] is also nice to give your dragons permanent Divine Shield."
-msgstr ""
+msgstr "使用大量的酒馆法术来增强你的[[火铸唤魔师||120301]]的能力，通常是通过[[生火专家||105852]]和[[布莱恩·铜须||96786]]。最终你需要通过[[执念诗心龙||108463]]和/或[[泰蕾苟萨||72062]]来永久获取火铸唤魔师的属性。[[琥珀卫士||95006]]或[[红衣纳迪娜||60629]]也可以为你的龙提供永久的圣盾。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/42/
 msgid "[[Fire-forged Evoker||120301]] + Spell Generation ([[Ignition Specialist||105852]])"
@@ -247,20 +247,21 @@ msgstr "鱼人 - 秘法师喝茶"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/43/
 msgid "Find [[Brann Bronzebeard||96786]] and [[Shoalfin Mystic||120215]] and then either [[Greenskeeper||113930]] or [[Rylak Metalhead||98829]] to constantly proc the mystic. This will scale your spells a lot. Also keep some sort of spell generation on your board, for example [[Firescale Hoarder||120213]] or [[Nightmare Par-tea Guest||120754]]. Once you feel like your spells are big enough, solely focus on spell generation using your Rylak/Greenskeepers setup."
-msgstr ""
+msgstr "找到[[布莱恩·铜须||96786]]和[[浅鳍秘法师||120215]]，然后找到[[护植绿龙||113930]]或[[重金属双头飞龙||98829]]来不断地触发浅鳍秘法师。这将大大提高你的酒馆法术属性加成。同时在你的棋盘上保留一些法术生成器，例如[[火鳞囤积者||120213]]或[[梦魇茶客||120754]]。一旦你觉得你的酒馆法术加成足够大了，就可以将你的双头飞龙/护植绿龙用于触发法术生成了。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/43/
 msgid "[[Brann Bronzebeard||96786]] + [[Shoalfin Mystic||120215]] + a way to proc it ([[Rylak Metalhead||98829]]/[[Greenskeeper||113930]])"
-msgstr ""
+msgstr "[[布莱恩·铜须||96786]] + [[浅鳍秘法师||120215]] + 再触发战吼([[重金属双头飞龙||98829]]/[[护植绿龙||113930]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/43/
 msgid "[[Brann Bronzebeard||96786]]\n"
 "[[Shoalfin Mystic||120215]]"
-msgstr ""
+msgstr "[[布莱恩·铜须||96786]]\n"
+"[[浅鳍秘法师||120215]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/43/
 msgid "Buff Spells and cast them"
-msgstr ""
+msgstr "Buff酒馆法术并释放它们"
 
 #: name | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Quilboar - Combat Scaling"
@@ -312,19 +313,19 @@ msgstr "机械 - 圣盾"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/21/
 msgid "After you have your [[Charging Czarina||110321]] setup, then you should buy every single spell that effectively costs 1 gold, such as [[Careful Investment||103779]] and [[Enchanted Lasso||104502]]. Your spell generation comes from [[Marquee Ticker||115680]] or [[Nightmare Par-tea Guest||120754]] and gives you additional scaling. [[Holo rover||115674]] is also necessary to this comp because it will generate Divine Shields, reborns, and automatons for all your mechs."
-msgstr ""
+msgstr "当你拥有 [[蓄能女沙皇||110321]] 后，购买每个仅耗费1铸币的法术，如 [[慎重投资||103779]] 和 [[附魔链索||104502]]。[[招牌计时机||115680] 或 [[梦魇茶客||120754]] 生成的法术可以获得额外加成。[[移动投影仪||115674]] 也是此流派的必备，因为它可以为你的机械生成圣盾，复生和星元机磁力组件。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/21/
 msgid "[[Charging Czarina||110321]] + Divine Shields ([[Holo Rover||115674]], [[Grease bot||72389]])"
-msgstr ""
+msgstr "[[蓄能女沙皇||110321]] + 圣盾随从 ([[偏折机器人||61930]], [[滑油机器人||72389]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Divine Shields ([[Deflect-o-bot||61930]], [[Grease bot||72389]])"
-msgstr ""
+msgstr "圣盾随从 ([[偏折机器人||61930]], [[滑油机器人||72389]])"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Play spells to buff Mechs"
-msgstr ""
+msgstr "释放酒馆法术来Buff机械"
 
 #: name | https://hsreplay.net/battlegrounds/comps/6/
 msgid "Undead - Overflow"
@@ -333,7 +334,8 @@ msgstr "亡灵 - 挤爆"
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
 msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else.\n\n"
 "The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
-msgstr ""
+msgstr "当[[遗骸看管者||113158]]亡语被触发时，它会通过[[提图斯·瑞文戴尔||97408]] + [[古墓捣蛋鬼||114379]]组合为你的整个棋盘加Buff。继续购买本流派的其余核心/附加组件，不要购买其他任何东西。\n\n"
+"这个流派的典型终局棋盘状态是在布兰契非常大的时候对其使用克尔苏加德。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
 msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
@@ -353,7 +355,7 @@ msgstr "纳迦 - 碎地者"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/20/
 msgid "After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Warden of Old||65660]]. Brann and Coilskar Sapper are very effective spell generation as well. In the end game, sell your small units with ending units such as [[Leeroy the Reckless||90425]]/"
-msgstr ""
+msgstr "在拥有至少2个碎地者后循环使用每一个效果不错的纳迦，例如[[贝类收藏家||80740]]和[[古神的卫士||65660]]。布莱恩·铜须和库斯卡工兵也是非常棒的法术生成器。在决赛局，将小型随从出售换成决赛随从（如[[莽神火车王||90425]]）。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/20/
 msgid "[[Darkcrest Strategist||115555]]/[[Coilskar Sapper||120565]] plus [[Groundbreaker||114816]]"
@@ -398,7 +400,8 @@ msgstr "鱼人 - 手牌Buff"
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] + [[Brann Bronzebeard||96786]] and cycling [[Primalfin Lookout||60028]] and [[Murky||92418]]. Most importantly, you need to buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is nice to have to carry a bunch of keywords for [[Hackerfin||115848]] and Seafood Stews.. Finally, [[Choral Mrrrglr||98948]] is a great way to capture the stats from your hand. \n\n"
 "In this comp, you can never go wrong with as many [[Bassgill||98926]] as possible. You'll always have murlocs you can summon from your hand, like Belcher and [[Reckless Cliffdiver||115836]]."
-msgstr ""
+msgstr "准备一个吃Buff专用的鱼人，把你所有的手牌Buff都加在它身上。通常是[[好斗的斥候||120677]]，但也可以是[[歌剧异术家||101316]]。然后使用[[浊盐远行者||120687]]+[[布莱恩·铜须||96786]]的组合来给这个鱼人加buff。并循环使用[[蛮鱼斥候||60028]]和[[奔波尔霸||92418]]。最重要的是，你需要用[[浅鳍秘法师||120215]]给酒馆法术加buff，所以每一个[[戈姆蛴食客||120689]]都会给你的浊盐远行者带来大量的属性加成。金色的[[气泡枪手||116178]]或[[鳛芙的学徒||120681]]可以为[[黑客鱼人||115848]]和海鲜乱炖带大量关键字。最后[[合唱鱼人||98948]]是获取手牌鱼人身上数值的好方法。\n\n"
+"在这个流派中尽可能多地使用[[低音提琴鱼人||98926]]是绝对不会出错的。你总能从手牌中召唤出一些鱼人，比如歌剧异术家和[[鲁莽的跳崖鱼人||115836]]。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
 msgid "[[Brann Bronzebeard||96786]] + Hand buff synergy ([[Bream Counter||98509]]/[[Murkbrine Expeditioner||120687]])"

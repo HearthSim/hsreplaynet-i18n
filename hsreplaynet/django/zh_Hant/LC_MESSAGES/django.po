@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-13 01:40+0000\n"
-"PO-Revision-Date: 2025-05-13 12:40\n"
+"POT-Creation-Date: 2025-05-20 01:40+0000\n"
+"PO-Revision-Date: 2025-05-20 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -63,29 +63,21 @@ msgstr "{input}不是{enum}的有效分類。"
 msgid "{tribe_name} - {instance.name}"
 msgstr ""
 
-#: api/views/features.py:33
-msgid "Code has already been used."
-msgstr "這個代碼已被使用"
+#: api/views/accounts.py:355
+msgid "Code has been applied to your account. Your existing subscription has been extended."
+msgstr ""
 
-#: api/views/features.py:35
-msgid "Code does not apply to this account."
-msgstr "這個代碼無法使用於這個帳戶"
-
-#: api/views/features.py:37
-msgid "Code has not been activated yet."
-msgstr "金鑰尚未使用。"
-
-#: api/views/features.py:46
-msgid "Code is invalid or has expired."
-msgstr "此金鑰不存在或已過期。"
-
-#: api/views/features.py:50
-msgid "Code did not affect this account and remains valid."
-msgstr "金鑰啟用失敗，但可以在其他帳戶使用。"
-
-#: api/views/features.py:52
+#: api/views/accounts.py:360 api/views/accounts.py:394
 msgid "Code has been applied to your account."
 msgstr "金鑰啟用成功。"
+
+#: api/views/accounts.py:382
+msgid "This code is unknown."
+msgstr ""
+
+#: api/views/accounts.py:387
+msgid "You have already applied this code to your account."
+msgstr ""
 
 #: settings.py:411
 msgid "Full access to your HSReplay.net account"
@@ -433,7 +425,7 @@ msgstr "與暴雪娛樂沒有任何關係。"
 
 #: templates/footer.html:64 templates/navigation.html:67
 #: templates/navigation.html:163 templates/navigation.html:211
-#: web/views/__init__.py:176
+#: web/views/__init__.py:175
 msgid "Downloads"
 msgstr "下載"
 
@@ -661,51 +653,55 @@ msgstr ""
 msgid "You cannot remove the last account you can sign in with. Instead, you can delete your HSReplay.net account entirely."
 msgstr ""
 
-#: web/views/__init__.py:19
+#: web/views/__init__.py:18
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr "從瀏覽器上直接觀看並分享爐石重播。探索以百萬計的套牌進階數據。"
 
-#: web/views/__init__.py:25
+#: web/views/__init__.py:24
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - 釋放你的潛力"
 
-#: web/views/__init__.py:117
+#: web/views/__init__.py:116
 msgid "Sign in to HSReplay.net"
 msgstr ""
 
-#: web/views/__init__.py:164
+#: web/views/__init__.py:163
 msgid "Download Hearthstone Deck Tracker"
 msgstr ""
 
-#: web/views/__init__.py:166
+#: web/views/__init__.py:165
 msgid "HSReplay.net Companion App"
 msgstr ""
 
-#: web/views/__init__.py:168
+#: web/views/__init__.py:167
 msgid "Hearthstone Deck Tracker is a free companion app to help you play like the pros."
 msgstr ""
 
-#: web/views/__init__.py:229
+#: web/views/__init__.py:228
 msgid "Contact our Support Team"
 msgstr ""
 
-#: web/views/__init__.py:231
+#: web/views/__init__.py:230
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr ""
 
-#: web/views/__init__.py:289
+#: web/views/__init__.py:279
+msgid "Redeem a Code"
+msgstr ""
+
+#: web/views/__init__.py:290
 msgid "Welcome to HSReplay.net"
 msgstr ""
 
-#: web/views/__init__.py:291
+#: web/views/__init__.py:292
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr ""
 
-#: web/views/__init__.py:302
+#: web/views/__init__.py:303
 msgid "Welcome to Hearthstone Deck Tracker"
 msgstr ""
 
-#: web/views/__init__.py:304
+#: web/views/__init__.py:305
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
 msgstr ""
 

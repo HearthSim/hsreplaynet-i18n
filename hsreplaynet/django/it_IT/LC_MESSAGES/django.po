@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-13 01:40+0000\n"
-"PO-Revision-Date: 2025-05-13 12:40\n"
+"POT-Creation-Date: 2025-05-20 01:40+0000\n"
+"PO-Revision-Date: 2025-05-20 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -63,29 +63,21 @@ msgstr "{input} non è un membro valido di {enum}."
 msgid "{tribe_name} - {instance.name}"
 msgstr ""
 
-#: api/views/features.py:33
-msgid "Code has already been used."
-msgstr "Il codice è già stato utilizzato."
+#: api/views/accounts.py:355
+msgid "Code has been applied to your account. Your existing subscription has been extended."
+msgstr ""
 
-#: api/views/features.py:35
-msgid "Code does not apply to this account."
-msgstr "Il codice non si applica a questo account."
-
-#: api/views/features.py:37
-msgid "Code has not been activated yet."
-msgstr "Il codice non è stato ancora attivato."
-
-#: api/views/features.py:46
-msgid "Code is invalid or has expired."
-msgstr "Codice non valido o scaduto."
-
-#: api/views/features.py:50
-msgid "Code did not affect this account and remains valid."
-msgstr "Il codice non ha influenzato l'account e rimane valido."
-
-#: api/views/features.py:52
+#: api/views/accounts.py:360 api/views/accounts.py:394
 msgid "Code has been applied to your account."
 msgstr "Il codice è stato applicato al tuo account."
+
+#: api/views/accounts.py:382
+msgid "This code is unknown."
+msgstr ""
+
+#: api/views/accounts.py:387
+msgid "You have already applied this code to your account."
+msgstr ""
 
 #: settings.py:411
 msgid "Full access to your HSReplay.net account"
@@ -430,7 +422,7 @@ msgstr "Non affiliato a Blizzard Entertainment."
 
 #: templates/footer.html:64 templates/navigation.html:67
 #: templates/navigation.html:163 templates/navigation.html:211
-#: web/views/__init__.py:176
+#: web/views/__init__.py:175
 msgid "Downloads"
 msgstr "Downloads"
 
@@ -658,51 +650,55 @@ msgstr "Nessun nuovo endpoint può essere aggiunto. Per il momento continueremo 
 msgid "You cannot remove the last account you can sign in with. Instead, you can delete your HSReplay.net account entirely."
 msgstr ""
 
-#: web/views/__init__.py:19
+#: web/views/__init__.py:18
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr "Guarda e condividi Hearthstone direttamente dal tuo browser. Scopri statistiche dettagliate sui mazzi e le carte basate su milioni di giochi a settimana."
 
-#: web/views/__init__.py:25
+#: web/views/__init__.py:24
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - Scatena il tuo potenziale"
 
-#: web/views/__init__.py:117
+#: web/views/__init__.py:116
 msgid "Sign in to HSReplay.net"
 msgstr "Registrati su HSReplay.net"
 
-#: web/views/__init__.py:164
+#: web/views/__init__.py:163
 msgid "Download Hearthstone Deck Tracker"
 msgstr "Scarica Hearthstone Deck Tracker"
 
-#: web/views/__init__.py:166
+#: web/views/__init__.py:165
 msgid "HSReplay.net Companion App"
 msgstr "HSReplay.net Companion App"
 
-#: web/views/__init__.py:168
+#: web/views/__init__.py:167
 msgid "Hearthstone Deck Tracker is a free companion app to help you play like the pros."
 msgstr "Hearthstone Deck Tracker è un'applicazione gratuita che ti aiuta a giocare come un professionista."
 
-#: web/views/__init__.py:229
+#: web/views/__init__.py:228
 msgid "Contact our Support Team"
 msgstr "Contatta il nostro team di assistenza"
 
-#: web/views/__init__.py:231
+#: web/views/__init__.py:230
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr "Contatta il team di supporto HSReplay.net."
 
-#: web/views/__init__.py:289
+#: web/views/__init__.py:279
+msgid "Redeem a Code"
+msgstr ""
+
+#: web/views/__init__.py:290
 msgid "Welcome to HSReplay.net"
 msgstr "Benvenuto a HSReplay.net"
 
-#: web/views/__init__.py:291
+#: web/views/__init__.py:292
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr "Impara come iniziare con HSReplay.net e cosa puoi fare con esso."
 
-#: web/views/__init__.py:302
+#: web/views/__init__.py:303
 msgid "Welcome to Hearthstone Deck Tracker"
 msgstr "Benvenuto in Hearthstone Deck Tracker"
 
-#: web/views/__init__.py:304
+#: web/views/__init__.py:305
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
 msgstr "Scopri cosa puoi fare con Hearthstone Deck Tracker, oltre che nel nostro sito!"
 
