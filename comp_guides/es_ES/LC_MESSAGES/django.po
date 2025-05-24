@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-19 01:40\n"
+"POT-Creation-Date: 2025-05-24 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish\n"
 "Language: es\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-05-19 12:40\n"
+"PO-Revision-Date: 2025-05-24 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Poison Scam"
@@ -77,26 +77,6 @@ msgstr ""
 msgid "Put huge magnetics on premium Mechs"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/32/
-msgid "Mechs - Automaton (SPECIFIC HEROES)"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/32/
-msgid "Reborn your Automaton as soon as possible to start scaling it. Roll on 5 for Kangors, and then you can fill out the rest of your comp with Leeroy."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/32/
-msgid "Automaton + Enabled Hero"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/32/
-msgid "Lich King, Akazamarak (Pack Tactics), and Teron Gorefield"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/32/
-msgid "Summon large Automatons"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/42/
 msgid "Dragons - Spells"
 msgstr ""
@@ -137,24 +117,24 @@ msgstr ""
 msgid "Eat buffed shop with buffed spells."
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Demons - Shop Buff/Self Damage"
+#: name | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Mechs - Automaton (SPECIFIC HEROES)"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Your shop will be buffed by [[Ashen Corruptor||121687]] paired with [[Malchezaar, Prince of Dance||99199]] and/or [[Dream Inquisitor||120664]]. Then, buy every cheap spell to eat the shop using [[Batty Terrorguard||116697]]."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Reborn your Automaton as soon as possible to start scaling it. Roll on 5 for Kangors, and then you can fill out the rest of your comp with Leeroy."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/9/
-msgid "[[Batty Terrorguard||116697]] + [[Ashen Corruptor||121687]] + Self Damage([[Malchezaar, Prince of Dance||99199]]/[[Dream Inquisitor||120664]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Automaton + Enabled Hero"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/9/
-msgid "[[Ashen Corruptor||121687]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Lich King, Akazamarak (Pack Tactics), and Teron Gorefield"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Buff and consume your shop"
+#: summary | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Summon large Automatons"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/14/
@@ -221,6 +201,26 @@ msgstr ""
 msgid "Summon large beetles"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Demons - Shop Buff/Self Damage"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Your shop will be buffed by [[Ashen Corruptor||121687]] paired with [[Malchezaar, Prince of Dance||99199]] and/or [[Dream Inquisitor||120664]]. Then, buy every cheap spell to eat the shop using [[Batty Terrorguard||116697]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/9/
+msgid "[[Batty Terrorguard||116697]] + [[Ashen Corruptor||121687]] + Self Damage([[Malchezaar, Prince of Dance||99199]]/[[Dream Inquisitor||120664]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/9/
+msgid "[[Ashen Corruptor||121687]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Buff and consume your shop"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Spell Buff/End of Turn"
 msgstr ""
@@ -237,25 +237,26 @@ msgstr ""
 msgid "Cast Buffed Spells"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Murlocs - Mystic Menagerie"
+#: name | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Pirates - APM"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Find [[Brann Bronzebeard||96786]] and [[Shoalfin Mystic||120215]] and then either [[Greenskeeper||113930]] or [[Rylak Metalhead||98829]] to constantly proc the mystic. This will scale your spells a lot. Also keep some sort of spell generation on your board, for example [[Firescale Hoarder||120213]] or [[Nightmare Par-tea Guest||120754]]. Once you feel like your spells are big enough, solely focus on spell generation using your Rylak/Greenskeepers setup."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
+msgid "After you have at least two [[Doubloon Grifter||116035]] and [[Dastardly Drust||119992]], buy every single Pirate to scale your board. This will ramp up your economy for the rest of the game until you have 50 max gold saved, where you're easily infinite. After you're infinite, continue to buy every pirate, but you can also make the best possible endgame boardstate."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/43/
-msgid "[[Brann Bronzebeard||96786]] + [[Shoalfin Mystic||120215]] + a way to proc it ([[Rylak Metalhead||98829]]/[[Greenskeeper||113930]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Double [[Doubloon Grifter||116035]] + [[Dastardly Drust||119992]]"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/43/
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
 msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Shoalfin Mystic||120215]]"
+"[[Doubloon Grifter||116035]]\n"
+"Midgame pirates ([[Gunpowder Courier||98889]])"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Buff Spells and cast them"
+#: summary | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Spend lots of gold to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/17/
@@ -277,27 +278,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Scale up blood gems, unleash them during combat"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Pirates - APM"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "With [[Brann Bronzebeard||96786]], a lot of battlecries become free to cycle, such as [[Gentle Djinni||64062]] and [[Refreshing Anomaly||64042]]. [[Freedealing Gambler||61049]] and [[Gritty Headhunter||115597]] are also good to always buy and sell. You want to cycle all of the free cards, while having pirates such as [[Dual-Wield Corsair||115708]] that benefit from spending gold cycling. Usually, you have an early [[Doubloon Grifter||116035]] on your board to ramp up max gold also."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Brann Bronzebeard||96786]] + econ scaling cards ([[Dual-Wield Corsair||115708]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"Midgame pirates ([[Gunpowder Courier||98889]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Spend lots of gold to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/21/
@@ -388,7 +368,7 @@ msgid "Murlocs - Hand Buff"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] + [[Brann Bronzebeard||96786]] and cycling [[Primalfin Lookout||60028]] and [[Murky||92418]]. Most importantly, you need to buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is nice to have to carry a bunch of keywords for [[Hackerfin||115848]] and Seafood Stews.. Finally, [[Choral Mrrrglr||98948]] is a great way to capture the stats from your hand. \n\n"
+msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] or [[Bream Counter||98509]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] + [[Brann Bronzebeard||96786]] and cycling [[Primalfin Lookout||60028]] and [[Murky||92418]]. Most importantly, you need to buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is nice to have to carry a bunch of keywords for [[Hackerfin||115848]] and Seafood Stews. Finally, [[Choral Mrrrglr||98948]] is a great way to capture the stats from your hand. \n\n"
 "In this comp, you can never go wrong with as many [[Bassgill||98926]] as possible. You'll always have murlocs you can summon from your hand, like Belcher and [[Reckless Cliffdiver||115836]]."
 msgstr ""
 

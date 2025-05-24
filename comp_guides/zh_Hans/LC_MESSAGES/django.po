@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-19 01:40\n"
+"POT-Creation-Date: 2025-05-24 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-05-22 12:40\n"
+"PO-Revision-Date: 2025-05-24 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Poison Scam"
@@ -77,26 +77,6 @@ msgstr "[[移动投影仪||115674]]"
 msgid "Put huge magnetics on premium Mechs"
 msgstr "将巨型磁力吸附在高级机械上"
 
-#: name | https://hsreplay.net/battlegrounds/comps/32/
-msgid "Mechs - Automaton (SPECIFIC HEROES)"
-msgstr "机械 - 星元自动机（特定英雄）"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/32/
-msgid "Reborn your Automaton as soon as possible to start scaling it. Roll on 5 for Kangors, and then you can fill out the rest of your comp with Leeroy."
-msgstr "尽快使你的星元自动机获得复生并开始成长。在5级酒馆找坎格尔，然后用火车王填补剩余的位置。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/32/
-msgid "Automaton + Enabled Hero"
-msgstr "星元自动机 + 特定英雄"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/32/
-msgid "Lich King, Akazamarak (Pack Tactics), and Teron Gorefield"
-msgstr "巫妖王，阿卡扎曼扎拉克（集群战术），塔隆·血魔"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/32/
-msgid "Summon large Automatons"
-msgstr "召唤大型星元自动机"
-
 #: name | https://hsreplay.net/battlegrounds/comps/42/
 msgid "Dragons - Spells"
 msgstr "龙 - 法术"
@@ -137,25 +117,25 @@ msgstr "[[邪火咒龙||120299]]"
 msgid "Eat buffed shop with buffed spells."
 msgstr "用Buff过的酒馆法术吃掉商店中Buff过的随从。"
 
-#: name | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Demons - Shop Buff/Self Damage"
-msgstr "恶魔 - 商店Buff/自伤"
+#: name | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Mechs - Automaton (SPECIFIC HEROES)"
+msgstr "机械 - 星元自动机（特定英雄）"
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Your shop will be buffed by [[Ashen Corruptor||121687]] paired with [[Malchezaar, Prince of Dance||99199]] and/or [[Dream Inquisitor||120664]]. Then, buy every cheap spell to eat the shop using [[Batty Terrorguard||116697]]."
-msgstr "你的商店中的随从会被[[灰烬腐蚀者||121687]]和[[舞蹈王子玛克扎尔||99199]]和/或[[梦境审判官||120664]]搭配使用后Buff。然后使用[[狂蝠恐惧卫士||116697]]购买所有便宜法术来吞噬商店。"
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Reborn your Automaton as soon as possible to start scaling it. Roll on 5 for Kangors, and then you can fill out the rest of your comp with Leeroy."
+msgstr "尽快使你的星元自动机获得复生并开始成长。在5级酒馆找坎格尔，然后用火车王填补剩余的位置。"
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/9/
-msgid "[[Batty Terrorguard||116697]] + [[Ashen Corruptor||121687]] + Self Damage([[Malchezaar, Prince of Dance||99199]]/[[Dream Inquisitor||120664]])"
-msgstr "[[狂蝠恐惧卫士||116697]] + [[灰烬腐蚀者||121687]] + 自伤([[舞蹈王子玛克扎尔||99199]]/[[梦境审判官||120664]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Automaton + Enabled Hero"
+msgstr "星元自动机 + 特定英雄"
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/9/
-msgid "[[Ashen Corruptor||121687]]"
-msgstr "[[灰烬腐蚀者||121687]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Lich King, Akazamarak (Pack Tactics), and Teron Gorefield"
+msgstr "巫妖王，阿卡扎曼扎拉克（集群战术），塔隆·血魔"
 
-#: summary | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Buff and consume your shop"
-msgstr "Buff并吞噬你的商店"
+#: summary | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Summon large Automatons"
+msgstr "召唤大型星元自动机"
 
 #: name | https://hsreplay.net/battlegrounds/comps/14/
 msgid "Undead - Attack Scaling"
@@ -225,6 +205,26 @@ msgstr "[[绿松石飞掠虫||119255]], [[符文虫祖||117499]]"
 msgid "Summon large beetles"
 msgstr "召唤大甲虫"
 
+#: name | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Demons - Shop Buff/Self Damage"
+msgstr "恶魔 - 商店Buff/自伤"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Your shop will be buffed by [[Ashen Corruptor||121687]] paired with [[Malchezaar, Prince of Dance||99199]] and/or [[Dream Inquisitor||120664]]. Then, buy every cheap spell to eat the shop using [[Batty Terrorguard||116697]]."
+msgstr "你的商店中的随从会被[[灰烬腐蚀者||121687]]和[[舞蹈王子玛克扎尔||99199]]和/或[[梦境审判官||120664]]搭配使用后Buff。然后使用[[狂蝠恐惧卫士||116697]]购买所有便宜法术来吞噬商店。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/9/
+msgid "[[Batty Terrorguard||116697]] + [[Ashen Corruptor||121687]] + Self Damage([[Malchezaar, Prince of Dance||99199]]/[[Dream Inquisitor||120664]])"
+msgstr "[[狂蝠恐惧卫士||116697]] + [[灰烬腐蚀者||121687]] + 自伤([[舞蹈王子玛克扎尔||99199]]/[[梦境审判官||120664]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/9/
+msgid "[[Ashen Corruptor||121687]]"
+msgstr "[[灰烬腐蚀者||121687]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Buff and consume your shop"
+msgstr "Buff并吞噬你的商店"
+
 #: name | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Spell Buff/End of Turn"
 msgstr "酒馆法术Buff/回合结束时"
@@ -241,27 +241,29 @@ msgstr "[[邪火咒龙||120299]] + [[达卡莱附魔师||101314]] 或酒馆法�
 msgid "Cast Buffed Spells"
 msgstr "施放Buff过的酒馆法术"
 
-#: name | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Murlocs - Mystic Menagerie"
-msgstr "鱼人 - 秘法师喝茶"
+#: name | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Pirates - APM"
+msgstr "海盗 - 倒转"
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Find [[Brann Bronzebeard||96786]] and [[Shoalfin Mystic||120215]] and then either [[Greenskeeper||113930]] or [[Rylak Metalhead||98829]] to constantly proc the mystic. This will scale your spells a lot. Also keep some sort of spell generation on your board, for example [[Firescale Hoarder||120213]] or [[Nightmare Par-tea Guest||120754]]. Once you feel like your spells are big enough, solely focus on spell generation using your Rylak/Greenskeepers setup."
-msgstr "找到[[布莱恩·铜须||96786]]和[[浅鳍秘法师||120215]]，然后找到[[护植绿龙||113930]]或[[重金属双头飞龙||98829]]来不断地触发浅鳍秘法师。这将大大提高你的酒馆法术属性加成。同时在你的棋盘上保留一些法术生成器，例如[[火鳞囤积者||120213]]或[[梦魇茶客||120754]]。一旦你觉得你的酒馆法术加成足够大了，就可以将你的双头飞龙/护植绿龙用于触发法术生成了。"
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
+msgid "After you have at least two [[Doubloon Grifter||116035]] and [[Dastardly Drust||119992]], buy every single Pirate to scale your board. This will ramp up your economy for the rest of the game until you have 50 max gold saved, where you're easily infinite. After you're infinite, continue to buy every pirate, but you can also make the best possible endgame boardstate."
+msgstr "在你至少拥有两个[[金币诈骗犯||116035]] 和 [[卑鄙的德鲁斯特||119992]] 之后，购买每一个海盗来扩大你的棋盘属性。这将在接下来的游戏中提升你的经济，直到你积攒了 50 铸币上限，你就可以轻松实现无限资源。无限之后继续购买每一个海盗，但你也可以尽可能打造出最好的终局棋盘状态。"
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/43/
-msgid "[[Brann Bronzebeard||96786]] + [[Shoalfin Mystic||120215]] + a way to proc it ([[Rylak Metalhead||98829]]/[[Greenskeeper||113930]])"
-msgstr "[[布莱恩·铜须||96786]] + [[浅鳍秘法师||120215]] + 再触发战吼([[重金属双头飞龙||98829]]/[[护植绿龙||113930]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Double [[Doubloon Grifter||116035]] + [[Dastardly Drust||119992]]"
+msgstr "两个[[金币诈骗犯||116035]] + [[卑鄙的德鲁斯特||119992]]"
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/43/
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
 msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Shoalfin Mystic||120215]]"
+"[[Doubloon Grifter||116035]]\n"
+"Midgame pirates ([[Gunpowder Courier||98889]])"
 msgstr "[[布莱恩·铜须||96786]]\n"
-"[[浅鳍秘法师||120215]]"
+"[[金币诈骗犯||116035]]\n"
+"中期过度海盗 ([[火药运输工||98889]])"
 
-#: summary | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Buff Spells and cast them"
-msgstr "Buff酒馆法术并释放它们"
+#: summary | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Spend lots of gold to scale"
+msgstr "花费大量铸币来成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Quilboar - Combat Scaling"
@@ -284,28 +286,6 @@ msgstr "[[刺头吹笛人||98946]]"
 #: summary | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Scale up blood gems, unleash them during combat"
 msgstr "提升鲜血宝石属性，在战斗中施放"
-
-#: name | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Pirates - APM"
-msgstr "海盗 - 倒转"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "With [[Brann Bronzebeard||96786]], a lot of battlecries become free to cycle, such as [[Gentle Djinni||64062]] and [[Refreshing Anomaly||64042]]. [[Freedealing Gambler||61049]] and [[Gritty Headhunter||115597]] are also good to always buy and sell. You want to cycle all of the free cards, while having pirates such as [[Dual-Wield Corsair||115708]] that benefit from spending gold cycling. Usually, you have an early [[Doubloon Grifter||116035]] on your board to ramp up max gold also."
-msgstr "有了[[布莱恩·铜须||96786]]后很多战吼都可以免费循环，例如[[温和的灯神||64062]]和[[刷新畸体||64042]]。[[白赚赌徒||61049]]和[[顽砂猎头||115597]]也很适合经常买卖。你要循环使用所有免费卡牌同时让海盗（如[[双持海盗||115708]]）从反复花费铸币中获益。通常你的棋盘上会有一张早期的[[金币诈骗犯||116035]]来提高铸币上限。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Brann Bronzebeard||96786]] + econ scaling cards ([[Dual-Wield Corsair||115708]])"
-msgstr "[[布莱恩·铜须||96786]] + 消费成长卡牌 ([[双持海盗||115708]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"Midgame pirates ([[Gunpowder Courier||98889]])"
-msgstr "[[布莱恩·铜须||96786]]\n"
-"中期过度海盗 ([[火药运输工||98889]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Spend lots of gold to scale"
-msgstr "花费大量铸币来成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Mechs - Divine Shield"
@@ -398,9 +378,9 @@ msgid "Murlocs - Hand Buff"
 msgstr "鱼人 - 手牌Buff"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] + [[Brann Bronzebeard||96786]] and cycling [[Primalfin Lookout||60028]] and [[Murky||92418]]. Most importantly, you need to buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is nice to have to carry a bunch of keywords for [[Hackerfin||115848]] and Seafood Stews.. Finally, [[Choral Mrrrglr||98948]] is a great way to capture the stats from your hand. \n\n"
+msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] or [[Bream Counter||98509]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] + [[Brann Bronzebeard||96786]] and cycling [[Primalfin Lookout||60028]] and [[Murky||92418]]. Most importantly, you need to buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is nice to have to carry a bunch of keywords for [[Hackerfin||115848]] and Seafood Stews. Finally, [[Choral Mrrrglr||98948]] is a great way to capture the stats from your hand. \n\n"
 "In this comp, you can never go wrong with as many [[Bassgill||98926]] as possible. You'll always have murlocs you can summon from your hand, like Belcher and [[Reckless Cliffdiver||115836]]."
-msgstr "准备一个吃Buff专用的鱼人，把你所有的手牌Buff都加在它身上。通常是[[好斗的斥候||120677]]，但也可以是[[歌剧异术家||101316]]。然后使用[[浊盐远行者||120687]]+[[布莱恩·铜须||96786]]的组合来给这个鱼人加buff。并循环使用[[蛮鱼斥候||60028]]和[[奔波尔霸||92418]]。最重要的是，你需要用[[浅鳍秘法师||120215]]给酒馆法术加buff，所以每一个[[戈姆蛴食客||120689]]都会给你的浊盐远行者带来大量的属性加成。金色的[[气泡枪手||116178]]或[[鳛芙的学徒||120681]]可以为[[黑客鱼人||115848]]和海鲜乱炖带大量关键字。最后[[合唱鱼人||98948]]是获取手牌鱼人身上数值的好方法。\n\n"
+msgstr "准备一个吃Buff专用的鱼人，把你所有的手牌Buff都加在它身上。通常是[[好斗的斥候||120677]]，但也可以是[[歌剧异术家||101316]] 或 [[裁脍鱼人||98509]] 。然后使用[[浊盐远行者||120687]]+[[布莱恩·铜须||96786]]的组合来给这个鱼人加buff。并循环使用[[蛮鱼斥候||60028]]和[[奔波尔霸||92418]]。最重要的是，你需要用[[浅鳍秘法师||120215]]给酒馆法术加buff，所以每一个[[戈姆蛴食客||120689]]都会给你的浊盐远行者带来大量的属性加成。金色的[[气泡枪手||116178]]或[[鳛芙的学徒||120681]]可以为[[黑客鱼人||115848]]和海鲜乱炖带大量关键字。最后[[合唱鱼人||98948]]是获取手牌鱼人身上数值的好方法。\n\n"
 "在这个流派中尽可能多地使用[[低音提琴鱼人||98926]]是绝对不会出错的。你总能从手牌中召唤出一些鱼人，比如歌剧异术家和[[鲁莽的跳崖鱼人||115836]]。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/

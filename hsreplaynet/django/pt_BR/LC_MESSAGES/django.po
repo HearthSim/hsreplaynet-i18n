@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-21 01:40+0000\n"
-"PO-Revision-Date: 2025-05-21 12:40\n"
+"POT-Creation-Date: 2025-05-24 01:40+0000\n"
+"PO-Revision-Date: 2025-05-24 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -63,20 +63,51 @@ msgstr ""
 msgid "{tribe_name} - {instance.name}"
 msgstr ""
 
-#: api/views/accounts.py:355
-msgid "Code has been applied to your account. Your existing subscription has been extended."
+#: api/views/accounts.py:340
+#, python-brace-format
+msgid "You have already applied this code to your account. Start your free subscription lasting {n} days now."
 msgstr ""
 
-#: api/views/accounts.py:360 api/views/accounts.py:394
-msgid "Code has been applied to your account."
+#: api/views/accounts.py:363
+#, python-brace-format
+msgid "Code has been applied to your account. Your existing subscription has been extended by {n} days."
 msgstr ""
 
-#: api/views/accounts.py:382
+#: api/views/accounts.py:369
+#, python-brace-format
+msgid "Code has been applied to your account. You can now start a free subscription lasting {n} days."
+msgstr ""
+
+#: api/views/accounts.py:377
+msgid "This code has already been redeemed."
+msgstr ""
+
+#: api/views/accounts.py:380
+msgid "This code is not compatible with your existing subscription."
+msgstr ""
+
+#: api/views/accounts.py:383
+msgid "This code has expired."
+msgstr ""
+
+#: api/views/accounts.py:386
+msgid "You have used the maximum number of codes from this campaign."
+msgstr ""
+
+#: api/views/accounts.py:391
+msgid "You have already redeemed a code for this product. Start a subscription before redeeming another one."
+msgstr ""
+
+#: api/views/accounts.py:402
 msgid "This code is unknown."
 msgstr ""
 
-#: api/views/accounts.py:387
+#: api/views/accounts.py:412
 msgid "You have already applied this code to your account."
+msgstr ""
+
+#: api/views/accounts.py:419
+msgid "Code has been applied to your account."
 msgstr ""
 
 #: settings.py:411
