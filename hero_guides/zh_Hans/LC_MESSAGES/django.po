@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-24T01:40:25.643310\n"
+"POT-Creation-Date: 2025-05-26T01:40:24.429822\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-05-25 12:40\n"
+"PO-Revision-Date: 2025-05-26 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/117409/ Hero id 117409 | Guide id
 #: 695
@@ -305,14 +305,14 @@ msgstr "最好玩野兽流派！在游戏初期，当你打出一个战吼随从
 msgid "Even though you want to play Mechs eventually, Undead and Beasts provide the best early game summons so you can start having minions die early on."
 msgstr "尽管你最终还是想玩机械流，但亡灵和野兽提供了最好的游戏前期召唤物，因此你可以在游戏初期就更多让随从死亡。"
 
-#: https://hsreplay.net/battlegrounds/heroes/63601/ Hero id 63601 | Guide id 1
-msgid "If you find an [[Alleycat||96758]] turn 1, swap it every turn, taking a 3 drop with your tabbycat triple turn 3 and taking a 5 drop on turn 6."
-msgstr "如果你在第1回合找到了[[雄斑虎||96758]]，每回合交换一次，在第3回合三连你的雌斑虎拿3级随从，在第6回合拿5级随从。"
-
 #: https://hsreplay.net/battlegrounds/heroes/57635/ Hero id 57635 | Guide id
 #: 110
 msgid "Early game, hero power and freeze every turn, including turn 1, until you hit something you like from a higher tier. Never buy your 3 drop or 4 drop. Buy 5 drops that generate value every turn such as [[Holo Rover||115674]]. If you missed on everything so far, buy your best 6 drop. Value generating 6 drops are the best, such as [[Ignition Specialist||105852]]."
 msgstr "在游戏初期，每回合（包括第1回合）都要使用英雄技能并冻结，直到你从更高的等级中找到你喜欢的东西。永远不要买你的3级或4级随从。购买每回合都能带来一个随从的5级随从，例如[[移动投影仪||115674]]。如果你没找到所有这些随从，那就购买你最好的6级随从吧。产生资源的6级随从是最好的，例如[[生火专家||105852]]。"
+
+#: https://hsreplay.net/battlegrounds/heroes/63601/ Hero id 63601 | Guide id 1
+msgid "If you find an [[Alleycat||96758]] turn 1, swap it every turn (except turn 2 because it should be frozen in your shop), taking a 3 drop with your tabbycat triple turn 3 and taking a 5 drop on turn 6."
+msgstr "如果你在第1回合找到了[[雄斑虎||96758]]，每回合交换一次（除了第2回合，你应该把它冻结在商店里），在第3回合三连你的雌斑虎拿3级随从，在第6回合拿5级随从。"
 
 #: https://hsreplay.net/battlegrounds/heroes/76521/ Hero id 76521 | Guide id
 #: 143
