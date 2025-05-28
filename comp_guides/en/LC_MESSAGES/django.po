@@ -3,13 +3,39 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-27 01:40\n"
+"POT-Creation-Date: 2025-05-28 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: English\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#: name | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Beasts - Burrower"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/44/
+msgid ""
+"Must play with a EARLY [[Silithid Burrower||108547]] with an avenge setup. "
+"Spend your first 2 or 3 turns with Burrower in the back scaling it up. In "
+"the meantime, roll for the core cards of your comp. At some point, cut your "
+"avenge setup for trigger deathrattle effect on [[Silithid Burrower||108547]]"
+" and fill in the rest of the board with great beasts ([[Cave "
+"Hydra||96782]])."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/44/
+msgid "EARLY [[Silithid Burrower||108547]] + Avenge setup"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Avenge setup ([[Harmless Bonehead||104551]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Make huge beasts"
+msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Poison Scam"
@@ -33,6 +59,31 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Buy scam cards and try to preserve placements"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Mechs - Magnetics"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
+msgid ""
+"Generate a ton of [[Dr. Boom's Monster||115676]] through an early [[Holo "
+"Rover||115674]], then put the Boom Monsters on either the Rover or "
+"[[Deflect-o-bot||61930]]. Then, you may cycle every single cheap spell with "
+"a [[Charging Czarina||110321]] setup. This will make your Boom Monster's "
+"huge."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Holo Rover||115674]] + [[Electron, Powered Up||120029]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Holo Rover||115674]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Put huge magnetics on premium Mechs"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/40/
@@ -59,29 +110,30 @@ msgstr ""
 msgid "Buff Nagas in Combat"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Mechs - Magnetics"
+#: name | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Demons - Shop Buff/Spells"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
 msgid ""
-"Generate a ton of [[Dr. Boom's Monster||115676]] through an early [[Holo "
-"Rover||115674]], then put the Boom Monsters on either the Rover or "
-"[[Deflect-o-bot||61930]]. Then, you may cycle every single cheap spell with "
-"a [[Charging Czarina||110321]] setup. This will make your Boom Monster's "
-"huge."
+"Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs "
+"that you get from [[Shadowdancer||120662]] will be extremely buffed, which "
+"allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every "
+"single cheap spell to eat the shop with."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Holo Rover||115674]] + [[Electron, Powered Up||120029]]"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
+msgid ""
+"[[Felfire Conjurer||120299]] + [[Drakkari "
+"Enchanter||101314]]/[[Shadowdancer||120662]]"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Holo Rover||115674]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Felfire Conjurer||120299]]"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Put huge magnetics on premium Mechs"
+#: summary | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Eat buffed shop with buffed spells."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/42/
@@ -112,32 +164,6 @@ msgstr ""
 msgid "Play spells to scale Dragons"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Demons - Shop Buff/Spells"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
-msgid ""
-"Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs "
-"that you get from [[Shadowdancer||120662]] will be extremely buffed, which "
-"allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every "
-"single cheap spell to eat the shop with."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
-msgid ""
-"[[Felfire Conjurer||120299]] + [[Drakkari "
-"Enchanter||101314]]/[[Shadowdancer||120662]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
-msgid "[[Felfire Conjurer||120299]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Eat buffed shop with buffed spells."
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/32/
 msgid "Mechs - Automaton (SPECIFIC HEROES)"
 msgstr ""
@@ -158,32 +184,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/32/
 msgid "Summon large Automatons"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Beasts - Burrower"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/44/
-msgid ""
-"Must play with a EARLY [[Silithid Burrower||108547]] with an avenge setup. "
-"Spend your first 2 or 3 turns with Burrower in the back scaling it up. In "
-"the meantime, roll for the core cards of your comp. At some point, cut your "
-"avenge setup for trigger deathrattle effect on [[Silithid Burrower||108547]]"
-" and fill in the rest of the board with great beasts ([[Cave "
-"Hydra||96782]])."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/44/
-msgid "EARLY [[Silithid Burrower||108547]] + Avenge setup"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Avenge setup ([[Harmless Bonehead||104551]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Make huge beasts"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/14/
@@ -213,29 +213,6 @@ msgstr ""
 msgid "Summon high attack Undeads"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/15/
-msgid "Dragons - Kalecgos"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/15/
-msgid ""
-"[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +2/4 every single battlecry you play. You want to trigger as many battlecries as possible.\n"
-"\n"
-"Cycle only PREMIUM battlecries, such as [[Gentle Djinni||64062]], [[Refreshing Anomaly||64042]], or [[Primalfin Lookout||60028]]."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/15/
-msgid "[[Kalecgos, Arcane Aspect||60630]] + [[Brann Bronzebeard||96786]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/15/
-msgid "[[Brann Bronzebeard||96786]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/15/
-msgid "Cycle battlecries to scale dragons"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/38/
 msgid "Beasts - Summon Beetles"
 msgstr ""
@@ -259,6 +236,29 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/38/
 msgid "Summon large beetles"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/15/
+msgid "Dragons - Kalecgos"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/15/
+msgid ""
+"[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +2/4 every single battlecry you play. You want to trigger as many battlecries as possible.\n"
+"\n"
+"Cycle only PREMIUM battlecries, such as [[Gentle Djinni||64062]], [[Refreshing Anomaly||64042]], or [[Primalfin Lookout||60028]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Kalecgos, Arcane Aspect||60630]] + [[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/15/
+msgid "Cycle battlecries to scale dragons"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/9/
