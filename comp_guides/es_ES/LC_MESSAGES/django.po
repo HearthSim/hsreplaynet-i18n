@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-25 01:40\n"
+"POT-Creation-Date: 2025-05-28 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish\n"
 "Language: es\n"
@@ -15,7 +15,27 @@ msgstr ""
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-05-25 12:40\n"
+"PO-Revision-Date: 2025-05-28 12:40\n"
+
+#: name | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Beasts - Burrower"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Must play with a EARLY [[Silithid Burrower||108547]] with an avenge setup. Spend your first 2 or 3 turns with Burrower in the back scaling it up. In the meantime, roll for the core cards of your comp. At some point, cut your avenge setup for trigger deathrattle effect on [[Silithid Burrower||108547]] and fill in the rest of the board with great beasts ([[Cave Hydra||96782]])."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/44/
+msgid "EARLY [[Silithid Burrower||108547]] + Avenge setup"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Avenge setup ([[Harmless Bonehead||104551]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Make huge beasts"
+msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Poison Scam"
@@ -35,26 +55,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Buy scam cards and try to preserve placements"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Nagas - Deathrattle"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Generate a ton of spellcrafts to play using reborned [[Coilskar Sapper||120565]]. The strength of your board comes from reborning [[Showy Cyclist||115565]] + [[Titus Rivendare||97408]], which buffs your nagas a lot in combat."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/40/
-msgid "[[Showy Cyclist||115565]] + [[Coilskar Sapper||120565]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Naga Midgame ([[Thaumaturgist||115563]]/[[Coilskar Sapper||120565]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Buff Nagas in Combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/2/
@@ -77,24 +77,24 @@ msgstr ""
 msgid "Put huge magnetics on premium Mechs"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Dragons - Spells"
+#: name | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Nagas - Deathrattle"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Scale the ability of your [[Fireforged Evoker||120301]] using a ton of spell generation, which is usually through [[Ignition Specialist||105852]] and maybe [[Brann Bronzebeard||96786]]. Eventually, you'll need [[Persistent Poet||108463]] and/or [[Tarecgosa||72062]] to permanently capture the stats of your Evokers. [[Amber Guardian||95006]] or [[Nadina the Red||60629]] is also nice to give your dragons permanent Divine Shield."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Generate a ton of spellcrafts to play using reborned [[Coilskar Sapper||120565]]. The strength of your board comes from reborning [[Showy Cyclist||115565]] + [[Titus Rivendare||97408]], which buffs your nagas a lot in combat."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/42/
-msgid "[[Fire-forged Evoker||120301]] + Spell Generation ([[Ignition Specialist||105852]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/40/
+msgid "[[Showy Cyclist||115565]] + [[Coilskar Sapper||120565]]"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Spell Generation ([[Ignition Specialist||105852]])"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Naga Midgame ([[Thaumaturgist||115563]]/[[Coilskar Sapper||120565]])"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Play spells to scale Dragons"
+#: summary | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Buff Nagas in Combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
@@ -117,6 +117,26 @@ msgstr ""
 msgid "Eat buffed shop with buffed spells."
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Dragons - Spells"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Scale the ability of your [[Fireforged Evoker||120301]] using a ton of spell generation, which is usually through [[Ignition Specialist||105852]] and maybe [[Brann Bronzebeard||96786]]. Eventually, you'll need [[Persistent Poet||108463]] and/or [[Tarecgosa||72062]] to permanently capture the stats of your Evokers. [[Amber Guardian||95006]] or [[Nadina the Red||60629]] is also nice to give your dragons permanent Divine Shield."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/42/
+msgid "[[Fire-forged Evoker||120301]] + Spell Generation ([[Ignition Specialist||105852]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Spell Generation ([[Ignition Specialist||105852]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Play spells to scale Dragons"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/32/
 msgid "Mechs - Automaton (SPECIFIC HEROES)"
 msgstr ""
@@ -135,26 +155,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/32/
 msgid "Summon large Automatons"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Beasts - Burrower"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Must play with a EARLY [[Silithid Burrower||108547]] with an avenge setup. Spend your first 2 or 3 turns with Burrower in the back scaling it up. In the meantime, roll for the core cards of your comp. At some point, cut your avenge setup for trigger deathrattle effect on [[Silithid Burrower||108547]] and fill in the rest of the board with great beasts ([[Cave Hydra||96782]])."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/44/
-msgid "EARLY [[Silithid Burrower||108547]] + Avenge setup"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Avenge setup ([[Harmless Bonehead||104551]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Make huge beasts"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/14/
@@ -179,27 +179,6 @@ msgstr ""
 msgid "Summon high attack Undeads"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/15/
-msgid "Dragons - Kalecgos"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/15/
-msgid "[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +2/4 every single battlecry you play. You want to trigger as many battlecries as possible.\n\n"
-"Cycle only PREMIUM battlecries, such as [[Gentle Djinni||64062]], [[Refreshing Anomaly||64042]], or [[Primalfin Lookout||60028]]."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/15/
-msgid "[[Kalecgos, Arcane Aspect||60630]] + [[Brann Bronzebeard||96786]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/15/
-msgid "[[Brann Bronzebeard||96786]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/15/
-msgid "Cycle battlecries to scale dragons"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/38/
 msgid "Beasts - Summon Beetles"
 msgstr ""
@@ -219,6 +198,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/38/
 msgid "Summon large beetles"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/15/
+msgid "Dragons - Kalecgos"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +2/4 every single battlecry you play. You want to trigger as many battlecries as possible.\n\n"
+"Cycle only PREMIUM battlecries, such as [[Gentle Djinni||64062]], [[Refreshing Anomaly||64042]], or [[Primalfin Lookout||60028]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Kalecgos, Arcane Aspect||60630]] + [[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/15/
+msgid "Cycle battlecries to scale dragons"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/9/
