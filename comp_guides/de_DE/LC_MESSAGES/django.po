@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-30 14:36\n"
+"POT-Creation-Date: 2025-06-01 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: de\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-05-30 15:33\n"
+"PO-Revision-Date: 2025-06-01 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/44/
 msgid "Beasts - Burrower"
@@ -320,27 +320,6 @@ msgstr ""
 msgid "Play spells to buff Mechs"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Undead - Overflow"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else.\n\n"
-"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
-msgid "[[Cadaver Caretaker||113158]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow your board to scale"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/20/
 msgid "Nagas - Groundbreaker"
 msgstr ""
@@ -360,6 +339,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/20/
 msgid "Play spells and nagas to scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Undead - Overflow"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
+msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else. KT can be used to constantly duplicate your Catacomb Crasher if you put reborn on the Catacomb Crasher.\n\n"
+"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
+msgid "[[Cadaver Caretaker||113158]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow your board to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/37/
