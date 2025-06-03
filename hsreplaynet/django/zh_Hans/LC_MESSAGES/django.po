@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-30 14:36+0000\n"
-"PO-Revision-Date: 2025-06-03 00:40\n"
+"POT-Creation-Date: 2025-06-03 01:40+0000\n"
+"PO-Revision-Date: 2025-06-03 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -489,15 +489,15 @@ msgstr "狂野模式套牌"
 msgid "Meta Tier List"
 msgstr "环境梯队表"
 
-#: templates/footer.html:76 web/views/battlegrounds.py:137
+#: templates/footer.html:76 web/views/battlegrounds.py:138
 msgid "Battlegrounds Heroes"
 msgstr "酒馆战棋英雄"
 
-#: templates/footer.html:77 web/views/battlegrounds.py:277
+#: templates/footer.html:77 web/views/battlegrounds.py:281
 msgid "Battlegrounds Anomalies"
 msgstr "酒馆战棋畸变"
 
-#: templates/footer.html:78 web/views/battlegrounds.py:214
+#: templates/footer.html:78 web/views/battlegrounds.py:215
 msgid "Battlegrounds Trinkets"
 msgstr "酒馆战棋饰品"
 
@@ -549,24 +549,24 @@ msgstr "佣兵强度"
 msgid "Parties"
 msgstr "队伍"
 
-#: templates/navigation.html:78 web/views/battlegrounds.py:146
-#: web/views/battlegrounds.py:415
+#: templates/navigation.html:78 web/views/battlegrounds.py:147
+#: web/views/battlegrounds.py:419
 msgid "Heroes"
 msgstr "英雄"
 
-#: templates/navigation.html:90 web/views/battlegrounds.py:222
+#: templates/navigation.html:90 web/views/battlegrounds.py:223
 msgid "Trinkets"
 msgstr "饰品"
 
-#: templates/navigation.html:103 web/views/battlegrounds.py:350
+#: templates/navigation.html:103 web/views/battlegrounds.py:354
 msgid "Darkmoon Prizes"
 msgstr "暗月奖品"
 
-#: templates/navigation.html:114 web/views/battlegrounds.py:160
+#: templates/navigation.html:114 web/views/battlegrounds.py:161
 msgid "Comps"
 msgstr "流派"
 
-#: templates/navigation.html:126 web/views/battlegrounds.py:285
+#: templates/navigation.html:126 web/views/battlegrounds.py:289
 msgid "Anomalies"
 msgstr "畸变"
 
@@ -806,111 +806,111 @@ msgstr "卡组"
 msgid "Find stats and different {name} decklists."
 msgstr "查找统计信息和不同的 {name} 套牌。"
 
-#: web/views/battlegrounds.py:116
+#: web/views/battlegrounds.py:117
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
 msgstr "使用Tier7细致入微的战棋统计数据来提升你的游戏策略，例如最佳英雄、流派、随从的实战信息等！"
 
-#: web/views/battlegrounds.py:126 web/views/battlegrounds.py:145
-#: web/views/battlegrounds.py:159 web/views/battlegrounds.py:221
-#: web/views/battlegrounds.py:284 web/views/battlegrounds.py:333
-#: web/views/battlegrounds.py:349 web/views/battlegrounds.py:406
+#: web/views/battlegrounds.py:127 web/views/battlegrounds.py:146
+#: web/views/battlegrounds.py:160 web/views/battlegrounds.py:222
+#: web/views/battlegrounds.py:288 web/views/battlegrounds.py:337
+#: web/views/battlegrounds.py:353 web/views/battlegrounds.py:410
 msgid "Battlegrounds"
 msgstr "酒馆战棋"
 
-#: web/views/battlegrounds.py:127
+#: web/views/battlegrounds.py:128
 msgid "Tier7"
 msgstr "Tier7"
 
-#: web/views/battlegrounds.py:132
+#: web/views/battlegrounds.py:133
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr "酒馆战棋HSReplay.net Tier7"
 
-#: web/views/battlegrounds.py:139
+#: web/views/battlegrounds.py:140
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr "打开我们的战棋英雄梯度表，查看在百万场对局中它们的表现"
 
-#: web/views/battlegrounds.py:151
+#: web/views/battlegrounds.py:152
 msgid "Battlegrounds Comps"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:153
+#: web/views/battlegrounds.py:154
 msgid "Explore our Comps Tier List and learn which comp is the best - powered by JeefHS, Top BGs player."
 msgstr "探索我们的战棋流派梯队表并学习哪个流派是最好的 - 由顶级酒馆战棋玩家 JeefHS 提供支持。"
 
-#: web/views/battlegrounds.py:216
+#: web/views/battlegrounds.py:217
 msgid "Explore our Battlegrounds Trinkets Tier List and learn which trinket is the best - powered by data from millions of games."
 msgstr "透过千千万对局数据，探索酒馆战棋中最适合您的饰品"
 
-#: web/views/battlegrounds.py:279
+#: web/views/battlegrounds.py:283
 msgid "Explore our Battlegrounds Anomalies List and learn which anomalies are more common - powered by data from millions of games."
 msgstr "打开我们的酒馆战棋畸变梯度表，查看它们在百万场对局中的表现。"
 
-#: web/views/battlegrounds.py:330
+#: web/views/battlegrounds.py:334
 msgid "Battlegrounds Duos Heroes"
 msgstr "酒馆战棋双打英雄"
 
-#: web/views/battlegrounds.py:334
+#: web/views/battlegrounds.py:338
 msgid "Duos Heroes"
 msgstr "双打英雄"
 
-#: web/views/battlegrounds.py:346
+#: web/views/battlegrounds.py:350
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr "酒馆战棋暗月奖品"
 
-#: web/views/battlegrounds.py:355
+#: web/views/battlegrounds.py:359
 msgid "Battlegrounds Hero"
 msgstr "酒馆战棋英雄"
 
-#: web/views/battlegrounds.py:375
+#: web/views/battlegrounds.py:379
 msgid "No matching hero found."
 msgstr "未找到匹配的英雄。"
 
-#: web/views/battlegrounds.py:502
+#: web/views/battlegrounds.py:506
 msgid "Battlegrounds Duos Hero"
 msgstr "酒馆战棋双打英雄"
 
-#: web/views/battlegrounds.py:510
+#: web/views/battlegrounds.py:514
 msgid "Battlegrounds Minions"
 msgstr "酒馆战棋随从"
 
-#: web/views/battlegrounds.py:515 web/views/battlegrounds.py:541
+#: web/views/battlegrounds.py:519 web/views/battlegrounds.py:545
 msgid "Battlegrounds Minion"
 msgstr "酒馆战棋随从"
 
-#: web/views/battlegrounds.py:533
+#: web/views/battlegrounds.py:537
 msgid "No matching minion found."
 msgstr "未找到匹配的随从。"
 
-#: web/views/battlegrounds.py:572
+#: web/views/battlegrounds.py:576
 msgid "Battlegrounds Compositions"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:577 web/views/battlegrounds.py:606
+#: web/views/battlegrounds.py:581 web/views/battlegrounds.py:610
 msgid "Battlegrounds Composition"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:599
+#: web/views/battlegrounds.py:603
 msgid "No matching live or lingering composition found."
 msgstr "没有找到匹配的流派。"
 
-#: web/views/battlegrounds.py:601
+#: web/views/battlegrounds.py:605
 msgid "No matching composition found."
 msgstr "没有找到对应的流派。"
 
-#: web/views/battlegrounds.py:651
+#: web/views/battlegrounds.py:655
 msgid "Battlegrounds Comp"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:669
+#: web/views/battlegrounds.py:673
 msgid "No matching comp found."
 msgstr "未找到匹配的流派。"
 
-#: web/views/battlegrounds.py:676
+#: web/views/battlegrounds.py:680
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr "{tribe_name} - {obj.name}"
 
-#: web/views/battlegrounds.py:759
+#: web/views/battlegrounds.py:763
 msgid "My Battlegrounds Stats"
 msgstr "我的酒馆战棋数据"
 
