@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-06 01:40+0000\n"
+"POT-Creation-Date: 2025-06-07 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,6 +57,10 @@ msgstr ""
 #: api/fields.py:13
 #, python-brace-format
 msgid "{input} is not a valid member of {enum}."
+msgstr ""
+
+#: api/fields.py:14
+msgid "String value too large."
 msgstr ""
 
 #: api/serializers/battlegrounds.py:485
