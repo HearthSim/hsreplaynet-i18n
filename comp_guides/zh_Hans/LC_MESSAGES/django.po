@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-02 18:40\n"
+"POT-Creation-Date: 2025-06-08 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-06-08 00:40\n"
+"PO-Revision-Date: 2025-06-08 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/44/
 msgid "Beasts - Burrower"
@@ -157,6 +157,18 @@ msgstr "巫妖王，阿卡扎曼扎拉克（集群战术），塔隆·血魔"
 msgid "Summon large Automatons"
 msgstr "召唤大型星元自动机"
 
+#: name | https://hsreplay.net/battlegrounds/comps/45/
+msgid "Murlocs - End of Turn"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/45/
+msgid "will add"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/45/
+msgid "Buff Murlocs End of Turn"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/14/
 msgid "Undead - Attack Scaling"
 msgstr "亡灵 - 攻击提升"
@@ -246,8 +258,8 @@ msgid "Buff and consume your shop"
 msgstr "Buff并吞噬你的商店"
 
 #: name | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Spell Buff/End of Turn"
-msgstr "酒馆法术Buff/回合结束时"
+msgid "Spell Buff"
+msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
 msgid "*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Firescale Hoarder and Nightmare Par-tea Guest are great for spell generation, especially when paired with Brann. Fauna could work Drakkari, and Hawstrider Herald could help with spell generation."
