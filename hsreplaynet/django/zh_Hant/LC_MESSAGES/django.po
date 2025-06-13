@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-12 01:40+0000\n"
-"PO-Revision-Date: 2025-06-12 12:40\n"
+"POT-Creation-Date: 2025-06-13 01:40+0000\n"
+"PO-Revision-Date: 2025-06-13 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -459,7 +459,7 @@ msgid "Not affiliated with Blizzard Entertainment."
 msgstr "與暴雪娛樂沒有任何關係。"
 
 #: templates/footer.html:63 templates/navigation.html:67
-#: templates/navigation.html:159 templates/navigation.html:207
+#: templates/navigation.html:159 templates/navigation.html:219
 #: web/views/__init__.py:175
 msgid "Downloads"
 msgstr "下載"
@@ -593,11 +593,15 @@ msgstr "牌組"
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:200 web/views/premium.py:31
+#: templates/navigation.html:203
+msgid "NEW"
+msgstr ""
+
+#: templates/navigation.html:212 web/views/premium.py:31
 msgid "Premium"
 msgstr "尊榮會員"
 
-#: templates/navigation.html:234
+#: templates/navigation.html:246
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "我們正在依英雄戰場最新更新更改此頁面。你可能會暫時看到過時的東西。"
 
