@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-13 01:40\n"
+"POT-Creation-Date: 2025-06-14 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -37,30 +37,6 @@ msgstr ""
 msgid "Make huge beasts"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Murlocs - Poison Scam"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
-msgid ""
-"Buy all the scam cards and try to preserve placements by killing as many "
-"units as possible. Keep your strongest units on the board and fill the rest "
-"of the board with units that may be able to trade 1 for 1. Pulling poison "
-"murlocs from [[Bassgill||98926]], especially golden, is very powerful."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
-msgid "When you have no future or are clearly getting outstatted"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Getting outscaled"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Buy scam cards and try to preserve placements"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Mechs - Magnetics"
 msgstr ""
@@ -86,28 +62,29 @@ msgstr ""
 msgid "Put huge magnetics on premium Mechs"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Nagas - Deathrattle"
+#: name | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Murlocs - Poison Scam"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/40/
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
 msgid ""
-"Generate a ton of spellcrafts to play using reborned [[Coilskar "
-"Sapper||120565]]. The strength of your board comes from reborning [[Showy "
-"Cyclist||115565]] + [[Titus Rivendare||97408]], which buffs your nagas a lot"
-" in combat."
+"Buy all the scam cards and try to preserve placements by killing as many "
+"units as possible. Keep your strongest units on the board (that's why you "
+"want to concentrate stats!) and fill the rest of the board with units that "
+"may be able to trade 1 for 1. Pulling poison murlocs from "
+"[[Bassgill||98926]], especially golden, is very powerful."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/40/
-msgid "[[Showy Cyclist||115565]] + [[Coilskar Sapper||120565]]"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
+msgid "When you have no future or are clearly getting outstatted"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Naga Midgame ([[Thaumaturgist||115563]]/[[Coilskar Sapper||120565]])"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Getting outscaled"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Buff Nagas in Combat"
+#: summary | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Buy scam cards and try to preserve placements"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/42/
@@ -186,6 +163,31 @@ msgstr ""
 msgid "Summon large Automatons"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Nagas - Deathrattle"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/40/
+msgid ""
+"Generate a ton of spellcrafts to play using reborned [[Coilskar "
+"Sapper||120565]]. The strength of your board comes from reborning [[Showy "
+"Cyclist||115565]] + [[Titus Rivendare||97408]], which buffs your nagas a lot"
+" in combat. If dragons are in, you have the option to permanently capture "
+"the stats with the [[Persistent Poet||108463]] + Amalgam combo."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/40/
+msgid "[[Showy Cyclist||115565]] + [[Coilskar Sapper||120565]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Naga Midgame ([[Thaumaturgist||115563]]/[[Coilskar Sapper||120565]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Buff Nagas in Combat"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/45/
 msgid "Murlocs - End of Turn"
 msgstr ""
@@ -204,15 +206,15 @@ msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
 msgid ""
-"You want to scale Attack Undead, most commonly through [[Drustfallen Butcher||120104]], but it could also be through [[Titus Rivendare||97408]] + [[Anub'arak, Nerubian King||95259]]. Then, you want to have a bunch of summons with [[Eternal Summoner||95263]] and/or [[Deathly Striker||115610]] that have high attack.\n"
+"You want to scale Attack Undead, most commonly through [[Drustfallen Butcher||120104]]. You want to butcher the high attack Undeads you generate from [[Deathly Striker||115610]] Then, you want to have a bunch of summons with [[Handless Forsaken||95265]] and/or [[Deathly Striker||115610]] that have high attack.\n"
 "\n"
-"You can reborn your undeads through [[Prosthetic Hand||112364]], and you want to try to use your Butchering spells on [[Mummifier||108992]] and Moroes."
+"You'll likely find lots of [[Moroes, Steward of Death||104612]], so try to eat that card as much as possible to scale up your permanent undeads, which include [[Noisul of the Many Faces||120106]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
 msgid ""
-"Attack scaling ([[Drustfallen Butcher||120104]]) + Undead summons ([[Deathly"
-" Striker||115610]])"
+"Attack scaling ([[Drustfallen Butcher||120104]])/[[Noisul of the Many "
+"Faces||120106]] + Undead summons ([[Deathly Striker||115610]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
@@ -322,6 +324,38 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Cast Buffed Spells"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/43/
+msgid "Murlocs - Mystic Menagerie"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/43/
+msgid ""
+"Find [[Brann Bronzebeard||96786]] and [[Shoalfin Mystic||120215]] and then "
+"either [[Greenskeeper||113930]] or [[Rylak Metalhead||98829]] to constantly "
+"proc the mystic. This will scale your spells a lot. Also keep some sort of "
+"spell generation on your board, for example [[Firescale Hoarder||120213]] or"
+" [[Gormling Gourmet||120689]]. Once you feel like your spells are big "
+"enough, solely focus on spell generation using your Rylak/Greenskeepers "
+"setup."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/43/
+msgid ""
+"[[Brann Bronzebeard||96786]] + [[Shoalfin Mystic||120215]] + a way to proc "
+"it ([[Rylak Metalhead||98829]]/[[Greenskeeper||113930]]) + Spell Generation "
+"([[Gormling Gourmet||120689]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/43/
+msgid ""
+"[[Brann Bronzebeard||96786]]\n"
+"[[Shoalfin Mystic||120215]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/43/
+msgid "Buff Spells and cast them"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
@@ -487,28 +521,29 @@ msgid "Buff stat scaling on Elementals."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Murlocs - Hand Buff"
+msgid "Murlocs - Hand Buff/Spell Buff"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
 msgid ""
-"Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] or [[Bream Counter||98509]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] + [[Brann Bronzebeard||96786]] and cycling [[Primalfin Lookout||60028]] and [[Murky||92418]]. Most importantly, you need to buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is nice to have to carry a bunch of keywords for [[Hackerfin||115848]] and Seafood Stews. Finally, [[Choral Mrrrglr||98948]] is a great way to capture the stats from your hand. \n"
+"Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] using [[Seafood stew||120940]]s from [[Gormling Gourmet||120689]]. You usually first buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Best if you can repeatedly proc the Mystic using something like [[Young Murk-eye||87084]]. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is required to have to carry a bunch of keywords for [[Seafood Stew||120940]]. After your spells are sufficiently buffed, you should cut [[Shoalfin Mystic||120215]] and switch to proccing [[Gormling Gourmet||120689]] as much as possible.\n"
 "\n"
-"In this comp, you can never go wrong with as many [[Bassgill||98926]] as possible. You'll always have murlocs you can summon from your hand, like Belcher and [[Reckless Cliffdiver||115836]]."
+"\n"
+"Finally, [[Choral Mrrrglr||98948]] and [[Bassgill||98926]] are great ways to capture the stats from your hand so you can build the strongest possible board in the endgame."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
 msgid ""
-"[[Brann Bronzebeard||96786]] + Hand buff synergy ([[Bream "
-"Counter||98509]]/[[Murkbrine Expeditioner||120687]])"
+"[[Brann Bronzebeard||96786]] + Spell Buff ([[Shoalfin Mystic||120215]]) + "
+"[[Murkbrine Expeditioner||120687]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/34/
 msgid ""
 "[[Brann Bronzebeard||96786]]\n"
-"[[Bream Counter||98509]] + [[Bassgill||98926]]"
+"Spell Buff ([[Shoalfin Mystic||120215]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Cycle Murlocs to scale Murlocs in hand"
+msgid "Buff Huge Murloc in Hand"
 msgstr ""
