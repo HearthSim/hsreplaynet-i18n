@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-30T01:40:27.500914\n"
+"POT-Creation-Date: 2025-06-16T01:40:24.993256\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,27 +15,19 @@ msgstr ""
 "X-Crowdin-File: /anomaly_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 167\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-06-13 12:40\n"
+"PO-Revision-Date: 2025-06-16 12:40\n"
 
 #: Anomaly id 102982 | Guide id 20
 msgid "Quests with spellcraft effects are really strong because you get the spellcraft for two turns."
 msgstr "具有塑造法术效果的任务非常强大，因为你可以获得两回合的塑造法术效果。"
 
-#: Anomaly id 118734 | Guide id 17
-msgid "Deathrattle Pirates are very strong in this anomaly if you stay on tavern 5 the entire game. The other good strategy is forcing Golden Brann with Murlocs and/or Dragons."
-msgstr "如果整局游戏都待在5级酒馆，亡语海盗流在这个畸变下会非常强。另一个好策略是用金铜须玩鱼人和（或者）龙。"
-
 #: Anomaly id 106631 | Guide id 91
-msgid "Generally, you use your 2 faceless manipulators on the first win condition you see on turn 8, such as goldenning a.Brann or Titus."
-msgstr "一般来说，在第8回合对你看到的第一个能让你获胜的随从使用 2 个无面操纵者，比如三连金铜须或瑞文戴尔。"
+msgid "Generally, you use your 2 faceless manipulators on the first win condition you see on turn 8, such as a Brann or Titus."
+msgstr ""
 
 #: Anomaly id 102083 | Guide id 93
 msgid "Wait a bit after you buy something before rolling, the minion that pops up might be useful."
 msgstr "买完东西后在你刷新酒馆前稍等一会儿，自动刷出来的随从可能是有用的。"
-
-#: Anomaly id 102457 | Guide id 1
-msgid "Your turn 1 buy is very important. Be prepared to only buy cards of that type. In my opinion, the best turn 1 tribes are Nagas, Pirates, and Murlocs."
-msgstr "第1回合的购买非常重要。准备好只购买这种类型的随从。 我认为最好的第1回合种族是纳迦、海盗和鱼人。"
 
 #: Anomaly id 118670 | Guide id 37
 msgid "Try to line up an early triple into a 4 drop, so you can copy the 4 drop turn 4. Also [[Drakkari Enchanter||101314]] works with this anomaly, and can be used on itself or another key card such as [[Brann Bronzebeard||96786]]."
@@ -44,6 +36,10 @@ msgstr "前期的三连尽量拿4级随从，这样你就能在第4回合复制4
 #: Anomaly id 106633 | Guide id 69
 msgid "If you're at 11-15 HP with your secret still up, do NOT use armor. Wait until your secret is used up before you use your armor up, so you can first benefit from the 11 extra gold."
 msgstr "如果你的生命值在 11-15 之间，且奥秘还未触发，请不要损失护甲。等到奥秘用完后再使用护甲，这样你就能先从额外的11铸币中获益。"
+
+#: Anomaly id 102457 | Guide id 1
+msgid "Your turn 1 buy is very important. Be prepared to only buy cards of that type."
+msgstr ""
 
 #: Anomaly id 119094 | Guide id 22
 msgid "For your second hero power, generally the lower armor the hero is, the better option it is. For example, Snake eyes is one of the best second hero powers to pick because it's a 6 armor hero paired alongside the armor of your first hero. Patchwerk technically counts as a 0 armor hero so it's one of the best second hero powers."
@@ -121,9 +117,9 @@ msgstr "向尤格萨隆祈祷随机个好的"
 msgid "If there's an OP card that synergizes with another hero in the lobby very well (eg. battlecry with Shudderwock/Brann), then don't give it to them. On the contrary, pick cards that are OP for your hero/comp but not other people's."
 msgstr "如果有一张超模卡牌能与大厅中的其他英雄产生很好的协同效应（例如战吼与沙德沃克/布莱恩·铜须的协同效应），那就不要给他们。相反，选择那些对你的英雄/流派来说超模但对其他人来说不算超模的卡牌。"
 
-#: Anomaly id 102005 | Guide id 55
-msgid "Cycle comps such as Murlocs, Elementals, or PIrates, are wayyy better in this anomaly. You can easily go infinite with a single Brann."
-msgstr "在这个畸变下，鱼人、元素或海盗等循环流派会变得更好。你可以轻松地用一个布莱恩·铜须获取无限资源。"
+#: Anomaly id 118734 | Guide id 17
+msgid "Be very careful about leveling to Tavern 6, because you will not be able to roll any cards tavern 5 and below. I recommend staying on 5 to find all the cards you need for a specific direction, and then level to 6 once you are sure you don't need 5 drops anymore. For example, with Quilboars, you want Three lil Quilboars and Titus before you level for Golden Croner."
+msgstr ""
 
 #: Anomaly id 119749 | Guide id 61
 msgid "Heroes that benefit from the extra minions at the start are way better, such as Aranna or Sire."
@@ -141,10 +137,6 @@ msgstr "一张法术奖券大约价值1金。但不要为了买奖券而买垃�
 msgid "For the first few turns, guaranteeing that you lose a fight by holding your unit is better than leaving it up to chance. After you've lost a couple of rounds, you can cash out all your gold on tavern 4, and start betting on yourself after you're confident in the win."
 msgstr "在最开始的几个回合中，把随从留在手上不上场来保证自己输掉战斗总比听天由命要好。在输掉几个回合后，你可以在4级酒馆花完所有铸币，在对胜利充满信心后开始为自己下注。"
 
-#: Anomaly id 101992 | Guide id 23
-msgid "It's hard to pick heroes that love to level fast on this anomaly, such as maybe [[Snake Eyes||105314]]. You want your hero power to be able to put stats on the board without relying on high tier units."
-msgstr "在这个畸变下很难去选那些喜欢快速升级的英雄，比如[[蛇眼||105314]]。你需要你的英雄技能能够在不依赖高等级随从的情况下有足够的战力。"
-
 #: Anomaly id 119748 | Guide id 30
 msgid "Your turn 1 buy is very important, because you'll only get cards from that tribe. Also, it's easy to level fast on this anomaly in order to not buy trash. In my opinion, the best turn 1 tribes are Nagas, Pirates, and Murlocs."
 msgstr "第1回合的购买非常重要。因为你只能获得这个种族的随从。此外，为了不买垃圾牌，在这个畸变下很容易快速升级。我认为最好的第1回合种族是纳迦、海盗和鱼人。"
@@ -153,13 +145,13 @@ msgstr "第1回合的购买非常重要。因为你只能获得这个种族的�
 msgid "Staying down and making interest is ALWAYS better than leveling and not making interest. I prefer to not buy any minions turn 1 and start making interest turn 2 onwards. Then, I would spend all the gold on tavern 4 to stabilize."
 msgstr "保持稳定并赚取利息永远比提升酒馆等级不拿利息要好。我更喜欢在第1回合不买任何随从，从第2回合开始赚取利息。然后我会把所有铸币都花在4级酒馆并稳定下来。"
 
-#: Anomaly id 119092 | Guide id 57
-msgid "ALWAYS go for a 5-6 drop with your scout."
-msgstr "始终用耐心的侦查员换5到6级的随从。"
-
 #: Anomaly id 102092 | Guide id 52
 msgid "Try rolling 3 times turn 1 and 2 times turn 3 to have a 6/6 monkey and a 3 drop on turn 3. You could even hold the monkey to get a 4 drop on turn 4."
 msgstr "试着在第1回合刷新3次，第3回合刷新2次，这样就能在第3回合得到一只6/6的黄金猿和一个3级随从。你甚至可以把黄金猿留在手上，并在第4回合上场获得4级随从。"
+
+#: Anomaly id 118669 | Guide id 15
+msgid "No real tip, just play Marin how you're used to"
+msgstr ""
 
 #: Anomaly id 103078 | Guide id 82
 msgid "Do not skip [[Elise Starseeker||60213]] in this anomaly! It's by far the best way to print 7 drops, and they're pretty OP. With Elise, you really want Golden [[Moira Bronzebeard||103502]], (with [[Captain Sanders||97539]] if it's available), and [[King Varian||102998]] for more money and 6 drops. You can go infinite like this, and scale in whatever way you want."
@@ -180,6 +172,10 @@ msgstr "在这个畸变下，你真的很难凑出任何流派，所以也许需
 #: Anomaly id 102459 | Guide id 84
 msgid "Usually, you level to tavern 2 on turn 2, then tavern 3 on turn 4. The best T2 prizes to take are 2 coins and 3 rolls. The best T3 prizes to take are Great Deal and Unlimited Coin."
 msgstr "通常情况下，在第2回合升到2级酒馆，然后在第4回合升到3级酒馆。等级2的最佳暗月奖品是2个铸币和3次刷新。等级3的最佳暗月奖品是 “绝妙的交易 ”和 “无穷铸币”。"
+
+#: Anomaly id 102005 | Guide id 55
+msgid "Cycle comps such as Murlocs, Elementals, or PIrates, are wayyy better in this anomaly. You can easily go infinite with a single Brann or Doubloon Grifter."
+msgstr ""
 
 #: Anomaly id 118697 | Guide id 10
 msgid "Don't be afraid to use a good spell when you see it. An early [[Strike Oil||104029]] or [[Time Management||117573]] is much better to use immediately than to hold for a later tier spell."
@@ -205,7 +201,11 @@ msgstr "有几个“智慧之球”刷新需要注意的点：其中一个是复
 msgid "Spells are really bad to buy in this anomaly. Typically you get one gold back from using [[Chef's Choice||105664]] but in this anomaly the spell is more expensive. Also minions are much more efficient to buy. Also, every single [[Refreshing Anomaly||64042]] is free."
 msgstr "在这个畸变下购买法术非常不划算。通常情况下，使用[[主厨甄选||105664]]可以换回1铸币，但在此畸变下法术的价格更高。此外，购买随从也更有效率。另外，每个[[刷新畸体||64042]]都是免费的。"
 
-#: Anomaly id 118669 | Guide id 15
-msgid "There are some trinkets that are OP in this meta but not OP in Trinket Meta because of different minion pool, so try to think of crazy combos with some trinkets. One such example of [[Alliance Keychain]] now that [[Transmuted Bramblewitch]] is not in the game."
-msgstr "有些饰品在这个环境中是超模的，但在饰品版本环境中却不超模，这是因为随从池不同，所以试着用一些饰品想出疯狂的组合。其中一个例子就是[[联盟钥匙链]]，现在[[棘化荆蔓女巫]]已经不在游戏中了。"
+#: Anomaly id 119092 | Guide id 57
+msgid "ALWAYS go for a 6 drop with your scout."
+msgstr ""
+
+#: Anomaly id 101992 | Guide id 23
+msgid "It's hard to pick heroes that love to level fast on this anomaly, such as maybe [[Snake Eyes||105314]]. You want your hero power to be able to put stats on the board without relying on high tier units. I think Ysera is very solid in this one."
+msgstr ""
 

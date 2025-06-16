@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-04-30T01:40:27.500914\n"
+"POT-Creation-Date: 2025-06-16T01:40:24.993256\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -15,26 +15,18 @@ msgstr ""
 "X-Crowdin-File: /anomaly_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 167\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2025-04-30 12:40\n"
+"PO-Revision-Date: 2025-06-16 12:40\n"
 
 #: Anomaly id 102982 | Guide id 20
 msgid "Quests with spellcraft effects are really strong because you get the spellcraft for two turns."
 msgstr ""
 
-#: Anomaly id 118734 | Guide id 17
-msgid "Deathrattle Pirates are very strong in this anomaly if you stay on tavern 5 the entire game. The other good strategy is forcing Golden Brann with Murlocs and/or Dragons."
-msgstr ""
-
 #: Anomaly id 106631 | Guide id 91
-msgid "Generally, you use your 2 faceless manipulators on the first win condition you see on turn 8, such as goldenning a.Brann or Titus."
+msgid "Generally, you use your 2 faceless manipulators on the first win condition you see on turn 8, such as a Brann or Titus."
 msgstr ""
 
 #: Anomaly id 102083 | Guide id 93
 msgid "Wait a bit after you buy something before rolling, the minion that pops up might be useful."
-msgstr ""
-
-#: Anomaly id 102457 | Guide id 1
-msgid "Your turn 1 buy is very important. Be prepared to only buy cards of that type. In my opinion, the best turn 1 tribes are Nagas, Pirates, and Murlocs."
 msgstr ""
 
 #: Anomaly id 118670 | Guide id 37
@@ -43,6 +35,10 @@ msgstr ""
 
 #: Anomaly id 106633 | Guide id 69
 msgid "If you're at 11-15 HP with your secret still up, do NOT use armor. Wait until your secret is used up before you use your armor up, so you can first benefit from the 11 extra gold."
+msgstr ""
+
+#: Anomaly id 102457 | Guide id 1
+msgid "Your turn 1 buy is very important. Be prepared to only buy cards of that type."
 msgstr ""
 
 #: Anomaly id 119094 | Guide id 22
@@ -121,8 +117,8 @@ msgstr ""
 msgid "If there's an OP card that synergizes with another hero in the lobby very well (eg. battlecry with Shudderwock/Brann), then don't give it to them. On the contrary, pick cards that are OP for your hero/comp but not other people's."
 msgstr ""
 
-#: Anomaly id 102005 | Guide id 55
-msgid "Cycle comps such as Murlocs, Elementals, or PIrates, are wayyy better in this anomaly. You can easily go infinite with a single Brann."
+#: Anomaly id 118734 | Guide id 17
+msgid "Be very careful about leveling to Tavern 6, because you will not be able to roll any cards tavern 5 and below. I recommend staying on 5 to find all the cards you need for a specific direction, and then level to 6 once you are sure you don't need 5 drops anymore. For example, with Quilboars, you want Three lil Quilboars and Titus before you level for Golden Croner."
 msgstr ""
 
 #: Anomaly id 119749 | Guide id 61
@@ -141,10 +137,6 @@ msgstr ""
 msgid "For the first few turns, guaranteeing that you lose a fight by holding your unit is better than leaving it up to chance. After you've lost a couple of rounds, you can cash out all your gold on tavern 4, and start betting on yourself after you're confident in the win."
 msgstr ""
 
-#: Anomaly id 101992 | Guide id 23
-msgid "It's hard to pick heroes that love to level fast on this anomaly, such as maybe [[Snake Eyes||105314]]. You want your hero power to be able to put stats on the board without relying on high tier units."
-msgstr ""
-
 #: Anomaly id 119748 | Guide id 30
 msgid "Your turn 1 buy is very important, because you'll only get cards from that tribe. Also, it's easy to level fast on this anomaly in order to not buy trash. In my opinion, the best turn 1 tribes are Nagas, Pirates, and Murlocs."
 msgstr ""
@@ -153,12 +145,12 @@ msgstr ""
 msgid "Staying down and making interest is ALWAYS better than leveling and not making interest. I prefer to not buy any minions turn 1 and start making interest turn 2 onwards. Then, I would spend all the gold on tavern 4 to stabilize."
 msgstr ""
 
-#: Anomaly id 119092 | Guide id 57
-msgid "ALWAYS go for a 5-6 drop with your scout."
-msgstr ""
-
 #: Anomaly id 102092 | Guide id 52
 msgid "Try rolling 3 times turn 1 and 2 times turn 3 to have a 6/6 monkey and a 3 drop on turn 3. You could even hold the monkey to get a 4 drop on turn 4."
+msgstr ""
+
+#: Anomaly id 118669 | Guide id 15
+msgid "No real tip, just play Marin how you're used to"
 msgstr ""
 
 #: Anomaly id 103078 | Guide id 82
@@ -179,6 +171,10 @@ msgstr ""
 
 #: Anomaly id 102459 | Guide id 84
 msgid "Usually, you level to tavern 2 on turn 2, then tavern 3 on turn 4. The best T2 prizes to take are 2 coins and 3 rolls. The best T3 prizes to take are Great Deal and Unlimited Coin."
+msgstr ""
+
+#: Anomaly id 102005 | Guide id 55
+msgid "Cycle comps such as Murlocs, Elementals, or PIrates, are wayyy better in this anomaly. You can easily go infinite with a single Brann or Doubloon Grifter."
 msgstr ""
 
 #: Anomaly id 118697 | Guide id 10
@@ -205,7 +201,11 @@ msgstr ""
 msgid "Spells are really bad to buy in this anomaly. Typically you get one gold back from using [[Chef's Choice||105664]] but in this anomaly the spell is more expensive. Also minions are much more efficient to buy. Also, every single [[Refreshing Anomaly||64042]] is free."
 msgstr ""
 
-#: Anomaly id 118669 | Guide id 15
-msgid "There are some trinkets that are OP in this meta but not OP in Trinket Meta because of different minion pool, so try to think of crazy combos with some trinkets. One such example of [[Alliance Keychain]] now that [[Transmuted Bramblewitch]] is not in the game."
+#: Anomaly id 119092 | Guide id 57
+msgid "ALWAYS go for a 6 drop with your scout."
+msgstr ""
+
+#: Anomaly id 101992 | Guide id 23
+msgid "It's hard to pick heroes that love to level fast on this anomaly, such as maybe [[Snake Eyes||105314]]. You want your hero power to be able to put stats on the board without relying on high tier units. I think Ysera is very solid in this one."
 msgstr ""
 

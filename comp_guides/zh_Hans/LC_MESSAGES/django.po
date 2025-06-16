@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-14 01:40\n"
+"POT-Creation-Date: 2025-06-16 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-06-14 12:40\n"
+"PO-Revision-Date: 2025-06-16 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/44/
 msgid "Beasts - Burrower"
@@ -272,6 +272,31 @@ msgstr "[[邪火咒龙||120299]] + [[达卡莱附魔师||101314]] 或酒馆法�
 msgid "Cast Buffed Spells"
 msgstr "施放Buff过的酒馆法术"
 
+#: name | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Pirates - APM"
+msgstr "海盗 - 倒转"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
+msgid "After you have at least two [[Doubloon Grifter||116035]] and [[Dastardly Drust||119992]], buy every single Pirate to scale your board. This will ramp up your economy for the rest of the game until you have 50 max gold saved, where you're easily infinite. After you're infinite, continue to buy every pirate, but you can also make the best possible endgame boardstate. \n\n"
+"With Undeads in, the best endgame boardstate is eating your pirates onto a [[Sinrunner Blanchy||92398]], then eating it with KT. That pivot requires planning well in advance though."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Double [[Doubloon Grifter||116035]] + [[Dastardly Drust||119992]]"
+msgstr "两个[[金币诈骗犯||116035]] + [[卑鄙的德鲁斯特||119992]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Doubloon Grifter||116035]]\n"
+"Midgame pirates ([[Gunpowder Courier||98889]])"
+msgstr "[[布莱恩·铜须||96786]]\n"
+"[[金币诈骗犯||116035]]\n"
+"中期过度海盗 ([[火药运输工||98889]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Spend lots of gold to scale"
+msgstr "花费大量铸币来成长"
+
 #: name | https://hsreplay.net/battlegrounds/comps/43/
 msgid "Murlocs - Mystic Menagerie"
 msgstr ""
@@ -292,30 +317,6 @@ msgstr ""
 #: summary | https://hsreplay.net/battlegrounds/comps/43/
 msgid "Buff Spells and cast them"
 msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Pirates - APM"
-msgstr "海盗 - 倒转"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "After you have at least two [[Doubloon Grifter||116035]] and [[Dastardly Drust||119992]], buy every single Pirate to scale your board. This will ramp up your economy for the rest of the game until you have 50 max gold saved, where you're easily infinite. After you're infinite, continue to buy every pirate, but you can also make the best possible endgame boardstate."
-msgstr "在你至少拥有两个[[金币诈骗犯||116035]] 和 [[卑鄙的德鲁斯特||119992]] 之后，购买每一个海盗来扩大你的棋盘属性。这将在接下来的游戏中提升你的经济，直到你积攒了 50 铸币上限，你就可以轻松实现无限资源。无限之后继续购买每一个海盗，但你也可以尽可能打造出最好的终局棋盘状态。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Double [[Doubloon Grifter||116035]] + [[Dastardly Drust||119992]]"
-msgstr "两个[[金币诈骗犯||116035]] + [[卑鄙的德鲁斯特||119992]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Doubloon Grifter||116035]]\n"
-"Midgame pirates ([[Gunpowder Courier||98889]])"
-msgstr "[[布莱恩·铜须||96786]]\n"
-"[[金币诈骗犯||116035]]\n"
-"中期过度海盗 ([[火药运输工||98889]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Spend lots of gold to scale"
-msgstr "花费大量铸币来成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Quilboar - Combat Scaling"
