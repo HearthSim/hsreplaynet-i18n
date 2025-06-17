@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 01:40\n"
+"POT-Creation-Date: 2025-06-16 18:33\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: pl\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-06-16 12:40\n"
+"PO-Revision-Date: 2025-06-17 00:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/44/
 msgid "Beasts - Burrower"
@@ -35,6 +35,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/44/
 msgid "Make huge beasts"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/36/
+msgid "Nalaa"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/36/
+msgid "Buy every single spell that effectively costs 1 or 2 (Fleeting Vigor, Cloning Conch), to scale your good menagerie units. After you've scaled your Menagerie units enough, you can stop scaling and fill out the rest of your board with scam units ([[Leeroy the Reckless||90425]])."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/36/
+msgid "[[Nalaa the Redeemer||104468]] + Spell Generation/Good tribes ([[Blade Collector||99035]])/another Nalaa"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/36/
+msgid "[[Nalaa the Redeemer||104468]]\n"
+"Spell Generation"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/36/
+msgid "Buy spells to scale Menagerie units."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/2/
@@ -169,6 +190,27 @@ msgstr ""
 msgid "Buff Murlocs End of Turn"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/38/
+msgid "Beasts - Summon Beetles"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/38/
+msgid "With the [[Bird Buddy||72055]] + [[Silky Shimmermoth||121135]] combo, your beetles will scale +2/2 every time a minion dies. Then, fill out the rest of your board with either an avenge setup, or beetle summoners. Reborning your beetle summoners is very important too.\n\n"
+"Instead of Bird Buddy variation, you can opt to go for [[Catacomb Crasher||114379]] to scale your Silky Shimmermoth as well, since every individual overflowed unit will count towards one proc of the Shimmermoth."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/38/
+msgid "[[Silky Shimmermoth||121135]] + some way to scale it ([[Bird Buddy||72055]]/[[Gentle Stag||119746]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/38/
+msgid "[[Turquoise Skitterer||119255]], [[Runed Progenitor||117499]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/38/
+msgid "Summon large beetles"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/14/
 msgid "Undead - Attack Scaling"
 msgstr ""
@@ -189,27 +231,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/14/
 msgid "Summon high attack Undeads"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/38/
-msgid "Beasts - Summon Beetles"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/38/
-msgid "With the [[Bird Buddy||72055]] + [[Silky Shimmermoth||121135]] combo, your beetles will scale +2/2 every time a minion dies. Then, fill out the rest of your board with either an avenge setup, or beetle summoners. Reborning your beetle summoners is very important too.\n\n"
-"Instead of Bird Buddy variation, you can opt to go for [[Catacomb Crasher||114379]] to scale your Silky Shimmermoth as well, since every individual overflowed unit will count towards one proc of the Shimmermoth."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/38/
-msgid "[[Silky Shimmermoth||121135]] + some way to scale it ([[Bird Buddy||72055]]/[[Gentle Stag||119746]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/38/
-msgid "[[Turquoise Skitterer||119255]], [[Runed Progenitor||117499]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/38/
-msgid "Summon large beetles"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/15/
@@ -334,26 +355,6 @@ msgstr ""
 msgid "Scale up blood gems, unleash them during combat"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/21/
-msgid "Mechs - Divine Shield"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/21/
-msgid "After you have your [[Charging Czarina||110321]] setup, then you should buy every single spell that effectively costs 1 gold, such as [[Careful Investment||103779]] and [[Enchanted Lasso||104502]]. Your spell generation comes from [[Marquee Ticker||115680]] or [[Nightmare Par-tea Guest||120754]] and gives you additional scaling. [[Holo rover||115674]] is also necessary to this comp because it will generate Divine Shields, reborns, and automatons for all your mechs."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/21/
-msgid "[[Charging Czarina||110321]] + Divine Shields ([[Holo Rover||115674]], [[Grease bot||72389]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/21/
-msgid "Divine Shields ([[Deflect-o-bot||61930]], [[Grease bot||72389]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/21/
-msgid "Play spells to buff Mechs"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/20/
 msgid "Nagas - Groundbreaker"
 msgstr ""
@@ -373,6 +374,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/20/
 msgid "Play spells and nagas to scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Mechs - Divine Shield"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/21/
+msgid "After you have your [[Charging Czarina||110321]] setup, then you should buy every single spell that effectively costs 1 gold, such as [[Careful Investment||103779]] and [[Enchanted Lasso||104502]]. Your spell generation comes from [[Marquee Ticker||115680]] or [[Nightmare Par-tea Guest||120754]] and gives you additional scaling. [[Holo rover||115674]] is also necessary to this comp because it will generate Divine Shields, reborns, and automatons for all your mechs."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/21/
+msgid "[[Charging Czarina||110321]] + Divine Shields ([[Holo Rover||115674]], [[Grease bot||72389]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Divine Shields ([[Deflect-o-bot||61930]], [[Grease bot||72389]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Play spells to buff Mechs"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/6/

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 01:40\n"
+"POT-Creation-Date: 2025-06-16 18:33\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-06-16 12:40\n"
+"PO-Revision-Date: 2025-06-17 00:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/44/
 msgid "Beasts - Burrower"
@@ -36,6 +36,27 @@ msgstr "初始的复仇 ([[Harmless Bonehead||104551]])"
 #: summary | https://hsreplay.net/battlegrounds/comps/44/
 msgid "Make huge beasts"
 msgstr "做出巨大的野兽"
+
+#: name | https://hsreplay.net/battlegrounds/comps/36/
+msgid "Nalaa"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/36/
+msgid "Buy every single spell that effectively costs 1 or 2 (Fleeting Vigor, Cloning Conch), to scale your good menagerie units. After you've scaled your Menagerie units enough, you can stop scaling and fill out the rest of your board with scam units ([[Leeroy the Reckless||90425]])."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/36/
+msgid "[[Nalaa the Redeemer||104468]] + Spell Generation/Good tribes ([[Blade Collector||99035]])/another Nalaa"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/36/
+msgid "[[Nalaa the Redeemer||104468]]\n"
+"Spell Generation"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/36/
+msgid "Buy spells to scale Menagerie units."
+msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Mechs - Magnetics"
@@ -169,6 +190,28 @@ msgstr "将会添加"
 msgid "Buff Murlocs End of Turn"
 msgstr "在回合结束时Buff鱼人"
 
+#: name | https://hsreplay.net/battlegrounds/comps/38/
+msgid "Beasts - Summon Beetles"
+msgstr "野兽 - 召唤甲虫"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/38/
+msgid "With the [[Bird Buddy||72055]] + [[Silky Shimmermoth||121135]] combo, your beetles will scale +2/2 every time a minion dies. Then, fill out the rest of your board with either an avenge setup, or beetle summoners. Reborning your beetle summoners is very important too.\n\n"
+"Instead of Bird Buddy variation, you can opt to go for [[Catacomb Crasher||114379]] to scale your Silky Shimmermoth as well, since every individual overflowed unit will count towards one proc of the Shimmermoth."
+msgstr "使用[[鸟类的伙伴||72055]]+[[丝柔烁光蛾||121135]]组合，每当一个随从死亡，你的甲虫就会获得+2/2。然后用复仇阵容或甲虫召唤者来填充你棋盘的其他部分。为你的甲虫召唤者贴上复生也非常重要。\n\n"
+"你也可以选择[[古墓捣蛋鬼||114379]]来增大你的丝柔烁光蛾，因为每个挤爆的单位都将计入烁光蛾的一次攻击力获取。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/38/
+msgid "[[Silky Shimmermoth||121135]] + some way to scale it ([[Bird Buddy||72055]]/[[Gentle Stag||119746]])"
+msgstr "[[丝柔烁光蛾||121135]] + 一些属性成长方法([[鸟类的伙伴||72055]]/[[温驯的雄鹿|||119746]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/38/
+msgid "[[Turquoise Skitterer||119255]], [[Runed Progenitor||117499]]"
+msgstr "[[绿松石飞掠虫||119255]], [[符文虫祖||117499]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/38/
+msgid "Summon large beetles"
+msgstr "召唤大甲虫"
+
 #: name | https://hsreplay.net/battlegrounds/comps/14/
 msgid "Undead - Attack Scaling"
 msgstr "亡灵 - 攻击提升"
@@ -191,28 +234,6 @@ msgstr "[[致命打击者||115610]] \n"
 #: summary | https://hsreplay.net/battlegrounds/comps/14/
 msgid "Summon high attack Undeads"
 msgstr "召唤高攻击力的亡灵"
-
-#: name | https://hsreplay.net/battlegrounds/comps/38/
-msgid "Beasts - Summon Beetles"
-msgstr "野兽 - 召唤甲虫"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/38/
-msgid "With the [[Bird Buddy||72055]] + [[Silky Shimmermoth||121135]] combo, your beetles will scale +2/2 every time a minion dies. Then, fill out the rest of your board with either an avenge setup, or beetle summoners. Reborning your beetle summoners is very important too.\n\n"
-"Instead of Bird Buddy variation, you can opt to go for [[Catacomb Crasher||114379]] to scale your Silky Shimmermoth as well, since every individual overflowed unit will count towards one proc of the Shimmermoth."
-msgstr "使用[[鸟类的伙伴||72055]]+[[丝柔烁光蛾||121135]]组合，每当一个随从死亡，你的甲虫就会获得+2/2。然后用复仇阵容或甲虫召唤者来填充你棋盘的其他部分。为你的甲虫召唤者贴上复生也非常重要。\n\n"
-"你也可以选择[[古墓捣蛋鬼||114379]]来增大你的丝柔烁光蛾，因为每个挤爆的单位都将计入烁光蛾的一次攻击力获取。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/38/
-msgid "[[Silky Shimmermoth||121135]] + some way to scale it ([[Bird Buddy||72055]]/[[Gentle Stag||119746]])"
-msgstr "[[丝柔烁光蛾||121135]] + 一些属性成长方法([[鸟类的伙伴||72055]]/[[温驯的雄鹿|||119746]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/38/
-msgid "[[Turquoise Skitterer||119255]], [[Runed Progenitor||117499]]"
-msgstr "[[绿松石飞掠虫||119255]], [[符文虫祖||117499]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/38/
-msgid "Summon large beetles"
-msgstr "召唤大甲虫"
 
 #: name | https://hsreplay.net/battlegrounds/comps/15/
 msgid "Dragons - Kalecgos"
@@ -340,26 +361,6 @@ msgstr "[[刺头吹笛人||98946]]"
 msgid "Scale up blood gems, unleash them during combat"
 msgstr "提升鲜血宝石属性，在战斗中施放"
 
-#: name | https://hsreplay.net/battlegrounds/comps/21/
-msgid "Mechs - Divine Shield"
-msgstr "机械 - 圣盾"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/21/
-msgid "After you have your [[Charging Czarina||110321]] setup, then you should buy every single spell that effectively costs 1 gold, such as [[Careful Investment||103779]] and [[Enchanted Lasso||104502]]. Your spell generation comes from [[Marquee Ticker||115680]] or [[Nightmare Par-tea Guest||120754]] and gives you additional scaling. [[Holo rover||115674]] is also necessary to this comp because it will generate Divine Shields, reborns, and automatons for all your mechs."
-msgstr "当你拥有 [[蓄能女沙皇||110321]] 后，购买每个仅耗费1铸币的法术，如 [[慎重投资||103779]] 和 [[附魔链索||104502]]。[[招牌计时机||115680] 或 [[梦魇茶客||120754]] 生成的法术可以获得额外加成。[[移动投影仪||115674]] 也是此流派的必备，因为它可以为你的机械生成圣盾，复生和星元机磁力组件。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/21/
-msgid "[[Charging Czarina||110321]] + Divine Shields ([[Holo Rover||115674]], [[Grease bot||72389]])"
-msgstr "[[蓄能女沙皇||110321]] + 圣盾随从 ([[偏折机器人||61930]], [[滑油机器人||72389]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/21/
-msgid "Divine Shields ([[Deflect-o-bot||61930]], [[Grease bot||72389]])"
-msgstr "圣盾随从 ([[偏折机器人||61930]], [[滑油机器人||72389]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/21/
-msgid "Play spells to buff Mechs"
-msgstr "释放酒馆法术来Buff机械"
-
 #: name | https://hsreplay.net/battlegrounds/comps/20/
 msgid "Nagas - Groundbreaker"
 msgstr "纳迦 - 碎地者"
@@ -381,6 +382,26 @@ msgstr "[[暗潮战略专家||115555]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/20/
 msgid "Play spells and nagas to scale"
 msgstr "打出法术和纳迦来成长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Mechs - Divine Shield"
+msgstr "机械 - 圣盾"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/21/
+msgid "After you have your [[Charging Czarina||110321]] setup, then you should buy every single spell that effectively costs 1 gold, such as [[Careful Investment||103779]] and [[Enchanted Lasso||104502]]. Your spell generation comes from [[Marquee Ticker||115680]] or [[Nightmare Par-tea Guest||120754]] and gives you additional scaling. [[Holo rover||115674]] is also necessary to this comp because it will generate Divine Shields, reborns, and automatons for all your mechs."
+msgstr "当你拥有 [[蓄能女沙皇||110321]] 后，购买每个仅耗费1铸币的法术，如 [[慎重投资||103779]] 和 [[附魔链索||104502]]。[[招牌计时机||115680] 或 [[梦魇茶客||120754]] 生成的法术可以获得额外加成。[[移动投影仪||115674]] 也是此流派的必备，因为它可以为你的机械生成圣盾，复生和星元机磁力组件。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/21/
+msgid "[[Charging Czarina||110321]] + Divine Shields ([[Holo Rover||115674]], [[Grease bot||72389]])"
+msgstr "[[蓄能女沙皇||110321]] + 圣盾随从 ([[偏折机器人||61930]], [[滑油机器人||72389]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Divine Shields ([[Deflect-o-bot||61930]], [[Grease bot||72389]])"
+msgstr "圣盾随从 ([[偏折机器人||61930]], [[滑油机器人||72389]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Play spells to buff Mechs"
+msgstr "释放酒馆法术来Buff机械"
 
 #: name | https://hsreplay.net/battlegrounds/comps/6/
 msgid "Undead - Overflow"
