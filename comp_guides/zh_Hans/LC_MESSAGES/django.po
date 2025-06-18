@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-06-17 12:40\n"
+"PO-Revision-Date: 2025-06-18 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/44/
 msgid "Beasts - Burrower"
@@ -39,7 +39,7 @@ msgstr "做出巨大的野兽"
 
 #: name | https://hsreplay.net/battlegrounds/comps/36/
 msgid "Nalaa"
-msgstr "救赎者娜拉"
+msgstr "娜拉喝茶"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/36/
 msgid "Buy every single spell that effectively costs 1 or 2 (Fleeting Vigor, Cloning Conch), to scale your good menagerie units. After you've scaled your Menagerie units enough, you can stop scaling and fill out the rest of your board with scam units ([[Leeroy the Reckless||90425]])."
@@ -302,7 +302,8 @@ msgstr "海盗 - 倒转"
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
 msgid "After you have at least two [[Doubloon Grifter||116035]] and [[Dastardly Drust||119992]], buy every single Pirate to scale your board. This will ramp up your economy for the rest of the game until you have 50 max gold saved, where you're easily infinite. After you're infinite, continue to buy every pirate, but you can also make the best possible endgame boardstate. \n\n"
 "With Undeads in, the best endgame boardstate is eating your pirates onto a [[Sinrunner Blanchy||92398]], then eating it with KT. That pivot requires planning well in advance though."
-msgstr ""
+msgstr "在你至少拥有两个 [[Doubloon Grifter||116035]] 和 [[Dastardly Drust||119992]] 之后，购买每一个海盗来扩大你的棋盘属性。这将在接下来的对局中提升你的经济，到你攒到了 50 个最大铸币后就可以轻松实现无限经济。无限之后继续购买每一个海盗，但你也可以尽可能做出最好的终局棋盘状态。\n\n"
+"在有亡灵的情况下，最好的终局状态是把海盗的身材吃到[[Sinrunner Blanchy||92398]]上，然后用克尔苏加德吃掉它。不过这种转折需要提前做好规划。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Double [[Doubloon Grifter||116035]] + [[Dastardly Drust||119992]]"
@@ -457,7 +458,8 @@ msgstr "鱼人 - 手牌Buff/法术Buff"
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] using [[Seafood stew||120940]]s from [[Gormling Gourmet||120689]]. You usually first buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Best if you can repeatedly proc the Mystic using something like [[Young Murk-eye||87084]]. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is required to have to carry a bunch of keywords for [[Seafood Stew||120940]]. After your spells are sufficiently buffed, you should cut [[Shoalfin Mystic||120215]] and switch to proccing [[Gormling Gourmet||120689]] as much as possible.\n\n\n"
 "Finally, [[Choral Mrrrglr||98948]] and [[Bassgill||98926]] are great ways to capture the stats from your hand so you can build the strongest possible board in the endgame."
-msgstr ""
+msgstr "准备一个专用的鱼人，把你所有的手牌Buff都加在他身上。通常是[[Flighty Scout||120677]]，但也可以是[[Operatic Belcher||101316]]。然后依靠[[Murkbrine Expeditioner||120687]]用[[Gormling Gourmet||120689]]生成的[[Seafood stew||120940]]来给这个鱼人加buff。通常会先使用[[Shoalfin Mystic||120215]]为酒馆法术加buff，因此每一个[[Gormling Gourmet||120689]]都会给你的远行者带来大量属性加成。如果你能使用类似[[Young Murk-eye||87084]]这样的随从反复触发秘法师就最好不过了。金色的[[Bubble Gunner||116178]]或[[Apprentice of Sefin||120681]]是必须的，为了[[Seafood Stew||120940]]的效果携带一堆额外关键词。在你的法术Buff足够多之后，你应该换掉[[Shoalfin Mystic||120215]]，尽可能多地转而触发 [[Gormling Gourmet||120689]]。\n\n"
+"最后，[[Choral Mrrrglr||98948]] 和 [[Bassgill||98926]] 是获取手牌中属性的好方法，这样你就能在终局中构建尽可能强大的棋盘。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
 msgid "[[Brann Bronzebeard||96786]] + Spell Buff ([[Shoalfin Mystic||120215]]) + [[Murkbrine Expeditioner||120687]]"
