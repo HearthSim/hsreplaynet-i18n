@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16 18:33\n"
+"POT-Creation-Date: 2025-06-19 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-06-19 00:40\n"
+"PO-Revision-Date: 2025-06-19 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/44/
 msgid "Beasts - Burrower"
@@ -295,6 +295,28 @@ msgstr "[[邪火咒龙||120299]] + [[达卡莱附魔师||101314]] 或酒馆法�
 msgid "Cast Buffed Spells"
 msgstr "施放Buff过的酒馆法术"
 
+#: name | https://hsreplay.net/battlegrounds/comps/43/
+msgid "Murlocs - Mystic Menagerie"
+msgstr "鱼人 - 秘法师喝茶"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/43/
+msgid "Find [[Brann Bronzebeard||96786]] and [[Shoalfin Mystic||120215]] and then either [[Greenskeeper||113930]] or [[Rylak Metalhead||98829]] to constantly proc the mystic. This will scale your spells a lot. Also keep some sort of spell generation on your board, for example [[Firescale Hoarder||120213]] or [[Gormling Gourmet||120689]]. Once you feel like your spells are big enough, solely focus on spell generation using your Rylak/Greenskeepers setup."
+msgstr "先找 [[Brann Bronzebeard||96786]] 和 [[Shoalfin Mystic||120215]] ，然后找[[Greenskeeper||113930]] 或 [[Rylak Metalhead||98829]] 来不断地触发浅鳍秘法师。这将大大提高你的酒馆法术属性加成。同时在你的棋盘上保留一些法术生成器，例如 [[Firescale Hoarder||120213]] 或 [[Gormling Gourmet||120689]]。一旦你觉得你的酒馆法术加成足够大了，就可以将你的双头飞龙/护植绿龙用于触发法术生成了。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/43/
+msgid "[[Brann Bronzebeard||96786]] + [[Shoalfin Mystic||120215]] + a way to proc it ([[Rylak Metalhead||98829]]/[[Greenskeeper||113930]]) + Spell Generation ([[Gormling Gourmet||120689]])"
+msgstr "[[Brann Bronzebeard||96786]] + [[Shoalfin Mystic||120215]] + 再触发战吼 ([[Rylak Metalhead||98829]]/[[Greenskeeper||113930]]) + 酒馆法术生成 ([[Gormling Gourmet||120689]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/43/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Shoalfin Mystic||120215]]"
+msgstr "[[Brann Bronzebeard||96786]]\n"
+"[[Shoalfin Mystic||120215]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/43/
+msgid "Buff Spells and cast them"
+msgstr "Buff酒馆法术并释放它们"
+
 #: name | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Pirates - APM"
 msgstr "海盗 - 倒转"
@@ -320,28 +342,6 @@ msgstr "[[布莱恩·铜须||96786]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Spend lots of gold to scale"
 msgstr "花费大量铸币来成长"
-
-#: name | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Murlocs - Mystic Menagerie"
-msgstr "鱼人 - 秘法师喝茶"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Find [[Brann Bronzebeard||96786]] and [[Shoalfin Mystic||120215]] and then either [[Greenskeeper||113930]] or [[Rylak Metalhead||98829]] to constantly proc the mystic. This will scale your spells a lot. Also keep some sort of spell generation on your board, for example [[Firescale Hoarder||120213]] or [[Gormling Gourmet||120689]]. Once you feel like your spells are big enough, solely focus on spell generation using your Rylak/Greenskeepers setup."
-msgstr "先找 [[Brann Bronzebeard||96786]] 和 [[Shoalfin Mystic||120215]] ，然后找[[Greenskeeper||113930]] 或 [[Rylak Metalhead||98829]] 来不断地触发浅鳍秘法师。这将大大提高你的酒馆法术属性加成。同时在你的棋盘上保留一些法术生成器，例如 [[Firescale Hoarder||120213]] 或 [[Gormling Gourmet||120689]]。一旦你觉得你的酒馆法术加成足够大了，就可以将你的双头飞龙/护植绿龙用于触发法术生成了。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/43/
-msgid "[[Brann Bronzebeard||96786]] + [[Shoalfin Mystic||120215]] + a way to proc it ([[Rylak Metalhead||98829]]/[[Greenskeeper||113930]]) + Spell Generation ([[Gormling Gourmet||120689]])"
-msgstr "[[Brann Bronzebeard||96786]] + [[Shoalfin Mystic||120215]] + 再触发战吼 ([[Rylak Metalhead||98829]]/[[Greenskeeper||113930]]) + 酒馆法术生成 ([[Gormling Gourmet||120689]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/43/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Shoalfin Mystic||120215]]"
-msgstr "[[Brann Bronzebeard||96786]]\n"
-"[[Shoalfin Mystic||120215]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Buff Spells and cast them"
-msgstr "Buff酒馆法术并释放它们"
 
 #: name | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Quilboar - Combat Scaling"
