@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-06T01:40:25.147035\n"
+"POT-Creation-Date: 2025-06-20T01:40:24.431588\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-06 12:40\n"
+"PO-Revision-Date: 2025-06-20 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -112,10 +112,6 @@ msgstr "恩若斯法"
 #: https://hsreplay.net/archetypes/179/spell-hunter
 msgid "Spell Hunter"
 msgstr "法術獵"
-
-#: https://hsreplay.net/archetypes/61/elemental-shaman
-msgid "Elemental Shaman"
-msgstr "元素薩"
 
 #: https://hsreplay.net/archetypes/191/dragon-highlander-priest
 msgid "Dragon Highlander Priest"
@@ -1209,10 +1205,6 @@ msgstr "任務奇蹟法"
 msgid "Plague Death Knight"
 msgstr "瘟疫DK"
 
-#: https://hsreplay.net/archetypes/126/murloc-shaman
-msgid "Murloc Shaman"
-msgstr "魚人薩"
-
 #: https://hsreplay.net/archetypes/530/naga-priest
 msgid "Naga Priest"
 msgstr "納迦牧"
@@ -1244,10 +1236,6 @@ msgstr "打頭薩"
 #: https://hsreplay.net/archetypes/673/odd-demon-hunter
 msgid "Odd Demon Hunter"
 msgstr ""
-
-#: https://hsreplay.net/archetypes/141/secret-mage
-msgid "Secret Mage"
-msgstr "秘密法"
 
 #: https://hsreplay.net/archetypes/548/curse-imp-warlock
 msgid "Curse Imp Warlock"
@@ -1592,6 +1580,10 @@ msgstr "食人魚薩"
 #: https://hsreplay.net/archetypes/521/curse-warlock
 msgid "Curse Warlock"
 msgstr "詛咒術"
+
+#: https://hsreplay.net/archetypes/141/secret-mage
+msgid "Secret Mage"
+msgstr "秘密法"
 
 #: https://hsreplay.net/archetypes/522/naga-demon-hunter
 msgid "Naga Demon Hunter"
@@ -2105,10 +2097,6 @@ msgstr "Token獵"
 msgid "Spell Mage"
 msgstr "法術法"
 
-#: https://hsreplay.net/archetypes/138/secret-hunter
-msgid "Secret Hunter"
-msgstr "秘密獵"
-
 #: https://hsreplay.net/archetypes/479/handbuff-paladin
 msgid "Handbuff Paladin"
 msgstr "加加聖"
@@ -2136,10 +2124,6 @@ msgstr "輪盤術"
 #: https://hsreplay.net/archetypes/656/chemical-warrior
 msgid "Chemical Warrior"
 msgstr "化學戰"
-
-#: https://hsreplay.net/archetypes/657/aviana-druid
-msgid "Aviana Druid"
-msgstr "艾維娜德"
 
 #: https://hsreplay.net/archetypes/658/zarimi-priest
 msgid "Zarimi Priest"
@@ -2248,6 +2232,10 @@ msgstr "蛋蛋獵"
 #: https://hsreplay.net/archetypes/145/elemental-mage
 msgid "Elemental Mage"
 msgstr "元素法"
+
+#: https://hsreplay.net/archetypes/657/aviana-druid
+msgid "Aviana Druid"
+msgstr "艾維娜德"
 
 #: https://hsreplay.net/archetypes/684/sandwich-hunter
 msgid "Sandwich Hunter"
@@ -2724,4 +2712,20 @@ msgstr ""
 #: https://hsreplay.net/archetypes/800/drunk-paladin
 msgid "Drunk Paladin"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/801/hog-demon-hunter
+msgid "Hog Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/138/secret-hunter
+msgid "Secret Hunter"
+msgstr "秘密獵"
+
+#: https://hsreplay.net/archetypes/61/elemental-shaman
+msgid "Elemental Shaman"
+msgstr "元素薩"
+
+#: https://hsreplay.net/archetypes/126/murloc-shaman
+msgid "Murloc Shaman"
+msgstr "魚人薩"
 
