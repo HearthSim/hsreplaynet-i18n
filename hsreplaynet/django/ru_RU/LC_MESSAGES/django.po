@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-13 01:40+0000\n"
-"PO-Revision-Date: 2025-06-13 12:40\n"
+"POT-Creation-Date: 2025-06-24 01:40+0000\n"
+"PO-Revision-Date: 2025-06-24 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -353,6 +353,10 @@ msgid "Forgot Password?"
 msgstr ""
 
 #: templates/account/password_reset.html:11
+#: templates/account/password_reset_done.html:4
+#: templates/account/password_reset_done.html:7
+#: templates/account/password_reset_from_key_done.html:4
+#: templates/account/password_reset_from_key_done.html:7
 msgid "Password Reset"
 msgstr ""
 
@@ -368,6 +372,25 @@ msgstr "Сбросить пароль"
 #, python-format
 msgid "Need help? <a href=\"%(contact_url)s\">Contact us</a>."
 msgstr "Нужна помощь? <a href=\"%(contact_url)s\">Свяжитесь с нами</a>."
+
+#: templates/account/password_reset_done.html:10
+msgid "We have sent you an email. If you have not received it please check your spam folder."
+msgstr ""
+
+#: templates/account/password_reset_done.html:14
+#: templates/account/verification_sent.html:15
+#, python-format
+msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
+msgstr "Пожалуйста, <a href=\"%(contact_url)s\">свяжитесь с нами</a>, если вы не получили ее в течение нескольких минут."
+
+#: templates/account/password_reset_from_key_done.html:8
+msgid "Your password has been changed."
+msgstr ""
+
+#: templates/account/password_reset_from_key_done.html:14
+#, python-format
+msgid "You can now return to our <a href=\"%(login_url)s\">login page</a> to sign in with it.</p>"
+msgstr ""
 
 #: templates/account/password_set.html:5 templates/account/password_set.html:9
 #: templates/account/password_set.html:14
@@ -417,11 +440,6 @@ msgstr "Подтвердите адрес электронной почты"
 #: templates/account/verification_sent.html:11
 msgid "We have sent you an e-mail for verification. Follow the link in it to finalize the signup process."
 msgstr "Мы отправили тебе ссылку для подтверждения e-mail адреса. Пройди по ней для завершения регистрации."
-
-#: templates/account/verification_sent.html:15
-#, python-format
-msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
-msgstr "Пожалуйста, <a href=\"%(contact_url)s\">свяжитесь с нами</a>, если вы не получили ее в течение нескольких минут."
 
 #: templates/base.html:80
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
@@ -485,11 +503,11 @@ msgstr ""
 msgid "Battlegrounds Heroes"
 msgstr "Герои Полей сражений"
 
-#: templates/footer.html:77 web/views/battlegrounds.py:281
+#: templates/footer.html:77 web/views/battlegrounds.py:283
 msgid "Battlegrounds Anomalies"
 msgstr ""
 
-#: templates/footer.html:78 web/views/battlegrounds.py:215
+#: templates/footer.html:78 web/views/battlegrounds.py:217
 msgid "Battlegrounds Trinkets"
 msgstr ""
 
@@ -542,15 +560,15 @@ msgid "Parties"
 msgstr "Команды"
 
 #: templates/navigation.html:78 web/views/battlegrounds.py:147
-#: web/views/battlegrounds.py:419
+#: web/views/battlegrounds.py:421
 msgid "Heroes"
 msgstr "Герои"
 
-#: templates/navigation.html:90 web/views/battlegrounds.py:223
+#: templates/navigation.html:90 web/views/battlegrounds.py:225
 msgid "Trinkets"
 msgstr ""
 
-#: templates/navigation.html:103 web/views/battlegrounds.py:354
+#: templates/navigation.html:103 web/views/battlegrounds.py:356
 msgid "Darkmoon Prizes"
 msgstr "Призы Новолуния"
 
@@ -558,7 +576,7 @@ msgstr "Призы Новолуния"
 msgid "Comps"
 msgstr ""
 
-#: templates/navigation.html:126 web/views/battlegrounds.py:289
+#: templates/navigation.html:126 web/views/battlegrounds.py:291
 msgid "Anomalies"
 msgstr ""
 
@@ -807,9 +825,9 @@ msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics,
 msgstr ""
 
 #: web/views/battlegrounds.py:127 web/views/battlegrounds.py:146
-#: web/views/battlegrounds.py:160 web/views/battlegrounds.py:222
-#: web/views/battlegrounds.py:288 web/views/battlegrounds.py:337
-#: web/views/battlegrounds.py:353 web/views/battlegrounds.py:410
+#: web/views/battlegrounds.py:160 web/views/battlegrounds.py:224
+#: web/views/battlegrounds.py:290 web/views/battlegrounds.py:339
+#: web/views/battlegrounds.py:355 web/views/battlegrounds.py:412
 msgid "Battlegrounds"
 msgstr "Поля сражений"
 
@@ -833,80 +851,80 @@ msgstr ""
 msgid "Explore our Comps Tier List and learn which comp is the best - powered by JeefHS, Top BGs player."
 msgstr ""
 
-#: web/views/battlegrounds.py:217
+#: web/views/battlegrounds.py:219
 msgid "Explore our Battlegrounds Trinkets Tier List and learn which trinket is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:283
+#: web/views/battlegrounds.py:285
 msgid "Explore our Battlegrounds Anomalies List and learn which anomalies are more common - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:334
+#: web/views/battlegrounds.py:336
 msgid "Battlegrounds Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:338
+#: web/views/battlegrounds.py:340
 msgid "Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:350
+#: web/views/battlegrounds.py:352
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr "Награды новолуния полей сражений"
 
-#: web/views/battlegrounds.py:359
+#: web/views/battlegrounds.py:361
 msgid "Battlegrounds Hero"
 msgstr "Герой Полей сражений"
 
-#: web/views/battlegrounds.py:379
+#: web/views/battlegrounds.py:381
 msgid "No matching hero found."
 msgstr "Подходящих героев не найдено."
 
-#: web/views/battlegrounds.py:506
+#: web/views/battlegrounds.py:508
 msgid "Battlegrounds Duos Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:514
+#: web/views/battlegrounds.py:516
 msgid "Battlegrounds Minions"
 msgstr "Существа Полей сражений"
 
-#: web/views/battlegrounds.py:519 web/views/battlegrounds.py:545
+#: web/views/battlegrounds.py:521 web/views/battlegrounds.py:547
 msgid "Battlegrounds Minion"
 msgstr "Существо Полей сражений"
 
-#: web/views/battlegrounds.py:537
+#: web/views/battlegrounds.py:539
 msgid "No matching minion found."
 msgstr "Подходящих существ не найдено."
 
-#: web/views/battlegrounds.py:576
+#: web/views/battlegrounds.py:578
 msgid "Battlegrounds Compositions"
 msgstr "Составы Полей сражений"
 
-#: web/views/battlegrounds.py:581 web/views/battlegrounds.py:610
+#: web/views/battlegrounds.py:583 web/views/battlegrounds.py:612
 msgid "Battlegrounds Composition"
 msgstr "Состав Полей сражений"
 
-#: web/views/battlegrounds.py:603
+#: web/views/battlegrounds.py:605
 msgid "No matching live or lingering composition found."
 msgstr "Соответствующая транслируемая или транслированная ранее стратегия не найдена."
 
-#: web/views/battlegrounds.py:605
+#: web/views/battlegrounds.py:607
 msgid "No matching composition found."
 msgstr "Подходящий состав не найден."
 
-#: web/views/battlegrounds.py:655
+#: web/views/battlegrounds.py:657
 msgid "Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:673
+#: web/views/battlegrounds.py:675
 msgid "No matching comp found."
 msgstr ""
 
-#: web/views/battlegrounds.py:680
+#: web/views/battlegrounds.py:682
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr ""
 
-#: web/views/battlegrounds.py:763
+#: web/views/battlegrounds.py:765
 msgid "My Battlegrounds Stats"
 msgstr ""
 
