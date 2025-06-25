@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-06-24 01:40+0000\n"
-"PO-Revision-Date: 2025-06-24 12:40\n"
+"PO-Revision-Date: 2025-06-25 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -387,7 +387,7 @@ msgstr "需要帮助吗？ <a href=\"%(contact_url)s\">与我们联系</a>。"
 
 #: templates/account/password_reset_done.html:10
 msgid "We have sent you an email. If you have not received it please check your spam folder."
-msgstr ""
+msgstr "我们已经向您发送了一封电子邮件。如果您没有收到它，请检查您的垃圾邮件。"
 
 #: templates/account/password_reset_done.html:14
 #: templates/account/verification_sent.html:15
@@ -397,12 +397,12 @@ msgstr "如果几分钟内仍未收到邮件，请<a href=\"%(contact_url)s\">�
 
 #: templates/account/password_reset_from_key_done.html:8
 msgid "Your password has been changed."
-msgstr ""
+msgstr "您的密码已更改。"
 
 #: templates/account/password_reset_from_key_done.html:14
 #, python-format
 msgid "You can now return to our <a href=\"%(login_url)s\">login page</a> to sign in with it.</p>"
-msgstr ""
+msgstr "现在您可以返回 <a href=\"%(login_url)s\"> 登录页面 </a> 使用它登录。</p>"
 
 #: templates/account/password_set.html:5 templates/account/password_set.html:9
 #: templates/account/password_set.html:14
