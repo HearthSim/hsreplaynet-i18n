@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 01:40\n"
+"POT-Creation-Date: 2025-06-29 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -15,7 +15,27 @@ msgstr ""
 "X-Crowdin-Language: de\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-06-26 12:40\n"
+"PO-Revision-Date: 2025-06-29 12:40\n"
+
+#: name | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Demons - Shop Buff/Spells"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every single cheap spell to eat the shop with."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]]/[[Shadowdancer||120662]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Felfire Conjurer||120299]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Eat buffed shop with buffed spells."
+msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/36/
 msgid "Nalaa"
@@ -116,26 +136,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/42/
 msgid "Play spells to scale Dragons"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Demons - Shop Buff/Spells"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every single cheap spell to eat the shop with."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
-msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]]/[[Shadowdancer||120662]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
-msgid "[[Felfire Conjurer||120299]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Eat buffed shop with buffed spells."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/32/
@@ -290,29 +290,6 @@ msgstr ""
 msgid "Cast Buffed Spells"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Pirates - APM"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "After you have at least two [[Doubloon Grifter||116035]] and [[Dastardly Drust||119992]], buy every single Pirate to scale your board. This will ramp up your economy for the rest of the game until you have 50 max gold saved, where you're easily infinite. After you're infinite, continue to buy every pirate, but you can also make the best possible endgame boardstate. \n\n"
-"With Undeads in, the best endgame boardstate is eating your pirates onto a [[Sinrunner Blanchy||92398]], then eating it with KT. That pivot requires planning well in advance though."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Double [[Doubloon Grifter||116035]] + [[Dastardly Drust||119992]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Doubloon Grifter||116035]]\n"
-"Midgame pirates ([[Gunpowder Courier||98889]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Spend lots of gold to scale"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/43/
 msgid "Murlocs - Mystic Menagerie"
 msgstr ""
@@ -332,6 +309,28 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/43/
 msgid "Buff Spells and cast them"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Pirates - APM"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
+msgid "After you have at least two [[Doubloon Grifter||116035]] and [[Dastardly Drust||119992]], buy every single Pirate to scale your board. This will ramp up your economy for the rest of the game until you have 50 max gold saved, where you're easily infinite. After you're infinite, continue to buy every pirate, but you can also make the best possible endgame boardstate."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Double [[Doubloon Grifter||116035]] + [[Dastardly Drust||119992]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Doubloon Grifter||116035]]\n"
+"Midgame pirates ([[Gunpowder Courier||98889]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Spend lots of gold to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/17/

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 01:40\n"
+"POT-Creation-Date: 2025-06-29 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,27 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-06-26 12:40\n"
+"PO-Revision-Date: 2025-06-29 12:40\n"
+
+#: name | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Demons - Shop Buff/Spells"
+msgstr "恶魔 - 商店Buff/法术"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every single cheap spell to eat the shop with."
+msgstr "使用[[邪火咒龙||120299]]提升你的酒馆法术。然后从[[影舞者||120662]]获得的法术会被极度Buff，这可以让你的[[狂蝠恐惧卫士||116697]]吞噬掉一个大商店。购买每一个便宜的酒馆法术来吞噬商店。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]]/[[Shadowdancer||120662]]"
+msgstr "[[邪火咒龙||120299]] + [[达卡莱附魔师||101314]]/[[影舞者||120662]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Felfire Conjurer||120299]]"
+msgstr "[[邪火咒龙||120299]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Eat buffed shop with buffed spells."
+msgstr "用Buff过的酒馆法术吃掉商店中Buff过的随从。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/36/
 msgid "Nalaa"
@@ -118,26 +138,6 @@ msgstr "酒馆法术生成器 ([[生火专家||105852]])"
 #: summary | https://hsreplay.net/battlegrounds/comps/42/
 msgid "Play spells to scale Dragons"
 msgstr "释放酒馆法术扩大龙的属性"
-
-#: name | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Demons - Shop Buff/Spells"
-msgstr "恶魔 - 商店Buff/法术"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every single cheap spell to eat the shop with."
-msgstr "使用[[邪火咒龙||120299]]提升你的酒馆法术。然后从[[影舞者||120662]]获得的法术会被极度Buff，这可以让你的[[狂蝠恐惧卫士||116697]]吞噬掉一个大商店。购买每一个便宜的酒馆法术来吞噬商店。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
-msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]]/[[Shadowdancer||120662]]"
-msgstr "[[邪火咒龙||120299]] + [[达卡莱附魔师||101314]]/[[影舞者||120662]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
-msgid "[[Felfire Conjurer||120299]]"
-msgstr "[[邪火咒龙||120299]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Eat buffed shop with buffed spells."
-msgstr "用Buff过的酒馆法术吃掉商店中Buff过的随从。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/32/
 msgid "Mechs - Automaton (SPECIFIC HEROES)"
@@ -295,32 +295,6 @@ msgstr "[[邪火咒龙||120299]] + [[达卡莱附魔师||101314]] 或酒馆法�
 msgid "Cast Buffed Spells"
 msgstr "施放Buff过的酒馆法术"
 
-#: name | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Pirates - APM"
-msgstr "海盗 - 倒转"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "After you have at least two [[Doubloon Grifter||116035]] and [[Dastardly Drust||119992]], buy every single Pirate to scale your board. This will ramp up your economy for the rest of the game until you have 50 max gold saved, where you're easily infinite. After you're infinite, continue to buy every pirate, but you can also make the best possible endgame boardstate. \n\n"
-"With Undeads in, the best endgame boardstate is eating your pirates onto a [[Sinrunner Blanchy||92398]], then eating it with KT. That pivot requires planning well in advance though."
-msgstr "在你至少拥有两个 [[Doubloon Grifter||116035]] 和 [[Dastardly Drust||119992]] 之后，购买每一个海盗来扩大你的棋盘属性。这将在接下来的对局中提升你的经济，到你攒到了 50 个最大铸币后就可以轻松实现无限经济。无限之后继续购买每一个海盗，但你也可以尽可能做出最好的终局棋盘状态。\n\n"
-"在有亡灵的情况下，最好的终局状态是把海盗的身材吃到[[Sinrunner Blanchy||92398]]上，然后用克尔苏加德吃掉它。不过这种转折需要提前做好规划。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Double [[Doubloon Grifter||116035]] + [[Dastardly Drust||119992]]"
-msgstr "两个[[金币诈骗犯||116035]] + [[卑鄙的德鲁斯特||119992]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Doubloon Grifter||116035]]\n"
-"Midgame pirates ([[Gunpowder Courier||98889]])"
-msgstr "[[布莱恩·铜须||96786]]\n"
-"[[金币诈骗犯||116035]]\n"
-"中期过度海盗 ([[火药运输工||98889]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Spend lots of gold to scale"
-msgstr "花费大量铸币来成长"
-
 #: name | https://hsreplay.net/battlegrounds/comps/43/
 msgid "Murlocs - Mystic Menagerie"
 msgstr "鱼人 - 秘法师喝茶"
@@ -342,6 +316,30 @@ msgstr "[[Brann Bronzebeard||96786]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/43/
 msgid "Buff Spells and cast them"
 msgstr "Buff酒馆法术并释放它们"
+
+#: name | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Pirates - APM"
+msgstr "海盗 - 倒转"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
+msgid "After you have at least two [[Doubloon Grifter||116035]] and [[Dastardly Drust||119992]], buy every single Pirate to scale your board. This will ramp up your economy for the rest of the game until you have 50 max gold saved, where you're easily infinite. After you're infinite, continue to buy every pirate, but you can also make the best possible endgame boardstate."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Double [[Doubloon Grifter||116035]] + [[Dastardly Drust||119992]]"
+msgstr "两个[[金币诈骗犯||116035]] + [[卑鄙的德鲁斯特||119992]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Doubloon Grifter||116035]]\n"
+"Midgame pirates ([[Gunpowder Courier||98889]])"
+msgstr "[[布莱恩·铜须||96786]]\n"
+"[[金币诈骗犯||116035]]\n"
+"中期过度海盗 ([[火药运输工||98889]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Spend lots of gold to scale"
+msgstr "花费大量铸币来成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Quilboar - Combat Scaling"
