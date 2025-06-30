@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-16T01:40:24.790316\n"
+"POT-Creation-Date: 2025-06-30T01:40:24.748431\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-06-25 12:40\n"
+"PO-Revision-Date: 2025-06-30 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/117409/ Hero id 117409 | Guide id
 #: 695
@@ -402,11 +402,6 @@ msgstr "最好的1级法术是2个铸币或3次刷新。最好的2级法术一�
 msgid "In the early game, buy every [[Tad||87060]] and [[Patient Scout||97604]] as they generate you money. In the lategame, Gallywix relies on [[Brann Bronzebeard||96786]] to cycle lots of cards to ramp up economy. You must play a cycle composition with this hero, so try not to go Beasts or Undeads."
 msgstr "在游戏前期，购买每一张 [[Tad||87060]] 和 [[Patient Scout||97604]]，因为它们能为你带来经济。在游戏后期，加里维克斯依靠 [[Brann Bronzebeard||96786]] 循环使用大量卡牌来增加经济。你必须用这个英雄玩循环流派，所以尽量不要用野兽或亡灵。"
 
-#: https://hsreplay.net/battlegrounds/heroes/57929/ Hero id 57929 | Guide id
-#: 26
-msgid "Avoid using hero power on non permanent units, especially in the early game! The strength of this hero is it's lategame, but your first priority is to find a direction first, and then you can hero power units part of that comp. George struggles in Beast Mech or Undead lobbies because the shields are less impactful."
-msgstr "避免对不会留下来的随从使用英雄技能，尤其是在游戏前期！这个英雄的优势在于它的后期，但你的首要任务是先找到一个方向，然后你就可以对这个流派的部分随从使用英雄技能了。乔治在野兽、机械或亡灵对局中会很吃力，因为护盾的影响较小。"
-
 #: https://hsreplay.net/battlegrounds/heroes/81569/ Hero id 81569 | Guide id
 #: 222
 msgid "Very often the curve on this hero is to level to tavern 3 on turn 4 and level to 4 on turn 5 so you can unlock your 4 drop as soon as possible. The best 4 drops to pick are the ones that generate value every turn such as [[Rickety Repairbot||120027]]."
@@ -416,6 +411,11 @@ msgstr "这个英雄的曲线通常是在第4回合升到3级酒馆，然后在�
 #: 142
 msgid "Usually go 3 on 3 on this hero. In your first 3 turns, try to hero power the same tribe to maximize your chances of getting a higher tavern tier card. If you hero power all different tribes, you have the possibility of only discovering 1 drops from your hero power."
 msgstr "通常在第3回合升到3级酒馆。在前3个回合中，尽量对同一个种族类型使用英雄技能，以最大限度地提高获得较高酒馆等级卡牌的机会。如果你对所有不同的种族类型使用英雄技能，你有可能只能从你的英雄技能中发现1级随从。"
+
+#: https://hsreplay.net/battlegrounds/heroes/57929/ Hero id 57929 | Guide id
+#: 26
+msgid "Avoid using hero power on non permanent units, especially in the early game! The strength of this hero is its lategame, but your first priority is to find a direction first, and then you can hero power units part of that comp. George struggles in Beast Mech or Undead lobbies because the shields are less impactful."
+msgstr "避免对不会留下来的随从使用英雄技能，尤其是在游戏前期！这个英雄的优势在于它的后期，但你的首要任务是先找到一个方向，然后你就可以对这个流派的部分随从使用英雄技能了。乔治在野兽、机械或亡灵对局中会很吃力，因为护盾的影响较小。"
 
 #: https://hsreplay.net/battlegrounds/heroes/60367/ Hero id 60367 | Guide id
 #: 10
