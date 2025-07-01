@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-28T01:40:27.523017\n"
+"POT-Creation-Date: 2025-07-01T01:40:25.118003\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /anomaly_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 167\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-06-30 12:40\n"
+"PO-Revision-Date: 2025-07-01 12:40\n"
 
 #: Anomaly id 102982 | Guide id 20
 msgid "Quests with spellcraft effects are really strong because you get the spellcraft for two turns."
@@ -153,6 +153,10 @@ msgstr "试着在第1回合刷新3次，第3回合刷新2次，这样就能在�
 msgid "No real tip, just play Marin how you're used to"
 msgstr "没啥真正的提示，只需按自己玩马林的习惯玩即可"
 
+#: Anomaly id 103078 | Guide id 82
+msgid "7 Drops are so overpowered any non-T7 comp can't compete. Here are some of the 7 drop lines: Morgl + Stiched + Moira + Bassgill steals a ton of opponents' stats // Sea witch Zarija + Blade of Ambition on the shop copies gigantic units // Rylak + Hawkstrider Herald + Sanguine Champion + Moira to make gigantic blood gems // Arcane Behemoth + Moira shop buff elementals"
+msgstr "7级随从是如此强大，任何不是基于7级随从的流派都无法与之抗衡。以下是一些7级流派： 摩戈尔+缝合回收者+茉艾拉·铜须+低音提琴鱼人 偷取对手成吨的身材数值 // 海巫扎尔吉拉+用雄心之刃复制酒馆里的巨型单位 // 重金属双头飞龙+陆行鸟先锋+鲜血勇士+茉艾拉·铜须做出巨型鲜血宝石 // 奥术巨怪+茉艾拉·铜须 Buff酒馆里元素"
+
 #: Anomaly id 118688 | Guide id 14
 msgid "Spell based comps are slightly better in this anomaly, but other than that play normally and enjoy some free spells."
 msgstr "在这个畸变下基于法术的流派稍好一些。除此以外你也可以正常玩游戏，享受一些免费的法术。"
@@ -200,10 +204,6 @@ msgstr "在这个畸变下购买法术非常不划算。通常情况下，使用
 #: Anomaly id 119092 | Guide id 57
 msgid "ALWAYS go for a 6 drop with your scout."
 msgstr "始终用耐心的侦查员换6级的随从。"
-
-#: Anomaly id 103078 | Guide id 82
-msgid "7 Drops are so overpowered any non-T7 comp can compete. Here are some of the 7 drop lines: Morgl + Stiched + Moira + Bassgill steals a ton of opponents' stats // Sea witch Zarija + Blade of Ambition on the shop copies gigantic units // Rylak + Hawkstrider Herald + Sanguine Champion + Moira to make gigantic blood gems // Arcane Behemoth + Moira shop buff elementals"
-msgstr "7级随从是如此强大，任何不是基于7级随从的流派都无法与之抗衡。以下是一些7级流派： 摩戈尔+缝合回收者+茉艾拉·铜须+低音提琴鱼人 偷取对手成吨的身材数值 // 海巫扎尔吉拉+用雄心之刃复制酒馆里的巨型单位 // 重金属双头飞龙+陆行鸟先锋+鲜血勇士+茉艾拉·铜须做出巨型鲜血宝石 // 奥术巨怪+茉艾拉·铜须 Buff酒馆里元素"
 
 #: Anomaly id 101992 | Guide id 23
 msgid "It's hard to pick heroes that love to level fast on this anomaly, such as maybe [[Snake Eyes||105314]]. You want your hero power to be able to put stats on the board without relying on high tier units. I think Ysera is very solid in this one."
