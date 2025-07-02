@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-26 01:40+0000\n"
-"PO-Revision-Date: 2025-06-26 12:40\n"
+"POT-Creation-Date: 2025-07-02 01:40+0000\n"
+"PO-Revision-Date: 2025-07-02 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -62,7 +62,7 @@ msgstr ""
 msgid "String value too large."
 msgstr ""
 
-#: api/serializers/battlegrounds.py:486
+#: api/serializers/battlegrounds.py:488
 #, python-brace-format
 msgid "{tribe_name} - {instance.name}"
 msgstr ""
