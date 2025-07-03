@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-07-02 01:40+0000\n"
-"PO-Revision-Date: 2025-07-02 12:40\n"
+"PO-Revision-Date: 2025-07-03 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -47,16 +47,16 @@ msgstr ""
 
 #: api/exceptions.py:61
 msgid "This product is not available."
-msgstr ""
+msgstr "Este produto não está mais disponível"
 
 #: api/exceptions.py:67
 msgid "This plan is not available."
-msgstr ""
+msgstr "Esse plano não está mais disponível"
 
 #: api/fields.py:13
 #, python-brace-format
 msgid "{input} is not a valid member of {enum}."
-msgstr ""
+msgstr "{input} não é um membro válido de {enum}"
 
 #: api/fields.py:14
 msgid "String value too large."
@@ -537,11 +537,11 @@ msgstr ""
 
 #: templates/games/replay_detail.html:29
 msgid "Replay not available"
-msgstr ""
+msgstr "Reprodução não disponível"
 
 #: templates/games/replay_detail.html:31
 msgid "This replay is no longer available."
-msgstr ""
+msgstr "Esta reprodução não está disponível"
 
 #: templates/navigation.html:14
 msgid "Toggle navigation"
@@ -562,15 +562,15 @@ msgstr ""
 #: templates/navigation.html:78 web/views/battlegrounds.py:147
 #: web/views/battlegrounds.py:421
 msgid "Heroes"
-msgstr ""
+msgstr "Heróis"
 
 #: templates/navigation.html:90 web/views/battlegrounds.py:225
 msgid "Trinkets"
-msgstr ""
+msgstr "Berloques"
 
 #: templates/navigation.html:103 web/views/battlegrounds.py:356
 msgid "Darkmoon Prizes"
-msgstr ""
+msgstr "Prêmios de Negraluna"
 
 #: templates/navigation.html:114 web/views/battlegrounds.py:161
 msgid "Comps"
@@ -578,7 +578,7 @@ msgstr ""
 
 #: templates/navigation.html:126 web/views/battlegrounds.py:291
 msgid "Anomalies"
-msgstr ""
+msgstr "Anomalias"
 
 #: templates/navigation.html:137
 msgid "Minions"
@@ -813,7 +813,7 @@ msgstr "Esse arquétipo não está mais disponível."
 
 #: web/views/archetypes.py:144
 msgid "Archetypes"
-msgstr ""
+msgstr "Arquétipos"
 
 #: web/views/archetypes.py:164
 #, python-brace-format
