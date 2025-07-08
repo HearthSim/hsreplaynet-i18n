@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-29 01:40\n"
+"POT-Creation-Date: 2025-07-08 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-07-01 12:40\n"
+"PO-Revision-Date: 2025-07-08 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
@@ -79,26 +79,6 @@ msgstr "[[移动投影仪||115674]]"
 msgid "Put huge magnetics on premium Mechs"
 msgstr "将巨型磁力吸附在高级机械上"
 
-#: name | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Beasts - Burrower"
-msgstr "野兽 - 钻地虫"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Must play with a EARLY [[Silithid Burrower||108547]] with an avenge setup. Spend your first 2 or 3 turns with Burrower in the back scaling it up. In the meantime, roll for the core cards of your comp. At some point, cut your avenge setup for trigger deathrattle effect on [[Silithid Burrower||108547]] and fill in the rest of the board with great beasts ([[Cave Hydra||96782]])."
-msgstr "必须很早就打出 [[Silithid Burrower||108547]] ，并有初始的复仇能力。用最初的2~3个回合把钻地虫养大，与此同时，逐步加入核心卡到阵容中。在你觉得合适时，去掉复仇组件而专注于触发 [[Silithid Burrower||108547]] 的亡语，用你的大野兽填满你剩下的所有格子 ([[Cave Hydra||96782]])。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/44/
-msgid "EARLY [[Silithid Burrower||108547]] + Avenge setup"
-msgstr "很早就打出 [[Silithid Burrower||108547]] ，并有初始的复仇能力"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Avenge setup ([[Harmless Bonehead||104551]])"
-msgstr "初始的复仇 ([[Harmless Bonehead||104551]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Make huge beasts"
-msgstr "做出巨大的野兽"
-
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Poison Scam"
 msgstr "鱼人 - 下毒"
@@ -138,6 +118,26 @@ msgstr "酒馆法术生成器 ([[生火专家||105852]])"
 #: summary | https://hsreplay.net/battlegrounds/comps/42/
 msgid "Play spells to scale Dragons"
 msgstr "释放酒馆法术扩大龙的属性"
+
+#: name | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Beasts - Burrower"
+msgstr "野兽 - 钻地虫"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Must play with a EARLY [[Silithid Burrower||108547]] with an avenge setup. Spend your first 2 or 3 turns with Burrower in the back scaling it up. In the meantime, roll for the core cards of your comp. At some point, cut your avenge setup for trigger deathrattle effect on [[Silithid Burrower||108547]] and fill in the rest of the board with great beasts ([[Cave Hydra||96782]])."
+msgstr "必须很早就打出 [[Silithid Burrower||108547]] ，并有初始的复仇能力。用最初的2~3个回合把钻地虫养大，与此同时，逐步加入核心卡到阵容中。在你觉得合适时，去掉复仇组件而专注于触发 [[Silithid Burrower||108547]] 的亡语，用你的大野兽填满你剩下的所有格子 ([[Cave Hydra||96782]])。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/44/
+msgid "EARLY [[Silithid Burrower||108547]] + Avenge setup"
+msgstr "很早就打出 [[Silithid Burrower||108547]] ，并有初始的复仇能力"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Avenge setup ([[Harmless Bonehead||104551]])"
+msgstr "初始的复仇 ([[Harmless Bonehead||104551]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Make huge beasts"
+msgstr "做出巨大的野兽"
 
 #: name | https://hsreplay.net/battlegrounds/comps/32/
 msgid "Mechs - Automaton (SPECIFIC HEROES)"
@@ -279,44 +279,6 @@ msgstr "[[灰烬腐蚀者||121687]]"
 msgid "Buff and consume your shop"
 msgstr "Buff并吞噬你的商店"
 
-#: name | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Spell Buff"
-msgstr "酒馆法术Buff"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
-msgid "*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Firescale Hoarder and Nightmare Par-tea Guest are great for spell generation, especially when paired with Brann. Fauna could work Drakkari, and Hawstrider Herald could help with spell generation."
-msgstr "*需要有龙或恶魔* 给法术Buff，最常见的是通过早期的[[邪火咒龙||120299]]+[[达卡莱附魔师||101314]]。你棋盘上的其他卡牌都能利用这些被buff过的法术。火鳞囤积者和梦魇茶客是生成酒馆法术的好帮手，尤其是配合布莱恩·铜须时。动物低语者可以配合达卡莱附魔师，另外陆行鸟先锋也可以帮助生成法术。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
-msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] or Spell Generation ([[Firescale Hoarder||120213]]/[[Nightmare Par-Tea Guest||120754]])"
-msgstr "[[邪火咒龙||120299]] + [[达卡莱附魔师||101314]] 或酒馆法术生成器 ([[火鳞囤积者||120213]]/[[梦魇茶客||120754]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Cast Buffed Spells"
-msgstr "施放Buff过的酒馆法术"
-
-#: name | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Murlocs - Mystic Menagerie"
-msgstr "鱼人 - 秘法师喝茶"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Find [[Brann Bronzebeard||96786]] and [[Shoalfin Mystic||120215]] and then either [[Greenskeeper||113930]] or [[Rylak Metalhead||98829]] to constantly proc the mystic. This will scale your spells a lot. Also keep some sort of spell generation on your board, for example [[Firescale Hoarder||120213]] or [[Gormling Gourmet||120689]]. Once you feel like your spells are big enough, solely focus on spell generation using your Rylak/Greenskeepers setup."
-msgstr "先找 [[Brann Bronzebeard||96786]] 和 [[Shoalfin Mystic||120215]] ，然后找[[Greenskeeper||113930]] 或 [[Rylak Metalhead||98829]] 来不断地触发浅鳍秘法师。这将大大提高你的酒馆法术属性加成。同时在你的棋盘上保留一些法术生成器，例如 [[Firescale Hoarder||120213]] 或 [[Gormling Gourmet||120689]]。一旦你觉得你的酒馆法术加成足够大了，就可以将你的双头飞龙/护植绿龙用于触发法术生成了。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/43/
-msgid "[[Brann Bronzebeard||96786]] + [[Shoalfin Mystic||120215]] + a way to proc it ([[Rylak Metalhead||98829]]/[[Greenskeeper||113930]]) + Spell Generation ([[Gormling Gourmet||120689]])"
-msgstr "[[Brann Bronzebeard||96786]] + [[Shoalfin Mystic||120215]] + 再触发战吼 ([[Rylak Metalhead||98829]]/[[Greenskeeper||113930]]) + 酒馆法术生成 ([[Gormling Gourmet||120689]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/43/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Shoalfin Mystic||120215]]"
-msgstr "[[Brann Bronzebeard||96786]]\n"
-"[[Shoalfin Mystic||120215]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Buff Spells and cast them"
-msgstr "Buff酒馆法术并释放它们"
-
 #: name | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Pirates - APM"
 msgstr "海盗 - 倒转"
@@ -363,6 +325,28 @@ msgstr "[[刺头吹笛人||98946]]"
 msgid "Scale up blood gems, unleash them during combat"
 msgstr "提升鲜血宝石属性，在战斗中施放"
 
+#: name | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Undead - Overflow"
+msgstr "亡灵 - 挤爆"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
+msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else. KT can be used to constantly duplicate your Catacomb Crasher if you put reborn on the Catacomb Crasher.\n\n"
+"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
+msgstr "当[[遗骸看管者||113158]]亡语被触发时，它会通过[[提图斯·瑞文戴尔||97408]] + [[古墓捣蛋鬼||114379]]组合为你的整个棋盘加Buff。继续购买本流派的其余核心/附加组件，不要购买其他任何东西。如果给古墓捣蛋鬼贴上复生，就可以用克尔苏加德来不断复制古墓捣蛋鬼。\n\n"
+"这个流派的典型终局棋盘状态是在布兰契非常大的时候对其使用克尔苏加德。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+msgstr "挤爆随从([[遗骸看管者||113158]]) + [[古墓捣蛋鬼||114379]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
+msgid "[[Cadaver Caretaker||113158]]"
+msgstr "[[遗骸看管者||113158]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow your board to scale"
+msgstr "挤掉召唤物来成长"
+
 #: name | https://hsreplay.net/battlegrounds/comps/20/
 msgid "Nagas - Groundbreaker"
 msgstr "纳迦 - 碎地者"
@@ -404,28 +388,6 @@ msgstr "圣盾随从 ([[偏折机器人||61930]], [[滑油机器人||72389]])"
 #: summary | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Play spells to buff Mechs"
 msgstr "释放酒馆法术来Buff机械"
-
-#: name | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Undead - Overflow"
-msgstr "亡灵 - 挤爆"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else. KT can be used to constantly duplicate your Catacomb Crasher if you put reborn on the Catacomb Crasher.\n\n"
-"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
-msgstr "当[[遗骸看管者||113158]]亡语被触发时，它会通过[[提图斯·瑞文戴尔||97408]] + [[古墓捣蛋鬼||114379]]组合为你的整个棋盘加Buff。继续购买本流派的其余核心/附加组件，不要购买其他任何东西。如果给古墓捣蛋鬼贴上复生，就可以用克尔苏加德来不断复制古墓捣蛋鬼。\n\n"
-"这个流派的典型终局棋盘状态是在布兰契非常大的时候对其使用克尔苏加德。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
-msgstr "挤爆随从([[遗骸看管者||113158]]) + [[古墓捣蛋鬼||114379]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
-msgid "[[Cadaver Caretaker||113158]]"
-msgstr "[[遗骸看管者||113158]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow your board to scale"
-msgstr "挤掉召唤物来成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/37/
 msgid "Elementals - Stat scaling"

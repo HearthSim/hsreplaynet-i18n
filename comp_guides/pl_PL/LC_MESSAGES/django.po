@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-29 01:40\n"
+"POT-Creation-Date: 2025-07-08 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: pl\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-06-29 12:40\n"
+"PO-Revision-Date: 2025-07-08 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
@@ -78,26 +78,6 @@ msgstr ""
 msgid "Put huge magnetics on premium Mechs"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Beasts - Burrower"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Must play with a EARLY [[Silithid Burrower||108547]] with an avenge setup. Spend your first 2 or 3 turns with Burrower in the back scaling it up. In the meantime, roll for the core cards of your comp. At some point, cut your avenge setup for trigger deathrattle effect on [[Silithid Burrower||108547]] and fill in the rest of the board with great beasts ([[Cave Hydra||96782]])."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/44/
-msgid "EARLY [[Silithid Burrower||108547]] + Avenge setup"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Avenge setup ([[Harmless Bonehead||104551]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Make huge beasts"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Poison Scam"
 msgstr ""
@@ -136,6 +116,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/42/
 msgid "Play spells to scale Dragons"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Beasts - Burrower"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Must play with a EARLY [[Silithid Burrower||108547]] with an avenge setup. Spend your first 2 or 3 turns with Burrower in the back scaling it up. In the meantime, roll for the core cards of your comp. At some point, cut your avenge setup for trigger deathrattle effect on [[Silithid Burrower||108547]] and fill in the rest of the board with great beasts ([[Cave Hydra||96782]])."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/44/
+msgid "EARLY [[Silithid Burrower||108547]] + Avenge setup"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Avenge setup ([[Harmless Bonehead||104551]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Make huge beasts"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/32/
@@ -274,43 +274,6 @@ msgstr ""
 msgid "Buff and consume your shop"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Spell Buff"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
-msgid "*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Firescale Hoarder and Nightmare Par-tea Guest are great for spell generation, especially when paired with Brann. Fauna could work Drakkari, and Hawstrider Herald could help with spell generation."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
-msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] or Spell Generation ([[Firescale Hoarder||120213]]/[[Nightmare Par-Tea Guest||120754]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Cast Buffed Spells"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Murlocs - Mystic Menagerie"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Find [[Brann Bronzebeard||96786]] and [[Shoalfin Mystic||120215]] and then either [[Greenskeeper||113930]] or [[Rylak Metalhead||98829]] to constantly proc the mystic. This will scale your spells a lot. Also keep some sort of spell generation on your board, for example [[Firescale Hoarder||120213]] or [[Gormling Gourmet||120689]]. Once you feel like your spells are big enough, solely focus on spell generation using your Rylak/Greenskeepers setup."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/43/
-msgid "[[Brann Bronzebeard||96786]] + [[Shoalfin Mystic||120215]] + a way to proc it ([[Rylak Metalhead||98829]]/[[Greenskeeper||113930]]) + Spell Generation ([[Gormling Gourmet||120689]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/43/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Shoalfin Mystic||120215]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/43/
-msgid "Buff Spells and cast them"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Pirates - APM"
 msgstr ""
@@ -354,6 +317,27 @@ msgstr ""
 msgid "Scale up blood gems, unleash them during combat"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Undead - Overflow"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
+msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else. KT can be used to constantly duplicate your Catacomb Crasher if you put reborn on the Catacomb Crasher.\n\n"
+"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
+msgid "[[Cadaver Caretaker||113158]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow your board to scale"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/20/
 msgid "Nagas - Groundbreaker"
 msgstr ""
@@ -393,27 +377,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Play spells to buff Mechs"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Undead - Overflow"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else. KT can be used to constantly duplicate your Catacomb Crasher if you put reborn on the Catacomb Crasher.\n\n"
-"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
-msgid "[[Cadaver Caretaker||113158]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow your board to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/37/
