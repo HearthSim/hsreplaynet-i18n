@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-02 01:40+0000\n"
-"PO-Revision-Date: 2025-07-02 12:40\n"
+"POT-Creation-Date: 2025-07-09 01:40+0000\n"
+"PO-Revision-Date: 2025-07-09 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -474,7 +474,7 @@ msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Ta strona nie jest powiązana z Blizzard Entertainment."
 
 #: templates/footer.html:63 templates/navigation.html:67
-#: templates/navigation.html:159 templates/navigation.html:219
+#: templates/navigation.html:159 templates/navigation.html:225
 #: web/views/__init__.py:175
 msgid "Downloads"
 msgstr "Pobieranie"
@@ -584,7 +584,7 @@ msgstr ""
 msgid "Minions"
 msgstr "Stronnicy"
 
-#: templates/navigation.html:151
+#: templates/navigation.html:151 templates/navigation.html:215
 msgid "SALE!"
 msgstr "WYPRZEDAŻ!"
 
@@ -612,11 +612,12 @@ msgstr "Karty"
 msgid "NEW"
 msgstr ""
 
-#: templates/navigation.html:212 web/views/premium.py:31
+#: templates/navigation.html:214 templates/navigation.html:217
+#: web/views/premium.py:31
 msgid "Premium"
 msgstr "Premium"
 
-#: templates/navigation.html:246
+#: templates/navigation.html:252
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
