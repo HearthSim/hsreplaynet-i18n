@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-20T01:40:24.431588\n"
+"POT-Creation-Date: 2025-07-10T01:40:22.025247\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-06-20 12:40\n"
+"PO-Revision-Date: 2025-07-10 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -113,6 +113,10 @@ msgstr "느조스 마법사"
 msgid "Spell Hunter"
 msgstr "주문 사냥꾼"
 
+#: https://hsreplay.net/archetypes/803/quest-death-knight
+msgid "Quest Death Knight"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/191/dragon-highlander-priest
 msgid "Dragon Highlander Priest"
 msgstr "용 하이랜더 사제"
@@ -164,10 +168,6 @@ msgstr "해적 전사"
 #: https://hsreplay.net/archetypes/356/beast-rush-hunter
 msgid "Beast Rush Hunter"
 msgstr "야수 속공 사냥꾼"
-
-#: https://hsreplay.net/archetypes/56/quest-priest
-msgid "Quest Priest"
-msgstr "퀘스트 사제"
 
 #: https://hsreplay.net/archetypes/27/aggro-shaman
 msgid "Aggro Shaman"
@@ -401,9 +401,9 @@ msgstr "정령 도적"
 msgid "N'Zoth Paladin"
 msgstr "느조스 성기사"
 
-#: https://hsreplay.net/archetypes/211/quest-hunter
-msgid "Quest Hunter"
-msgstr "퀘스트 사냥꾼"
+#: https://hsreplay.net/archetypes/155/quest-rogue
+msgid "Quest Rogue"
+msgstr "퀘스트 도적"
 
 #: https://hsreplay.net/archetypes/75/jade-rogue
 msgid "Jade Rogue"
@@ -433,9 +433,9 @@ msgstr "광대 드루이드"
 msgid "Control Paladin"
 msgstr "컨트롤 성기사"
 
-#: https://hsreplay.net/archetypes/155/quest-rogue
-msgid "Quest Rogue"
-msgstr "퀘스트 도적"
+#: https://hsreplay.net/archetypes/162/quest-warrior
+msgid "Quest Warrior"
+msgstr "퀘스트 전사"
 
 #: https://hsreplay.net/archetypes/192/control-shaman
 msgid "Control Shaman"
@@ -448,10 +448,6 @@ msgstr "짝수 사냥꾼"
 #: https://hsreplay.net/archetypes/213/dragon-hunter
 msgid "Dragon Hunter"
 msgstr "용 사냥꾼"
-
-#: https://hsreplay.net/archetypes/162/quest-warrior
-msgid "Quest Warrior"
-msgstr "퀘스트 전사"
 
 #: https://hsreplay.net/archetypes/72/pirate-murloc-paladin
 msgid "Pirate Murloc Paladin"
@@ -652,6 +648,10 @@ msgstr "어그로 사제"
 #: https://hsreplay.net/archetypes/228/clone-priest
 msgid "Clone Priest"
 msgstr "제레크 사제"
+
+#: https://hsreplay.net/archetypes/211/quest-hunter
+msgid "Quest Hunter"
+msgstr "퀘스트 사냥꾼"
 
 #: https://hsreplay.net/archetypes/267/gonk-druid
 msgid "Gonk Druid"
@@ -1021,9 +1021,9 @@ msgstr "주문 드루이드"
 msgid "Token Demon Hunter"
 msgstr "토큰 악마사냥꾼"
 
-#: https://hsreplay.net/archetypes/79/quest-paladin
-msgid "Quest Paladin"
-msgstr "퀘스트 성기사"
+#: https://hsreplay.net/archetypes/306/quest-shaman
+msgid "Quest Shaman"
+msgstr "퀘스트 주술사"
 
 #: https://hsreplay.net/archetypes/384/egg-warrior
 msgid "Egg Warrior"
@@ -1181,9 +1181,9 @@ msgstr "도발 전사"
 msgid "Dragon Druid"
 msgstr "용 드루이드"
 
-#: https://hsreplay.net/archetypes/306/quest-shaman
-msgid "Quest Shaman"
-msgstr "퀘스트 주술사"
+#: https://hsreplay.net/archetypes/79/quest-paladin
+msgid "Quest Paladin"
+msgstr "퀘스트 성기사"
 
 #: https://hsreplay.net/archetypes/307/quest-warlock
 msgid "Quest Warlock"
@@ -1204,6 +1204,10 @@ msgstr ""
 #: https://hsreplay.net/archetypes/612/plague-death-knight
 msgid "Plague Death Knight"
 msgstr "역병 죽음의 기사"
+
+#: https://hsreplay.net/archetypes/472/quest-demon-hunter
+msgid "Quest Demon Hunter"
+msgstr "퀘스트 악마사냥꾼"
 
 #: https://hsreplay.net/archetypes/530/naga-priest
 msgid "Naga Priest"
@@ -1373,14 +1377,6 @@ msgstr "광폭 전사"
 msgid "Hybrid Demon Hunter"
 msgstr "하이브리드 악마사냥꾼"
 
-#: https://hsreplay.net/archetypes/150/quest-druid
-msgid "Quest Druid"
-msgstr "퀘스트 드루이드"
-
-#: https://hsreplay.net/archetypes/142/quest-mage
-msgid "Quest Mage"
-msgstr "퀘스트 마법사"
-
 #: https://hsreplay.net/archetypes/373/quest-spell-mage
 msgid "Quest Spell Mage"
 msgstr "퀘스트 주문 마법사"
@@ -1388,10 +1384,6 @@ msgstr "퀘스트 주문 마법사"
 #: https://hsreplay.net/archetypes/415/quest-big-priest
 msgid "Quest Big Priest"
 msgstr "퀘스트 빅 사제"
-
-#: https://hsreplay.net/archetypes/472/quest-demon-hunter
-msgid "Quest Demon Hunter"
-msgstr "퀘스트 악마사냥꾼"
 
 #: https://hsreplay.net/archetypes/473/quest-lifesteal-demon-hunter
 msgid "Quest Lifesteal Demon Hunter"
@@ -1693,6 +1685,10 @@ msgstr "신병 성기사"
 msgid "Menagerie Rogue"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/804/loh-druid
+msgid "Loh Druid"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/511/burn-shaman
 msgid "Burn Shaman"
 msgstr "번 주술사"
@@ -1708,6 +1704,14 @@ msgstr "암흑 사제"
 #: https://hsreplay.net/archetypes/419/menagerie-warrior
 msgid "Menagerie Warrior"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/150/quest-druid
+msgid "Quest Druid"
+msgstr "퀘스트 드루이드"
+
+#: https://hsreplay.net/archetypes/142/quest-mage
+msgid "Quest Mage"
+msgstr "퀘스트 마법사"
 
 #: https://hsreplay.net/archetypes/201/totem-shaman
 msgid "Totem Shaman"
@@ -1949,6 +1953,10 @@ msgstr "원턴킬 창살 머리 죽음의 기사"
 msgid "Ramp Druid"
 msgstr "램프 드루이드"
 
+#: https://hsreplay.net/archetypes/805/niri-hunter
+msgid "Niri Hunter"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/614/spell-school-mage
 msgid "Spell School Mage"
 msgstr "주문 속성 마법사"
@@ -2097,6 +2105,10 @@ msgstr "주문 토큰 사냥꾼"
 msgid "Spell Mage"
 msgstr "주문 마법사"
 
+#: https://hsreplay.net/archetypes/56/quest-priest
+msgid "Quest Priest"
+msgstr "퀘스트 사제"
+
 #: https://hsreplay.net/archetypes/479/handbuff-paladin
 msgid "Handbuff Paladin"
 msgstr "떡대 성기사"
@@ -2112,10 +2124,6 @@ msgstr "오라 성기사"
 #: https://hsreplay.net/archetypes/130/dragon-priest
 msgid "Dragon Priest"
 msgstr "용 사제"
-
-#: https://hsreplay.net/archetypes/408/weapon-rogue
-msgid "Weapon Rogue"
-msgstr "무기 도적"
 
 #: https://hsreplay.net/archetypes/655/wheel-warlock
 msgid "Wheel Warlock"
@@ -2240,10 +2248,6 @@ msgstr "아비아나 드루이드"
 #: https://hsreplay.net/archetypes/684/sandwich-hunter
 msgid "Sandwich Hunter"
 msgstr ""
-
-#: https://hsreplay.net/archetypes/170/beast-hunter
-msgid "Beast Hunter"
-msgstr "야수 사냥꾼"
 
 #: https://hsreplay.net/archetypes/685/tourist-paladin
 msgid "Tourist Paladin"
@@ -2653,10 +2657,6 @@ msgstr ""
 msgid "Evolve Shaman"
 msgstr "진화 주술사"
 
-#: https://hsreplay.net/archetypes/465/menagerie-shaman
-msgid "Menagerie Shaman"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/786/wallow-warlock
 msgid "Wallow Warlock"
 msgstr ""
@@ -2728,4 +2728,20 @@ msgstr "정령 주술사"
 #: https://hsreplay.net/archetypes/126/murloc-shaman
 msgid "Murloc Shaman"
 msgstr "멀록 주술사"
+
+#: https://hsreplay.net/archetypes/170/beast-hunter
+msgid "Beast Hunter"
+msgstr "야수 사냥꾼"
+
+#: https://hsreplay.net/archetypes/806/bandage-priest
+msgid "Bandage Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/408/weapon-rogue
+msgid "Weapon Rogue"
+msgstr "무기 도적"
+
+#: https://hsreplay.net/archetypes/465/menagerie-shaman
+msgid "Menagerie Shaman"
+msgstr ""
 

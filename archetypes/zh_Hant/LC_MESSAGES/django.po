@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-20T01:40:24.431588\n"
+"POT-Creation-Date: 2025-07-10T01:40:22.025247\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2025-06-20 12:40\n"
+"PO-Revision-Date: 2025-07-10 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -113,6 +113,10 @@ msgstr "恩若斯法"
 msgid "Spell Hunter"
 msgstr "法術獵"
 
+#: https://hsreplay.net/archetypes/803/quest-death-knight
+msgid "Quest Death Knight"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/191/dragon-highlander-priest
 msgid "Dragon Highlander Priest"
 msgstr "無雙龍牧"
@@ -164,10 +168,6 @@ msgstr "海盜戰"
 #: https://hsreplay.net/archetypes/356/beast-rush-hunter
 msgid "Beast Rush Hunter"
 msgstr "野獸衝刺獵"
-
-#: https://hsreplay.net/archetypes/56/quest-priest
-msgid "Quest Priest"
-msgstr "任務牧"
 
 #: https://hsreplay.net/archetypes/27/aggro-shaman
 msgid "Aggro Shaman"
@@ -401,9 +401,9 @@ msgstr "元素賊"
 msgid "N'Zoth Paladin"
 msgstr "恩若斯聖"
 
-#: https://hsreplay.net/archetypes/211/quest-hunter
-msgid "Quest Hunter"
-msgstr "任務獵"
+#: https://hsreplay.net/archetypes/155/quest-rogue
+msgid "Quest Rogue"
+msgstr "任務賊"
 
 #: https://hsreplay.net/archetypes/75/jade-rogue
 msgid "Jade Rogue"
@@ -433,9 +433,9 @@ msgstr "小丑德"
 msgid "Control Paladin"
 msgstr "控制聖"
 
-#: https://hsreplay.net/archetypes/155/quest-rogue
-msgid "Quest Rogue"
-msgstr "任務賊"
+#: https://hsreplay.net/archetypes/162/quest-warrior
+msgid "Quest Warrior"
+msgstr "任務戰"
 
 #: https://hsreplay.net/archetypes/192/control-shaman
 msgid "Control Shaman"
@@ -448,10 +448,6 @@ msgstr "偶數獵"
 #: https://hsreplay.net/archetypes/213/dragon-hunter
 msgid "Dragon Hunter"
 msgstr "龍獵"
-
-#: https://hsreplay.net/archetypes/162/quest-warrior
-msgid "Quest Warrior"
-msgstr "任務戰"
 
 #: https://hsreplay.net/archetypes/72/pirate-murloc-paladin
 msgid "Pirate Murloc Paladin"
@@ -652,6 +648,10 @@ msgstr "快攻牧"
 #: https://hsreplay.net/archetypes/228/clone-priest
 msgid "Clone Priest"
 msgstr "克隆牧"
+
+#: https://hsreplay.net/archetypes/211/quest-hunter
+msgid "Quest Hunter"
+msgstr "任務獵"
 
 #: https://hsreplay.net/archetypes/267/gonk-druid
 msgid "Gonk Druid"
@@ -1021,9 +1021,9 @@ msgstr "法術德"
 msgid "Token Demon Hunter"
 msgstr "偷啃DH"
 
-#: https://hsreplay.net/archetypes/79/quest-paladin
-msgid "Quest Paladin"
-msgstr "任務聖"
+#: https://hsreplay.net/archetypes/306/quest-shaman
+msgid "Quest Shaman"
+msgstr "任務薩"
 
 #: https://hsreplay.net/archetypes/384/egg-warrior
 msgid "Egg Warrior"
@@ -1181,9 +1181,9 @@ msgstr "嘲諷戰"
 msgid "Dragon Druid"
 msgstr "龍德"
 
-#: https://hsreplay.net/archetypes/306/quest-shaman
-msgid "Quest Shaman"
-msgstr "任務薩"
+#: https://hsreplay.net/archetypes/79/quest-paladin
+msgid "Quest Paladin"
+msgstr "任務聖"
 
 #: https://hsreplay.net/archetypes/307/quest-warlock
 msgid "Quest Warlock"
@@ -1204,6 +1204,10 @@ msgstr "任務奇蹟法"
 #: https://hsreplay.net/archetypes/612/plague-death-knight
 msgid "Plague Death Knight"
 msgstr "瘟疫DK"
+
+#: https://hsreplay.net/archetypes/472/quest-demon-hunter
+msgid "Quest Demon Hunter"
+msgstr "任務DH"
 
 #: https://hsreplay.net/archetypes/530/naga-priest
 msgid "Naga Priest"
@@ -1373,14 +1377,6 @@ msgstr "盛怒戰"
 msgid "Hybrid Demon Hunter"
 msgstr "混合DH"
 
-#: https://hsreplay.net/archetypes/150/quest-druid
-msgid "Quest Druid"
-msgstr "任務德"
-
-#: https://hsreplay.net/archetypes/142/quest-mage
-msgid "Quest Mage"
-msgstr "任務法"
-
 #: https://hsreplay.net/archetypes/373/quest-spell-mage
 msgid "Quest Spell Mage"
 msgstr "任務法術法"
@@ -1388,10 +1384,6 @@ msgstr "任務法術法"
 #: https://hsreplay.net/archetypes/415/quest-big-priest
 msgid "Quest Big Priest"
 msgstr "任務大大牧"
-
-#: https://hsreplay.net/archetypes/472/quest-demon-hunter
-msgid "Quest Demon Hunter"
-msgstr "任務DH"
 
 #: https://hsreplay.net/archetypes/473/quest-lifesteal-demon-hunter
 msgid "Quest Lifesteal Demon Hunter"
@@ -1693,6 +1685,10 @@ msgstr "新兵聖"
 msgid "Menagerie Rogue"
 msgstr "動物園賊"
 
+#: https://hsreplay.net/archetypes/804/loh-druid
+msgid "Loh Druid"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/511/burn-shaman
 msgid "Burn Shaman"
 msgstr "法傷薩"
@@ -1708,6 +1704,14 @@ msgstr "暗影牧"
 #: https://hsreplay.net/archetypes/419/menagerie-warrior
 msgid "Menagerie Warrior"
 msgstr "恩若司戰"
+
+#: https://hsreplay.net/archetypes/150/quest-druid
+msgid "Quest Druid"
+msgstr "任務德"
+
+#: https://hsreplay.net/archetypes/142/quest-mage
+msgid "Quest Mage"
+msgstr "任務法"
 
 #: https://hsreplay.net/archetypes/201/totem-shaman
 msgid "Totem Shaman"
@@ -1949,6 +1953,10 @@ msgstr "籠頭OTK DK"
 msgid "Ramp Druid"
 msgstr "跳費德"
 
+#: https://hsreplay.net/archetypes/805/niri-hunter
+msgid "Niri Hunter"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/614/spell-school-mage
 msgid "Spell School Mage"
 msgstr "多系法"
@@ -2097,6 +2105,10 @@ msgstr "Token獵"
 msgid "Spell Mage"
 msgstr "法術法"
 
+#: https://hsreplay.net/archetypes/56/quest-priest
+msgid "Quest Priest"
+msgstr "任務牧"
+
 #: https://hsreplay.net/archetypes/479/handbuff-paladin
 msgid "Handbuff Paladin"
 msgstr "加加聖"
@@ -2112,10 +2124,6 @@ msgstr ""
 #: https://hsreplay.net/archetypes/130/dragon-priest
 msgid "Dragon Priest"
 msgstr "龍牧"
-
-#: https://hsreplay.net/archetypes/408/weapon-rogue
-msgid "Weapon Rogue"
-msgstr "武器賊"
 
 #: https://hsreplay.net/archetypes/655/wheel-warlock
 msgid "Wheel Warlock"
@@ -2240,10 +2248,6 @@ msgstr "艾維娜德"
 #: https://hsreplay.net/archetypes/684/sandwich-hunter
 msgid "Sandwich Hunter"
 msgstr ""
-
-#: https://hsreplay.net/archetypes/170/beast-hunter
-msgid "Beast Hunter"
-msgstr "野獸獵"
 
 #: https://hsreplay.net/archetypes/685/tourist-paladin
 msgid "Tourist Paladin"
@@ -2653,10 +2657,6 @@ msgstr ""
 msgid "Evolve Shaman"
 msgstr "進化薩"
 
-#: https://hsreplay.net/archetypes/465/menagerie-shaman
-msgid "Menagerie Shaman"
-msgstr "動物園薩"
-
 #: https://hsreplay.net/archetypes/786/wallow-warlock
 msgid "Wallow Warlock"
 msgstr ""
@@ -2728,4 +2728,20 @@ msgstr "元素薩"
 #: https://hsreplay.net/archetypes/126/murloc-shaman
 msgid "Murloc Shaman"
 msgstr "魚人薩"
+
+#: https://hsreplay.net/archetypes/170/beast-hunter
+msgid "Beast Hunter"
+msgstr "野獸獵"
+
+#: https://hsreplay.net/archetypes/806/bandage-priest
+msgid "Bandage Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/408/weapon-rogue
+msgid "Weapon Rogue"
+msgstr "武器賊"
+
+#: https://hsreplay.net/archetypes/465/menagerie-shaman
+msgid "Menagerie Shaman"
+msgstr "動物園薩"
 
