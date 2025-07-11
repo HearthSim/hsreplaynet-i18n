@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-08 01:40\n"
+"POT-Creation-Date: 2025-07-11 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: pl\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-07-08 12:40\n"
+"PO-Revision-Date: 2025-07-11 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
@@ -190,6 +190,26 @@ msgstr ""
 msgid "Buff Murlocs End of Turn"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/46/
+msgid "Elementals - Stat scaling/End Of Turn"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/46/
+msgid "[[Amplifying Lightspawn||119957]] scales the stats of your stat scaling at the end of your turn, and [[Lokholar, Frostforger||119955]] is your pay off that adds a bunch of stats to your board at the end of your turn while benefitting from stat scaling. [[Drakkari Enchanter||101314]] doubles the effectiveness of both of these cards."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/46/
+msgid "[[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/46/
+msgid "[[Amplifying Lightspawn||119957]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/46/
+msgid "Buff the stat scaling on your elementals to buff your board at the end of turn."
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/38/
 msgid "Beasts - Summon Beetles"
 msgstr ""
@@ -338,6 +358,28 @@ msgstr ""
 msgid "Overflow your board to scale"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/37/
+msgid "Elementals - Stat scaling"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/37/
+msgid "Buff your stat scaling through the [[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]] Combo. Then, if you have Manasurge, cycle every good elemental ([[Sellemental||64038]], [[Windfall Tornado||116738]], [[Refreshing Anomaly||64042]], [[Sand Swirler||119949]]). It's even better if you cycle those cards with [[Brann Bronzebeard||96786]]\n\n"
+"This strategy is the best if you have a way of printing lots of 6 drops. Some trinkets allow this."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/37/
+msgid "[[Unleashed Mana Surge||120674]] + [[Brann Bronzebeard||96786]] + Stat scaling ([[Glowing Cinder||119951]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/37/
+msgid "[[Glowing Cinder||119951]]\n"
+"[[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/37/
+msgid "Buff stat scaling on Elementals."
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/20/
 msgid "Nagas - Groundbreaker"
 msgstr ""
@@ -377,27 +419,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Play spells to buff Mechs"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Elementals - Stat scaling"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Buff your stat scaling through the [[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]] Combo. Then, if you have Manasurge, cycle every good elemental ([[Sellemental||64038]], [[Windfall Tornado||116738]], [[Refreshing Anomaly||64042]], [[Sand Swirler||119949]]). It's even better if you cycle those cards with [[Brann Bronzebeard||96786]]\n\n"
-"This strategy is the best if you have a way of printing lots of 6 drops. Some trinkets allow this."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/37/
-msgid "[[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]]/[[Unleashed Mana Surge||120674]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/37/
-msgid "[[Drakkari Enchanter||101314]], [[Amplifying Lightspawn||119957]], [[Glowing Cinder||119951]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Buff stat scaling on Elementals."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
