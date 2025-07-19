@@ -3,13 +3,38 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-18 01:40\n"
+"POT-Creation-Date: 2025-07-19 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: English\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#: name | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Mechs - Magnetics"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
+msgid ""
+"Generate a ton of [[Dr. Boom's Monster||115676]] through an early [[Holo "
+"Rover||115674]], then put the Boom Monsters on either the Rover or "
+"[[Deflect-o-bot||61930]]. Then, you may cycle every single cheap spell with "
+"a [[Charging Czarina||110321]] setup. This will make your Boom Monster's "
+"huge."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Holo Rover||115674]] + [[Electron, Powered Up||120029]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Holo Rover||115674]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Put huge magnetics on premium Mechs"
+msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
@@ -35,59 +60,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Eat buffed shop with buffed spells."
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/36/
-msgid "Nalaa"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/36/
-msgid ""
-"Buy every single spell that effectively costs 1 or 2 (Fleeting Vigor, "
-"Cloning Conch), to scale your good menagerie units. After you've scaled your"
-" Menagerie units enough, you can stop scaling and fill out the rest of your "
-"board with scam units ([[Leeroy the Reckless||90425]])."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/36/
-msgid ""
-"[[Nalaa the Redeemer||104468]] + Spell Generation/Good tribes ([[Blade "
-"Collector||99035]])/another Nalaa"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/36/
-msgid ""
-"[[Nalaa the Redeemer||104468]]\n"
-"Spell Generation"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/36/
-msgid "Buy spells to scale Menagerie units."
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Mechs - Magnetics"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
-msgid ""
-"Generate a ton of [[Dr. Boom's Monster||115676]] through an early [[Holo "
-"Rover||115674]], then put the Boom Monsters on either the Rover or "
-"[[Deflect-o-bot||61930]]. Then, you may cycle every single cheap spell with "
-"a [[Charging Czarina||110321]] setup. This will make your Boom Monster's "
-"huge."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Holo Rover||115674]] + [[Electron, Powered Up||120029]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Holo Rover||115674]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Put huge magnetics on premium Mechs"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
@@ -228,6 +200,34 @@ msgstr ""
 msgid "Buff Murlocs End of Turn"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/36/
+msgid "Nalaa"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/36/
+msgid ""
+"Buy every single spell that effectively costs 1 or 2 (Fleeting Vigor, "
+"Cloning Conch), to scale your good menagerie units. After you've scaled your"
+" Menagerie units enough, you can stop scaling and fill out the rest of your "
+"board with scam units ([[Leeroy the Reckless||90425]])."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/36/
+msgid ""
+"[[Nalaa the Redeemer||104468]] + Spell Generation/Good tribes ([[Blade "
+"Collector||99035]])/another Nalaa"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/36/
+msgid ""
+"[[Nalaa the Redeemer||104468]]\n"
+"Spell Generation"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/36/
+msgid "Buy spells to scale Menagerie units."
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/46/
 msgid "Elementals - Stat scaling/End Of Turn"
 msgstr ""
@@ -307,29 +307,6 @@ msgstr ""
 msgid "Summon high attack Undeads"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/15/
-msgid "Dragons - Kalecgos"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/15/
-msgid ""
-"[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +2/4 every single battlecry you play. You want to trigger as many battlecries as possible. Usually your Greenskeeper + Whimsidrake combo in the midgame is responsible for all your economy and farming you great dragon battlecries.\n"
-"\n"
-"Cycle only PREMIUM battlecries, such as [[Gentle Djinni||64062]], [[Refreshing Anomaly||64042]], or [[General Drakkisath||96167]]."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/15/
-msgid "[[Kalecgos, Arcane Aspect||60630]] + [[Brann Bronzebeard||96786]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/15/
-msgid "[[Brann Bronzebeard||96786]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/15/
-msgid "Cycle battlecries to scale dragons"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/9/
 msgid "Demons - Shop Buff/Self Damage"
 msgstr ""
@@ -354,6 +331,54 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/9/
 msgid "Buff and consume your shop"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/15/
+msgid "Dragons - Kalecgos"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/15/
+msgid ""
+"[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +2/4 every single battlecry you play. You want to trigger as many battlecries as possible. Usually your Greenskeeper + Whimsidrake combo in the midgame is responsible for all your economy and farming you great dragon battlecries.\n"
+"\n"
+"Cycle only PREMIUM battlecries, such as [[Gentle Djinni||64062]], [[Refreshing Anomaly||64042]], or [[General Drakkisath||96167]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Kalecgos, Arcane Aspect||60630]] + [[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/15/
+msgid "Cycle battlecries to scale dragons"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Spell Buff/End of Turn"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
+msgid ""
+"*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early "
+"[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of "
+"your board are cards that can take advantage of the buffed spells. Fauna "
+"Whisperer benefits a lot from the end of turn/spell buff synergy, and "
+"ideally you put it next to an Nightmare Par-tea Guest to buff your entire "
+"board. Firescale Hoarder and Murkeye are also useful for spell generation."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
+msgid ""
+"[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] or Spell "
+"Generation ([[Firescale Hoarder||120213]]/[[Nightmare Par-Tea "
+"Guest||120754]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Cast Buffed Spells"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
@@ -407,30 +432,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Scale up blood gems, unleash them during combat"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Undead - Overflow"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid ""
-"When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else. KT can be used to constantly duplicate your Catacomb Crasher if you put reborn on the Catacomb Crasher.\n"
-"\n"
-"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
-msgid ""
-"Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
-msgid "[[Cadaver Caretaker||113158]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow your board to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/37/
@@ -518,13 +519,37 @@ msgstr ""
 msgid "Play spells to buff Mechs"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Undead - Overflow"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
+msgid ""
+"When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else. KT can be used to constantly duplicate your Catacomb Crasher if you put reborn on the Catacomb Crasher.\n"
+"\n"
+"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
+msgid ""
+"Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
+msgid "[[Cadaver Caretaker||113158]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow your board to scale"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - Hand Buff/Spell Buff"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
 msgid ""
-"Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] using [[Seafood stew||120940]]s from [[Gormling Gourmet||120689]]. You usually first buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Best if you can repeatedly proc the Mystic using something like [[Young Murk-eye||87084]]. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is required to have to carry a bunch of keywords for [[Seafood Stew||120940]]. After your spells are sufficiently buffed, you should cut [[Shoalfin Mystic||120215]] and switch to proccing [[Gormling Gourmet||120689]] as much as possible.\n"
+"Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] using [[Seafood stew||120940]]s from [[Gormling Gourmet||120689]]. You usually first buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is required to have to carry a bunch of keywords for [[Seafood Stew||120940]]. After your spells are sufficiently buffed, you should cut [[Shoalfin Mystic||120215]] and switch to proccing [[Gormling Gourmet||120689]] as much as possible.\n"
 "\n"
 "\n"
 "Finally, [[Choral Mrrrglr||98948]] and [[Bassgill||98926]] are great ways to capture the stats from your hand so you can build the strongest possible board in the endgame."
