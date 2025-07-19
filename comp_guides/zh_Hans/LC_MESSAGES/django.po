@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-11 01:40\n"
+"POT-Creation-Date: 2025-07-19 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,49 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-07-17 12:40\n"
-
-#: name | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Demons - Shop Buff/Spells"
-msgstr "恶魔 - 商店Buff/法术"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every single cheap spell to eat the shop with."
-msgstr "使用[[邪火咒龙||120299]]提升你的酒馆法术。然后从[[影舞者||120662]]获得的法术会被极度Buff，这可以让你的[[狂蝠恐惧卫士||116697]]吞噬掉一个大商店。购买每一个便宜的酒馆法术来吞噬商店。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
-msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]]/[[Shadowdancer||120662]]"
-msgstr "[[邪火咒龙||120299]] + [[达卡莱附魔师||101314]]/[[影舞者||120662]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
-msgid "[[Felfire Conjurer||120299]]"
-msgstr "[[邪火咒龙||120299]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Eat buffed shop with buffed spells."
-msgstr "用Buff过的酒馆法术吃掉商店中Buff过的随从。"
-
-#: name | https://hsreplay.net/battlegrounds/comps/36/
-msgid "Nalaa"
-msgstr "娜拉喝茶"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/36/
-msgid "Buy every single spell that effectively costs 1 or 2 (Fleeting Vigor, Cloning Conch), to scale your good menagerie units. After you've scaled your Menagerie units enough, you can stop scaling and fill out the rest of your board with scam units ([[Leeroy the Reckless||90425]])."
-msgstr "购买每一个实际花费为 1 或 2 的法术（瞬息活力，克隆螺号）来扩大你的优秀喝茶组件的属性。当你的喝茶组件足够大时就可以不要继续扩大了，找陷阱随从 ([[Leeroy the Reckless||90425]])来填充棋盘的其余空位。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/36/
-msgid "[[Nalaa the Redeemer||104468]] + Spell Generation/Good tribes ([[Blade Collector||99035]])/another Nalaa"
-msgstr "[[Nalaa the Redeemer||104468]] + 酒馆法术生成器/优秀的种族战力 ([[Blade Collector||99035]])/另一个娜拉"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/36/
-msgid "[[Nalaa the Redeemer||104468]]\n"
-"Spell Generation"
-msgstr "[[Nalaa the Redeemer||104468]]\n"
-"酒馆法术生成"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/36/
-msgid "Buy spells to scale Menagerie units."
-msgstr "购买酒馆法术提升喝茶组件。"
+"PO-Revision-Date: 2025-07-19 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Mechs - Magnetics"
@@ -78,6 +36,26 @@ msgstr "[[移动投影仪||115674]]"
 #: summary | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Put huge magnetics on premium Mechs"
 msgstr "将巨型磁力吸附在高级机械上"
+
+#: name | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Demons - Shop Buff/Spells"
+msgstr "恶魔 - 商店Buff/法术"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every single cheap spell to eat the shop with."
+msgstr "使用[[邪火咒龙||120299]]提升你的酒馆法术。然后从[[影舞者||120662]]获得的法术会被极度Buff，这可以让你的[[狂蝠恐惧卫士||116697]]吞噬掉一个大商店。购买每一个便宜的酒馆法术来吞噬商店。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]]/[[Shadowdancer||120662]]"
+msgstr "[[邪火咒龙||120299]] + [[达卡莱附魔师||101314]]/[[影舞者||120662]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Felfire Conjurer||120299]]"
+msgstr "[[邪火咒龙||120299]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Eat buffed shop with buffed spells."
+msgstr "用Buff过的酒馆法术吃掉商店中Buff过的随从。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Poison Scam"
@@ -191,6 +169,28 @@ msgstr "将会添加"
 msgid "Buff Murlocs End of Turn"
 msgstr "在回合结束时Buff鱼人"
 
+#: name | https://hsreplay.net/battlegrounds/comps/36/
+msgid "Nalaa"
+msgstr "娜拉喝茶"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/36/
+msgid "Buy every single spell that effectively costs 1 or 2 (Fleeting Vigor, Cloning Conch), to scale your good menagerie units. After you've scaled your Menagerie units enough, you can stop scaling and fill out the rest of your board with scam units ([[Leeroy the Reckless||90425]])."
+msgstr "购买每一个实际花费为 1 或 2 的法术（瞬息活力，克隆螺号）来扩大你的优秀喝茶组件的属性。当你的喝茶组件足够大时就可以不要继续扩大了，找陷阱随从 ([[Leeroy the Reckless||90425]])来填充棋盘的其余空位。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/36/
+msgid "[[Nalaa the Redeemer||104468]] + Spell Generation/Good tribes ([[Blade Collector||99035]])/another Nalaa"
+msgstr "[[Nalaa the Redeemer||104468]] + 酒馆法术生成器/优秀的种族战力 ([[Blade Collector||99035]])/另一个娜拉"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/36/
+msgid "[[Nalaa the Redeemer||104468]]\n"
+"Spell Generation"
+msgstr "[[Nalaa the Redeemer||104468]]\n"
+"酒馆法术生成"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/36/
+msgid "Buy spells to scale Menagerie units."
+msgstr "购买酒馆法术提升喝茶组件。"
+
 #: name | https://hsreplay.net/battlegrounds/comps/46/
 msgid "Elementals - Stat scaling/End Of Turn"
 msgstr "元素 - 回合结束挂机流"
@@ -257,6 +257,26 @@ msgstr "[[致命打击者||115610]] \n"
 msgid "Summon high attack Undeads"
 msgstr "召唤高攻击力的亡灵"
 
+#: name | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Demons - Shop Buff/Self Damage"
+msgstr "恶魔 - 商店Buff/自伤"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Your shop will be buffed by [[Ashen Corruptor||121687]] paired with [[Malchezaar, Prince of Dance||99199]] and/or [[Dream Inquisitor||120664]]. Then, buy every cheap spell to eat the shop using [[Batty Terrorguard||116697]]."
+msgstr "你的商店中的随从会被[[灰烬腐蚀者||121687]]和[[舞蹈王子玛克扎尔||99199]]和/或[[梦境审判官||120664]]搭配使用后Buff。然后使用[[狂蝠恐惧卫士||116697]]购买所有便宜法术来吞噬商店。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/9/
+msgid "[[Batty Terrorguard||116697]] + [[Ashen Corruptor||121687]] + Self Damage([[Malchezaar, Prince of Dance||99199]]/[[Dream Inquisitor||120664]])"
+msgstr "[[狂蝠恐惧卫士||116697]] + [[灰烬腐蚀者||121687]] + 自伤([[舞蹈王子玛克扎尔||99199]]/[[梦境审判官||120664]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/9/
+msgid "[[Ashen Corruptor||121687]]"
+msgstr "[[灰烬腐蚀者||121687]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Buff and consume your shop"
+msgstr "Buff并吞噬你的商店"
+
 #: name | https://hsreplay.net/battlegrounds/comps/15/
 msgid "Dragons - Kalecgos"
 msgstr "龙 - 卡雷苟斯"
@@ -279,25 +299,21 @@ msgstr "[[Brann Bronzebeard||96786]]"
 msgid "Cycle battlecries to scale dragons"
 msgstr "循环使用战吼来扩大龙的属性值"
 
-#: name | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Demons - Shop Buff/Self Damage"
-msgstr "恶魔 - 商店Buff/自伤"
+#: name | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Spell Buff/End of Turn"
+msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Your shop will be buffed by [[Ashen Corruptor||121687]] paired with [[Malchezaar, Prince of Dance||99199]] and/or [[Dream Inquisitor||120664]]. Then, buy every cheap spell to eat the shop using [[Batty Terrorguard||116697]]."
-msgstr "你的商店中的随从会被[[灰烬腐蚀者||121687]]和[[舞蹈王子玛克扎尔||99199]]和/或[[梦境审判官||120664]]搭配使用后Buff。然后使用[[狂蝠恐惧卫士||116697]]购买所有便宜法术来吞噬商店。"
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
+msgid "*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Fauna Whisperer benefits a lot from the end of turn/spell buff synergy, and ideally you put it next to an Nightmare Par-tea Guest to buff your entire board. Firescale Hoarder and Murkeye are also useful for spell generation."
+msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/9/
-msgid "[[Batty Terrorguard||116697]] + [[Ashen Corruptor||121687]] + Self Damage([[Malchezaar, Prince of Dance||99199]]/[[Dream Inquisitor||120664]])"
-msgstr "[[狂蝠恐惧卫士||116697]] + [[灰烬腐蚀者||121687]] + 自伤([[舞蹈王子玛克扎尔||99199]]/[[梦境审判官||120664]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
+msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] or Spell Generation ([[Firescale Hoarder||120213]]/[[Nightmare Par-Tea Guest||120754]])"
+msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/9/
-msgid "[[Ashen Corruptor||121687]]"
-msgstr "[[灰烬腐蚀者||121687]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Buff and consume your shop"
-msgstr "Buff并吞噬你的商店"
+#: summary | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Cast Buffed Spells"
+msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Pirates - APM"
@@ -344,28 +360,6 @@ msgstr "[[刺头吹笛人||98946]]"
 #: summary | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Scale up blood gems, unleash them during combat"
 msgstr "提升鲜血宝石属性，在战斗中施放"
-
-#: name | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Undead - Overflow"
-msgstr "亡灵 - 挤爆"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else. KT can be used to constantly duplicate your Catacomb Crasher if you put reborn on the Catacomb Crasher.\n\n"
-"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
-msgstr "当[[遗骸看管者||113158]]亡语被触发时，它会通过[[提图斯·瑞文戴尔||97408]] + [[古墓捣蛋鬼||114379]]组合为你的整个棋盘加Buff。继续购买本流派的其余核心/附加组件，不要购买其他任何东西。如果给古墓捣蛋鬼贴上复生，就可以用克尔苏加德来不断复制古墓捣蛋鬼。\n\n"
-"这个流派的典型终局棋盘状态是在布兰契非常大的时候对其使用克尔苏加德。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
-msgstr "挤爆随从([[遗骸看管者||113158]]) + [[古墓捣蛋鬼||114379]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
-msgid "[[Cadaver Caretaker||113158]]"
-msgstr "[[遗骸看管者||113158]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow your board to scale"
-msgstr "挤掉召唤物来成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/37/
 msgid "Elementals - Stat scaling"
@@ -432,15 +426,36 @@ msgstr "圣盾随从 ([[偏折机器人||61930]], [[滑油机器人||72389]])"
 msgid "Play spells to buff Mechs"
 msgstr "释放酒馆法术来Buff机械"
 
+#: name | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Undead - Overflow"
+msgstr "亡灵 - 挤爆"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
+msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else. KT can be used to constantly duplicate your Catacomb Crasher if you put reborn on the Catacomb Crasher.\n\n"
+"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
+msgstr "当[[遗骸看管者||113158]]亡语被触发时，它会通过[[提图斯·瑞文戴尔||97408]] + [[古墓捣蛋鬼||114379]]组合为你的整个棋盘加Buff。继续购买本流派的其余核心/附加组件，不要购买其他任何东西。如果给古墓捣蛋鬼贴上复生，就可以用克尔苏加德来不断复制古墓捣蛋鬼。\n\n"
+"这个流派的典型终局棋盘状态是在布兰契非常大的时候对其使用克尔苏加德。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+msgstr "挤爆随从([[遗骸看管者||113158]]) + [[古墓捣蛋鬼||114379]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
+msgid "[[Cadaver Caretaker||113158]]"
+msgstr "[[遗骸看管者||113158]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow your board to scale"
+msgstr "挤掉召唤物来成长"
+
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - Hand Buff/Spell Buff"
 msgstr "鱼人 - 手牌Buff/法术Buff"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] using [[Seafood stew||120940]]s from [[Gormling Gourmet||120689]]. You usually first buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Best if you can repeatedly proc the Mystic using something like [[Young Murk-eye||87084]]. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is required to have to carry a bunch of keywords for [[Seafood Stew||120940]]. After your spells are sufficiently buffed, you should cut [[Shoalfin Mystic||120215]] and switch to proccing [[Gormling Gourmet||120689]] as much as possible.\n\n\n"
+msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] using [[Seafood stew||120940]]s from [[Gormling Gourmet||120689]]. You usually first buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is required to have to carry a bunch of keywords for [[Seafood Stew||120940]]. After your spells are sufficiently buffed, you should cut [[Shoalfin Mystic||120215]] and switch to proccing [[Gormling Gourmet||120689]] as much as possible.\n\n\n"
 "Finally, [[Choral Mrrrglr||98948]] and [[Bassgill||98926]] are great ways to capture the stats from your hand so you can build the strongest possible board in the endgame."
-msgstr "准备一个专用的鱼人，把你所有的手牌Buff都加在他身上。通常是[[Flighty Scout||120677]]，但也可以是[[Operatic Belcher||101316]]。然后依靠[[Murkbrine Expeditioner||120687]]用[[Gormling Gourmet||120689]]生成的[[Seafood stew||120940]]来给这个鱼人加buff。通常会先使用[[Shoalfin Mystic||120215]]为酒馆法术加buff，因此每一个[[Gormling Gourmet||120689]]都会给你的远行者带来大量属性加成。如果你能使用类似[[Young Murk-eye||87084]]这样的随从反复触发秘法师就最好不过了。金色的[[Bubble Gunner||116178]]或[[Apprentice of Sefin||120681]]是必须的，为了[[Seafood Stew||120940]]的效果携带一堆额外关键词。在你的法术Buff足够多之后，你应该换掉[[Shoalfin Mystic||120215]]，尽可能多地转而触发 [[Gormling Gourmet||120689]]。\n\n"
-"最后，[[Choral Mrrrglr||98948]] 和 [[Bassgill||98926]] 是获取手牌中属性的好方法，这样你就能在终局中构建尽可能强大的棋盘。"
+msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
 msgid "[[Brann Bronzebeard||96786]] + Spell Buff ([[Shoalfin Mystic||120215]]) + [[Murkbrine Expeditioner||120687]]"

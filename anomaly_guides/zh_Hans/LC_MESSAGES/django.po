@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-07T01:40:24.985393\n"
+"POT-Creation-Date: 2025-07-19T01:40:23.571650\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /anomaly_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 167\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-07-17 12:40\n"
+"PO-Revision-Date: 2025-07-19 12:40\n"
 
 #: Anomaly id 102982 | Guide id 20
 msgid "Quests with spellcraft effects are really strong because you get the spellcraft for two turns."
@@ -137,10 +137,6 @@ msgstr "一张法术奖券大约价值1金。但不要为了买奖券而买垃�
 msgid "For the first few turns, guaranteeing that you lose a fight by holding your unit is better than leaving it up to chance. After you've lost a couple of rounds, you can cash out all your gold on tavern 4, and start betting on yourself after you're confident in the win."
 msgstr "在最开始的几个回合中，把随从留在手上不上场来保证自己输掉战斗总比听天由命要好。在输掉几个回合后，你可以在4级酒馆花完所有铸币，在对胜利充满信心后开始为自己下注。"
 
-#: Anomaly id 119748 | Guide id 30
-msgid "Your turn 1 buy is very important, because you'll only get cards from that tribe. Also, it's easy to level fast on this anomaly in order to not buy trash. In my opinion, the best turn 1 tribes are Nagas, Pirates, and Murlocs."
-msgstr "第1回合的购买非常重要。因为你只能获得这个种族的随从。此外，为了不买垃圾牌，在这个畸变下很容易快速升级。我认为最好的第1回合种族是纳迦、海盗和鱼人。"
-
 #: Anomaly id 101986 | Guide id 90
 msgid "Staying down and making interest is ALWAYS better than leveling and not making interest. I prefer to not buy any minions turn 1 and start making interest turn 2 onwards. Then, I would spend all the gold on tavern 4 to stabilize."
 msgstr "保持稳定并赚取利息永远比提升酒馆等级不拿利息要好。我更喜欢在第1回合不买任何随从，从第2回合开始赚取利息。然后我会把所有铸币都花在4级酒馆并稳定下来。"
@@ -152,10 +148,6 @@ msgstr "试着在第1回合刷新3次，第3回合刷新2次，这样就能在�
 #: Anomaly id 118669 | Guide id 15
 msgid "No real tip, just play Marin how you're used to"
 msgstr "没啥真正的提示，只需按自己玩马林的习惯玩即可"
-
-#: Anomaly id 103078 | Guide id 82
-msgid "7 Drops are so overpowered any non-T7 comp can't compete. Here are some of the 7 drop lines: Morgl + Stiched + Moira + Bassgill steals a ton of opponents' stats // Sea witch Zarija + Blade of Ambition on the shop copies gigantic units // Rylak + Hawkstrider Herald + Sanguine Champion + Moira to make gigantic blood gems // Arcane Behemoth + Moira shop buff elementals"
-msgstr "7级随从是如此强大，任何不是基于7级随从的流派都无法与之抗衡。以下是一些7级流派： 摩戈尔+缝合回收者+茉艾拉·铜须+低音提琴鱼人 偷取对手成吨的身材数值 // 海巫扎尔吉拉+用雄心之刃复制酒馆里的巨型单位 // 重金属双头飞龙+陆行鸟先锋+鲜血勇士+茉艾拉·铜须做出巨型鲜血宝石 // 奥术巨怪+茉艾拉·铜须 Buff酒馆里元素"
 
 #: Anomaly id 118688 | Guide id 14
 msgid "Spell based comps are slightly better in this anomaly, but other than that play normally and enjoy some free spells."
@@ -201,6 +193,10 @@ msgstr "有几个“智慧之球”刷新需要注意的点：其中一个是复
 msgid "Spells are really bad to buy in this anomaly. Typically you get one gold back from using [[Chef's Choice||105664]] but in this anomaly the spell is more expensive. Also minions are much more efficient to buy. Also, every single [[Refreshing Anomaly||64042]] is free."
 msgstr "在这个畸变下购买法术非常不划算。通常情况下，使用[[主厨甄选||105664]]可以换回1铸币，但在此畸变下法术的价格更高。此外，购买随从也更有效率。另外，每个[[刷新畸体||64042]]都是免费的。"
 
+#: Anomaly id 103078 | Guide id 82
+msgid "7 Drops are so overpowered any non-T7 comp can't compete. Here are some of the 7 drop lines: Morgl + Stiched + Moira + Bassgill steals a ton of opponents' stats // Rylak + Hawkstrider Herald + Sanguine Champion + Moira to make gigantic blood gems // Arcane Behemoth + Moira shop buff elementals // Moira + Champion of Sargeras + Rylak + Batty Terrorguard Shop Buff Demons"
+msgstr ""
+
 #: Anomaly id 119092 | Guide id 57
 msgid "Go for a 5 drop or a 6 drop with your scout, depending on the tribes."
 msgstr "根据不同的种族，用你的侦察兵换5级或6级随从。"
@@ -208,4 +204,8 @@ msgstr "根据不同的种族，用你的侦察兵换5级或6级随从。"
 #: Anomaly id 101992 | Guide id 23
 msgid "It's hard to pick heroes that love to level fast on this anomaly, such as maybe [[Snake Eyes||105314]]. You want your hero power to be able to put stats on the board without relying on high tier units. I think Ysera is very solid in this one."
 msgstr "在这个畸变下很难去选那些喜欢快速升级的英雄，比如[[Snake Eyes||105314]]。你需要你的英雄技能能够在不依赖高等级随从的情况下有足够的战力。我认为伊瑟拉表现非常出色。"
+
+#: Anomaly id 119748 | Guide id 30
+msgid "Your turn 1 buy is very important, because you'll only get cards from that tribe. Also, it's easy to level fast on this anomaly in order to not buy trash. In my opinion, the best turn 1 tribe to buy is Pirates because of their strong economy."
+msgstr ""
 

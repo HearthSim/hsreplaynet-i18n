@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-11 01:40\n"
+"POT-Creation-Date: 2025-07-19 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Japanese\n"
 "Language: ja\n"
@@ -15,48 +15,7 @@ msgstr ""
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-07-11 12:40\n"
-
-#: name | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Demons - Shop Buff/Spells"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every single cheap spell to eat the shop with."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
-msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]]/[[Shadowdancer||120662]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
-msgid "[[Felfire Conjurer||120299]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Eat buffed shop with buffed spells."
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/36/
-msgid "Nalaa"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/36/
-msgid "Buy every single spell that effectively costs 1 or 2 (Fleeting Vigor, Cloning Conch), to scale your good menagerie units. After you've scaled your Menagerie units enough, you can stop scaling and fill out the rest of your board with scam units ([[Leeroy the Reckless||90425]])."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/36/
-msgid "[[Nalaa the Redeemer||104468]] + Spell Generation/Good tribes ([[Blade Collector||99035]])/another Nalaa"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/36/
-msgid "[[Nalaa the Redeemer||104468]]\n"
-"Spell Generation"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/36/
-msgid "Buy spells to scale Menagerie units."
-msgstr ""
+"PO-Revision-Date: 2025-07-19 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Mechs - Magnetics"
@@ -76,6 +35,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Put huge magnetics on premium Mechs"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Demons - Shop Buff/Spells"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every single cheap spell to eat the shop with."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]]/[[Shadowdancer||120662]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Felfire Conjurer||120299]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Eat buffed shop with buffed spells."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
@@ -190,6 +169,27 @@ msgstr ""
 msgid "Buff Murlocs End of Turn"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/36/
+msgid "Nalaa"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/36/
+msgid "Buy every single spell that effectively costs 1 or 2 (Fleeting Vigor, Cloning Conch), to scale your good menagerie units. After you've scaled your Menagerie units enough, you can stop scaling and fill out the rest of your board with scam units ([[Leeroy the Reckless||90425]])."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/36/
+msgid "[[Nalaa the Redeemer||104468]] + Spell Generation/Good tribes ([[Blade Collector||99035]])/another Nalaa"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/36/
+msgid "[[Nalaa the Redeemer||104468]]\n"
+"Spell Generation"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/36/
+msgid "Buy spells to scale Menagerie units."
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/46/
 msgid "Elementals - Stat scaling/End Of Turn"
 msgstr ""
@@ -253,6 +253,26 @@ msgstr ""
 msgid "Summon high attack Undeads"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Demons - Shop Buff/Self Damage"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Your shop will be buffed by [[Ashen Corruptor||121687]] paired with [[Malchezaar, Prince of Dance||99199]] and/or [[Dream Inquisitor||120664]]. Then, buy every cheap spell to eat the shop using [[Batty Terrorguard||116697]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/9/
+msgid "[[Batty Terrorguard||116697]] + [[Ashen Corruptor||121687]] + Self Damage([[Malchezaar, Prince of Dance||99199]]/[[Dream Inquisitor||120664]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/9/
+msgid "[[Ashen Corruptor||121687]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Buff and consume your shop"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/15/
 msgid "Dragons - Kalecgos"
 msgstr ""
@@ -274,24 +294,20 @@ msgstr ""
 msgid "Cycle battlecries to scale dragons"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Demons - Shop Buff/Self Damage"
+#: name | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Spell Buff/End of Turn"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Your shop will be buffed by [[Ashen Corruptor||121687]] paired with [[Malchezaar, Prince of Dance||99199]] and/or [[Dream Inquisitor||120664]]. Then, buy every cheap spell to eat the shop using [[Batty Terrorguard||116697]]."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
+msgid "*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Fauna Whisperer benefits a lot from the end of turn/spell buff synergy, and ideally you put it next to an Nightmare Par-tea Guest to buff your entire board. Firescale Hoarder and Murkeye are also useful for spell generation."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/9/
-msgid "[[Batty Terrorguard||116697]] + [[Ashen Corruptor||121687]] + Self Damage([[Malchezaar, Prince of Dance||99199]]/[[Dream Inquisitor||120664]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
+msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] or Spell Generation ([[Firescale Hoarder||120213]]/[[Nightmare Par-Tea Guest||120754]])"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/9/
-msgid "[[Ashen Corruptor||121687]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Buff and consume your shop"
+#: summary | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Cast Buffed Spells"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
@@ -335,27 +351,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Scale up blood gems, unleash them during combat"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Undead - Overflow"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else. KT can be used to constantly duplicate your Catacomb Crasher if you put reborn on the Catacomb Crasher.\n\n"
-"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
-msgid "[[Cadaver Caretaker||113158]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow your board to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/37/
@@ -421,12 +416,33 @@ msgstr ""
 msgid "Play spells to buff Mechs"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Undead - Overflow"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
+msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else. KT can be used to constantly duplicate your Catacomb Crasher if you put reborn on the Catacomb Crasher.\n\n"
+"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
+msgid "[[Cadaver Caretaker||113158]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow your board to scale"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - Hand Buff/Spell Buff"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] using [[Seafood stew||120940]]s from [[Gormling Gourmet||120689]]. You usually first buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Best if you can repeatedly proc the Mystic using something like [[Young Murk-eye||87084]]. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is required to have to carry a bunch of keywords for [[Seafood Stew||120940]]. After your spells are sufficiently buffed, you should cut [[Shoalfin Mystic||120215]] and switch to proccing [[Gormling Gourmet||120689]] as much as possible.\n\n\n"
+msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] using [[Seafood stew||120940]]s from [[Gormling Gourmet||120689]]. You usually first buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is required to have to carry a bunch of keywords for [[Seafood Stew||120940]]. After your spells are sufficiently buffed, you should cut [[Shoalfin Mystic||120215]] and switch to proccing [[Gormling Gourmet||120689]] as much as possible.\n\n\n"
 "Finally, [[Choral Mrrrglr||98948]] and [[Bassgill||98926]] are great ways to capture the stats from your hand so you can build the strongest possible board in the endgame."
 msgstr ""
 
