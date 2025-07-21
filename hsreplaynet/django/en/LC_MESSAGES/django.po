@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-21 01:40+0000\n"
+"POT-Creation-Date: 2025-07-21 20:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -632,7 +632,7 @@ msgstr ""
 msgid "Minions"
 msgstr ""
 
-#: templates/navigation.html:151 templates/navigation.html:215
+#: templates/navigation.html:151 templates/navigation.html:203
 msgid "SALE!"
 msgstr ""
 
@@ -656,13 +656,13 @@ msgstr ""
 msgid "Cards"
 msgstr ""
 
-#: templates/navigation.html:203
-msgid "NEW"
-msgstr ""
-
-#: templates/navigation.html:214 templates/navigation.html:217
+#: templates/navigation.html:202 templates/navigation.html:205
 #: web/views/premium.py:31
 msgid "Premium"
+msgstr ""
+
+#: templates/navigation.html:217
+msgid "NEW"
 msgstr ""
 
 #: templates/navigation.html:252
@@ -902,6 +902,18 @@ msgstr ""
 #: web/views/archetypes.py:164
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
+msgstr ""
+
+#: web/views/arenasmith.py:13
+msgid "Pick the strongest cards in Arena with Arenasmith"
+msgstr ""
+
+#: web/views/arenasmith.py:17
+msgid "Arenasmith Details"
+msgstr ""
+
+#: web/views/arenasmith.py:22
+msgid "Arenasmith - Draft Helper"
 msgstr ""
 
 #: web/views/battlegrounds.py:117
