@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-19 01:40+0000\n"
-"PO-Revision-Date: 2025-07-19 12:40\n"
+"POT-Creation-Date: 2025-07-21 20:38+0000\n"
+"PO-Revision-Date: 2025-07-22 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -596,7 +596,7 @@ msgstr "畸变"
 msgid "Minions"
 msgstr "随从"
 
-#: templates/navigation.html:151 templates/navigation.html:215
+#: templates/navigation.html:151 templates/navigation.html:203
 msgid "SALE!"
 msgstr "促销！"
 
@@ -620,14 +620,14 @@ msgstr "套牌"
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:203
-msgid "NEW"
-msgstr "新"
-
-#: templates/navigation.html:214 templates/navigation.html:217
+#: templates/navigation.html:202 templates/navigation.html:205
 #: web/views/premium.py:31
 msgid "Premium"
 msgstr "升级会员"
+
+#: templates/navigation.html:217
+msgid "NEW"
+msgstr "新"
 
 #: templates/navigation.html:252
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
@@ -832,6 +832,18 @@ msgstr "卡组"
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr "查找统计信息和不同的 {name} 套牌。"
+
+#: web/views/arenasmith.py:13
+msgid "Pick the strongest cards in Arena with Arenasmith"
+msgstr ""
+
+#: web/views/arenasmith.py:17
+msgid "Arenasmith Details"
+msgstr ""
+
+#: web/views/arenasmith.py:22
+msgid "Arenasmith - Draft Helper"
+msgstr ""
 
 #: web/views/battlegrounds.py:117
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
