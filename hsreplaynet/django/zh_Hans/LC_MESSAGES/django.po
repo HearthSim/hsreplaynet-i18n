@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-21 20:38+0000\n"
-"PO-Revision-Date: 2025-07-22 00:40\n"
+"POT-Creation-Date: 2025-07-22 21:11+0000\n"
+"PO-Revision-Date: 2025-07-23 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -835,15 +835,15 @@ msgstr "查找统计信息和不同的 {name} 套牌。"
 
 #: web/views/arenasmith.py:13
 msgid "Pick the strongest cards in Arena with Arenasmith"
-msgstr ""
+msgstr "在竞技模式中使用 Arenasmith 选择最强的卡牌"
 
 #: web/views/arenasmith.py:17
-msgid "Arenasmith Details"
-msgstr ""
+msgid "Arenasmith"
+msgstr "Arenasmith"
 
 #: web/views/arenasmith.py:22
-msgid "Arenasmith - Draft Helper"
-msgstr ""
+msgid "Arenasmith - Draft Assistant for Hearthstone Arena"
+msgstr "Arenasmith - 炉石传说竞技模式选牌助手"
 
 #: web/views/battlegrounds.py:117
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
