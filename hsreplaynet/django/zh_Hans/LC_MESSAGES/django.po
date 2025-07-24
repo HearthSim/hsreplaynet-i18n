@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-22 21:11+0000\n"
-"PO-Revision-Date: 2025-07-23 12:40\n"
+"POT-Creation-Date: 2025-07-24 01:40+0000\n"
+"PO-Revision-Date: 2025-07-24 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -491,59 +491,63 @@ msgstr "与Blizzard Entertainment没有从属关系。"
 msgid "Downloads"
 msgstr "下载"
 
-#: templates/footer.html:64
+#: templates/footer.html:64 web/views/arenasmith.py:17
+msgid "Arenasmith"
+msgstr "Arenasmith"
+
+#: templates/footer.html:65
 msgid "Get Premium"
 msgstr "升级会员"
 
-#: templates/footer.html:65
+#: templates/footer.html:66
 msgid "Get Tier7"
 msgstr "升级 Tier7"
 
-#: templates/footer.html:73
+#: templates/footer.html:74
 msgid "Standard Decks"
 msgstr "标准模式套牌"
 
-#: templates/footer.html:74
+#: templates/footer.html:75
 msgid "Wild Decks"
 msgstr "狂野模式套牌"
 
-#: templates/footer.html:75 web/views/archetypes.py:47
+#: templates/footer.html:76 web/views/archetypes.py:47
 msgid "Meta Tier List"
 msgstr "环境梯队表"
 
-#: templates/footer.html:76 web/views/battlegrounds.py:138
+#: templates/footer.html:77 web/views/battlegrounds.py:138
 msgid "Battlegrounds Heroes"
 msgstr "酒馆战棋英雄"
 
-#: templates/footer.html:77 web/views/battlegrounds.py:283
+#: templates/footer.html:78 web/views/battlegrounds.py:283
 msgid "Battlegrounds Anomalies"
 msgstr "酒馆战棋畸变"
 
-#: templates/footer.html:78 web/views/battlegrounds.py:217
+#: templates/footer.html:79 web/views/battlegrounds.py:217
 msgid "Battlegrounds Trinkets"
 msgstr "酒馆战棋饰品"
 
-#: templates/footer.html:82
+#: templates/footer.html:83
 msgid "Support"
 msgstr "用户支持"
 
-#: templates/footer.html:95
+#: templates/footer.html:96
 msgid "Help Center"
 msgstr "帮助中心"
 
-#: templates/footer.html:97
+#: templates/footer.html:98
 msgid "Your Account"
 msgstr "您的账户"
 
-#: templates/footer.html:99
+#: templates/footer.html:100
 msgid "Terms of Service"
 msgstr "服务条款"
 
-#: templates/footer.html:102
+#: templates/footer.html:103
 msgid "Privacy Policy"
 msgstr "隐私权政策"
 
-#: templates/footer.html:104
+#: templates/footer.html:105
 msgid "Get in Touch"
 msgstr "联系我们"
 
@@ -836,10 +840,6 @@ msgstr "查找统计信息和不同的 {name} 套牌。"
 #: web/views/arenasmith.py:13
 msgid "Pick the strongest cards in Arena with Arenasmith"
 msgstr "在竞技模式中使用 Arenasmith 选择最强的卡牌"
-
-#: web/views/arenasmith.py:17
-msgid "Arenasmith"
-msgstr "Arenasmith"
 
 #: web/views/arenasmith.py:22
 msgid "Arenasmith - Draft Assistant for Hearthstone Arena"

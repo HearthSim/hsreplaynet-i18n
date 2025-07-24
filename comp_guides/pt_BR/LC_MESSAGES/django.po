@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-19 01:40\n"
+"POT-Creation-Date: 2025-07-24 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-07-19 12:40\n"
+"PO-Revision-Date: 2025-07-24 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Mechs - Magnetics"
@@ -330,6 +330,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Spend lots of gold to scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/47/
+msgid "Nagas - T4 Spell Buff"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/47/
+msgid "Use [[Tranquil Meditative||119942]] to scale your spells permanently. Also cycle every [[Shoalfin Mystic||120215]] if you can. Your spell generation comes from [[Slumber Sorcerer||119938]], where you can proc it extra times using Titus or Macaw. Finally, use all your naga spellcrafts on [[Corrupted Myrmidon||80750]]. When it comes to lategame, remove all your scaling units besides [[Corrupted Myrmidon||80750]] and replace it with tech cards such as [[Leeroy the Reckless||90425]]"
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/47/
+msgid "Spell Buff ([[Tranquil Meditative||119942]]) + [[Slumber Sorcerer||119938]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/47/
+msgid "[[Slumber Sorcerer||119938]], [[Tranquil Meditative||119942]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/47/
+msgid "Buff spells to make one huge naga."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/17/

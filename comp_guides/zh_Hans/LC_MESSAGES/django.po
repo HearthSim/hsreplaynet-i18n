@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-19 01:40\n"
+"POT-Creation-Date: 2025-07-24 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-07-23 12:40\n"
+"PO-Revision-Date: 2025-07-24 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Mechs - Magnetics"
@@ -201,11 +201,11 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/46/
 msgid "[[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]]"
-msgstr ""
+msgstr "[[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]]"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/46/
 msgid "[[Amplifying Lightspawn||119957]]"
-msgstr ""
+msgstr "[[Amplifying Lightspawn||119957]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/46/
 msgid "Buff the stat scaling on your elementals to buff your board at the end of turn."
@@ -301,7 +301,7 @@ msgstr "循环使用战吼来扩大龙的属性值"
 
 #: name | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Spell Buff/End of Turn"
-msgstr ""
+msgstr "酒馆法术Buff/回合结束时"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
 msgid "*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Fauna Whisperer benefits a lot from the end of turn/spell buff synergy, and ideally you put it next to an Nightmare Par-tea Guest to buff your entire board. Firescale Hoarder and Murkeye are also useful for spell generation."
@@ -309,11 +309,11 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
 msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] or Spell Generation ([[Firescale Hoarder||120213]]/[[Nightmare Par-Tea Guest||120754]])"
-msgstr ""
+msgstr "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] 或者酒馆法术生成器 ([[Firescale Hoarder||120213]]/[[Nightmare Par-Tea Guest||120754]])"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Cast Buffed Spells"
-msgstr ""
+msgstr "施放Buff过的酒馆法术"
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Pirates - APM"
@@ -338,6 +338,26 @@ msgstr "[[布莱恩·铜须||96786]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Spend lots of gold to scale"
 msgstr "花费大量铸币来成长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/47/
+msgid "Nagas - T4 Spell Buff"
+msgstr "纳迦 - 4级法术Buff"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/47/
+msgid "Use [[Tranquil Meditative||119942]] to scale your spells permanently. Also cycle every [[Shoalfin Mystic||120215]] if you can. Your spell generation comes from [[Slumber Sorcerer||119938]], where you can proc it extra times using Titus or Macaw. Finally, use all your naga spellcrafts on [[Corrupted Myrmidon||80750]]. When it comes to lategame, remove all your scaling units besides [[Corrupted Myrmidon||80750]] and replace it with tech cards such as [[Leeroy the Reckless||90425]]"
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/47/
+msgid "Spell Buff ([[Tranquil Meditative||119942]]) + [[Slumber Sorcerer||119938]]"
+msgstr "酒馆法术Buff ([[Tranquil Meditative||119942]]) + [[Slumber Sorcerer||119938]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/47/
+msgid "[[Slumber Sorcerer||119938]], [[Tranquil Meditative||119942]]"
+msgstr "[[Slumber Sorcerer||119938]], [[Tranquil Meditative||119942]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/47/
+msgid "Buff spells to make one huge naga."
+msgstr "Buff 酒馆法术做出个巨大的纳迦"
 
 #: name | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Quilboar - Combat Scaling"
@@ -373,12 +393,13 @@ msgstr "通过[[增强的光耀之子||119957]] + [[达卡莱附魔师||101314]]
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/37/
 msgid "[[Unleashed Mana Surge||120674]] + [[Brann Bronzebeard||96786]] + Stat scaling ([[Glowing Cinder||119951]])"
-msgstr ""
+msgstr "[[Unleashed Mana Surge||120674]] + [[Brann Bronzebeard||96786]] + 属性加成 ([[Glowing Cinder||119951]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/37/
 msgid "[[Glowing Cinder||119951]]\n"
 "[[Brann Bronzebeard||96786]]"
-msgstr ""
+msgstr "[[Glowing Cinder||119951]]\n"
+"[[Brann Bronzebeard||96786]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/37/
 msgid "Buff stat scaling on Elementals."
@@ -455,7 +476,8 @@ msgstr "鱼人 - 手牌Buff/法术Buff"
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] using [[Seafood stew||120940]]s from [[Gormling Gourmet||120689]]. You usually first buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is required to have to carry a bunch of keywords for [[Seafood Stew||120940]]. After your spells are sufficiently buffed, you should cut [[Shoalfin Mystic||120215]] and switch to proccing [[Gormling Gourmet||120689]] as much as possible.\n\n\n"
 "Finally, [[Choral Mrrrglr||98948]] and [[Bassgill||98926]] are great ways to capture the stats from your hand so you can build the strongest possible board in the endgame."
-msgstr ""
+msgstr "准备一个专用的鱼人，把你所有的手牌Buff都加在他身上。通常是[[Flighty Scout||120677]]，但也可以是[[Operatic Belcher||101316]]。然后依靠[[Murkbrine Expeditioner||120687]]用[[Gormling Gourmet||120689]]生成的[[Seafood stew||120940]]来给这个鱼人加buff。通常会先使用[[Shoalfin Mystic||120215]]为酒馆法术加buff，因此每一个[[Gormling Gourmet||120689]]都会给你的远行者带来大量属性加成。金色的[[Bubble Gunner||116178]]或[[Apprentice of Sefin||120681]]是必须的，为了[[Seafood Stew||120940]]的效果携带一堆额外关键词。在你的法术Buff足够多之后，你应该换掉[[Shoalfin Mystic||120215]]，尽可能多地转而触发 [[Gormling Gourmet||120689]]。\n\n"
+"最后，[[Choral Mrrrglr||98948]] 和 [[Bassgill||98926]] 是获取手牌中属性的好方法，这样你就能在终局中构建尽可能强大的棋盘。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
 msgid "[[Brann Bronzebeard||96786]] + Spell Buff ([[Shoalfin Mystic||120215]]) + [[Murkbrine Expeditioner||120687]]"
