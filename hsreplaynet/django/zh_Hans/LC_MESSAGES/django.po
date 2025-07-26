@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-24 01:40+0000\n"
-"PO-Revision-Date: 2025-07-25 00:40\n"
+"POT-Creation-Date: 2025-07-26 01:40+0000\n"
+"PO-Revision-Date: 2025-07-26 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -486,12 +486,12 @@ msgid "Not affiliated with Blizzard Entertainment."
 msgstr "与Blizzard Entertainment没有从属关系。"
 
 #: templates/footer.html:63 templates/navigation.html:67
-#: templates/navigation.html:159 templates/navigation.html:225
+#: templates/navigation.html:159 templates/navigation.html:222
 #: web/views/__init__.py:175
 msgid "Downloads"
 msgstr "下载"
 
-#: templates/footer.html:64 web/views/arenasmith.py:17
+#: templates/footer.html:64 web/views/arenasmith.py:13
 msgid "Arenasmith"
 msgstr "Arenasmith"
 
@@ -629,11 +629,11 @@ msgstr "卡牌"
 msgid "Premium"
 msgstr "升级会员"
 
-#: templates/navigation.html:217
+#: templates/navigation.html:215
 msgid "NEW"
 msgstr "新"
 
-#: templates/navigation.html:252
+#: templates/navigation.html:249
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "我们正在根据最新酒馆战棋补丁更新此页面。您可能会暂时看到缺失和过期的信息。"
 
@@ -837,11 +837,11 @@ msgstr "卡组"
 msgid "Find stats and different {name} decklists."
 msgstr "查找统计信息和不同的 {name} 套牌。"
 
-#: web/views/arenasmith.py:13
+#: web/views/arenasmith.py:9
 msgid "Pick the strongest cards in Arena with Arenasmith"
 msgstr "在竞技模式中使用 Arenasmith 选择最强的卡牌"
 
-#: web/views/arenasmith.py:22
+#: web/views/arenasmith.py:18
 msgid "Arenasmith - Draft Assistant for Hearthstone Arena"
 msgstr "Arenasmith - 炉石传说竞技模式选牌助手"
 

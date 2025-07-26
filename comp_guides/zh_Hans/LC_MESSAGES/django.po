@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-24 01:40\n"
+"POT-Creation-Date: 2025-07-26 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,27 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-07-25 00:40\n"
+"PO-Revision-Date: 2025-07-26 12:40\n"
+
+#: name | https://hsreplay.net/battlegrounds/comps/46/
+msgid "Elementals - Stat scaling/End Of Turn"
+msgstr "元素 - 回合结束挂机流"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/46/
+msgid "[[Amplifying Lightspawn||119957]] scales the stats of your stat scaling at the end of your turn, and [[Lokholar, Frostforger||119955]] is your pay off that adds a bunch of stats to your board at the end of your turn while benefitting from stat scaling. [[Drakkari Enchanter||101314]] doubles the effectiveness of both of these cards."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/46/
+msgid "[[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]]"
+msgstr "[[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/46/
+msgid "[[Amplifying Lightspawn||119957]]"
+msgstr "[[Amplifying Lightspawn||119957]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/46/
+msgid "Buff the stat scaling on your elementals to buff your board at the end of turn."
+msgstr "加强你的元素增益效果，在回合结束时让整个阵容提升属性"
 
 #: name | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Mechs - Magnetics"
@@ -191,26 +211,6 @@ msgstr "[[Nalaa the Redeemer||104468]]\n"
 msgid "Buy spells to scale Menagerie units."
 msgstr "购买酒馆法术提升喝茶组件。"
 
-#: name | https://hsreplay.net/battlegrounds/comps/46/
-msgid "Elementals - Stat scaling/End Of Turn"
-msgstr "元素 - 回合结束挂机流"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/46/
-msgid "[[Amplifying Lightspawn||119957]] scales the stats of your stat scaling at the end of your turn, and [[Lokholar, Frostforger||119955]] is your pay off that adds a bunch of stats to your board at the end of your turn while benefitting from stat scaling. [[Drakkari Enchanter||101314]] doubles the effectiveness of both of these cards."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/46/
-msgid "[[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]]"
-msgstr "[[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/46/
-msgid "[[Amplifying Lightspawn||119957]]"
-msgstr "[[Amplifying Lightspawn||119957]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/46/
-msgid "Buff the stat scaling on your elementals to buff your board at the end of turn."
-msgstr "加强你的元素增益效果，在回合结束时让整个阵容提升属性"
-
 #: name | https://hsreplay.net/battlegrounds/comps/38/
 msgid "Beasts - Summon Beetles"
 msgstr "野兽 - 召唤甲虫"
@@ -233,29 +233,21 @@ msgstr "[[绿松石飞掠虫||119255]], [[符文虫祖||117499]]"
 msgid "Summon large beetles"
 msgstr "召唤大甲虫"
 
-#: name | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Undead - Attack Scaling"
-msgstr "亡灵 - 攻击提升"
+#: name | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Spell Buff/End of Turn"
+msgstr "酒馆法术Buff/回合结束时"
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
-msgid "You want to scale Attack Undead, most commonly through [[Drustfallen Butcher||120104]]. You want to butcher the high attack Undeads you generate from [[Deathly Striker||115610]] Then, you want to have a bunch of summons with [[Handless Forsaken||95265]] and/or [[Deathly Striker||115610]] that have high attack.\n\n"
-"You'll likely find lots of [[Moroes, Steward of Death||104612]], so try to eat that card as much as possible to scale up your permanent undeads, which include [[Noisul of the Many Faces||120106]]."
-msgstr "你要扩大亡灵的身材最常见的方法是通过[[Drustfallen Butcher||120104]]。你要对[[Deathly Striker||115610]]生成的高攻亡灵使用宰割。然后你要用一些召唤亡灵的随从，如[[Handless Forsaken||95265]]和/或[[Deathly Striker||115610]]召唤高攻击的召唤物。\n\n"
-"你很可能会发现大量的[[Moroes, Steward of Death ||104612]]，尽量多吃掉它来永久增加你的亡灵属性，其中包括[[Noisul of the Many Faces||120106]]。"
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
+msgid "*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Fauna Whisperer benefits a lot from the end of turn/spell buff synergy, and ideally you put it next to an Nightmare Par-tea Guest to buff your entire board. Firescale Hoarder and Murkeye are also useful for spell generation."
+msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Attack scaling ([[Drustfallen Butcher||120104]])/[[Noisul of the Many Faces||120106]] + Undead summons ([[Deathly Striker||115610]])"
-msgstr "攻击成长 ([[Drustfallen Butcher||120104]])/[[Noisul of the Many Faces||120106]] + 亡灵召唤 ([[Deathly Striker||115610]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
+msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] or Spell Generation ([[Fauna Whisperer||120905]])"
+msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
-msgid "[[Deathly Striker||115610]] \n"
-"Undead Summons [[Cadaver Caretaker||113158]]"
-msgstr "[[致命打击者||115610]] \n"
-"亡灵召唤 [[遗骸看管者||113158]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Summon high attack Undeads"
-msgstr "召唤高攻击力的亡灵"
+#: summary | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Cast Buffed Spells"
+msgstr "施放Buff过的酒馆法术"
 
 #: name | https://hsreplay.net/battlegrounds/comps/9/
 msgid "Demons - Shop Buff/Self Damage"
@@ -299,21 +291,29 @@ msgstr "[[Brann Bronzebeard||96786]]"
 msgid "Cycle battlecries to scale dragons"
 msgstr "循环使用战吼来扩大龙的属性值"
 
-#: name | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Spell Buff/End of Turn"
-msgstr "酒馆法术Buff/回合结束时"
+#: name | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Undead - Attack Scaling"
+msgstr "亡灵 - 攻击提升"
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
-msgid "*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Fauna Whisperer benefits a lot from the end of turn/spell buff synergy, and ideally you put it next to an Nightmare Par-tea Guest to buff your entire board. Firescale Hoarder and Murkeye are also useful for spell generation."
-msgstr ""
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
+msgid "You want to scale Attack Undead, most commonly through [[Drustfallen Butcher||120104]]. You want to butcher the high attack Undeads you generate from [[Deathly Striker||115610]] Then, you want to have a bunch of summons with [[Handless Forsaken||95265]] and/or [[Deathly Striker||115610]] that have high attack.\n\n"
+"You'll likely find lots of [[Moroes, Steward of Death||104612]], so try to eat that card as much as possible to scale up your permanent undeads, which include [[Noisul of the Many Faces||120106]]."
+msgstr "你要扩大亡灵的身材最常见的方法是通过[[Drustfallen Butcher||120104]]。你要对[[Deathly Striker||115610]]生成的高攻亡灵使用宰割。然后你要用一些召唤亡灵的随从，如[[Handless Forsaken||95265]]和/或[[Deathly Striker||115610]]召唤高攻击的召唤物。\n\n"
+"你很可能会发现大量的[[Moroes, Steward of Death ||104612]]，尽量多吃掉它来永久增加你的亡灵属性，其中包括[[Noisul of the Many Faces||120106]]。"
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
-msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] or Spell Generation ([[Firescale Hoarder||120213]]/[[Nightmare Par-Tea Guest||120754]])"
-msgstr "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] 或者酒馆法术生成器 ([[Firescale Hoarder||120213]]/[[Nightmare Par-Tea Guest||120754]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Attack scaling ([[Drustfallen Butcher||120104]])/[[Noisul of the Many Faces||120106]] + Undead summons ([[Deathly Striker||115610]])"
+msgstr "攻击成长 ([[Drustfallen Butcher||120104]])/[[Noisul of the Many Faces||120106]] + 亡灵召唤 ([[Deathly Striker||115610]])"
 
-#: summary | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Cast Buffed Spells"
-msgstr "施放Buff过的酒馆法术"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
+msgid "[[Deathly Striker||115610]] \n"
+"Undead Summons [[Cadaver Caretaker||113158]]"
+msgstr "[[致命打击者||115610]] \n"
+"亡灵召唤 [[遗骸看管者||113158]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Summon high attack Undeads"
+msgstr "召唤高攻击力的亡灵"
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Pirates - APM"

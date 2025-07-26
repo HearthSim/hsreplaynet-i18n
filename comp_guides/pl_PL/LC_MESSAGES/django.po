@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-24 01:40\n"
+"POT-Creation-Date: 2025-07-26 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -15,7 +15,27 @@ msgstr ""
 "X-Crowdin-Language: pl\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-07-24 12:40\n"
+"PO-Revision-Date: 2025-07-26 12:40\n"
+
+#: name | https://hsreplay.net/battlegrounds/comps/46/
+msgid "Elementals - Stat scaling/End Of Turn"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/46/
+msgid "[[Amplifying Lightspawn||119957]] scales the stats of your stat scaling at the end of your turn, and [[Lokholar, Frostforger||119955]] is your pay off that adds a bunch of stats to your board at the end of your turn while benefitting from stat scaling. [[Drakkari Enchanter||101314]] doubles the effectiveness of both of these cards."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/46/
+msgid "[[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/46/
+msgid "[[Amplifying Lightspawn||119957]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/46/
+msgid "Buff the stat scaling on your elementals to buff your board at the end of turn."
+msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Mechs - Magnetics"
@@ -190,26 +210,6 @@ msgstr ""
 msgid "Buy spells to scale Menagerie units."
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/46/
-msgid "Elementals - Stat scaling/End Of Turn"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/46/
-msgid "[[Amplifying Lightspawn||119957]] scales the stats of your stat scaling at the end of your turn, and [[Lokholar, Frostforger||119955]] is your pay off that adds a bunch of stats to your board at the end of your turn while benefitting from stat scaling. [[Drakkari Enchanter||101314]] doubles the effectiveness of both of these cards."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/46/
-msgid "[[Amplifying Lightspawn||119957]] + [[Drakkari Enchanter||101314]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/46/
-msgid "[[Amplifying Lightspawn||119957]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/46/
-msgid "Buff the stat scaling on your elementals to buff your board at the end of turn."
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/38/
 msgid "Beasts - Summon Beetles"
 msgstr ""
@@ -231,26 +231,20 @@ msgstr ""
 msgid "Summon large beetles"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Undead - Attack Scaling"
+#: name | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Spell Buff/End of Turn"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
-msgid "You want to scale Attack Undead, most commonly through [[Drustfallen Butcher||120104]]. You want to butcher the high attack Undeads you generate from [[Deathly Striker||115610]] Then, you want to have a bunch of summons with [[Handless Forsaken||95265]] and/or [[Deathly Striker||115610]] that have high attack.\n\n"
-"You'll likely find lots of [[Moroes, Steward of Death||104612]], so try to eat that card as much as possible to scale up your permanent undeads, which include [[Noisul of the Many Faces||120106]]."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
+msgid "*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Fauna Whisperer benefits a lot from the end of turn/spell buff synergy, and ideally you put it next to an Nightmare Par-tea Guest to buff your entire board. Firescale Hoarder and Murkeye are also useful for spell generation."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Attack scaling ([[Drustfallen Butcher||120104]])/[[Noisul of the Many Faces||120106]] + Undead summons ([[Deathly Striker||115610]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
+msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] or Spell Generation ([[Fauna Whisperer||120905]])"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
-msgid "[[Deathly Striker||115610]] \n"
-"Undead Summons [[Cadaver Caretaker||113158]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Summon high attack Undeads"
+#: summary | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Cast Buffed Spells"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/9/
@@ -294,20 +288,26 @@ msgstr ""
 msgid "Cycle battlecries to scale dragons"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Spell Buff/End of Turn"
+#: name | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Undead - Attack Scaling"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
-msgid "*NEEDS DRAGONS OR DEMONS IN* Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Fauna Whisperer benefits a lot from the end of turn/spell buff synergy, and ideally you put it next to an Nightmare Par-tea Guest to buff your entire board. Firescale Hoarder and Murkeye are also useful for spell generation."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
+msgid "You want to scale Attack Undead, most commonly through [[Drustfallen Butcher||120104]]. You want to butcher the high attack Undeads you generate from [[Deathly Striker||115610]] Then, you want to have a bunch of summons with [[Handless Forsaken||95265]] and/or [[Deathly Striker||115610]] that have high attack.\n\n"
+"You'll likely find lots of [[Moroes, Steward of Death||104612]], so try to eat that card as much as possible to scale up your permanent undeads, which include [[Noisul of the Many Faces||120106]]."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
-msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] or Spell Generation ([[Firescale Hoarder||120213]]/[[Nightmare Par-Tea Guest||120754]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Attack scaling ([[Drustfallen Butcher||120104]])/[[Noisul of the Many Faces||120106]] + Undead summons ([[Deathly Striker||115610]])"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Cast Buffed Spells"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
+msgid "[[Deathly Striker||115610]] \n"
+"Undead Summons [[Cadaver Caretaker||113158]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Summon high attack Undeads"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
