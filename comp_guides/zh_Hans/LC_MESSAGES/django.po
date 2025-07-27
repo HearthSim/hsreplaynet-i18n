@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-26 01:40\n"
+"POT-Creation-Date: 2025-07-27 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-07-26 12:40\n"
+"PO-Revision-Date: 2025-07-27 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/46/
 msgid "Elementals - Stat scaling/End Of Turn"
@@ -37,37 +37,18 @@ msgstr "[[Amplifying Lightspawn||119957]]"
 msgid "Buff the stat scaling on your elementals to buff your board at the end of turn."
 msgstr "加强你的元素增益效果，在回合结束时让整个阵容提升属性"
 
-#: name | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Mechs - Magnetics"
-msgstr "机械 - 磁力"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Generate a ton of [[Dr. Boom's Monster||115676]] through an early [[Holo Rover||115674]], then put the Boom Monsters on either the Rover or [[Deflect-o-bot||61930]]. Then, you may cycle every single cheap spell with a [[Charging Czarina||110321]] setup. This will make your Boom Monster's huge."
-msgstr "通过[[移动投影仪||1115674]]生成一堆[[砰砰博士的怪物||1115676]]，然后将砰砰博士的怪物磁力吸附在投影仪或[[偏折机器人||61930]]上。 然后配合[[蓄能女沙皇||110321]]来刷每一个便宜的酒馆法术。这将使你的砰砰博士的怪物变大。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Holo Rover||115674]] + [[Electron, Powered Up||120029]]"
-msgstr "[[移动投影仪||115674]] + [[充能的电荷金刚||120029]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Holo Rover||115674]]"
-msgstr "[[移动投影仪||115674]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Put huge magnetics on premium Mechs"
-msgstr "将巨型磁力吸附在高级机械上"
-
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
 msgstr "恶魔 - 商店Buff/法术"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every single cheap spell to eat the shop with."
-msgstr "使用[[邪火咒龙||120299]]提升你的酒馆法术。然后从[[影舞者||120662]]获得的法术会被极度Buff，这可以让你的[[狂蝠恐惧卫士||116697]]吞噬掉一个大商店。购买每一个便宜的酒馆法术来吞噬商店。"
+msgid "Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every single cheap spell to eat the shop with. \n\n"
+"Those 3 core cards are extremely useful for the comp, but you can add in a mix of addons depending on what you find first: Titus, Macaw, or Herald are useful to trigger Shadowdancer's deathrattle multiple times to generate multiple staffs. Implicator and Felbat are also useful to give you additional shop eats and also some strength if you don't find Batty Terrorguard early enough. Brann and Spiritwalker simply serve as some additional spell generation."
+msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
-msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]]/[[Shadowdancer||120662]]"
-msgstr "[[邪火咒龙||120299]] + [[达卡莱附魔师||101314]]/[[影舞者||120662]]"
+msgid "[[Felfire Conjurer||120299]] + [[Shadowdancer||120662]] + Tavern Consume ([[Batty Terrorguard||116697]])"
+msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
 msgid "[[Felfire Conjurer||120299]]"
@@ -76,6 +57,26 @@ msgstr "[[邪火咒龙||120299]]"
 #: summary | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Eat buffed shop with buffed spells."
 msgstr "用Buff过的酒馆法术吃掉商店中Buff过的随从。"
+
+#: name | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Mechs - Magnetics"
+msgstr "机械 - 磁力"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Electron, powered up||120029]] + Drakkari puts a ton of magnetics on all your magnetics which scales them somewhat decently, especially with paired with [[Mechagnome Interpreter||115678]]. However, your main scaling is with gigantic [[Dr. Boom's Monster||115676]], which you can generate through Holo Rover, Rickety Repairbot, or rolling into it."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Drakkari Enchanter||101314]] + [[Electron, Powered Up||120029]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Rickety Repairbot||120027]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Put huge magnetics on premium Mechs"
+msgstr "将巨型磁力吸附在高级机械上"
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Poison Scam"
@@ -97,26 +98,6 @@ msgstr "快被淘汰了"
 msgid "Buy scam cards and try to preserve placements"
 msgstr "购买下毒卡牌，试图吃烂分"
 
-#: name | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Dragons - Spells"
-msgstr "龙 - 法术"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Scale the ability of your [[Fireforged Evoker||120301]] using a ton of spell generation, which is usually through [[Ignition Specialist||105852]] and maybe [[Brann Bronzebeard||96786]]. Eventually, you'll need [[Persistent Poet||108463]] and/or [[Tarecgosa||72062]] to permanently capture the stats of your Evokers. [[Amber Guardian||95006]] or [[Nadina the Red||60629]] is also nice to give your dragons permanent Divine Shield."
-msgstr "使用大量的酒馆法术来增强你的[[火铸唤魔师||120301]]的能力，通常是通过[[生火专家||105852]]和[[布莱恩·铜须||96786]]。最终你需要通过[[执念诗心龙||108463]]和/或[[泰蕾苟萨||72062]]来永久获取火铸唤魔师的属性。[[琥珀卫士||95006]]或[[红衣纳迪娜||60629]]也可以为你的龙提供永久的圣盾。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/42/
-msgid "[[Fire-forged Evoker||120301]] + Spell Generation ([[Ignition Specialist||105852]])"
-msgstr "[[火铸唤魔师||120301]] + 酒馆法术生成器 ([[生火专家||105852]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Spell Generation ([[Ignition Specialist||105852]])"
-msgstr "酒馆法术生成器 ([[生火专家||105852]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Play spells to scale Dragons"
-msgstr "释放酒馆法术扩大龙的属性"
-
 #: name | https://hsreplay.net/battlegrounds/comps/44/
 msgid "Beasts - Burrower"
 msgstr "野兽 - 钻地虫"
@@ -136,6 +117,26 @@ msgstr "初始的复仇 ([[Harmless Bonehead||104551]])"
 #: summary | https://hsreplay.net/battlegrounds/comps/44/
 msgid "Make huge beasts"
 msgstr "做出巨大的野兽"
+
+#: name | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Dragons - Spells"
+msgstr "龙 - 法术"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Scale the ability of your [[Fireforged Evoker||120301]] using a ton of spell generation, which is usually through [[Ignition Specialist||105852]] and maybe [[Brann Bronzebeard||96786]]. Eventually, you'll need [[Persistent Poet||108463]] and/or [[Tarecgosa||72062]] to permanently capture the stats of your Evokers. [[Nadina the Red||60629]] is also nice to give your dragons permanent Divine Shield."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/42/
+msgid "[[Fire-forged Evoker||120301]] + Spell Generation ([[Ignition Specialist||105852]])"
+msgstr "[[火铸唤魔师||120301]] + 酒馆法术生成器 ([[生火专家||105852]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Spell Generation ([[Ignition Specialist||105852]])"
+msgstr "酒馆法术生成器 ([[生火专家||105852]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Play spells to scale Dragons"
+msgstr "释放酒馆法术扩大龙的属性"
 
 #: name | https://hsreplay.net/battlegrounds/comps/32/
 msgid "Mechs - Automaton (SPECIFIC HEROES)"
@@ -249,26 +250,6 @@ msgstr ""
 msgid "Cast Buffed Spells"
 msgstr "施放Buff过的酒馆法术"
 
-#: name | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Demons - Shop Buff/Self Damage"
-msgstr "恶魔 - 商店Buff/自伤"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Your shop will be buffed by [[Ashen Corruptor||121687]] paired with [[Malchezaar, Prince of Dance||99199]] and/or [[Dream Inquisitor||120664]]. Then, buy every cheap spell to eat the shop using [[Batty Terrorguard||116697]]."
-msgstr "你的商店中的随从会被[[灰烬腐蚀者||121687]]和[[舞蹈王子玛克扎尔||99199]]和/或[[梦境审判官||120664]]搭配使用后Buff。然后使用[[狂蝠恐惧卫士||116697]]购买所有便宜法术来吞噬商店。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/9/
-msgid "[[Batty Terrorguard||116697]] + [[Ashen Corruptor||121687]] + Self Damage([[Malchezaar, Prince of Dance||99199]]/[[Dream Inquisitor||120664]])"
-msgstr "[[狂蝠恐惧卫士||116697]] + [[灰烬腐蚀者||121687]] + 自伤([[舞蹈王子玛克扎尔||99199]]/[[梦境审判官||120664]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/9/
-msgid "[[Ashen Corruptor||121687]]"
-msgstr "[[灰烬腐蚀者||121687]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Buff and consume your shop"
-msgstr "Buff并吞噬你的商店"
-
 #: name | https://hsreplay.net/battlegrounds/comps/15/
 msgid "Dragons - Kalecgos"
 msgstr "龙 - 卡雷苟斯"
@@ -315,29 +296,25 @@ msgstr "[[致命打击者||115610]] \n"
 msgid "Summon high attack Undeads"
 msgstr "召唤高攻击力的亡灵"
 
-#: name | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Pirates - APM"
-msgstr "海盗 - 倒转"
+#: name | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Demons - Shop Buff/Self Damage"
+msgstr "恶魔 - 商店Buff/自伤"
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "After you have at least two [[Doubloon Grifter||116035]] and [[Dastardly Drust||119992]], buy every single Pirate to scale your board. This will ramp up your economy for the rest of the game until you have 50 max gold saved, where you're easily infinite. After you're infinite, continue to buy every pirate, but you can also make the best possible endgame boardstate."
-msgstr "在你至少拥有两个 [[Doubloon Grifter||116035]] 和 [[Dastardly Drust||119992]] 之后，购买每一个海盗来扩大你的棋盘属性。这将在接下来的游戏中提升你的经济，直到你积攒了 50 铸币上限，你就可以轻松实现无限资源。无限之后继续购买每一个海盗，但你也可以尽可能打造出最好的终局棋盘状态。"
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Your shop will be buffed by [[Ashen Corruptor||121687]] paired with [[Malchezaar, Prince of Dance||99199]] and/or [[Dream Inquisitor||120664]]. Then, buy every cheap spell to eat the shop using [[Batty Terrorguard||116697]]. [[Brann Bronzebeard||96786]] is typically used for spell generation through [[Rodeo Performer||104466]], and also to double effects from [[Mecha Jaraxxus||95469]] and [[Imposing Percussionist||99232]]."
+msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Double [[Doubloon Grifter||116035]] + [[Dastardly Drust||119992]]"
-msgstr "两个[[金币诈骗犯||116035]] + [[卑鄙的德鲁斯特||119992]]"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/9/
+msgid "[[Batty Terrorguard||116697]] + [[Ashen Corruptor||121687]] + Self Damage([[Dream Inquisitor||120664]])"
+msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Doubloon Grifter||116035]]\n"
-"Midgame pirates ([[Gunpowder Courier||98889]])"
-msgstr "[[布莱恩·铜须||96786]]\n"
-"[[金币诈骗犯||116035]]\n"
-"中期过度海盗 ([[火药运输工||98889]])"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/9/
+msgid "[[Ashen Corruptor||121687]]"
+msgstr "[[灰烬腐蚀者||121687]]"
 
-#: summary | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Spend lots of gold to scale"
-msgstr "花费大量铸币来成长"
+#: summary | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Buff and consume your shop"
+msgstr "Buff并吞噬你的商店"
 
 #: name | https://hsreplay.net/battlegrounds/comps/47/
 msgid "Nagas - T4 Spell Buff"
@@ -452,10 +429,8 @@ msgid "Undead - Overflow"
 msgstr "亡灵 - 挤爆"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else. KT can be used to constantly duplicate your Catacomb Crasher if you put reborn on the Catacomb Crasher.\n\n"
-"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
-msgstr "当[[遗骸看管者||113158]]亡语被触发时，它会通过[[提图斯·瑞文戴尔||97408]] + [[古墓捣蛋鬼||114379]]组合为你的整个棋盘加Buff。继续购买本流派的其余核心/附加组件，不要购买其他任何东西。如果给古墓捣蛋鬼贴上复生，就可以用克尔苏加德来不断复制古墓捣蛋鬼。\n\n"
-"这个流派的典型终局棋盘状态是在布兰契非常大的时候对其使用克尔苏加德。"
+msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. One very powerful thing you can do is with [[Archlich Kel'Thuzad||105518]] and constantly duplicating your Catacomb Crasher if you put reborn on the Catacomb Crasher. Then, you can keep doing that every turn until you have 3 golden Crashers."
+msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
 msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
@@ -492,4 +467,29 @@ msgstr "[[Brann Bronzebeard||96786]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Buff Huge Murloc in Hand"
 msgstr "Buff手牌中的大鱼人"
+
+#: name | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Pirates - APM"
+msgstr "海盗 - 倒转"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
+msgid "After you have at least two [[Doubloon Grifter||116035]] and [[Dastardly Drust||119992]], buy every single Pirate to scale your board. Cards such as [[Thieving Rascal||119988]] and [[Brann Bronzebeard||96786]] could help give you the initial economy you need to get the ball rolling. The Grifters will ramp up your economy for the rest of the game until you have 50 max gold saved, in which you're easily infinite. After you're infinite, continue to buy every pirate, and also start saving up cards to make the best possible endgame boardstate. \n\n"
+"Common ways to cap out your board is eating a Spacefarer onto a Murkbrine Expeditioner, or pivoting beetles with Shimmering Moth, both those lines are super advanced."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Double [[Doubloon Grifter||116035]] + [[Dastardly Drust||119992]]"
+msgstr "两个[[金币诈骗犯||116035]] + [[卑鄙的德鲁斯特||119992]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Doubloon Grifter||116035]]\n"
+"Midgame pirates ([[Gunpowder Courier||98889]])"
+msgstr "[[布莱恩·铜须||96786]]\n"
+"[[金币诈骗犯||116035]]\n"
+"中期过度海盗 ([[火药运输工||98889]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Spend lots of gold to scale"
+msgstr "花费大量铸币来成长"
 

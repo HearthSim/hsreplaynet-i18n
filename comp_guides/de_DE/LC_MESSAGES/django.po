@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-26 01:40\n"
+"POT-Creation-Date: 2025-07-27 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: de\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-07-26 12:40\n"
+"PO-Revision-Date: 2025-07-27 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/46/
 msgid "Elementals - Stat scaling/End Of Turn"
@@ -37,36 +37,17 @@ msgstr ""
 msgid "Buff the stat scaling on your elementals to buff your board at the end of turn."
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Mechs - Magnetics"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Generate a ton of [[Dr. Boom's Monster||115676]] through an early [[Holo Rover||115674]], then put the Boom Monsters on either the Rover or [[Deflect-o-bot||61930]]. Then, you may cycle every single cheap spell with a [[Charging Czarina||110321]] setup. This will make your Boom Monster's huge."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Holo Rover||115674]] + [[Electron, Powered Up||120029]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Holo Rover||115674]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Put huge magnetics on premium Mechs"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every single cheap spell to eat the shop with."
+msgid "Use [[Felfire Conjurer||120299]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[Batty Terrorguard||116697]] to eat a big shop. Buy every single cheap spell to eat the shop with. \n\n"
+"Those 3 core cards are extremely useful for the comp, but you can add in a mix of addons depending on what you find first: Titus, Macaw, or Herald are useful to trigger Shadowdancer's deathrattle multiple times to generate multiple staffs. Implicator and Felbat are also useful to give you additional shop eats and also some strength if you don't find Batty Terrorguard early enough. Brann and Spiritwalker simply serve as some additional spell generation."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
-msgid "[[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]]/[[Shadowdancer||120662]]"
+msgid "[[Felfire Conjurer||120299]] + [[Shadowdancer||120662]] + Tavern Consume ([[Batty Terrorguard||116697]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
@@ -75,6 +56,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Eat buffed shop with buffed spells."
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Mechs - Magnetics"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Electron, powered up||120029]] + Drakkari puts a ton of magnetics on all your magnetics which scales them somewhat decently, especially with paired with [[Mechagnome Interpreter||115678]]. However, your main scaling is with gigantic [[Dr. Boom's Monster||115676]], which you can generate through Holo Rover, Rickety Repairbot, or rolling into it."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Drakkari Enchanter||101314]] + [[Electron, Powered Up||120029]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Rickety Repairbot||120027]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Put huge magnetics on premium Mechs"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
@@ -97,26 +98,6 @@ msgstr ""
 msgid "Buy scam cards and try to preserve placements"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Dragons - Spells"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Scale the ability of your [[Fireforged Evoker||120301]] using a ton of spell generation, which is usually through [[Ignition Specialist||105852]] and maybe [[Brann Bronzebeard||96786]]. Eventually, you'll need [[Persistent Poet||108463]] and/or [[Tarecgosa||72062]] to permanently capture the stats of your Evokers. [[Amber Guardian||95006]] or [[Nadina the Red||60629]] is also nice to give your dragons permanent Divine Shield."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/42/
-msgid "[[Fire-forged Evoker||120301]] + Spell Generation ([[Ignition Specialist||105852]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Spell Generation ([[Ignition Specialist||105852]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/42/
-msgid "Play spells to scale Dragons"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/44/
 msgid "Beasts - Burrower"
 msgstr ""
@@ -135,6 +116,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/44/
 msgid "Make huge beasts"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Dragons - Spells"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Scale the ability of your [[Fireforged Evoker||120301]] using a ton of spell generation, which is usually through [[Ignition Specialist||105852]] and maybe [[Brann Bronzebeard||96786]]. Eventually, you'll need [[Persistent Poet||108463]] and/or [[Tarecgosa||72062]] to permanently capture the stats of your Evokers. [[Nadina the Red||60629]] is also nice to give your dragons permanent Divine Shield."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/42/
+msgid "[[Fire-forged Evoker||120301]] + Spell Generation ([[Ignition Specialist||105852]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Spell Generation ([[Ignition Specialist||105852]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/42/
+msgid "Play spells to scale Dragons"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/32/
@@ -247,26 +248,6 @@ msgstr ""
 msgid "Cast Buffed Spells"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Demons - Shop Buff/Self Damage"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Your shop will be buffed by [[Ashen Corruptor||121687]] paired with [[Malchezaar, Prince of Dance||99199]] and/or [[Dream Inquisitor||120664]]. Then, buy every cheap spell to eat the shop using [[Batty Terrorguard||116697]]."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/9/
-msgid "[[Batty Terrorguard||116697]] + [[Ashen Corruptor||121687]] + Self Damage([[Malchezaar, Prince of Dance||99199]]/[[Dream Inquisitor||120664]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/9/
-msgid "[[Ashen Corruptor||121687]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/9/
-msgid "Buff and consume your shop"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/15/
 msgid "Dragons - Kalecgos"
 msgstr ""
@@ -310,26 +291,24 @@ msgstr ""
 msgid "Summon high attack Undeads"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Pirates - APM"
+#: name | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Demons - Shop Buff/Self Damage"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "After you have at least two [[Doubloon Grifter||116035]] and [[Dastardly Drust||119992]], buy every single Pirate to scale your board. This will ramp up your economy for the rest of the game until you have 50 max gold saved, where you're easily infinite. After you're infinite, continue to buy every pirate, but you can also make the best possible endgame boardstate."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Your shop will be buffed by [[Ashen Corruptor||121687]] paired with [[Malchezaar, Prince of Dance||99199]] and/or [[Dream Inquisitor||120664]]. Then, buy every cheap spell to eat the shop using [[Batty Terrorguard||116697]]. [[Brann Bronzebeard||96786]] is typically used for spell generation through [[Rodeo Performer||104466]], and also to double effects from [[Mecha Jaraxxus||95469]] and [[Imposing Percussionist||99232]]."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Double [[Doubloon Grifter||116035]] + [[Dastardly Drust||119992]]"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/9/
+msgid "[[Batty Terrorguard||116697]] + [[Ashen Corruptor||121687]] + Self Damage([[Dream Inquisitor||120664]])"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Doubloon Grifter||116035]]\n"
-"Midgame pirates ([[Gunpowder Courier||98889]])"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/9/
+msgid "[[Ashen Corruptor||121687]]"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Spend lots of gold to scale"
+#: summary | https://hsreplay.net/battlegrounds/comps/9/
+msgid "Buff and consume your shop"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/47/
@@ -441,8 +420,7 @@ msgid "Undead - Overflow"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Keep rolling for core/addon pieces of the comp and don't buy anything else. KT can be used to constantly duplicate your Catacomb Crasher if you put reborn on the Catacomb Crasher.\n\n"
-"The typical capped endgame boardstate for this comp involves using KT on the Blanchy when it is really big."
+msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. One very powerful thing you can do is with [[Archlich Kel'Thuzad||105518]] and constantly duplicating your Catacomb Crasher if you put reborn on the Catacomb Crasher. Then, you can keep doing that every turn until you have 3 golden Crashers."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
@@ -477,5 +455,28 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Buff Huge Murloc in Hand"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Pirates - APM"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
+msgid "After you have at least two [[Doubloon Grifter||116035]] and [[Dastardly Drust||119992]], buy every single Pirate to scale your board. Cards such as [[Thieving Rascal||119988]] and [[Brann Bronzebeard||96786]] could help give you the initial economy you need to get the ball rolling. The Grifters will ramp up your economy for the rest of the game until you have 50 max gold saved, in which you're easily infinite. After you're infinite, continue to buy every pirate, and also start saving up cards to make the best possible endgame boardstate. \n\n"
+"Common ways to cap out your board is eating a Spacefarer onto a Murkbrine Expeditioner, or pivoting beetles with Shimmering Moth, both those lines are super advanced."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Double [[Doubloon Grifter||116035]] + [[Dastardly Drust||119992]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Doubloon Grifter||116035]]\n"
+"Midgame pirates ([[Gunpowder Courier||98889]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Spend lots of gold to scale"
 msgstr ""
 
