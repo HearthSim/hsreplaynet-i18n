@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-27 01:40\n"
+"POT-Creation-Date: 2025-07-29 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-07-27 12:40\n"
+"PO-Revision-Date: 2025-07-29 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/46/
 msgid "Elementals - Stat scaling/End Of Turn"
@@ -158,26 +158,6 @@ msgstr "巫妖王，阿卡扎曼扎拉克（集群战术），塔隆·血魔"
 msgid "Summon large Automatons"
 msgstr "召唤大型星元自动机"
 
-#: name | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Nagas - Deathrattle"
-msgstr "纳迦 - 亡语"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Generate a ton of spellcrafts to play using reborned [[Coilskar Sapper||120565]]. The strength of your board comes from reborning [[Showy Cyclist||115565]] + [[Titus Rivendare||97408]], which buffs your nagas a lot in combat. If dragons are in, you have the option to permanently capture the stats with the [[Persistent Poet||108463]] + Amalgam combo."
-msgstr "使用复生的 [[Coilskar Sapper||120565]] 生成大量塑造法术。你的战力来自于复生的[[Showy Cyclist||115565]] + [[Titus Rivendare||97408]]，他们可以在战斗中为你的纳迦们提供大量属性加成。如果有龙的话你可以选择使用[[Persistent Poet||108463]]+融合怪的组合来永久获取属性。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/40/
-msgid "[[Showy Cyclist||115565]] + [[Coilskar Sapper||120565]]"
-msgstr "[[显眼的骑手||115565]] + [[库斯卡工兵||120565]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Naga Midgame ([[Thaumaturgist||115563]]/[[Coilskar Sapper||120565]])"
-msgstr "纳迦中期过渡([[杂耍奇术师||115563]]/[[库斯卡工兵||120565]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Buff Nagas in Combat"
-msgstr "在战斗中Buff纳迦"
-
 #: name | https://hsreplay.net/battlegrounds/comps/45/
 msgid "Murlocs - End of Turn"
 msgstr "鱼人 - 回合结束时"
@@ -233,6 +213,26 @@ msgstr "[[绿松石飞掠虫||119255]], [[符文虫祖||117499]]"
 #: summary | https://hsreplay.net/battlegrounds/comps/38/
 msgid "Summon large beetles"
 msgstr "召唤大甲虫"
+
+#: name | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Nagas - Deathrattle"
+msgstr "纳迦 - 亡语"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Generate a ton of spellcrafts to play using reborned [[Coilskar Sapper||120565]]. The strength of your board comes from reborning [[Showy Cyclist||115565]] + [[Titus Rivendare||97408]], which buffs your nagas a lot in combat. If dragons are in, you have the option to permanently capture the stats with the [[Persistent Poet||108463]] + Amalgam combo."
+msgstr "使用复生的 [[Coilskar Sapper||120565]] 生成大量塑造法术。你的战力来自于复生的[[Showy Cyclist||115565]] + [[Titus Rivendare||97408]]，他们可以在战斗中为你的纳迦们提供大量属性加成。如果有龙的话你可以选择使用[[Persistent Poet||108463]]+融合怪的组合来永久获取属性。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/40/
+msgid "[[Showy Cyclist||115565]] + [[Coilskar Sapper||120565]]"
+msgstr "[[显眼的骑手||115565]] + [[库斯卡工兵||120565]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Naga Midgame ([[Thaumaturgist||115563]]/[[Coilskar Sapper||120565]])"
+msgstr "纳迦中期过渡([[杂耍奇术师||115563]]/[[库斯卡工兵||120565]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Buff Nagas in Combat"
+msgstr "在战斗中Buff纳迦"
 
 #: name | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Spell Buff/End of Turn"
@@ -336,28 +336,6 @@ msgstr "[[Slumber Sorcerer||119938]], [[Tranquil Meditative||119942]]"
 msgid "Buff spells to make one huge naga."
 msgstr "Buff 酒馆法术做出个巨大的纳迦"
 
-#: name | https://hsreplay.net/battlegrounds/comps/17/
-msgid "Quilboar - Combat Scaling"
-msgstr "野猪人 - 战斗提升"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/17/
-msgid "Scale up your gems in the midgame, usually using [[Prickly Piper||98946]] but [[Pokey Thornmantle||112882]] and [[Dreaming Thornweaver||120708]] work too. Then, pick up your core pieces for the Combat Scaling Quilboar board. [[Three lil' Quilboar||114486]] adds a ton of gems to your boars in combat, and [[Needling Crone||120035]] doubles those gems. \n\n"
-"Instead of Three lil Quilboar for combat scaling, you can opt to play towards Rylak/Gem smuggler as well."
-msgstr "在游戏中期升级鲜血宝石，通常使用[[刺头吹笛人||98946]]，但[[迟钝的刺鬃||112882]]和[[睡梦织棘者||120708]]也可以。然后开始凑“野猪人战斗提升”流派的核心随从。[[三只小野猪||114486]]会在战斗中为你的野猪贴上大量宝石，而[[刺针巫婆||120035]]则会使宝石属性翻倍。\n\n"
-"你也可以选择使用重金属双头飞龙/宝石走私商来代替三只小野猪进行战斗中提升。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/17/
-msgid "[[Three Lil' Quilboar||114486]] + Gem scaling ([[Prickly Piper||98946]]/[[Pokey Thornmantle||112882]])"
-msgstr "[[三只小野猪||114486]] + 鲜血宝石属性成长([[刺头吹笛人||98946]]/[[迟钝的刺鬃||112882]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/17/
-msgid "[[Prickly Piper||98946]]"
-msgstr "[[刺头吹笛人||98946]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/17/
-msgid "Scale up blood gems, unleash them during combat"
-msgstr "提升鲜血宝石属性，在战斗中施放"
-
 #: name | https://hsreplay.net/battlegrounds/comps/37/
 msgid "Elementals - Stat scaling"
 msgstr "元素 - 属性成长"
@@ -381,28 +359,6 @@ msgstr "[[Glowing Cinder||119951]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/37/
 msgid "Buff stat scaling on Elementals."
 msgstr "对元素的属性值进行Buff。"
-
-#: name | https://hsreplay.net/battlegrounds/comps/20/
-msgid "Nagas - Groundbreaker"
-msgstr "纳迦 - 碎地者"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/20/
-msgid "After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Warden of Old||65660]]. Brann and Coilskar Sapper are very effective spell generation as well. In the end game, sell your small units with ending units such as [[Leeroy the Reckless||90425]]/"
-msgstr "在拥有至少2个碎地者后循环使用每一个效果不错的纳迦，例如[[贝类收藏家||80740]]和[[古神的卫士||65660]]。布莱恩·铜须和库斯卡工兵也是非常棒的法术生成器。在决赛局，将小型随从出售换成决赛随从（如[[莽神火车王||90425]]）。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/20/
-msgid "[[Darkcrest Strategist||115555]]/[[Coilskar Sapper||120565]] plus [[Groundbreaker||114816]]"
-msgstr "[[暗潮战略专家||115555]]/[[库斯卡工兵||120565]] + [[碎地者||114816]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/20/
-msgid "[[Darkcrest Strategist||115555]]\n"
-"[[Coilskar Sapper||120565]]"
-msgstr "[[暗潮战略专家||115555]]\n"
-"[[库斯卡工兵||120565]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/20/
-msgid "Play spells and nagas to scale"
-msgstr "打出法术和纳迦来成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Mechs - Divine Shield"
@@ -444,29 +400,49 @@ msgstr "[[遗骸看管者||113158]]"
 msgid "Overflow your board to scale"
 msgstr "挤掉召唤物来成长"
 
-#: name | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Murlocs - Hand Buff/Spell Buff"
-msgstr "鱼人 - 手牌Buff/法术Buff"
+#: name | https://hsreplay.net/battlegrounds/comps/20/
+msgid "Nagas - Groundbreaker"
+msgstr "纳迦 - 碎地者"
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] using [[Seafood stew||120940]]s from [[Gormling Gourmet||120689]]. You usually first buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is required to have to carry a bunch of keywords for [[Seafood Stew||120940]]. After your spells are sufficiently buffed, you should cut [[Shoalfin Mystic||120215]] and switch to proccing [[Gormling Gourmet||120689]] as much as possible.\n\n\n"
-"Finally, [[Choral Mrrrglr||98948]] and [[Bassgill||98926]] are great ways to capture the stats from your hand so you can build the strongest possible board in the endgame."
-msgstr "准备一个专用的鱼人，把你所有的手牌Buff都加在他身上。通常是[[Flighty Scout||120677]]，但也可以是[[Operatic Belcher||101316]]。然后依靠[[Murkbrine Expeditioner||120687]]用[[Gormling Gourmet||120689]]生成的[[Seafood stew||120940]]来给这个鱼人加buff。通常会先使用[[Shoalfin Mystic||120215]]为酒馆法术加buff，因此每一个[[Gormling Gourmet||120689]]都会给你的远行者带来大量属性加成。金色的[[Bubble Gunner||116178]]或[[Apprentice of Sefin||120681]]是必须的，为了[[Seafood Stew||120940]]的效果携带一堆额外关键词。在你的法术Buff足够多之后，你应该换掉[[Shoalfin Mystic||120215]]，尽可能多地转而触发 [[Gormling Gourmet||120689]]。\n\n"
-"最后，[[Choral Mrrrglr||98948]] 和 [[Bassgill||98926]] 是获取手牌中属性的好方法，这样你就能在终局中构建尽可能强大的棋盘。"
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/20/
+msgid "After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Warden of Old||65660]]. Brann and Coilskar Sapper are very effective spell generation as well. In the end game, sell your small units with ending units such as [[Leeroy the Reckless||90425]]/"
+msgstr "在拥有至少2个碎地者后循环使用每一个效果不错的纳迦，例如[[贝类收藏家||80740]]和[[古神的卫士||65660]]。布莱恩·铜须和库斯卡工兵也是非常棒的法术生成器。在决赛局，将小型随从出售换成决赛随从（如[[莽神火车王||90425]]）。"
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
-msgid "[[Brann Bronzebeard||96786]] + Spell Buff ([[Shoalfin Mystic||120215]]) + [[Murkbrine Expeditioner||120687]]"
-msgstr "[[Brann Bronzebeard||96786]] + 酒馆法术Buff ([[Shoalfin Mystic||120215]]) + [[Murkbrine Expeditioner||120687]]"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/20/
+msgid "[[Darkcrest Strategist||115555]]/[[Coilskar Sapper||120565]] plus [[Groundbreaker||114816]]"
+msgstr "[[暗潮战略专家||115555]]/[[库斯卡工兵||120565]] + [[碎地者||114816]]"
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/34/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"Spell Buff ([[Shoalfin Mystic||120215]])"
-msgstr "[[Brann Bronzebeard||96786]]\n"
-"酒馆法术Buff ([[Shoalfin Mystic||120215]])"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/20/
+msgid "[[Darkcrest Strategist||115555]]\n"
+"[[Coilskar Sapper||120565]]"
+msgstr "[[暗潮战略专家||115555]]\n"
+"[[库斯卡工兵||120565]]"
 
-#: summary | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Buff Huge Murloc in Hand"
-msgstr "Buff手牌中的大鱼人"
+#: summary | https://hsreplay.net/battlegrounds/comps/20/
+msgid "Play spells and nagas to scale"
+msgstr "打出法术和纳迦来成长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/17/
+msgid "Quilboar - Combat Scaling"
+msgstr "野猪人 - 战斗提升"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/17/
+msgid "Scale up your gems in the midgame, usually using [[Prickly Piper||98946]] but [[Pokey Thornmantle||112882]] and [[Dreaming Thornweaver||120708]] work too. Then, pick up your core pieces for the Combat Scaling Quilboar board. [[Three lil' Quilboar||114486]] adds a ton of gems to your boars in combat, and [[Needling Crone||120035]] doubles those gems. \n\n"
+"Instead of Three lil Quilboar for combat scaling, you can opt to play towards Rylak/Gem smuggler as well."
+msgstr "在游戏中期升级鲜血宝石，通常使用[[刺头吹笛人||98946]]，但[[迟钝的刺鬃||112882]]和[[睡梦织棘者||120708]]也可以。然后开始凑“野猪人战斗提升”流派的核心随从。[[三只小野猪||114486]]会在战斗中为你的野猪贴上大量宝石，而[[刺针巫婆||120035]]则会使宝石属性翻倍。\n\n"
+"你也可以选择使用重金属双头飞龙/宝石走私商来代替三只小野猪进行战斗中提升。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/17/
+msgid "[[Three Lil' Quilboar||114486]] + Gem scaling ([[Prickly Piper||98946]]/[[Pokey Thornmantle||112882]])"
+msgstr "[[三只小野猪||114486]] + 鲜血宝石属性成长([[刺头吹笛人||98946]]/[[迟钝的刺鬃||112882]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/17/
+msgid "[[Prickly Piper||98946]]"
+msgstr "[[刺头吹笛人||98946]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/17/
+msgid "Scale up blood gems, unleash them during combat"
+msgstr "提升鲜血宝石属性，在战斗中施放"
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Pirates - APM"
@@ -492,4 +468,27 @@ msgstr "[[布莱恩·铜须||96786]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Spend lots of gold to scale"
 msgstr "花费大量铸币来成长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/34/
+msgid "Murlocs - Hand Buff/Spell Buff"
+msgstr "鱼人 - 手牌Buff/法术Buff"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
+msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] using [[Seafood stew||120940]]s from [[Gormling Gourmet||120689]]. You usually first buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is required to have to carry a bunch of keywords for [[Seafood Stew||120940]]. [[Young Murk-eye||87084]] or other trigger battlecry effects is nice to constantly generate stews as well.\n\n"
+"Finally, [[Choral Mrrrglr||98948]] and [[Bassgill||98926]] are great ways to capture the stats from your hand so you can build the strongest possible board in the endgame."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
+msgid "[[Brann Bronzebeard||96786]] + Spell Buff ([[Shoalfin Mystic||120215]]) + [[Murkbrine Expeditioner||120687]]"
+msgstr "[[Brann Bronzebeard||96786]] + 酒馆法术Buff ([[Shoalfin Mystic||120215]]) + [[Murkbrine Expeditioner||120687]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/34/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"Spell Buff ([[Shoalfin Mystic||120215]])"
+msgstr "[[Brann Bronzebeard||96786]]\n"
+"酒馆法术Buff ([[Shoalfin Mystic||120215]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/34/
+msgid "Buff Huge Murloc in Hand"
+msgstr "Buff手牌中的大鱼人"
 

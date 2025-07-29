@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-27 01:40\n"
+"POT-Creation-Date: 2025-07-29 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: pl\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-07-27 12:40\n"
+"PO-Revision-Date: 2025-07-29 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/46/
 msgid "Elementals - Stat scaling/End Of Turn"
@@ -158,26 +158,6 @@ msgstr ""
 msgid "Summon large Automatons"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Nagas - Deathrattle"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Generate a ton of spellcrafts to play using reborned [[Coilskar Sapper||120565]]. The strength of your board comes from reborning [[Showy Cyclist||115565]] + [[Titus Rivendare||97408]], which buffs your nagas a lot in combat. If dragons are in, you have the option to permanently capture the stats with the [[Persistent Poet||108463]] + Amalgam combo."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/40/
-msgid "[[Showy Cyclist||115565]] + [[Coilskar Sapper||120565]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Naga Midgame ([[Thaumaturgist||115563]]/[[Coilskar Sapper||120565]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/40/
-msgid "Buff Nagas in Combat"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/45/
 msgid "Murlocs - End of Turn"
 msgstr ""
@@ -230,6 +210,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/38/
 msgid "Summon large beetles"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Nagas - Deathrattle"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Generate a ton of spellcrafts to play using reborned [[Coilskar Sapper||120565]]. The strength of your board comes from reborning [[Showy Cyclist||115565]] + [[Titus Rivendare||97408]], which buffs your nagas a lot in combat. If dragons are in, you have the option to permanently capture the stats with the [[Persistent Poet||108463]] + Amalgam combo."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/40/
+msgid "[[Showy Cyclist||115565]] + [[Coilskar Sapper||120565]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Naga Midgame ([[Thaumaturgist||115563]]/[[Coilskar Sapper||120565]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/40/
+msgid "Buff Nagas in Combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/39/
@@ -331,27 +331,6 @@ msgstr ""
 msgid "Buff spells to make one huge naga."
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/17/
-msgid "Quilboar - Combat Scaling"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/17/
-msgid "Scale up your gems in the midgame, usually using [[Prickly Piper||98946]] but [[Pokey Thornmantle||112882]] and [[Dreaming Thornweaver||120708]] work too. Then, pick up your core pieces for the Combat Scaling Quilboar board. [[Three lil' Quilboar||114486]] adds a ton of gems to your boars in combat, and [[Needling Crone||120035]] doubles those gems. \n\n"
-"Instead of Three lil Quilboar for combat scaling, you can opt to play towards Rylak/Gem smuggler as well."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/17/
-msgid "[[Three Lil' Quilboar||114486]] + Gem scaling ([[Prickly Piper||98946]]/[[Pokey Thornmantle||112882]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/17/
-msgid "[[Prickly Piper||98946]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/17/
-msgid "Scale up blood gems, unleash them during combat"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/37/
 msgid "Elementals - Stat scaling"
 msgstr ""
@@ -372,27 +351,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/37/
 msgid "Buff stat scaling on Elementals."
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/20/
-msgid "Nagas - Groundbreaker"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/20/
-msgid "After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Warden of Old||65660]]. Brann and Coilskar Sapper are very effective spell generation as well. In the end game, sell your small units with ending units such as [[Leeroy the Reckless||90425]]/"
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/20/
-msgid "[[Darkcrest Strategist||115555]]/[[Coilskar Sapper||120565]] plus [[Groundbreaker||114816]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/20/
-msgid "[[Darkcrest Strategist||115555]]\n"
-"[[Coilskar Sapper||120565]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/20/
-msgid "Play spells and nagas to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/21/
@@ -435,26 +393,46 @@ msgstr ""
 msgid "Overflow your board to scale"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Murlocs - Hand Buff/Spell Buff"
+#: name | https://hsreplay.net/battlegrounds/comps/20/
+msgid "Nagas - Groundbreaker"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] using [[Seafood stew||120940]]s from [[Gormling Gourmet||120689]]. You usually first buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is required to have to carry a bunch of keywords for [[Seafood Stew||120940]]. After your spells are sufficiently buffed, you should cut [[Shoalfin Mystic||120215]] and switch to proccing [[Gormling Gourmet||120689]] as much as possible.\n\n\n"
-"Finally, [[Choral Mrrrglr||98948]] and [[Bassgill||98926]] are great ways to capture the stats from your hand so you can build the strongest possible board in the endgame."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/20/
+msgid "After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Warden of Old||65660]]. Brann and Coilskar Sapper are very effective spell generation as well. In the end game, sell your small units with ending units such as [[Leeroy the Reckless||90425]]/"
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
-msgid "[[Brann Bronzebeard||96786]] + Spell Buff ([[Shoalfin Mystic||120215]]) + [[Murkbrine Expeditioner||120687]]"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/20/
+msgid "[[Darkcrest Strategist||115555]]/[[Coilskar Sapper||120565]] plus [[Groundbreaker||114816]]"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/34/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"Spell Buff ([[Shoalfin Mystic||120215]])"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/20/
+msgid "[[Darkcrest Strategist||115555]]\n"
+"[[Coilskar Sapper||120565]]"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Buff Huge Murloc in Hand"
+#: summary | https://hsreplay.net/battlegrounds/comps/20/
+msgid "Play spells and nagas to scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/17/
+msgid "Quilboar - Combat Scaling"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/17/
+msgid "Scale up your gems in the midgame, usually using [[Prickly Piper||98946]] but [[Pokey Thornmantle||112882]] and [[Dreaming Thornweaver||120708]] work too. Then, pick up your core pieces for the Combat Scaling Quilboar board. [[Three lil' Quilboar||114486]] adds a ton of gems to your boars in combat, and [[Needling Crone||120035]] doubles those gems. \n\n"
+"Instead of Three lil Quilboar for combat scaling, you can opt to play towards Rylak/Gem smuggler as well."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/17/
+msgid "[[Three Lil' Quilboar||114486]] + Gem scaling ([[Prickly Piper||98946]]/[[Pokey Thornmantle||112882]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/17/
+msgid "[[Prickly Piper||98946]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/17/
+msgid "Scale up blood gems, unleash them during combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
@@ -478,5 +456,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Spend lots of gold to scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/34/
+msgid "Murlocs - Hand Buff/Spell Buff"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
+msgid "Have a dedicated murloc to put all your hand buffs on. Usually it's [[Flighty Scout||120677]] but it could be [[Operatic Belcher||101316]] as well. Then, buff this murloc using [[Murkbrine Expeditioner||120687]] using [[Seafood stew||120940]]s from [[Gormling Gourmet||120689]]. You usually first buff the spells with [[Shoalfin Mystic||120215]] so every single [[Gormling Gourmet||120689]] is a lot of stats on your Expeditioner. Golden [[Bubble Gunner||116178]] or [[Apprentice of Sefin||120681]] is required to have to carry a bunch of keywords for [[Seafood Stew||120940]]. [[Young Murk-eye||87084]] or other trigger battlecry effects is nice to constantly generate stews as well.\n\n"
+"Finally, [[Choral Mrrrglr||98948]] and [[Bassgill||98926]] are great ways to capture the stats from your hand so you can build the strongest possible board in the endgame."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
+msgid "[[Brann Bronzebeard||96786]] + Spell Buff ([[Shoalfin Mystic||120215]]) + [[Murkbrine Expeditioner||120687]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/34/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"Spell Buff ([[Shoalfin Mystic||120215]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/34/
+msgid "Buff Huge Murloc in Hand"
 msgstr ""
 
