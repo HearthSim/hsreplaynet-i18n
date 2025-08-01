@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-26 01:40+0000\n"
-"PO-Revision-Date: 2025-07-26 12:40\n"
+"POT-Creation-Date: 2025-08-01 01:40+0000\n"
+"PO-Revision-Date: 2025-08-01 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -515,39 +515,43 @@ msgstr "狂野模式套牌"
 msgid "Meta Tier List"
 msgstr "环境梯队表"
 
-#: templates/footer.html:77 web/views/battlegrounds.py:138
+#: templates/footer.html:77
+msgid "Arena Legendaries"
+msgstr ""
+
+#: templates/footer.html:78 web/views/battlegrounds.py:138
 msgid "Battlegrounds Heroes"
 msgstr "酒馆战棋英雄"
 
-#: templates/footer.html:78 web/views/battlegrounds.py:283
+#: templates/footer.html:79 web/views/battlegrounds.py:283
 msgid "Battlegrounds Anomalies"
 msgstr "酒馆战棋畸变"
 
-#: templates/footer.html:79 web/views/battlegrounds.py:217
+#: templates/footer.html:80 web/views/battlegrounds.py:217
 msgid "Battlegrounds Trinkets"
 msgstr "酒馆战棋饰品"
 
-#: templates/footer.html:83
+#: templates/footer.html:84
 msgid "Support"
 msgstr "用户支持"
 
-#: templates/footer.html:96
+#: templates/footer.html:97
 msgid "Help Center"
 msgstr "帮助中心"
 
-#: templates/footer.html:98
+#: templates/footer.html:99
 msgid "Your Account"
 msgstr "您的账户"
 
-#: templates/footer.html:100
+#: templates/footer.html:101
 msgid "Terms of Service"
 msgstr "服务条款"
 
-#: templates/footer.html:103
+#: templates/footer.html:104
 msgid "Privacy Policy"
 msgstr "隐私权政策"
 
-#: templates/footer.html:105
+#: templates/footer.html:106
 msgid "Get in Touch"
 msgstr "联系我们"
 
@@ -836,6 +840,18 @@ msgstr "卡组"
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr "查找统计信息和不同的 {name} 套牌。"
+
+#: web/views/arena.py:18
+msgid "Hearthstone Arena Legendary Groups"
+msgstr ""
+
+#: web/views/arena.py:21
+msgid "Explore the Legendary Groups available when drafting in Hearthstone Arena and Underground Arena for the current Arena Season."
+msgstr ""
+
+#: web/views/arena.py:25
+msgid "Arena Legendary Groups"
+msgstr ""
 
 #: web/views/arenasmith.py:9
 msgid "Pick the strongest cards in Arena with Arenasmith"
