@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-01 01:40+0000\n"
-"PO-Revision-Date: 2025-08-01 12:40\n"
+"POT-Creation-Date: 2025-08-02 01:40+0000\n"
+"PO-Revision-Date: 2025-08-02 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -499,7 +499,7 @@ msgstr ""
 msgid "Wild Decks"
 msgstr ""
 
-#: templates/footer.html:76 web/views/archetypes.py:47
+#: templates/footer.html:76 web/views/archetypes.py:48
 msgid "Meta Tier List"
 msgstr ""
 
@@ -511,11 +511,11 @@ msgstr ""
 msgid "Battlegrounds Heroes"
 msgstr "Bohaterowie Ustawek"
 
-#: templates/footer.html:79 web/views/battlegrounds.py:283
+#: templates/footer.html:79 web/views/battlegrounds.py:286
 msgid "Battlegrounds Anomalies"
 msgstr ""
 
-#: templates/footer.html:80 web/views/battlegrounds.py:217
+#: templates/footer.html:80 web/views/battlegrounds.py:219
 msgid "Battlegrounds Trinkets"
 msgstr ""
 
@@ -568,23 +568,23 @@ msgid "Parties"
 msgstr ""
 
 #: templates/navigation.html:78 web/views/battlegrounds.py:147
-#: web/views/battlegrounds.py:421
+#: web/views/battlegrounds.py:426
 msgid "Heroes"
 msgstr "Bohaterowie"
 
-#: templates/navigation.html:90 web/views/battlegrounds.py:225
+#: templates/navigation.html:90 web/views/battlegrounds.py:227
 msgid "Trinkets"
 msgstr ""
 
-#: templates/navigation.html:103 web/views/battlegrounds.py:356
+#: templates/navigation.html:103 web/views/battlegrounds.py:360
 msgid "Darkmoon Prizes"
 msgstr ""
 
-#: templates/navigation.html:114 web/views/battlegrounds.py:161
+#: templates/navigation.html:114 web/views/battlegrounds.py:162
 msgid "Comps"
 msgstr ""
 
-#: templates/navigation.html:126 web/views/battlegrounds.py:291
+#: templates/navigation.html:126 web/views/battlegrounds.py:294
 msgid "Anomalies"
 msgstr ""
 
@@ -612,7 +612,7 @@ msgstr ""
 msgid "Decks"
 msgstr "Talie"
 
-#: templates/navigation.html:193 web/views/cards.py:37 web/views/cards.py:163
+#: templates/navigation.html:193 web/views/cards.py:37 web/views/cards.py:165
 msgid "Cards"
 msgstr "Karty"
 
@@ -787,44 +787,44 @@ msgstr ""
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
 msgstr ""
 
-#: web/views/archetypes.py:37
+#: web/views/archetypes.py:38
 #, python-brace-format
 msgid "Hearthstone Meta Tier List - {month} {year}"
 msgstr ""
 
-#: web/views/archetypes.py:43
+#: web/views/archetypes.py:44
 msgid "Explore the Hearthstone meta tier list, find the best decks for every class,and how the archetypes match up."
 msgstr ""
 
-#: web/views/archetypes.py:64
+#: web/views/archetypes.py:65
 msgid "Discover"
 msgstr "Odkryj"
 
-#: web/views/archetypes.py:66
+#: web/views/archetypes.py:67
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr "Zaangażuj się w to, co nadchodzi w Hearthstone. Odkrywaj najnowsze i najlepsze archetypy oraz talie i wszystko co na topie."
 
-#: web/views/archetypes.py:84
+#: web/views/archetypes.py:85
 msgid "Archetype Quality"
 msgstr ""
 
-#: web/views/archetypes.py:86
+#: web/views/archetypes.py:87
 msgid "Analyze the quality of the most recently trained archetype cluster weights."
 msgstr ""
 
-#: web/views/archetypes.py:108
+#: web/views/archetypes.py:109
 msgid "Archetype"
 msgstr "Archetyp"
 
-#: web/views/archetypes.py:114
+#: web/views/archetypes.py:115
 msgid "This archetype is no longer available."
 msgstr "Ten archetyp nie jest już dostępny."
 
-#: web/views/archetypes.py:144
+#: web/views/archetypes.py:145
 msgid "Archetypes"
 msgstr ""
 
-#: web/views/archetypes.py:164
+#: web/views/archetypes.py:165
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr "Znajdź statystyki i inne {name} listy talii."
@@ -854,9 +854,9 @@ msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics,
 msgstr ""
 
 #: web/views/battlegrounds.py:127 web/views/battlegrounds.py:146
-#: web/views/battlegrounds.py:160 web/views/battlegrounds.py:224
-#: web/views/battlegrounds.py:290 web/views/battlegrounds.py:339
-#: web/views/battlegrounds.py:355 web/views/battlegrounds.py:412
+#: web/views/battlegrounds.py:161 web/views/battlegrounds.py:226
+#: web/views/battlegrounds.py:293 web/views/battlegrounds.py:343
+#: web/views/battlegrounds.py:359 web/views/battlegrounds.py:417
 msgid "Battlegrounds"
 msgstr "Ustawka"
 
@@ -872,88 +872,88 @@ msgstr ""
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:152
+#: web/views/battlegrounds.py:153
 msgid "Battlegrounds Comps"
 msgstr ""
 
-#: web/views/battlegrounds.py:154
+#: web/views/battlegrounds.py:155
 msgid "Explore our Comps Tier List and learn which comp is the best - powered by JeefHS, Top BGs player."
 msgstr ""
 
-#: web/views/battlegrounds.py:219
+#: web/views/battlegrounds.py:221
 msgid "Explore our Battlegrounds Trinkets Tier List and learn which trinket is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:285
+#: web/views/battlegrounds.py:288
 msgid "Explore our Battlegrounds Anomalies List and learn which anomalies are more common - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:336
+#: web/views/battlegrounds.py:340
 msgid "Battlegrounds Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:340
+#: web/views/battlegrounds.py:344
 msgid "Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:352
+#: web/views/battlegrounds.py:356
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr ""
 
-#: web/views/battlegrounds.py:361
+#: web/views/battlegrounds.py:365
 msgid "Battlegrounds Hero"
 msgstr "Bohater Ustawki"
 
-#: web/views/battlegrounds.py:381
+#: web/views/battlegrounds.py:386
 msgid "No matching hero found."
 msgstr "Nie znaleziono pasującego bohatera."
 
-#: web/views/battlegrounds.py:508
+#: web/views/battlegrounds.py:513
 msgid "Battlegrounds Duos Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:516
+#: web/views/battlegrounds.py:521
 msgid "Battlegrounds Minions"
 msgstr "Stronnicy Ustawki"
 
-#: web/views/battlegrounds.py:521 web/views/battlegrounds.py:547
+#: web/views/battlegrounds.py:527 web/views/battlegrounds.py:554
 msgid "Battlegrounds Minion"
 msgstr "Stronnik Ustawki"
 
-#: web/views/battlegrounds.py:539
+#: web/views/battlegrounds.py:546
 msgid "No matching minion found."
 msgstr "Nie znaleziono pasującego stronnika."
 
-#: web/views/battlegrounds.py:578
+#: web/views/battlegrounds.py:585
 msgid "Battlegrounds Compositions"
 msgstr "Kompozycje Ustawki"
 
-#: web/views/battlegrounds.py:583 web/views/battlegrounds.py:612
+#: web/views/battlegrounds.py:591 web/views/battlegrounds.py:621
 msgid "Battlegrounds Composition"
 msgstr "Kompozycja Ustawki"
 
-#: web/views/battlegrounds.py:605
+#: web/views/battlegrounds.py:614
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:607
+#: web/views/battlegrounds.py:616
 msgid "No matching composition found."
 msgstr "Nie znaleziono pasującej kompozycji."
 
-#: web/views/battlegrounds.py:657
+#: web/views/battlegrounds.py:666
 msgid "Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:675
+#: web/views/battlegrounds.py:685
 msgid "No matching comp found."
 msgstr ""
 
-#: web/views/battlegrounds.py:682
+#: web/views/battlegrounds.py:692
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr ""
 
-#: web/views/battlegrounds.py:765
+#: web/views/battlegrounds.py:775
 msgid "My Battlegrounds Stats"
 msgstr ""
 
@@ -965,16 +965,16 @@ msgstr "Statystyki Kart Hearthstone"
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
 msgstr "Porównuj statystyki dotyczące wszystkich kart Hearthstone. Znajdź karty, które są najczęściej grane, albo mają największy współczynnik zwycięstw."
 
-#: web/views/cards.py:107
+#: web/views/cards.py:109
 msgid "No card found matching the query."
 msgstr "Żadna karta nie pasuje do zapytania."
 
-#: web/views/cards.py:144
+#: web/views/cards.py:146
 #, python-brace-format
 msgid "{name} decks and stats"
 msgstr ""
 
-#: web/views/cards.py:197
+#: web/views/cards.py:199
 msgid "Hearthstone Card Editor"
 msgstr "Edytor Kart Hearthstone"
 
@@ -982,11 +982,11 @@ msgstr "Edytor Kart Hearthstone"
 msgid "My Collection"
 msgstr "Moja Kolekcja"
 
-#: web/views/collections.py:23
+#: web/views/collections.py:24
 msgid "Collection"
 msgstr "Kolekcja"
 
-#: web/views/collections.py:37
+#: web/views/collections.py:39
 #, python-brace-format
 msgid "{user}'s Hearthstone Collection"
 msgstr "Kolekcja Kart Hearthstone {user}'a"
@@ -1036,50 +1036,50 @@ msgstr ""
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
 msgstr "Znajdź popularne talie do Hearthstone dla każdej klasy, karty i trybu gry. Porównuj współczynniki zwycięstw i znajdź talię dla siebie!"
 
-#: web/views/decks.py:43 web/views/decks.py:74
+#: web/views/decks.py:44 web/views/decks.py:76
 msgid "Hearthstone Decks"
 msgstr "Talie Hearthstone"
 
-#: web/views/decks.py:54
+#: web/views/decks.py:56
 #, python-brace-format
 msgid "Best {class} Decks - {month} {year} - Hearthstone"
 msgstr ""
 
-#: web/views/decks.py:63
+#: web/views/decks.py:65
 #, python-format
 msgid "Find popular %s decks for every card and Hearthstone game mode. Compare winrates and find the deck for you!"
 msgstr ""
 
-#: web/views/decks.py:85
+#: web/views/decks.py:87
 msgid "My Decks"
 msgstr "Moje Talie"
 
-#: web/views/decks.py:104
+#: web/views/decks.py:108
 msgid "Deck does not exist."
 msgstr "Talia nie istnieje."
 
-#: web/views/decks.py:114
+#: web/views/decks.py:118
 msgid "Deck list is too small."
 msgstr "Talia jest za krótka."
 
-#: web/views/decks.py:117
+#: web/views/decks.py:121
 msgid "Deck list contains uncollectible cards."
 msgstr "Talia zawiera karty nie do zdobycia."
 
-#: web/views/decks.py:134
+#: web/views/decks.py:138
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "{name} statystyki i lista talii. Zaimportuj to: {deckstring}"
 
-#: web/views/decks.py:173
+#: web/views/decks.py:177
 msgid "Trending Hearthstone Decks"
 msgstr "Popularne Talie Hearthstone"
 
-#: web/views/decks.py:175
+#: web/views/decks.py:179
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "Znajdź nadchodzące talie z rosnącą popularnością w Hearthstone dla każdej klasy, aktualizowane każdego dnia."
 
-#: web/views/decks.py:181
+#: web/views/decks.py:185
 msgid "Trending Decks"
 msgstr ""
 
