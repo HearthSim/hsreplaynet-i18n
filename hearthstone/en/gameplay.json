@@ -53,6 +53,8 @@
 	"GAMEPLAY_BACON_DUO_VIEW_TEAMMATE_TUTORIAL_PHONE": "Tap to see your teammate's view.",
 	"GAMEPLAY_BACON_ENEMY_MINION_TUTORIAL": "Choose a minion.",
 	"GAMEPLAY_BACON_FREEZE_TUTORIAL": "Freeze minions to see them again next turn.",
+	"GAMEPLAY_BACON_GUIDE_MINIONS_TAB": "Minions",
+	"GAMEPLAY_BACON_GUIDE_TAVERN_SPELL_TAB": "Tavern Spells",
 	"GAMEPLAY_BACON_MAGIC_ITEM_HEADER": "Trinket Shop",
 	"GAMEPLAY_BACON_MINION_MOVE_TUTORIAL": "Drag right to rearrange.",
 	"GAMEPLAY_BACON_MINION_UPGRADE_TAVERN_TUTORIAL": "Upgrade Tavern!",
@@ -425,8 +427,9 @@
 	"GAMEPLAY_TOOLTIP_BACON_COMBAT_HEADLINE": "Combat {0}",
 	"GAMEPLAY_TOOLTIP_BACON_DARKMOON_PRIZES_DESC": "{0} |4(turn,turns) left until you <b>Discover</b> one of the Darkmoon Prizes!",
 	"GAMEPLAY_TOOLTIP_BACON_DARKMOON_PRIZES_HEADLINE": "Darkmoon Prizes",
-	"GAMEPLAY_TOOLTIP_BACON_GOLD": "Spend your gold to buy minions.",
+	"GAMEPLAY_TOOLTIP_BACON_GOLD": "Spend your Gold to buy cards or take other actions.",
 	"GAMEPLAY_TOOLTIP_BACON_INACTIVE_RACES_HEADLINE": "Coming Soon:",
+	"GAMEPLAY_TOOLTIP_BACON_SAVED_GOLD": "{0} extra Gold next turn.",
 	"GAMEPLAY_TOOLTIP_BACON_TURN_HEADLINE": "Turn {0}",
 	"GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_HEADLINE": "Not in this game:",
 	"GAMEPLAY_TOOLTIP_CORPSES": "Corpses",
@@ -466,6 +469,7 @@
 	"GAMEPLAY_TOOLTIP_MANA_LOCKED_HEADLINE": "Locked Mana Crystals",
 	"GAMEPLAY_TOOLTIP_MANA_OVERLOAD_DESCRIPTION": "{0} Mana |4(Crystal,Crystals) <b>Overloaded</b>.",
 	"GAMEPLAY_TOOLTIP_MANA_OVERLOAD_HEADLINE": "Overload",
+	"GAMEPLAY_TOOLTIP_SAVED_COIN_HEADLINE": "Saved Gold",
 	"GAMEPLAY_TOOLTIP_TEAMMATE_HAND_DESCRIPTION": "Your teammate has {0} |4(card,cards) in their hand.",
 	"GAMEPLAY_TOOLTIP_TEAMMATE_HAND_FULL_DESCRIPTION": "Your teammate has {0} |4(card,cards) in their hand! Their hand is full.",
 	"GAMEPLAY_TOOLTIP_TITAN_ABILITY_LOCKED_NAME": "Locked Ability",
@@ -480,5 +484,6 @@
 	"GAMEPLAY_UNDATAKAH3": "{0}, {1}, and {2}",
 	"GAMEPLAY_UNKNOWN_CREATED_BY": "another card",
 	"GAMEPLAY_WIN_REWARD_PROGRESS": "Wins {0}/{1}",
-	"GAMEPLAY_YOUR_TURN": "Your Turn"
+	"GAMEPLAY_YOUR_TURN": "Your Turn",
+	"GANEPLAY_BACON_GUIDE_TUTORIAL": "Try your new Guide!"
 }

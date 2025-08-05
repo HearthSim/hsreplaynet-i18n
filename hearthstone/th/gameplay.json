@@ -53,6 +53,8 @@
 	"GAMEPLAY_BACON_DUO_VIEW_TEAMMATE_TUTORIAL_PHONE": "แตะเพื่อดูมุมมองของเพื่อนร่วมทีม",
 	"GAMEPLAY_BACON_ENEMY_MINION_TUTORIAL": "เลือกมินเนี่ยนหนึ่งตัว",
 	"GAMEPLAY_BACON_FREEZE_TUTORIAL": "แช่แข็งมินเนี่ยนเพื่อ[b]เก็บไว้เลือกในเทิร์นถัดไป",
+	"GAMEPLAY_BACON_GUIDE_MINIONS_TAB": "มินเนี่ยน",
+	"GAMEPLAY_BACON_GUIDE_TAVERN_SPELL_TAB": "เวทมนตร์โรงเตี๊ยม",
 	"GAMEPLAY_BACON_MAGIC_ITEM_HEADER": "ร้านค้าเครื่องประดับ",
 	"GAMEPLAY_BACON_MINION_MOVE_TUTORIAL": "ลากไปทางขวา[b]เพื่อเรียงใหม่",
 	"GAMEPLAY_BACON_MINION_UPGRADE_TAVERN_TUTORIAL": "อัพเกรดโรงเตี๊ยม!",
@@ -425,8 +427,9 @@
 	"GAMEPLAY_TOOLTIP_BACON_COMBAT_HEADLINE": "การต่อสู้ {0}",
 	"GAMEPLAY_TOOLTIP_BACON_DARKMOON_PRIZES_DESC": "อีก {0} เทิร์นคุณจะ <b>ค้นพบ</b> รางวัล[b]ดาร์คมูน[b]หนึ่งอย่าง!",
 	"GAMEPLAY_TOOLTIP_BACON_DARKMOON_PRIZES_HEADLINE": "รางวัลดาร์คมูน",
-	"GAMEPLAY_TOOLTIP_BACON_GOLD": "ใช้ทองของคุณ[b]ซื้อมินเนี่ยน",
+	"GAMEPLAY_TOOLTIP_BACON_GOLD": "ใช้ทองของคุณเพื่อซื้อการ์ด[b]หรือการกระทำอื่นๆ",
 	"GAMEPLAY_TOOLTIP_BACON_INACTIVE_RACES_HEADLINE": "เร็วๆ นี้:",
+	"GAMEPLAY_TOOLTIP_BACON_SAVED_GOLD": "ได้รับเพิ่ม {0}_ทอง[b]ในเทิร์นถัดไป",
 	"GAMEPLAY_TOOLTIP_BACON_TURN_HEADLINE": "เทิร์น {0}",
 	"GAMEPLAY_TOOLTIP_BACON_UNAVAILABLE_RACES_HEADLINE": "ไม่มีในเกมนี้:",
 	"GAMEPLAY_TOOLTIP_CORPSES": "ศพ",
@@ -466,6 +469,7 @@
 	"GAMEPLAY_TOOLTIP_MANA_LOCKED_HEADLINE": "คริสตัลมานาถูกล็อค",
 	"GAMEPLAY_TOOLTIP_MANA_OVERLOAD_DESCRIPTION": "มีคริสตัลมานา {0} อัน[b]ที่<b>โอเวอร์โหลด</b> อยู่",
 	"GAMEPLAY_TOOLTIP_MANA_OVERLOAD_HEADLINE": "โอเวอร์โหลด",
+	"GAMEPLAY_TOOLTIP_SAVED_COIN_HEADLINE": "ทองที่มีสะสม",
 	"GAMEPLAY_TOOLTIP_TEAMMATE_HAND_DESCRIPTION": "เพื่อนร่วมทีมของคุณมีการ์ด {0} ใบในมือ",
 	"GAMEPLAY_TOOLTIP_TEAMMATE_HAND_FULL_DESCRIPTION": "เพื่อนร่วมทีมของคุณมีการ์ด {0} ใบในมือ! มือของเขาเต็มแล้ว",
 	"GAMEPLAY_TOOLTIP_TITAN_ABILITY_LOCKED_NAME": "ความสามารถถูกล็อค",
@@ -480,5 +484,6 @@
 	"GAMEPLAY_UNDATAKAH3": "{0}, {1} และ {2}",
 	"GAMEPLAY_UNKNOWN_CREATED_BY": "การ์ดอื่น",
 	"GAMEPLAY_WIN_REWARD_PROGRESS": "ชนะ {0}/{1}",
-	"GAMEPLAY_YOUR_TURN": "เทิร์นของคุณ"
+	"GAMEPLAY_YOUR_TURN": "เทิร์นของคุณ",
+	"GANEPLAY_BACON_GUIDE_TUTORIAL": "ลองดูคู่มือใหม่ของคุณ!"
 }
