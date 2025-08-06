@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-05 18:19+0000\n"
-"PO-Revision-Date: 2025-08-06 00:40\n"
+"PO-Revision-Date: 2025-08-06 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -517,7 +517,7 @@ msgstr "环境梯队表"
 
 #: templates/footer.html:77
 msgid "Arena Legendaries"
-msgstr ""
+msgstr "竞技模式传说卡"
 
 #: templates/footer.html:78 web/views/battlegrounds.py:138
 msgid "Battlegrounds Heroes"
@@ -842,15 +842,15 @@ msgstr "查找统计信息和不同的 {name} 套牌。"
 
 #: web/views/arena.py:18
 msgid "Hearthstone Arena Legendary Groups"
-msgstr ""
+msgstr "炉石传说竞技模式传说组合"
 
 #: web/views/arena.py:21
 msgid "Explore the Legendary Groups available when drafting in Hearthstone Arena and Underground Arena for the current Arena Season."
-msgstr ""
+msgstr "在炉石竞技场和地下竞技场选牌时探索当前竞技模式赛季中的传说组合。"
 
 #: web/views/arena.py:25
 msgid "Arena Legendary Groups"
-msgstr ""
+msgstr "竞技模式传说组合"
 
 #: web/views/arenasmith.py:9
 msgid "Pick the strongest cards in Arena with Arenasmith"
