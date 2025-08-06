@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-02 01:40+0000\n"
-"PO-Revision-Date: 2025-08-02 12:40\n"
+"POT-Creation-Date: 2025-08-05 18:19+0000\n"
+"PO-Revision-Date: 2025-08-06 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -474,7 +474,7 @@ msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Не связан с Blizzard Entertainment."
 
 #: templates/footer.html:63 templates/navigation.html:67
-#: templates/navigation.html:159 templates/navigation.html:222
+#: templates/navigation.html:159 templates/navigation.html:216
 #: web/views/__init__.py:175
 msgid "Downloads"
 msgstr "Скачать"
@@ -592,7 +592,7 @@ msgstr ""
 msgid "Minions"
 msgstr "Существа"
 
-#: templates/navigation.html:151 templates/navigation.html:203
+#: templates/navigation.html:151
 msgid "SALE!"
 msgstr "Распродажа!"
 
@@ -616,16 +616,15 @@ msgstr "Колоды"
 msgid "Cards"
 msgstr "Карты"
 
-#: templates/navigation.html:202 templates/navigation.html:205
-#: web/views/premium.py:31
+#: templates/navigation.html:200 web/views/premium.py:31
 msgid "Premium"
 msgstr "Премиум"
 
-#: templates/navigation.html:215
+#: templates/navigation.html:209
 msgid "NEW"
 msgstr ""
 
-#: templates/navigation.html:249
+#: templates/navigation.html:243
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "Мы обновляем этот раздел в связи с выходом обновления на Полях сражений. Данные могут быть не полными или отображаться с задержкой."
 

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-02 01:40+0000\n"
-"PO-Revision-Date: 2025-08-02 12:40\n"
+"POT-Creation-Date: 2025-08-05 18:19+0000\n"
+"PO-Revision-Date: 2025-08-06 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -486,7 +486,7 @@ msgid "Not affiliated with Blizzard Entertainment."
 msgstr "与Blizzard Entertainment没有从属关系。"
 
 #: templates/footer.html:63 templates/navigation.html:67
-#: templates/navigation.html:159 templates/navigation.html:222
+#: templates/navigation.html:159 templates/navigation.html:216
 #: web/views/__init__.py:175
 msgid "Downloads"
 msgstr "下载"
@@ -604,7 +604,7 @@ msgstr "畸变"
 msgid "Minions"
 msgstr "随从"
 
-#: templates/navigation.html:151 templates/navigation.html:203
+#: templates/navigation.html:151
 msgid "SALE!"
 msgstr "促销！"
 
@@ -628,16 +628,15 @@ msgstr "套牌"
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:202 templates/navigation.html:205
-#: web/views/premium.py:31
+#: templates/navigation.html:200 web/views/premium.py:31
 msgid "Premium"
 msgstr "升级会员"
 
-#: templates/navigation.html:215
+#: templates/navigation.html:209
 msgid "NEW"
 msgstr "新"
 
-#: templates/navigation.html:249
+#: templates/navigation.html:243
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "我们正在根据最新酒馆战棋补丁更新此页面。您可能会暂时看到缺失和过期的信息。"
 
