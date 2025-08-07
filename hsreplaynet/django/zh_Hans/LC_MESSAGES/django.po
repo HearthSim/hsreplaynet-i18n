@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-05 18:19+0000\n"
-"PO-Revision-Date: 2025-08-07 00:40\n"
+"POT-Creation-Date: 2025-08-07 01:40+0000\n"
+"PO-Revision-Date: 2025-08-07 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -62,7 +62,7 @@ msgstr "{input}不是{enum}的有效组分。"
 msgid "String value too large."
 msgstr "字符串值过大。"
 
-#: api/serializers/battlegrounds.py:488
+#: api/serializers/battlegrounds.py:491
 #, python-brace-format
 msgid "{tribe_name} - {instance.name}"
 msgstr "{tribe_name} - {instance.name}"
@@ -840,15 +840,15 @@ msgstr "卡组"
 msgid "Find stats and different {name} decklists."
 msgstr "查找统计信息和不同的 {name} 套牌。"
 
-#: web/views/arena.py:18
+#: web/views/arena.py:14
 msgid "Hearthstone Arena Legendary Groups"
 msgstr "炉石传说竞技模式传说组合"
 
-#: web/views/arena.py:21
+#: web/views/arena.py:17
 msgid "Explore the Legendary Groups available when drafting in Hearthstone Arena and Underground Arena for the current Arena Season."
 msgstr "在炉石竞技场和地下竞技场选牌时探索当前竞技模式赛季中的传说组合。"
 
-#: web/views/arena.py:25
+#: web/views/arena.py:21
 msgid "Arena Legendary Groups"
 msgstr "竞技模式传说组合"
 

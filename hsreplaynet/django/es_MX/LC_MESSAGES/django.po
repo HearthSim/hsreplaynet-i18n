@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-05 18:19+0000\n"
-"PO-Revision-Date: 2025-08-06 00:40\n"
+"POT-Creation-Date: 2025-08-07 01:40+0000\n"
+"PO-Revision-Date: 2025-08-07 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -62,7 +62,7 @@ msgstr "{input} no es un miembro valido de {enum}."
 msgid "String value too large."
 msgstr ""
 
-#: api/serializers/battlegrounds.py:488
+#: api/serializers/battlegrounds.py:491
 #, python-brace-format
 msgid "{tribe_name} - {instance.name}"
 msgstr ""
@@ -834,15 +834,15 @@ msgstr "Arquetipos"
 msgid "Find stats and different {name} decklists."
 msgstr "Buscar estadísticas y diferentes {name} listas de mazos."
 
-#: web/views/arena.py:18
+#: web/views/arena.py:14
 msgid "Hearthstone Arena Legendary Groups"
 msgstr ""
 
-#: web/views/arena.py:21
+#: web/views/arena.py:17
 msgid "Explore the Legendary Groups available when drafting in Hearthstone Arena and Underground Arena for the current Arena Season."
 msgstr ""
 
-#: web/views/arena.py:25
+#: web/views/arena.py:21
 msgid "Arena Legendary Groups"
 msgstr ""
 
