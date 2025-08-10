@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-09 01:40\n"
+"POT-Creation-Date: 2025-08-10 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -15,14 +15,14 @@ msgstr ""
 "X-Crowdin-Language: fr\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-09 12:40\n"
+"PO-Revision-Date: 2025-08-10 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/48/
 msgid "Beasts - StegoFUN"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Initially attack with your windfury [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or [[Manasaber||98831]] to soak some attacks. Then, the next things to attack should be [[Monstrous Macaw||62230]] that procs [[Manasaber||98831]], because this first fills out the board with taunts and then adds the rally to the whole board. Do that with as many Macaws as possible."
+msgid "Initially attack with your windfury [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or [[Manasaber||98831]] to soak some attacks. Then, the next things to attack should be [[Monstrous Macaw||62230]] that procs [[Manasaber||98831]], because this first fills out the board with taunts and then adds the rally to the whole board. Do that with as many Macaws as possible. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your taunts to soak more attacks, and then start windfurying your biggest beasts as they are the most likely to attack twice."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/48/
@@ -42,7 +42,7 @@ msgid "Dragons - Charmwing"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Your first priority is to scale a [[Charmwing||122086]]. This can be done with [[Persistent Poet||108463]] + [[Twilight Watcher||122442]]. It can also be done by buffing the HP of spells using [[Nimble Hatchling||122440]] and then generating spells with [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]]. After you've scaled a Charmwing to at least 100 HP, windfury it and give your other dragons permanent HP with the help of Poet."
+msgid "Your first priority is to scale a [[Charmwing||122086]]. This can be done with [[Persistent Poet||108463]] + [[Twilight Watcher||122442]]. It can also be done by buffing the HP of spells using [[Blue Whelp||122674]] and then generating spells with [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]]. After you've scaled a Charmwing to at least 100 HP, windfury it and give your other dragons permanent HP with the help of Poet."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/50/
@@ -76,6 +76,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/56/
 msgid "Teach Murlocs spells and proc them"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/57/
+msgid "Elementals - Avalanche"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/57/
+msgid "*In order to go for this comp, you need insane economy and APM. I don't recommend it for beginners. First, scale elementals in shop using [[Nomi, Kitchen Nightmare||63626]]. Print as many Avalanche spells with [[Avalanche Caller||122780]]. Initially, you may also print [[Avalanche Caller||122780]] using [[Lantern Lava||122650]] if you have 2 or more. [[Drakkari Enchanter||101314]] also helps with printing more of these Avalanche spells. Eventually, find a [[Carbonic Copy||102294]] and use all your Avalanche spells onto either a Carbonic Copy or [[Windfall Tornado||116738]]. Making a huge Windfall Tornado is really nice because if you use the spells on a big Tornado and then use the spell on the thing that you discover, it double dips on the huge stats. The more you do this, the more exponential it gets."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/57/
+msgid "[[Brann Bronzebeard||96786]] + [[Lantern Lava||122650]] for econ into [[Nomi, Kitchen Nightmare||63626]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/57/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Lantern Lava||122650]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/57/
+msgid "Dump huge stats onto Elementals"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/55/
@@ -161,25 +182,46 @@ msgstr ""
 msgid "Magnetize Mechs and scale them."
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/57/
-msgid "Elementals - Avalanche"
+#: name | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Demons - Shop Buff/Spells"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/57/
-msgid "First, scale elementals in shop using [[Nomi, Kitchen Nightmare||63626]]. Print as many Avalanche spells with [[Avalanche Caller||122780]]. Initially, you may also print [[Avalanche Caller||122780]] using [[Lantern Lava||122650]] if you have 2 or more. [[Drakkari Enchanter||101314]] also helps with printing more of these Avalanche spells. Eventually, find a [[Carbonic Copy||102294]] and use all your Avalanche spells onto either a Carbonic Copy or [[Windfall Tornado||116738]]. Making a huge Windfall Tornado is really nice because if you use the spells on a big Tornado and then use the spell on the thing that you discover, it double dips on the huge stats. The more you do this, the more exponential it gets."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Use early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[False Implicator||108115]] to eat a big shop. If you have an [[Insatiable Urzul||72060]], you should also buy every demon once you have at least 100/100 in your shop. \n\n"
+"Titus and Macaw can help with you staff generation."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/57/
-msgid "[[Brann Bronzebeard||96786]] + [[Lantern Lava||122650]] for econ into [[Nomi, Kitchen Nightmare||63626]]"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Early [[Felfire Conjurer||120299]] + [[Shadowdancer||120662]]"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/57/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Lantern Lava||122650]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Felfire Conjurer||120299]]\n"
+"[[Shadowdancer||120662]]"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/57/
-msgid "Dump huge stats onto Elementals"
+#: summary | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Scale shop with spells and consume shop"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Murlocs - Venom Scam"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Pulling venom murlocs from [[Bassgill||98926]], especially golden, is very powerful."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
+msgid "When you have no future or are clearly getting outstatted"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Getting outscaled"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Buy scam cards and try to preserve placements"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/52/
@@ -201,26 +243,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/52/
 msgid "Buff Summons using Spells."
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Murlocs - Venom Scam"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Pulling venom murlocs from [[Bassgill||98926]], especially golden, is very powerful."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
-msgid "When you have no future or are clearly getting outstatted"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Getting outscaled"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Buy scam cards and try to preserve placements"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/53/
