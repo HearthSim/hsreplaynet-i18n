@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-10 12:40\n"
+"PO-Revision-Date: 2025-08-11 00:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/48/
 msgid "Beasts - StegoFUN"
@@ -35,7 +35,7 @@ msgstr "野兽中期过度 ([[Bird Buddy||72055]])"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/48/
 msgid "Exponentially scale stats with rally"
-msgstr ""
+msgstr "通过进击实现数值的指数级增长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/50/
 msgid "Dragons - Charmwing"
@@ -43,11 +43,11 @@ msgstr "龙 - 魅惑之翼"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/50/
 msgid "Your first priority is to scale a [[Charmwing||122086]]. This can be done with [[Persistent Poet||108463]] + [[Twilight Watcher||122442]]. It can also be done by buffing the HP of spells using [[Blue Whelp||122674]] and then generating spells with [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]]. After you've scaled a Charmwing to at least 100 HP, windfury it and give your other dragons permanent HP with the help of Poet."
-msgstr ""
+msgstr "你的首要任务是提升[[Charmwing||122086]]的属性。可以通过 [[Persistent Poet||108463]] + [[Twilight Watcher||122442]] 来实现。也可以通过使用 [[Blue Whelp||122674]] 额外提升法术的生命值，然后借助 [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]] 生成法术。在将魅惑之翼的生命值提升至至少100后，对其施加风怒效果，并借助诗心龙的帮助为其他龙类永久提升生命值。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/50/
 msgid "[[Charmwing||122086]] + way to scale it (Poet + Twilight Watcher)"
-msgstr ""
+msgstr "[[Charmwing||122086]] + 增强它的方法 (执念诗心龙 + 暮光守望巨龙)"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/50/
 msgid "Dragon Midgame ([[Twilight Watcher||122442]])\n"
@@ -57,7 +57,7 @@ msgstr "龙中期过度 ([[Twilight Watcher||122442]])\n"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/50/
 msgid "Scale Dragons with Rally"
-msgstr ""
+msgstr "通过进击使龙成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/56/
 msgid "Murlocs - Magicfin"
@@ -77,7 +77,7 @@ msgstr "[[Magicfin Mycologist||122277]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/56/
 msgid "Teach Murlocs spells and proc them"
-msgstr ""
+msgstr "教会鱼人法术并触发它们"
 
 #: name | https://hsreplay.net/battlegrounds/comps/57/
 msgid "Elementals - Avalanche"
@@ -89,20 +89,21 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/57/
 msgid "[[Brann Bronzebeard||96786]] + [[Lantern Lava||122650]] for econ into [[Nomi, Kitchen Nightmare||63626]]"
-msgstr ""
+msgstr "[[Brann Bronzebeard||96786]] + [[Lantern Lava||122650]] 将经济转化为 [[Nomi, Kitchen Nightmare||63626]]"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/57/
 msgid "[[Brann Bronzebeard||96786]]\n"
 "[[Lantern Lava||122650]]"
-msgstr ""
+msgstr "[[Brann Bronzebeard||96786]]\n"
+"[[Lantern Lava||122650]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/57/
 msgid "Dump huge stats onto Elementals"
-msgstr ""
+msgstr "将大量属性值赋予元素"
 
 #: name | https://hsreplay.net/battlegrounds/comps/55/
 msgid "Nagas - Spell Casting"
-msgstr ""
+msgstr "纳迦 - 法术施放"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/55/
 msgid "[[Sundered Matriarch||122672]] buffs your minions' HP when you cast a spell, and [[Wrathscale Rogue||122094]] adds and equal amount of attack. Then, the rest of your board can be filled with spell generation nagas, such as [[Coilskar Sapper||120565]] and [[Silivaz the Vindictive||105676]]. You can also try Spell HP Buffing strats with the [[Tranquil Meditative||119942]] [[Firescale Hoarder||120213]] [[Fauna Whisperer||120905]] package."
@@ -110,15 +111,15 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/55/
 msgid "[[Sundered Matriarch||122672]] + Spell generation ([[Coilskar Sapper||120565]])"
-msgstr ""
+msgstr "[[Sundered Matriarch||122672]] + 法术生成 ([[Coilskar Sapper||120565]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/55/
 msgid "Spell generation ([[Coilskar Sapper||120565]])"
-msgstr ""
+msgstr "法术生成 ([[Coilskar Sapper||120565]])"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/55/
 msgid "Play spells to buff Nagas"
-msgstr ""
+msgstr "释放法术来增强纳迦"
 
 #: name | https://hsreplay.net/battlegrounds/comps/49/
 msgid "Quilboar - Rally"
@@ -140,11 +141,11 @@ msgstr "[[Sanguine Refiner||122566]]\n"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/49/
 msgid "Scale blood gems and play them with Rally"
-msgstr ""
+msgstr "养大鲜血宝石数值并通过进击施放"
 
 #: name | https://hsreplay.net/battlegrounds/comps/51/
 msgid "Demons - Damage"
-msgstr ""
+msgstr "恶魔 - 伤害"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/51/
 msgid "[[Lord of the Ruins||122116]] and [[Devout Hellcaller||122586]] scale by having your demons deal damage to minions. The best way to do that is with [[Silent Enforcer||122605]] + [[Titus Rivendare||97408]], which damages all your opponent's minions at once. [[Soul Juggler||59660]] is also usable because it deals damage every time one of your demons dies. This comp is very strong in the midgame but falls off at some point, and there's not much you can do about it."
@@ -152,7 +153,7 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/51/
 msgid "[[Silent Enforcer||122605]] + Damage payoff ([[Lord of the Ruins||122116]] or [[Devout Hellcaller||122586]])"
-msgstr ""
+msgstr "[[Silent Enforcer||122605]] + 伤害补偿([[Lord of the Ruins||122116]] 或 [[Devout Hellcaller||122586]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/51/
 msgid "Demon midgame ([[Soul Juggler||59660]])\n"
@@ -162,11 +163,11 @@ msgstr "恶魔中期过度([[Soul Juggler||59660]])\n"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/51/
 msgid "Demons deal damage to buff board"
-msgstr ""
+msgstr "恶魔造成伤害来增强棋盘"
 
 #: name | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Mechs - Magnetics"
-msgstr ""
+msgstr "机械 - 磁力"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Generate Magnetics with an early [[Holo Rover||115674]] and windfury it ASAP. [[Polarizing Beatboxer||98713]] and [[Rickety Repairbot||120027]] help you put more magnetics on your board. Finally, [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]] scales your board based on the amount of magnetics on your mechs."
@@ -174,20 +175,21 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
 msgid "[[Holo Rover||115674]] or [[Rickety Repairbot||120027]] + [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]]"
-msgstr ""
+msgstr "[[Holo Rover||115674]] 或 [[Rickety Repairbot||120027]] + [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]]"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
 msgid "[[Rickety Repairbot||120027]]\n"
 "[[Holo Rover||115674]]"
-msgstr ""
+msgstr "[[Rickety Repairbot||120027]]\n"
+"[[Holo Rover||115674]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Magnetize Mechs and scale them."
-msgstr ""
+msgstr "给机械贴磁力并增强它们。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
-msgstr ""
+msgstr "恶魔 - 商店Buff/法术"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Use early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[False Implicator||108115]] to eat a big shop. If you have an [[Insatiable Urzul||72060]], you should also buy every demon once you have at least 100/100 in your shop. \n\n"
@@ -196,40 +198,41 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Early [[Felfire Conjurer||120299]] + [[Shadowdancer||120662]]"
-msgstr ""
+msgstr "早期[[Felfire Conjurer||120299]] + [[Shadowdancer||120662]]"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
 msgid "[[Felfire Conjurer||120299]]\n"
 "[[Shadowdancer||120662]]"
-msgstr ""
+msgstr "[[Felfire Conjurer||120299]]\n"
+"[[Shadowdancer||120662]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Scale shop with spells and consume shop"
-msgstr ""
+msgstr "用法术使商店成长并吞噬商店"
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Venom Scam"
-msgstr ""
+msgstr "鱼人 - 下毒"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Pulling venom murlocs from [[Bassgill||98926]], especially golden, is very powerful."
-msgstr ""
+msgstr "购买所有的下毒单卡，尽可能击败对手以保排名。保留你最强战力的卡牌，用可以各种能一换一的随从填充剩余棋盘空位（所以你要集中精力看统计数据！）。用[[Bassgill||98926]]（尤其是金色的）拉出毒鱼人会非常厉害。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
 msgid "When you have no future or are clearly getting outstatted"
-msgstr ""
+msgstr "当你觉得没有未来或明显快被淘汰时"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Getting outscaled"
-msgstr ""
+msgstr "快被淘汰了"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Buy scam cards and try to preserve placements"
-msgstr ""
+msgstr "购买下毒卡牌，试图吃烂分"
 
 #: name | https://hsreplay.net/battlegrounds/comps/52/
 msgid "Undead - Carapace"
-msgstr ""
+msgstr "亡灵 - 龟甲"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/52/
 msgid "Buff the Attack of Tavern Spells with [[Friendly Geist||120219]], and generate [[Haunted Carapace||122489]] spells using [[Carapace Raiser||122479]]. Titus is crucial because it double both of those effects. These spells will buff your board AND summons a ton of attack, so you want the rest of your board to be token spawners, such as [[Mechanized Gift Horse||103682]] and [[Handless Forsaken||95265]]. Finally, use [[Drakkari Embalmer||99121]] to reborn your core Undeads."
@@ -237,20 +240,21 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/52/
 msgid "[[Titus Rivendare||97408]]/[[Friendly Geist||120219]] + [[Carapace Raiser||122479]]"
-msgstr ""
+msgstr "[[Titus Rivendare||97408]]/[[Friendly Geist||120219]] + [[Carapace Raiser||122479]]"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/52/
 msgid "[[Carapace Raiser||122479]]\n"
 "[[Friendly Geist||120219]]"
-msgstr ""
+msgstr "[[Carapace Raiser||122479]]\n"
+"[[Friendly Geist||120219]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/52/
 msgid "Buff Summons using Spells."
-msgstr ""
+msgstr "使用法术强化召唤物。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/53/
 msgid "Elementals - APM"
-msgstr ""
+msgstr "元素 - 倒转"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/53/
 msgid "Cycle as many elementals as you can with [[Ultraviolet Ascendant||115581]] on board. The best way to do that is with [[Brann Bronzebeard||96786]], and then buying every [[Tavern Tempest||64077]], [[Windfall Tornado||116738]], [[Refreshing Anomaly||64042]], and [[Sellemental||64038]]. Golden [[Ichoron the Protector||115585]] is nice to shield your whole board, and [[Lantern Lava||122650]] can be used to copy an amazing elemental every turn."
@@ -258,15 +262,15 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/53/
 msgid "[[Brann Bronzebeard||96786]] + [[Ultraviolet Ascendant||115581]]"
-msgstr ""
+msgstr "[[Brann Bronzebeard||96786]] + [[Ultraviolet Ascendant||115581]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/53/
 msgid "Cycle elementals to scale them"
-msgstr ""
+msgstr "刷元素牌成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Nagas - Spell Buff/End of Turn"
-msgstr ""
+msgstr "纳迦 - 法术Buff/回合结束"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Fauna Whisperer benefits a lot from the end of turn/spell buff synergy, and ideally you put it next to an Nightmare Par-tea Guest to buff your entire board. [[Famished Felbat||72067]] can eat the shop after you've buffed it using [[Fauna Whisperer||120905]], as long as you position it last."
@@ -274,20 +278,21 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Spell scaling([[Felfire Conjurer||120299]]) + [[Drakkari Enchanter||101314]] or Spell Generation ([[Fauna Whisperer||120905]])"
-msgstr ""
+msgstr "法术强化([[Felfire Conjurer||120299]]) + [[Drakkari Enchanter||101314]] 或法术生成 ([[Fauna Whisperer||120905]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/39/
 msgid "[[Felfire Conjurer||120299]]\n"
 "[[Tranquil Meditative||119942]]"
-msgstr ""
+msgstr "[[Felfire Conjurer||120299]]\n"
+"[[Tranquil Meditative||119942]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Cast Buffed Spells End of Turn"
-msgstr ""
+msgstr "回合结束时施放强化法术"
 
 #: name | https://hsreplay.net/battlegrounds/comps/54/
 msgid "Rally Menagerie"
-msgstr ""
+msgstr "进击融合怪"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/54/
 msgid "[[Primeval Monstrosity||122223]] scales your menagerie unit every time you Rally, so you want to fill out your board with the best Rally units for each tribe. I recommend ones that can get windfury, such as [[Charmwing||122086]] or [[Holo Rover||115674]] or [[Bonker||70173]], but non windfury ones are great to add to your board as well."
@@ -295,19 +300,19 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/54/
 msgid "[[Primeval Monstrosity||122223]] + Rally ([[Bonker||70173]])"
-msgstr ""
+msgstr "[[Primeval Monstrosity||122223]] + 进击 ([[Bonker||70173]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/54/
 msgid "Rally ([[Bonker||70173]])"
-msgstr ""
+msgstr "进击 ([[Bonker||70173]])"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/54/
 msgid "Rally to scale different tribes"
-msgstr ""
+msgstr "进击成长不同种族"
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Pirates - Bounty APM"
-msgstr ""
+msgstr "海盗 - 悬赏令倒转"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
 msgid "[[Sky Admiral Rogers||122516]] or other bounty generation combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup. At some point, you'll be infinite with bounties, and you'll need spell scaling to really capitalize on the bounty scaling. Cards such as [[Sundered Matriarch||122672]] and [[Timecap'n Hooktail||103676]] gets insane value because of the amount of spells you're playing, and [[Tranquil Meditative||119942]] or [[Felfire Conjurer||120299]] helps improve the quality of your bounties."
@@ -327,15 +332,15 @@ msgstr "靠悬赏令生成铸币和身材数值"
 
 #: name | https://hsreplay.net/battlegrounds/comps/12/
 msgid "Beasts - Goldrinn"
-msgstr ""
+msgstr "野兽 - 巨狼戈德林"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/12/
 msgid "[[Goldrinn, the Great Wolf||59955]] + [[Monstrous Macaw||62230]] and [[Titus Rivendare||97408]] gives a huge aura affect to all beasts you summon. Usually, you want to taunt and reborn the Goldrinn so the Macaw always procs it and it always dies. [[Lightfeather Screecher||122288]] is used to windfury the Macaw to get more Goldrinn procs. [[Mechanized Gift Horse||103682]] is the best summon beast to run in this comp."
-msgstr ""
+msgstr "[[Goldrinn, the Great Wolf||59955]] + [[Monstrous Macaw||62230]] 和 [[Titus Rivendare||97408]] 会为所有你召唤的野兽提供强大的光环效果。通常你需要让戈德林获得嘲讽和复生，这样鹦鹉就能持续触发该效果，而戈德林也会不断死亡。[[Lightfeather Screecher||122288]] 用于为巨大的金刚鹦鹉施加风怒效果，以触发更多戈德林的效果。[[Mechanized Gift Horse||103682]] 是该阵容中最佳的野兽召唤选择。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/12/
 msgid "[[Goldrinn, the Great Wolf||59955]] + beast summons ([[Mechanized Gift Horse||103682]])"
-msgstr ""
+msgstr "[[Goldrinn, the Great Wolf||59955]] + 野兽召唤 ([[Mechanized Gift Horse||103682]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/12/
 msgid "Deathrattle Beasts Midgame ([[Bird Buddy||72055]])"
@@ -343,5 +348,5 @@ msgstr "亡语野兽中期过度([[Bird Buddy||72055]])"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/12/
 msgid "Scale summoned beasts in combat"
-msgstr ""
+msgstr "在战斗中召唤强化的野兽"
 
