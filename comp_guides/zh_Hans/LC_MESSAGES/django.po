@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-10 01:40\n"
+"POT-Creation-Date: 2025-08-11 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,11 +15,11 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-11 00:40\n"
+"PO-Revision-Date: 2025-08-11 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/48/
 msgid "Beasts - StegoFUN"
-msgstr "野兽- 剑龙"
+msgstr "野兽 - 剑龙"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/48/
 msgid "Initially attack with your windfury [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or [[Manasaber||98831]] to soak some attacks. Then, the next things to attack should be [[Monstrous Macaw||62230]] that procs [[Manasaber||98831]], because this first fills out the board with taunts and then adds the rally to the whole board. Do that with as many Macaws as possible. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your taunts to soak more attacks, and then start windfurying your biggest beasts as they are the most likely to attack twice."
@@ -36,6 +36,28 @@ msgstr "野兽中期过度 ([[Bird Buddy||72055]])"
 #: summary | https://hsreplay.net/battlegrounds/comps/48/
 msgid "Exponentially scale stats with rally"
 msgstr "通过进击实现数值的指数级增长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/57/
+msgid "Elementals - Avalanche"
+msgstr "元素 - 雪崩"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/57/
+msgid "*In order to go for this comp, you need insane economy and APM. I don't recommend it for beginners. First, scale elementals in shop using [[Nomi, Kitchen Nightmare||63626]], or make eles big with [[Vine Climber||122656]]. Print as many Avalanche spells with [[Avalanche Caller||122780]]. Initially, you may also print [[Avalanche Caller||122780]] using [[Lantern Lava||122650]] if you have 2 or more. [[Drakkari Enchanter||101314]] also helps with printing more of these Avalanche spells. Eventually, find a [[Carbonic Copy||102294]] and use all your Avalanche spells onto either a Carbonic Copy or [[Windfall Tornado||116738]]. Making a huge Windfall Tornado is really nice because if you use the spells on a big Tornado and then use the spell on the thing that you discover, it double dips on the huge stats. The more you do this, the more exponential it gets."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/57/
+msgid "[[Brann Bronzebeard||96786]] + [[Lantern Lava||122650]] for econ into [[Nomi, Kitchen Nightmare||63626]]"
+msgstr "[[Brann Bronzebeard||96786]] + [[Lantern Lava||122650]] 将经济转化为 [[Nomi, Kitchen Nightmare||63626]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/57/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Lantern Lava||122650]]"
+msgstr "[[Brann Bronzebeard||96786]]\n"
+"[[Lantern Lava||122650]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/57/
+msgid "Dump huge stats onto Elementals"
+msgstr "将大量属性值赋予元素"
 
 #: name | https://hsreplay.net/battlegrounds/comps/50/
 msgid "Dragons - Charmwing"
@@ -78,28 +100,6 @@ msgstr "[[Magicfin Mycologist||122277]]"
 #: summary | https://hsreplay.net/battlegrounds/comps/56/
 msgid "Teach Murlocs spells and proc them"
 msgstr "教会鱼人法术并触发它们"
-
-#: name | https://hsreplay.net/battlegrounds/comps/57/
-msgid "Elementals - Avalanche"
-msgstr "元素 - 雪崩"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/57/
-msgid "*In order to go for this comp, you need insane economy and APM. I don't recommend it for beginners. First, scale elementals in shop using [[Nomi, Kitchen Nightmare||63626]]. Print as many Avalanche spells with [[Avalanche Caller||122780]]. Initially, you may also print [[Avalanche Caller||122780]] using [[Lantern Lava||122650]] if you have 2 or more. [[Drakkari Enchanter||101314]] also helps with printing more of these Avalanche spells. Eventually, find a [[Carbonic Copy||102294]] and use all your Avalanche spells onto either a Carbonic Copy or [[Windfall Tornado||116738]]. Making a huge Windfall Tornado is really nice because if you use the spells on a big Tornado and then use the spell on the thing that you discover, it double dips on the huge stats. The more you do this, the more exponential it gets."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/57/
-msgid "[[Brann Bronzebeard||96786]] + [[Lantern Lava||122650]] for econ into [[Nomi, Kitchen Nightmare||63626]]"
-msgstr "[[Brann Bronzebeard||96786]] + [[Lantern Lava||122650]] 将经济转化为 [[Nomi, Kitchen Nightmare||63626]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/57/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Lantern Lava||122650]]"
-msgstr "[[Brann Bronzebeard||96786]]\n"
-"[[Lantern Lava||122650]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/57/
-msgid "Dump huge stats onto Elementals"
-msgstr "将大量属性值赋予元素"
 
 #: name | https://hsreplay.net/battlegrounds/comps/55/
 msgid "Nagas - Spell Casting"

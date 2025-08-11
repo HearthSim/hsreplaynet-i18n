@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-10 01:40\n"
+"POT-Creation-Date: 2025-08-11 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-MX\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-10 12:40\n"
+"PO-Revision-Date: 2025-08-11 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/48/
 msgid "Beasts - StegoFUN"
@@ -35,6 +35,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/48/
 msgid "Exponentially scale stats with rally"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/57/
+msgid "Elementals - Avalanche"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/57/
+msgid "*In order to go for this comp, you need insane economy and APM. I don't recommend it for beginners. First, scale elementals in shop using [[Nomi, Kitchen Nightmare||63626]], or make eles big with [[Vine Climber||122656]]. Print as many Avalanche spells with [[Avalanche Caller||122780]]. Initially, you may also print [[Avalanche Caller||122780]] using [[Lantern Lava||122650]] if you have 2 or more. [[Drakkari Enchanter||101314]] also helps with printing more of these Avalanche spells. Eventually, find a [[Carbonic Copy||102294]] and use all your Avalanche spells onto either a Carbonic Copy or [[Windfall Tornado||116738]]. Making a huge Windfall Tornado is really nice because if you use the spells on a big Tornado and then use the spell on the thing that you discover, it double dips on the huge stats. The more you do this, the more exponential it gets."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/57/
+msgid "[[Brann Bronzebeard||96786]] + [[Lantern Lava||122650]] for econ into [[Nomi, Kitchen Nightmare||63626]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/57/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Lantern Lava||122650]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/57/
+msgid "Dump huge stats onto Elementals"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/50/
@@ -76,27 +97,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/56/
 msgid "Teach Murlocs spells and proc them"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/57/
-msgid "Elementals - Avalanche"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/57/
-msgid "*In order to go for this comp, you need insane economy and APM. I don't recommend it for beginners. First, scale elementals in shop using [[Nomi, Kitchen Nightmare||63626]]. Print as many Avalanche spells with [[Avalanche Caller||122780]]. Initially, you may also print [[Avalanche Caller||122780]] using [[Lantern Lava||122650]] if you have 2 or more. [[Drakkari Enchanter||101314]] also helps with printing more of these Avalanche spells. Eventually, find a [[Carbonic Copy||102294]] and use all your Avalanche spells onto either a Carbonic Copy or [[Windfall Tornado||116738]]. Making a huge Windfall Tornado is really nice because if you use the spells on a big Tornado and then use the spell on the thing that you discover, it double dips on the huge stats. The more you do this, the more exponential it gets."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/57/
-msgid "[[Brann Bronzebeard||96786]] + [[Lantern Lava||122650]] for econ into [[Nomi, Kitchen Nightmare||63626]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/57/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Lantern Lava||122650]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/57/
-msgid "Dump huge stats onto Elementals"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/55/
