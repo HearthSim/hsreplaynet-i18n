@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-10T01:40:25.863454\n"
+"POT-Creation-Date: 2025-08-12T01:40:25.427303\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,12 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-08-11 12:40\n"
+"PO-Revision-Date: 2025-08-12 12:40\n"
+
+#: https://hsreplay.net/battlegrounds/heroes/118509/ Hero id 118509 | Guide id
+#: 697
+msgid "The battlecruiser upgrades are very strong, but only starting from tavern 4. Don't invest too much into the upgrades early, then start buying some strong tavern 4 upgrades. At some point, you'll need to level to 6 for the reborn upgrade, which is absurdly OP. The best upgrade to buy is the deathrattle upgrade, and then you can multiply the enormous deathrattles with [[Titus Rivendare||97408]]."
+msgstr "战列巡洋舰的升级非常强大，但只能从酒馆等级4开始。前期不要在升级上投入太多，然后从酒馆等级4开始购买一些强力的升级物品。在某些时候，你需要升到6级酒馆才能获得复生升级，这简直太超模了。最值得购买的升级是亡语升级，然后你可以用 [[Titus Rivendare||97408]] 来倍增强大的亡语加成。"
 
 #: https://hsreplay.net/battlegrounds/heroes/117409/ Hero id 117409 | Guide id
 #: 695
@@ -46,11 +51,6 @@ msgstr "优先使用 [[Manasaber||98831]] 或 [[Icky Imp||74910]] 等召唤卡�
 #: 696
 msgid "This hero power is mainly used to gain 1 gold per turn, similar to Murloc Holmes."
 msgstr "这个英雄技能主要用来每回合获得1铸币，类似摩洛克·福尔摩斯。"
-
-#: https://hsreplay.net/battlegrounds/heroes/118509/ Hero id 118509 | Guide id
-#: 697
-msgid "The battlecruiser upgrades are very strong, but only starting from tavern 4. Don't invest too much into the upgrades early, then start buying some strong tavern 4 upgrades. At some point, you'll need to level to 6 for the reborn upgrade, which is absurdly OP. The best upgrade to buy is the deathrattle upgrade, and then you can multiply the enormous deathrattle with [[Titus Rivendare||97408]] or [[Hawkstrider Herald]]."
-msgstr "战列巡洋舰的升级非常强大，但只能从酒馆等级4开始。前期不要在升级上投入太多，然后从酒馆等级4开始购买一些强力的升级物品。在某些时候，你需要升到6级酒馆才能获得复生升级，这简直太超模了。最值得购买的升级是亡语升级，然后你可以用 [[Titus Rivendare||97408]] 或 [[陆行鸟先锋]] 来倍增强大的亡语加成。"
 
 #: https://hsreplay.net/battlegrounds/heroes/118510/ Hero id 118510 | Guide id
 #: 698

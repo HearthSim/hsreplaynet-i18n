@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-07 01:40+0000\n"
-"PO-Revision-Date: 2025-08-07 12:40\n"
+"POT-Creation-Date: 2025-08-12 01:40+0000\n"
+"PO-Revision-Date: 2025-08-12 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -828,16 +828,28 @@ msgstr "Arquétipos"
 msgid "Find stats and different {name} decklists."
 msgstr "Encontre estatísticas e diferentes decks de {name}."
 
-#: web/views/arena.py:14
+#: web/views/arena.py:17
 msgid "Hearthstone Arena Legendary Groups"
 msgstr ""
 
-#: web/views/arena.py:17
+#: web/views/arena.py:20
 msgid "Explore the Legendary Groups available when drafting in Hearthstone Arena and Underground Arena for the current Arena Season."
 msgstr ""
 
-#: web/views/arena.py:21
+#: web/views/arena.py:24
 msgid "Arena Legendary Groups"
+msgstr ""
+
+#: web/views/arena.py:35
+msgid "Hearthstone Underground Arena 12 Win Decks"
+msgstr ""
+
+#: web/views/arena.py:38
+msgid "Explore the recent Underground Arena decks that have reached 12 wins."
+msgstr ""
+
+#: web/views/arena.py:41
+msgid "Arena "
 msgstr ""
 
 #: web/views/arenasmith.py:9

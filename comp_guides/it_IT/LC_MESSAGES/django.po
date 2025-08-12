@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-11 01:40\n"
+"POT-Creation-Date: 2025-08-12 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Italian\n"
 "Language: it\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-11 12:40\n"
+"PO-Revision-Date: 2025-08-12 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/48/
 msgid "Beasts - StegoFUN"
@@ -58,25 +58,24 @@ msgstr ""
 msgid "Dump huge stats onto Elementals"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Dragons - Charmwing"
+#: name | https://hsreplay.net/battlegrounds/comps/55/
+msgid "Nagas - Spell Casting"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Your first priority is to scale a [[Charmwing||122086]]. This can be done with [[Persistent Poet||108463]] + [[Twilight Watcher||122442]]. It can also be done by buffing the HP of spells using [[Blue Whelp||122674]] and then generating spells with [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]]. After you've scaled a Charmwing to at least 100 HP, windfury it and give your other dragons permanent HP with the help of Poet."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/55/
+msgid "[[Sundered Matriarch||122672]] buffs your minions' HP when you cast a spell, and [[Wrathscale Rogue||122094]] adds and equal amount of attack. Then, the rest of your board can be filled with spell generation nagas, such as [[Coilskar Sapper||120565]] and [[Silivaz the Vindictive||105676]]. You can also try Spell HP Buffing strats with the [[Tranquil Meditative||119942]] [[Firescale Hoarder||120213]] [[Fauna Whisperer||120905]] package."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/50/
-msgid "[[Charmwing||122086]] + way to scale it (Poet + Twilight Watcher)"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/55/
+msgid "[[Sundered Matriarch||122672]] + Spell generation ([[Coilskar Sapper||120565]])"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Dragon Midgame ([[Twilight Watcher||122442]])\n"
-"[[Blue Whelp||122674]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/55/
+msgid "Spell generation ([[Coilskar Sapper||120565]])"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Scale Dragons with Rally"
+#: summary | https://hsreplay.net/battlegrounds/comps/55/
+msgid "Play spells to buff Nagas"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/56/
@@ -99,26 +98,6 @@ msgstr ""
 msgid "Teach Murlocs spells and proc them"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/55/
-msgid "Nagas - Spell Casting"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/55/
-msgid "[[Sundered Matriarch||122672]] buffs your minions' HP when you cast a spell, and [[Wrathscale Rogue||122094]] adds and equal amount of attack. Then, the rest of your board can be filled with spell generation nagas, such as [[Coilskar Sapper||120565]] and [[Silivaz the Vindictive||105676]]. You can also try Spell HP Buffing strats with the [[Tranquil Meditative||119942]] [[Firescale Hoarder||120213]] [[Fauna Whisperer||120905]] package."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/55/
-msgid "[[Sundered Matriarch||122672]] + Spell generation ([[Coilskar Sapper||120565]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/55/
-msgid "Spell generation ([[Coilskar Sapper||120565]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/55/
-msgid "Play spells to buff Nagas"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/49/
 msgid "Quilboar - Rally"
 msgstr ""
@@ -138,6 +117,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/49/
 msgid "Scale blood gems and play them with Rally"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Dragons - Charmwing"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Your first priority is to scale a [[Charmwing||122086]]. This can be done with [[Persistent Poet||108463]] + [[Twilight Watcher||122442]]. It can also be done by buffing the HP of spells using [[Blue Whelp||122674]] and then generating spells with [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]]. After you've scaled a Charmwing to at least 100 HP, windfury it and give your other dragons permanent HP with the help of Poet."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/50/
+msgid "[[Charmwing||122086]] + way to scale it (Poet + Twilight Watcher)"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Dragon Midgame ([[Twilight Watcher||122442]])\n"
+"[[Blue Whelp||122674]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Scale Dragons with Rally"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/51/
@@ -204,26 +204,6 @@ msgstr ""
 msgid "Scale shop with spells and consume shop"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Murlocs - Venom Scam"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Pulling venom murlocs from [[Bassgill||98926]], especially golden, is very powerful."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
-msgid "When you have no future or are clearly getting outstatted"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Getting outscaled"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Buy scam cards and try to preserve placements"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/52/
 msgid "Undead - Carapace"
 msgstr ""
@@ -243,6 +223,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/52/
 msgid "Buff Summons using Spells."
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Murlocs - Venom Scam"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Pulling venom murlocs from [[Bassgill||98926]], especially golden, is very powerful."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
+msgid "When you have no future or are clearly getting outstatted"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Getting outscaled"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Buy scam cards and try to preserve placements"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/53/
