@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-11 01:40+0000\n"
+"POT-Creation-Date: 2025-08-12 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -911,18 +911,30 @@ msgstr ""
 msgid "Find stats and different {name} decklists."
 msgstr ""
 
-#: web/views/arena.py:14
+#: web/views/arena.py:17
 msgid "Hearthstone Arena Legendary Groups"
 msgstr ""
 
-#: web/views/arena.py:17
+#: web/views/arena.py:20
 msgid ""
 "Explore the Legendary Groups available when drafting in Hearthstone Arena "
 "and Underground Arena for the current Arena Season."
 msgstr ""
 
-#: web/views/arena.py:21
+#: web/views/arena.py:24
 msgid "Arena Legendary Groups"
+msgstr ""
+
+#: web/views/arena.py:35
+msgid "Hearthstone Underground Arena 12 Win Decks"
+msgstr ""
+
+#: web/views/arena.py:38
+msgid "Explore the recent Underground Arena decks that have reached 12 wins."
+msgstr ""
+
+#: web/views/arena.py:41
+msgid "Arena "
 msgstr ""
 
 #: web/views/arenasmith.py:9
