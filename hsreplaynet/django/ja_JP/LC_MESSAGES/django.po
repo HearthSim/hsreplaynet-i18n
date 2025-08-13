@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-12 01:40+0000\n"
-"PO-Revision-Date: 2025-08-12 12:40\n"
+"POT-Creation-Date: 2025-08-13 01:40+0000\n"
+"PO-Revision-Date: 2025-08-13 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -507,39 +507,43 @@ msgstr ""
 msgid "Arena Legendaries"
 msgstr ""
 
-#: templates/footer.html:78 web/views/battlegrounds.py:138
+#: templates/footer.html:78
+msgid "Arena Winning Decks"
+msgstr ""
+
+#: templates/footer.html:79 web/views/battlegrounds.py:138
 msgid "Battlegrounds Heroes"
 msgstr "バトルグラウンド ヒーロー"
 
-#: templates/footer.html:79 web/views/battlegrounds.py:286
+#: templates/footer.html:80 web/views/battlegrounds.py:286
 msgid "Battlegrounds Anomalies"
 msgstr ""
 
-#: templates/footer.html:80 web/views/battlegrounds.py:219
+#: templates/footer.html:81 web/views/battlegrounds.py:219
 msgid "Battlegrounds Trinkets"
 msgstr ""
 
-#: templates/footer.html:84
+#: templates/footer.html:85
 msgid "Support"
 msgstr "サポート"
 
-#: templates/footer.html:97
+#: templates/footer.html:98
 msgid "Help Center"
 msgstr "ヘルプセンター（英語）"
 
-#: templates/footer.html:99
+#: templates/footer.html:100
 msgid "Your Account"
 msgstr "あなたのアカウント"
 
-#: templates/footer.html:101
+#: templates/footer.html:102
 msgid "Terms of Service"
 msgstr "サービス利用規約"
 
-#: templates/footer.html:104
+#: templates/footer.html:105
 msgid "Privacy Policy"
 msgstr "プライバシーポリシー"
 
-#: templates/footer.html:106
+#: templates/footer.html:107
 msgid "Get in Touch"
 msgstr ""
 
@@ -841,15 +845,15 @@ msgid "Arena Legendary Groups"
 msgstr ""
 
 #: web/views/arena.py:35
-msgid "Hearthstone Underground Arena 12 Win Decks"
+msgid "12 Win Underground Arena Decks"
 msgstr ""
 
 #: web/views/arena.py:38
-msgid "Explore the recent Underground Arena decks that have reached 12 wins."
+msgid "Explore the most recent 12-win decks for each class in Hearthstone Underground Arena"
 msgstr ""
 
 #: web/views/arena.py:41
-msgid "Arena "
+msgid "12 Win Arena Decks"
 msgstr ""
 
 #: web/views/arenasmith.py:9

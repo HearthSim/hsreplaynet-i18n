@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-12 01:40+0000\n"
-"PO-Revision-Date: 2025-08-12 12:40\n"
+"POT-Creation-Date: 2025-08-13 01:40+0000\n"
+"PO-Revision-Date: 2025-08-13 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -519,39 +519,43 @@ msgstr "环境梯队表"
 msgid "Arena Legendaries"
 msgstr "竞技模式传说卡"
 
-#: templates/footer.html:78 web/views/battlegrounds.py:138
+#: templates/footer.html:78
+msgid "Arena Winning Decks"
+msgstr "竞技模式胜利套牌"
+
+#: templates/footer.html:79 web/views/battlegrounds.py:138
 msgid "Battlegrounds Heroes"
 msgstr "酒馆战棋英雄"
 
-#: templates/footer.html:79 web/views/battlegrounds.py:286
+#: templates/footer.html:80 web/views/battlegrounds.py:286
 msgid "Battlegrounds Anomalies"
 msgstr "酒馆战棋畸变"
 
-#: templates/footer.html:80 web/views/battlegrounds.py:219
+#: templates/footer.html:81 web/views/battlegrounds.py:219
 msgid "Battlegrounds Trinkets"
 msgstr "酒馆战棋饰品"
 
-#: templates/footer.html:84
+#: templates/footer.html:85
 msgid "Support"
 msgstr "用户支持"
 
-#: templates/footer.html:97
+#: templates/footer.html:98
 msgid "Help Center"
 msgstr "帮助中心"
 
-#: templates/footer.html:99
+#: templates/footer.html:100
 msgid "Your Account"
 msgstr "您的账户"
 
-#: templates/footer.html:101
+#: templates/footer.html:102
 msgid "Terms of Service"
 msgstr "服务条款"
 
-#: templates/footer.html:104
+#: templates/footer.html:105
 msgid "Privacy Policy"
 msgstr "隐私权政策"
 
-#: templates/footer.html:106
+#: templates/footer.html:107
 msgid "Get in Touch"
 msgstr "联系我们"
 
@@ -674,12 +678,12 @@ msgstr "这可能是因为登录时出错，或 %(provider)s 存在问题。"
 #: templates/socialaccount/authentication_error.html:26
 #, python-format
 msgid "If you keep seeing this error, you can <a href=\"%(contact_url)s\">contact us</a> with the following error reference: <code>%(sentry_event_id)s</code>"
-msgstr "如果您一直看到此错误，您可以<a href=\"%(contact_url)s\">联系我们<a>并提供以下错误编号：<code>%(sentry_event_id)s</code>"
+msgstr "如果您一直看到此错误，您可以<a href=\"%(contact_url)s\">联系我们</a>并提供以下错误编号：<code>%(sentry_event_id)s</code>"
 
 #: templates/socialaccount/authentication_error.html:30
 #, python-format
 msgid "If you keep seeing this error, you can <a href=\"%(contact_url)s\">contact us</a>."
-msgstr "如果您一直看到此错误，您可以<a href=\"%(contact_url)s\">联系我们<a>。"
+msgstr "如果您一直看到此错误，您可以<a href=\"%(contact_url)s\">联系我们</a>。"
 
 #: templates/socialaccount/authentication_error.html:50
 msgid "Back to the office."
@@ -801,7 +805,7 @@ msgstr "看看你能使用Hearthstone Deck Tracker和这个网站做些什么吧
 #: web/views/archetypes.py:38
 #, python-brace-format
 msgid "Hearthstone Meta Tier List - {month} {year}"
-msgstr "炉石传说环境梯队列表 - {year}年{month}月"
+msgstr "炉石传说环境梯队列表 - {year}年{month}"
 
 #: web/views/archetypes.py:44
 msgid "Explore the Hearthstone meta tier list, find the best decks for every class,and how the archetypes match up."
@@ -853,16 +857,16 @@ msgid "Arena Legendary Groups"
 msgstr "竞技模式传说组合"
 
 #: web/views/arena.py:35
-msgid "Hearthstone Underground Arena 12 Win Decks"
-msgstr "炉石传说地下竞技场12胜套牌"
+msgid "12 Win Underground Arena Decks"
+msgstr "12胜地下竞技场套牌"
 
 #: web/views/arena.py:38
-msgid "Explore the recent Underground Arena decks that have reached 12 wins."
-msgstr "探索最近赢得12胜的地下竞技场套牌。"
+msgid "Explore the most recent 12-win decks for each class in Hearthstone Underground Arena"
+msgstr "探索炉石传说地下竞技场中每个职业最近的12胜套牌"
 
 #: web/views/arena.py:41
-msgid "Arena "
-msgstr "竞技模式 "
+msgid "12 Win Arena Decks"
+msgstr "12胜竞技模式套牌"
 
 #: web/views/arenasmith.py:9
 msgid "Pick the strongest cards in Arena with Arenasmith"
@@ -874,7 +878,7 @@ msgstr "Arenasmith - 炉石传说竞技模式选牌助手"
 
 #: web/views/battlegrounds.py:117
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
-msgstr "使用Tier7细致入微的战棋统计数据来提升你的游戏策略，例如最佳英雄、流派、随从的实战信息等！"
+msgstr "使用Tier7细致入微的酒馆战棋统计数据来提升你的游戏策略，例如最佳英雄、流派、随从等实战信息！"
 
 #: web/views/battlegrounds.py:127 web/views/battlegrounds.py:146
 #: web/views/battlegrounds.py:161 web/views/battlegrounds.py:226
@@ -893,7 +897,7 @@ msgstr "酒馆战棋HSReplay.net Tier7"
 
 #: web/views/battlegrounds.py:140
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
-msgstr "打开我们的战棋英雄梯度表，查看在百万场对局中它们的表现"
+msgstr "打开我们的酒馆战棋英雄梯队表，查看在百万场对局中它们的表现。"
 
 #: web/views/battlegrounds.py:153
 msgid "Battlegrounds Comps"
@@ -909,7 +913,7 @@ msgstr "透过千千万对局数据，探索酒馆战棋中最适合您的饰品
 
 #: web/views/battlegrounds.py:288
 msgid "Explore our Battlegrounds Anomalies List and learn which anomalies are more common - powered by data from millions of games."
-msgstr "打开我们的酒馆战棋畸变梯度表，查看它们在百万场对局中的表现。"
+msgstr "打开我们的酒馆战棋畸变梯队表，查看它们在百万场对局中的表现。"
 
 #: web/views/battlegrounds.py:340
 msgid "Battlegrounds Duos Heroes"
@@ -1066,7 +1070,7 @@ msgstr "炉石套牌"
 #: web/views/decks.py:56
 #, python-brace-format
 msgid "Best {class} Decks - {month} {year} - Hearthstone"
-msgstr "{class} 最佳卡组 - {year} 年 {month} 月 - 《炉石传说》"
+msgstr "最佳{class}套牌 - {year}年{month} - 《炉石传说》"
 
 #: web/views/decks.py:65
 #, python-format
