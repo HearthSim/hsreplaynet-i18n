@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-13 01:40\n"
+"POT-Creation-Date: 2025-08-14 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -15,14 +15,14 @@ msgstr ""
 "X-Crowdin-Language: fr\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-13 12:40\n"
+"PO-Revision-Date: 2025-08-14 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Beasts - StegoFUN"
+msgid "Beasts - StegoDONE"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Initially attack with your windfury [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or [[Manasaber||98831]] to soak some attacks. Then, the next things to attack should be [[Monstrous Macaw||62230]] that procs [[Manasaber||98831]], because this first fills out the board with taunts and then adds the rally to the whole board. Do that with as many Macaws as possible. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your taunts to soak more attacks, and then start windfurying your biggest beasts as they are the most likely to attack twice."
+msgid "Initially attack with your windfury [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or Moduled [[Mechanized Gift Horse||103682]] to soak some attacks. Then, the next things to attack should be [[Monstrous Macaw||62230]] that procs [[Manasaber||98831]], because this first fills out the board with taunts and then adds the rally to the whole board. Do that with as many Macaws as possible. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your taunts to soak more attacks, and then start windfurying your biggest beasts as they are the most likely to attack twice."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/48/
@@ -35,6 +35,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/48/
 msgid "Exponentially scale stats with rally"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/49/
+msgid "Quilboar - Rally"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/49/
+msgid "Scale your bloodgems using an early [[Sanguine Refiner||122566]]. Then, [[Razorfen Vineweaver||122562]] casts 3 or more permanent gems on itself each fight, while [[Bloodsnout Warlord||122564]] casts an insane amount of temporary gems on your board. You also want to shield as many Quilboars as possible using [[Hog Watcher||122737]]. In the endgame, you may gem transfer using [[Gem Confiscation||110642]] onto a [[Corrupted Bristler||120033]] to double the effectiveness of your blood gems."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/49/
+msgid "Gem Scaling ([[Sanguine Refiner||122566]]) + Payoff ([[Razorfen Vineweaver||122562]]/[[Bloodsnout Warlord||122564]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/49/
+msgid "[[Sanguine Refiner||122566]]\n"
+"Quilboar midgame([[Prickly Piper||98946]]/[[Razorfen Vineweaver||122562]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/49/
+msgid "Scale blood gems and play them with Rally"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/57/
@@ -78,6 +99,27 @@ msgstr ""
 msgid "Play spells to buff Nagas"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Dragons - Charmwing"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Your first priority is to scale a [[Charmwing||122086]]. This can be done with [[Persistent Poet||108463]] + [[Twilight Watcher||122442]]. It can also be done by buffing the HP of spells using [[Blue Whelp||122674]] or [[Felfire Conjurer||120299]] and then generating spells with [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]]. After you've scaled a Charmwing to at least 100 HP, windfury it and give your other dragons permanent HP with the help of Poet."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/50/
+msgid "[[Charmwing||122086]] + way to scale it (Poet + Twilight Watcher)"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Dragon Midgame ([[Twilight Watcher||122442]])\n"
+"[[Blue Whelp||122674]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Scale Dragons with Rally"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/56/
 msgid "Murlocs - Magicfin"
 msgstr ""
@@ -96,48 +138,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/56/
 msgid "Teach Murlocs spells and proc them"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/49/
-msgid "Quilboar - Rally"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/49/
-msgid "Scale your bloodgems using an early [[Sanguine Refiner||122566]]. Then, [[Razorfen Vineweaver||122562]] casts 3 or more permanent gems on itself each fight, while [[Bloodsnout Warlord||122564]] casts an insane amount of temporary gems on your board. You also want to shield as many Quilboars as possible using [[Hog Watcher||122737]]. In the endgame, you may gem transfer using [[Gem Confiscation||110642]] onto a [[Corrupted Bristler||120033]] to double the effectiveness of your blood gems."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/49/
-msgid "Gem Scaling ([[Sanguine Refiner||122566]]) + Payoff ([[Razorfen Vineweaver||122562]]/[[Bloodsnout Warlord||122564]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/49/
-msgid "[[Sanguine Refiner||122566]]\n"
-"Quilboar midgame([[Prickly Piper||98946]]/[[Razorfen Vineweaver||122562]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/49/
-msgid "Scale blood gems and play them with Rally"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Dragons - Charmwing"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Your first priority is to scale a [[Charmwing||122086]]. This can be done with [[Persistent Poet||108463]] + [[Twilight Watcher||122442]]. It can also be done by buffing the HP of spells using [[Blue Whelp||122674]] and then generating spells with [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]]. After you've scaled a Charmwing to at least 100 HP, windfury it and give your other dragons permanent HP with the help of Poet."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/50/
-msgid "[[Charmwing||122086]] + way to scale it (Poet + Twilight Watcher)"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Dragon Midgame ([[Twilight Watcher||122442]])\n"
-"[[Blue Whelp||122674]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Scale Dragons with Rally"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/51/

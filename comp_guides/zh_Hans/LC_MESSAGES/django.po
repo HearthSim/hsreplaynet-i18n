@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-13 01:40\n"
+"POT-Creation-Date: 2025-08-14 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,15 +15,15 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-13 12:40\n"
+"PO-Revision-Date: 2025-08-14 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Beasts - StegoFUN"
+msgid "Beasts - StegoDONE"
 msgstr "野兽 - 剑龙"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Initially attack with your windfury [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or [[Manasaber||98831]] to soak some attacks. Then, the next things to attack should be [[Monstrous Macaw||62230]] that procs [[Manasaber||98831]], because this first fills out the board with taunts and then adds the rally to the whole board. Do that with as many Macaws as possible. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your taunts to soak more attacks, and then start windfurying your biggest beasts as they are the most likely to attack twice."
-msgstr "首先用风怒的 [[Stomping Stegodon||122286]] 发起攻击。确保你有一个嘲讽的 [[Sewer Rat||70790]] 或 [[Manasaber||98831]] 来承受一些攻击。接下来应优先攻击的是 [[Monstrous Macaw||62230]] 来触发 [[Manasaber||98831]] 的亡语，因为这样就能用嘲讽随从填满棋盘，随后为整个棋盘提供进击效果。尽可能多地使用鹦鹉进行此操作。千万不要复生你的剑龙！！使用 [[Sprightly Scarab||108909]] 时，你需要首先复生你的嘲讽单位吸收更多伤害。然后再对你的最大的野兽贴上风怒，因为它们是最有可能进行两次攻击的。"
+msgid "Initially attack with your windfury [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or Moduled [[Mechanized Gift Horse||103682]] to soak some attacks. Then, the next things to attack should be [[Monstrous Macaw||62230]] that procs [[Manasaber||98831]], because this first fills out the board with taunts and then adds the rally to the whole board. Do that with as many Macaws as possible. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your taunts to soak more attacks, and then start windfurying your biggest beasts as they are the most likely to attack twice."
+msgstr "首先用风怒的 [[Stomping Stegodon||122286]] 发起攻击。确保你有一个嘲讽的 [[Sewer Rat||70790]] 或贴了吵吵模组的 [[Mechanized Gift Horse||103682]] 来承受一些攻击。接下来应优先攻击的是 [[Monstrous Macaw||62230]] 来触发 [[Manasaber||98831]] 的亡语，因为这样就能用嘲讽随从填满棋盘，随后为整个棋盘提供进击效果。尽可能多地使用鹦鹉进行此操作。千万不要复生你的剑龙！！使用 [[Sprightly Scarab||108909]] 时，你需要首先复生你的嘲讽单位吸收更多伤害。然后再对你的最大的野兽贴上风怒，因为它们是最有可能进行两次攻击的。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/48/
 msgid "[[Stomping Stegodon||122286]] + Beasts ([[Manasaber||98831]])"
@@ -36,6 +36,28 @@ msgstr "野兽中期过度 ([[Bird Buddy||72055]])"
 #: summary | https://hsreplay.net/battlegrounds/comps/48/
 msgid "Exponentially scale stats with rally"
 msgstr "通过进击实现数值的指数级增长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/49/
+msgid "Quilboar - Rally"
+msgstr "野猪人 - 进击"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/49/
+msgid "Scale your bloodgems using an early [[Sanguine Refiner||122566]]. Then, [[Razorfen Vineweaver||122562]] casts 3 or more permanent gems on itself each fight, while [[Bloodsnout Warlord||122564]] casts an insane amount of temporary gems on your board. You also want to shield as many Quilboars as possible using [[Hog Watcher||122737]]. In the endgame, you may gem transfer using [[Gem Confiscation||110642]] onto a [[Corrupted Bristler||120033]] to double the effectiveness of your blood gems."
+msgstr "在早期使用 [[Sanguine Refiner||122566]] 来成长鲜血宝石。然后 [[Razorfen Vineweaver||122562]] 在每次攻击都会为自己使用 3 个或更多的永久宝石，而[[Bloodsnout Warlord||122564]] 则会在你的棋盘上疯狂地施放大量的临时宝石。你还要用 [[Hog Watcher||122737]] 尽可能多地为野猪人套上圣盾。在终局中，你可以使用 [[Gem Confiscation||110642]] 将宝石转移到 [[Corrupted Bristler||120033]] 上，使你的鲜血宝石效果翻倍。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/49/
+msgid "Gem Scaling ([[Sanguine Refiner||122566]]) + Payoff ([[Razorfen Vineweaver||122562]]/[[Bloodsnout Warlord||122564]])"
+msgstr "鲜血宝石成长 ([[Sanguine Refiner||122566]]) + 贴宝石 ([[Razorfen Vineweaver||122562]]/[[Bloodsnout Warlord||122564]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/49/
+msgid "[[Sanguine Refiner||122566]]\n"
+"Quilboar midgame([[Prickly Piper||98946]]/[[Razorfen Vineweaver||122562]])"
+msgstr "[[Sanguine Refiner||122566]]\n"
+"野猪人中期过度([[Prickly Piper||98946]]/[[Razorfen Vineweaver||122562]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/49/
+msgid "Scale blood gems and play them with Rally"
+msgstr "养大鲜血宝石数值并通过进击施放"
 
 #: name | https://hsreplay.net/battlegrounds/comps/57/
 msgid "Elementals - Avalanche"
@@ -79,6 +101,28 @@ msgstr "法术生成 ([[Coilskar Sapper||120565]])"
 msgid "Play spells to buff Nagas"
 msgstr "释放法术来增强纳迦"
 
+#: name | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Dragons - Charmwing"
+msgstr "龙 - 魅惑之翼"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Your first priority is to scale a [[Charmwing||122086]]. This can be done with [[Persistent Poet||108463]] + [[Twilight Watcher||122442]]. It can also be done by buffing the HP of spells using [[Blue Whelp||122674]] or [[Felfire Conjurer||120299]] and then generating spells with [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]]. After you've scaled a Charmwing to at least 100 HP, windfury it and give your other dragons permanent HP with the help of Poet."
+msgstr "你的首要任务是提升[[Charmwing||122086]]的属性。可以通过 [[Persistent Poet||108463]] + [[Twilight Watcher||122442]] 来实现。也可以通过使用 [[Blue Whelp||122674]] 或 [[Felfire Conjurer||120299]] 额外提升法术的生命值加成，然后借助 [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]] 生成法术。在将魅惑之翼的生命值提升至至少100后，对其施加风怒效果，并借助诗心龙的帮助为其他龙类永久提升生命值。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/50/
+msgid "[[Charmwing||122086]] + way to scale it (Poet + Twilight Watcher)"
+msgstr "[[Charmwing||122086]] + 增强它的方法 (执念诗心龙 + 暮光守望巨龙)"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Dragon Midgame ([[Twilight Watcher||122442]])\n"
+"[[Blue Whelp||122674]]"
+msgstr "龙中期过度 ([[Twilight Watcher||122442]])\n"
+"[[Blue Whelp||122674]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Scale Dragons with Rally"
+msgstr "通过进击使龙成长"
+
 #: name | https://hsreplay.net/battlegrounds/comps/56/
 msgid "Murlocs - Magicfin"
 msgstr "鱼人 - 魔鳍"
@@ -98,50 +142,6 @@ msgstr "[[Magicfin Mycologist||122277]]"
 #: summary | https://hsreplay.net/battlegrounds/comps/56/
 msgid "Teach Murlocs spells and proc them"
 msgstr "教会鱼人法术并触发它们"
-
-#: name | https://hsreplay.net/battlegrounds/comps/49/
-msgid "Quilboar - Rally"
-msgstr "野猪人 - 进击"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/49/
-msgid "Scale your bloodgems using an early [[Sanguine Refiner||122566]]. Then, [[Razorfen Vineweaver||122562]] casts 3 or more permanent gems on itself each fight, while [[Bloodsnout Warlord||122564]] casts an insane amount of temporary gems on your board. You also want to shield as many Quilboars as possible using [[Hog Watcher||122737]]. In the endgame, you may gem transfer using [[Gem Confiscation||110642]] onto a [[Corrupted Bristler||120033]] to double the effectiveness of your blood gems."
-msgstr "在早期使用 [[Sanguine Refiner||122566]] 来成长鲜血宝石。然后 [[Razorfen Vineweaver||122562]] 在每次攻击都会为自己使用 3 个或更多的永久宝石，而[[Bloodsnout Warlord||122564]] 则会在你的棋盘上疯狂地施放大量的临时宝石。你还要用 [[Hog Watcher||122737]] 尽可能多地为野猪人套上圣盾。在终局中，你可以使用 [[Gem Confiscation||110642]] 将宝石转移到 [[Corrupted Bristler||120033]] 上，使你的鲜血宝石效果翻倍。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/49/
-msgid "Gem Scaling ([[Sanguine Refiner||122566]]) + Payoff ([[Razorfen Vineweaver||122562]]/[[Bloodsnout Warlord||122564]])"
-msgstr "鲜血宝石成长 ([[Sanguine Refiner||122566]]) + 贴宝石 ([[Razorfen Vineweaver||122562]]/[[Bloodsnout Warlord||122564]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/49/
-msgid "[[Sanguine Refiner||122566]]\n"
-"Quilboar midgame([[Prickly Piper||98946]]/[[Razorfen Vineweaver||122562]])"
-msgstr "[[Sanguine Refiner||122566]]\n"
-"野猪人中期过度([[Prickly Piper||98946]]/[[Razorfen Vineweaver||122562]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/49/
-msgid "Scale blood gems and play them with Rally"
-msgstr "养大鲜血宝石数值并通过进击施放"
-
-#: name | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Dragons - Charmwing"
-msgstr "龙 - 魅惑之翼"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Your first priority is to scale a [[Charmwing||122086]]. This can be done with [[Persistent Poet||108463]] + [[Twilight Watcher||122442]]. It can also be done by buffing the HP of spells using [[Blue Whelp||122674]] and then generating spells with [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]]. After you've scaled a Charmwing to at least 100 HP, windfury it and give your other dragons permanent HP with the help of Poet."
-msgstr "你的首要任务是提升[[Charmwing||122086]]的属性。可以通过 [[Persistent Poet||108463]] + [[Twilight Watcher||122442]] 来实现。也可以通过使用 [[Blue Whelp||122674]] 额外提升法术的生命值，然后借助 [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]] 生成法术。在将魅惑之翼的生命值提升至至少100后，对其施加风怒效果，并借助诗心龙的帮助为其他龙类永久提升生命值。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/50/
-msgid "[[Charmwing||122086]] + way to scale it (Poet + Twilight Watcher)"
-msgstr "[[Charmwing||122086]] + 增强它的方法 (执念诗心龙 + 暮光守望巨龙)"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Dragon Midgame ([[Twilight Watcher||122442]])\n"
-"[[Blue Whelp||122674]]"
-msgstr "龙中期过度 ([[Twilight Watcher||122442]])\n"
-"[[Blue Whelp||122674]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Scale Dragons with Rally"
-msgstr "通过进击使龙成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/51/
 msgid "Demons - Damage"
