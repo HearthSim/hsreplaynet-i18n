@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-16 01:40\n"
+"POT-Creation-Date: 2025-08-18 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-16 12:40\n"
+"PO-Revision-Date: 2025-08-18 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/48/
 msgid "Beasts - StegoDONE"
@@ -165,28 +165,6 @@ msgstr "[[Deep Blue Crooner||98886]]\n"
 msgid "Scale Naga's Spellcrafts"
 msgstr "强化纳迦的塑造法术"
 
-#: name | https://hsreplay.net/battlegrounds/comps/51/
-msgid "Demons - Damage"
-msgstr "恶魔 - 伤害"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/51/
-msgid "[[Lord of the Ruins||122116]] and [[Devout Hellcaller||122586]] scale by having your demons deal damage to minions. The best way to do that is with [[Silent Enforcer||122605]] + [[Titus Rivendare||97408]], which damages all your opponent's minions at once. [[Soul Juggler||59660]] is also usable because it deals damage every time one of your demons dies. This comp is very strong in the midgame but falls off at some point, and there's not much you can do about it."
-msgstr "[[Lord of the Ruins||122116]] 和 [[Devout Hellcaller||122586]] 的强度取决于你的恶魔对随从造成的伤害。实现这一点的最佳方式是使用 [[Silent Enforcer||122605]] + [[Titus Rivendare||97408]]，这能一次性对对手的所有随从造成伤害。[[Soul Juggler||59660]] 也值得使用，因为它会在你的恶魔死亡时造成伤害。这个流派在中期非常强大，但到了某个阶段会逐渐衰弱，对此你无能为力。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/51/
-msgid "[[Silent Enforcer||122605]] + Damage payoff ([[Lord of the Ruins||122116]] or [[Devout Hellcaller||122586]])"
-msgstr "[[Silent Enforcer||122605]] + 伤害补偿([[Lord of the Ruins||122116]] 或 [[Devout Hellcaller||122586]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/51/
-msgid "Demon midgame ([[Soul Juggler||59660]])\n"
-"[[Lord of the Ruins||122116]]"
-msgstr "恶魔中期过度([[Soul Juggler||59660]])\n"
-"[[Lord of the Ruins||122116]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/51/
-msgid "Demons deal damage to buff board"
-msgstr "恶魔造成伤害来增强棋盘"
-
 #: name | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Mechs - Magnetics"
 msgstr "机械 - 磁力"
@@ -208,6 +186,28 @@ msgstr "[[Rickety Repairbot||120027]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Magnetize Mechs and scale them."
 msgstr "给机械贴磁力并增强它们。"
+
+#: name | https://hsreplay.net/battlegrounds/comps/51/
+msgid "Demons - Damage"
+msgstr "恶魔 - 伤害"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/51/
+msgid "[[Lord of the Ruins||122116]] and [[Devout Hellcaller||122586]] scale by having your demons deal damage to minions. The best way to do that is with [[Silent Enforcer||122605]] + [[Titus Rivendare||97408]], which damages all your opponent's minions at once. [[Soul Juggler||59660]] is also usable because it deals damage every time one of your demons dies. This comp is very strong in the midgame but falls off at some point, and there's not much you can do about it."
+msgstr "[[Lord of the Ruins||122116]] 和 [[Devout Hellcaller||122586]] 的强度取决于你的恶魔对随从造成的伤害。实现这一点的最佳方式是使用 [[Silent Enforcer||122605]] + [[Titus Rivendare||97408]]，这能一次性对对手的所有随从造成伤害。[[Soul Juggler||59660]] 也值得使用，因为它会在你的恶魔死亡时造成伤害。这个流派在中期非常强大，但到了某个阶段会逐渐衰弱，对此你无能为力。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/51/
+msgid "[[Silent Enforcer||122605]] + Damage payoff ([[Lord of the Ruins||122116]] or [[Devout Hellcaller||122586]])"
+msgstr "[[Silent Enforcer||122605]] + 伤害补偿([[Lord of the Ruins||122116]] 或 [[Devout Hellcaller||122586]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/51/
+msgid "Demon midgame ([[Soul Juggler||59660]])\n"
+"[[Lord of the Ruins||122116]]"
+msgstr "恶魔中期过度([[Soul Juggler||59660]])\n"
+"[[Lord of the Ruins||122116]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/51/
+msgid "Demons deal damage to buff board"
+msgstr "恶魔造成伤害来增强棋盘"
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
@@ -275,22 +275,6 @@ msgstr "[[Carapace Raiser||122479]]\n"
 msgid "Buff Summons using Spells."
 msgstr "使用法术强化召唤物。"
 
-#: name | https://hsreplay.net/battlegrounds/comps/53/
-msgid "Elementals - APM"
-msgstr "元素 - 倒转"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/53/
-msgid "Cycle as many elementals as you can with [[Ultraviolet Ascendant||115581]] on board. The best way to do that is with [[Brann Bronzebeard||96786]], and then buying every [[Tavern Tempest||64077]], [[Windfall Tornado||116738]], [[Refreshing Anomaly||64042]], and [[Sellemental||64038]]. Golden [[Ichoron the Protector||115585]] is nice to shield your whole board, and [[Lantern Lava||122650]] can be used to copy an amazing elemental every turn."
-msgstr "[[Ultraviolet Ascendant||115581]] 在场上时尽可能多地召唤元素生物。实现这一目标的最佳方式是使用 [[Brann Bronzebeard||96786]]，并购买所有的 [[Tavern Tempest||64077]], [[Windfall Tornado||116738]], [[Refreshing Anomaly||64042]] 和[[Sellemental||64038]]。金色的 [[Ichoron the Protector||115585]] 可为整个棋盘提供圣盾，而 [[Lantern Lava||122650]] 则可每回合复制一个强大的元素随从。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/53/
-msgid "[[Brann Bronzebeard||96786]] + [[Ultraviolet Ascendant||115581]]"
-msgstr "[[Brann Bronzebeard||96786]] + [[Ultraviolet Ascendant||115581]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/53/
-msgid "Cycle elementals to scale them"
-msgstr "刷元素牌成长"
-
 #: name | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Nagas - Spell Buff/End of Turn"
 msgstr "纳迦 - 法术Buff/回合结束"
@@ -313,6 +297,22 @@ msgstr "[[Felfire Conjurer||120299]]\n"
 msgid "Cast Buffed Spells End of Turn"
 msgstr "回合结束时施放强化法术"
 
+#: name | https://hsreplay.net/battlegrounds/comps/53/
+msgid "Elementals - APM"
+msgstr "元素 - 倒转"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/53/
+msgid "Cycle as many elementals as you can with [[Ultraviolet Ascendant||115581]] on board. The best way to do that is with [[Brann Bronzebeard||96786]], and then buying every [[Tavern Tempest||64077]], [[Windfall Tornado||116738]], [[Refreshing Anomaly||64042]], and [[Sellemental||64038]]. Golden [[Ichoron the Protector||115585]] is nice to shield your whole board, and [[Lantern Lava||122650]] can be used to copy an amazing elemental every turn."
+msgstr "[[Ultraviolet Ascendant||115581]] 在场上时尽可能多地召唤元素生物。实现这一目标的最佳方式是使用 [[Brann Bronzebeard||96786]]，并购买所有的 [[Tavern Tempest||64077]], [[Windfall Tornado||116738]], [[Refreshing Anomaly||64042]] 和[[Sellemental||64038]]。金色的 [[Ichoron the Protector||115585]] 可为整个棋盘提供圣盾，而 [[Lantern Lava||122650]] 则可每回合复制一个强大的元素随从。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/53/
+msgid "[[Brann Bronzebeard||96786]] + [[Ultraviolet Ascendant||115581]]"
+msgstr "[[Brann Bronzebeard||96786]] + [[Ultraviolet Ascendant||115581]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/53/
+msgid "Cycle elementals to scale them"
+msgstr "刷元素牌成长"
+
 #: name | https://hsreplay.net/battlegrounds/comps/54/
 msgid "Rally Menagerie"
 msgstr "进击喝茶"
@@ -333,26 +333,6 @@ msgstr "进击 ([[Bonker||70173]])"
 msgid "Rally to scale different tribes"
 msgstr "进击成长不同种族"
 
-#: name | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Pirates - Bounty APM"
-msgstr "海盗 - 悬赏令倒转"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Sky Admiral Rogers||122516]] or other bounty generation combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup. At some point, you'll be infinite with bounties, and you'll need spell scaling to really capitalize on the bounty scaling. Cards such as [[Sundered Matriarch||122672]] and [[Timecap'n Hooktail||103676]] gets insane value because of the amount of spells you're playing, and [[Tranquil Meditative||119942]] or [[Felfire Conjurer||120299]] helps improve the quality of your bounties."
-msgstr "[[Sky Admiral Rogers||122516]] 或其他悬赏令生成器与 [[Proud Privateer||122520]] 搭配时可以让你获得大量铸币来完成更多布局。在某些时候你会无限获得悬赏令，你需要法术成长来真正利用悬赏令成长。诸如 [[Sundered Matriarch||122672]] 和 [[Timecap'n Hooktail||103676]] 之类的卡牌会因为你的法术数量而获得疯狂的价值，而[[Tranquil Meditative||119942]] 或 [[Felfire Conjurer||120299]] 则有助于提高悬赏令的质量。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Bounty Generation ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]]"
-msgstr "悬赏令生成器 ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Midgame Bounties ([[Bigwig Bandit||122179]]/[[Lost City Looter||122175]])"
-msgstr "中期获取悬赏令 ([[Bigwig Bandit||122179]]/[[Lost City Looter||122175]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Bounties generate gold and stats"
-msgstr "靠悬赏令生成铸币和身材数值"
-
 #: name | https://hsreplay.net/battlegrounds/comps/12/
 msgid "Beasts - Goldrinn"
 msgstr "野兽 - 巨狼戈德林"
@@ -372,6 +352,26 @@ msgstr "亡语野兽中期过度([[Bird Buddy||72055]])"
 #: summary | https://hsreplay.net/battlegrounds/comps/12/
 msgid "Scale summoned beasts in combat"
 msgstr "在战斗中召唤强化的野兽"
+
+#: name | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Pirates - Bounty APM"
+msgstr "海盗 - 悬赏令倒转"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
+msgid "[[Sky Admiral Rogers||122516]] or other bounty generation combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup. At some point, you'll be infinite with bounties, and you'll need spell scaling to really capitalize on the bounty scaling. Cards such as [[Sundered Matriarch||122672]] and [[Timecap'n Hooktail||103676]] gets insane value because of the amount of spells you're playing, and [[Tranquil Meditative||119942]] or [[Felfire Conjurer||120299]] helps improve the quality of your bounties."
+msgstr "[[Sky Admiral Rogers||122516]] 或其他悬赏令生成器与 [[Proud Privateer||122520]] 搭配时可以让你获得大量铸币来完成更多布局。在某些时候你会无限获得悬赏令，你需要法术成长来真正利用悬赏令成长。诸如 [[Sundered Matriarch||122672]] 和 [[Timecap'n Hooktail||103676]] 之类的卡牌会因为你的法术数量而获得疯狂的价值，而[[Tranquil Meditative||119942]] 或 [[Felfire Conjurer||120299]] 则有助于提高悬赏令的质量。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Bounty Generation ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]]"
+msgstr "悬赏令生成器 ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Midgame Bounties ([[Bigwig Bandit||122179]]/[[Lost City Looter||122175]])"
+msgstr "中期获取悬赏令 ([[Bigwig Bandit||122179]]/[[Lost City Looter||122175]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Bounties generate gold and stats"
+msgstr "靠悬赏令生成铸币和身材数值"
 
 #: name | https://hsreplay.net/battlegrounds/comps/14/
 msgid "Undead - Attack Scaling"
