@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-17 01:40\n"
+"POT-Creation-Date: 2025-08-18 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -222,6 +222,35 @@ msgstr ""
 msgid "Scale Naga's Spellcrafts"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Mechs - Magnetics"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
+msgid ""
+"Generate Magnetics with an early [[Holo Rover||115674]] and windfury it "
+"ASAP. [[Polarizing Beatboxer||98713]] and [[Rickety Repairbot||120027]] help"
+" you put more magnetics on your board. Finally, [[Utility Drone||98588]] + "
+"[[Drakkari Enchanter||101314]] scales your board based on the amount of "
+"magnetics on your mechs."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
+msgid ""
+"[[Holo Rover||115674]] or [[Rickety Repairbot||120027]] + [[Utility "
+"Drone||98588]] + [[Drakkari Enchanter||101314]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
+msgid ""
+"[[Rickety Repairbot||120027]]\n"
+"[[Holo Rover||115674]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Magnetize Mechs and scale them."
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/51/
 msgid "Demons - Damage"
 msgstr ""
@@ -251,35 +280,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/51/
 msgid "Demons deal damage to buff board"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Mechs - Magnetics"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
-msgid ""
-"Generate Magnetics with an early [[Holo Rover||115674]] and windfury it "
-"ASAP. [[Polarizing Beatboxer||98713]] and [[Rickety Repairbot||120027]] help"
-" you put more magnetics on your board. Finally, [[Utility Drone||98588]] + "
-"[[Drakkari Enchanter||101314]] scales your board based on the amount of "
-"magnetics on your mechs."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
-msgid ""
-"[[Holo Rover||115674]] or [[Rickety Repairbot||120027]] + [[Utility "
-"Drone||98588]] + [[Drakkari Enchanter||101314]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
-msgid ""
-"[[Rickety Repairbot||120027]]\n"
-"[[Holo Rover||115674]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Magnetize Mechs and scale them."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
@@ -363,28 +363,6 @@ msgstr ""
 msgid "Buff Summons using Spells."
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/53/
-msgid "Elementals - APM"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/53/
-msgid ""
-"Cycle as many elementals as you can with [[Ultraviolet Ascendant||115581]] "
-"on board. The best way to do that is with [[Brann Bronzebeard||96786]], and "
-"then buying every [[Tavern Tempest||64077]], [[Windfall Tornado||116738]], "
-"[[Refreshing Anomaly||64042]], and [[Sellemental||64038]]. Golden [[Ichoron "
-"the Protector||115585]] is nice to shield your whole board, and [[Lantern "
-"Lava||122650]] can be used to copy an amazing elemental every turn."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/53/
-msgid "[[Brann Bronzebeard||96786]] + [[Ultraviolet Ascendant||115581]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/53/
-msgid "Cycle elementals to scale them"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Nagas - Spell Buff/End of Turn"
 msgstr ""
@@ -416,6 +394,28 @@ msgstr ""
 msgid "Cast Buffed Spells End of Turn"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/53/
+msgid "Elementals - APM"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/53/
+msgid ""
+"Cycle as many elementals as you can with [[Ultraviolet Ascendant||115581]] "
+"on board. The best way to do that is with [[Brann Bronzebeard||96786]], and "
+"then buying every [[Tavern Tempest||64077]], [[Windfall Tornado||116738]], "
+"[[Refreshing Anomaly||64042]], and [[Sellemental||64038]]. Golden [[Ichoron "
+"the Protector||115585]] is nice to shield your whole board, and [[Lantern "
+"Lava||122650]] can be used to copy an amazing elemental every turn."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/53/
+msgid "[[Brann Bronzebeard||96786]] + [[Ultraviolet Ascendant||115581]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/53/
+msgid "Cycle elementals to scale them"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/54/
 msgid "Rally Menagerie"
 msgstr ""
@@ -439,6 +439,34 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/54/
 msgid "Rally to scale different tribes"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Beasts - Goldrinn"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/12/
+msgid ""
+"[[Goldrinn, the Great Wolf||59955]] + [[Monstrous Macaw||62230]] and [[Titus"
+" Rivendare||97408]] gives a huge aura affect to all beasts you summon. "
+"Usually, you want to taunt and reborn the Goldrinn so the Macaw always procs"
+" it and it always dies. [[Lightfeather Screecher||122288]] is used to "
+"windfury the Macaw to get more Goldrinn procs. [[Mechanized Gift "
+"Horse||103682]] is the best summon beast to run in this comp."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/12/
+msgid ""
+"[[Goldrinn, the Great Wolf||59955]] + beast summons ([[Mechanized Gift "
+"Horse||103682]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Deathrattle Beasts Midgame ([[Bird Buddy||72055]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Scale summoned beasts in combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
@@ -470,34 +498,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Bounties generate gold and stats"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/12/
-msgid "Beasts - Goldrinn"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/12/
-msgid ""
-"[[Goldrinn, the Great Wolf||59955]] + [[Monstrous Macaw||62230]] and [[Titus"
-" Rivendare||97408]] gives a huge aura affect to all beasts you summon. "
-"Usually, you want to taunt and reborn the Goldrinn so the Macaw always procs"
-" it and it always dies. [[Lightfeather Screecher||122288]] is used to "
-"windfury the Macaw to get more Goldrinn procs. [[Mechanized Gift "
-"Horse||103682]] is the best summon beast to run in this comp."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/12/
-msgid ""
-"[[Goldrinn, the Great Wolf||59955]] + beast summons ([[Mechanized Gift "
-"Horse||103682]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/12/
-msgid "Deathrattle Beasts Midgame ([[Bird Buddy||72055]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/12/
-msgid "Scale summoned beasts in combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/14/
