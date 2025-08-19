@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-15 01:40+0000\n"
-"PO-Revision-Date: 2025-08-15 12:40\n"
+"POT-Creation-Date: 2025-08-19 01:40+0000\n"
+"PO-Revision-Date: 2025-08-19 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -458,16 +458,16 @@ msgid "Join our Discord server"
 msgstr "Entre no nosso Discord"
 
 #: templates/footer.html:31
-msgid "Follow us on Twitter"
-msgstr "Siga-nos no Twitter"
+msgid "Follow us on X"
+msgstr ""
 
 #: templates/footer.html:37
-msgid "Like us on Facebook"
-msgstr "Curta no Facebook"
-
-#: templates/footer.html:43
 msgid "Follow us on Instagram"
 msgstr ""
+
+#: templates/footer.html:43
+msgid "Like us on Facebook"
+msgstr "Curta no Facebook"
 
 #: templates/footer.html:55
 msgid "Not affiliated with Blizzard Entertainment."
@@ -479,16 +479,17 @@ msgstr "Não vinculado com Blizzard Entertainment."
 msgid "Downloads"
 msgstr "Downloads"
 
-#: templates/footer.html:64 web/views/arenasmith.py:13
-msgid "Arenasmith"
-msgstr ""
+#: templates/footer.html:64 templates/navigation.html:200
+#: web/views/premium.py:31
+msgid "Premium"
+msgstr "Premium"
 
 #: templates/footer.html:65
-msgid "Get Premium"
+msgid "Get Tier7"
 msgstr ""
 
-#: templates/footer.html:66
-msgid "Get Tier7"
+#: templates/footer.html:66 web/views/arenasmith.py:13
+msgid "Arenasmith"
 msgstr ""
 
 #: templates/footer.html:74
@@ -619,10 +620,6 @@ msgstr "Decks"
 #: templates/navigation.html:193 web/views/cards.py:37 web/views/cards.py:165
 msgid "Cards"
 msgstr "Cartas"
-
-#: templates/navigation.html:200 web/views/premium.py:31
-msgid "Premium"
-msgstr "Premium"
 
 #: templates/navigation.html:209
 msgid "NEW"
