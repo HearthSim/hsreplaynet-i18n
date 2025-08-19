@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-18 01:40+0000\n"
+"POT-Creation-Date: 2025-08-19 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -506,15 +506,15 @@ msgid "Join our Discord server"
 msgstr ""
 
 #: templates/footer.html:31
-msgid "Follow us on Twitter"
+msgid "Follow us on X"
 msgstr ""
 
 #: templates/footer.html:37
-msgid "Like us on Facebook"
+msgid "Follow us on Instagram"
 msgstr ""
 
 #: templates/footer.html:43
-msgid "Follow us on Instagram"
+msgid "Like us on Facebook"
 msgstr ""
 
 #: templates/footer.html:55
@@ -527,16 +527,17 @@ msgstr ""
 msgid "Downloads"
 msgstr ""
 
-#: templates/footer.html:64 web/views/arenasmith.py:13
-msgid "Arenasmith"
+#: templates/footer.html:64 templates/navigation.html:200
+#: web/views/premium.py:31
+msgid "Premium"
 msgstr ""
 
 #: templates/footer.html:65
-msgid "Get Premium"
+msgid "Get Tier7"
 msgstr ""
 
-#: templates/footer.html:66
-msgid "Get Tier7"
+#: templates/footer.html:66 web/views/arenasmith.py:13
+msgid "Arenasmith"
 msgstr ""
 
 #: templates/footer.html:74
@@ -666,10 +667,6 @@ msgstr ""
 
 #: templates/navigation.html:193 web/views/cards.py:37 web/views/cards.py:165
 msgid "Cards"
-msgstr ""
-
-#: templates/navigation.html:200 web/views/premium.py:31
-msgid "Premium"
 msgstr ""
 
 #: templates/navigation.html:209
