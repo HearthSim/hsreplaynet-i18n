@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-20 01:40\n"
+"POT-Creation-Date: 2025-08-21 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -308,6 +308,42 @@ msgstr ""
 msgid "Spend gold to cast blood gems"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Quilboar - Smuggler"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/60/
+msgid ""
+"*NEEDS BEASTS OR DRAGONS*  Before you start proccing [[Gem "
+"Smuggler||101594]], you want to scale your gems as much as possible, "
+"typically with [[Prickly Piper||98946]] and also proccing [[Moon bacon "
+"Jazzer||98930]] as much as possible. After you're done scaling, you can "
+"switch to proccing [[Gem Smuggler||101594]]. The main variation of this comp"
+" uses [[Rylak Metalhead||98829]] to proc the [[Gem Smuggler||101594]]. Then,"
+" reborn on the Rylak, [[Monstrous Macaw||62230]], [[Brann "
+"Bronzebeard||96786]], and [[Titus Rivendare||97408]] all act as multipliers "
+"to the Rylak effect. If you have golden Rylak, then you can try to proc both"
+" Jazzer and Smuggler. You can choose to add in [[Tarecgosa||72062]] to keep "
+"gems or [[Corrupted Bristler||120033]] for board strength. The second "
+"variation is to use [[Greenskeeper||113930]] to proc the gem smuggler. You "
+"can then use [[Persistent Poet||108463]] so your [[Greenskeeper||113930]] "
+"can keep gems. That variation doesn't need Titus."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/60/
+msgid ""
+"[[Brann Bronzebeard||96786]] + Gem Scaling ([[Prickly Piper||98946]]) + "
+"[[Gem Smuggler||101594]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Gem scaling + QB Midgame ([[Prickly Piper||98946]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Play gems during combat"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
 msgstr ""
@@ -418,28 +454,6 @@ msgstr ""
 msgid "Buff Summons using Spells."
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/53/
-msgid "Elementals - APM"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/53/
-msgid ""
-"Cycle as many elementals as you can with [[Ultraviolet Ascendant||115581]] "
-"on board. The best way to do that is with [[Brann Bronzebeard||96786]], and "
-"then buying every [[Tavern Tempest||64077]], [[Sellemental||64038]], and "
-"[[Refreshing Anomaly||64042]]. Golden [[Ichoron the Protector||115585]] is "
-"nice to shield your whole board, and [[Lantern Lava||122650]] can be used to"
-" copy an amazing elemental every turn."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/53/
-msgid "[[Brann Bronzebeard||96786]] + [[Ultraviolet Ascendant||115581]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/53/
-msgid "Cycle elementals to scale them"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Nagas - Spell Buff/End of Turn"
 msgstr ""
@@ -469,6 +483,28 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Cast Buffed Spells End of Turn"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/53/
+msgid "Elementals - APM"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/53/
+msgid ""
+"Cycle as many elementals as you can with [[Ultraviolet Ascendant||115581]] "
+"on board. The best way to do that is with [[Brann Bronzebeard||96786]], and "
+"then buying every [[Tavern Tempest||64077]], [[Sellemental||64038]], and "
+"[[Refreshing Anomaly||64042]]. Golden [[Ichoron the Protector||115585]] is "
+"nice to shield your whole board, and [[Lantern Lava||122650]] can be used to"
+" copy an amazing elemental every turn."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/53/
+msgid "[[Brann Bronzebeard||96786]] + [[Ultraviolet Ascendant||115581]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/53/
+msgid "Cycle elementals to scale them"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/54/
