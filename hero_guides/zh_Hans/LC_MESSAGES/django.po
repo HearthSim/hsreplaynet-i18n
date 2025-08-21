@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-20T01:40:24.736839\n"
+"POT-Creation-Date: 2025-08-21T01:40:24.538317\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-08-20 12:40\n"
+"PO-Revision-Date: 2025-08-21 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/118509/ Hero id 118509 | Guide id
 #: 697
@@ -82,6 +82,11 @@ msgstr "这个英雄技能主要有利于复仇的随从/饰品，比如 [[Death
 msgid "Your hero power will save some HP, otherwise play normally."
 msgstr "你的英雄技能会帮你少掉点血，否则就正常玩。"
 
+#: https://hsreplay.net/battlegrounds/heroes/101345/ Hero id 101345 | Guide id
+#: 424
+msgid "Most of the time, go 3 on 3. Then, hero power on turns 4 and 5. The tier 3 buddies you're looking for are the value generating buddies, the one that gives you a minion every turn. There are quite a bit of them."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/61910/ Hero id 61910 | Guide id
 #: 86
 msgid "The more summons your board has, the more attacks will happen. Value cards that summon such as [[Manasaber||98831]] or [[Icky Imp||74910]] in the earlygame."
@@ -96,11 +101,6 @@ msgstr "该英雄最适合在野兽流派中使用，以 [[Goldrinn, the Great W
 #: 452
 msgid "Buy most pirates in the early game to fill out your board fast so you can level and maybe play pirates but maybe play something else."
 msgstr "在游戏初期尽可能多地购买海盗卡牌，快速填满你的棋盘，这样你就可以升级，也许可以玩海盗流派，但也可以玩其他的。"
-
-#: https://hsreplay.net/battlegrounds/heroes/101345/ Hero id 101345 | Guide id
-#: 424
-msgid "The best Tier 2 Buddy on ETC is [[Veranus, Stormlord's Mount]]. [[Dagwick Stickytoe]] is also good when paired with [[Aureate Laureate||119996]]. Finally, the best tier 3 buddies are the value generating ones early on. Skip hero power turn 7 onwards in order to search for a direction."
-msgstr "精英牛头人酋长发现的最好的二级伙伴是[[维拉努斯，风暴之王的坐骑]]。[[达戈维克·黏趾]]与[[夺金健将||119996]] 的组合也很棒。最后，最好的三级伙伴是在早期就能产生资源的伙伴。从第 7 回合开始不再使用英雄技能，以便寻找方向。"
 
 #: https://hsreplay.net/battlegrounds/heroes/89293/ Hero id 89293 | Guide id
 #: 345
