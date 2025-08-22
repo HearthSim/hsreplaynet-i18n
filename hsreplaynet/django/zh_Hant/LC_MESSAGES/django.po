@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-19 01:40+0000\n"
-"PO-Revision-Date: 2025-08-19 12:40\n"
+"POT-Creation-Date: 2025-08-21 17:46+0000\n"
+"PO-Revision-Date: 2025-08-22 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -576,7 +576,7 @@ msgid "Parties"
 msgstr "隊伍"
 
 #: templates/navigation.html:78 web/views/battlegrounds.py:147
-#: web/views/battlegrounds.py:426
+#: web/views/battlegrounds.py:481
 msgid "Heroes"
 msgstr "英雄"
 
@@ -584,7 +584,7 @@ msgstr "英雄"
 msgid "Trinkets"
 msgstr ""
 
-#: templates/navigation.html:103 web/views/battlegrounds.py:360
+#: templates/navigation.html:103 web/views/battlegrounds.py:415
 msgid "Darkmoon Prizes"
 msgstr "暗月獎品"
 
@@ -870,8 +870,9 @@ msgstr ""
 
 #: web/views/battlegrounds.py:127 web/views/battlegrounds.py:146
 #: web/views/battlegrounds.py:161 web/views/battlegrounds.py:226
-#: web/views/battlegrounds.py:293 web/views/battlegrounds.py:343
-#: web/views/battlegrounds.py:359 web/views/battlegrounds.py:417
+#: web/views/battlegrounds.py:293 web/views/battlegrounds.py:348
+#: web/views/battlegrounds.py:398 web/views/battlegrounds.py:414
+#: web/views/battlegrounds.py:472
 msgid "Battlegrounds"
 msgstr "英雄戰場"
 
@@ -903,72 +904,84 @@ msgstr ""
 msgid "Explore our Battlegrounds Anomalies List and learn which anomalies are more common - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:340
+#: web/views/battlegrounds.py:341
+msgid "Battlegrounds Quests"
+msgstr ""
+
+#: web/views/battlegrounds.py:343
+msgid "Explore our Battlegrounds Quests List and learn which quests are more common - powered by data from millions of games."
+msgstr ""
+
+#: web/views/battlegrounds.py:349
+msgid "Quests"
+msgstr ""
+
+#: web/views/battlegrounds.py:395
 msgid "Battlegrounds Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:344
+#: web/views/battlegrounds.py:399
 msgid "Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:356
+#: web/views/battlegrounds.py:411
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr ""
 
-#: web/views/battlegrounds.py:365
+#: web/views/battlegrounds.py:420
 msgid "Battlegrounds Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:386
+#: web/views/battlegrounds.py:441
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:513
+#: web/views/battlegrounds.py:568
 msgid "Battlegrounds Duos Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:521
+#: web/views/battlegrounds.py:576
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:527 web/views/battlegrounds.py:554
+#: web/views/battlegrounds.py:582 web/views/battlegrounds.py:609
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:546
+#: web/views/battlegrounds.py:601
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:585
+#: web/views/battlegrounds.py:640
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:591 web/views/battlegrounds.py:621
+#: web/views/battlegrounds.py:646 web/views/battlegrounds.py:676
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:614
+#: web/views/battlegrounds.py:669
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:616
+#: web/views/battlegrounds.py:671
 msgid "No matching composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:666
+#: web/views/battlegrounds.py:721
 msgid "Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:685
+#: web/views/battlegrounds.py:740
 msgid "No matching comp found."
 msgstr ""
 
-#: web/views/battlegrounds.py:692
+#: web/views/battlegrounds.py:747
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr ""
 
-#: web/views/battlegrounds.py:775
+#: web/views/battlegrounds.py:830
 msgid "My Battlegrounds Stats"
 msgstr ""
 
