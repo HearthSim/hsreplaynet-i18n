@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-08-21 17:46+0000\n"
-"PO-Revision-Date: 2025-08-22 00:40\n"
+"PO-Revision-Date: 2025-08-22 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -471,7 +471,7 @@ msgstr "加入我们的Discord服务器"
 
 #: templates/footer.html:31
 msgid "Follow us on X"
-msgstr ""
+msgstr "在 X 上关注我们"
 
 #: templates/footer.html:37
 msgid "Follow us on Instagram"
@@ -915,15 +915,15 @@ msgstr "打开我们的酒馆战棋畸变梯队表，查看它们在百万场对
 
 #: web/views/battlegrounds.py:341
 msgid "Battlegrounds Quests"
-msgstr ""
+msgstr "酒馆战棋任务"
 
 #: web/views/battlegrounds.py:343
 msgid "Explore our Battlegrounds Quests List and learn which quests are more common - powered by data from millions of games."
-msgstr ""
+msgstr "打开我们的酒馆战棋任务梯队表，查看它们在百万场对局中的表现。"
 
 #: web/views/battlegrounds.py:349
 msgid "Quests"
-msgstr ""
+msgstr "任务"
 
 #: web/views/battlegrounds.py:395
 msgid "Battlegrounds Duos Heroes"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-21 01:40\n"
+"POT-Creation-Date: 2025-08-22 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-TW\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-21 12:40\n"
+"PO-Revision-Date: 2025-08-22 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/48/
 msgid "Beasts - StegoBACK"
@@ -202,6 +202,28 @@ msgstr ""
 msgid "Demons deal damage to buff board"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Demons - Shop Buff/Spells"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Use early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[False Implicator||108115]] to eat a big shop. If you have an [[Insatiable Urzul||72060]], you should also buy every demon once you have at least 100/100 in your shop. \n\n"
+"Titus and Macaw can help with you staff generation."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Early [[Felfire Conjurer||120299]] + [[Shadowdancer||120662]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Felfire Conjurer||120299]]\n"
+"[[Shadowdancer||120662]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Scale shop with spells and consume shop"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/59/
 msgid "Quilboar - Darkgaze"
 msgstr ""
@@ -240,28 +262,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/60/
 msgid "Play gems during combat"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Demons - Shop Buff/Spells"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Use early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[False Implicator||108115]] to eat a big shop. If you have an [[Insatiable Urzul||72060]], you should also buy every demon once you have at least 100/100 in your shop. \n\n"
-"Titus and Macaw can help with you staff generation."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Early [[Felfire Conjurer||120299]] + [[Shadowdancer||120662]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
-msgid "[[Felfire Conjurer||120299]]\n"
-"[[Shadowdancer||120662]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Scale shop with spells and consume shop"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/2/
