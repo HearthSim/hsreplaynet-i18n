@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-22 01:40\n"
+"POT-Creation-Date: 2025-08-23 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-22 12:40\n"
+"PO-Revision-Date: 2025-08-23 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/48/
 msgid "Beasts - StegoBACK"
@@ -207,30 +207,6 @@ msgstr "恶魔中期过度([[Soul Juggler||59660]])\n"
 msgid "Demons deal damage to buff board"
 msgstr "恶魔造成伤害来增强棋盘"
 
-#: name | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Demons - Shop Buff/Spells"
-msgstr "恶魔 - 商店Buff/法术"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Use early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[False Implicator||108115]] to eat a big shop. If you have an [[Insatiable Urzul||72060]], you should also buy every demon once you have at least 100/100 in your shop. \n\n"
-"Titus and Macaw can help with you staff generation."
-msgstr "早期用 [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] 来提升你的酒馆法术属性。随后从 [[Shadowdancer||120662]] 获得的富足之杖将获得极大强化，这使得你的 [[False Implicator||108115]] 能够造吞噬巨大的酒馆中的随从。如果你拥有[[Insatiable Urzul||72060]]，那么在你商店中的随从达到至少100/100后你应该购买每一个恶魔。\n\n"
-"提图斯·瑞文戴尔和鹦鹉可以帮助你生成更多富足之杖。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Early [[Felfire Conjurer||120299]] + [[Shadowdancer||120662]]"
-msgstr "早期[[Felfire Conjurer||120299]] + [[Shadowdancer||120662]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
-msgid "[[Felfire Conjurer||120299]]\n"
-"[[Shadowdancer||120662]]"
-msgstr "[[Felfire Conjurer||120299]]\n"
-"[[Shadowdancer||120662]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Scale shop with spells and consume shop"
-msgstr "用法术使商店成长并吞噬商店"
-
 #: name | https://hsreplay.net/battlegrounds/comps/59/
 msgid "Quilboar - Darkgaze"
 msgstr "野猪人 - 暗视"
@@ -270,6 +246,30 @@ msgstr "宝石成长 + 野猪人中期过度 ([[Prickly Piper||98946]])"
 #: summary | https://hsreplay.net/battlegrounds/comps/60/
 msgid "Play gems during combat"
 msgstr "战斗中施放鲜血宝石"
+
+#: name | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Demons - Shop Buff/Spells"
+msgstr "恶魔 - 商店Buff/法术"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Use early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] to scale up your spells. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed, which allows your [[False Implicator||108115]] to eat a big shop. If you have an [[Insatiable Urzul||72060]], you should also buy every demon once you have at least 100/100 in your shop. \n\n"
+"Titus and Macaw can help with you staff generation."
+msgstr "早期用 [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] 来提升你的酒馆法术属性。随后从 [[Shadowdancer||120662]] 获得的富足之杖将获得极大强化，这使得你的 [[False Implicator||108115]] 能够造吞噬巨大的酒馆中的随从。如果你拥有[[Insatiable Urzul||72060]]，那么在你商店中的随从达到至少100/100后你应该购买每一个恶魔。\n\n"
+"提图斯·瑞文戴尔和鹦鹉可以帮助你生成更多富足之杖。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Early [[Felfire Conjurer||120299]] + [[Shadowdancer||120662]]"
+msgstr "早期[[Felfire Conjurer||120299]] + [[Shadowdancer||120662]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Felfire Conjurer||120299]]\n"
+"[[Shadowdancer||120662]]"
+msgstr "[[Felfire Conjurer||120299]]\n"
+"[[Shadowdancer||120662]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Scale shop with spells and consume shop"
+msgstr "用法术使商店成长并吞噬商店"
 
 #: name | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Mechs - Magnetics"

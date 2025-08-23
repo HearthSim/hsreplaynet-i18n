@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-21 17:46+0000\n"
-"PO-Revision-Date: 2025-08-22 00:40\n"
+"POT-Creation-Date: 2025-08-23 01:40+0000\n"
+"PO-Revision-Date: 2025-08-23 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -851,6 +851,18 @@ msgstr ""
 
 #: web/views/arena.py:41
 msgid "12 Win Arena Decks"
+msgstr ""
+
+#: web/views/arena.py:65
+msgid "Hearthstone Arena Cards"
+msgstr ""
+
+#: web/views/arena.py:68
+msgid "Explore the cards available when drafting in Hearthstone Arena and Underground Arena for the current Arena Season."
+msgstr ""
+
+#: web/views/arena.py:72
+msgid "Arena Cards"
 msgstr ""
 
 #: web/views/arenasmith.py:9
