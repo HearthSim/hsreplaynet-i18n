@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-23 01:40\n"
+"POT-Creation-Date: 2025-08-24 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -15,27 +15,7 @@ msgstr ""
 "X-Crowdin-Language: ko\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-23 12:40\n"
-
-#: name | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Beasts - StegoBACK"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Initially attack with your windfury [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or Moduled [[Mechanized Gift Horse||103682]] to soak some attacks. Then, the next things to attack should be [[Monstrous Macaw||62230]] that procs [[Manasaber||98831]], because this first fills out the board with taunts and then adds the rally to the whole board. Do that with as many Macaws as possible. Every 4 things that die will give your board insane rallys because your Poultron's will attack and swing with all the combined rallies. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your taunts to soak more attacks, and then reborn your Poultrons."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/48/
-msgid "[[Stomping Stegodon||122286]] + Beasts ([[Manasaber||98831]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Beast midgame ([[Bird Buddy||72055]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Exponentially scale stats with rally"
-msgstr ""
+"PO-Revision-Date: 2025-08-24 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/50/
 msgid "Dragons - Charmwing"
@@ -56,26 +36,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/50/
 msgid "Scale Dragons with Rally"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/56/
-msgid "Murlocs - Magicfin"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/56/
-msgid "This comp relies on teaching a great spell to Magicfin Apprentice and proccing it over and over again. One viable spell to teach it is [[Temperature Shift||117670]] for baller scaling. The much more common route is to teach it [[Shiny ring||109230]] and [[Time management||117573]] with some spell scaling, which comes from [[Felfire Conjurer||120299]] or cycling [[Shoalfin Mystic||120215]]. The Magicfin quest is also super good at enabling this comp. [[Flotsam Flinger||122279]] is a must to proc these spells every turn, with its effect amplified by [[Brann Bronzebeard||96786]]."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/56/
-msgid "[[Flotsam Flinger||122279]] + [[Magicfin Mycologist||122277]] or Magicfin quest"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/56/
-msgid "[[Magicfin Mycologist||122277]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/56/
-msgid "Teach Murlocs spells and proc them"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/21/
@@ -161,6 +121,26 @@ msgstr ""
 msgid "Dump huge stats onto Elementals"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/56/
+msgid "Murlocs - Magicfin"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/56/
+msgid "This comp relies on teaching a great spell to Magicfin Apprentice and proccing it over and over again. One viable spell to teach it is [[Temperature Shift||117670]] for baller scaling. The much more common route is to teach it [[Shiny ring||109230]] and [[Time management||117573]] with some spell scaling, which comes from [[Felfire Conjurer||120299]] or cycling [[Shoalfin Mystic||120215]]. The Magicfin quest is also super good at enabling this comp. [[Flotsam Flinger||122279]] is a must to proc these spells every turn, with its effect amplified by [[Brann Bronzebeard||96786]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/56/
+msgid "[[Flotsam Flinger||122279]] + [[Magicfin Mycologist||122277]] or Magicfin quest"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/56/
+msgid "[[Magicfin Mycologist||122277]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/56/
+msgid "Teach Murlocs spells and proc them"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/55/
 msgid "Nagas - Spell Casting"
 msgstr ""
@@ -202,26 +182,6 @@ msgstr ""
 msgid "Demons deal damage to buff board"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/59/
-msgid "Quilboar - Darkgaze"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/59/
-msgid "After you have [[Darkgaze Elder||80756]] and buffed gems ([[Prickly Piper||98946]]), your objective is to spend as much gold as possible. This is usually done if you have [[Brann Bronzebeard||96786]], and you cycle every free battlecry such as [[Reef Explorer||80754]] and [[Tavern Tempest||64077]]. You also want to cycle every [[Gem Smuggler||101594]] and [[Moon bacon Jazzer||98930]] and [[Fearless foodie||113154]] to help scale. Finally, use [[Gem Confiscation||110642]] to transfer as many gems as possible to your [[Corrupted Bristler||120033]]."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/59/
-msgid "[[Darkgaze Elder||80756]] + scale gems ([[Prickly Piper||98946]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/59/
-msgid "[[Prickly Piper||98946]] + Quilboar Midgame ([[Roadboar||70157]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/59/
-msgid "Spend gold to cast blood gems"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/60/
 msgid "Quilboar - Smuggler"
 msgstr ""
@@ -240,6 +200,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/60/
 msgid "Play gems during combat"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/59/
+msgid "Quilboar - Darkgaze"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/59/
+msgid "After you have [[Darkgaze Elder||80756]] and buffed gems ([[Prickly Piper||98946]]), your objective is to spend as much gold as possible. This is usually done if you have [[Brann Bronzebeard||96786]], and you cycle every free battlecry such as [[Reef Explorer||80754]] and [[Tavern Tempest||64077]]. You also want to cycle every [[Gem Smuggler||101594]] and [[Moon bacon Jazzer||98930]] and [[Fearless foodie||113154]] to help scale. Finally, use [[Gem Confiscation||110642]] to transfer as many gems as possible to your [[Corrupted Bristler||120033]]. Macaw proccing the Bristler is extremely powerful."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/59/
+msgid "[[Darkgaze Elder||80756]] + scale gems ([[Prickly Piper||98946]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/59/
+msgid "[[Prickly Piper||98946]] + Quilboar Midgame ([[Roadboar||70157]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/59/
+msgid "Spend gold to cast blood gems"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
@@ -283,6 +263,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Magnetize Mechs and scale them."
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Beasts - StegoBACK"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Initially attack with your windfury [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or Moduled [[Mechanized Gift Horse||103682]] to soak some attacks. Then, the next things to attack should be [[Monstrous Macaw||62230]] that procs [[Manasaber||98831]], because this first fills out the board with taunts and then adds the rally to the whole board. Do that with as many Macaws as possible. Every 4 things that die will give your board insane rallys because your Poultron's will attack and swing with all the combined rallies. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your taunts to soak more attacks, and then reborn your Poultrons."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/48/
+msgid "[[Stomping Stegodon||122286]] + Beasts ([[Manasaber||98831]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Beast midgame ([[Bird Buddy||72055]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Exponentially scale stats with rally"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
@@ -412,12 +412,11 @@ msgid "Have a [[Bream Counter||98509]] in your hand that scales every time you p
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
-msgid "[[Brann Bronzebeard||96786]] + [[Primalfin Lookout||60028]] + Battlecry Proccer ([[Rylak Metalhead||98829]])"
+msgid "[[Brann Bronzebeard||96786]] + [[Primalfin Lookout||60028]] + Murloc Scaler ([[Primitive Painter||122281]]/[[Mrglin' Burglar||114391]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/34/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"Murloc Midgame ([[Bream Counter||98509]] + [[Bassgill||98926]])"
+msgid "[[Brann Bronzebeard||96786]]"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/34/

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-23 01:40\n"
+"POT-Creation-Date: 2025-08-24 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,27 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-23 12:40\n"
-
-#: name | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Beasts - StegoBACK"
-msgstr "野兽 - 剑龙"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Initially attack with your windfury [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or Moduled [[Mechanized Gift Horse||103682]] to soak some attacks. Then, the next things to attack should be [[Monstrous Macaw||62230]] that procs [[Manasaber||98831]], because this first fills out the board with taunts and then adds the rally to the whole board. Do that with as many Macaws as possible. Every 4 things that die will give your board insane rallys because your Poultron's will attack and swing with all the combined rallies. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your taunts to soak more attacks, and then reborn your Poultrons."
-msgstr "首先用风怒的 [[Stomping Stegodon||122286]] 发起攻击。确保你有一个嘲讽的 [[Sewer Rat||70790]] 或贴了吵吵模组的 [[Mechanized Gift Horse||103682]] 来承受一些攻击。接下来应优先攻击的是 [[Monstrous Macaw||62230]] 来触发 [[Manasaber||98831]] 的亡语，因为这样就能用嘲讽随从填满棋盘，随后为整个棋盘提供进击效果。尽可能多地使用鹦鹉进行此操作。每当有4个随从死亡时，你的棋盘将获得疯狂的进击，因为你的P-0UL-TR-0N护巢机将利用所有累积的进击进行攻击。千万不要复生你的剑龙！！使用 [[Sprightly Scarab||108909]] 时，你需要首先复生你的嘲讽单位吸收更多伤害。然后再对你的P-0UL-TR-0N护巢机贴上复生。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/48/
-msgid "[[Stomping Stegodon||122286]] + Beasts ([[Manasaber||98831]])"
-msgstr "[[Stomping Stegodon||122286]] + 野兽 ([[Manasaber||98831]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Beast midgame ([[Bird Buddy||72055]])"
-msgstr "野兽中期过度 ([[Bird Buddy||72055]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Exponentially scale stats with rally"
-msgstr "通过进击实现数值的指数级增长"
+"PO-Revision-Date: 2025-08-24 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/50/
 msgid "Dragons - Charmwing"
@@ -58,26 +38,6 @@ msgstr "龙中期过度 ([[Twilight Watcher||122442]])\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/50/
 msgid "Scale Dragons with Rally"
 msgstr "通过进击使龙成长"
-
-#: name | https://hsreplay.net/battlegrounds/comps/56/
-msgid "Murlocs - Magicfin"
-msgstr "鱼人 - 小学生"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/56/
-msgid "This comp relies on teaching a great spell to Magicfin Apprentice and proccing it over and over again. One viable spell to teach it is [[Temperature Shift||117670]] for baller scaling. The much more common route is to teach it [[Shiny ring||109230]] and [[Time management||117573]] with some spell scaling, which comes from [[Felfire Conjurer||120299]] or cycling [[Shoalfin Mystic||120215]]. The Magicfin quest is also super good at enabling this comp. [[Flotsam Flinger||122279]] is a must to proc these spells every turn, with its effect amplified by [[Brann Bronzebeard||96786]]."
-msgstr "这个流派依赖于教会魔鳍学徒一个强大的法术并不断触发它。一个可行的法术是[[Temperature Shift||117670]]，用于提升投球手的数值。更常见的路线是教它 [[Shiny ring||109230]] 和 [[Time management||117573]]，并通过 [[Felfire Conjurer||120299]] 或循环使用 [[Shoalfin Mystic||120215]] 来获得法术加成。魔鳍任务也非常适合这个流派。[[Flotsam Flinger||122279]] 是每回合触发这些法术的必备卡牌，其效果可被[[Brann Bronzebeard||96786]] 进一步强化。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/56/
-msgid "[[Flotsam Flinger||122279]] + [[Magicfin Mycologist||122277]] or Magicfin quest"
-msgstr "[[Flotsam Flinger||122279]] + [[Magicfin Mycologist||122277]] 或者魔鳍任务"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/56/
-msgid "[[Magicfin Mycologist||122277]]"
-msgstr "[[Magicfin Mycologist||122277]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/56/
-msgid "Teach Murlocs spells and proc them"
-msgstr "教会鱼人法术并触发它们"
 
 #: name | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Mechs - Divine Shield"
@@ -165,6 +125,26 @@ msgstr "[[Brann Bronzebeard||96786]]\n"
 msgid "Dump huge stats onto Elementals"
 msgstr "将大量属性值赋予元素"
 
+#: name | https://hsreplay.net/battlegrounds/comps/56/
+msgid "Murlocs - Magicfin"
+msgstr "鱼人 - 小学生"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/56/
+msgid "This comp relies on teaching a great spell to Magicfin Apprentice and proccing it over and over again. One viable spell to teach it is [[Temperature Shift||117670]] for baller scaling. The much more common route is to teach it [[Shiny ring||109230]] and [[Time management||117573]] with some spell scaling, which comes from [[Felfire Conjurer||120299]] or cycling [[Shoalfin Mystic||120215]]. The Magicfin quest is also super good at enabling this comp. [[Flotsam Flinger||122279]] is a must to proc these spells every turn, with its effect amplified by [[Brann Bronzebeard||96786]]."
+msgstr "这个流派依赖于教会魔鳍学徒一个强大的法术并不断触发它。一个可行的法术是[[Temperature Shift||117670]]，用于提升投球手的数值。更常见的路线是教它 [[Shiny ring||109230]] 和 [[Time management||117573]]，并通过 [[Felfire Conjurer||120299]] 或循环使用 [[Shoalfin Mystic||120215]] 来获得法术加成。魔鳍任务也非常适合这个流派。[[Flotsam Flinger||122279]] 是每回合触发这些法术的必备卡牌，其效果可被[[Brann Bronzebeard||96786]] 进一步强化。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/56/
+msgid "[[Flotsam Flinger||122279]] + [[Magicfin Mycologist||122277]] or Magicfin quest"
+msgstr "[[Flotsam Flinger||122279]] + [[Magicfin Mycologist||122277]] 或者魔鳍任务"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/56/
+msgid "[[Magicfin Mycologist||122277]]"
+msgstr "[[Magicfin Mycologist||122277]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/56/
+msgid "Teach Murlocs spells and proc them"
+msgstr "教会鱼人法术并触发它们"
+
 #: name | https://hsreplay.net/battlegrounds/comps/55/
 msgid "Nagas - Spell Casting"
 msgstr "纳迦 - 法术施放"
@@ -207,26 +187,6 @@ msgstr "恶魔中期过度([[Soul Juggler||59660]])\n"
 msgid "Demons deal damage to buff board"
 msgstr "恶魔造成伤害来增强棋盘"
 
-#: name | https://hsreplay.net/battlegrounds/comps/59/
-msgid "Quilboar - Darkgaze"
-msgstr "野猪人 - 暗视"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/59/
-msgid "After you have [[Darkgaze Elder||80756]] and buffed gems ([[Prickly Piper||98946]]), your objective is to spend as much gold as possible. This is usually done if you have [[Brann Bronzebeard||96786]], and you cycle every free battlecry such as [[Reef Explorer||80754]] and [[Tavern Tempest||64077]]. You also want to cycle every [[Gem Smuggler||101594]] and [[Moon bacon Jazzer||98930]] and [[Fearless foodie||113154]] to help scale. Finally, use [[Gem Confiscation||110642]] to transfer as many gems as possible to your [[Corrupted Bristler||120033]]."
-msgstr "在获得 [[Darkgaze Elder||80756]] 和强化宝石([[Prickly Piper||98946]])后，你的目标是尽可能多地花费铸币。通常情况下如果你拥有[[Brann Bronzebeard||96786]]，你会循环使用所有免费的战吼，例如 [[Reef Explorer||80754]] 和 [[Tavern Tempest||64077]]。你还需要循环使用所有 [[Gem Smuggler||101594]] 、[[Moon bacon Jazzer||98930]] 和[[Fearless foodie||113154]] 来提升宝石属性。最后，使用 [[Gem Confiscation||110642]] 尽可能多地将宝石转移给你的 [[Corrupted Bristler||120033]]。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/59/
-msgid "[[Darkgaze Elder||80756]] + scale gems ([[Prickly Piper||98946]])"
-msgstr "[[Darkgaze Elder||80756]] + 宝石成长 ([[Prickly Piper||98946]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/59/
-msgid "[[Prickly Piper||98946]] + Quilboar Midgame ([[Roadboar||70157]])"
-msgstr "[[Prickly Piper||98946]] + 野猪人中期过度 ([[Roadboar||70157]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/59/
-msgid "Spend gold to cast blood gems"
-msgstr "花费铸币施放鲜血宝石"
-
 #: name | https://hsreplay.net/battlegrounds/comps/60/
 msgid "Quilboar - Smuggler"
 msgstr "野猪人 - 走私商"
@@ -246,6 +206,26 @@ msgstr "宝石成长 + 野猪人中期过度 ([[Prickly Piper||98946]])"
 #: summary | https://hsreplay.net/battlegrounds/comps/60/
 msgid "Play gems during combat"
 msgstr "战斗中施放鲜血宝石"
+
+#: name | https://hsreplay.net/battlegrounds/comps/59/
+msgid "Quilboar - Darkgaze"
+msgstr "野猪人 - 暗视"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/59/
+msgid "After you have [[Darkgaze Elder||80756]] and buffed gems ([[Prickly Piper||98946]]), your objective is to spend as much gold as possible. This is usually done if you have [[Brann Bronzebeard||96786]], and you cycle every free battlecry such as [[Reef Explorer||80754]] and [[Tavern Tempest||64077]]. You also want to cycle every [[Gem Smuggler||101594]] and [[Moon bacon Jazzer||98930]] and [[Fearless foodie||113154]] to help scale. Finally, use [[Gem Confiscation||110642]] to transfer as many gems as possible to your [[Corrupted Bristler||120033]]. Macaw proccing the Bristler is extremely powerful."
+msgstr "在获得 [[Darkgaze Elder||80756]] 和强化宝石([[Prickly Piper||98946]])后，你的目标是尽可能多地花费铸币。通常情况下如果你拥有[[Brann Bronzebeard||96786]]，你会循环使用所有免费的战吼，例如 [[Reef Explorer||80754]] 和 [[Tavern Tempest||64077]]。你还需要循环使用所有 [[Gem Smuggler||101594]] 、[[Moon bacon Jazzer||98930]] 和[[Fearless foodie||113154]] 来提升宝石属性。最后，使用 [[Gem Confiscation||110642]] 尽可能多地将宝石转移给你的 [[Corrupted Bristler||120033]]。 鹦鹉触发棘刺野猪人时极为强大。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/59/
+msgid "[[Darkgaze Elder||80756]] + scale gems ([[Prickly Piper||98946]])"
+msgstr "[[Darkgaze Elder||80756]] + 宝石成长 ([[Prickly Piper||98946]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/59/
+msgid "[[Prickly Piper||98946]] + Quilboar Midgame ([[Roadboar||70157]])"
+msgstr "[[Prickly Piper||98946]] + 野猪人中期过度 ([[Roadboar||70157]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/59/
+msgid "Spend gold to cast blood gems"
+msgstr "花费铸币施放鲜血宝石"
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
@@ -292,6 +272,26 @@ msgstr "[[Rickety Repairbot||120027]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Magnetize Mechs and scale them."
 msgstr "给机械贴磁力并增强它们。"
+
+#: name | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Beasts - StegoBACK"
+msgstr "野兽 - 剑龙"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Initially attack with your windfury [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or Moduled [[Mechanized Gift Horse||103682]] to soak some attacks. Then, the next things to attack should be [[Monstrous Macaw||62230]] that procs [[Manasaber||98831]], because this first fills out the board with taunts and then adds the rally to the whole board. Do that with as many Macaws as possible. Every 4 things that die will give your board insane rallys because your Poultron's will attack and swing with all the combined rallies. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your taunts to soak more attacks, and then reborn your Poultrons."
+msgstr "首先用风怒的 [[Stomping Stegodon||122286]] 发起攻击。确保你有一个嘲讽的 [[Sewer Rat||70790]] 或贴了吵吵模组的 [[Mechanized Gift Horse||103682]] 来承受一些攻击。接下来应优先攻击的是 [[Monstrous Macaw||62230]] 来触发 [[Manasaber||98831]] 的亡语，因为这样就能用嘲讽随从填满棋盘，随后为整个棋盘提供进击效果。尽可能多地使用鹦鹉进行此操作。每当有4个随从死亡时，你的棋盘将获得疯狂的进击，因为你的P-0UL-TR-0N护巢机将利用所有累积的进击进行攻击。千万不要复生你的剑龙！！使用 [[Sprightly Scarab||108909]] 时，你需要首先复生你的嘲讽单位吸收更多伤害。然后再对你的P-0UL-TR-0N护巢机贴上复生。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/48/
+msgid "[[Stomping Stegodon||122286]] + Beasts ([[Manasaber||98831]])"
+msgstr "[[Stomping Stegodon||122286]] + 野兽 ([[Manasaber||98831]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Beast midgame ([[Bird Buddy||72055]])"
+msgstr "野兽中期过度 ([[Bird Buddy||72055]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Exponentially scale stats with rally"
+msgstr "通过进击实现数值的指数级增长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Venom Scam"
@@ -422,14 +422,12 @@ msgid "Have a [[Bream Counter||98509]] in your hand that scales every time you p
 msgstr "手牌中持有 [[Bream Counter||98509]] 不要打出，每次打出一个鱼人时该牌的数值会相应提升。鱼人蟊贼会进一步增强你手牌中的裁脍鱼人。接下来你需要尽可能多地生成鱼人。通常是通过循环使用塔德和 [[Primalfin Lookout||60028]] 来实现。玩这个流派的最佳方式是将 [[Primalfin lookout||60028]] 留在场上，并使用 [[Rylak Metalhead||98829]] 或 [[Greenskeeper||113930]] 来触发它。使用 [[Bassgill||98926]] 召唤你强化的裁脍鱼人，最后通过 [[Choral Mrrrglr||98948]] 获取它的身材数值。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
-msgid "[[Brann Bronzebeard||96786]] + [[Primalfin Lookout||60028]] + Battlecry Proccer ([[Rylak Metalhead||98829]])"
-msgstr "[[Brann Bronzebeard||96786]] + [[Primalfin Lookout||60028]] + 战吼触发 ([[Rylak Metalhead||98829]])"
+msgid "[[Brann Bronzebeard||96786]] + [[Primalfin Lookout||60028]] + Murloc Scaler ([[Primitive Painter||122281]]/[[Mrglin' Burglar||114391]])"
+msgstr "[[Brann Bronzebeard||96786]] + [[Primalfin Lookout||60028]] +鱼人成长 ([[Primitive Painter||122281]]/[[Mrglin' Burglar||114391]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/34/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"Murloc Midgame ([[Bream Counter||98509]] + [[Bassgill||98926]])"
-msgstr "[[Brann Bronzebeard||96786]]\n"
-"鱼人中期过度 ([[Bream Counter||98509]] + [[Bassgill||98926]])"
+msgid "[[Brann Bronzebeard||96786]]"
+msgstr "[[Brann Bronzebeard||96786]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Buff Huge Murloc in Hand"
