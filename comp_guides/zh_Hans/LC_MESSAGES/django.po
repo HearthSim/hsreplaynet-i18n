@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-24 01:40\n"
+"POT-Creation-Date: 2025-08-25 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-24 12:40\n"
+"PO-Revision-Date: 2025-08-25 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/50/
 msgid "Dragons - Charmwing"
@@ -165,6 +165,26 @@ msgstr "法术生成 ([[Coilskar Sapper||120565]])"
 msgid "Play spells to buff Nagas"
 msgstr "释放法术来增强纳迦"
 
+#: name | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Quilboar - Smuggler"
+msgstr "野猪人 - 走私商"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Before you start proccing [[Gem Smuggler||101594]], you want to scale your gems as much as possible, typically with [[Prickly Piper||98946]] and also proccing [[Moon bacon Jazzer||98930]] as much as possible. After you're done scaling, you can switch to proccing [[Gem Smuggler||101594]]. The main variation of this comp uses [[Rylak Metalhead||98829]] to proc the [[Gem Smuggler||101594]]. Then, reborn on the Rylak, [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], and [[Titus Rivendare||97408]] all act as multipliers to the Rylak effect. If you have golden Rylak, then you can try to proc both Jazzer and Smuggler. You can choose to add in [[Tarecgosa||72062]] to keep gems or [[Corrupted Bristler||120033]] for board strength. This comp also becomes S tier if you have the quest Snicker Snacks."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/60/
+msgid "[[Brann Bronzebeard||96786]] + Gem Scaling ([[Prickly Piper||98946]]) + [[Gem Smuggler||101594]]"
+msgstr "[[Brann Bronzebeard||96786]] + 宝石成长 ([[Prickly Piper||98946]]) + [[Gem Smuggler||101594]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Gem scaling + QB Midgame ([[Prickly Piper||98946]])"
+msgstr "宝石成长 + 野猪人中期过度 ([[Prickly Piper||98946]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Play gems during combat"
+msgstr "战斗中施放鲜血宝石"
+
 #: name | https://hsreplay.net/battlegrounds/comps/51/
 msgid "Demons - Damage"
 msgstr "恶魔 - 伤害"
@@ -186,26 +206,6 @@ msgstr "恶魔中期过度([[Soul Juggler||59660]])\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/51/
 msgid "Demons deal damage to buff board"
 msgstr "恶魔造成伤害来增强棋盘"
-
-#: name | https://hsreplay.net/battlegrounds/comps/60/
-msgid "Quilboar - Smuggler"
-msgstr "野猪人 - 走私商"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/60/
-msgid "*NEEDS BEASTS OR DRAGONS*  Before you start proccing [[Gem Smuggler||101594]], you want to scale your gems as much as possible, typically with [[Prickly Piper||98946]] and also proccing [[Moon bacon Jazzer||98930]] as much as possible. After you're done scaling, you can switch to proccing [[Gem Smuggler||101594]]. The main variation of this comp uses [[Rylak Metalhead||98829]] to proc the [[Gem Smuggler||101594]]. Then, reborn on the Rylak, [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], and [[Titus Rivendare||97408]] all act as multipliers to the Rylak effect. If you have golden Rylak, then you can try to proc both Jazzer and Smuggler. You can choose to add in [[Tarecgosa||72062]] to keep gems or [[Corrupted Bristler||120033]] for board strength. The second variation is to use [[Greenskeeper||113930]] to proc the gem smuggler. You can then use [[Persistent Poet||108463]] so your [[Greenskeeper||113930]] can keep gems. That variation doesn't need Titus."
-msgstr "*需要野兽或龙* 在开始触发 [[Gem Smuggler||101594]] 前你需要尽可能提升宝石的属性，通常使用 [[Prickly Piper||98946]]，并尽可能多地触发 [[Moon bacon Jazzer||98930]]。在完成宝石强化后你可以切换到触发 [[Gem Smuggler||101594]]。该流派的主要分支使用 [[Rylak Metalhead||98829]] 来触发 [[Gem Smuggler||101594]]。随后给双头飞龙复生，使用 [[Monstrous Macaw||62230]]、[[Brann Bronzebeard||96786]] 和 [[Titus Rivendare||97408]] 的组合倍增双头飞龙效果。如果你有金色双头飞龙，那么你可以尝试触发暗膘爵士乐手和宝石走私商。你可以选择添加[[Tarecgosa||72062]] 来保留宝石，或者使用 [[Corrupted Bristler||120033]] 来增加棋盘强度。第二种分支是使用 [[Greenskeeper||113930]] 来触发宝石走私商。然后你可以使用 [[Persistent Poet||108463]] 保留 [[Greenskeeper||113930]] 身上的宝石。这种分支不需要提图斯·瑞文戴尔。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/60/
-msgid "[[Brann Bronzebeard||96786]] + Gem Scaling ([[Prickly Piper||98946]]) + [[Gem Smuggler||101594]]"
-msgstr "[[Brann Bronzebeard||96786]] + 宝石成长 ([[Prickly Piper||98946]]) + [[Gem Smuggler||101594]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/60/
-msgid "Gem scaling + QB Midgame ([[Prickly Piper||98946]])"
-msgstr "宝石成长 + 野猪人中期过度 ([[Prickly Piper||98946]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/60/
-msgid "Play gems during combat"
-msgstr "战斗中施放鲜血宝石"
 
 #: name | https://hsreplay.net/battlegrounds/comps/59/
 msgid "Quilboar - Darkgaze"

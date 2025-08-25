@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-24 01:40\n"
+"POT-Creation-Date: 2025-08-25 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Italian\n"
 "Language: it\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-24 12:40\n"
+"PO-Revision-Date: 2025-08-25 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/50/
 msgid "Dragons - Charmwing"
@@ -161,6 +161,26 @@ msgstr ""
 msgid "Play spells to buff Nagas"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Quilboar - Smuggler"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Before you start proccing [[Gem Smuggler||101594]], you want to scale your gems as much as possible, typically with [[Prickly Piper||98946]] and also proccing [[Moon bacon Jazzer||98930]] as much as possible. After you're done scaling, you can switch to proccing [[Gem Smuggler||101594]]. The main variation of this comp uses [[Rylak Metalhead||98829]] to proc the [[Gem Smuggler||101594]]. Then, reborn on the Rylak, [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], and [[Titus Rivendare||97408]] all act as multipliers to the Rylak effect. If you have golden Rylak, then you can try to proc both Jazzer and Smuggler. You can choose to add in [[Tarecgosa||72062]] to keep gems or [[Corrupted Bristler||120033]] for board strength. This comp also becomes S tier if you have the quest Snicker Snacks."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/60/
+msgid "[[Brann Bronzebeard||96786]] + Gem Scaling ([[Prickly Piper||98946]]) + [[Gem Smuggler||101594]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Gem scaling + QB Midgame ([[Prickly Piper||98946]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Play gems during combat"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/51/
 msgid "Demons - Damage"
 msgstr ""
@@ -180,26 +200,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/51/
 msgid "Demons deal damage to buff board"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/60/
-msgid "Quilboar - Smuggler"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/60/
-msgid "*NEEDS BEASTS OR DRAGONS*  Before you start proccing [[Gem Smuggler||101594]], you want to scale your gems as much as possible, typically with [[Prickly Piper||98946]] and also proccing [[Moon bacon Jazzer||98930]] as much as possible. After you're done scaling, you can switch to proccing [[Gem Smuggler||101594]]. The main variation of this comp uses [[Rylak Metalhead||98829]] to proc the [[Gem Smuggler||101594]]. Then, reborn on the Rylak, [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], and [[Titus Rivendare||97408]] all act as multipliers to the Rylak effect. If you have golden Rylak, then you can try to proc both Jazzer and Smuggler. You can choose to add in [[Tarecgosa||72062]] to keep gems or [[Corrupted Bristler||120033]] for board strength. The second variation is to use [[Greenskeeper||113930]] to proc the gem smuggler. You can then use [[Persistent Poet||108463]] so your [[Greenskeeper||113930]] can keep gems. That variation doesn't need Titus."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/60/
-msgid "[[Brann Bronzebeard||96786]] + Gem Scaling ([[Prickly Piper||98946]]) + [[Gem Smuggler||101594]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/60/
-msgid "Gem scaling + QB Midgame ([[Prickly Piper||98946]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/60/
-msgid "Play gems during combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/59/
