@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-23 01:40+0000\n"
-"PO-Revision-Date: 2025-08-23 12:40\n"
+"POT-Creation-Date: 2025-08-26 01:40+0000\n"
+"PO-Revision-Date: 2025-08-26 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -62,7 +62,7 @@ msgstr "{input}不是{enum}的有效分類。"
 msgid "String value too large."
 msgstr ""
 
-#: api/serializers/battlegrounds.py:493
+#: api/serializers/battlegrounds.py:510
 #, python-brace-format
 msgid "{tribe_name} - {instance.name}"
 msgstr ""

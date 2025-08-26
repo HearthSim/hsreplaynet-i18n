@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-25 01:40\n"
+"POT-Creation-Date: 2025-08-26 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,29 +15,49 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-25 12:40\n"
+"PO-Revision-Date: 2025-08-26 12:40\n"
 
-#: name | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Dragons - Charmwing"
-msgstr "龙 - 魅惑之翼"
+#: name | https://hsreplay.net/battlegrounds/comps/34/
+msgid "Murlocs - APM"
+msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Your first priority is to scale a [[Charmwing||122086]]. This can be done with [[Persistent Poet||108463]] + [[Twilight Watcher||122442]]. It can also be done by buffing the HP of spells using [[Blue Whelp||122674]] or [[Felfire Conjurer||120299]] and then generating spells with [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]]. After you've scaled a Charmwing to at least 100 HP, windfury it and give your other dragons permanent HP with the help of Poet."
-msgstr "你的首要任务是提升[[Charmwing||122086]]的属性。可以通过 [[Persistent Poet||108463]] + [[Twilight Watcher||122442]] 来实现。也可以通过使用 [[Blue Whelp||122674]] 或 [[Felfire Conjurer||120299]] 额外提升法术的生命值加成，然后借助 [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]] 生成法术。在将魅惑之翼的生命值提升至至少100后，对其施加风怒效果，并借助诗心龙的帮助为其他龙类永久提升生命值。"
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
+msgid "You want to generate as many murlocs as possible. Typically this is done with cycling Tad and [[Primalfin Lookout||60028]]. Also keep [[Primitive Painter||122281]] on board to scale your board full of murlocs while you cycle free cards with [[Brann Bronzebeard||96786]]. [[Magicfin Mycologist||122277]] generates insane value with Brann is the key to being infinite. If you're going hand buff route, have a [[Bream Counter||98509]] in your hand that scales every time you play a Murloc. Mrglin' Burglar is an option to further scale your Bream in hand. Finally, ending units such as [[Bassgill||98926]] and [[Choral Mrrrglr||98948]] help duplicate the stats of your venom. The best way to cap out your board is with as many Bassgills as possible while holding [[Bile Spitter||122219]] to summon from them."
+msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/50/
-msgid "[[Charmwing||122086]] + way to scale it (Poet + Twilight Watcher)"
-msgstr "[[Charmwing||122086]] + 增强它的方法 (执念诗心龙 + 暮光守望巨龙)"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
+msgid "[[Brann Bronzebeard||96786]] + [[Primalfin Lookout||60028]] + Murloc Scaler ([[Primitive Painter||122281]]/[[Mrglin' Burglar||114391]])"
+msgstr "[[Brann Bronzebeard||96786]] + [[Primalfin Lookout||60028]] +鱼人成长 ([[Primitive Painter||122281]]/[[Mrglin' Burglar||114391]])"
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Dragon Midgame ([[Twilight Watcher||122442]])\n"
-"[[Blue Whelp||122674]]"
-msgstr "龙中期过度 ([[Twilight Watcher||122442]])\n"
-"[[Blue Whelp||122674]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/34/
+msgid "[[Brann Bronzebeard||96786]]"
+msgstr "[[Brann Bronzebeard||96786]]"
 
-#: summary | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Scale Dragons with Rally"
-msgstr "通过进击使龙成长"
+#: summary | https://hsreplay.net/battlegrounds/comps/34/
+msgid "Buff Huge Murloc in Hand"
+msgstr "Buff手牌中的大鱼人"
+
+#: name | https://hsreplay.net/battlegrounds/comps/58/
+msgid "Nagas - Deep Blue"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/58/
+msgid "Roll on 4 for only [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]], and [[Lava Lurker||80747]]. Put your spellcrafts on your Lava Lurker to gain permanent stats. After you have golden versions of everything, start filling out the rest of your board with scam such as [[Leeroy the Reckless||90425]]."
+msgstr "在4级酒馆刷新只拿 [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]] 和 [[Lava Lurker||80747]]。将你的塑造法术施加在熔岩潜伏者上，以获得永久属性加成。当你拥有所有金色随从后，开始用其他卡牌填充你的棋盘，例如[[Leeroy the Reckless||90425]]。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/58/
+msgid "Early [[Deep Blue Crooner||98886]] + [[Zesty Shaker||99054]]"
+msgstr "早期获得 [[Deep Blue Crooner||98886]] + [[Zyury Shaker||99054]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/58/
+msgid "[[Deep Blue Crooner||98886]]\n"
+"[[Zesty Shaker||99054]]"
+msgstr "[[Deep Blue Crooner||98886]]\n"
+"[[Zesty Shaker||99054]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/58/
+msgid "Scale Naga's Spellcrafts"
+msgstr "强化纳迦的塑造法术"
 
 #: name | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Mechs - Divine Shield"
@@ -58,28 +78,6 @@ msgstr "圣盾随从 ([[Deflect-o-bot||61930]], [[Grease bot||72389]])"
 #: summary | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Play spells to buff Mechs"
 msgstr "释放酒馆法术来增强机械"
-
-#: name | https://hsreplay.net/battlegrounds/comps/58/
-msgid "Nagas - Deep blue"
-msgstr "纳迦 - 深沉蓝调"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/58/
-msgid "Roll on 4 for only [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]], and [[Lava Lurker||80747]]. Put your spellcrafts on your Lava Lurker to gain permanent stats. After you have golden versions of everything, start filling out the rest of your board with scam such as [[Leeroy the Reckless||90425]]."
-msgstr "在4级酒馆刷新只拿 [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]] 和 [[Lava Lurker||80747]]。将你的塑造法术施加在熔岩潜伏者上，以获得永久属性加成。当你拥有所有金色随从后，开始用其他卡牌填充你的棋盘，例如[[Leeroy the Reckless||90425]]。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/58/
-msgid "Early [[Deep Blue Crooner||98886]] + [[Zesty Shaker||99054]]"
-msgstr "早期获得 [[Deep Blue Crooner||98886]] + [[Zyury Shaker||99054]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/58/
-msgid "[[Deep Blue Crooner||98886]]\n"
-"[[Zesty Shaker||99054]]"
-msgstr "[[Deep Blue Crooner||98886]]\n"
-"[[Zesty Shaker||99054]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/58/
-msgid "Scale Naga's Spellcrafts"
-msgstr "强化纳迦的塑造法术"
 
 #: name | https://hsreplay.net/battlegrounds/comps/49/
 msgid "Quilboar - Rally"
@@ -124,6 +122,28 @@ msgstr "[[Brann Bronzebeard||96786]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/57/
 msgid "Dump huge stats onto Elementals"
 msgstr "将大量属性值赋予元素"
+
+#: name | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Dragons - Charmwing"
+msgstr "龙 - 魅惑之翼"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Your first priority is to scale a [[Charmwing||122086]]. This can be done with [[Persistent Poet||108463]] + [[Twilight Watcher||122442]]. It can also be done by buffing the HP of spells using [[Blue Whelp||122674]] or [[Felfire Conjurer||120299]] and then generating spells with [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]]. After you've scaled a Charmwing to at least 100 HP, windfury it and give your other dragons permanent HP with the help of Poet."
+msgstr "你的首要任务是提升[[Charmwing||122086]]的属性。可以通过 [[Persistent Poet||108463]] + [[Twilight Watcher||122442]] 来实现。也可以通过使用 [[Blue Whelp||122674]] 或 [[Felfire Conjurer||120299]] 额外提升法术的生命值加成，然后借助 [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]] 生成法术。在将魅惑之翼的生命值提升至至少100后，对其施加风怒效果，并借助诗心龙的帮助为其他龙类永久提升生命值。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/50/
+msgid "[[Charmwing||122086]] + way to scale it (Poet + Twilight Watcher)"
+msgstr "[[Charmwing||122086]] + 增强它的方法 (执念诗心龙 + 暮光守望巨龙)"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Dragon Midgame ([[Twilight Watcher||122442]])\n"
+"[[Blue Whelp||122674]]"
+msgstr "龙中期过度 ([[Twilight Watcher||122442]])\n"
+"[[Blue Whelp||122674]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Scale Dragons with Rally"
+msgstr "通过进击使龙成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/56/
 msgid "Murlocs - Magicfin"
@@ -207,25 +227,27 @@ msgstr "恶魔中期过度([[Soul Juggler||59660]])\n"
 msgid "Demons deal damage to buff board"
 msgstr "恶魔造成伤害来增强棋盘"
 
-#: name | https://hsreplay.net/battlegrounds/comps/59/
-msgid "Quilboar - Darkgaze"
-msgstr "野猪人 - 暗视"
+#: name | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Mechs - Magnetics"
+msgstr "机械 - 磁力"
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/59/
-msgid "After you have [[Darkgaze Elder||80756]] and buffed gems ([[Prickly Piper||98946]]), your objective is to spend as much gold as possible. This is usually done if you have [[Brann Bronzebeard||96786]], and you cycle every free battlecry such as [[Reef Explorer||80754]] and [[Tavern Tempest||64077]]. You also want to cycle every [[Gem Smuggler||101594]] and [[Moon bacon Jazzer||98930]] and [[Fearless foodie||113154]] to help scale. Finally, use [[Gem Confiscation||110642]] to transfer as many gems as possible to your [[Corrupted Bristler||120033]]. Macaw proccing the Bristler is extremely powerful."
-msgstr "在获得 [[Darkgaze Elder||80756]] 和强化宝石([[Prickly Piper||98946]])后，你的目标是尽可能多地花费铸币。通常情况下如果你拥有[[Brann Bronzebeard||96786]]，你会循环使用所有免费的战吼，例如 [[Reef Explorer||80754]] 和 [[Tavern Tempest||64077]]。你还需要循环使用所有 [[Gem Smuggler||101594]] 、[[Moon bacon Jazzer||98930]] 和[[Fearless foodie||113154]] 来提升宝石属性。最后，使用 [[Gem Confiscation||110642]] 尽可能多地将宝石转移给你的 [[Corrupted Bristler||120033]]。 鹦鹉触发棘刺野猪人时极为强大。"
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Generate Magnetics with an early [[Holo Rover||115674]] and windfury it ASAP. [[Polarizing Beatboxer||98713]] and [[Rickety Repairbot||120027]] help you put more magnetics on your board. Finally, [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]] scales your board based on the amount of magnetics on your mechs. ADVANCED STRATEGY: Stacking requires putting all of your magnetics on a magnetic, tripling it, then putting then magnetic stack on another magnetic. Do this ONLY if you're generate a ton of magnetics through multiple Holo Rovers."
+msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/59/
-msgid "[[Darkgaze Elder||80756]] + scale gems ([[Prickly Piper||98946]])"
-msgstr "[[Darkgaze Elder||80756]] + 宝石成长 ([[Prickly Piper||98946]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Holo Rover||115674]] or [[Rickety Repairbot||120027]] + [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]]"
+msgstr "[[Holo Rover||115674]] 或 [[Rickety Repairbot||120027]] + [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]]"
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/59/
-msgid "[[Prickly Piper||98946]] + Quilboar Midgame ([[Roadboar||70157]])"
-msgstr "[[Prickly Piper||98946]] + 野猪人中期过度 ([[Roadboar||70157]])"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Rickety Repairbot||120027]]\n"
+"[[Holo Rover||115674]]"
+msgstr "[[Rickety Repairbot||120027]]\n"
+"[[Holo Rover||115674]]"
 
-#: summary | https://hsreplay.net/battlegrounds/comps/59/
-msgid "Spend gold to cast blood gems"
-msgstr "花费铸币施放鲜血宝石"
+#: summary | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Magnetize Mechs and scale them."
+msgstr "给机械贴磁力并增强它们。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
@@ -251,27 +273,25 @@ msgstr "[[Felfire Conjurer||120299]]\n"
 msgid "Scale shop with spells and consume shop"
 msgstr "用法术使商店成长并吞噬商店"
 
-#: name | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Mechs - Magnetics"
-msgstr "机械 - 磁力"
+#: name | https://hsreplay.net/battlegrounds/comps/59/
+msgid "Quilboar - Darkgaze"
+msgstr "野猪人 - 暗视"
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Generate Magnetics with an early [[Holo Rover||115674]] and windfury it ASAP. [[Polarizing Beatboxer||98713]] and [[Rickety Repairbot||120027]] help you put more magnetics on your board. Finally, [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]] scales your board based on the amount of magnetics on your mechs."
-msgstr "尽早使用 [[Holo Rover||115674]] 生成磁力部件，并尽快为其贴上风怒。[[Polarizing Beatboxer||98713]] 和 [[Rickety Repairbot||120027]] 可以帮你在机械上贴上更多磁力效果。最后， [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]] 会根据你机械上的磁力效果的数量来提升机械的属性。"
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/59/
+msgid "After you have [[Darkgaze Elder||80756]] and buffed gems ([[Prickly Piper||98946]]), your objective is to spend as much gold as possible. This is usually done if you have [[Brann Bronzebeard||96786]], and you cycle every free battlecry such as [[Reef Explorer||80754]] and [[Tavern Tempest||64077]]. You also want to cycle every [[Gem Smuggler||101594]] and [[Moon bacon Jazzer||98930]] and [[Fearless foodie||113154]] to help scale. Finally, use [[Gem Confiscation||110642]] to transfer as many gems as possible to your [[Corrupted Bristler||120033]]. Macaw proccing the Bristler is extremely powerful."
+msgstr "在获得 [[Darkgaze Elder||80756]] 和强化宝石([[Prickly Piper||98946]])后，你的目标是尽可能多地花费铸币。通常情况下如果你拥有[[Brann Bronzebeard||96786]]，你会循环使用所有免费的战吼，例如 [[Reef Explorer||80754]] 和 [[Tavern Tempest||64077]]。你还需要循环使用所有 [[Gem Smuggler||101594]] 、[[Moon bacon Jazzer||98930]] 和[[Fearless foodie||113154]] 来提升宝石属性。最后，使用 [[Gem Confiscation||110642]] 尽可能多地将宝石转移给你的 [[Corrupted Bristler||120033]]。 鹦鹉触发棘刺野猪人时极为强大。"
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Holo Rover||115674]] or [[Rickety Repairbot||120027]] + [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]]"
-msgstr "[[Holo Rover||115674]] 或 [[Rickety Repairbot||120027]] + [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]]"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/59/
+msgid "[[Darkgaze Elder||80756]] + scale gems ([[Prickly Piper||98946]])"
+msgstr "[[Darkgaze Elder||80756]] + 宝石成长 ([[Prickly Piper||98946]])"
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Rickety Repairbot||120027]]\n"
-"[[Holo Rover||115674]]"
-msgstr "[[Rickety Repairbot||120027]]\n"
-"[[Holo Rover||115674]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/59/
+msgid "[[Prickly Piper||98946]] + Quilboar Midgame ([[Roadboar||70157]])"
+msgstr "[[Prickly Piper||98946]] + 野猪人中期过度 ([[Roadboar||70157]])"
 
-#: summary | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Magnetize Mechs and scale them."
-msgstr "给机械贴磁力并增强它们。"
+#: summary | https://hsreplay.net/battlegrounds/comps/59/
+msgid "Spend gold to cast blood gems"
+msgstr "花费铸币施放鲜血宝石"
 
 #: name | https://hsreplay.net/battlegrounds/comps/48/
 msgid "Beasts - StegoBACK"
@@ -335,6 +355,22 @@ msgstr "[[Carapace Raiser||122479]]\n"
 msgid "Buff Summons using Spells."
 msgstr "使用法术强化召唤物。"
 
+#: name | https://hsreplay.net/battlegrounds/comps/53/
+msgid "Elementals - APM Violet"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/53/
+msgid "Cycle as many elementals as you can with [[Ultraviolet Ascendant||115581]] on board. The best way to do that is with [[Brann Bronzebeard||96786]], and then buying every [[Tavern Tempest||64077]], [[Sellemental||64038]], and [[Refreshing Anomaly||64042]]. Golden [[Ichoron the Protector||115585]] is nice to shield your whole board, and [[Lantern Lava||122650]] can be used to copy an amazing elemental every turn."
+msgstr "[[Ultraviolet Ascendant||115581]] 在场上时尽可能多地召唤元素生物。实现这一目标的最佳方式是使用 [[Brann Bronzebeard||96786]]，并购买所有的 [[Tavern Tempest||64077]], [[Sellemental||64038]], 和[[Sellemental||64038]]。金色的 [[Ichoron the Protector||115585]] 可为整个棋盘提供圣盾，而 [[Lantern Lava||122650]] 则可每回合复制一个强大的元素随从。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/53/
+msgid "[[Brann Bronzebeard||96786]] + [[Ultraviolet Ascendant||115581]]"
+msgstr "[[Brann Bronzebeard||96786]] + [[Ultraviolet Ascendant||115581]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/53/
+msgid "Cycle elementals to scale them"
+msgstr "刷元素牌成长"
+
 #: name | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Nagas - Spell Buff/End of Turn"
 msgstr "纳迦 - 法术Buff/回合结束"
@@ -356,22 +392,6 @@ msgstr "[[Felfire Conjurer||120299]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Cast Buffed Spells End of Turn"
 msgstr "回合结束时施放强化法术"
-
-#: name | https://hsreplay.net/battlegrounds/comps/53/
-msgid "Elementals - APM"
-msgstr "元素 - 倒转"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/53/
-msgid "Cycle as many elementals as you can with [[Ultraviolet Ascendant||115581]] on board. The best way to do that is with [[Brann Bronzebeard||96786]], and then buying every [[Tavern Tempest||64077]], [[Sellemental||64038]], and [[Refreshing Anomaly||64042]]. Golden [[Ichoron the Protector||115585]] is nice to shield your whole board, and [[Lantern Lava||122650]] can be used to copy an amazing elemental every turn."
-msgstr "[[Ultraviolet Ascendant||115581]] 在场上时尽可能多地召唤元素生物。实现这一目标的最佳方式是使用 [[Brann Bronzebeard||96786]]，并购买所有的 [[Tavern Tempest||64077]], [[Sellemental||64038]], 和[[Sellemental||64038]]。金色的 [[Ichoron the Protector||115585]] 可为整个棋盘提供圣盾，而 [[Lantern Lava||122650]] 则可每回合复制一个强大的元素随从。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/53/
-msgid "[[Brann Bronzebeard||96786]] + [[Ultraviolet Ascendant||115581]]"
-msgstr "[[Brann Bronzebeard||96786]] + [[Ultraviolet Ascendant||115581]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/53/
-msgid "Cycle elementals to scale them"
-msgstr "刷元素牌成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/54/
 msgid "Rally Menagerie"
@@ -412,26 +432,6 @@ msgstr "中期获取悬赏令 ([[Bigwig Bandit||122179]]/[[Lost City Looter||122
 #: summary | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Bounties generate gold and stats"
 msgstr "靠悬赏令生成铸币和身材数值"
-
-#: name | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Murlocs - Hand Buff"
-msgstr "鱼人 - 手牌Buff"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Have a [[Bream Counter||98509]] in your hand that scales every time you play a Murloc. Mrglin' Burglar further scales your Bream in hand. Next, you want to generate as many murlocs as possible. Typically this is done with cycling Tad and [[Primalfin Lookout||60028]]. The best way to play this comp is to keep the [[Primalfin lookout||60028]] on your board and proc it using either [[Rylak Metalhead||98829]] or [[Greenskeeper||113930]]. Summon your scaled Bream using [[Bassgill||98926]], and finally capture its stats using [[Choral Mrrrglr||98948]]."
-msgstr "手牌中持有 [[Bream Counter||98509]] 不要打出，每次打出一个鱼人时该牌的数值会相应提升。鱼人蟊贼会进一步增强你手牌中的裁脍鱼人。接下来你需要尽可能多地生成鱼人。通常是通过循环使用塔德和 [[Primalfin Lookout||60028]] 来实现。玩这个流派的最佳方式是将 [[Primalfin lookout||60028]] 留在场上，并使用 [[Rylak Metalhead||98829]] 或 [[Greenskeeper||113930]] 来触发它。使用 [[Bassgill||98926]] 召唤你强化的裁脍鱼人，最后通过 [[Choral Mrrrglr||98948]] 获取它的身材数值。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
-msgid "[[Brann Bronzebeard||96786]] + [[Primalfin Lookout||60028]] + Murloc Scaler ([[Primitive Painter||122281]]/[[Mrglin' Burglar||114391]])"
-msgstr "[[Brann Bronzebeard||96786]] + [[Primalfin Lookout||60028]] +鱼人成长 ([[Primitive Painter||122281]]/[[Mrglin' Burglar||114391]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/34/
-msgid "[[Brann Bronzebeard||96786]]"
-msgstr "[[Brann Bronzebeard||96786]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/34/
-msgid "Buff Huge Murloc in Hand"
-msgstr "Buff手牌中的大鱼人"
 
 #: name | https://hsreplay.net/battlegrounds/comps/12/
 msgid "Beasts - Goldrinn"
