@@ -15,15 +15,15 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-26 12:40\n"
+"PO-Revision-Date: 2025-08-28 00:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - APM"
-msgstr ""
+msgstr "鱼人 - 倒转"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
 msgid "You want to generate as many murlocs as possible. Typically this is done with cycling Tad and [[Primalfin Lookout||60028]]. Also keep [[Primitive Painter||122281]] on board to scale your board full of murlocs while you cycle free cards with [[Brann Bronzebeard||96786]]. [[Magicfin Mycologist||122277]] generates insane value with Brann is the key to being infinite. If you're going hand buff route, have a [[Bream Counter||98509]] in your hand that scales every time you play a Murloc. Mrglin' Burglar is an option to further scale your Bream in hand. Finally, ending units such as [[Bassgill||98926]] and [[Choral Mrrrglr||98948]] help duplicate the stats of your venom. The best way to cap out your board is with as many Bassgills as possible while holding [[Bile Spitter||122219]] to summon from them."
-msgstr ""
+msgstr "你要尽可能多地生成鱼人，通常通过循环使用塔德和 [[Primalfin Lookout||60028]] 来实现。同时保持 [[Primitive Painter||122281]] 在场上，这样在用 [[Brann Bronzebeard||96786]] 免费循环刷牌时，就能让满场的鱼人属性持续增长。[[Magicfin Mycologist||122277]] 配合铜须能疯狂生成经济实现无限循环。若选择手牌强化路线，请确保手握 [[Bream Counter||98509]] ，每打出一个鱼人它都能持续提升。鱼人蟊贼是进一步提升裁脍鱼人的选择。最后，诸如[[Bassgill||98926]] 和 [[Choral Mrrrglr||98948]] 这类终结单位能复制你毒鱼的属性。最优的场面控制策略是尽可能多部署低音提琴鱼人，同时保留 [[Bile Spitter||122219]] 以便从它们身上召唤。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
 msgid "[[Brann Bronzebeard||96786]] + [[Primalfin Lookout||60028]] + Murloc Scaler ([[Primitive Painter||122281]]/[[Mrglin' Burglar||114391]])"
@@ -39,7 +39,7 @@ msgstr "Buff手牌中的大鱼人"
 
 #: name | https://hsreplay.net/battlegrounds/comps/58/
 msgid "Nagas - Deep Blue"
-msgstr ""
+msgstr "纳迦 - 深沉蓝调"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/58/
 msgid "Roll on 4 for only [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]], and [[Lava Lurker||80747]]. Put your spellcrafts on your Lava Lurker to gain permanent stats. After you have golden versions of everything, start filling out the rest of your board with scam such as [[Leeroy the Reckless||90425]]."
@@ -191,7 +191,7 @@ msgstr "野猪人 - 走私商"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/60/
 msgid "Before you start proccing [[Gem Smuggler||101594]], you want to scale your gems as much as possible, typically with [[Prickly Piper||98946]] and also proccing [[Moon bacon Jazzer||98930]] as much as possible. After you're done scaling, you can switch to proccing [[Gem Smuggler||101594]]. The main variation of this comp uses [[Rylak Metalhead||98829]] to proc the [[Gem Smuggler||101594]]. Then, reborn on the Rylak, [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], and [[Titus Rivendare||97408]] all act as multipliers to the Rylak effect. If you have golden Rylak, then you can try to proc both Jazzer and Smuggler. You can choose to add in [[Tarecgosa||72062]] to keep gems or [[Corrupted Bristler||120033]] for board strength. This comp also becomes S tier if you have the quest Snicker Snacks."
-msgstr ""
+msgstr "在开始触发 [[Gem Smuggler||101594]] 前你需要尽可能提升宝石的属性，通常使用 [[Prickly Piper||98946]]，并尽可能多地触发 [[Moon bacon Jazzer||98930]]。在完成宝石强化后你可以切换到触发 [[Gem Smuggler||101594]]。该流派的主要分支使用 [[Rylak Metalhead||98829]] 来触发 [[Gem Smuggler||101594]]。随后给双头飞龙复生，使用 [[Monstrous Macaw||62230]]、[[Brann Bronzebeard||96786]] 和 [[Titus Rivendare||97408]] 的组合倍增双头飞龙效果。如果你有金色双头飞龙，那么你可以尝试触发暗膘爵士乐手和宝石走私商。你可以选择添加[[Tarecgosa||72062]] 来保留宝石，或者使用 [[Corrupted Bristler||120033]] 来增加棋盘强度。若你拥有任务“尖啸零食”，该流派也会升至S级。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/60/
 msgid "[[Brann Bronzebeard||96786]] + Gem Scaling ([[Prickly Piper||98946]]) + [[Gem Smuggler||101594]]"
@@ -357,7 +357,7 @@ msgstr "使用法术强化召唤物。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/53/
 msgid "Elementals - APM Violet"
-msgstr ""
+msgstr "元素 - 极紫外"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/53/
 msgid "Cycle as many elementals as you can with [[Ultraviolet Ascendant||115581]] on board. The best way to do that is with [[Brann Bronzebeard||96786]], and then buying every [[Tavern Tempest||64077]], [[Sellemental||64038]], and [[Refreshing Anomaly||64042]]. Golden [[Ichoron the Protector||115585]] is nice to shield your whole board, and [[Lantern Lava||122650]] can be used to copy an amazing elemental every turn."
