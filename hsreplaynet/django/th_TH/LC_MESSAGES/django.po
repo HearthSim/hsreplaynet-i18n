@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-26 01:40+0000\n"
-"PO-Revision-Date: 2025-08-26 12:40\n"
+"POT-Creation-Date: 2025-08-28 01:40+0000\n"
+"PO-Revision-Date: 2025-08-28 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -62,7 +62,7 @@ msgstr ""
 msgid "String value too large."
 msgstr ""
 
-#: api/serializers/battlegrounds.py:510
+#: api/serializers/battlegrounds.py:511
 #, python-brace-format
 msgid "{tribe_name} - {instance.name}"
 msgstr ""
@@ -114,47 +114,47 @@ msgstr ""
 msgid "Code has been applied to your account."
 msgstr ""
 
-#: settings.py:417
+#: settings.py:418
 msgid "Full access to your HSReplay.net account"
 msgstr ""
 
-#: settings.py:418
+#: settings.py:419
 msgid "Access information about your connected social accounts"
 msgstr ""
 
-#: settings.py:419
+#: settings.py:420
 msgid "View your Hearthstone card collection"
 msgstr ""
 
-#: settings.py:420
+#: settings.py:421
 msgid "Upload your Hearthstone card collection to the site"
 msgstr ""
 
-#: settings.py:421
+#: settings.py:422
 msgid "View your replays"
 msgstr ""
 
-#: settings.py:422
+#: settings.py:423
 msgid "Update and delete your replays"
 msgstr ""
 
-#: settings.py:423
+#: settings.py:424
 msgid "Access the Partner API"
 msgstr ""
 
-#: settings.py:424
+#: settings.py:425
 msgid "Read access to the tournaments service"
 msgstr ""
 
-#: settings.py:425
+#: settings.py:426
 msgid "Write access to the tournaments service"
 msgstr ""
 
-#: settings.py:426
+#: settings.py:427
 msgid "View your webhooks"
 msgstr ""
 
-#: settings.py:427
+#: settings.py:428
 msgid "Create and delete webhooks on your behalf"
 msgstr ""
 
@@ -474,12 +474,12 @@ msgid "Not affiliated with Blizzard Entertainment."
 msgstr ""
 
 #: templates/footer.html:63 templates/navigation.html:67
-#: templates/navigation.html:159 templates/navigation.html:216
+#: templates/navigation.html:172 templates/navigation.html:229
 #: web/views/__init__.py:175
 msgid "Downloads"
 msgstr ""
 
-#: templates/footer.html:64 templates/navigation.html:200
+#: templates/footer.html:64 templates/navigation.html:213
 #: web/views/premium.py:31
 msgid "Premium"
 msgstr ""
@@ -589,43 +589,47 @@ msgstr ""
 msgid "Comps"
 msgstr ""
 
-#: templates/navigation.html:126 web/views/battlegrounds.py:294
+#: templates/navigation.html:126 web/views/battlegrounds.py:349
+msgid "Quests"
+msgstr ""
+
+#: templates/navigation.html:139 web/views/battlegrounds.py:294
 msgid "Anomalies"
 msgstr ""
 
-#: templates/navigation.html:137
+#: templates/navigation.html:150
 msgid "Minions"
 msgstr ""
 
-#: templates/navigation.html:151
+#: templates/navigation.html:164
 msgid "SALE!"
 msgstr ""
 
-#: templates/navigation.html:166
+#: templates/navigation.html:179
 msgid "Trending"
 msgstr ""
 
-#: templates/navigation.html:174 templates/navigation.html:180
+#: templates/navigation.html:187 templates/navigation.html:193
 msgid "Meta"
 msgstr ""
 
-#: templates/navigation.html:175
+#: templates/navigation.html:188
 msgid "Back soon!"
 msgstr ""
 
-#: templates/navigation.html:187
+#: templates/navigation.html:200
 msgid "Decks"
 msgstr ""
 
-#: templates/navigation.html:193 web/views/cards.py:37 web/views/cards.py:165
+#: templates/navigation.html:206 web/views/cards.py:37 web/views/cards.py:165
 msgid "Cards"
 msgstr ""
 
-#: templates/navigation.html:209
+#: templates/navigation.html:222
 msgid "NEW"
 msgstr ""
 
-#: templates/navigation.html:243
+#: templates/navigation.html:256
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
@@ -919,10 +923,6 @@ msgstr ""
 
 #: web/views/battlegrounds.py:343
 msgid "Explore our Battlegrounds Quests List and learn which quests are more common - powered by data from millions of games."
-msgstr ""
-
-#: web/views/battlegrounds.py:349
-msgid "Quests"
 msgstr ""
 
 #: web/views/battlegrounds.py:395

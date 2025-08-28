@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-28 00:40\n"
+"PO-Revision-Date: 2025-08-28 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - APM"
@@ -23,7 +23,7 @@ msgstr "鱼人 - 倒转"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
 msgid "You want to generate as many murlocs as possible. Typically this is done with cycling Tad and [[Primalfin Lookout||60028]]. Also keep [[Primitive Painter||122281]] on board to scale your board full of murlocs while you cycle free cards with [[Brann Bronzebeard||96786]]. [[Magicfin Mycologist||122277]] generates insane value with Brann is the key to being infinite. If you're going hand buff route, have a [[Bream Counter||98509]] in your hand that scales every time you play a Murloc. Mrglin' Burglar is an option to further scale your Bream in hand. Finally, ending units such as [[Bassgill||98926]] and [[Choral Mrrrglr||98948]] help duplicate the stats of your venom. The best way to cap out your board is with as many Bassgills as possible while holding [[Bile Spitter||122219]] to summon from them."
-msgstr "你要尽可能多地生成鱼人，通常通过循环使用塔德和 [[Primalfin Lookout||60028]] 来实现。同时保持 [[Primitive Painter||122281]] 在场上，这样在用 [[Brann Bronzebeard||96786]] 免费循环刷牌时，就能让满场的鱼人属性持续增长。[[Magicfin Mycologist||122277]] 配合铜须能疯狂生成经济实现无限循环。若选择手牌强化路线，请确保手握 [[Bream Counter||98509]] ，每打出一个鱼人它都能持续提升。鱼人蟊贼是进一步提升裁脍鱼人的选择。最后，诸如[[Bassgill||98926]] 和 [[Choral Mrrrglr||98948]] 这类终结单位能复制你毒鱼的属性。最优的场面控制策略是尽可能多部署低音提琴鱼人，同时保留 [[Bile Spitter||122219]] 以便从它们身上召唤。"
+msgstr "你要尽可能多地生成鱼人，通常通过循环使用塔德和 [[Primalfin Lookout||60028]] 来实现。同时保持 [[Primitive Painter||122281]] 在场上，这样在用 [[Brann Bronzebeard||96786]] 免费循环刷牌时，就能让满场的鱼人属性持续增长。[[Magicfin Mycologist||122277]] 配合铜须能疯狂生成经济实现无限循环。若选择手牌强化路线，请确保手握 [[Bream Counter||98509]] ，每打出一个鱼人它都能持续提升。鱼人蟊贼是进一步提升裁脍鱼人的选择。最后，诸如[[Bassgill||98926]] 和 [[Choral Mrrrglr||98948]] 这类终结单位能复制你毒鱼的属性。最优的场面控制策略是尽可能多部署低音提琴鱼人，同时在手牌保留 [[Bile Spitter||122219]] 以便召唤它们。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
 msgid "[[Brann Bronzebeard||96786]] + [[Primalfin Lookout||60028]] + Murloc Scaler ([[Primitive Painter||122281]]/[[Mrglin' Burglar||114391]])"
@@ -233,7 +233,7 @@ msgstr "机械 - 磁力"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Generate Magnetics with an early [[Holo Rover||115674]] and windfury it ASAP. [[Polarizing Beatboxer||98713]] and [[Rickety Repairbot||120027]] help you put more magnetics on your board. Finally, [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]] scales your board based on the amount of magnetics on your mechs. ADVANCED STRATEGY: Stacking requires putting all of your magnetics on a magnetic, tripling it, then putting then magnetic stack on another magnetic. Do this ONLY if you're generate a ton of magnetics through multiple Holo Rovers."
-msgstr ""
+msgstr "尽早获得 [[Holo Rover||115674]] 并立即赋予其风怒效果。[[Polarizing Beatboxer||98713]] 和 [[Rickety Repairbot||120027]] 能帮助你强化场上的磁力效果。最终后用 [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]] 能根据机械上的磁力装置数量增强你的棋盘。进阶策略：将所有磁力堆叠吸附于一个磁力机械上，三连它，再将该磁力吸附于另一磁力机械上。仅当你能通过多个移动投影仪生成大量磁力随从时才采用此策略。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
 msgid "[[Holo Rover||115674]] or [[Rickety Repairbot||120027]] + [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]]"
