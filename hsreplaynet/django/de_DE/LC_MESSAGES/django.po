@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-28 01:40+0000\n"
-"PO-Revision-Date: 2025-08-28 12:40\n"
+"POT-Creation-Date: 2025-08-28 17:35+0000\n"
+"PO-Revision-Date: 2025-08-29 00:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -65,50 +65,50 @@ msgstr ""
 #: api/serializers/battlegrounds.py:511
 #, python-brace-format
 msgid "{tribe_name} - {instance.name}"
-msgstr ""
+msgstr "{tribe_name} - {instance.name}"
 
 #: api/views/accounts.py:340
 #, python-brace-format
 msgid "You have already applied this code to your account. Start your free subscription lasting {n} days now."
-msgstr ""
+msgstr "Du hast diesen Code bereits auf dein Konto angewendet. Starte jetzt dein kostenloses {n}-Tage-Abo."
 
 #: api/views/accounts.py:363
 #, python-brace-format
 msgid "Code has been applied to your account. Your existing subscription has been extended by {n} days."
-msgstr ""
+msgstr "Code wurde auf dein Konto angewendet. Dein bestehendes Abo wurde um {n} Tage verlängert."
 
 #: api/views/accounts.py:369
 #, python-brace-format
 msgid "Code has been applied to your account. You can now start a free subscription lasting {n} days."
-msgstr ""
+msgstr "Code wurde auf dein Konto angewendet. Du kannst jetzt ein kostenloses {n}-Tage-Abo starten."
 
 #: api/views/accounts.py:377
 msgid "This code has already been redeemed."
-msgstr ""
+msgstr "Dieser Code wurde bereits eingelöst."
 
 #: api/views/accounts.py:380
 msgid "This code is not compatible with your existing subscription."
-msgstr ""
+msgstr "Dieser Code ist nicht mit deinem bestehenden Abo kompatibel."
 
 #: api/views/accounts.py:383
 msgid "This code has expired."
-msgstr ""
+msgstr "Dieser Code ist abgelaufen."
 
 #: api/views/accounts.py:386
 msgid "You have used the maximum number of codes from this campaign."
 msgstr ""
 
 #: api/views/accounts.py:391
-msgid "You have already redeemed a code for this product. Start a subscription before redeeming another one."
+msgid "You have already redeemed a code for this product. Start a subscription before redeeming this code."
 msgstr ""
 
 #: api/views/accounts.py:402
 msgid "This code is unknown."
-msgstr ""
+msgstr "Dieser Code ist unbekannt."
 
 #: api/views/accounts.py:412
 msgid "You have already applied this code to your account."
-msgstr ""
+msgstr "Du hast diesen Code bereits auf dein Konto angewendet."
 
 #: api/views/accounts.py:419
 msgid "Code has been applied to your account."
@@ -160,7 +160,7 @@ msgstr "Webhooks für dich erstellen und löschen"
 
 #: templates/429.html:6
 msgid "Too many requests"
-msgstr ""
+msgstr "Zu viele Anfragen"
 
 #: templates/429.html:10 templates/socialaccount/authentication_error.html:21
 msgid "Please try again in a few minutes."
@@ -274,7 +274,7 @@ msgstr ""
 
 #: templates/account/email_change.html:6
 msgid "Email Address"
-msgstr ""
+msgstr "E-Mail-Adresse"
 
 #: templates/account/email_change.html:11
 msgid "The following email addresses are associated with your account:"
@@ -282,7 +282,7 @@ msgstr "Die folgenden E-Mail-Adressen sind mit deinem Konto verknüpft:"
 
 #: templates/account/email_change.html:18
 msgid "✔ Current Email Address"
-msgstr ""
+msgstr "✔ Aktuelle E-Mail-Adresse"
 
 #: templates/account/email_change.html:24
 msgid "Make Primary"
@@ -304,11 +304,11 @@ msgstr ""
 
 #: templates/account/email_change.html:59
 msgid "Change Email"
-msgstr ""
+msgstr "E-Mail-Adresse ändern"
 
 #: templates/account/email_change.html:61
 msgid "Set Email"
-msgstr ""
+msgstr "E-Mail-Adresse festlegen"
 
 #: templates/account/email_change.html:73
 msgid "Notification settings"
@@ -346,11 +346,11 @@ msgstr "Möchtest du dich wirklich abmelden?"
 #: templates/account/password_change.html:9
 #: templates/account/password_change.html:14
 msgid "Change Password"
-msgstr ""
+msgstr "Passwort ändern"
 
 #: templates/account/password_change.html:15
 msgid "Forgot Password?"
-msgstr ""
+msgstr "Passwort vergessen?"
 
 #: templates/account/password_reset.html:11
 #: templates/account/password_reset_done.html:4
@@ -358,7 +358,7 @@ msgstr ""
 #: templates/account/password_reset_from_key_done.html:4
 #: templates/account/password_reset_from_key_done.html:7
 msgid "Password Reset"
-msgstr ""
+msgstr "Passwort zurücksetzen"
 
 #: templates/account/password_reset.html:13
 msgid "Forgot your password? Enter your email below, we'll send you a link to reset it."
@@ -385,7 +385,7 @@ msgstr ""
 
 #: templates/account/password_reset_from_key_done.html:8
 msgid "Your password has been changed."
-msgstr ""
+msgstr "Dein Passwort wurde geändert."
 
 #: templates/account/password_reset_from_key_done.html:14
 #, python-format
@@ -395,7 +395,7 @@ msgstr ""
 #: templates/account/password_set.html:5 templates/account/password_set.html:9
 #: templates/account/password_set.html:14
 msgid "Set Password"
-msgstr ""
+msgstr "Passwort festlegen"
 
 #: templates/account/signup.html:14 templates/account/signup.html:55
 #: templates/socialaccount/signup.html:11
@@ -417,7 +417,7 @@ msgstr "Wird für Konto- und Abrechnungszwecke sowie optionale Produktneuigkeite
 
 #: templates/account/signup.html:38
 msgid "Don't use the same password for multiple accounts."
-msgstr ""
+msgstr "Verwende dasselbe Passwort nicht für mehrere Konten."
 
 #: templates/account/signup.html:43
 msgid "Password (repeat)"
@@ -459,7 +459,7 @@ msgstr "Tritt unserem Discord-Server bei"
 
 #: templates/footer.html:31
 msgid "Follow us on X"
-msgstr ""
+msgstr "Folge uns auf X"
 
 #: templates/footer.html:37
 msgid "Follow us on Instagram"
@@ -486,15 +486,15 @@ msgstr "Premium"
 
 #: templates/footer.html:65
 msgid "Get Tier7"
-msgstr ""
+msgstr "Hol dir Tier7"
 
 #: templates/footer.html:66 web/views/arenasmith.py:13
 msgid "Arenasmith"
-msgstr ""
+msgstr "Arenasmith"
 
 #: templates/footer.html:74
 msgid "Standard Decks"
-msgstr ""
+msgstr "Standard-Decks"
 
 #: templates/footer.html:75
 msgid "Wild Decks"
@@ -502,15 +502,15 @@ msgstr ""
 
 #: templates/footer.html:76 web/views/archetypes.py:48
 msgid "Meta Tier List"
-msgstr ""
+msgstr "Meta-Tier-Liste"
 
 #: templates/footer.html:77
 msgid "Arena Legendaries"
-msgstr ""
+msgstr "Legendäre Arenakarten"
 
 #: templates/footer.html:78
 msgid "Arena Winning Decks"
-msgstr ""
+msgstr "Top Arenadecks"
 
 #: templates/footer.html:79 web/views/battlegrounds.py:138
 msgid "Battlegrounds Heroes"
@@ -518,11 +518,11 @@ msgstr "Schlachtfeld-Helden"
 
 #: templates/footer.html:80 web/views/battlegrounds.py:286
 msgid "Battlegrounds Anomalies"
-msgstr ""
+msgstr "Schlachtfeld-Anomalien"
 
 #: templates/footer.html:81 web/views/battlegrounds.py:219
 msgid "Battlegrounds Trinkets"
-msgstr ""
+msgstr "Schlachtfeld-Schmuckstücke"
 
 #: templates/footer.html:85
 msgid "Support"
@@ -546,7 +546,7 @@ msgstr "Datenschutzerklärung"
 
 #: templates/footer.html:107
 msgid "Get in Touch"
-msgstr ""
+msgstr "Kontaktiere uns"
 
 #: templates/games/replay_detail.html:29
 msgid "Replay not available"
@@ -579,7 +579,7 @@ msgstr "Helden"
 
 #: templates/navigation.html:90 web/views/battlegrounds.py:227
 msgid "Trinkets"
-msgstr ""
+msgstr "Schmuckstücke"
 
 #: templates/navigation.html:103 web/views/battlegrounds.py:415
 msgid "Darkmoon Prizes"
@@ -591,11 +591,11 @@ msgstr ""
 
 #: templates/navigation.html:126 web/views/battlegrounds.py:349
 msgid "Quests"
-msgstr ""
+msgstr "Quests"
 
 #: templates/navigation.html:139 web/views/battlegrounds.py:294
 msgid "Anomalies"
-msgstr ""
+msgstr "Anomalien"
 
 #: templates/navigation.html:150
 msgid "Minions"
@@ -749,7 +749,7 @@ msgstr "HSReplay.net - Entfache dein Potential"
 
 #: web/views/__init__.py:116
 msgid "Sign in to HSReplay.net"
-msgstr ""
+msgstr "Bei HSReplay.net anmelden"
 
 #: web/views/__init__.py:163
 msgid "Download Hearthstone Deck Tracker"
@@ -794,7 +794,7 @@ msgstr ""
 #: web/views/archetypes.py:38
 #, python-brace-format
 msgid "Hearthstone Meta Tier List - {month} {year}"
-msgstr ""
+msgstr "Hearthstone-Meta-Tier-Liste - {month} {year}"
 
 #: web/views/archetypes.py:44
 msgid "Explore the Hearthstone meta tier list, find the best decks for every class,and how the archetypes match up."
@@ -835,7 +835,7 @@ msgstr "Finde Statistiken und verschiedene {name}-Decklisten."
 
 #: web/views/arena.py:17
 msgid "Hearthstone Arena Legendary Groups"
-msgstr ""
+msgstr "Legendäre Gruppen in der Hearthstone-Arena"
 
 #: web/views/arena.py:20
 msgid "Explore the Legendary Groups available when drafting in Hearthstone Arena and Underground Arena for the current Arena Season."
@@ -843,23 +843,23 @@ msgstr ""
 
 #: web/views/arena.py:24
 msgid "Arena Legendary Groups"
-msgstr ""
+msgstr "Legendäre Arenagruppen"
 
 #: web/views/arena.py:35
 msgid "12 Win Underground Arena Decks"
-msgstr ""
+msgstr "Untergrunddecks mit 12 Siegen"
 
 #: web/views/arena.py:38
 msgid "Explore the most recent 12-win decks for each class in Hearthstone Underground Arena"
-msgstr ""
+msgstr "Erkunde die neuesten Decks mit 12 Siegen für jede Klasse in der Hearthstone Undergrund-Arena"
 
 #: web/views/arena.py:41
 msgid "12 Win Arena Decks"
-msgstr ""
+msgstr "Arenadecks mit 12 Siegen"
 
 #: web/views/arena.py:65
 msgid "Hearthstone Arena Cards"
-msgstr ""
+msgstr "Hearthstone Arena-Karten"
 
 #: web/views/arena.py:68
 msgid "Explore the cards available when drafting in Hearthstone Arena and Underground Arena for the current Arena Season."
@@ -867,7 +867,7 @@ msgstr ""
 
 #: web/views/arena.py:72
 msgid "Arena Cards"
-msgstr ""
+msgstr "Arenakarten"
 
 #: web/views/arenasmith.py:9
 msgid "Pick the strongest cards in Arena with Arenasmith"
@@ -875,7 +875,7 @@ msgstr ""
 
 #: web/views/arenasmith.py:18
 msgid "Arenasmith - Draft Assistant for Hearthstone Arena"
-msgstr ""
+msgstr "Arenasmith - Draftassistent für Hearthstone Arena"
 
 #: web/views/battlegrounds.py:117
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
@@ -988,11 +988,11 @@ msgstr ""
 #: web/views/battlegrounds.py:747
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
-msgstr ""
+msgstr "{tribe_name} - {obj.name}"
 
 #: web/views/battlegrounds.py:830
 msgid "My Battlegrounds Stats"
-msgstr ""
+msgstr "Meine Schlachtfeldstatistiken"
 
 #: web/views/cards.py:29
 msgid "Hearthstone Card Statistics"
@@ -1009,7 +1009,7 @@ msgstr "Keine passende Karte gefunden."
 #: web/views/cards.py:146
 #, python-brace-format
 msgid "{name} decks and stats"
-msgstr ""
+msgstr "{name}decks und Statistiken"
 
 #: web/views/cards.py:199
 msgid "Hearthstone Card Editor"
@@ -1038,7 +1038,7 @@ msgstr "Dieses Konto kann nicht gelöscht werden."
 
 #: web/views/dashboard.py:138
 msgid "Your HSReplay.net account has been deleted. It was great having you!"
-msgstr ""
+msgstr "Dein HSReplay.net-Konto wurde gelöscht. Danke, dass du bei uns warst!"
 
 #: web/views/dashboard.py:153
 msgid "Your replays have been deleted."
@@ -1172,7 +1172,7 @@ msgstr "Meine Aufzeichnungen"
 
 #: web/views/replays.py:341
 msgid "Uploading replay…"
-msgstr ""
+msgstr "Lade Aufzeichnung hoch…"
 
 #: web/views/stats.py:8
 msgid "My Stats"

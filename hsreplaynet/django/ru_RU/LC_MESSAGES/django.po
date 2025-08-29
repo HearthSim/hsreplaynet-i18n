@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-28 01:40+0000\n"
-"PO-Revision-Date: 2025-08-28 12:40\n"
+"POT-Creation-Date: 2025-08-28 17:35+0000\n"
+"PO-Revision-Date: 2025-08-29 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -99,7 +99,7 @@ msgid "You have used the maximum number of codes from this campaign."
 msgstr ""
 
 #: api/views/accounts.py:391
-msgid "You have already redeemed a code for this product. Start a subscription before redeeming another one."
+msgid "You have already redeemed a code for this product. Start a subscription before redeeming this code."
 msgstr ""
 
 #: api/views/accounts.py:402

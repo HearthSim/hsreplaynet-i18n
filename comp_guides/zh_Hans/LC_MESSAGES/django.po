@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-26 01:40\n"
+"POT-Creation-Date: 2025-08-28 17:35\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-28 12:40\n"
+"PO-Revision-Date: 2025-08-29 00:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - APM"
@@ -58,6 +58,26 @@ msgstr "[[Deep Blue Crooner||98886]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/58/
 msgid "Scale Naga's Spellcrafts"
 msgstr "强化纳迦的塑造法术"
+
+#: name | https://hsreplay.net/battlegrounds/comps/55/
+msgid "Nagas - Spell Casting"
+msgstr "纳迦 - 法术施放"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/55/
+msgid "[[Sundered Matriarch||122672]] buffs your minions' HP when you cast a spell, and [[Wrathscale Rogue||122094]] adds an equal amount of attack. Then, the rest of your board can be filled with spell generation nagas, such as [[Coilskar Sapper||120565]] and [[Silivaz the Vindictive||105676]]. You can also try Spell HP Buffing strats with the [[Tranquil Meditative||119942]] [[Firescale Hoarder||120213]] [[Fauna Whisperer||120905]] package."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/55/
+msgid "[[Sundered Matriarch||122672]] + Spell generation ([[Coilskar Sapper||120565]])"
+msgstr "[[Sundered Matriarch||122672]] + 法术生成 ([[Coilskar Sapper||120565]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/55/
+msgid "Spell generation ([[Coilskar Sapper||120565]])"
+msgstr "法术生成 ([[Coilskar Sapper||120565]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/55/
+msgid "Play spells to buff Nagas"
+msgstr "释放法术来增强纳迦"
 
 #: name | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Mechs - Divine Shield"
@@ -164,26 +184,6 @@ msgstr "[[Magicfin Mycologist||122277]]"
 #: summary | https://hsreplay.net/battlegrounds/comps/56/
 msgid "Teach Murlocs spells and proc them"
 msgstr "教会鱼人法术并触发它们"
-
-#: name | https://hsreplay.net/battlegrounds/comps/55/
-msgid "Nagas - Spell Casting"
-msgstr "纳迦 - 法术施放"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/55/
-msgid "[[Sundered Matriarch||122672]] buffs your minions' HP when you cast a spell, and [[Wrathscale Rogue||122094]] adds and equal amount of attack. Then, the rest of your board can be filled with spell generation nagas, such as [[Coilskar Sapper||120565]] and [[Silivaz the Vindictive||105676]]. You can also try Spell HP Buffing strats with the [[Tranquil Meditative||119942]] [[Firescale Hoarder||120213]] [[Fauna Whisperer||120905]] package."
-msgstr "[[Sundered Matriarch||122672]] 在你施放法术时会提升你随从的生命值，而[[Wrathscale Rogue||122094]] 则增加等量的攻击力。随后你的棋盘上可以填充更多法术生成纳迦，例如 [[Coilskar Sapper||120565]] 和 [[Silivaz the Vindictive||105676]]。你还可以尝试使用 [[Tranquil Meditative||119942]] [[Firescale Hoarder||120213]] [[Fauna Whisperer||120905]] 组合进行法术生命值强化策略。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/55/
-msgid "[[Sundered Matriarch||122672]] + Spell generation ([[Coilskar Sapper||120565]])"
-msgstr "[[Sundered Matriarch||122672]] + 法术生成 ([[Coilskar Sapper||120565]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/55/
-msgid "Spell generation ([[Coilskar Sapper||120565]])"
-msgstr "法术生成 ([[Coilskar Sapper||120565]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/55/
-msgid "Play spells to buff Nagas"
-msgstr "释放法术来增强纳迦"
 
 #: name | https://hsreplay.net/battlegrounds/comps/60/
 msgid "Quilboar - Smuggler"
