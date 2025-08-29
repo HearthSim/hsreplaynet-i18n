@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-28 17:35\n"
+"POT-Creation-Date: 2025-08-29 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-29 00:40\n"
+"PO-Revision-Date: 2025-08-29 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - APM"
@@ -98,27 +98,6 @@ msgstr ""
 msgid "Play spells to buff Mechs"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/49/
-msgid "Quilboar - Rally"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/49/
-msgid "Scale your bloodgems using an early [[Sanguine Refiner||122566]]. Then, [[Razorfen Vineweaver||122562]] casts 3 or more permanent gems on itself each fight, while [[Bloodsnout Warlord||122564]] casts an insane amount of temporary gems on your board. You also want to shield as many Quilboars as possible using [[Hog Watcher||122737]]. In the endgame, you may gem transfer using [[Gem Confiscation||110642]] onto a [[Corrupted Bristler||120033]] to double the effectiveness of your blood gems. Taunt is important in this comp, and use it on either [[Charlga||70165]] or [[Darkgaze Elder||80756]]"
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/49/
-msgid "Gem Scaling ([[Sanguine Refiner||122566]]) + Payoff ([[Razorfen Vineweaver||122562]]/[[Bloodsnout Warlord||122564]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/49/
-msgid "[[Sanguine Refiner||122566]]\n"
-"Quilboar midgame([[Prickly Piper||98946]]/[[Razorfen Vineweaver||122562]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/49/
-msgid "Scale blood gems and play them with Rally"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/57/
 msgid "Elementals - NOMI"
 msgstr ""
@@ -138,6 +117,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/57/
 msgid "Dump huge stats onto Elementals"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/49/
+msgid "Quilboar - Rally"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/49/
+msgid "Scale your bloodgems using an early [[Sanguine Refiner||122566]]. Then, [[Razorfen Vineweaver||122562]] casts 3 or more permanent gems on itself each fight, while [[Bloodsnout Warlord||122564]] casts an insane amount of temporary gems on your board. You also want to shield as many Quilboars as possible using [[Hog Watcher||122737]]. In the endgame, you may gem transfer using [[Gem Confiscation||110642]] onto a [[Corrupted Bristler||120033]] to double the effectiveness of your blood gems. Taunt is important in this comp, and use it on either [[Charlga||70165]] or [[Darkgaze Elder||80756]]"
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/49/
+msgid "Gem Scaling ([[Sanguine Refiner||122566]]) + Payoff ([[Razorfen Vineweaver||122562]]/[[Bloodsnout Warlord||122564]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/49/
+msgid "[[Sanguine Refiner||122566]]\n"
+"Quilboar midgame([[Prickly Piper||98946]]/[[Razorfen Vineweaver||122562]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/49/
+msgid "Scale blood gems and play them with Rally"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/50/

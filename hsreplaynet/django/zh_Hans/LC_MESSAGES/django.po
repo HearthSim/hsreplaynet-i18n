@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-28 17:35+0000\n"
-"PO-Revision-Date: 2025-08-29 00:40\n"
+"POT-Creation-Date: 2025-08-29 01:40+0000\n"
+"PO-Revision-Date: 2025-08-29 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -100,7 +100,7 @@ msgstr "您已经达到了活动的代码最大兑换次数。"
 
 #: api/views/accounts.py:391
 msgid "You have already redeemed a code for this product. Start a subscription before redeeming this code."
-msgstr ""
+msgstr "您已经为该产品兑换了一个代码。在兑换此代码之前先开始订阅。"
 
 #: api/views/accounts.py:402
 msgid "This code is unknown."
@@ -486,12 +486,12 @@ msgid "Not affiliated with Blizzard Entertainment."
 msgstr "与Blizzard Entertainment没有从属关系。"
 
 #: templates/footer.html:63 templates/navigation.html:67
-#: templates/navigation.html:172 templates/navigation.html:229
+#: templates/navigation.html:176 templates/navigation.html:233
 #: web/views/__init__.py:175
 msgid "Downloads"
 msgstr "下载"
 
-#: templates/footer.html:64 templates/navigation.html:213
+#: templates/footer.html:64 templates/navigation.html:217
 #: web/views/premium.py:31
 msgid "Premium"
 msgstr "升级会员"
@@ -508,55 +508,59 @@ msgstr "Arenasmith"
 msgid "Standard Decks"
 msgstr "标准模式套牌"
 
-#: templates/footer.html:75
-msgid "Wild Decks"
-msgstr "狂野模式套牌"
-
-#: templates/footer.html:76 web/views/archetypes.py:48
+#: templates/footer.html:75 web/views/archetypes.py:48
 msgid "Meta Tier List"
 msgstr "环境梯队表"
 
-#: templates/footer.html:77
+#: templates/footer.html:76
 msgid "Arena Legendaries"
 msgstr "竞技模式传说卡"
 
-#: templates/footer.html:78
+#: templates/footer.html:77
 msgid "Arena Winning Decks"
 msgstr "竞技模式胜利套牌"
 
-#: templates/footer.html:79 web/views/battlegrounds.py:138
+#: templates/footer.html:78 web/views/battlegrounds.py:138
 msgid "Battlegrounds Heroes"
 msgstr "酒馆战棋英雄"
+
+#: templates/footer.html:79 web/views/battlegrounds.py:153
+msgid "Battlegrounds Comps"
+msgstr "酒馆战棋流派"
 
 #: templates/footer.html:80 web/views/battlegrounds.py:286
 msgid "Battlegrounds Anomalies"
 msgstr "酒馆战棋畸变"
 
-#: templates/footer.html:81 web/views/battlegrounds.py:219
+#: templates/footer.html:81 web/views/battlegrounds.py:341
+msgid "Battlegrounds Quests"
+msgstr "酒馆战棋任务"
+
+#: templates/footer.html:82 web/views/battlegrounds.py:219
 msgid "Battlegrounds Trinkets"
 msgstr "酒馆战棋饰品"
 
-#: templates/footer.html:85
+#: templates/footer.html:86
 msgid "Support"
 msgstr "用户支持"
 
-#: templates/footer.html:98
+#: templates/footer.html:99
 msgid "Help Center"
 msgstr "帮助中心"
 
-#: templates/footer.html:100
+#: templates/footer.html:101
 msgid "Your Account"
 msgstr "您的账户"
 
-#: templates/footer.html:102
+#: templates/footer.html:103
 msgid "Terms of Service"
 msgstr "服务条款"
 
-#: templates/footer.html:105
+#: templates/footer.html:106
 msgid "Privacy Policy"
 msgstr "隐私权政策"
 
-#: templates/footer.html:107
+#: templates/footer.html:108
 msgid "Get in Touch"
 msgstr "联系我们"
 
@@ -605,43 +609,43 @@ msgstr "流派"
 msgid "Quests"
 msgstr "任务"
 
-#: templates/navigation.html:139 web/views/battlegrounds.py:294
-msgid "Anomalies"
-msgstr "畸变"
-
-#: templates/navigation.html:150
-msgid "Minions"
-msgstr "随从"
-
-#: templates/navigation.html:164
-msgid "SALE!"
-msgstr "促销！"
-
-#: templates/navigation.html:179
-msgid "Trending"
-msgstr "趋势"
-
-#: templates/navigation.html:187 templates/navigation.html:193
-msgid "Meta"
-msgstr "环境"
-
-#: templates/navigation.html:188
-msgid "Back soon!"
-msgstr "马上回来！"
-
-#: templates/navigation.html:200
-msgid "Decks"
-msgstr "套牌"
-
-#: templates/navigation.html:206 web/views/cards.py:37 web/views/cards.py:165
-msgid "Cards"
-msgstr "卡牌"
-
-#: templates/navigation.html:222
+#: templates/navigation.html:129 templates/navigation.html:226
 msgid "NEW"
 msgstr "新"
 
-#: templates/navigation.html:256
+#: templates/navigation.html:143 web/views/battlegrounds.py:294
+msgid "Anomalies"
+msgstr "畸变"
+
+#: templates/navigation.html:154
+msgid "Minions"
+msgstr "随从"
+
+#: templates/navigation.html:168
+msgid "SALE!"
+msgstr "促销！"
+
+#: templates/navigation.html:183
+msgid "Trending"
+msgstr "趋势"
+
+#: templates/navigation.html:191 templates/navigation.html:197
+msgid "Meta"
+msgstr "环境"
+
+#: templates/navigation.html:192
+msgid "Back soon!"
+msgstr "马上回来！"
+
+#: templates/navigation.html:204
+msgid "Decks"
+msgstr "套牌"
+
+#: templates/navigation.html:210 web/views/cards.py:37 web/views/cards.py:165
+msgid "Cards"
+msgstr "卡牌"
+
+#: templates/navigation.html:260
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "我们正在根据最新酒馆战棋补丁更新此页面。您可能会暂时看到缺失和过期的信息。"
 
@@ -913,10 +917,6 @@ msgstr "酒馆战棋HSReplay.net Tier7"
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr "打开我们的酒馆战棋英雄梯队表，查看在百万场对局中它们的表现。"
 
-#: web/views/battlegrounds.py:153
-msgid "Battlegrounds Comps"
-msgstr "酒馆战棋流派"
-
 #: web/views/battlegrounds.py:155
 msgid "Explore our Comps Tier List and learn which comp is the best - powered by JeefHS, Top BGs player."
 msgstr "探索我们的战棋流派梯队表并学习哪个流派是最好的 - 由顶级酒馆战棋玩家 JeefHS 提供支持。"
@@ -929,13 +929,9 @@ msgstr "透过千千万对局数据，探索酒馆战棋中最适合您的饰品
 msgid "Explore our Battlegrounds Anomalies List and learn which anomalies are more common - powered by data from millions of games."
 msgstr "打开我们的酒馆战棋畸变梯队表，查看它们在百万场对局中的表现。"
 
-#: web/views/battlegrounds.py:341
-msgid "Battlegrounds Quests"
-msgstr "酒馆战棋任务"
-
 #: web/views/battlegrounds.py:343
-msgid "Explore our Battlegrounds Quests List and learn which quests are more common - powered by data from millions of games."
-msgstr "打开我们的酒馆战棋任务梯队表，查看它们在百万场对局中的表现。"
+msgid "Explore our Battlegrounds Quests List and learn which quests are the best - powered by data from millions of games."
+msgstr "打开我们的酒馆战棋任务梯队表看看最好的任务哪些 —— 基于它们在百万场对局中的表现。"
 
 #: web/views/battlegrounds.py:395
 msgid "Battlegrounds Duos Heroes"

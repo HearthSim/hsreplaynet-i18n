@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-28 17:35+0000\n"
-"PO-Revision-Date: 2025-08-29 00:40\n"
+"POT-Creation-Date: 2025-08-29 01:40+0000\n"
+"PO-Revision-Date: 2025-08-29 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -474,12 +474,12 @@ msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Не связан с Blizzard Entertainment."
 
 #: templates/footer.html:63 templates/navigation.html:67
-#: templates/navigation.html:172 templates/navigation.html:229
+#: templates/navigation.html:176 templates/navigation.html:233
 #: web/views/__init__.py:175
 msgid "Downloads"
 msgstr "Скачать"
 
-#: templates/footer.html:64 templates/navigation.html:213
+#: templates/footer.html:64 templates/navigation.html:217
 #: web/views/premium.py:31
 msgid "Premium"
 msgstr "Премиум"
@@ -496,55 +496,59 @@ msgstr ""
 msgid "Standard Decks"
 msgstr ""
 
-#: templates/footer.html:75
-msgid "Wild Decks"
-msgstr ""
-
-#: templates/footer.html:76 web/views/archetypes.py:48
+#: templates/footer.html:75 web/views/archetypes.py:48
 msgid "Meta Tier List"
 msgstr ""
 
-#: templates/footer.html:77
+#: templates/footer.html:76
 msgid "Arena Legendaries"
 msgstr ""
 
-#: templates/footer.html:78
+#: templates/footer.html:77
 msgid "Arena Winning Decks"
 msgstr ""
 
-#: templates/footer.html:79 web/views/battlegrounds.py:138
+#: templates/footer.html:78 web/views/battlegrounds.py:138
 msgid "Battlegrounds Heroes"
 msgstr "Герои Полей сражений"
+
+#: templates/footer.html:79 web/views/battlegrounds.py:153
+msgid "Battlegrounds Comps"
+msgstr ""
 
 #: templates/footer.html:80 web/views/battlegrounds.py:286
 msgid "Battlegrounds Anomalies"
 msgstr ""
 
-#: templates/footer.html:81 web/views/battlegrounds.py:219
+#: templates/footer.html:81 web/views/battlegrounds.py:341
+msgid "Battlegrounds Quests"
+msgstr ""
+
+#: templates/footer.html:82 web/views/battlegrounds.py:219
 msgid "Battlegrounds Trinkets"
 msgstr ""
 
-#: templates/footer.html:85
+#: templates/footer.html:86
 msgid "Support"
 msgstr "Поддержка"
 
-#: templates/footer.html:98
+#: templates/footer.html:99
 msgid "Help Center"
 msgstr "Справка"
 
-#: templates/footer.html:100
+#: templates/footer.html:101
 msgid "Your Account"
 msgstr "Личный кабинет"
 
-#: templates/footer.html:102
+#: templates/footer.html:103
 msgid "Terms of Service"
 msgstr "Пользоват. соглашение"
 
-#: templates/footer.html:105
+#: templates/footer.html:106
 msgid "Privacy Policy"
 msgstr "Конфиденциальность"
 
-#: templates/footer.html:107
+#: templates/footer.html:108
 msgid "Get in Touch"
 msgstr ""
 
@@ -593,43 +597,43 @@ msgstr ""
 msgid "Quests"
 msgstr ""
 
-#: templates/navigation.html:139 web/views/battlegrounds.py:294
-msgid "Anomalies"
-msgstr ""
-
-#: templates/navigation.html:150
-msgid "Minions"
-msgstr "Существа"
-
-#: templates/navigation.html:164
-msgid "SALE!"
-msgstr "Распродажа!"
-
-#: templates/navigation.html:179
-msgid "Trending"
-msgstr "Популярное"
-
-#: templates/navigation.html:187 templates/navigation.html:193
-msgid "Meta"
-msgstr "Мета"
-
-#: templates/navigation.html:188
-msgid "Back soon!"
-msgstr "Скоро вернется!"
-
-#: templates/navigation.html:200
-msgid "Decks"
-msgstr "Колоды"
-
-#: templates/navigation.html:206 web/views/cards.py:37 web/views/cards.py:165
-msgid "Cards"
-msgstr "Карты"
-
-#: templates/navigation.html:222
+#: templates/navigation.html:129 templates/navigation.html:226
 msgid "NEW"
 msgstr ""
 
-#: templates/navigation.html:256
+#: templates/navigation.html:143 web/views/battlegrounds.py:294
+msgid "Anomalies"
+msgstr ""
+
+#: templates/navigation.html:154
+msgid "Minions"
+msgstr "Существа"
+
+#: templates/navigation.html:168
+msgid "SALE!"
+msgstr "Распродажа!"
+
+#: templates/navigation.html:183
+msgid "Trending"
+msgstr "Популярное"
+
+#: templates/navigation.html:191 templates/navigation.html:197
+msgid "Meta"
+msgstr "Мета"
+
+#: templates/navigation.html:192
+msgid "Back soon!"
+msgstr "Скоро вернется!"
+
+#: templates/navigation.html:204
+msgid "Decks"
+msgstr "Колоды"
+
+#: templates/navigation.html:210 web/views/cards.py:37 web/views/cards.py:165
+msgid "Cards"
+msgstr "Карты"
+
+#: templates/navigation.html:260
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "Мы обновляем этот раздел в связи с выходом обновления на Полях сражений. Данные могут быть не полными или отображаться с задержкой."
 
@@ -901,10 +905,6 @@ msgstr "HSReplay.net Тир7 для Полей сражений"
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr "Изучите наш список уровней героев Полей Сражений и узнайте, какой герой является лучшим — на основе данных из миллионов игр."
 
-#: web/views/battlegrounds.py:153
-msgid "Battlegrounds Comps"
-msgstr ""
-
 #: web/views/battlegrounds.py:155
 msgid "Explore our Comps Tier List and learn which comp is the best - powered by JeefHS, Top BGs player."
 msgstr ""
@@ -917,12 +917,8 @@ msgstr ""
 msgid "Explore our Battlegrounds Anomalies List and learn which anomalies are more common - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:341
-msgid "Battlegrounds Quests"
-msgstr ""
-
 #: web/views/battlegrounds.py:343
-msgid "Explore our Battlegrounds Quests List and learn which quests are more common - powered by data from millions of games."
+msgid "Explore our Battlegrounds Quests List and learn which quests are the best - powered by data from millions of games."
 msgstr ""
 
 #: web/views/battlegrounds.py:395
