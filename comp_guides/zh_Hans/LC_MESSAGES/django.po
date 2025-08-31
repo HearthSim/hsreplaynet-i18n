@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-29 01:40\n"
+"POT-Creation-Date: 2025-08-31 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-30 12:40\n"
+"PO-Revision-Date: 2025-08-31 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - APM"
@@ -227,28 +227,6 @@ msgstr "恶魔中期过度([[Soul Juggler||59660]])\n"
 msgid "Demons deal damage to buff board"
 msgstr "恶魔造成伤害来增强棋盘"
 
-#: name | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Mechs - Magnetics"
-msgstr "机械 - 磁力"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Generate Magnetics with an early [[Holo Rover||115674]] and windfury it ASAP. [[Polarizing Beatboxer||98713]] and [[Rickety Repairbot||120027]] help you put more magnetics on your board. Finally, [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]] scales your board based on the amount of magnetics on your mechs. ADVANCED STRATEGY: Stacking requires putting all of your magnetics on a magnetic, tripling it, then putting then magnetic stack on another magnetic. Do this ONLY if you're generate a ton of magnetics through multiple Holo Rovers."
-msgstr "尽早获得 [[Holo Rover||115674]] 并立即赋予其风怒效果。[[Polarizing Beatboxer||98713]] 和 [[Rickety Repairbot||120027]] 能帮助你强化场上的磁力效果。最终后用 [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]] 能根据机械上的磁力装置数量增强你的棋盘。进阶策略：将所有磁力堆叠吸附于一个磁力机械上，三连它，再将该磁力吸附于另一磁力机械上。仅当你能通过多个移动投影仪生成大量磁力随从时才采用此策略。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Holo Rover||115674]] or [[Rickety Repairbot||120027]] + [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]]"
-msgstr "[[Holo Rover||115674]] 或 [[Rickety Repairbot||120027]] + [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Rickety Repairbot||120027]]\n"
-"[[Holo Rover||115674]]"
-msgstr "[[Rickety Repairbot||120027]]\n"
-"[[Holo Rover||115674]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Magnetize Mechs and scale them."
-msgstr "给机械贴磁力并增强它们。"
-
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
 msgstr "恶魔 - 商店Buff/法术"
@@ -293,8 +271,30 @@ msgstr "[[Prickly Piper||98946]] + 野猪人中期过度 ([[Roadboar||70157]])"
 msgid "Spend gold to cast blood gems"
 msgstr "花费铸币施放鲜血宝石"
 
+#: name | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Mechs - Magnetics"
+msgstr "机械 - 磁力"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Generate Magnetics with an early [[Holo Rover||115674]] and windfury it ASAP. [[Polarizing Beatboxer||98713]] and [[Rickety Repairbot||120027]] help you put more magnetics on your board. Finally, [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]] scales your board based on the amount of magnetics on your mechs. ADVANCED STRATEGY: Stacking requires putting all of your magnetics on a magnetic, tripling it, then putting then magnetic stack on another magnetic. Do this ONLY if you're generate a ton of magnetics through multiple Holo Rovers."
+msgstr "尽早获得 [[Holo Rover||115674]] 并立即赋予其风怒效果。[[Polarizing Beatboxer||98713]] 和 [[Rickety Repairbot||120027]] 能帮助你强化场上的磁力效果。最终后用 [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]] 能根据机械上的磁力装置数量增强你的棋盘。进阶策略：将所有磁力堆叠吸附于一个磁力机械上，三连它，再将该磁力吸附于另一磁力机械上。仅当你能通过多个移动投影仪生成大量磁力随从时才采用此策略。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Holo Rover||115674]] or [[Rickety Repairbot||120027]] + [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]]"
+msgstr "[[Holo Rover||115674]] 或 [[Rickety Repairbot||120027]] + [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Rickety Repairbot||120027]]\n"
+"[[Holo Rover||115674]]"
+msgstr "[[Rickety Repairbot||120027]]\n"
+"[[Holo Rover||115674]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Magnetize Mechs and scale them."
+msgstr "给机械贴磁力并增强它们。"
+
 #: name | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Beasts - StegoBACK"
+msgid "Beasts - StegoDONE"
 msgstr "野兽 - 剑龙"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/48/

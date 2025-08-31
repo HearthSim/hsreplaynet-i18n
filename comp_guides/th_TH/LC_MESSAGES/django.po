@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-29 01:40\n"
+"POT-Creation-Date: 2025-08-31 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Thai\n"
 "Language: th\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: th\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-29 12:40\n"
+"PO-Revision-Date: 2025-08-31 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - APM"
@@ -222,27 +222,6 @@ msgstr ""
 msgid "Demons deal damage to buff board"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Mechs - Magnetics"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Generate Magnetics with an early [[Holo Rover||115674]] and windfury it ASAP. [[Polarizing Beatboxer||98713]] and [[Rickety Repairbot||120027]] help you put more magnetics on your board. Finally, [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]] scales your board based on the amount of magnetics on your mechs. ADVANCED STRATEGY: Stacking requires putting all of your magnetics on a magnetic, tripling it, then putting then magnetic stack on another magnetic. Do this ONLY if you're generate a ton of magnetics through multiple Holo Rovers."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Holo Rover||115674]] or [[Rickety Repairbot||120027]] + [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Rickety Repairbot||120027]]\n"
-"[[Holo Rover||115674]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Magnetize Mechs and scale them."
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
 msgstr ""
@@ -285,8 +264,29 @@ msgstr ""
 msgid "Spend gold to cast blood gems"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Mechs - Magnetics"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Generate Magnetics with an early [[Holo Rover||115674]] and windfury it ASAP. [[Polarizing Beatboxer||98713]] and [[Rickety Repairbot||120027]] help you put more magnetics on your board. Finally, [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]] scales your board based on the amount of magnetics on your mechs. ADVANCED STRATEGY: Stacking requires putting all of your magnetics on a magnetic, tripling it, then putting then magnetic stack on another magnetic. Do this ONLY if you're generate a ton of magnetics through multiple Holo Rovers."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Holo Rover||115674]] or [[Rickety Repairbot||120027]] + [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Rickety Repairbot||120027]]\n"
+"[[Holo Rover||115674]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Magnetize Mechs and scale them."
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Beasts - StegoBACK"
+msgid "Beasts - StegoDONE"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/48/
