@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-08T01:40:24.791295\n"
+"POT-Creation-Date: 2025-09-04T01:40:23.669918\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2025-08-29 00:40\n"
+"PO-Revision-Date: 2025-09-04 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1473,6 +1473,10 @@ msgstr "Eber-Priester"
 msgid "Quest Zoo Warlock"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/811/egg-death-knight
+msgid "Egg Death Knight"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/550/shark-rogue
 msgid "Shark Rogue"
 msgstr ""
@@ -1695,6 +1699,10 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/511/burn-shaman
 msgid "Burn Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/813/egg-rogue
+msgid "Egg Rogue"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/481/shadow-priest
@@ -2429,9 +2437,9 @@ msgstr ""
 msgid "Core Priest"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/693/deathrattle-death-knight
-msgid "Deathrattle Death Knight"
-msgstr "Todesröcheln-Todesritter"
+#: https://hsreplay.net/archetypes/812/egg-paladin
+msgid "Egg Paladin"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/732/trample-hunter
 msgid "Trample Hunter"
@@ -2760,4 +2768,8 @@ msgstr ""
 #: https://hsreplay.net/archetypes/810/fyrakk-rogue
 msgid "Fyrakk Rogue"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/693/deathrattle-death-knight
+msgid "Deathrattle Death Knight"
+msgstr "Todesröcheln-Todesritter"
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-03T01:40:24.241739\n"
+"POT-Creation-Date: 2025-09-04T01:40:24.842258\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /quest_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 183\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2025-09-03 12:40\n"
+"PO-Revision-Date: 2025-09-04 12:40\n"
 
 #: Quest id 104673 | Guide id 73
 msgid "Strong quest, especially with Murlocs, Eles, and/or Pirates. Brann is powerful in a lot of meta APM comps."
@@ -27,10 +27,6 @@ msgstr ""
 
 #: Quest id 110305 | Guide id 36
 msgid "Generically strong quest, used to duplicate core cards for any comp."
-msgstr ""
-
-#: Quest id 104670 | Guide id 6
-msgid "The best quest possible with Undeads in, pretty much unpickable without. Stay on 4 and force Carapace Undeads."
 msgstr ""
 
 #: Quest id 97658 | Guide id 69
@@ -49,8 +45,8 @@ msgstr ""
 msgid "Need to pick with an avenge setup ([[Manasaber||98831]]/[[Icky Imp||74910]]) Then, finish quest as soon as possible."
 msgstr ""
 
-#: Quest id 89481 | Guide id 13
-msgid "Generically strong quest. No need to rush this, best picked with a passive quest completion (have minions attack/die)"
+#: Quest id 97966 | Guide id 14
+msgid "Try to finish this ASAP. Turn 4-5 is great, turn 6 is average, turn 7+ is too slow. Used to \"buy\" a minion in shop for free each turn."
 msgstr ""
 
 #: Quest id 122825 | Guide id 52
@@ -73,8 +69,12 @@ msgstr ""
 msgid "Finish this ASAP. Getting it online start of turn 5-6 is great, start of turn 7 is average, start of turn 8 is too slow."
 msgstr ""
 
-#: Quest id 97966 | Guide id 14
-msgid "Try to finish this ASAP. Turn 4-5 is great, turn 6 is average, turn 7+ is too slow."
+#: Quest id 121945 | Guide id 41
+msgid "Finish this ASAP, even if it means staying down taverns to do so. 7 gold per turn is very very strong and will immediately catch you back up on lost value."
+msgstr ""
+
+#: Quest id 104670 | Guide id 6
+msgid "The best quest possible with Undeads in, pretty much unpickable without. Carapace Undead is the best comp for this quest."
 msgstr ""
 
 #: Quest id 110298 | Guide id 16
@@ -133,14 +133,6 @@ msgstr ""
 msgid "All around decent quest, try to finish it ASAP."
 msgstr ""
 
-#: Quest id 110343 | Guide id 4
-msgid "Finish this quest ASAP. Start of turn 5-6 is amazing, start of turn 7-8 is average, start of turn 9+ is too late."
-msgstr ""
-
-#: Quest id 121945 | Guide id 41
-msgid "Finish this ASAP. It's also a really rare quest, so there's not much data on it to work with."
-msgstr ""
-
 #: Quest id 92563 | Guide id 71
 msgid "Just an RNG quest. Finishing start of turn 5-6 is amazing, turn 7 is average, turn 8+ is too slow."
 msgstr ""
@@ -153,16 +145,12 @@ msgstr ""
 msgid "Only pick Scepter for good tribes (Undead/Elementals). Nagas to force Deep Blue Zesty is OK. Scepter for bad tribes are actively bad."
 msgstr ""
 
-#: Quest id 90916 | Guide id 37
-msgid "Insane popoff quest that can enable being infinite, you just need to live while completing it. After completed, buy every single discovery effect because they're at least free, and find some way to scale."
-msgstr ""
-
-#: Quest id 110309 | Guide id 7
-msgid "You must finish this turn 4-5 or else its unpickable. Even so, the quest usually pretty mediocre."
-msgstr ""
-
 #: Quest id 89449 | Guide id 12
 msgid "The best strat with this quest is Brann + Drakkari + Moon bacon Jazzer + Gem Smuggler. If you can get there, it's S tier."
+msgstr ""
+
+#: Quest id 90916 | Guide id 37
+msgid "Insane popoff quest that can enable being infinite, you just need to live while completing it. After completed, buy every single discovery effect because they're at least free, and find some way to scale. Typically, you run an APM comp such as Murlocs, Elementals, or Pirates."
 msgstr ""
 
 #: Quest id 110300 | Guide id 58
@@ -173,16 +161,8 @@ msgstr ""
 msgid "Generically pretty good quest, especially if the tribe for it is good (Elementals/Undead). Try to finish it ASAP."
 msgstr ""
 
-#: Quest id 97756 | Guide id 68
-msgid "Generically okay quest, best done with a passive completion (Have minion attack/dies)."
-msgstr ""
-
 #: Quest id 104724 | Guide id 70
 msgid "Start of turn 5 acceleration is amazing, start of turn 6 is average, start of turn 7+ is too slow."
-msgstr ""
-
-#: Quest id 121943 | Guide id 42
-msgid "You need to finish this relatively early (before start of turn 8). If you can get away with it, freeze a shop with the core unit as the highest tavern tier in the shop, preferably if the shop is full (If it's not full, it has a low chance of goldening a random unit). Then, next turn, that core card will be golden."
 msgstr ""
 
 #: Quest id 93074 | Guide id 29
@@ -191,5 +171,25 @@ msgstr ""
 
 #: Quest id 110299 | Guide id 59
 msgid "Amazing quest with APM Pirates to generate a ton of bounties and have them cast twice, making you infinite very easily. Nalaa and Evoker are orher options for good comps with this quest."
+msgstr ""
+
+#: Quest id 110309 | Guide id 7
+msgid "You must finish this turn 4-5 or else its unpickable. Even so, the quest usually pretty mediocre. The quest will eventually stop at 6 and golden a 6 drop at the start of every turn"
+msgstr ""
+
+#: Quest id 121943 | Guide id 42
+msgid "You need to finish this relatively early (before start of turn 8), while being on tavern 4 or 5 already. If you can get away with it, freeze a shop with the core unit as the highest tavern tier in the shop, preferably if the shop is full (If it's not full, it has a low chance of goldening a random unit). Then, next turn, that core card will be golden."
+msgstr ""
+
+#: Quest id 89481 | Guide id 13
+msgid "Generically average quest. No need to rush this, best picked with a passive quest completion (have minions attack/die)"
+msgstr ""
+
+#: Quest id 97756 | Guide id 68
+msgid "Generically okay quest, best done with a passive completion (Have minion attack/dies). Used as an effective Reno HP."
+msgstr ""
+
+#: Quest id 110343 | Guide id 4
+msgid "Finish this quest ASAP. Start of turn 5-6 is amazing, start of turn 7-8 is average, start of turn 9+ is too late. Decent synergy with spell strategies such as [[Nalaa the Redeemer||104468]], [[Charging Czarina||110321]], [[Sundered Matriarch||122672]] or [[Fire Forged Evoker||120301]]."
 msgstr ""
 

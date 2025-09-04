@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-08T01:40:24.791295\n"
+"POT-Creation-Date: 2025-09-04T01:40:23.669918\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-09-03 12:40\n"
+"PO-Revision-Date: 2025-09-04 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1473,6 +1473,10 @@ msgstr "野猪牧"
 msgid "Quest Zoo Warlock"
 msgstr "任务动物园"
 
+#: https://hsreplay.net/archetypes/811/egg-death-knight
+msgid "Egg Death Knight"
+msgstr "蛋DK"
+
 #: https://hsreplay.net/archetypes/550/shark-rogue
 msgid "Shark Rogue"
 msgstr "鲨鱼罪碑贼"
@@ -1696,6 +1700,10 @@ msgstr "洛德"
 #: https://hsreplay.net/archetypes/511/burn-shaman
 msgid "Burn Shaman"
 msgstr "法强萨"
+
+#: https://hsreplay.net/archetypes/813/egg-rogue
+msgid "Egg Rogue"
+msgstr "蛋贼"
 
 #: https://hsreplay.net/archetypes/481/shadow-priest
 msgid "Shadow Priest"
@@ -2429,9 +2437,9 @@ msgstr "八爪DK"
 msgid "Core Priest"
 msgstr "脚本牧"
 
-#: https://hsreplay.net/archetypes/693/deathrattle-death-knight
-msgid "Deathrattle Death Knight"
-msgstr "亡语DK"
+#: https://hsreplay.net/archetypes/812/egg-paladin
+msgid "Egg Paladin"
+msgstr "蛋骑"
 
 #: https://hsreplay.net/archetypes/732/trample-hunter
 msgid "Trample Hunter"
@@ -2760,4 +2768,8 @@ msgstr "投影球法"
 #: https://hsreplay.net/archetypes/810/fyrakk-rogue
 msgid "Fyrakk Rogue"
 msgstr "火龙贼"
+
+#: https://hsreplay.net/archetypes/693/deathrattle-death-knight
+msgid "Deathrattle Death Knight"
+msgstr "亡语DK"
 
