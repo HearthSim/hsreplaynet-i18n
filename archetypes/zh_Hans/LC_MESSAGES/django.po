@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-04T01:40:23.669918\n"
+"POT-Creation-Date: 2025-09-05T01:40:24.712019\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-09-04 12:40\n"
+"PO-Revision-Date: 2025-09-05 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1029,10 +1029,6 @@ msgstr "超生瞎"
 msgid "Quest Shaman"
 msgstr "任务萨"
 
-#: https://hsreplay.net/archetypes/384/egg-warrior
-msgid "Egg Warrior"
-msgstr "激怒蛋战"
-
 #: https://hsreplay.net/archetypes/377/galakrond-secret-rogue
 msgid "Galakrond Secret Rogue"
 msgstr "奥秘祈求贼"
@@ -1192,6 +1188,10 @@ msgstr "任务骑"
 #: https://hsreplay.net/archetypes/307/quest-warlock
 msgid "Quest Warlock"
 msgstr "疲劳术"
+
+#: https://hsreplay.net/archetypes/384/egg-warrior
+msgid "Egg Warrior"
+msgstr "激怒蛋战"
 
 #: https://hsreplay.net/archetypes/661/shopper-demon-hunter
 msgid "Shopper Demon Hunter"
@@ -2772,4 +2772,8 @@ msgstr "火龙贼"
 #: https://hsreplay.net/archetypes/693/deathrattle-death-knight
 msgid "Deathrattle Death Knight"
 msgstr "亡语DK"
+
+#: https://hsreplay.net/archetypes/814/beast-warlock
+msgid "Beast Warlock"
+msgstr ""
 
