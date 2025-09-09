@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-31 01:40\n"
+"POT-Creation-Date: 2025-09-09 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,11 +15,31 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-09-08 12:40\n"
+"PO-Revision-Date: 2025-09-09 12:40\n"
+
+#: name | https://hsreplay.net/battlegrounds/comps/61/
+msgid "Pirates - Golden/End Of Turn"
+msgstr "海盗 - 金色/回合结束"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/61/
+msgid "At the end of turn, have a bunch of goldens to buff with [[Yorik Smite||123593]]. Drakkari is necessary, and try goldening as many [[Goldgrubber||61066]] with [[Elite Navigator||119986]] as possible."
+msgstr "在回合结束时，用 [[Yorik Smite||123593]] 强化大量金色随从。达卡莱附魔师是必要的，并尽可能用 [[Elite Navigator||119986]] 将更多 [[Goldgrubber||61066]] 变为金色。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/61/
+msgid "[[Yorik Smite||123593]] + [[Drakkari Enchanter||101314]] + some goldens"
+msgstr "[[Yorik Smite||123593]] + [[Drakkari Enchanter||101314]] + 一些金色随从"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/61/
+msgid "[[Yorik Smite||123593]] + [[Aureate Laureate||119996]]"
+msgstr "[[Yorik Smite||123593]] + [[Aureate Laureate||119996]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/61/
+msgid "Scale golden pirates"
+msgstr "强化金色海盗"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - APM"
-msgstr "鱼人 - 倒转"
+msgstr "鱼人 - 手速倒转"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/34/
 msgid "You want to generate as many murlocs as possible. Typically this is done with cycling Tad and [[Primalfin Lookout||60028]]. Also keep [[Primitive Painter||122281]] on board to scale your board full of murlocs while you cycle free cards with [[Brann Bronzebeard||96786]]. [[Magicfin Mycologist||122277]] generates insane value with Brann is the key to being infinite. If you're going hand buff route, have a [[Bream Counter||98509]] in your hand that scales every time you play a Murloc. Mrglin' Burglar is an option to further scale your Bream in hand. Finally, ending units such as [[Bassgill||98926]] and [[Choral Mrrrglr||98948]] help duplicate the stats of your venom. The best way to cap out your board is with as many Bassgills as possible while holding [[Bile Spitter||122219]] to summon from them."
@@ -27,7 +47,7 @@ msgstr "你要尽可能多地生成鱼人，通常通过循环使用塔德和 [[
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/34/
 msgid "[[Brann Bronzebeard||96786]] + [[Primalfin Lookout||60028]] + Murloc Scaler ([[Primitive Painter||122281]]/[[Mrglin' Burglar||114391]])"
-msgstr "[[Brann Bronzebeard||96786]] + [[Primalfin Lookout||60028]] +鱼人成长 ([[Primitive Painter||122281]]/[[Mrglin' Burglar||114391]])"
+msgstr "[[Brann Bronzebeard||96786]] + [[Primalfin Lookout||60028]] + 鱼人强化 ([[Primitive Painter||122281]]/[[Mrglin' Burglar||114391]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/34/
 msgid "[[Brann Bronzebeard||96786]]"
@@ -79,6 +99,26 @@ msgstr "法术生成 ([[Coilskar Sapper||120565]])"
 msgid "Play spells to buff Nagas"
 msgstr "释放法术来增强纳迦"
 
+#: name | https://hsreplay.net/battlegrounds/comps/62/
+msgid "Pirates - Eudora"
+msgstr "海盗 - 尤朵拉"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/62/
+msgid "Proc [[Ship Master Eudora||123595]] extra times with effects such as [[Titus Rivendare||97408]] and [[Monstrous Macaw||62230]]. Macaw and Titus needs to be golden for this strat to work decent. Fill in the rest of your board with various goldens as well, usually its [[Aureate Laureate||119996]]."
+msgstr "配合 [[Titus Rivendare||97408]] and [[Monstrous Macaw||62230]] 等效果额外触发 [[Ship Master Eudora||123595]] 多次，此战术需金色鹦鹉和瑞文才能发挥理想效果。棋盘其余空位也需用各类金色卡牌填充，通常选 [[Aureate Laureate||119996]]。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/62/
+msgid "[[Ship Master Eudora||123595]] + [[Monstrous Macaw||62230]] + [[Titus Rivendare||97408]] + some goldens"
+msgstr "[[Ship Master Eudora||123595]] + [[Monstrous Macaw||62230]] + [[Titus Rivendare||97408]] + 一些金色随从"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/62/
+msgid "[[Ship Master Eudora||123595]] + some goldens"
+msgstr "[[Ship Master Eudora||123595]] + 一些金色随从"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/62/
+msgid "Scale golden cards in combat"
+msgstr "战斗中强化金色卡牌"
+
 #: name | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Mechs - Divine Shield"
 msgstr "机械 - 圣盾"
@@ -127,11 +167,11 @@ msgstr "野猪人 - 进击"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/49/
 msgid "Scale your bloodgems using an early [[Sanguine Refiner||122566]]. Then, [[Razorfen Vineweaver||122562]] casts 3 or more permanent gems on itself each fight, while [[Bloodsnout Warlord||122564]] casts an insane amount of temporary gems on your board. You also want to shield as many Quilboars as possible using [[Hog Watcher||122737]]. In the endgame, you may gem transfer using [[Gem Confiscation||110642]] onto a [[Corrupted Bristler||120033]] to double the effectiveness of your blood gems. Taunt is important in this comp, and use it on either [[Charlga||70165]] or [[Darkgaze Elder||80756]]"
-msgstr "在早期使用 [[Sanguine Refiner||122566]] 来成长鲜血宝石。然后 [[Razorfen Vineweaver||122562]] 在每次攻击都会为自己使用 3 个或更多的永久宝石，而[[Bloodsnout Warlord||122564]] 则会在你的棋盘上疯狂地施放大量的临时宝石。你还要用 [[Hog Watcher||122737]] 尽可能多地为野猪人套上圣盾。在终局中，你可以使用 [[Gem Confiscation||110642]] 将宝石转移到 [[Corrupted Bristler||120033]] 上，使你的鲜血宝石效果翻倍。嘲讽在这一流派中至关重要，建议给 [[Charlga||70165]] 或[[Darkgaze Elder||80756]] 贴嘲讽"
+msgstr "在早期使用 [[Sanguine Refiner||122566]] 来强化鲜血宝石。然后 [[Razorfen Vineweaver||122562]] 在每次攻击都会为自己使用 3 个或更多的永久宝石，而[[Bloodsnout Warlord||122564]] 则会在你的棋盘上疯狂地施放大量的临时宝石。你还要用 [[Hog Watcher||122737]] 尽可能多地为野猪人套上圣盾。在终局中，你可以使用 [[Gem Confiscation||110642]] 将宝石转移到 [[Corrupted Bristler||120033]] 上，使你的鲜血宝石效果翻倍。嘲讽在这一流派中至关重要，建议给 [[Charlga||70165]] 或[[Darkgaze Elder||80756]] 贴嘲讽"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/49/
 msgid "Gem Scaling ([[Sanguine Refiner||122566]]) + Payoff ([[Razorfen Vineweaver||122562]]/[[Bloodsnout Warlord||122564]])"
-msgstr "鲜血宝石成长 ([[Sanguine Refiner||122566]]) + 贴宝石 ([[Razorfen Vineweaver||122562]]/[[Bloodsnout Warlord||122564]])"
+msgstr "鲜血宝石强化 ([[Sanguine Refiner||122566]]) + 贴宝石 ([[Razorfen Vineweaver||122562]]/[[Bloodsnout Warlord||122564]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/49/
 msgid "[[Sanguine Refiner||122566]]\n"
@@ -141,7 +181,7 @@ msgstr "[[Sanguine Refiner||122566]]\n"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/49/
 msgid "Scale blood gems and play them with Rally"
-msgstr "养大鲜血宝石数值并通过进击施放"
+msgstr "强化鲜血宝石数值并通过进击施放"
 
 #: name | https://hsreplay.net/battlegrounds/comps/50/
 msgid "Dragons - Charmwing"
@@ -163,7 +203,7 @@ msgstr "龙中期过度 ([[Twilight Watcher||122442]])\n"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/50/
 msgid "Scale Dragons with Rally"
-msgstr "通过进击使龙成长"
+msgstr "通过进击强化龙"
 
 #: name | https://hsreplay.net/battlegrounds/comps/56/
 msgid "Murlocs - Magicfin"
@@ -195,11 +235,11 @@ msgstr "在开始触发 [[Gem Smuggler||101594]] 前你需要尽可能提升宝�
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/60/
 msgid "[[Brann Bronzebeard||96786]] + Gem Scaling ([[Prickly Piper||98946]]) + [[Gem Smuggler||101594]]"
-msgstr "[[Brann Bronzebeard||96786]] + 宝石成长 ([[Prickly Piper||98946]]) + [[Gem Smuggler||101594]]"
+msgstr "[[Brann Bronzebeard||96786]] + 宝石强化 ([[Prickly Piper||98946]]) + [[Gem Smuggler||101594]]"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/60/
 msgid "Gem scaling + QB Midgame ([[Prickly Piper||98946]])"
-msgstr "宝石成长 + 野猪人中期过度 ([[Prickly Piper||98946]])"
+msgstr "宝石强化 + 野猪人中期过度 ([[Prickly Piper||98946]])"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/60/
 msgid "Play gems during combat"
@@ -261,7 +301,7 @@ msgstr "在获得 [[Darkgaze Elder||80756]] 和强化宝石([[Prickly Piper||989
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/59/
 msgid "[[Darkgaze Elder||80756]] + scale gems ([[Prickly Piper||98946]])"
-msgstr "[[Darkgaze Elder||80756]] + 宝石成长 ([[Prickly Piper||98946]])"
+msgstr "[[Darkgaze Elder||80756]] + 宝石强化 ([[Prickly Piper||98946]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/59/
 msgid "[[Prickly Piper||98946]] + Quilboar Midgame ([[Roadboar||70157]])"
@@ -291,27 +331,7 @@ msgstr "[[Rickety Repairbot||120027]]\n"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/2/
 msgid "Magnetize Mechs and scale them."
-msgstr "给机械贴磁力并增强它们。"
-
-#: name | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Beasts - StegoDONE"
-msgstr "野兽 - 剑龙"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Initially attack with your windfury [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or Moduled [[Mechanized Gift Horse||103682]] to soak some attacks. Then, the next things to attack should be [[Monstrous Macaw||62230]] that procs [[Manasaber||98831]], because this first fills out the board with taunts and then adds the rally to the whole board. Do that with as many Macaws as possible. Every 4 things that die will give your board insane rallys because your Poultron's will attack and swing with all the combined rallies. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your taunts to soak more attacks, and then reborn your Poultrons."
-msgstr "首先用风怒的 [[Stomping Stegodon||122286]] 发起攻击。确保你有一个嘲讽的 [[Sewer Rat||70790]] 或贴了吵吵模组的 [[Mechanized Gift Horse||103682]] 来承受一些攻击。接下来应优先攻击的是 [[Monstrous Macaw||62230]] 来触发 [[Manasaber||98831]] 的亡语，因为这样就能用嘲讽随从填满棋盘，随后为整个棋盘提供进击效果。尽可能多地使用鹦鹉进行此操作。每当有4个随从死亡时，你的棋盘将获得疯狂的进击，因为你的P-0UL-TR-0N护巢机将利用所有累积的进击进行攻击。千万不要复生你的剑龙！！使用 [[Sprightly Scarab||108909]] 时，你需要首先复生你的嘲讽单位吸收更多伤害。然后再对你的P-0UL-TR-0N护巢机贴上复生。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/48/
-msgid "[[Stomping Stegodon||122286]] + Beasts ([[Manasaber||98831]])"
-msgstr "[[Stomping Stegodon||122286]] + 野兽 ([[Manasaber||98831]])"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Beast midgame ([[Bird Buddy||72055]])"
-msgstr "野兽中期过度 ([[Bird Buddy||72055]])"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Exponentially scale stats with rally"
-msgstr "通过进击实现数值的指数级增长"
+msgstr "给机械贴磁力并强化它们。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Venom Scam"
@@ -332,6 +352,26 @@ msgstr "快被淘汰了"
 #: summary | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Buy scam cards and try to preserve placements"
 msgstr "购买下毒卡牌，试图吃烂分"
+
+#: name | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Beasts - StegoDONE"
+msgstr "野兽 - 剑龙"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Initially attack with your windfury [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or Moduled [[Mechanized Gift Horse||103682]] to soak some attacks. Then, the next things to attack should be [[Monstrous Macaw||62230]] that procs [[Manasaber||98831]], because this first fills out the board with taunts and then adds the rally to the whole board. Do that with as many Macaws as possible. Every 4 things that die will give your board insane rallys because your Poultron's will attack and swing with all the combined rallies. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your taunts to soak more attacks, and then reborn your Poultrons."
+msgstr "首先用风怒的 [[Stomping Stegodon||122286]] 发起攻击。确保你有一个嘲讽的 [[Sewer Rat||70790]] 或贴了吵吵模组的 [[Mechanized Gift Horse||103682]] 来承受一些攻击。接下来应优先攻击的是 [[Monstrous Macaw||62230]] 来触发 [[Manasaber||98831]] 的亡语，因为这样就能用嘲讽随从填满棋盘，随后为整个棋盘提供进击效果。尽可能多地使用鹦鹉进行此操作。每当有4个随从死亡时，你的棋盘将获得疯狂的进击，因为你的P-0UL-TR-0N护巢机将利用所有累积的进击进行攻击。千万不要复生你的剑龙！！使用 [[Sprightly Scarab||108909]] 时，你需要首先复生你的嘲讽单位吸收更多伤害。然后再对你的P-0UL-TR-0N护巢机贴上复生。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/48/
+msgid "[[Stomping Stegodon||122286]] + Beasts ([[Manasaber||98831]])"
+msgstr "[[Stomping Stegodon||122286]] + 野兽 ([[Manasaber||98831]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Beast midgame ([[Bird Buddy||72055]])"
+msgstr "野兽中期过度 ([[Bird Buddy||72055]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Exponentially scale stats with rally"
+msgstr "通过进击实现数值的指数级增长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/52/
 msgid "Undead - Carapace"
@@ -357,7 +397,7 @@ msgstr "使用法术强化召唤物。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/53/
 msgid "Elementals - APM Violet"
-msgstr "元素 - 极紫外"
+msgstr "元素 - 极紫外手速倒转"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/53/
 msgid "Cycle as many elementals as you can with [[Ultraviolet Ascendant||115581]] on board. The best way to do that is with [[Brann Bronzebeard||96786]], and then buying every [[Tavern Tempest||64077]], [[Sellemental||64038]], and [[Refreshing Anomaly||64042]]. Golden [[Ichoron the Protector||115585]] is nice to shield your whole board, and [[Lantern Lava||122650]] can be used to copy an amazing elemental every turn."
@@ -369,7 +409,7 @@ msgstr "[[Brann Bronzebeard||96786]] + [[Ultraviolet Ascendant||115581]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/53/
 msgid "Cycle elementals to scale them"
-msgstr "刷元素牌成长"
+msgstr "刷元素牌来强化元素"
 
 #: name | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Nagas - Spell Buff/End of Turn"
@@ -411,15 +451,15 @@ msgstr "进击 ([[Bonker||70173]])"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/54/
 msgid "Rally to scale different tribes"
-msgstr "进击成长不同种族"
+msgstr "通过进击强化不同种族"
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Pirates - Bounty APM"
-msgstr "海盗 - 悬赏令倒转"
+msgstr "海盗 - 悬赏令手速倒转"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
 msgid "[[Sky Admiral Rogers||122516]] or other bounty generation combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup. At some point, you'll be infinite with bounties, and you'll need spell scaling to really capitalize on the bounty scaling. Cards such as [[Sundered Matriarch||122672]] and [[Timecap'n Hooktail||103676]] gets insane value because of the amount of spells you're playing, and [[Tranquil Meditative||119942]] or [[Felfire Conjurer||120299]] helps improve the quality of your bounties."
-msgstr "[[Sky Admiral Rogers||122516]] 或其他悬赏令生成器与 [[Proud Privateer||122520]] 搭配时可以让你获得大量铸币来完成更多布局。在某些时候你会无限获得悬赏令，你需要法术成长来真正利用悬赏令成长。诸如 [[Sundered Matriarch||122672]] 和 [[Timecap'n Hooktail||103676]] 之类的卡牌会因为你的法术数量而获得疯狂的价值，而[[Tranquil Meditative||119942]] 或 [[Felfire Conjurer||120299]] 则有助于提高悬赏令的质量。"
+msgstr "[[Sky Admiral Rogers||122516]] 或其他悬赏令生成器与 [[Proud Privateer||122520]] 搭配时可以让你获得大量铸币来完成更多布局。在某些时候你会无限获得悬赏令，你需要法术强化来真正利用悬赏令强化。诸如 [[Sundered Matriarch||122672]] 和 [[Timecap'n Hooktail||103676]] 之类的卡牌会因为你的法术数量而获得疯狂的价值，而[[Tranquil Meditative||119942]] 或 [[Felfire Conjurer||120299]] 则有助于提高悬赏令的质量。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Bounty Generation ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]]"

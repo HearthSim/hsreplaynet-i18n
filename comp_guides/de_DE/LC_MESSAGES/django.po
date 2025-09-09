@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-31 01:40\n"
+"POT-Creation-Date: 2025-09-09 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -15,7 +15,27 @@ msgstr ""
 "X-Crowdin-Language: de\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-08-31 12:40\n"
+"PO-Revision-Date: 2025-09-09 12:40\n"
+
+#: name | https://hsreplay.net/battlegrounds/comps/61/
+msgid "Pirates - Golden/End Of Turn"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/61/
+msgid "At the end of turn, have a bunch of goldens to buff with [[Yorik Smite||123593]]. Drakkari is necessary, and try goldening as many [[Goldgrubber||61066]] with [[Elite Navigator||119986]] as possible."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/61/
+msgid "[[Yorik Smite||123593]] + [[Drakkari Enchanter||101314]] + some goldens"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/61/
+msgid "[[Yorik Smite||123593]] + [[Aureate Laureate||119996]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/61/
+msgid "Scale golden pirates"
+msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - APM"
@@ -76,6 +96,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/55/
 msgid "Play spells to buff Nagas"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/62/
+msgid "Pirates - Eudora"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/62/
+msgid "Proc [[Ship Master Eudora||123595]] extra times with effects such as [[Titus Rivendare||97408]] and [[Monstrous Macaw||62230]]. Macaw and Titus needs to be golden for this strat to work decent. Fill in the rest of your board with various goldens as well, usually its [[Aureate Laureate||119996]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/62/
+msgid "[[Ship Master Eudora||123595]] + [[Monstrous Macaw||62230]] + [[Titus Rivendare||97408]] + some goldens"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/62/
+msgid "[[Ship Master Eudora||123595]] + some goldens"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/62/
+msgid "Scale golden cards in combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/21/
@@ -285,26 +325,6 @@ msgstr ""
 msgid "Magnetize Mechs and scale them."
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Beasts - StegoDONE"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Initially attack with your windfury [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or Moduled [[Mechanized Gift Horse||103682]] to soak some attacks. Then, the next things to attack should be [[Monstrous Macaw||62230]] that procs [[Manasaber||98831]], because this first fills out the board with taunts and then adds the rally to the whole board. Do that with as many Macaws as possible. Every 4 things that die will give your board insane rallys because your Poultron's will attack and swing with all the combined rallies. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your taunts to soak more attacks, and then reborn your Poultrons."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/48/
-msgid "[[Stomping Stegodon||122286]] + Beasts ([[Manasaber||98831]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Beast midgame ([[Bird Buddy||72055]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Exponentially scale stats with rally"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Venom Scam"
 msgstr ""
@@ -323,6 +343,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Buy scam cards and try to preserve placements"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Beasts - StegoDONE"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Initially attack with your windfury [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or Moduled [[Mechanized Gift Horse||103682]] to soak some attacks. Then, the next things to attack should be [[Monstrous Macaw||62230]] that procs [[Manasaber||98831]], because this first fills out the board with taunts and then adds the rally to the whole board. Do that with as many Macaws as possible. Every 4 things that die will give your board insane rallys because your Poultron's will attack and swing with all the combined rallies. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your taunts to soak more attacks, and then reborn your Poultrons."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/48/
+msgid "[[Stomping Stegodon||122286]] + Beasts ([[Manasaber||98831]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Beast midgame ([[Bird Buddy||72055]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Exponentially scale stats with rally"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/52/
