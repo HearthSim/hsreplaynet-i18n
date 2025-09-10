@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-09 01:40+0000\n"
-"PO-Revision-Date: 2025-09-09 12:40\n"
+"POT-Creation-Date: 2025-09-10 01:40+0000\n"
+"PO-Revision-Date: 2025-09-10 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -474,13 +474,13 @@ msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Nicht mit Blizzard Entertainment assoziiert."
 
 #: templates/footer.html:63 templates/navigation.html:67
-#: templates/navigation.html:176 templates/navigation.html:246
+#: templates/navigation.html:176 templates/navigation.html:254
 #: web/views/__init__.py:175
 msgid "Downloads"
 msgstr "Downloads"
 
-#: templates/footer.html:64 templates/navigation.html:217
-#: web/views/premium.py:31
+#: templates/footer.html:64 templates/navigation.html:228
+#: templates/navigation.html:237 web/views/premium.py:31
 msgid "Premium"
 msgstr "Premium"
 
@@ -488,7 +488,7 @@ msgstr "Premium"
 msgid "Get Tier7"
 msgstr "Hol dir Tier7"
 
-#: templates/footer.html:66 templates/navigation.html:237
+#: templates/footer.html:66 templates/navigation.html:245
 #: web/views/arenasmith.py:13
 msgid "Arenasmith"
 msgstr "Arenasmith"
@@ -598,8 +598,8 @@ msgstr ""
 msgid "Quests"
 msgstr "Quests"
 
-#: templates/navigation.html:129 templates/navigation.html:228
-#: templates/navigation.html:238
+#: templates/navigation.html:129 templates/navigation.html:220
+#: templates/navigation.html:246
 msgid "NEW"
 msgstr "NEU"
 
@@ -635,11 +635,11 @@ msgstr "Decks"
 msgid "Cards"
 msgstr "Karten"
 
-#: templates/navigation.html:227
+#: templates/navigation.html:219
 msgid "Arena"
 msgstr ""
 
-#: templates/navigation.html:273
+#: templates/navigation.html:281
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
@@ -868,8 +868,8 @@ msgid "12 Win Arena Decks"
 msgstr "Arenadecks mit 12 Siegen"
 
 #: web/views/arena.py:67
-msgid "Hearthstone Arena Cards"
-msgstr "Hearthstone Arena-Karten"
+msgid "Arena Card Tier List"
+msgstr ""
 
 #: web/views/arena.py:70
 msgid "Explore the cards available when drafting in Hearthstone Arena and Underground Arena for the current Arena Season."
@@ -880,15 +880,15 @@ msgid "Arena Cards"
 msgstr "Arenakarten"
 
 #: web/views/arena.py:84
-msgid "Hearthstone Arena Overview"
+msgid "Hearthstone Arena Guide"
 msgstr ""
 
 #: web/views/arena.py:93
-msgid "Earn the crowd's favor in the Hearthstone Arena by exploring class rankings card ratings, legendary grounds and winning decks."
+msgid "Earn the crowd's favor in the Hearthstone Arena by exploring class rankings card ratings, legendary groups and winning decks."
 msgstr ""
 
 #: web/views/arena.py:97
-msgid "Arena Overview"
+msgid "Arena Guide"
 msgstr ""
 
 #: web/views/arenasmith.py:9
