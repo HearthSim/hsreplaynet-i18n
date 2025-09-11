@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-10T01:40:23.433620\n"
+"POT-Creation-Date: 2025-09-11T01:40:23.326083\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-09-10 12:40\n"
+"PO-Revision-Date: 2025-09-11 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -2784,4 +2784,12 @@ msgstr "礼宾术"
 #: https://hsreplay.net/archetypes/817/egg-warlock
 msgid "Egg Warlock"
 msgstr "蛋术"
+
+#: https://hsreplay.net/archetypes/820/concierge-rogue
+msgid "Concierge Rogue"
+msgstr "礼宾贼"
+
+#: https://hsreplay.net/archetypes/818/ravenous-cliff-dive-demon-hunter
+msgid "Ravenous Cliff Dive Demon Hunter"
+msgstr "跳水瞎"
 

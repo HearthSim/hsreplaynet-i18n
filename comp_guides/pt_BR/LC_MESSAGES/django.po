@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-09 01:40\n"
+"POT-Creation-Date: 2025-09-11 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt\n"
@@ -15,27 +15,7 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-09-09 12:40\n"
-
-#: name | https://hsreplay.net/battlegrounds/comps/61/
-msgid "Pirates - Golden/End Of Turn"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/61/
-msgid "At the end of turn, have a bunch of goldens to buff with [[Yorik Smite||123593]]. Drakkari is necessary, and try goldening as many [[Goldgrubber||61066]] with [[Elite Navigator||119986]] as possible."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/61/
-msgid "[[Yorik Smite||123593]] + [[Drakkari Enchanter||101314]] + some goldens"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/61/
-msgid "[[Yorik Smite||123593]] + [[Aureate Laureate||119996]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/61/
-msgid "Scale golden pirates"
-msgstr ""
+"PO-Revision-Date: 2025-09-11 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - APM"
@@ -55,6 +35,151 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Buff Huge Murloc in Hand"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/53/
+msgid "Elementals - APM Violet"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/53/
+msgid "Cycle as many elementals as you can with [[Ultraviolet Ascendant||115581]] on board. The best way to do that is with [[Brann Bronzebeard||96786]], and then buying every [[Tavern Tempest||64077]], [[Sellemental||64038]], and [[Refreshing Anomaly||64042]]. Golden [[Ichoron the Protector||115585]] is nice to shield your whole board, and [[Lantern Lava||122650]] can be used to copy an amazing elemental every turn."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/53/
+msgid "[[Brann Bronzebeard||96786]] + [[Ultraviolet Ascendant||115581]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/53/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Lantern Lava||122650]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/53/
+msgid "Cycle elementals to scale them"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Undead - Attack Scaling"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
+msgid "You want to scale Attack Undead, most commonly through [[Oranomonos, the Wilted||122487]]. Reborn [[Handless Forsaken||95265]] is your reborn generation and also your primary combat strength, where Deathly Striker also adds a bunch of summons to your board but helps a bit with your econ to hit more of your setup."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
+msgid "[[Oranomonos, The Wilted||122487]] + Undead summons ([[Deathly Striker||115610]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
+msgid "[[Deathly Striker||115610]] \n"
+"Undead Summons ([[Handless Forsaken||95265]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Summon high attack Undeads"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Pirates - Bounty APM"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
+msgid "[[Sky Admiral Rogers||122516]] or other bounty generation combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup. At some point, you'll be infinite with bounties, and you'll need spell scaling to really capitalize on the bounty scaling. Cards such as [[Sundered Matriarch||122672]] and [[Timecap'n Hooktail||103676]] gets insane value because of the amount of spells you're playing, and [[Tranquil Meditative||119942]] or [[Felfire Conjurer||120299]] helps improve the quality of your bounties."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Bounty Generation ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Midgame Bounties ([[Bigwig Bandit||122179]]/[[Lost City Looter||122175]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Bounties generate gold and stats"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/52/
+msgid "Undead - Carapace"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/52/
+msgid "Buff the Attack of Tavern Spells with [[Friendly Geist||120219]], and generate [[Haunted Carapace||122489]] spells using [[Carapace Raiser||122479]]. Titus is crucial because it double both of those effects. These spells will buff your board AND summons a ton of attack, so you want the rest of your board to be token spawners, such as [[Mechanized Gift Horse||103682]] and [[Handless Forsaken||95265]]. Finally, use [[Drakkari Embalmer||99121]] to reborn your core Undeads."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/52/
+msgid "[[Titus Rivendare||97408]]/[[Friendly Geist||120219]] + [[Carapace Raiser||122479]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/52/
+msgid "[[Carapace Raiser||122479]]\n"
+"[[Friendly Geist||120219]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/52/
+msgid "Buff Summons using Spells."
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Dragons - Charmwing"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Your first priority is to scale a [[Charmwing||122086]]. This can be done with [[Persistent Poet||108463]] + [[Twilight Watcher||122442]]. It can also be done by buffing the HP of spells using [[Blue Whelp||122674]] or [[Felfire Conjurer||120299]] and then generating spells with [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]]. After you've scaled a Charmwing to at least 100 HP, windfury it and give your other dragons permanent HP with the help of Poet."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/50/
+msgid "[[Charmwing||122086]] + way to scale it (Poet + Twilight Watcher)"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Dragon Midgame ([[Twilight Watcher||122442]])\n"
+"[[Blue Whelp||122674]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/50/
+msgid "Scale Dragons with Rally"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/51/
+msgid "Demons - Damage"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/51/
+msgid "[[Lord of the Ruins||122116]] and [[Devout Hellcaller||122586]] scale by having your demons deal damage to minions. The best way to do that is with [[Silent Enforcer||122605]] + [[Titus Rivendare||97408]], which damages all your opponent's minions at once. [[Soul Juggler||59660]] is also usable because it deals damage every time one of your demons dies. This comp is very strong in the midgame but falls off at some point, and there's not much you can do about it."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/51/
+msgid "[[Silent Enforcer||122605]] + Damage payoff ([[Lord of the Ruins||122116]] or [[Devout Hellcaller||122586]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/51/
+msgid "Demon midgame ([[Soul Juggler||59660]])\n"
+"[[Lord of the Ruins||122116]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/51/
+msgid "Demons deal damage to buff board"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/59/
+msgid "Quilboar - Darkgaze"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/59/
+msgid "After you have [[Darkgaze Elder||80756]] and buffed gems ([[Prickly Piper||98946]]), your objective is to spend as much gold as possible. This is usually done if you have [[Brann Bronzebeard||96786]], and you cycle every free battlecry such as [[Reef Explorer||80754]] and [[Tavern Tempest||64077]]. You also want to cycle every [[Gem Smuggler||101594]] and [[Moon bacon Jazzer||98930]] and [[Fearless foodie||113154]] to help scale. Finally, use [[Gem Confiscation||110642]] to transfer as many gems as possible to your [[Corrupted Bristler||120033]]. Macaw proccing the Bristler is extremely powerful."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/59/
+msgid "[[Darkgaze Elder||80756]] + scale gems ([[Prickly Piper||98946]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/59/
+msgid "[[Prickly Piper||98946]] + Quilboar Midgame ([[Roadboar||70157]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/59/
+msgid "Spend gold to cast blood gems"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/58/
@@ -78,24 +203,24 @@ msgstr ""
 msgid "Scale Naga's Spellcrafts"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/55/
-msgid "Nagas - Spell Casting"
+#: name | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Mechs - Divine Shield"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/55/
-msgid "[[Sundered Matriarch||122672]] buffs your minions' HP when you cast a spell, and [[Wrathscale Rogue||122094]] adds an equal amount of attack. Then, the rest of your board can be filled with spell generation nagas, such as [[Coilskar Sapper||120565]] and [[Silivaz the Vindictive||105676]]. You can also try Spell HP Buffing strats with the [[Tranquil Meditative||119942]] [[Firescale Hoarder||120213]] [[Fauna Whisperer||120905]] package."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/21/
+msgid "After you have your [[Charging Czarina||110321]] setup, then you should buy every single spell that effectively costs 1 gold, such as [[Careful Investment||103779]] and [[Enchanted Lasso||104502]]. [[Holo rover||115674]] is great to this comp because it will generate the 8/6 Rally Magnetic, and all other magnetics you should just sell for economy to cycle more spells. [[Gleaming Trader||122072]] is also nice immediate stabilization, and you should put [[Replicating Menace||89724]] on as many things as possible."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/55/
-msgid "[[Sundered Matriarch||122672]] + Spell generation ([[Coilskar Sapper||120565]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/21/
+msgid "[[Charging Czarina||110321]] + Divine Shields ([[Holo Rover||115674]], [[Grease bot||72389]])"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/55/
-msgid "Spell generation ([[Coilskar Sapper||120565]])"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Divine Shields ([[Deflect-o-bot||61930]], [[Grease bot||72389]])"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/55/
-msgid "Play spells to buff Nagas"
+#: summary | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Play spells to buff Mechs"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/62/
@@ -118,24 +243,85 @@ msgstr ""
 msgid "Scale golden cards in combat"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/21/
-msgid "Mechs - Divine Shield"
+#: name | https://hsreplay.net/battlegrounds/comps/61/
+msgid "Pirates - Golden/End Of Turn"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/21/
-msgid "After you have your [[Charging Czarina||110321]] setup, then you should buy every single spell that effectively costs 1 gold, such as [[Careful Investment||103779]] and [[Enchanted Lasso||104502]]. [[Holo rover||115674]] is great to this comp because it will generate the 8/6 Rally Magnetic, and all other magnetics you should just sell for economy to cycle more spells. [[Gleaming Trader||122072]] is also nice immediate stabilization, and you should put [[Replicating Menace||89724]] on as many things as possible."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/61/
+msgid "At the end of turn, have a bunch of goldens to buff with [[Yorik Smite||123593]]. Drakkari is necessary, and try goldening as many [[Goldgrubber||61066]] with [[Elite Navigator||119986]] as possible."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/21/
-msgid "[[Charging Czarina||110321]] + Divine Shields ([[Holo Rover||115674]], [[Grease bot||72389]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/61/
+msgid "[[Yorik Smite||123593]] + [[Drakkari Enchanter||101314]] + some goldens"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/21/
-msgid "Divine Shields ([[Deflect-o-bot||61930]], [[Grease bot||72389]])"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/61/
+msgid "[[Yorik Smite||123593]] + [[Aureate Laureate||119996]]"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/21/
-msgid "Play spells to buff Mechs"
+#: summary | https://hsreplay.net/battlegrounds/comps/61/
+msgid "Scale golden pirates"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Beasts - Goldrinn"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/12/
+msgid "[[Goldrinn, the Great Wolf||59955]] + [[Monstrous Macaw||62230]] and [[Titus Rivendare||97408]] gives a huge aura affect to all beasts you summon. Usually, you want to taunt and reborn the Goldrinn so the Macaw always procs it and it always dies. [[Lightfeather Screecher||122288]] is used to windfury the Macaw to get more Goldrinn procs. [[Mechanized Gift Horse||103682]] is the best summon beast to run in this comp."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/12/
+msgid "[[Goldrinn, the Great Wolf||59955]] + beast summons ([[Mechanized Gift Horse||103682]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Deathrattle Beasts Midgame ([[Bird Buddy||72055]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Scale summoned beasts in combat"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/56/
+msgid "Murlocs - Magicfin"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/56/
+msgid "This comp relies on teaching a great spell to Magicfin Apprentice and proccing it over and over again. One viable spell to teach it is [[Temperature Shift||117670]] for baller scaling. The much more common route is to teach it [[Shiny ring||109230]] and [[Time management||117573]] with some spell scaling, which comes from [[Felfire Conjurer||120299]] or cycling [[Shoalfin Mystic||120215]]. The Magicfin quest is also super good at enabling this comp. [[Flotsam Flinger||122279]] is a must to proc these spells every turn, with its effect amplified by [[Brann Bronzebeard||96786]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/56/
+msgid "[[Flotsam Flinger||122279]] + [[Magicfin Mycologist||122277]] or Magicfin quest"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/56/
+msgid "[[Magicfin Mycologist||122277]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/56/
+msgid "Teach Murlocs spells and proc them"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Mechs - Magnetics"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Generate Magnetics with an early [[Holo Rover||115674]] and windfury it ASAP. [[Polarizing Beatboxer||98713]] and [[Rickety Repairbot||120027]] help you put more magnetics on your board. Finally, [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]] scales your board based on the amount of magnetics on your mechs. ADVANCED STRATEGY: Stacking requires putting all of your magnetics on a magnetic, tripling it, then putting then magnetic stack on another magnetic. Do this ONLY if you're generate a ton of magnetics through multiple Holo Rovers."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Holo Rover||115674]] or [[Rickety Repairbot||120027]] + [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
+msgid "[[Rickety Repairbot||120027]]\n"
+"[[Holo Rover||115674]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Magnetize Mechs and scale them."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/57/
@@ -148,11 +334,6 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/57/
 msgid "[[Brann Bronzebeard||96786]] + [[Lantern Lava||122650]] for econ into [[Nomi, Kitchen Nightmare||63626]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/57/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Lantern Lava||122650]]"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/57/
@@ -180,86 +361,24 @@ msgstr ""
 msgid "Scale blood gems and play them with Rally"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Dragons - Charmwing"
+#: name | https://hsreplay.net/battlegrounds/comps/54/
+msgid "Rally Menagerie"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Your first priority is to scale a [[Charmwing||122086]]. This can be done with [[Persistent Poet||108463]] + [[Twilight Watcher||122442]]. It can also be done by buffing the HP of spells using [[Blue Whelp||122674]] or [[Felfire Conjurer||120299]] and then generating spells with [[Greenskeeper||113930]] + [[Firescale Hoarder||120213]]. After you've scaled a Charmwing to at least 100 HP, windfury it and give your other dragons permanent HP with the help of Poet."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/54/
+msgid "[[Primeval Monstrosity||122223]] scales your menagerie unit every time you Rally, so you want to fill out your board with the best Rally units for each tribe. I recommend ones that can get windfury, such as [[Charmwing||122086]] or [[Holo Rover||115674]] or [[Bonker||70173]], but non windfury ones are great to add to your board as well. A play that you MUST know about for this comp is that if you play a Reef Explorer on tavern 5 with every tribe in board, you're GUARANTEED to get Monstrosity."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/50/
-msgid "[[Charmwing||122086]] + way to scale it (Poet + Twilight Watcher)"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/54/
+msgid "[[Primeval Monstrosity||122223]] + Rally ([[Bonker||70173]])"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Dragon Midgame ([[Twilight Watcher||122442]])\n"
-"[[Blue Whelp||122674]]"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/54/
+msgid "Rally ([[Bonker||70173]])"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/50/
-msgid "Scale Dragons with Rally"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/56/
-msgid "Murlocs - Magicfin"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/56/
-msgid "This comp relies on teaching a great spell to Magicfin Apprentice and proccing it over and over again. One viable spell to teach it is [[Temperature Shift||117670]] for baller scaling. The much more common route is to teach it [[Shiny ring||109230]] and [[Time management||117573]] with some spell scaling, which comes from [[Felfire Conjurer||120299]] or cycling [[Shoalfin Mystic||120215]]. The Magicfin quest is also super good at enabling this comp. [[Flotsam Flinger||122279]] is a must to proc these spells every turn, with its effect amplified by [[Brann Bronzebeard||96786]]."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/56/
-msgid "[[Flotsam Flinger||122279]] + [[Magicfin Mycologist||122277]] or Magicfin quest"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/56/
-msgid "[[Magicfin Mycologist||122277]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/56/
-msgid "Teach Murlocs spells and proc them"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/60/
-msgid "Quilboar - Smuggler"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/60/
-msgid "Before you start proccing [[Gem Smuggler||101594]], you want to scale your gems as much as possible, typically with [[Prickly Piper||98946]] and also proccing [[Moon bacon Jazzer||98930]] as much as possible. After you're done scaling, you can switch to proccing [[Gem Smuggler||101594]]. The main variation of this comp uses [[Rylak Metalhead||98829]] to proc the [[Gem Smuggler||101594]]. Then, reborn on the Rylak, [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], and [[Titus Rivendare||97408]] all act as multipliers to the Rylak effect. If you have golden Rylak, then you can try to proc both Jazzer and Smuggler. You can choose to add in [[Tarecgosa||72062]] to keep gems or [[Corrupted Bristler||120033]] for board strength. This comp also becomes S tier if you have the quest Snicker Snacks."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/60/
-msgid "[[Brann Bronzebeard||96786]] + Gem Scaling ([[Prickly Piper||98946]]) + [[Gem Smuggler||101594]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/60/
-msgid "Gem scaling + QB Midgame ([[Prickly Piper||98946]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/60/
-msgid "Play gems during combat"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/51/
-msgid "Demons - Damage"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/51/
-msgid "[[Lord of the Ruins||122116]] and [[Devout Hellcaller||122586]] scale by having your demons deal damage to minions. The best way to do that is with [[Silent Enforcer||122605]] + [[Titus Rivendare||97408]], which damages all your opponent's minions at once. [[Soul Juggler||59660]] is also usable because it deals damage every time one of your demons dies. This comp is very strong in the midgame but falls off at some point, and there's not much you can do about it."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/51/
-msgid "[[Silent Enforcer||122605]] + Damage payoff ([[Lord of the Ruins||122116]] or [[Devout Hellcaller||122586]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/51/
-msgid "Demon midgame ([[Soul Juggler||59660]])\n"
-"[[Lord of the Ruins||122116]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/51/
-msgid "Demons deal damage to buff board"
+#: summary | https://hsreplay.net/battlegrounds/comps/54/
+msgid "Rally to scale different tribes"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
@@ -284,122 +403,24 @@ msgstr ""
 msgid "Scale shop with spells and consume shop"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/59/
-msgid "Quilboar - Darkgaze"
+#: name | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Quilboar - Smuggler"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/59/
-msgid "After you have [[Darkgaze Elder||80756]] and buffed gems ([[Prickly Piper||98946]]), your objective is to spend as much gold as possible. This is usually done if you have [[Brann Bronzebeard||96786]], and you cycle every free battlecry such as [[Reef Explorer||80754]] and [[Tavern Tempest||64077]]. You also want to cycle every [[Gem Smuggler||101594]] and [[Moon bacon Jazzer||98930]] and [[Fearless foodie||113154]] to help scale. Finally, use [[Gem Confiscation||110642]] to transfer as many gems as possible to your [[Corrupted Bristler||120033]]. Macaw proccing the Bristler is extremely powerful."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Before you start proccing [[Gem Smuggler||101594]], you want to scale your gems as much as possible, typically with [[Prickly Piper||98946]] and also proccing [[Moon bacon Jazzer||98930]] as much as possible. After you're done scaling, you can switch to proccing [[Gem Smuggler||101594]]. The main variation of this comp uses [[Rylak Metalhead||98829]] to proc the [[Gem Smuggler||101594]]. Then, reborn on the Rylak, [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], and [[Titus Rivendare||97408]] all act as multipliers to the Rylak effect. If you have golden Rylak, then you can try to proc both Jazzer and Smuggler. You can choose to add in [[Tarecgosa||72062]] to keep gems or [[Corrupted Bristler||120033]] for board strength. This comp also becomes S tier if you have the quest Snicker Snacks."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/59/
-msgid "[[Darkgaze Elder||80756]] + scale gems ([[Prickly Piper||98946]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/60/
+msgid "[[Brann Bronzebeard||96786]] + Gem Scaling ([[Prickly Piper||98946]]) + [[Gem Smuggler||101594]]"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/59/
-msgid "[[Prickly Piper||98946]] + Quilboar Midgame ([[Roadboar||70157]])"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Gem scaling + QB Midgame ([[Prickly Piper||98946]])"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/59/
-msgid "Spend gold to cast blood gems"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Mechs - Magnetics"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Generate Magnetics with an early [[Holo Rover||115674]] and windfury it ASAP. [[Polarizing Beatboxer||98713]] and [[Rickety Repairbot||120027]] help you put more magnetics on your board. Finally, [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]] scales your board based on the amount of magnetics on your mechs. ADVANCED STRATEGY: Stacking requires putting all of your magnetics on a magnetic, tripling it, then putting then magnetic stack on another magnetic. Do this ONLY if you're generate a ton of magnetics through multiple Holo Rovers."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Holo Rover||115674]] or [[Rickety Repairbot||120027]] + [[Utility Drone||98588]] + [[Drakkari Enchanter||101314]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
-msgid "[[Rickety Repairbot||120027]]\n"
-"[[Holo Rover||115674]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Magnetize Mechs and scale them."
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Murlocs - Venom Scam"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Pulling venom murlocs from [[Bassgill||98926]], especially golden, is very powerful."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
-msgid "When you have no future or are clearly getting outstatted"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Getting outscaled"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Buy scam cards and try to preserve placements"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Beasts - StegoDONE"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Initially attack with your windfury [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or Moduled [[Mechanized Gift Horse||103682]] to soak some attacks. Then, the next things to attack should be [[Monstrous Macaw||62230]] that procs [[Manasaber||98831]], because this first fills out the board with taunts and then adds the rally to the whole board. Do that with as many Macaws as possible. Every 4 things that die will give your board insane rallys because your Poultron's will attack and swing with all the combined rallies. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your taunts to soak more attacks, and then reborn your Poultrons."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/48/
-msgid "[[Stomping Stegodon||122286]] + Beasts ([[Manasaber||98831]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Beast midgame ([[Bird Buddy||72055]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Exponentially scale stats with rally"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/52/
-msgid "Undead - Carapace"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/52/
-msgid "Buff the Attack of Tavern Spells with [[Friendly Geist||120219]], and generate [[Haunted Carapace||122489]] spells using [[Carapace Raiser||122479]]. Titus is crucial because it double both of those effects. These spells will buff your board AND summons a ton of attack, so you want the rest of your board to be token spawners, such as [[Mechanized Gift Horse||103682]] and [[Handless Forsaken||95265]]. Finally, use [[Drakkari Embalmer||99121]] to reborn your core Undeads."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/52/
-msgid "[[Titus Rivendare||97408]]/[[Friendly Geist||120219]] + [[Carapace Raiser||122479]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/52/
-msgid "[[Carapace Raiser||122479]]\n"
-"[[Friendly Geist||120219]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/52/
-msgid "Buff Summons using Spells."
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/53/
-msgid "Elementals - APM Violet"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/53/
-msgid "Cycle as many elementals as you can with [[Ultraviolet Ascendant||115581]] on board. The best way to do that is with [[Brann Bronzebeard||96786]], and then buying every [[Tavern Tempest||64077]], [[Sellemental||64038]], and [[Refreshing Anomaly||64042]]. Golden [[Ichoron the Protector||115585]] is nice to shield your whole board, and [[Lantern Lava||122650]] can be used to copy an amazing elemental every turn."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/53/
-msgid "[[Brann Bronzebeard||96786]] + [[Ultraviolet Ascendant||115581]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/53/
-msgid "Cycle elementals to scale them"
+#: summary | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Play gems during combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/39/
@@ -423,84 +444,63 @@ msgstr ""
 msgid "Cast Buffed Spells End of Turn"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/54/
-msgid "Rally Menagerie"
+#: name | https://hsreplay.net/battlegrounds/comps/55/
+msgid "Nagas - Spell Casting"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/54/
-msgid "[[Primeval Monstrosity||122223]] scales your menagerie unit every time you Rally, so you want to fill out your board with the best Rally units for each tribe. I recommend ones that can get windfury, such as [[Charmwing||122086]] or [[Holo Rover||115674]] or [[Bonker||70173]], but non windfury ones are great to add to your board as well."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/55/
+msgid "[[Sundered Matriarch||122672]] buffs your minions' HP when you cast a spell, and [[Wrathscale Rogue||122094]] adds an equal amount of attack. Then, the rest of your board can be filled with spell generation nagas, such as [[Coilskar Sapper||120565]] and [[Silivaz the Vindictive||105676]]. You can also try Spell HP Buffing strats with the [[Tranquil Meditative||119942]] [[Firescale Hoarder||120213]] [[Fauna Whisperer||120905]] package."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/54/
-msgid "[[Primeval Monstrosity||122223]] + Rally ([[Bonker||70173]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/55/
+msgid "[[Sundered Matriarch||122672]] + Spell generation ([[Coilskar Sapper||120565]])"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/54/
-msgid "Rally ([[Bonker||70173]])"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/55/
+msgid "Spell generation ([[Coilskar Sapper||120565]])"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/54/
-msgid "Rally to scale different tribes"
+#: summary | https://hsreplay.net/battlegrounds/comps/55/
+msgid "Play spells to buff Nagas"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Pirates - Bounty APM"
+#: name | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Beasts - StegoDONE"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Sky Admiral Rogers||122516]] or other bounty generation combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup. At some point, you'll be infinite with bounties, and you'll need spell scaling to really capitalize on the bounty scaling. Cards such as [[Sundered Matriarch||122672]] and [[Timecap'n Hooktail||103676]] gets insane value because of the amount of spells you're playing, and [[Tranquil Meditative||119942]] or [[Felfire Conjurer||120299]] helps improve the quality of your bounties."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Initially attack with your windfury [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or Moduled [[Mechanized Gift Horse||103682]] to soak some attacks. Then, the next things to attack should be [[Monstrous Macaw||62230]] that procs [[Manasaber||98831]], because this first fills out the board with taunts and then adds the rally to the whole board. Do that with as many Macaws as possible. Every 4 things that die will give your board insane rallys because your Poultron's will attack and swing with all the combined rallies. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your taunts to soak more attacks, and then reborn your Poultrons."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Bounty Generation ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]]"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/48/
+msgid "[[Stomping Stegodon||122286]] + Beasts ([[Manasaber||98831]])"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Midgame Bounties ([[Bigwig Bandit||122179]]/[[Lost City Looter||122175]])"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Beast midgame ([[Bird Buddy||72055]])"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Bounties generate gold and stats"
+#: summary | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Exponentially scale stats with rally"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/12/
-msgid "Beasts - Goldrinn"
+#: name | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Murlocs - Venom Scam"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/12/
-msgid "[[Goldrinn, the Great Wolf||59955]] + [[Monstrous Macaw||62230]] and [[Titus Rivendare||97408]] gives a huge aura affect to all beasts you summon. Usually, you want to taunt and reborn the Goldrinn so the Macaw always procs it and it always dies. [[Lightfeather Screecher||122288]] is used to windfury the Macaw to get more Goldrinn procs. [[Mechanized Gift Horse||103682]] is the best summon beast to run in this comp."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Pulling venom murlocs from [[Bassgill||98926]], especially golden, is very powerful."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/12/
-msgid "[[Goldrinn, the Great Wolf||59955]] + beast summons ([[Mechanized Gift Horse||103682]])"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
+msgid "When you have no future or are clearly getting outstatted"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/12/
-msgid "Deathrattle Beasts Midgame ([[Bird Buddy||72055]])"
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Getting outscaled"
 msgstr ""
 
-#: summary | https://hsreplay.net/battlegrounds/comps/12/
-msgid "Scale summoned beasts in combat"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Undead - Attack Scaling"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
-msgid "You want to scale Attack Undead, most commonly through [[Oranomonos, the Wilted||122487]]. Reborn [[Handless Forsaken||95265]] is your reborn generation and also your primary combat strength, where Deathly Striker also adds a bunch of summons to your board but helps a bit with your econ to hit more of your setup."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
-msgid "[[Oranomonos, The Wilted||122487]] + Undead summons ([[Deathly Striker||115610]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
-msgid "[[Deathly Striker||115610]] \n"
-"Undead Summons ([[Handless Forsaken||95265]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Summon high attack Undeads"
+#: summary | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Buy scam cards and try to preserve placements"
 msgstr ""
 
