@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-11 01:40\n"
+"POT-Creation-Date: 2025-09-13 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-09-11 12:40\n"
+"PO-Revision-Date: 2025-09-13 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - APM"
@@ -494,6 +494,26 @@ msgstr "野兽中期过度 ([[Bird Buddy||72055]])"
 #: summary | https://hsreplay.net/battlegrounds/comps/48/
 msgid "Exponentially scale stats with rally"
 msgstr "通过进击实现数值的指数级增长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/63/
+msgid "Quilboar - Tier 4"
+msgstr "野猪人 - 4本"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/63/
+msgid "*TWICE AS GOOD IN BEAST LOBBIES* Stay on Tier 4! You don't need any cards on tavern 5. First, you need [[Prickly Piper||98946]] to enable this build, as it relies on have decent sized gems. When you have prophet + surveyor setup, cycle only good quilboars, which include [[Sun bacon relaxer||70147]], [[Crater Miner||116182]], and [[Moon bacon Jazzer||98930]]. [[Roadboar||70157]] is at least 3 gems a turn, and a great gem target before you find [[Corrupted Bristler||120033]]. After you find [[Corrupted Bristler||120033]], it's very powerful to put all gems on it. [[Monstrous Macaw||62230]] is super powerful lategame to proc your huge Bristler and can double or triple the amount of stats on your board."
+msgstr "*野兽局效果翻倍* 待在4级酒馆！你不需要任何5级酒馆卡牌。首先需要 [[Prickly Piper||98946]] 来激活此流派，因其依赖于拥有足够大的宝石。当野猪预言者 + 热气球测绘员都有了以后，仅循环优质野猪人单位，包括[[Sun bacon relaxer||70147]], [[Crater Miner||116182]], 和 [[Moon bacon Jazzer||98930]]。[[Roadboar||70157]] 每回合至少能获得3个宝石，在找到 [[Corrupted Bristler||120033]] 前是绝佳的贴宝石目标。找到 [[Corrupted Bristler||120033]] 后将所有宝石都贴在其身上效果极佳。后期 [[Monstrous Macaw||62230]] 能触发腐化的棘刺野猪人的强力效果，使棋盘上的属性数值翻倍甚至三倍增长。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/63/
+msgid "[[Prickly Piper||98946]] + Add gems to hand ([[Roadboar||70157]], [[Prophet of the boar||70153]]) + [[Hot Air Surveyor||113152]]"
+msgstr "[[Prickly Piper||98946]] + 获取宝石 ([[Roadboar||70157]], [[Prophet of the boar||70153]]) + [[Hot Air Surveyor||113152]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/63/
+msgid "[[Prickly Piper||98946]]"
+msgstr "[[Prickly Piper||98946]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/63/
+msgid "Add buffed gems to hand"
+msgstr "将增强过的宝石置入手牌"
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Venom Scam"
