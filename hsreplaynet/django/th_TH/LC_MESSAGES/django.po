@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-11 01:40+0000\n"
-"PO-Revision-Date: 2025-09-11 12:40\n"
+"POT-Creation-Date: 2025-09-18 01:40+0000\n"
+"PO-Revision-Date: 2025-09-18 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -474,13 +474,13 @@ msgid "Not affiliated with Blizzard Entertainment."
 msgstr ""
 
 #: templates/footer.html:63 templates/navigation.html:67
-#: templates/navigation.html:176 templates/navigation.html:254
+#: templates/navigation.html:176 templates/navigation.html:233
 #: web/views/__init__.py:175
 msgid "Downloads"
 msgstr ""
 
-#: templates/footer.html:64 templates/navigation.html:228
-#: templates/navigation.html:237 web/views/premium.py:31
+#: templates/footer.html:64 templates/navigation.html:226
+#: web/views/premium.py:31
 msgid "Premium"
 msgstr ""
 
@@ -488,8 +488,7 @@ msgstr ""
 msgid "Get Tier7"
 msgstr ""
 
-#: templates/footer.html:66 templates/navigation.html:245
-#: web/views/arenasmith.py:13
+#: templates/footer.html:66 web/views/arenasmith.py:13
 msgid "Arenasmith"
 msgstr ""
 
@@ -598,8 +597,7 @@ msgstr ""
 msgid "Quests"
 msgstr ""
 
-#: templates/navigation.html:129 templates/navigation.html:220
-#: templates/navigation.html:246
+#: templates/navigation.html:129 templates/navigation.html:218
 msgid "NEW"
 msgstr ""
 
@@ -635,11 +633,11 @@ msgstr ""
 msgid "Cards"
 msgstr ""
 
-#: templates/navigation.html:219
+#: templates/navigation.html:217
 msgid "Arena"
 msgstr ""
 
-#: templates/navigation.html:281
+#: templates/navigation.html:260
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
@@ -843,51 +841,51 @@ msgstr ""
 msgid "Find stats and different {name} decklists."
 msgstr ""
 
-#: web/views/arena.py:19
+#: web/views/arena.py:17
 msgid "Hearthstone Arena Legendary Groups"
 msgstr ""
 
-#: web/views/arena.py:22
+#: web/views/arena.py:20
 msgid "Explore the Legendary Groups available when drafting in Hearthstone Arena and Underground Arena for the current Arena Season."
 msgstr ""
 
-#: web/views/arena.py:26
+#: web/views/arena.py:24
 msgid "Arena Legendary Groups"
 msgstr ""
 
-#: web/views/arena.py:37
+#: web/views/arena.py:34
 msgid "12 Win Underground Arena Decks"
 msgstr ""
 
-#: web/views/arena.py:40
+#: web/views/arena.py:37
 msgid "Explore the most recent 12-win decks for each class in Hearthstone Underground Arena"
 msgstr ""
 
-#: web/views/arena.py:43
+#: web/views/arena.py:40
 msgid "12 Win Arena Decks"
 msgstr ""
 
-#: web/views/arena.py:67
+#: web/views/arena.py:63
 msgid "Arena Card Tier List"
 msgstr ""
 
-#: web/views/arena.py:70
+#: web/views/arena.py:66
 msgid "Explore the cards available when drafting in Hearthstone Arena and Underground Arena for the current Arena Season."
 msgstr ""
 
-#: web/views/arena.py:74
+#: web/views/arena.py:70
 msgid "Arena Cards"
 msgstr ""
 
-#: web/views/arena.py:84
+#: web/views/arena.py:80
 msgid "Hearthstone Arena Guide"
 msgstr ""
 
-#: web/views/arena.py:93
+#: web/views/arena.py:83
 msgid "Earn the crowd's favor in the Hearthstone Arena by exploring class rankings card ratings, legendary groups and winning decks."
 msgstr ""
 
-#: web/views/arena.py:97
+#: web/views/arena.py:87
 msgid "Arena Guide"
 msgstr ""
 

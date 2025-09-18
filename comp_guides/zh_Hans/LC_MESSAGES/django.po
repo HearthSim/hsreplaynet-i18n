@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-17 17:37\n"
+"POT-Creation-Date: 2025-09-18 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-09-18 00:40\n"
+"PO-Revision-Date: 2025-09-18 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - APM"
@@ -295,7 +295,7 @@ msgstr "鱼人 - 小学生"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/56/
 msgid "This comp relies on teaching a great spell to Magicfin Apprentice and proccing it over and over again. Teach the apprentice [[Shiny ring||109230]], [[Azerite Empowerment||109232]], or [[Time management||117573]] with some spell scaling, which comes from [[Felfire Conjurer||120299]] or cycling [[Shoalfin Mystic||120215]]. The Magicfin quest is also super good at enabling this comp. [[Flotsam Flinger||122279]] is a must to proc these spells every turn, with its effect amplified by [[Brann Bronzebeard||96786]]."
-msgstr ""
+msgstr "此流派依赖于教会魔鳍学徒一个强大的法术并不断触发它。让学徒学会 [[Shiny ring||109230]], [[Azerite Empowerment||109232]] 或 [[Time management||117573]]，并通过 [[Felfire Conjurer||120299]] 或循环使用 [[Shoalfin Mystic||120215]] 来获得法术加成。魔鳍任务也非常适合这个流派。[[Flotsam Flinger||122279]] 是每回合触发这些法术的必备卡牌，其效果可被[[Brann Bronzebeard||96786]] 进一步强化。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/56/
 msgid "[[Flotsam Flinger||122279]] + [[Magicfin Mycologist||122277]] or Magicfin quest"
@@ -336,8 +336,8 @@ msgid "Elementals - NOMI"
 msgstr "元素 - 诺米"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/57/
-msgid "First, scale elementals in shop using [[Nomi, Kitchen Nightmare||63626]]. [[Brann Bronzebeard||96786]] really helps generate Elementals because the tribe has a lot of great battlecries. Then, print Avalanche spells with [[Avalanche Caller||122780]]. Initially, you may also print [[Avalanche Caller||122780]] using [[Lantern Lava||122650]] if you have 2 or more. [[Drakkari Enchanter||101314]] also helps with printing more of these Avalanche spells. Eventually, find a [[Carbonic Copy]] and use all your Avalanche spells onto a [[Carbonic Copy]]."
-msgstr ""
+msgid "First, scale elementals in shop using [[Nomi, Kitchen Nightmare||63626]]. [[Brann Bronzebeard||96786]] really helps generate Elementals because the tribe has a lot of great battlecries. Then, print Avalanche spells with [[Avalanche Caller||122780]]. Initially, you may also print [[Avalanche Caller||122780]] using [[Lantern Lava||122650]] if you have 2 or more. [[Drakkari Enchanter||101314]] also helps with printing more of these Avalanche spells. Use Avalanche spells on a permanent elemental, usually Avalanche Caller or Lantern Lava."
+msgstr "首先用 [[Nomi, Kitchen Nightmare||63626]] 增强商店中的元素身材。[[Brann Bronzebeard||96786]] 能帮你高效生成元素，因为该种族拥有大量优秀的战吼效果。随后，使用[[Avalanche Caller||122780]]施放累叠雪崩法术。如果你有2个或更多的 [[Lantern Lava||122650]] 也可以使用它来刷 [[Avalanche Caller||122780]]。[[Drakkari Enchanter||101314]] 也能帮你刷更多累叠雪崩法术。对要保留到决赛的元素随从施放累叠雪崩法术，通常是雪崩召唤者或灯中熔岩。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/57/
 msgid "[[Brann Bronzebeard||96786]] + [[Lantern Lava||122650]] for econ into [[Nomi, Kitchen Nightmare||63626]]"
