@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-18 01:40+0000\n"
-"PO-Revision-Date: 2025-09-18 12:40\n"
+"POT-Creation-Date: 2025-09-19 01:40+0000\n"
+"PO-Revision-Date: 2025-09-19 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -67,50 +67,50 @@ msgstr "字符串值过大。"
 msgid "{tribe_name} - {instance.name}"
 msgstr "{tribe_name} - {instance.name}"
 
-#: api/views/accounts.py:340
+#: api/views/accounts.py:354
 #, python-brace-format
 msgid "You have already applied this code to your account. Start your free subscription lasting {n} days now."
 msgstr "此代码已应用到你的账号里，现在启动你 {n} 天的免费订阅吧。"
 
-#: api/views/accounts.py:363
+#: api/views/accounts.py:377
 #, python-brace-format
 msgid "Code has been applied to your account. Your existing subscription has been extended by {n} days."
 msgstr "此代码已应用到你的账号里，你的已有订阅将延长 {n} 天。"
 
-#: api/views/accounts.py:369
+#: api/views/accounts.py:383
 #, python-brace-format
 msgid "Code has been applied to your account. You can now start a free subscription lasting {n} days."
 msgstr "此代码已应用到你的账号里，现在你已有免费的订阅，持续 {n} 天。"
 
-#: api/views/accounts.py:377
+#: api/views/accounts.py:391
 msgid "This code has already been redeemed."
 msgstr "此代码已被兑换。"
 
-#: api/views/accounts.py:380
+#: api/views/accounts.py:394
 msgid "This code is not compatible with your existing subscription."
 msgstr "此代码与您现有的订阅不兼容。"
 
-#: api/views/accounts.py:383
+#: api/views/accounts.py:397
 msgid "This code has expired."
 msgstr "此代码已过期。"
 
-#: api/views/accounts.py:386
+#: api/views/accounts.py:400
 msgid "You have used the maximum number of codes from this campaign."
 msgstr "您已经达到了活动的代码最大兑换次数。"
 
-#: api/views/accounts.py:391
+#: api/views/accounts.py:405
 msgid "You have already redeemed a code for this product. Start a subscription before redeeming this code."
 msgstr "您已经为该产品兑换了一个代码。在兑换此代码之前先开始订阅。"
 
-#: api/views/accounts.py:402
+#: api/views/accounts.py:416
 msgid "This code is unknown."
 msgstr "此激活码未知。"
 
-#: api/views/accounts.py:412
+#: api/views/accounts.py:426
 msgid "You have already applied this code to your account."
 msgstr "您已经将此激活码应用到您的账号。"
 
-#: api/views/accounts.py:419
+#: api/views/accounts.py:433
 msgid "Code has been applied to your account."
 msgstr "激活码使用成功。"
 
