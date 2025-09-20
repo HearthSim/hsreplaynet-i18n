@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-04T01:40:24.842258\n"
+"POT-Creation-Date: 2025-09-20T01:40:28.789163\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,19 @@ msgstr ""
 "X-Crowdin-File: /quest_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 183\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-09-18 12:40\n"
+"PO-Revision-Date: 2025-09-20 12:40\n"
+
+#: Quest id 121945 | Guide id 41
+msgid "Finish this ASAP, even if it means staying down taverns to do so. 5 gold per turn is very very strong and will immediately catch you back up on lost value."
+msgstr ""
+
+#: Quest id 104670 | Guide id 6
+msgid "Carapace Undead is the best comp for this quest, playing around [[Friendly Geist||120219]] and [[Carapace Raiser||122479]]. Another option is Tier 4 Quilboars with Rylak/Jazzer, Piper and Bristler."
+msgstr ""
+
+#: Quest id 95867 | Guide id 57
+msgid "Great highroll quest if you can live until then. You tend to keep 6 drops and chain triples."
+msgstr ""
 
 #: Quest id 104673 | Guide id 73
 msgid "Strong quest, especially with Murlocs, Eles, and/or Pirates. Brann is powerful in a lot of meta APM comps."
@@ -69,14 +81,6 @@ msgstr "比较一般的任务。最好搭配可以快速且被动地做任务的
 msgid "Finish this ASAP. Getting it online start of turn 5-6 is great, start of turn 7 is average, start of turn 8 is too slow."
 msgstr "尽快做完任务。在5-6回合开始时做完最佳，第7回合时比较一般，等到第8回合就太慢了。"
 
-#: Quest id 121945 | Guide id 41
-msgid "Finish this ASAP, even if it means staying down taverns to do so. 7 gold per turn is very very strong and will immediately catch you back up on lost value."
-msgstr "尽快做完任务，即使这意味着要待在低级酒馆里。每回合多7铸币非常非常强，可以立即让你弥补损失的经济。"
-
-#: Quest id 104670 | Guide id 6
-msgid "The best quest possible with Undeads in, pretty much unpickable without. Carapace Undead is the best comp for this quest."
-msgstr "这个任务需要有亡灵，没有亡灵基本无法完成。龟甲亡灵是完成此任务的最佳流派。"
-
 #: Quest id 110298 | Guide id 16
 msgid "This quest gives consistent value over the course of the game, but it's nothing crazy"
 msgstr "这个任务可以稳定给你带来收益，但也不算特别夸张"
@@ -92,14 +96,6 @@ msgstr "你如果选了这个任务，你就应该玩手速流，例如海盗、
 #: Quest id 121335 | Guide id 46
 msgid "With this quest, you kinda need to force APM bounty pirates, and also have a completion that benefits from forcing pirates (Play spells/pirates)"
 msgstr "选了这个任务，你基本上就得强行玩手速流海盗悬赏令体系，最好任务条件也能搭配海盗（例如打出法术/海盗）"
-
-#: Quest id 89650 | Guide id 61
-msgid "The best strategy is to stay on 3 and buy every Divine Shield unit, Magnetic Mech to put on your shields, and tokens ([[Sellemental||64038]]). This is not a Top 1 strategy though, just a safe top 3."
-msgstr "最好的打法是留在3本，买下所有的圣盾随从，再用磁力机械贴给你的圣盾怪，还要拿衍生物随从（[[商贩元素||64038]]）。尽管吃不到鸡，但是这是一个比较稳定的前三策略。"
-
-#: Quest id 95867 | Guide id 57
-msgid "Great highroll quest if you can live until then. You tend to hold 6 drops and chain triples."
-msgstr "如果你能活下来，这是个高收益的任务。你通常会想要留着六本怪，然后不断三连。"
 
 #: Quest id 110303 | Guide id 23
 msgid "Needs to be completed within 2 turns, preferably with an avenge setup."
@@ -144,6 +140,10 @@ msgstr "全部随从都有圣盾总体来说非常强，风怒对进击流派来
 #: Quest id 104821 | Guide id 11
 msgid "Only pick Scepter for good tribes (Undead/Elementals). Nagas to force Deep Blue Zesty is OK. Scepter for bad tribes are actively bad."
 msgstr "权杖只在有优秀种族时才选（亡灵/元素）。纳迦强行玩蓝调也还行。但是拿到垃圾种族时就非常坏了。"
+
+#: Quest id 89650 | Guide id 61
+msgid "The best strategy is to buy every Divine Shield unit, Magnetic Mech to put on your shields, and tokens ([[Sellemental||64038]]). This is not a Top 1 strategy though, just a safe top 3. Round out your comp later buying Leeroys and Venoms."
+msgstr ""
 
 #: Quest id 89449 | Guide id 12
 msgid "The best strat with this quest is Brann + Drakkari + Moon bacon Jazzer + Gem Smuggler. If you can get there, it's S tier."

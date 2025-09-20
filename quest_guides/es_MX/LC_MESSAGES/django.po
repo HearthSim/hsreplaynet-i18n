@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-04T01:40:24.842258\n"
+"POT-Creation-Date: 2025-09-20T01:40:28.789163\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,19 @@ msgstr ""
 "X-Crowdin-File: /quest_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 183\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2025-09-04 12:40\n"
+"PO-Revision-Date: 2025-09-20 12:40\n"
+
+#: Quest id 121945 | Guide id 41
+msgid "Finish this ASAP, even if it means staying down taverns to do so. 5 gold per turn is very very strong and will immediately catch you back up on lost value."
+msgstr ""
+
+#: Quest id 104670 | Guide id 6
+msgid "Carapace Undead is the best comp for this quest, playing around [[Friendly Geist||120219]] and [[Carapace Raiser||122479]]. Another option is Tier 4 Quilboars with Rylak/Jazzer, Piper and Bristler."
+msgstr ""
+
+#: Quest id 95867 | Guide id 57
+msgid "Great highroll quest if you can live until then. You tend to keep 6 drops and chain triples."
+msgstr ""
 
 #: Quest id 104673 | Guide id 73
 msgid "Strong quest, especially with Murlocs, Eles, and/or Pirates. Brann is powerful in a lot of meta APM comps."
@@ -69,14 +81,6 @@ msgstr ""
 msgid "Finish this ASAP. Getting it online start of turn 5-6 is great, start of turn 7 is average, start of turn 8 is too slow."
 msgstr ""
 
-#: Quest id 121945 | Guide id 41
-msgid "Finish this ASAP, even if it means staying down taverns to do so. 7 gold per turn is very very strong and will immediately catch you back up on lost value."
-msgstr ""
-
-#: Quest id 104670 | Guide id 6
-msgid "The best quest possible with Undeads in, pretty much unpickable without. Carapace Undead is the best comp for this quest."
-msgstr ""
-
 #: Quest id 110298 | Guide id 16
 msgid "This quest gives consistent value over the course of the game, but it's nothing crazy"
 msgstr ""
@@ -91,14 +95,6 @@ msgstr ""
 
 #: Quest id 121335 | Guide id 46
 msgid "With this quest, you kinda need to force APM bounty pirates, and also have a completion that benefits from forcing pirates (Play spells/pirates)"
-msgstr ""
-
-#: Quest id 89650 | Guide id 61
-msgid "The best strategy is to stay on 3 and buy every Divine Shield unit, Magnetic Mech to put on your shields, and tokens ([[Sellemental||64038]]). This is not a Top 1 strategy though, just a safe top 3."
-msgstr ""
-
-#: Quest id 95867 | Guide id 57
-msgid "Great highroll quest if you can live until then. You tend to hold 6 drops and chain triples."
 msgstr ""
 
 #: Quest id 110303 | Guide id 23
@@ -143,6 +139,10 @@ msgstr ""
 
 #: Quest id 104821 | Guide id 11
 msgid "Only pick Scepter for good tribes (Undead/Elementals). Nagas to force Deep Blue Zesty is OK. Scepter for bad tribes are actively bad."
+msgstr ""
+
+#: Quest id 89650 | Guide id 61
+msgid "The best strategy is to buy every Divine Shield unit, Magnetic Mech to put on your shields, and tokens ([[Sellemental||64038]]). This is not a Top 1 strategy though, just a safe top 3. Round out your comp later buying Leeroys and Venoms."
 msgstr ""
 
 #: Quest id 89449 | Guide id 12
