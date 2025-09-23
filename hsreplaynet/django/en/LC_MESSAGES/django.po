@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-22 01:40+0000\n"
+"POT-Creation-Date: 2025-09-23 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -976,8 +976,20 @@ msgid ""
 "card ratings, legendary groups and winning decks."
 msgstr ""
 
-#: web/views/arena.py:87
+#: web/views/arena.py:87 web/views/arena.py:115
 msgid "Arena Guide"
+msgstr ""
+
+#: web/views/arena.py:97
+#, python-brace-format
+msgid "Hearthstone Arena {class} Guide"
+msgstr ""
+
+#: web/views/arena.py:104
+#, python-format
+msgid ""
+"Explore the %s class card ratings, legendary groups and winning decks to "
+"earn the crowd's favor in the Hearthstone Arena"
 msgstr ""
 
 #: web/views/arenasmith.py:9
