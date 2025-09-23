@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-19 01:40+0000\n"
-"PO-Revision-Date: 2025-09-19 12:40\n"
+"POT-Creation-Date: 2025-09-23 01:40+0000\n"
+"PO-Revision-Date: 2025-09-23 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -897,9 +897,19 @@ msgstr "炉石传说竞技模式指南"
 msgid "Earn the crowd's favor in the Hearthstone Arena by exploring class rankings card ratings, legendary groups and winning decks."
 msgstr "探索职业排名、卡牌评分、传说团队与胜利套牌，在炉石传说竞技模式获得“人气大奖”。"
 
-#: web/views/arena.py:87
+#: web/views/arena.py:87 web/views/arena.py:115
 msgid "Arena Guide"
 msgstr "竞技模式指南"
+
+#: web/views/arena.py:97
+#, python-brace-format
+msgid "Hearthstone Arena {class} Guide"
+msgstr ""
+
+#: web/views/arena.py:104
+#, python-format
+msgid "Explore the %s class card ratings, legendary groups and winning decks to earn the crowd's favor in the Hearthstone Arena"
+msgstr ""
 
 #: web/views/arenasmith.py:9
 msgid "Pick the strongest cards in Arena with Arenasmith"
