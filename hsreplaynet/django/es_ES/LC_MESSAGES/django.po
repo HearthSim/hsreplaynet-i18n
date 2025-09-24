@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-23 01:40+0000\n"
-"PO-Revision-Date: 2025-09-23 12:40\n"
+"POT-Creation-Date: 2025-09-24 01:40+0000\n"
+"PO-Revision-Date: 2025-09-24 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -500,55 +500,51 @@ msgstr ""
 msgid "Meta Tier List"
 msgstr ""
 
-#: templates/footer.html:76
-msgid "Arena Legendaries"
+#: templates/footer.html:76 web/views/arena.py:87 web/views/arena.py:115
+msgid "Arena Guide"
 msgstr ""
 
-#: templates/footer.html:77
-msgid "Arena Winning Decks"
-msgstr ""
-
-#: templates/footer.html:78 web/views/battlegrounds.py:138
+#: templates/footer.html:77 web/views/battlegrounds.py:138
 msgid "Battlegrounds Heroes"
 msgstr ""
 
-#: templates/footer.html:79 web/views/battlegrounds.py:153
+#: templates/footer.html:78 web/views/battlegrounds.py:153
 msgid "Battlegrounds Comps"
 msgstr ""
 
-#: templates/footer.html:80 web/views/battlegrounds.py:287
+#: templates/footer.html:79 web/views/battlegrounds.py:287
 msgid "Battlegrounds Anomalies"
 msgstr ""
 
-#: templates/footer.html:81 web/views/battlegrounds.py:342
+#: templates/footer.html:80 web/views/battlegrounds.py:342
 msgid "Battlegrounds Quests"
 msgstr ""
 
-#: templates/footer.html:82 web/views/battlegrounds.py:220
+#: templates/footer.html:81 web/views/battlegrounds.py:220
 msgid "Battlegrounds Trinkets"
 msgstr ""
 
-#: templates/footer.html:86
+#: templates/footer.html:85
 msgid "Support"
 msgstr ""
 
-#: templates/footer.html:99
+#: templates/footer.html:98
 msgid "Help Center"
 msgstr ""
 
-#: templates/footer.html:101
+#: templates/footer.html:100
 msgid "Your Account"
 msgstr "Tu Cuenta"
 
-#: templates/footer.html:103
+#: templates/footer.html:102
 msgid "Terms of Service"
 msgstr "Terminos de Servicio"
 
-#: templates/footer.html:106
+#: templates/footer.html:105
 msgid "Privacy Policy"
 msgstr "Política de Privacidad"
 
-#: templates/footer.html:108
+#: templates/footer.html:107
 msgid "Get in Touch"
 msgstr ""
 
@@ -883,10 +879,6 @@ msgstr ""
 
 #: web/views/arena.py:83
 msgid "Earn the crowd's favor in the Hearthstone Arena by exploring class rankings card ratings, legendary groups and winning decks."
-msgstr ""
-
-#: web/views/arena.py:87 web/views/arena.py:115
-msgid "Arena Guide"
 msgstr ""
 
 #: web/views/arena.py:97

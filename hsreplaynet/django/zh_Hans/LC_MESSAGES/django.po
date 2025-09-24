@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-23 01:40+0000\n"
-"PO-Revision-Date: 2025-09-23 12:40\n"
+"POT-Creation-Date: 2025-09-24 01:40+0000\n"
+"PO-Revision-Date: 2025-09-24 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -512,55 +512,51 @@ msgstr "标准模式套牌"
 msgid "Meta Tier List"
 msgstr "环境梯队表"
 
-#: templates/footer.html:76
-msgid "Arena Legendaries"
-msgstr "竞技模式传说卡"
+#: templates/footer.html:76 web/views/arena.py:87 web/views/arena.py:115
+msgid "Arena Guide"
+msgstr "竞技模式指南"
 
-#: templates/footer.html:77
-msgid "Arena Winning Decks"
-msgstr "竞技模式胜利套牌"
-
-#: templates/footer.html:78 web/views/battlegrounds.py:138
+#: templates/footer.html:77 web/views/battlegrounds.py:138
 msgid "Battlegrounds Heroes"
 msgstr "酒馆战棋英雄"
 
-#: templates/footer.html:79 web/views/battlegrounds.py:153
+#: templates/footer.html:78 web/views/battlegrounds.py:153
 msgid "Battlegrounds Comps"
 msgstr "酒馆战棋流派"
 
-#: templates/footer.html:80 web/views/battlegrounds.py:287
+#: templates/footer.html:79 web/views/battlegrounds.py:287
 msgid "Battlegrounds Anomalies"
 msgstr "酒馆战棋畸变"
 
-#: templates/footer.html:81 web/views/battlegrounds.py:342
+#: templates/footer.html:80 web/views/battlegrounds.py:342
 msgid "Battlegrounds Quests"
 msgstr "酒馆战棋任务"
 
-#: templates/footer.html:82 web/views/battlegrounds.py:220
+#: templates/footer.html:81 web/views/battlegrounds.py:220
 msgid "Battlegrounds Trinkets"
 msgstr "酒馆战棋饰品"
 
-#: templates/footer.html:86
+#: templates/footer.html:85
 msgid "Support"
 msgstr "用户支持"
 
-#: templates/footer.html:99
+#: templates/footer.html:98
 msgid "Help Center"
 msgstr "帮助中心"
 
-#: templates/footer.html:101
+#: templates/footer.html:100
 msgid "Your Account"
 msgstr "您的账户"
 
-#: templates/footer.html:103
+#: templates/footer.html:102
 msgid "Terms of Service"
 msgstr "服务条款"
 
-#: templates/footer.html:106
+#: templates/footer.html:105
 msgid "Privacy Policy"
 msgstr "隐私权政策"
 
-#: templates/footer.html:108
+#: templates/footer.html:107
 msgid "Get in Touch"
 msgstr "联系我们"
 
@@ -897,19 +893,15 @@ msgstr "炉石传说竞技模式指南"
 msgid "Earn the crowd's favor in the Hearthstone Arena by exploring class rankings card ratings, legendary groups and winning decks."
 msgstr "探索职业排名、卡牌评分、传说团队与胜利套牌，在炉石传说竞技模式获得“人气大奖”。"
 
-#: web/views/arena.py:87 web/views/arena.py:115
-msgid "Arena Guide"
-msgstr "竞技模式指南"
-
 #: web/views/arena.py:97
 #, python-brace-format
 msgid "Hearthstone Arena {class} Guide"
-msgstr ""
+msgstr "炉石传说竞技模式{class}指南"
 
 #: web/views/arena.py:104
 #, python-format
 msgid "Explore the %s class card ratings, legendary groups and winning decks to earn the crowd's favor in the Hearthstone Arena"
-msgstr ""
+msgstr "探索%s职业卡牌评分、传说团队与胜利套牌，在炉石传说竞技模式获得“人气大奖”"
 
 #: web/views/arenasmith.py:9
 msgid "Pick the strongest cards in Arena with Arenasmith"
