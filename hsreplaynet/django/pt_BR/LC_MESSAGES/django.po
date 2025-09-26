@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-24 01:40+0000\n"
-"PO-Revision-Date: 2025-09-24 12:40\n"
+"POT-Creation-Date: 2025-09-26 01:40+0000\n"
+"PO-Revision-Date: 2025-09-26 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -500,7 +500,7 @@ msgstr ""
 msgid "Meta Tier List"
 msgstr ""
 
-#: templates/footer.html:76 web/views/arena.py:87 web/views/arena.py:115
+#: templates/footer.html:76
 msgid "Arena Guide"
 msgstr ""
 
@@ -625,11 +625,13 @@ msgstr ""
 msgid "Decks"
 msgstr "Decks"
 
-#: templates/navigation.html:210 web/views/cards.py:37 web/views/cards.py:165
+#: templates/navigation.html:210 web/views/arena.py:73 web/views/cards.py:37
+#: web/views/cards.py:165
 msgid "Cards"
 msgstr "Cartas"
 
-#: templates/navigation.html:217
+#: templates/navigation.html:217 web/views/arena.py:24 web/views/arena.py:41
+#: web/views/arena.py:72 web/views/arena.py:90 web/views/arena.py:118
 msgid "Arena"
 msgstr ""
 
@@ -845,48 +847,44 @@ msgstr ""
 msgid "Explore the Legendary Groups available when drafting in Hearthstone Arena and Underground Arena for the current Arena Season."
 msgstr ""
 
-#: web/views/arena.py:24
-msgid "Arena Legendary Groups"
+#: web/views/arena.py:25
+msgid "Legendary Groups"
 msgstr ""
 
-#: web/views/arena.py:34
+#: web/views/arena.py:35
 msgid "12 Win Underground Arena Decks"
 msgstr ""
 
-#: web/views/arena.py:37
+#: web/views/arena.py:38
 msgid "Explore the most recent 12-win decks for each class in Hearthstone Underground Arena"
 msgstr ""
 
-#: web/views/arena.py:40
-msgid "12 Win Arena Decks"
+#: web/views/arena.py:42
+msgid "12 Win Decks"
 msgstr ""
 
-#: web/views/arena.py:63
+#: web/views/arena.py:65
 msgid "Arena Card Tier List"
 msgstr ""
 
-#: web/views/arena.py:66
+#: web/views/arena.py:68
 msgid "Explore the cards available when drafting in Hearthstone Arena and Underground Arena for the current Arena Season."
 msgstr ""
 
-#: web/views/arena.py:70
-msgid "Arena Cards"
-msgstr ""
-
-#: web/views/arena.py:80
+#: web/views/arena.py:83
 msgid "Hearthstone Arena Guide"
 msgstr ""
 
-#: web/views/arena.py:83
+#: web/views/arena.py:86
 msgid "Earn the crowd's favor in the Hearthstone Arena by exploring class rankings card ratings, legendary groups and winning decks."
 msgstr ""
 
-#: web/views/arena.py:97
+#: web/views/arena.py:100
 #, python-brace-format
 msgid "Hearthstone Arena {class} Guide"
 msgstr ""
 
-#: web/views/arena.py:104
+#: web/views/arena.py:107
 #, python-format
 msgid "Explore the %s class card ratings, legendary groups and winning decks to earn the crowd's favor in the Hearthstone Arena"
 msgstr ""
