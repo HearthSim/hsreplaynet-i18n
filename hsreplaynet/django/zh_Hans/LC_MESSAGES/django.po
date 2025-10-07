@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-26 01:40+0000\n"
-"PO-Revision-Date: 2025-09-30 12:40\n"
+"POT-Creation-Date: 2025-10-07 01:40+0000\n"
+"PO-Revision-Date: 2025-10-07 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -969,52 +969,52 @@ msgstr "酒馆战棋英雄"
 msgid "No matching hero found."
 msgstr "未找到匹配的英雄。"
 
-#: web/views/battlegrounds.py:569
+#: web/views/battlegrounds.py:572
 msgid "Battlegrounds Duos Hero"
 msgstr "酒馆战棋双打英雄"
 
-#: web/views/battlegrounds.py:577
+#: web/views/battlegrounds.py:580
 msgid "Battlegrounds Minions"
 msgstr "酒馆战棋随从"
 
-#: web/views/battlegrounds.py:583 web/views/battlegrounds.py:610
+#: web/views/battlegrounds.py:586 web/views/battlegrounds.py:613
 msgid "Battlegrounds Minion"
 msgstr "酒馆战棋随从"
 
-#: web/views/battlegrounds.py:602
+#: web/views/battlegrounds.py:605
 msgid "No matching minion found."
 msgstr "未找到匹配的随从。"
 
-#: web/views/battlegrounds.py:641
+#: web/views/battlegrounds.py:644
 msgid "Battlegrounds Compositions"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:647 web/views/battlegrounds.py:677
+#: web/views/battlegrounds.py:650 web/views/battlegrounds.py:680
 msgid "Battlegrounds Composition"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:670
+#: web/views/battlegrounds.py:673
 msgid "No matching live or lingering composition found."
 msgstr "没有找到匹配的流派。"
 
-#: web/views/battlegrounds.py:672
+#: web/views/battlegrounds.py:675
 msgid "No matching composition found."
 msgstr "没有找到对应的流派。"
 
-#: web/views/battlegrounds.py:722
+#: web/views/battlegrounds.py:725
 msgid "Battlegrounds Comp"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:741
+#: web/views/battlegrounds.py:744
 msgid "No matching comp found."
 msgstr "未找到匹配的流派。"
 
-#: web/views/battlegrounds.py:748
+#: web/views/battlegrounds.py:751
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr "{tribe_name} - {obj.name}"
 
-#: web/views/battlegrounds.py:831
+#: web/views/battlegrounds.py:834
 msgid "My Battlegrounds Stats"
 msgstr "我的酒馆战棋数据"
 

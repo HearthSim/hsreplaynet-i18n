@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-10-03 12:40\n"
+"PO-Revision-Date: 2025-10-07 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - APM"
@@ -107,7 +107,7 @@ msgstr "亡灵 - 龟甲"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/52/
 msgid "Buff the Attack of Tavern Spells with [[Friendly Geist||120219]], and generate [[Haunted Carapace||122489]] spells using [[Carapace Raiser||122479]]. Titus is crucial because it double both of those effects. These spells will buff your board AND summons a ton of attack, so you want the rest of your board to be token spawners, such as [[Mechanized Gift Horse||103682]] and [[Handless Forsaken||95265]]. Finally, use [[Prosthetic Hand||112364]] to reborn your core Undeads."
-msgstr ""
+msgstr "使用 [[Friendly Geist||120219]] 增强酒馆法术的攻击力，并通过 [[Carapace Raiser||122479]] 生成 [[Haunted Carapace||122489]] 法术。提图斯·瑞文戴尔至关重要，因为它能将这两种效果翻倍。这些法术既能强化你的棋盘，又能召唤大量攻击力，因此你需要让场上的其他随从成为召唤物生成者，例如 [[Mechanized Gift Horse||103682]] 和 [[Handless Forsaken||95265]]。最后使用 [[Prosthetic Hand||112364]] 来复生你的核心亡灵随从。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/52/
 msgid "[[Titus Rivendare||97408]]/[[Friendly Geist||120219]] + [[Carapace Raiser||122479]]"
@@ -174,11 +174,11 @@ msgstr "野猪人 - 暗视"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/59/
 msgid "After you have [[Darkgaze Elder||80756]] and buffed gems ([[Prickly Piper||98946]]), your objective is to spend as much gold as possible. This is usually done if you have [[Brann Bronzebeard||96786]], and you cycle every free battlecry such as [[Reef Explorer||80754]] and [[Tavern Tempest||64077]]. You also want to cycle every [[Gem Smuggler||101594]] and [[Moon bacon Jazzer||98930]] and [[Fearless foodie||113154]] to help scale."
-msgstr ""
+msgstr "在获得 [[Darkgaze Elder||80756]] 和强化宝石([[Prickly Piper||98946]])后，你的目标是尽可能多地花费铸币。通常情况下如果你拥有[[Brann Bronzebeard||96786]]，你会循环使用所有免费的战吼，例如 [[Reef Explorer||80754]] 和 [[Tavern Tempest||64077]]。你还需要循环使用所有 [[Gem Smuggler||101594]] 、[[Moon bacon Jazzer||98930]] 和[[Fearless foodie||113154]] 来提升宝石属性。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/59/
 msgid "[[Darkgaze Elder||80756]] + Scaled gems ([[Prickly Piper||98946]])"
-msgstr ""
+msgstr "[[Darkgaze Elder||80756]] + 宝石强化 ([[Prickly Piper||98946]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/59/
 msgid "[[Prickly Piper||98946]] + Quilboar Midgame ([[Roadboar||70157]])"
@@ -220,7 +220,7 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/21/
 msgid "[[Gleaming Trader||122072]] + Divine Shields ([[Holo Rover||115674]], [[Grease bot||72389]])"
-msgstr ""
+msgstr "[[Gleaming Trader||122072]] + 圣盾随从 ([[Holo Rover||115674]], [[Grease bot||72389]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Divine Shields ([[Deflect-o-bot||61930]], [[Grease bot||72389]])"
@@ -300,12 +300,13 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/56/
 msgid "[[Brann Bronzebeard||96786]] + [[Magicfin Mycologist||122277]] + [[Young Murk-eye||87084]]"
-msgstr ""
+msgstr "[[Brann Bronzebeard||96786]] + [[Magicfin Mycologist||122277]] + [[Young Murk-eye||87084]]"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/56/
 msgid "[[Magicfin Mycologist||122277]]\n"
 "[[Brann Bronzebeard||96786]]"
-msgstr ""
+msgstr "[[Magicfin Mycologist||122277]]\n"
+"[[Brann Bronzebeard||96786]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/56/
 msgid "Teach Murlocs spells and proc them"
@@ -351,7 +352,7 @@ msgstr "将大量属性值赋予元素"
 
 #: name | https://hsreplay.net/battlegrounds/comps/6/
 msgid "Undead - Overflow"
-msgstr ""
+msgstr "亡灵 - 挤爆"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
 msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo."
@@ -359,15 +360,15 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
 msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
-msgstr ""
+msgstr "挤爆随从 ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
 msgid "[[Cadaver Caretaker||113158]]"
-msgstr ""
+msgstr "[[Cadaver Caretaker||113158]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/6/
 msgid "Overflow your board to scale"
-msgstr ""
+msgstr "挤掉召唤物来成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/49/
 msgid "Quilboar - Rally"
@@ -375,7 +376,7 @@ msgstr "野猪人 - 进击"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/49/
 msgid "Scale your bloodgems using an early [[Sanguine Refiner||122566]]. Then, [[Razorfen Vineweaver||122562]] casts 3 or more permanent gems on itself each fight, while [[Bloodsnout Warlord||122564]] casts an insane amount of temporary gems on your board. You also want to shield as many Quilboars as possible using [[Hog Watcher||122737]]. In the endgame, you may gem transfer using [[Gem Confiscation||110642]] onto a [[Corrupted Bristler]] to double the effectiveness of your blood gems. Taunt is important in this comp, and use it on either [[Charlga||70165]] or [[Darkgaze Elder||80756]]"
-msgstr ""
+msgstr "在早期使用 [[Sanguine Refiner||122566]] 来强化鲜血宝石。然后 [[Razorfen Vineweaver||122562]] 在每次攻击都会为自己使用 3 个或更多的永久宝石，而[[Bloodsnout Warlord||122564]] 则会在你的棋盘上疯狂地施放大量的临时宝石。你还要用 [[Hog Watcher||122737]] 尽可能多地为野猪人套上圣盾。在终局中，你可以使用 [[Gem Confiscation||110642]] 将宝石转移到 [[腐化的棘刺野猪人]] 上，使你的鲜血宝石效果翻倍。嘲讽在这一流派中至关重要，建议给 [[Charlga||70165]] 或[[Darkgaze Elder||80756]] 贴嘲讽"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/49/
 msgid "Gem Scaling ([[Sanguine Refiner||122566]]) + Payoff ([[Razorfen Vineweaver||122562]]/[[Bloodsnout Warlord||122564]])"

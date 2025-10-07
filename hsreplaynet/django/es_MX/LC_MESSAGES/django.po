@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-26 01:40+0000\n"
-"PO-Revision-Date: 2025-09-26 12:40\n"
+"POT-Creation-Date: 2025-10-07 01:40+0000\n"
+"PO-Revision-Date: 2025-10-07 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -963,52 +963,52 @@ msgstr "Héroes de Campos de Batalla"
 msgid "No matching hero found."
 msgstr "Héroe no encontrado."
 
-#: web/views/battlegrounds.py:569
+#: web/views/battlegrounds.py:572
 msgid "Battlegrounds Duos Hero"
 msgstr "Campo de Batalla Héroes Duales"
 
-#: web/views/battlegrounds.py:577
+#: web/views/battlegrounds.py:580
 msgid "Battlegrounds Minions"
 msgstr "Esbirros de Campos de Batalla"
 
-#: web/views/battlegrounds.py:583 web/views/battlegrounds.py:610
+#: web/views/battlegrounds.py:586 web/views/battlegrounds.py:613
 msgid "Battlegrounds Minion"
 msgstr "Esbirros de Campos de Batalla"
 
-#: web/views/battlegrounds.py:602
+#: web/views/battlegrounds.py:605
 msgid "No matching minion found."
 msgstr "No se encontraron esbirros que coincidan."
 
-#: web/views/battlegrounds.py:641
+#: web/views/battlegrounds.py:644
 msgid "Battlegrounds Compositions"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:647 web/views/battlegrounds.py:677
+#: web/views/battlegrounds.py:650 web/views/battlegrounds.py:680
 msgid "Battlegrounds Composition"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:670
+#: web/views/battlegrounds.py:673
 msgid "No matching live or lingering composition found."
 msgstr "Ninguna composición en vivo se encontró."
 
-#: web/views/battlegrounds.py:672
+#: web/views/battlegrounds.py:675
 msgid "No matching composition found."
 msgstr "No se encontraron coincidencias."
 
-#: web/views/battlegrounds.py:722
+#: web/views/battlegrounds.py:725
 msgid "Battlegrounds Comp"
 msgstr "Compas de Campos de Batalla"
 
-#: web/views/battlegrounds.py:741
+#: web/views/battlegrounds.py:744
 msgid "No matching comp found."
 msgstr "No se encontró ningún compa coincidente."
 
-#: web/views/battlegrounds.py:748
+#: web/views/battlegrounds.py:751
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr ""
 
-#: web/views/battlegrounds.py:831
+#: web/views/battlegrounds.py:834
 msgid "My Battlegrounds Stats"
 msgstr "Estadísticas de Mis Campos de Batalla"
 
