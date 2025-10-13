@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-30T01:40:23.592998\n"
+"POT-Creation-Date: 2025-10-13T01:40:25.942217\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /anomaly_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 167\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-10-12 12:40\n"
+"PO-Revision-Date: 2025-10-13 12:40\n"
 
 #: Anomaly id 102982 | Guide id 20
 msgid "Quests with spellcraft effects are really strong because you get the spellcraft for two turns."
@@ -41,6 +41,10 @@ msgstr "如果你的生命值在 11-15 之间，且奥秘还未触发，请不�
 msgid "Your turn 1 buy is very important. Be prepared to only buy cards of that type."
 msgstr "你的第1回合购买非常重要。准备好只购买这种随从类型的卡。"
 
+#: Anomaly id 101954 | Guide id 28
+msgid "Level every turn and be tavern 4 by turn 3. You can do this because of damage cap."
+msgstr "每回合都升级，第3回合升到4级酒馆。因为有伤害上限保护所以你可以这样做。"
+
 #: Anomaly id 119094 | Guide id 22
 msgid "For your second hero power, generally the lower armor the hero is, the better option it is. For example, Snake eyes is one of the best second hero powers to pick because it's a 6 armor hero paired alongside the armor of your first hero. Patchwerk technically counts as a 0 armor hero so it's one of the best second hero powers."
 msgstr "对于你的第二个英雄技能，一般来说护甲越低的英雄越好。例如，“蛇眼 ”是最好的第二个英雄技能之一，因为她是一个6护甲的英雄，与第一个英雄的护甲组合在一起。从技术上讲，帕奇维克算是一个0护甲的英雄，所以它是最好的第二个英雄技能之一。"
@@ -57,10 +61,6 @@ msgstr "快速升级酒馆。大多数情况下，你要在第4回合升到4级�
 msgid "Useless triples are less valuable because they don't give you a triple reward. If you don't plan on keeping a card, don't triple it."
 msgstr "无用的三连没那么重要，因为它们不会给你三连奖励。如果你不打算留下这个随从，请不要三连。"
 
-#: Anomaly id 103541 | Guide id 70
-msgid "[[Brann Bronzebeard||96786]] is the most important card in this anomaly, and single handedly allows you to go infinite because of the sheer quality of the battlecry buddies."
-msgstr "[[布莱恩·铜须||96786]] 是这个畸变中最重要的卡牌， 因为战吼伙伴的质量非常高，单卡就可让你无限资源了。"
-
 #: Anomaly id 102046 | Guide id 41
 msgid "If you have buffs in your hand, use the buffs on the shop and then buy the minion with double header to duplicate the buffs."
 msgstr "如果手中有buff，就对酒馆里的随从使用buff，然后使用“双头之战”购买随从来复制 buff。"
@@ -68,10 +68,6 @@ msgstr "如果手中有buff，就对酒馆里的随从使用buff，然后使用�
 #: Anomaly id 119044 | Guide id 58
 msgid "ALWAYS go 3 on 3! Then you can golden a 3 drop on turn 4 and triple into a 4 drop. Use your 3rd arrow on something that wins you the game like golden Brann or Titus."
 msgstr "始终第3回合升到3级！这样你就能在第4回合获得金色3级随从，然后获得一个4级三连奖励。将第3支箭用在能让你赢得游戏的地方，比如金铜须或瑞文戴尔。"
-
-#: Anomaly id 101954 | Guide id 28
-msgid "Level every turn and be tavern 5 by turn 4. You can do this because of damage cap."
-msgstr "每回合都升级，第4回合升到5级。因为有掉血保护所以你可以这样做。"
 
 #: Anomaly id 102084 | Guide id 45
 msgid "Play this anomaly like you would play Reno. Either golden an early value generator or a win condition."
@@ -137,6 +133,10 @@ msgstr "一张法术奖券大约价值1金。但不要为了买奖券而买垃�
 msgid "For the first few turns, guaranteeing that you lose a fight by holding your unit is better than leaving it up to chance. After you've lost a couple of rounds, you can cash out all your gold on tavern 4, and start betting on yourself after you're confident in the win."
 msgstr "在最开始的几个回合中，把随从留在手上不上场来保证自己输掉战斗总比听天由命要好。在输掉几个回合后，你可以在4级酒馆花完所有铸币，在对胜利充满信心后开始为自己下注。"
 
+#: Anomaly id 123083 | Guide id 104
+msgid "Only certain heroes benefit from 2 golden buddies, such as Tickatus. For most heroes, the 2nd golden buddy comes too late to matter."
+msgstr "只有少数英雄能从2个金色伙伴中受益，例如提克特斯。对于大多数英雄来说，第二个金色伙伴来得太晚，影响不大。"
+
 #: Anomaly id 101986 | Guide id 90
 msgid "Staying down and making interest is ALWAYS better than leveling and not making interest. I prefer to not buy any minions turn 1 and start making interest turn 2 onwards. Then, I would spend all the gold on tavern 4 to stabilize."
 msgstr "保持稳定并赚取利息永远比提升酒馆等级不拿利息要好。我更喜欢在第1回合不买任何随从，从第2回合开始赚取利息。然后我会把所有铸币都花在4级酒馆并稳定下来。"
@@ -148,6 +148,10 @@ msgstr "试着在第1回合刷新3次，第3回合刷新2次，这样就能在�
 #: Anomaly id 118669 | Guide id 15
 msgid "No real tip, just play Marin how you're used to"
 msgstr "没啥真正的提示，只需按自己玩马林的习惯玩即可"
+
+#: Anomaly id 123086 | Guide id 102
+msgid "Some useful synergies to note: You can golden most buddies using [[Elite Navigator||119986]]. You can Divine Shield and Reborn buddies in many ways as well."
+msgstr "一些需要注意的有用的协同效应：你可以使用[[精英导航员||119986]]将大多数伙伴变为金色。你也可以通过多种方式为伙伴提供圣盾和复生效果。"
 
 #: Anomaly id 118688 | Guide id 14
 msgid "Spell based comps are slightly better in this anomaly, but other than that play normally and enjoy some free spells."
@@ -196,6 +200,10 @@ msgstr "在这个畸变下购买法术非常不划算。通常情况下，使用
 #: Anomaly id 103078 | Guide id 82
 msgid "7 Drops are so overpowered any non-T7 comp can't compete. Here are some of the 7 drop lines: Morgl + Stiched + Moira + Bassgill steals a ton of opponents' stats // Rylak + Hawkstrider Herald + Sanguine Champion + Moira to make gigantic blood gems // Arcane Behemoth + Moira shop buff elementals // Moira + Champion of Sargeras + Rylak + Batty Terrorguard Shop Buff Demons"
 msgstr "7级随从过于强大，任何非7级阵容都无法与之抗衡。以下是一些7级随从阵容：摩戈尔+缝合回收者+茉艾拉·铜须+低音提琴鱼人偷取大量对手属性 // 双头飞龙+陆行鸟先锋+鲜血勇士+茉艾拉·铜须制造巨大鲜血宝石 // 奥术巨怪+茉艾拉·铜须强化商店元素 // 茉艾拉·铜须+萨格拉斯的勇士+双头飞龙+狂蝠恐惧卫士强化商店恶魔"
+
+#: Anomaly id 103541 | Guide id 70
+msgid "[[Brann Bronzebeard||96786]] is the most important card in this anomaly, and single handedly allows you to go infinite because of the sheer quality of the battlecry buddies. Early value generating buddies are premium."
+msgstr "[[布莱恩·铜须||96786]] 是这个畸变中最重要的卡牌，凭借战吼伙伴的卓越品质，它能让你实现无限资源。早期生成资源的伙伴是最好的。"
 
 #: Anomaly id 119092 | Guide id 57
 msgid "Go for a 5 drop or a 6 drop with your scout, depending on the tribes."
