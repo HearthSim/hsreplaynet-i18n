@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-13T01:40:25.760162\n"
+"POT-Creation-Date: 2025-10-15T01:40:24.401975\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-10-14 12:40\n"
+"PO-Revision-Date: 2025-10-15 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/122925/ Hero id 122925 | Guide id
 #: 702
@@ -70,7 +70,7 @@ msgstr "这位英雄在游戏前期提供一定的节奏，并且通过随机卡
 #: https://hsreplay.net/battlegrounds/heroes/82110/ Hero id 82110 | Guide id
 #: 213
 msgid "Must have beasts, undeads, and/or demons to start farming hero power early on. [[Manasaber||98831]] and [[Icky Imp||74910]] are premium on this hero."
-msgstr ""
+msgstr "必须拥有野兽、亡灵和/或恶魔才能尽早开始刷英雄技能。[[魔刃豹||98831]]和[[粗鄙小鬼||74910]]是这个英雄的优质选择。"
 
 #: https://hsreplay.net/battlegrounds/heroes/86013/ Hero id 86013 | Guide id
 #: 272
@@ -80,7 +80,7 @@ msgstr "你的英雄技能会帮你少掉点血，但别玩它。"
 #: https://hsreplay.net/battlegrounds/heroes/99033/ Hero id 99033 | Guide id
 #: 425
 msgid "Hero power and buddy has extra synergy with [[Drakkari Enchanter||101314]], allowing you to copy more copies of powerful cards."
-msgstr ""
+msgstr "英雄技能和伙伴与[[达卡莱附魔师||101314]]有额外协同效应，让你能复制更多强力卡牌。"
 
 #: https://hsreplay.net/battlegrounds/heroes/89293/ Hero id 89293 | Guide id
 #: 345
@@ -169,8 +169,8 @@ msgstr "英雄的起始护甲越低，就越适合与芬利搭配。蛇眼的起
 
 #: https://hsreplay.net/battlegrounds/heroes/74646/ Hero id 74646 | Guide id
 #: 150
-msgid "Taunt your lowest attack unit so it dies first. This hero is just a tempo hero to give you free stats in the early-mid game, but not a very good one."
-msgstr ""
+msgid "MUST Have taunted [[All-Seeing Elder||122104]] on this hero. It will get your hero power proc, which you can then trigger with [[Monstrous Macaw||62230]] or [[Hawkstrider]] Herald. With dragons is, use [[Persistent Poet||108463]] to keep stats also."
+msgstr "这个英雄必须要嘲讽的[[全视长者||122104]]。这会触发你的英雄技能，然后你可以用[[巨大的金刚鹦鹉||62230]]或[[陆行鸟先锋]]来触发它。与龙一起使用时，使用[[执念诗心龙||108463]]来保留属性。"
 
 #: https://hsreplay.net/battlegrounds/heroes/57944/ Hero id 57944 | Guide id
 #: 27
@@ -210,7 +210,7 @@ msgstr "只选择机械圣盾随从，如 [[拔线机||110101]]，这在游戏�
 #: https://hsreplay.net/battlegrounds/heroes/60370/ Hero id 60370 | Guide id
 #: 54
 msgid "Force Dragons on this hero, using [[Prized Promo-Drake||72073]] and [[Twilight Watcher||122442]] plus [[Persistent Poet||108463]] to stabilize."
-msgstr ""
+msgstr "为这个英雄强制玩龙，使用[[珍稀增强幼龙||72073]]和[[暮光守望巨龙||122442]]加上[[执念诗心龙||108463]]来稳定局势。"
 
 #: https://hsreplay.net/battlegrounds/heroes/75702/ Hero id 75702 | Guide id
 #: 16
@@ -265,11 +265,6 @@ msgstr "始终思考你的下一回合！在第1回合，冻结一个2费法术�
 msgid "Hero power when it works out goldwise. For example, on turn 4 you may level to tavern 3 and hero power for 1. When your hero power costs 5, stop hero powering."
 msgstr "在铸币充足的情况下使用英雄技能。例如，在第4回合，你可以升到3级酒馆并用1铸币使用英雄技能。当英雄技能耗费5铸币时，停止使用英雄技能。"
 
-#: https://hsreplay.net/battlegrounds/heroes/62266/ Hero id 62266 | Guide id
-#: 49
-msgid "ONLY PICKABLE WITH BEASTS! Hero power 1 drops the first few turns and try to discover [[Southsea Busker||98501]], [[Ominous Seer||117553]], or [[Alleycat||96758]]. Then, you can hero power the battlecry minion again and try to discover more battlecries."
-msgstr "只在野兽局才选！在前几个回合对1级随从使用英雄技能并尝试发现 [[南海卖艺者||98501]], [[厄运先知||117553]], 或 [[雄斑虎||96758]]。然后你就可以再次对战吼随从使用英雄技能，并尝试发现更多战吼。"
-
 #: https://hsreplay.net/battlegrounds/heroes/57634/ Hero id 57634 | Guide id
 #: 109
 msgid "Illidan is great with Rally cards because attacking first with them is quite important. It also allows for you to proc important rallys twice."
@@ -279,6 +274,11 @@ msgstr "伊利丹非常适合使用进击卡，因为用它们先手攻击非常
 #: 12
 msgid "Patchwerk 2.0, only press this hero power if you don't have a better way to spend 1 gold on maybe on turns 3, 4, or 5. The hero power is decent with Drakkari Enchanter because it upgrades twice and procs twice."
 msgstr "帕奇维克2.0，只有在第 3、4 或 5 回合没有更好的1铸币使用方式时才使用这个英雄技能。配合达卡莱附魔师时，这个英雄技能相当不错，因为它能升级两次并触发两次效果。"
+
+#: https://hsreplay.net/battlegrounds/heroes/62266/ Hero id 62266 | Guide id
+#: 49
+msgid "ONLY PICKABLE WITH BEASTS! Hero power 1 drops the first few turns and try to discover [[Southsea Busker||98501]], [[Ominous Seer||117553]], or [[Alleycat||96758]]. Then, you can hero power the battlecry minion again and try to discover more battlecries."
+msgstr "只在野兽局才选！在前几个回合对1级随从使用英雄技能并尝试发现 [[南海卖艺者||98501]], [[厄运先知||117553]], 或 [[雄斑虎||96758]]。然后你就可以再次对战吼随从使用英雄技能，并尝试发现更多战吼。"
 
 #: https://hsreplay.net/battlegrounds/heroes/59806/ Hero id 59806 | Guide id
 #: 118
@@ -318,7 +318,7 @@ msgstr "在前期每回合（包括第一回合）都使用英雄技能冻结酒
 #: https://hsreplay.net/battlegrounds/heroes/76521/ Hero id 76521 | Guide id
 #: 143
 msgid "You have the option to reborn the buddy with [[Prosthetic Hand||112364]] and summon scam such as [[Deadly Spore||65031]] or [[Leeroy, the Reckless||90425]]. This hero isn't that good though."
-msgstr ""
+msgstr "你可以选择使用[[义肢假手||112364]]复生伙伴，并召唤如[[致命的孢子||65031]]或[[莽神火车王||90425]]之类的下毒单卡。不过这个英雄并不那么强大。"
 
 #: https://hsreplay.net/battlegrounds/heroes/63601/ Hero id 63601 | Guide id 1
 msgid "If you find an [[Alleycat||96758]] turn 1, swap it every turn (except turn 2 because it should be frozen in your shop), taking a 3 drop with your tabbycat triple turn 3 and taking a 5 drop on turn 6."
@@ -366,21 +366,16 @@ msgstr "在第6回合前都使用英雄技能（第2回合升级时除外），�
 #: https://hsreplay.net/battlegrounds/heroes/58435/ Hero id 58435 | Guide id
 #: 29
 msgid "This hero benefits from cycle tribes being in, which are Elementals Murlocs and Pirates. Then, cycle every free card ([[Sellemental||64038]], [[Patient Scout||97604]], [[Tavern Tempest||64077]]) and find an APM direction to start scaling."
-msgstr ""
+msgstr "这个英雄得益于元素、鱼人和海盗这些循环流种族。循环使用每张免费牌（[[商贩元素||64038]]、[[耐心的侦查员||97604]]、[[酒馆旋风||64077]]），找一个手速倒转流派开始成长。"
 
 #: https://hsreplay.net/battlegrounds/heroes/57892/ Hero id 57892 | Guide id
 #: 24
 msgid "Buy every single cheap card that costs 1 ([[Pointy Arrow||100596]], [[Patient Scout||97604]]) the first 6 turns. Stay on tavern 2 on turn 6 to finish the hero power. Then, if you can, double level turn 7 to not be underleveled."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/58021/ Hero id 58021 | Guide id
-#: 112
-msgid "If you have a deathrattle you really want to copy, then taunt it and choose Pack Tactics. Otherwise, usually choose Venomstrike Trap."
-msgstr "如果你有一个非常想复制的亡语，那么让它获得嘲讽并选择集群战术。否则通常选择眼镜蛇陷阱。"
-
 #: https://hsreplay.net/battlegrounds/heroes/64400/ Hero id 64400 | Guide id 4
 msgid "Mediocre hero power in the early game, enables spell synergy mid-late game such as [[Shadowdancer||120662]] or Bounty Pirates."
-msgstr ""
+msgstr "游戏前期英雄能力平庸，中后期可提供酒馆法术协同效果，例如[[影舞者||120662]]或悬赏令海盗流。"
 
 #: https://hsreplay.net/battlegrounds/heroes/57633/ Hero id 57633 | Guide id
 #: 108
@@ -412,6 +407,11 @@ msgstr ""
 msgid "If you plan on eating the entire shop, swap your largest attack unit into the shop first so you can turn your hero power attack into permanent attack. [[Channel the Devourer||100899]] and [[Mounting Avalanche||122862]] are other ways to turn temporary stats from your hero power into permanant stats."
 msgstr "如果你打算吃掉整个商店，那就先把你攻击力最大随从换到商店里，这样你就可以把英雄技能的攻击力变成永久攻击力。 [[祈请吞噬者||100899]]和[[累叠雪崩\n"
 "||122862]] 是另一种将英雄技能的临时属性转化为永久属性的方法。"
+
+#: https://hsreplay.net/battlegrounds/heroes/58021/ Hero id 58021 | Guide id
+#: 112
+msgid "If you have a deathrattle you really want to copy, then taunt it and choose Pack Tactics. Otherwise, usually choose Venomstrike Trap."
+msgstr "如果你有一个非常想复制的亡语，那么让它获得嘲讽并选择集群战术。否则通常选择眼镜蛇陷阱。"
 
 #: https://hsreplay.net/battlegrounds/heroes/57929/ Hero id 57929 | Guide id
 #: 26
