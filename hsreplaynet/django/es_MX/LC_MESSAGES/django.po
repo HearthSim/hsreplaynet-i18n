@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-13 01:40+0000\n"
-"PO-Revision-Date: 2025-10-13 12:40\n"
+"POT-Creation-Date: 2025-10-17 01:40+0000\n"
+"PO-Revision-Date: 2025-10-17 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -62,7 +62,7 @@ msgstr "{input} no es un miembro valido de {enum}."
 msgid "String value too large."
 msgstr ""
 
-#: api/serializers/battlegrounds.py:511
+#: api/serializers/battlegrounds.py:512
 #, python-brace-format
 msgid "{tribe_name} - {instance.name}"
 msgstr ""
@@ -510,23 +510,23 @@ msgstr "Ver lista del Meta"
 msgid "Arena Guide"
 msgstr ""
 
-#: templates/footer.html:77 web/views/battlegrounds.py:140
+#: templates/footer.html:77 web/views/battlegrounds.py:141
 msgid "Battlegrounds Heroes"
 msgstr "Héroes de Campos de Batalla"
 
-#: templates/footer.html:78 web/views/battlegrounds.py:155
+#: templates/footer.html:78 web/views/battlegrounds.py:156
 msgid "Battlegrounds Comps"
 msgstr "Compas de Campos de Batalla"
 
-#: templates/footer.html:79 web/views/battlegrounds.py:289
+#: templates/footer.html:79 web/views/battlegrounds.py:290
 msgid "Battlegrounds Anomalies"
 msgstr "Anomalias de Campos de Batalla"
 
-#: templates/footer.html:80 web/views/battlegrounds.py:344
+#: templates/footer.html:80 web/views/battlegrounds.py:345
 msgid "Battlegrounds Quests"
 msgstr ""
 
-#: templates/footer.html:81 web/views/battlegrounds.py:222
+#: templates/footer.html:81 web/views/battlegrounds.py:223
 msgid "Battlegrounds Trinkets"
 msgstr ""
 
@@ -578,24 +578,24 @@ msgstr "Lista del meta"
 msgid "Parties"
 msgstr "Equipos"
 
-#: templates/navigation.html:78 web/views/battlegrounds.py:149
-#: web/views/battlegrounds.py:484
+#: templates/navigation.html:78 web/views/battlegrounds.py:150
+#: web/views/battlegrounds.py:485
 msgid "Heroes"
 msgstr "Héroes"
 
-#: templates/navigation.html:90 web/views/battlegrounds.py:230
+#: templates/navigation.html:90 web/views/battlegrounds.py:231
 msgid "Trinkets"
 msgstr ""
 
-#: templates/navigation.html:103 web/views/battlegrounds.py:418
+#: templates/navigation.html:103 web/views/battlegrounds.py:419
 msgid "Darkmoon Prizes"
 msgstr "Premios de la Luna Negra"
 
-#: templates/navigation.html:114 web/views/battlegrounds.py:164
+#: templates/navigation.html:114 web/views/battlegrounds.py:165
 msgid "Comps"
 msgstr "Compas"
 
-#: templates/navigation.html:126 web/views/battlegrounds.py:352
+#: templates/navigation.html:126 web/views/battlegrounds.py:353
 msgid "Quests"
 msgstr ""
 
@@ -603,7 +603,7 @@ msgstr ""
 msgid "NEW"
 msgstr ""
 
-#: templates/navigation.html:143 web/views/battlegrounds.py:297
+#: templates/navigation.html:143 web/views/battlegrounds.py:298
 msgid "Anomalies"
 msgstr "Anomalías"
 
@@ -903,112 +903,112 @@ msgstr ""
 msgid "Arenasmith - Draft Assistant for Hearthstone Arena"
 msgstr ""
 
-#: web/views/battlegrounds.py:119
+#: web/views/battlegrounds.py:120
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
 msgstr "¡Sube de nivel tu juego con las estadísticas más profundas en Campos de batalla con Tier7, incluyendo información sobre los mejores héroes, composiciones, esbirros y más!"
 
-#: web/views/battlegrounds.py:129 web/views/battlegrounds.py:148
-#: web/views/battlegrounds.py:163 web/views/battlegrounds.py:229
-#: web/views/battlegrounds.py:296 web/views/battlegrounds.py:351
-#: web/views/battlegrounds.py:401 web/views/battlegrounds.py:417
-#: web/views/battlegrounds.py:475
+#: web/views/battlegrounds.py:130 web/views/battlegrounds.py:149
+#: web/views/battlegrounds.py:164 web/views/battlegrounds.py:230
+#: web/views/battlegrounds.py:297 web/views/battlegrounds.py:352
+#: web/views/battlegrounds.py:402 web/views/battlegrounds.py:418
+#: web/views/battlegrounds.py:476
 msgid "Battlegrounds"
 msgstr "Campos de Batalla"
 
-#: web/views/battlegrounds.py:130
+#: web/views/battlegrounds.py:131
 msgid "Tier7"
 msgstr "Tier7"
 
-#: web/views/battlegrounds.py:135
+#: web/views/battlegrounds.py:136
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr "HSReplay.net Nivel 7 para Campos de Batalla"
 
-#: web/views/battlegrounds.py:142
+#: web/views/battlegrounds.py:143
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr "Explora nuestra Lista de Nivel de Héroes de los Campos de Batalla y aprende qué héroe es el mejor - alimentado por datos de millones de juegos."
 
-#: web/views/battlegrounds.py:157
+#: web/views/battlegrounds.py:158
 msgid "Explore our Comps Tier List and learn which comp is the best - powered by JeefHS, Top BGs player."
 msgstr "Explora nuestra lista de mejores Comps y aprende cual es el mejor - desarrollado por JeefHS, de los Mejores jugadores de Campos de Batalla."
 
-#: web/views/battlegrounds.py:224
+#: web/views/battlegrounds.py:225
 msgid "Explore our Battlegrounds Trinkets Tier List and learn which trinket is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:291
+#: web/views/battlegrounds.py:292
 msgid "Explore our Battlegrounds Anomalies List and learn which anomalies are more common - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:346
+#: web/views/battlegrounds.py:347
 msgid "Explore our Battlegrounds Quests List and learn which quests are the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:398
+#: web/views/battlegrounds.py:399
 msgid "Battlegrounds Duos Heroes"
 msgstr "Campos de batalla Héroes Duales"
 
-#: web/views/battlegrounds.py:402
+#: web/views/battlegrounds.py:403
 msgid "Duos Heroes"
 msgstr "Héroes Duales"
 
-#: web/views/battlegrounds.py:414
+#: web/views/battlegrounds.py:415
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr "Premios de Luna Negra de Campos de batalla"
 
-#: web/views/battlegrounds.py:423
+#: web/views/battlegrounds.py:424
 msgid "Battlegrounds Hero"
 msgstr "Héroes de Campos de Batalla"
 
-#: web/views/battlegrounds.py:444
+#: web/views/battlegrounds.py:445
 msgid "No matching hero found."
 msgstr "Héroe no encontrado."
 
-#: web/views/battlegrounds.py:602
+#: web/views/battlegrounds.py:603
 msgid "Battlegrounds Duos Hero"
 msgstr "Campo de Batalla Héroes Duales"
 
-#: web/views/battlegrounds.py:610
+#: web/views/battlegrounds.py:611
 msgid "Battlegrounds Minions"
 msgstr "Esbirros de Campos de Batalla"
 
-#: web/views/battlegrounds.py:616 web/views/battlegrounds.py:643
+#: web/views/battlegrounds.py:636 web/views/battlegrounds.py:692
 msgid "Battlegrounds Minion"
 msgstr "Esbirros de Campos de Batalla"
 
-#: web/views/battlegrounds.py:635
+#: web/views/battlegrounds.py:684
 msgid "No matching minion found."
 msgstr "No se encontraron esbirros que coincidan."
 
-#: web/views/battlegrounds.py:674
+#: web/views/battlegrounds.py:747
 msgid "Battlegrounds Compositions"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:680 web/views/battlegrounds.py:710
+#: web/views/battlegrounds.py:753 web/views/battlegrounds.py:783
 msgid "Battlegrounds Composition"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:703
+#: web/views/battlegrounds.py:776
 msgid "No matching live or lingering composition found."
 msgstr "Ninguna composición en vivo se encontró."
 
-#: web/views/battlegrounds.py:705
+#: web/views/battlegrounds.py:778
 msgid "No matching composition found."
 msgstr "No se encontraron coincidencias."
 
-#: web/views/battlegrounds.py:755
+#: web/views/battlegrounds.py:877
 msgid "Battlegrounds Comp"
 msgstr "Compas de Campos de Batalla"
 
-#: web/views/battlegrounds.py:774
+#: web/views/battlegrounds.py:896
 msgid "No matching comp found."
 msgstr "No se encontró ningún compa coincidente."
 
-#: web/views/battlegrounds.py:781
+#: web/views/battlegrounds.py:903
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr ""
 
-#: web/views/battlegrounds.py:864
+#: web/views/battlegrounds.py:943
 msgid "My Battlegrounds Stats"
 msgstr "Estadísticas de Mis Campos de Batalla"
 
