@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-17T01:40:25.287616\n"
+"POT-Creation-Date: 2025-10-18T01:40:34.760183\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-10-17 12:40\n"
+"PO-Revision-Date: 2025-10-18 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/122925/ Hero id 122925 | Guide id
 #: 702
@@ -373,6 +373,11 @@ msgstr "这个英雄得益于元素、鱼人和海盗这些循环流种族。循
 msgid "Buy every single cheap card that costs 1 ([[Pointy Arrow||100596]], [[Patient Scout||97604]]) the first 6 turns. Stay on tavern 2 on turn 6 to finish the hero power. Then, if you can, double level turn 7 to not be underleveled."
 msgstr "前6回合购买所有实际费用为1的廉价卡（[[尖利箭矢||100596]]、[[耐心的侦查员|97604]]）。第6回合停留在酒馆2级解锁英雄技能。然后如果可能的话，第7回合连升两级，避免等级落后。"
 
+#: https://hsreplay.net/battlegrounds/heroes/58021/ Hero id 58021 | Guide id
+#: 112
+msgid "If you have a deathrattle you really want to copy, then taunt it and choose Pack Tactics. Otherwise, usually choose Venomstrike Trap."
+msgstr "如果你有一个非常想复制的亡语，那么让它获得嘲讽并选择集群战术。否则通常选择眼镜蛇陷阱。"
+
 #: https://hsreplay.net/battlegrounds/heroes/64400/ Hero id 64400 | Guide id 4
 msgid "Mediocre hero power in the early game, enables spell synergy mid-late game such as [[Shadowdancer||120662]] or Bounty Pirates."
 msgstr "游戏前期英雄能力平庸，中后期可提供酒馆法术协同效果，例如[[影舞者||120662]]或悬赏令海盗流。"
@@ -407,11 +412,6 @@ msgstr "游戏前期，购买所有的[[塔德||87060]]和[[耐心的侦查员||
 msgid "If you plan on eating the entire shop, swap your largest attack unit into the shop first so you can turn your hero power attack into permanent attack. [[Channel the Devourer||100899]] and [[Mounting Avalanche||122862]] are other ways to turn temporary stats from your hero power into permanant stats."
 msgstr "如果你打算吃掉整个商店，那就先把你攻击力最大随从换到商店里，这样你就可以把英雄技能的攻击力变成永久攻击力。 [[祈请吞噬者||100899]]和[[累叠雪崩\n"
 "||122862]] 是另一种将英雄技能的临时属性转化为永久属性的方法。"
-
-#: https://hsreplay.net/battlegrounds/heroes/58021/ Hero id 58021 | Guide id
-#: 112
-msgid "If you have a deathrattle you really want to copy, then taunt it and choose Pack Tactics. Otherwise, usually choose Venomstrike Trap."
-msgstr "如果你有一个非常想复制的亡语，那么让它获得嘲讽并选择集群战术。否则通常选择眼镜蛇陷阱。"
 
 #: https://hsreplay.net/battlegrounds/heroes/57929/ Hero id 57929 | Guide id
 #: 26
