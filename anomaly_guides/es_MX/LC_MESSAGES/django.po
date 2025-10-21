@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-13T01:40:25.942217\n"
+"POT-Creation-Date: 2025-10-21T01:40:24.115168\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /anomaly_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 167\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2025-10-13 12:40\n"
+"PO-Revision-Date: 2025-10-21 12:40\n"
 
 #: Anomaly id 102982 | Guide id 20
 msgid "Quests with spellcraft effects are really strong because you get the spellcraft for two turns."
@@ -37,12 +37,32 @@ msgstr ""
 msgid "If you're at 11-15 HP with your secret still up, do NOT use armor. Wait until your secret is used up before you use your armor up, so you can first benefit from the 11 extra gold."
 msgstr ""
 
-#: Anomaly id 102457 | Guide id 1
-msgid "Your turn 1 buy is very important. Be prepared to only buy cards of that type."
+#: Anomaly id 106510 | Guide id 19
+msgid "The best ones are value generators such as [[Greedy Snaketongue||122213]] and [[Lost City Looter||122175]]."
 msgstr ""
 
 #: Anomaly id 101954 | Guide id 28
 msgid "Level every turn and be tavern 4 by turn 3. You can do this because of damage cap."
+msgstr ""
+
+#: Anomaly id 123022 | Guide id 100
+msgid "Heroes with buddies with lower tavern tiers are slightly better. Examples include Lady Vashj and Galewing."
+msgstr ""
+
+#: Anomaly id 102085 | Guide id 43
+msgid "Level very fast in this one. Most of the time you're going level 4 on turn 4, or at the very least 4 by tavern 5."
+msgstr ""
+
+#: Anomaly id 123021 | Guide id 99
+msgid "Play normally."
+msgstr ""
+
+#: Anomaly id 102457 | Guide id 1
+msgid "Your turn 1 buy is very important. Be prepared to only buy cards of that type. In my opinion, Pirates are the best tribe turn 1 because of their strong economy."
+msgstr ""
+
+#: Anomaly id 106470 | Guide id 95
+msgid "The best ones are value generators such as [[Campfire Shadow||122481]] and [[Friendly Bouncer||122739]]"
 msgstr ""
 
 #: Anomaly id 119094 | Guide id 22
@@ -51,10 +71,6 @@ msgstr ""
 
 #: Anomaly id 103113 | Guide id 3
 msgid "Generally, quests that are easier to complete are better options. For example, pick a \"Summon\" or \"Have minions die\" quest with a deathrattle opener."
-msgstr ""
-
-#: Anomaly id 102085 | Guide id 43
-msgid "Level very fast in this one. Most of the time you're going level 4 on turn 4, or even 5 on 5."
 msgstr ""
 
 #: Anomaly id 102075 | Guide id 25
@@ -149,28 +165,16 @@ msgstr ""
 msgid "No real tip, just play Marin how you're used to"
 msgstr ""
 
-#: Anomaly id 123086 | Guide id 102
-msgid "Some useful synergies to note: You can golden most buddies using [[Elite Navigator||119986]]. You can Divine Shield and Reborn buddies in many ways as well."
-msgstr ""
-
 #: Anomaly id 118688 | Guide id 14
 msgid "Spell based comps are slightly better in this anomaly, but other than that play normally and enjoy some free spells."
-msgstr ""
-
-#: Anomaly id 102076 | Guide id 44
-msgid "Break open your piggy bank the turn you want to stabilize (buying strong minions). If you want to stabilize on tavern 4, break open your piggy bank after you level to 4."
 msgstr ""
 
 #: Anomaly id 102991 | Guide id 34
 msgid "It's really hard to hit anything in this anomaly, so maybe you need to buy more marginal cards you wouldn't otherwise buy to become stronger."
 msgstr ""
 
-#: Anomaly id 102459 | Guide id 84
-msgid "Usually, you level to tavern 2 on turn 2, then tavern 3 on turn 4. The best T2 prizes to take are 2 coins and 3 rolls. The best T3 prizes to take are Great Deal and Unlimited Coin."
-msgstr ""
-
-#: Anomaly id 102005 | Guide id 55
-msgid "Cycle comps such as Murlocs, Elementals, or PIrates, are wayyy better in this anomaly. You can easily go infinite with a single Brann or Doubloon Grifter."
+#: Anomaly id 106508 | Guide id 87
+msgid "Hope for a golden 6 drop that agrees with your current boardstate. If not, you may have to pivot into your golden 6 drop direction."
 msgstr ""
 
 #: Anomaly id 118697 | Guide id 10
@@ -201,19 +205,43 @@ msgstr ""
 msgid "7 Drops are so overpowered any non-T7 comp can't compete. Here are some of the 7 drop lines: Morgl + Stiched + Moira + Bassgill steals a ton of opponents' stats // Rylak + Hawkstrider Herald + Sanguine Champion + Moira to make gigantic blood gems // Arcane Behemoth + Moira shop buff elementals // Moira + Champion of Sargeras + Rylak + Batty Terrorguard Shop Buff Demons"
 msgstr ""
 
-#: Anomaly id 103541 | Guide id 70
-msgid "[[Brann Bronzebeard||96786]] is the most important card in this anomaly, and single handedly allows you to go infinite because of the sheer quality of the battlecry buddies. Early value generating buddies are premium."
-msgstr ""
-
 #: Anomaly id 119092 | Guide id 57
 msgid "Go for a 5 drop or a 6 drop with your scout, depending on the tribes."
 msgstr ""
 
-#: Anomaly id 101992 | Guide id 23
-msgid "It's hard to pick heroes that love to level fast on this anomaly, such as maybe [[Snake Eyes||105314]]. You want your hero power to be able to put stats on the board without relying on high tier units. I think Ysera is very solid in this one."
+#: Anomaly id 109379 | Guide id 86
+msgid "Moira is best in economy heavy lobbies (Elemental/Murloc/Pirate). Seawitch, Morgl, and Varian are generally solid."
+msgstr ""
+
+#: Anomaly id 106507 | Guide id 94
+msgid "Golden Brann is the best in economy heavy (Elemental/Pirate/Murloc) lobbies. Golden burrower is a good commit point for beasts if you have HP."
 msgstr ""
 
 #: Anomaly id 119748 | Guide id 30
 msgid "Your turn 1 buy is very important, because you'll only get cards from that tribe. Also, it's easy to level fast on this anomaly in order to not buy trash. In my opinion, the best turn 1 tribe to buy is Pirates because of their strong economy."
+msgstr ""
+
+#: Anomaly id 123086 | Guide id 102
+msgid "Some useful synergies to note: You can golden most buddies using [[Elite Navigator||119986]]. You can Divine Shield and Reborn buddies in many ways as well. You can also use Mounting Avalanche on them to buff them."
+msgstr ""
+
+#: Anomaly id 102076 | Guide id 44
+msgid "Break open your piggy bank the turn you want to stabilize (buying strong minions to win your fights). If you want to stabilize on tavern 4, break open your piggy bank after you level to 4."
+msgstr ""
+
+#: Anomaly id 103541 | Guide id 70
+msgid "Early value generating buddies are premium. Then, [[Brann Bronzebeard||96786]] is the most important card in this anomaly, and single handedly allows you to go infinite because of the sheer quality of the battlecry buddies."
+msgstr ""
+
+#: Anomaly id 102459 | Guide id 84
+msgid "Usually, you level to tavern 2 on turn 2, then tavern 3 on turn 4. The best T2 prizes to take are 2 coins and 3 rolls. The best T3 prizes to take are Great Deal and On the House."
+msgstr ""
+
+#: Anomaly id 101992 | Guide id 23
+msgid "You want your hero power to be able to put stats on the board without relying on high tier units. For example, Ragnaros and Artanis gets very strong on lower tavern tiers."
+msgstr ""
+
+#: Anomaly id 102005 | Guide id 55
+msgid "Cycle comps such as Murlocs, Elementals, or PIrates, are wayyy better in this anomaly. You can easily go infinite with a single Brann or Rogers."
 msgstr ""
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-11 01:40\n"
+"POT-Creation-Date: 2025-10-21 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: de\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-10-11 12:40\n"
+"PO-Revision-Date: 2025-10-21 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - APM"
@@ -138,6 +138,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/52/
 msgid "Buff Summons using Spells."
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/65/
+msgid "Quilboar - Charlga"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/65/
+msgid "After you have gem scaling, put down a [[Charlga||70165]] to scale your board at the end of every turn. [[Drakkari Enchanter||101314]] amplifies this effect."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/65/
+msgid "[[Sanguine Refiner||122566]] + [[Charlga||70165]] + [[Drakkari Enchanter||101314]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/65/
+msgid "Gem scaling ([[Sanguine Refiner||122566]]/[[Prickly Piper||98946]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/65/
+msgid "Cast blood gems end of turn"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/51/
@@ -436,6 +456,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/54/
 msgid "Rally to scale different tribes"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/64/
+msgid "Elementals - Sandstone Master"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/64/
+msgid "Every card played gives 1 attack to your [[Sandstone Drake||109317]] which in turn gives [[Master of Realities||75180]] +2/2. [[Drakkari Enchanter||101314]] and [[Whelp Smuggler||72072]] both doubles the amount of procs. [[Brann Bronzebeard||96786]] is very important in order to cycle as many cards as possible every turn, and cards such as [[Lantern Lava||122650]] and [[Sky Admiral Rogers||122516]] amplifies your economy and cards cycled. In the endgame, you may decide to avalanche your Master of Realities and fill in the rest of your board with ending units such as Leeroy."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/64/
+msgid "[[Sandstone Drake||109317]] + [[Brann Bronzebeard||96786]] + [[Master of Realities||75180]]."
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/64/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Sandstone Drake||109317]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/64/
+msgid "Cycle cards to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/

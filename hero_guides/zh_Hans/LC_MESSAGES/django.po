@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-18T01:40:34.760183\n"
+"POT-Creation-Date: 2025-10-21T01:40:23.912852\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-10-18 12:40\n"
+"PO-Revision-Date: 2025-10-21 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/122925/ Hero id 122925 | Guide id
 #: 702
@@ -47,6 +47,11 @@ msgstr "你要反复复制强力的法术。前期有[[钻探原油||104029]]或
 msgid "Always hero power the first 3 turns, freezing a 2 cost spell turn 1 if you can. Turn 4 onwards, you can choose to stop hero powering if buying a good minion is better. Definitely stop hero powering after turn 6 if you don't want to die."
 msgstr "前3个回合一定要使用英雄技能，如果可以的话，在第1回合冻结一个2费法术。第4回合以后，如果买到一个好的随从，你可以选择停止使用英雄技能。如果你不想死，第6回合后一定要停止使用英雄技能。"
 
+#: https://hsreplay.net/battlegrounds/heroes/120358/ Hero id 120358 | Guide id
+#: 699
+msgid "The Zerg provides guaranteed tempo. Level up your Zerg to tavern 3 on turn 5-6 and play into infestor (A T3 Zerg). You may stay on tavern 2 to do so. Then, fully play into Infestor by cycling cards that give multiple cards such as [[Enchanted Lasso||104502]] and [[Patient Scout||97604]]."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/118509/ Hero id 118509 | Guide id
 #: 697
 msgid "The battlecruiser upgrades are very strong, but only starting from tavern 4. Don't invest too much into the upgrades early, only if it makes sense goldwise, and then start playing into your buddy."
@@ -56,11 +61,6 @@ msgstr "战列巡洋舰的升级非常强大，但仅从4级酒馆开始。不�
 #: 701
 msgid "Getting a value quest such as Pagle's Fishing Rod or Guiding Candle on Turn 8 is usually pretty sick, depending on your setup."
 msgstr "在第8回合获得像帕格的鱼竿或引路蜡烛这样的价值饰品通常非常不错，具体效果取决于你的阵容。"
-
-#: https://hsreplay.net/battlegrounds/heroes/120358/ Hero id 120358 | Guide id
-#: 699
-msgid "The Zerg provides guaranteed tempo. Level up your Zerg to tavern 2 when it costs only 0-2, because lvl 2 zergs are not that good. Tavern 3 Zergs are good though, and you upgrade it on turn 7-8. Infestor is the best scaling, while cleave zerg is the best tempo."
-msgstr "异虫提供了稳定的节奏。当升级费用仅为 0-2 时再将你的异虫升级到酒馆 2 级，因为 2 级异虫并不那么强大。不过 3 级异虫很不错，你会在第 7-8 回合进行升级。感染虫是最好的成长型选择，而雷兽则是最好的节奏型选择。"
 
 #: https://hsreplay.net/battlegrounds/heroes/96870/ Hero id 96870 | Guide id
 #: 381
