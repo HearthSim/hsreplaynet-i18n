@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-17 01:40+0000\n"
-"PO-Revision-Date: 2025-10-17 12:40\n"
+"POT-Creation-Date: 2025-10-22 01:40+0000\n"
+"PO-Revision-Date: 2025-10-22 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -965,44 +965,44 @@ msgstr ""
 msgid "Battlegrounds Minions"
 msgstr "Schlachtfeld-Diener"
 
-#: web/views/battlegrounds.py:636 web/views/battlegrounds.py:692
+#: web/views/battlegrounds.py:617 web/views/battlegrounds.py:673
 msgid "Battlegrounds Minion"
 msgstr "Schlachtfeld-Diener"
 
-#: web/views/battlegrounds.py:684
+#: web/views/battlegrounds.py:665
 msgid "No matching minion found."
 msgstr "Kein passender Diener gefunden."
 
-#: web/views/battlegrounds.py:747
+#: web/views/battlegrounds.py:728
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:753 web/views/battlegrounds.py:783
+#: web/views/battlegrounds.py:734 web/views/battlegrounds.py:764
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:776
+#: web/views/battlegrounds.py:757
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:778
+#: web/views/battlegrounds.py:759
 msgid "No matching composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:877
+#: web/views/battlegrounds.py:858
 msgid "Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:896
+#: web/views/battlegrounds.py:877
 msgid "No matching comp found."
 msgstr ""
 
-#: web/views/battlegrounds.py:903
+#: web/views/battlegrounds.py:884
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr "{tribe_name} - {obj.name}"
 
-#: web/views/battlegrounds.py:943
+#: web/views/battlegrounds.py:924
 msgid "My Battlegrounds Stats"
 msgstr "Meine Schlachtfeldstatistiken"
 
