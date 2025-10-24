@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-22 01:40+0000\n"
-"PO-Revision-Date: 2025-10-22 12:40\n"
+"POT-Creation-Date: 2025-10-24 01:40+0000\n"
+"PO-Revision-Date: 2025-10-24 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -454,97 +454,93 @@ msgid "Social Media"
 msgstr ""
 
 #: templates/footer.html:25
-msgid "Join our Discord server"
-msgstr ""
-
-#: templates/footer.html:31
 msgid "Follow us on X"
 msgstr ""
 
-#: templates/footer.html:37
+#: templates/footer.html:31
 msgid "Follow us on Instagram"
 msgstr ""
 
-#: templates/footer.html:43
+#: templates/footer.html:37
 msgid "Like us on Facebook"
 msgstr ""
 
-#: templates/footer.html:55
+#: templates/footer.html:49
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr ""
 
-#: templates/footer.html:63 templates/navigation.html:67
+#: templates/footer.html:57 templates/navigation.html:67
 #: templates/navigation.html:176 templates/navigation.html:233
 #: web/views/__init__.py:175
 msgid "Downloads"
 msgstr ""
 
-#: templates/footer.html:64 templates/navigation.html:226
+#: templates/footer.html:58 templates/navigation.html:226
 #: web/views/premium.py:31
 msgid "Premium"
 msgstr ""
 
-#: templates/footer.html:65
+#: templates/footer.html:59
 msgid "Get Tier7"
 msgstr ""
 
-#: templates/footer.html:66 web/views/arenasmith.py:13
+#: templates/footer.html:60 web/views/arenasmith.py:13
 msgid "Arenasmith"
 msgstr ""
 
-#: templates/footer.html:74
+#: templates/footer.html:68
 msgid "Standard Decks"
 msgstr ""
 
-#: templates/footer.html:75 web/views/archetypes.py:48
+#: templates/footer.html:69 web/views/archetypes.py:48
 msgid "Meta Tier List"
 msgstr ""
 
-#: templates/footer.html:76
+#: templates/footer.html:70
 msgid "Arena Guide"
 msgstr ""
 
-#: templates/footer.html:77 web/views/battlegrounds.py:141
+#: templates/footer.html:71 web/views/battlegrounds.py:141
 msgid "Battlegrounds Heroes"
 msgstr ""
 
-#: templates/footer.html:78 web/views/battlegrounds.py:156
+#: templates/footer.html:72 web/views/battlegrounds.py:156
 msgid "Battlegrounds Comps"
 msgstr ""
 
-#: templates/footer.html:79 web/views/battlegrounds.py:290
+#: templates/footer.html:73 web/views/battlegrounds.py:290
 msgid "Battlegrounds Anomalies"
 msgstr ""
 
-#: templates/footer.html:80 web/views/battlegrounds.py:345
+#: templates/footer.html:74 web/views/battlegrounds.py:345
 msgid "Battlegrounds Quests"
 msgstr ""
 
-#: templates/footer.html:81 web/views/battlegrounds.py:223
+#: templates/footer.html:75 web/views/battlegrounds.py:223
 msgid "Battlegrounds Trinkets"
 msgstr ""
 
-#: templates/footer.html:85
+#: templates/footer.html:79
 msgid "Support"
 msgstr ""
 
-#: templates/footer.html:98
+#: templates/footer.html:92
 msgid "Help Center"
 msgstr ""
 
-#: templates/footer.html:100
+#: templates/footer.html:94
 msgid "Your Account"
 msgstr ""
 
-#: templates/footer.html:102
+#: templates/footer.html:96
 msgid "Terms of Service"
 msgstr ""
 
-#: templates/footer.html:105
+#: templates/footer.html:99
 msgid "Privacy Policy"
 msgstr ""
 
-#: templates/footer.html:107
+#: templates/footer.html:101
 msgid "Get in Touch"
 msgstr ""
 
