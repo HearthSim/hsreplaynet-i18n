@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-24 01:40+0000\n"
-"PO-Revision-Date: 2025-10-24 12:40\n"
+"POT-Creation-Date: 2025-10-30 01:40+0000\n"
+"PO-Revision-Date: 2025-10-30 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -953,52 +953,52 @@ msgstr "Battlegrorounds Eroe"
 msgid "No matching hero found."
 msgstr "Nessuna corrispondenza con l'Eroe trovata."
 
-#: web/views/battlegrounds.py:603
+#: web/views/battlegrounds.py:604
 msgid "Battlegrounds Duos Hero"
 msgstr "Eroi Duo di Battaglia"
 
-#: web/views/battlegrounds.py:611
+#: web/views/battlegrounds.py:612
 msgid "Battlegrounds Minions"
 msgstr "Creature del Battelgrounds"
 
-#: web/views/battlegrounds.py:617 web/views/battlegrounds.py:673
+#: web/views/battlegrounds.py:618 web/views/battlegrounds.py:674
 msgid "Battlegrounds Minion"
 msgstr "Creatura del Battelgrounds"
 
-#: web/views/battlegrounds.py:665
+#: web/views/battlegrounds.py:666
 msgid "No matching minion found."
 msgstr "Nessuna corrispondenza con la creatura trovata."
 
-#: web/views/battlegrounds.py:728
+#: web/views/battlegrounds.py:729
 msgid "Battlegrounds Compositions"
 msgstr "Composizioni del Battelgrounds"
 
-#: web/views/battlegrounds.py:734 web/views/battlegrounds.py:764
+#: web/views/battlegrounds.py:735 web/views/battlegrounds.py:765
 msgid "Battlegrounds Composition"
 msgstr "Composizione Battleground"
 
-#: web/views/battlegrounds.py:757
+#: web/views/battlegrounds.py:758
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:759
+#: web/views/battlegrounds.py:760
 msgid "No matching composition found."
 msgstr "Nessuna composizione corrispondente trovata."
 
-#: web/views/battlegrounds.py:858
+#: web/views/battlegrounds.py:859
 msgid "Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:877
+#: web/views/battlegrounds.py:878
 msgid "No matching comp found."
 msgstr ""
 
-#: web/views/battlegrounds.py:884
+#: web/views/battlegrounds.py:885
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr ""
 
-#: web/views/battlegrounds.py:924
+#: web/views/battlegrounds.py:925
 msgid "My Battlegrounds Stats"
 msgstr "Le mie statistiche di Battaglia"
 

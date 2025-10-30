@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-21T01:40:23.912852\n"
+"POT-Creation-Date: 2025-10-30T01:40:25.190562\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Thai\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: th_TH\n"
-"PO-Revision-Date: 2025-10-21 12:40\n"
+"PO-Revision-Date: 2025-10-30 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/122925/ Hero id 122925 | Guide id
 #: 702
@@ -42,6 +42,11 @@ msgstr ""
 msgid "You want to copy the same, strong spell over and over. With an early [[Strike Oil||104029]] or [[Chef's Choice||105664]], you can hero power every single turn to start printing Strike Oils. Then, later on you generate a strong spell such as [[Temperature Shift||117670]] every turn."
 msgstr ""
 
+#: https://hsreplay.net/battlegrounds/heroes/118509/ Hero id 118509 | Guide id
+#: 697
+msgid "The battlecruiser upgrades are very strong, but only starting from tavern 4. Don't invest too much into the upgrades early, only if it makes sense goldwise, and then start playing into your buddy."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/116920/ Hero id 116920 | Guide id
 #: 700
 msgid "Always hero power the first 3 turns, freezing a 2 cost spell turn 1 if you can. Turn 4 onwards, you can choose to stop hero powering if buying a good minion is better. Definitely stop hero powering after turn 6 if you don't want to die."
@@ -49,12 +54,7 @@ msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/120358/ Hero id 120358 | Guide id
 #: 699
-msgid "The Zerg provides guaranteed tempo. Level up your Zerg to tavern 3 on turn 5-6 and play into infestor (A T3 Zerg). You may stay on tavern 2 to do so. Then, fully play into Infestor by cycling cards that give multiple cards such as [[Enchanted Lasso||104502]] and [[Patient Scout||97604]]."
-msgstr ""
-
-#: https://hsreplay.net/battlegrounds/heroes/118509/ Hero id 118509 | Guide id
-#: 697
-msgid "The battlecruiser upgrades are very strong, but only starting from tavern 4. Don't invest too much into the upgrades early, only if it makes sense goldwise, and then start playing into your buddy."
+msgid "The Zerg provides guaranteed tempo. Level up your Zerg to tavern 3 on turn 5 or 6, and you must stay on tavern 2 to do so. Then, fully play into Infestor by cycling cards that give multiple cards such as [[Enchanted Lasso||104502]] and [[Patient Scout||97604]]."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/120649/ Hero id 120649 | Guide id
@@ -169,7 +169,7 @@ msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/74646/ Hero id 74646 | Guide id
 #: 150
-msgid "MUST Have taunted [[All-Seeing Elder||122104]] on this hero. It will get your hero power proc, which you can then trigger with [[Monstrous Macaw||62230]] or [[Hawkstrider]] Herald. With dragons is, use [[Persistent Poet||108463]] to keep stats also."
+msgid "MUST Have [[All-Seeing Elder||122104]] on this hero. It will get your hero power proc, which you can then trigger with [[Monstrous Macaw||62230]] or [[Hawkstrider]] Herald. With dragons is, use [[Persistent Poet||108463]] or [[Tarecgosa||72062]] to keep stats also."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/57944/ Hero id 57944 | Guide id
@@ -297,7 +297,7 @@ msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/73940/ Hero id 73940 | Guide id
 #: 87
-msgid "At 2 gold this hero power is unclickable."
+msgid "Buff some divine shields and play for top 4. This hero doesn't have enough economy to consistently win."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/80832/ Hero id 80832 | Guide id
