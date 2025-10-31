@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-21 01:40\n"
+"POT-Creation-Date: 2025-10-31 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-TW\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-10-21 12:40\n"
+"PO-Revision-Date: 2025-10-31 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - APM"
@@ -84,7 +84,7 @@ msgid "Pirates - Bounty APM"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Sky Admiral Rogers||122516]] or other bounty generation combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup. At some point, you'll be infinite with bounties, and you'll need spell scaling to really capitalize on the bounty scaling. Cards such as [[Sundered Matriarch||122672]] and [[Timecap'n Hooktail||103676]] gets insane value because of the amount of spells you're playing, and [[Tranquil Meditative||119942]] or [[Felfire Conjurer||120299]] helps improve the quality of your bounties. ADVANCED PLAYERS: After you're infinite, think about the highest possible scaling from your spot. Options include Evoker pivot, Beatboxer pivot with stacking, or Nagas with Matriarch/Rogue."
+msgid "[[Sky Admiral Rogers||122516]] or other bounty generation combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup. At some point, you'll be infinite with bounties, and you'll need spell scaling to really capitalize on the bounty scaling. Cards such as [[Sundered Matriarch||122672]] and [[Timecap'n Hooktail||103676]] gets insane value because of the amount of spells you're playing, and [[Tranquil Meditative||119942]] or [[Felfire Conjurer||120299]] helps improve the quality of your bounties. ADVANCED PLAYERS: After you're infinite, think about the highest possible scaling from your spot. Options include Evoker pivot, Beatboxer pivot with stacking, or Nagas with Matriarch."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
@@ -456,6 +456,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/54/
 msgid "Rally to scale different tribes"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/66/
+msgid "Beasts - Raptor Top 4"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/66/
+msgid "With [[Raptor Elder||122290]] in the back, play as many summons as possible. First, have reborn [[Manasaber||98831]] die, which forces left to right combat which is great for you. In the end, refill your board with strong [[Mechanized Gift Horse||103682]] summons. The best card to go in position one or two is [[Leeroy the Reckless||90425]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/66/
+msgid "[[Raptor Elder||122290]] + Beast summons ([[Mechanized Gift Horse||103682]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/66/
+msgid "Beast midgame ([[Mama bear||60036]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/66/
+msgid "Scale beast summons in combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/64/
