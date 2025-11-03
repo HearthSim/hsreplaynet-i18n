@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-11-03 00:40\n"
+"PO-Revision-Date: 2025-11-03 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - APM"
@@ -87,7 +87,7 @@ msgstr "海盗 - 悬赏令手速倒转"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
 msgid "[[Sky Admiral Rogers||122516]] or other bounty generation combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup. At some point, you'll be infinite with bounties, and you'll need spell scaling to really capitalize on the bounty scaling. Cards such as [[Sundered Matriarch||122672]] and [[Timecap'n Hooktail||103676]] gets insane value because of the amount of spells you're playing, and [[Tranquil Meditative||119942]] or [[Felfire Conjurer||120299]] helps improve the quality of your bounties. ADVANCED PLAYERS: After you're infinite, think about the highest possible scaling from your spot. Options include Evoker pivot, Beatboxer pivot with stacking, or Nagas with Matriarch."
-msgstr ""
+msgstr "[[Sky Admiral Rogers||122516]] 或其他悬赏令生成器与 [[Proud Privateer||122520]] 搭配时可以让你获得大量铸币来完成更多布局。在某些时候你会无限获得悬赏令，你需要法术强化来真正利用悬赏令强化。诸如 [[Sundered Matriarch||122672]] 和 [[Timecap'n Hooktail||103676]] 之类的卡牌会因为你的法术数量而获得疯狂的价值，而[[Tranquil Meditative||119942]] 或 [[Felfire Conjurer||120299]] 则有助于提高悬赏令的质量。高级玩家：当你达到无限经济后，考虑你所在位置的最高成长可能。选项包括火铸唤魔师、带磁力堆叠的B-Box拳手，或者带破碎主母的纳迦。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Bounty Generation ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]]"
@@ -145,23 +145,23 @@ msgstr "使用法术强化召唤物。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/65/
 msgid "Quilboar - Charlga"
-msgstr ""
+msgstr "野猪人 - 卡尔加"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/65/
 msgid "After you have gem scaling, put down a [[Charlga||70165]] to scale your board at the end of every turn. [[Drakkari Enchanter||101314]] amplifies this effect."
-msgstr ""
+msgstr "在你获得宝石强化后，放一个[[Charlga||70165]]在每回合结束时来强化你的棋盘。[[Drakkari Enchanter||101314]]可以增强这个效果。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/65/
 msgid "[[Sanguine Refiner||122566]] + [[Charlga||70165]] + [[Drakkari Enchanter||101314]]"
-msgstr ""
+msgstr "[[Sanguine Refiner||122566]] + [[Charlga||70165]] + [[Drakkari Enchanter||101314]]"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/65/
 msgid "Gem scaling ([[Sanguine Refiner||122566]]/[[Prickly Piper||98946]]"
-msgstr ""
+msgstr "宝石成长 [[Sanguine Refiner||122566]]/[[Prickly Piper||98946]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/65/
 msgid "Cast blood gems end of turn"
-msgstr ""
+msgstr "回合结束时施放鲜血宝石"
 
 #: name | https://hsreplay.net/battlegrounds/comps/51/
 msgid "Demons - Damage"
@@ -469,44 +469,45 @@ msgstr "通过进击强化不同种族"
 
 #: name | https://hsreplay.net/battlegrounds/comps/66/
 msgid "Beasts - Raptor Top 4"
-msgstr ""
+msgstr "野兽 - 迅猛龙前四"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/66/
 msgid "With [[Raptor Elder||122290]] in the back, play as many summons as possible. First, have reborn [[Manasaber||98831]] die, which forces left to right combat which is great for you. In the end, refill your board with strong [[Mechanized Gift Horse||103682]] summons. The best card to go in position one or two is [[Leeroy the Reckless||90425]]."
-msgstr ""
+msgstr "在后排有[[Raptor Elder||122290]]的支持下，尽可能多地召唤随从。首先，让复生的[[Manasaber||98831]]先死，因为会强制从左到右的战斗，这对您非常有利。最后，用强大的[[Mechanized Gift Horse||103682]]随从重新填满棋盘。放在第一或第二位的最佳卡牌是[[Leeroy the Reckless||90425]]。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/66/
 msgid "[[Raptor Elder||122290]] + Beast summons ([[Mechanized Gift Horse||103682]])"
-msgstr ""
+msgstr "[[Raptor Elder||122290]] + 野兽召唤([[Mechanized Gift Horse||103682]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/66/
 msgid "Beast midgame ([[Mama bear||60036]])"
-msgstr ""
+msgstr "野兽中期过度 ([[Mama bear||60036]])"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/66/
 msgid "Scale beast summons in combat"
-msgstr ""
+msgstr "在战斗中强化野兽召唤物"
 
 #: name | https://hsreplay.net/battlegrounds/comps/64/
 msgid "Elementals - Sandstone Master"
-msgstr ""
+msgstr "元素 - 现境大师"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/64/
 msgid "Every card played gives 1 attack to your [[Sandstone Drake||109317]] which in turn gives [[Master of Realities||75180]] +2/2. [[Drakkari Enchanter||101314]] and [[Whelp Smuggler||72072]] both doubles the amount of procs. [[Brann Bronzebeard||96786]] is very important in order to cycle as many cards as possible every turn, and cards such as [[Lantern Lava||122650]] and [[Sky Admiral Rogers||122516]] amplifies your economy and cards cycled. In the endgame, you may decide to avalanche your Master of Realities and fill in the rest of your board with ending units such as Leeroy."
-msgstr ""
+msgstr "每张打出的牌都会给[[Sandstone Drake||109317]]增加1点攻击力，进而使[[Master of Realities||75180]]获得+2/2。[[Drakkari Enchanter||101314]]和[[Whelp Smuggler||72072]]都会使触发效果的数量翻倍。[[Brann Bronzebeard||96786]]非常重要，因为它能让你每回合尽可能多地循环卡牌，而像[[Lantern Lava||122650]]和[[Sky Admiral Rogers||122516]]这样的卡牌则能增强您的经济和循环的卡牌。在游戏后期，您可能会选择让您的现境大师引发连锁反应。并用诸如火车王之类的终结单位填充剩余的棋盘。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/64/
 msgid "[[Sandstone Drake||109317]] + [[Brann Bronzebeard||96786]] + [[Master of Realities||75180]]."
-msgstr ""
+msgstr "[[Sandstone Drake||109317]] + [[Brann Bronzebeard||96786]] + [[Master of Realities||75180]]."
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/64/
 msgid "[[Brann Bronzebeard||96786]]\n"
 "[[Sandstone Drake||109317]]"
-msgstr ""
+msgstr "[[Brann Bronzebeard||96786]]\n"
+"[[Sandstone Drake||109317]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/64/
 msgid "Cycle cards to scale"
-msgstr ""
+msgstr "循环卡牌来成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff/Spells"
