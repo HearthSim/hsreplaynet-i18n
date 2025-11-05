@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2025-11-04 18:55+0000\n"
-"PO-Revision-Date: 2025-11-05 00:40\n"
+"PO-Revision-Date: 2025-11-05 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -467,7 +467,7 @@ msgstr "社交媒体"
 
 #: templates/footer.html:25
 msgid "Join our Discord server"
-msgstr ""
+msgstr "加入我们的Discord服务器"
 
 #: templates/footer.html:31
 msgid "Follow us on X"
@@ -981,17 +981,17 @@ msgstr "酒馆战棋随从"
 #: web/views/battlegrounds.py:645
 #, python-brace-format
 msgid "Battlegrounds {type} Minions"
-msgstr ""
+msgstr "酒馆战棋{type}随从"
 
 #: web/views/battlegrounds.py:650
 #, python-brace-format
 msgid "Battlegrounds Tier {tier} Minions"
-msgstr ""
+msgstr "酒馆战棋{tier}级随从"
 
 #: web/views/battlegrounds.py:654
 #, python-brace-format
 msgid "Battlegrounds Tier {tier} {type} Minions"
-msgstr ""
+msgstr "酒馆战棋{tier}级{type}随从"
 
 #: web/views/battlegrounds.py:680 web/views/battlegrounds.py:736
 msgid "Battlegrounds Minion"
