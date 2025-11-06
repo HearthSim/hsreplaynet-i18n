@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-11T01:40:23.326083\n"
+"POT-Creation-Date: 2025-11-06T01:40:24.356262\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-11-05 12:40\n"
+"PO-Revision-Date: 2025-11-06 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -160,10 +160,6 @@ msgstr "弃牌术"
 #: https://hsreplay.net/archetypes/639/cleave-hunter
 msgid "Cleave Hunter"
 msgstr "狂战猎"
-
-#: https://hsreplay.net/archetypes/678/infinite-death-knight
-msgid "Infinite Death Knight"
-msgstr "无限DK"
 
 #: https://hsreplay.net/archetypes/22/pirate-warrior
 msgid "Pirate Warrior"
@@ -1237,10 +1233,6 @@ msgstr "决战骑"
 msgid "Whirlkick Rogue"
 msgstr "连击贼"
 
-#: https://hsreplay.net/archetypes/417/enhancement-shaman
-msgid "Enhancement Shaman"
-msgstr "增强萨"
-
 #: https://hsreplay.net/archetypes/673/odd-demon-hunter
 msgid "Odd Demon Hunter"
 msgstr "奇数瞎"
@@ -1793,10 +1785,6 @@ msgstr "冲锋萨"
 msgid "Undead Warlock"
 msgstr "亡灵术"
 
-#: https://hsreplay.net/archetypes/569/spell-demon-hunter
-msgid "Spell Demon Hunter"
-msgstr "法术瞎"
-
 #: https://hsreplay.net/archetypes/570/shockspitter-hunter
 msgid "Shockspitter Hunter"
 msgstr "龙鹰猎"
@@ -1956,6 +1944,10 @@ msgstr "龙骑"
 #: https://hsreplay.net/archetypes/609/otk-cage-head-death-knight
 msgid "OTK Cage Head Death Knight"
 msgstr "牢头DK"
+
+#: https://hsreplay.net/archetypes/139/deathrattle-hunter
+msgid "Deathrattle Hunter"
+msgstr "亡语猎"
 
 #: https://hsreplay.net/archetypes/512/ramp-druid
 msgid "Ramp Druid"
@@ -2164,10 +2156,6 @@ msgstr "混合德"
 #: https://hsreplay.net/archetypes/302/highlander-hunter
 msgid "Highlander Hunter"
 msgstr "宇宙猎"
-
-#: https://hsreplay.net/archetypes/139/deathrattle-hunter
-msgid "Deathrattle Hunter"
-msgstr "亡语猎"
 
 #: https://hsreplay.net/archetypes/665/sonya-rogue
 msgid "Sonya Rogue"
@@ -2479,7 +2467,7 @@ msgstr "脚本术"
 
 #: https://hsreplay.net/archetypes/737/cycle-rogue
 msgid "Cycle Rogue"
-msgstr "游乐巨人贼"
+msgstr "火凤贼"
 
 #: https://hsreplay.net/archetypes/742/nostalgia-shaman
 msgid "Nostalgia Shaman"
@@ -2723,7 +2711,7 @@ msgstr "武士贼"
 
 #: https://hsreplay.net/archetypes/800/drunk-paladin
 msgid "Drunk Paladin"
-msgstr "船歌骑"
+msgstr "神圣佳酿骑"
 
 #: https://hsreplay.net/archetypes/801/hog-demon-hunter
 msgid "Hog Demon Hunter"
@@ -2757,10 +2745,6 @@ msgstr "武器贼"
 msgid "Menagerie Shaman"
 msgstr "光牙萨"
 
-#: https://hsreplay.net/archetypes/182/big-spell-mage
-msgid "Big Spell Mage"
-msgstr "大法术法"
-
 #: https://hsreplay.net/archetypes/809/orb-mage
 msgid "Orb Mage"
 msgstr "投影球法"
@@ -2792,4 +2776,64 @@ msgstr "礼宾贼"
 #: https://hsreplay.net/archetypes/818/ravenous-cliff-dive-demon-hunter
 msgid "Ravenous Cliff Dive Demon Hunter"
 msgstr "跳水瞎"
+
+#: https://hsreplay.net/archetypes/822/bwonsamdi-death-knight
+msgid "Bwonsamdi Death Knight"
+msgstr "邦桑迪DK"
+
+#: https://hsreplay.net/archetypes/823/frostsamdi-death-knight
+msgid "Frostsamdi Death Knight"
+msgstr "邦桑迪冰DK"
+
+#: https://hsreplay.net/archetypes/678/infinite-death-knight
+msgid "Infinite Death Knight"
+msgstr "无限DK"
+
+#: https://hsreplay.net/archetypes/569/spell-demon-hunter
+msgid "Spell Demon Hunter"
+msgstr "法术瞎"
+
+#: https://hsreplay.net/archetypes/825/peddler-demon-hunter
+msgid "Peddler Demon Hunter"
+msgstr "商贩瞎"
+
+#: https://hsreplay.net/archetypes/826/broxigar-demon-hunter
+msgid "Broxigar Demon Hunter"
+msgstr "布洛克斯加瞎"
+
+#: https://hsreplay.net/archetypes/827/krona-druid
+msgid "Krona Druid"
+msgstr "克洛纳德"
+
+#: https://hsreplay.net/archetypes/182/big-spell-mage
+msgid "Big Spell Mage"
+msgstr "大法术法"
+
+#: https://hsreplay.net/archetypes/828/handbuff-priest
+msgid "Handbuff Priest"
+msgstr "污手牧"
+
+#: https://hsreplay.net/archetypes/829/garona-rogue
+msgid "Garona Rogue"
+msgstr "迦罗娜贼"
+
+#: https://hsreplay.net/archetypes/830/incindius-rogue
+msgid "Incindius Rogue"
+msgstr "伊辛迪奥斯贼"
+
+#: https://hsreplay.net/archetypes/417/enhancement-shaman
+msgid "Enhancement Shaman"
+msgstr "增强萨"
+
+#: https://hsreplay.net/archetypes/831/shred-warlock
+msgid "Shred Warlock"
+msgstr "撕裂术"
+
+#: https://hsreplay.net/archetypes/832/rafaam-warlock
+msgid "Rafaam Warlock"
+msgstr "拉法姆术"
+
+#: https://hsreplay.net/archetypes/833/arena-warrior
+msgid "Arena Warrior"
+msgstr "血斗士战"
 

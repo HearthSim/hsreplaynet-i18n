@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-11T01:40:23.326083\n"
+"POT-Creation-Date: 2025-11-06T01:40:24.356262\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2025-09-11 12:40\n"
+"PO-Revision-Date: 2025-11-06 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -159,10 +159,6 @@ msgstr "Démoniste défausse"
 
 #: https://hsreplay.net/archetypes/639/cleave-hunter
 msgid "Cleave Hunter"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/678/infinite-death-knight
-msgid "Infinite Death Knight"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/22/pirate-warrior
@@ -1237,10 +1233,6 @@ msgstr ""
 msgid "Whirlkick Rogue"
 msgstr "Voleur tourbillon"
 
-#: https://hsreplay.net/archetypes/417/enhancement-shaman
-msgid "Enhancement Shaman"
-msgstr "Chaman améliorations"
-
 #: https://hsreplay.net/archetypes/673/odd-demon-hunter
 msgid "Odd Demon Hunter"
 msgstr ""
@@ -1793,10 +1785,6 @@ msgstr "Chaman Al'Akir OTK"
 msgid "Undead Warlock"
 msgstr "Démoniste morts-vivants"
 
-#: https://hsreplay.net/archetypes/569/spell-demon-hunter
-msgid "Spell Demon Hunter"
-msgstr "Chasseur de démons sorts"
-
 #: https://hsreplay.net/archetypes/570/shockspitter-hunter
 msgid "Shockspitter Hunter"
 msgstr "Chasseur crache-foudre"
@@ -1956,6 +1944,10 @@ msgstr "Paladin dragons"
 #: https://hsreplay.net/archetypes/609/otk-cage-head-death-knight
 msgid "OTK Cage Head Death Knight"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/139/deathrattle-hunter
+msgid "Deathrattle Hunter"
+msgstr "Chasseur râles d'agonie"
 
 #: https://hsreplay.net/archetypes/512/ramp-druid
 msgid "Ramp Druid"
@@ -2164,10 +2156,6 @@ msgstr ""
 #: https://hsreplay.net/archetypes/302/highlander-hunter
 msgid "Highlander Hunter"
 msgstr "Chasseur Highlander"
-
-#: https://hsreplay.net/archetypes/139/deathrattle-hunter
-msgid "Deathrattle Hunter"
-msgstr "Chasseur râles d'agonie"
 
 #: https://hsreplay.net/archetypes/665/sonya-rogue
 msgid "Sonya Rogue"
@@ -2757,10 +2745,6 @@ msgstr "Voleur armes"
 msgid "Menagerie Shaman"
 msgstr "Chaman ménagerie"
 
-#: https://hsreplay.net/archetypes/182/big-spell-mage
-msgid "Big Spell Mage"
-msgstr "Mage gros sorts"
-
 #: https://hsreplay.net/archetypes/809/orb-mage
 msgid "Orb Mage"
 msgstr ""
@@ -2791,5 +2775,65 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/818/ravenous-cliff-dive-demon-hunter
 msgid "Ravenous Cliff Dive Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/822/bwonsamdi-death-knight
+msgid "Bwonsamdi Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/823/frostsamdi-death-knight
+msgid "Frostsamdi Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/678/infinite-death-knight
+msgid "Infinite Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/569/spell-demon-hunter
+msgid "Spell Demon Hunter"
+msgstr "Chasseur de démons sorts"
+
+#: https://hsreplay.net/archetypes/825/peddler-demon-hunter
+msgid "Peddler Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/826/broxigar-demon-hunter
+msgid "Broxigar Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/827/krona-druid
+msgid "Krona Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/182/big-spell-mage
+msgid "Big Spell Mage"
+msgstr "Mage gros sorts"
+
+#: https://hsreplay.net/archetypes/828/handbuff-priest
+msgid "Handbuff Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/829/garona-rogue
+msgid "Garona Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/830/incindius-rogue
+msgid "Incindius Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/417/enhancement-shaman
+msgid "Enhancement Shaman"
+msgstr "Chaman améliorations"
+
+#: https://hsreplay.net/archetypes/831/shred-warlock
+msgid "Shred Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/832/rafaam-warlock
+msgid "Rafaam Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/833/arena-warrior
+msgid "Arena Warrior"
 msgstr ""
 
