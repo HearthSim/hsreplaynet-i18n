@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-05T01:40:24.942275\n"
+"POT-Creation-Date: 2025-11-11T01:40:24.208245\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "MIME-Version: 1.0\n"
@@ -15,11 +15,16 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-11-05 12:40\n"
+"PO-Revision-Date: 2025-11-11 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/117425/ Hero id 117425 | Guide id
 #: 696
 msgid "This hero power is mainly used to gain 1 gold per turn, similar to Murloc Holmes."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/116926/ Hero id 116926 | Guide id
+#: 694
+msgid "You want to copy the same, strong spell over and over. With an early [[Strike Oil||104029]] or [[Chef's Choice||105664]], you can hero power every single turn to start printing Strike Oils. Then, later on you generate a strong spell such as [[Temperature Shift||117670]] every turn."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/118510/ Hero id 118510 | Guide id
@@ -30,11 +35,6 @@ msgstr ""
 #: https://hsreplay.net/battlegrounds/heroes/117409/ Hero id 117409 | Guide id
 #: 695
 msgid "Use this hero power like reno and use it on the first value generator you see, such as [[Bigwig Bandit||122179]]. If you don't find an early value generator, then use it on a core card for your direction."
-msgstr ""
-
-#: https://hsreplay.net/battlegrounds/heroes/116926/ Hero id 116926 | Guide id
-#: 694
-msgid "You want to copy the same, strong spell over and over. With an early [[Strike Oil||104029]] or [[Chef's Choice||105664]], you can hero power every single turn to start printing Strike Oils. Then, later on you generate a strong spell such as [[Temperature Shift||117670]] every turn."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/118509/ Hero id 118509 | Guide id
@@ -197,14 +197,14 @@ msgstr ""
 msgid "You must level to 4 on turn 5 on this hero! Either level to tavern 3 on turn 3 or turn 4 and then level to 4 on turn 5. Start hero powering every turn starting from turn 5. Even though you may start the game at low HP, you have to start getting your dragons up early on."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/105434/ Hero id 105434 | Guide id
-#: 604
-msgid "You don't have to hero power every turn, only when you have 1 gold left over. For example, turn 2 you should still just level and not hero power."
-msgstr ""
-
 #: https://hsreplay.net/battlegrounds/heroes/105431/ Hero id 105431 | Guide id
 #: 600
 msgid "Don't expect much value from this hero power, it's basically Patchwerk 2.0."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/105434/ Hero id 105434 | Guide id
+#: 604
+msgid "You don't have to hero power every turn, only when you have 1 gold left over. For example, turn 2 you should still just level and not hero power."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/60370/ Hero id 60370 | Guide id
@@ -472,14 +472,14 @@ msgstr ""
 msgid "Economy cards such as [[Freedealing Gambler||61049]], [[Sellemental||64038]], and [[Patient Scout||97604]] are must buys to get hero power procs early on."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/59807/ Hero id 59807 | Guide id
-#: 119
-msgid "Prioritize first buffing the shop and then finding [[Insatiable Ur'zul||72060]] to best capitalize on the 2 demons per turn."
-msgstr ""
-
 #: https://hsreplay.net/battlegrounds/heroes/61489/ Hero id 61489 | Guide id
 #: 40
 msgid "Turn 1 if you have a 2 cost spell in your first shop, buy it and then roll and you'll likely roll into a 1 cost spell that you can then buy. Same thing with coin, buy it and roll and hope to get a 2 cost spell in your next shop."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/59807/ Hero id 59807 | Guide id
+#: 119
+msgid "Prioritize first buffing the shop and then finding [[Insatiable Ur'zul||72060]] to best capitalize on the 2 demons per turn. The alternative gameplay is playing damage demons."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/71454/ Hero id 71454 | Guide id

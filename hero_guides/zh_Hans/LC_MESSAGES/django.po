@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-05T01:40:24.942275\n"
+"POT-Creation-Date: 2025-11-11T01:40:24.208245\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,12 +15,17 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-11-06 12:40\n"
+"PO-Revision-Date: 2025-11-11 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/117425/ Hero id 117425 | Guide id
 #: 696
 msgid "This hero power is mainly used to gain 1 gold per turn, similar to Murloc Holmes."
 msgstr "这个英雄技能主要用来每回合获得1铸币，类似摩洛克·福尔摩斯。"
+
+#: https://hsreplay.net/battlegrounds/heroes/116926/ Hero id 116926 | Guide id
+#: 694
+msgid "You want to copy the same, strong spell over and over. With an early [[Strike Oil||104029]] or [[Chef's Choice||105664]], you can hero power every single turn to start printing Strike Oils. Then, later on you generate a strong spell such as [[Temperature Shift||117670]] every turn."
+msgstr "你要反复复制强力的法术。前期有[[钻探原油||104029]]或[[主厨甄选||105664]]，你可以每回合都使用英雄技能复制钻探原油。到了后期你每回合都能生成一个强力法术，比如 [[寒热骤变||117670]] 。"
 
 #: https://hsreplay.net/battlegrounds/heroes/118510/ Hero id 118510 | Guide id
 #: 698
@@ -31,11 +36,6 @@ msgstr "母舰是最好的选择。通过购买所有实际花费为1的物品([
 #: 695
 msgid "Use this hero power like reno and use it on the first value generator you see, such as [[Bigwig Bandit||122179]]. If you don't find an early value generator, then use it on a core card for your direction."
 msgstr "像雷诺一样用这个英雄技能，将其用于你看到的第一个资源生成器，例如[[顶尖大盗||122179]]。如果你没有在早期找到资源生成器，那就把它用在你的核心卡上。"
-
-#: https://hsreplay.net/battlegrounds/heroes/116926/ Hero id 116926 | Guide id
-#: 694
-msgid "You want to copy the same, strong spell over and over. With an early [[Strike Oil||104029]] or [[Chef's Choice||105664]], you can hero power every single turn to start printing Strike Oils. Then, later on you generate a strong spell such as [[Temperature Shift||117670]] every turn."
-msgstr "你要反复复制强力的法术。前期有[[钻探原油||104029]]或[[主厨甄选||105664]]，你可以每回合都使用英雄技能复制钻探原油。到了后期你每回合都能生成一个强力法术，比如 [[寒热骤变||117670]] 。"
 
 #: https://hsreplay.net/battlegrounds/heroes/118509/ Hero id 118509 | Guide id
 #: 697
@@ -197,15 +197,15 @@ msgstr "如果在第1回合投出3+，就升级酒馆。如果在第1回合投�
 msgid "You must level to 4 on turn 5 on this hero! Either level to tavern 3 on turn 3 or turn 4 and then level to 4 on turn 5. Start hero powering every turn starting from turn 5. Even though you may start the game at low HP, you have to start getting your dragons up early on."
 msgstr "你必须在第5回合就将酒馆等级提升至4级！要么在第3回合或第4回合将酒馆等级提升至3级，然后在第5回合将酒馆等级提升至4级。从第5回合开始，每回合都使用英雄技能。尽管游戏开始时你的生命值可能较低，但你必须尽早开始提升你的龙。"
 
-#: https://hsreplay.net/battlegrounds/heroes/105434/ Hero id 105434 | Guide id
-#: 604
-msgid "You don't have to hero power every turn, only when you have 1 gold left over. For example, turn 2 you should still just level and not hero power."
-msgstr "你不必每回合都使用英雄技能，只有当你剩1铸币时才使用。例如在第2回合，你仍然只需要升级酒馆，而不需要用英雄技能。"
-
 #: https://hsreplay.net/battlegrounds/heroes/105431/ Hero id 105431 | Guide id
 #: 600
 msgid "Don't expect much value from this hero power, it's basically Patchwerk 2.0."
 msgstr "别指望这个英雄技能能带来多少价值，它基本上就是帕奇维克 2.0。"
+
+#: https://hsreplay.net/battlegrounds/heroes/105434/ Hero id 105434 | Guide id
+#: 604
+msgid "You don't have to hero power every turn, only when you have 1 gold left over. For example, turn 2 you should still just level and not hero power."
+msgstr "你不必每回合都使用英雄技能，只有当你剩1铸币时才使用。例如在第2回合，你仍然只需要升级酒馆，而不需要用英雄技能。"
 
 #: https://hsreplay.net/battlegrounds/heroes/60370/ Hero id 60370 | Guide id
 #: 54
@@ -473,15 +473,15 @@ msgstr "为你的机械提供无限的圣盾和复生。如果你不需要这些
 msgid "Economy cards such as [[Freedealing Gambler||61049]], [[Sellemental||64038]], and [[Patient Scout||97604]] are must buys to get hero power procs early on."
 msgstr "像 [[白赚赌徒||61049]]、[[商贩元素||64038]] 和 [[耐心的侦查员||97604]] 这样的经济卡牌是早期获取英雄技能触发的必买卡牌。"
 
-#: https://hsreplay.net/battlegrounds/heroes/59807/ Hero id 59807 | Guide id
-#: 119
-msgid "Prioritize first buffing the shop and then finding [[Insatiable Ur'zul||72060]] to best capitalize on the 2 demons per turn."
-msgstr "优先强化商店，然后寻找[[贪食的乌祖尔||72060]]，以最大化利用每回合2个恶魔的优势。"
-
 #: https://hsreplay.net/battlegrounds/heroes/61489/ Hero id 61489 | Guide id
 #: 40
 msgid "Turn 1 if you have a 2 cost spell in your first shop, buy it and then roll and you'll likely roll into a 1 cost spell that you can then buy. Same thing with coin, buy it and roll and hope to get a 2 cost spell in your next shop."
 msgstr "第1回合，如果你的第一个商店里有一个2费法术，买下它然后刷新，你很可能会刷到一个1费法术，然后再买下它。硬币也是一样，买下它然后刷新，希望能在下一个商店里获得2费法术。"
+
+#: https://hsreplay.net/battlegrounds/heroes/59807/ Hero id 59807 | Guide id
+#: 119
+msgid "Prioritize first buffing the shop and then finding [[Insatiable Ur'zul||72060]] to best capitalize on the 2 demons per turn. The alternative gameplay is playing damage demons."
+msgstr "优先强化商店，然后寻找[[贪食的乌祖尔||72060]]，以最大化利用每回合2个恶魔的优势。另一种玩法是玩恶魔伤害流。"
 
 #: https://hsreplay.net/battlegrounds/heroes/71454/ Hero id 71454 | Guide id
 #: 19
