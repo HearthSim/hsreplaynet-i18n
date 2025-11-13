@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-12T01:40:26.226711\n"
+"POT-Creation-Date: 2025-11-13T01:40:25.471607\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: English\n"
 "MIME-Version: 1.0\n"
@@ -33,13 +33,6 @@ msgid ""
 "Try to line up an early triple into a 4 drop, so you can copy the 4 drop "
 "turn 4. Also [[Drakkari Enchanter||101314]] works with this anomaly, and can"
 " be used on itself or another key card such as [[Brann Bronzebeard||96786]]."
-msgstr ""
-
-#: Anomaly id 106633 | Guide id 69
-msgid ""
-"If you're at 11-15 HP with your secret still up, do NOT use armor. Wait "
-"until your secret is used up before you use your armor up, so you can first "
-"benefit from the 11 extra gold."
 msgstr ""
 
 #: Anomaly id 102459 | Guide id 84
@@ -117,12 +110,6 @@ msgid ""
 "ALWAYS go 3 on 3! Then you can golden a 3 drop on turn 4 and triple into a 4"
 " drop. Use your 3rd arrow on something that wins you the game like golden "
 "Brann or Titus."
-msgstr ""
-
-#: Anomaly id 102084 | Guide id 45
-msgid ""
-"Play this anomaly like you would play Reno. Either golden an early value "
-"generator or a win condition."
 msgstr ""
 
 #: Anomaly id 118673 | Guide id 39
@@ -343,14 +330,6 @@ msgid ""
 "open your piggy bank after you level to 4."
 msgstr ""
 
-#: Anomaly id 103541 | Guide id 70
-msgid ""
-"Early value generating buddies are premium. Then, [[Brann "
-"Bronzebeard||96786]] is the most important card in this anomaly, and single "
-"handedly allows you to go infinite because of the sheer quality of the "
-"battlecry buddies."
-msgstr ""
-
 #: Anomaly id 102085 | Guide id 43
 msgid ""
 "Level very fast in this one. Most of the time you're going level 4 on turn "
@@ -370,8 +349,31 @@ msgid ""
 "this anomaly. You can easily go infinite with a single Brann or Rogers."
 msgstr ""
 
+#: Anomaly id 102084 | Guide id 45
+msgid ""
+"On hero select, pick a value generator buddy. Finish that buddy as soon as "
+"possible and use goldenizer on it."
+msgstr ""
+
 #: Anomaly id 119092 | Guide id 57
 msgid ""
 "Most of the time, go for 6 drops. If you want to go for 5s, make sure beasts"
 " are in because beast 5 drops are good."
+msgstr ""
+
+#: Anomaly id 103541 | Guide id 70
+msgid ""
+"Early value generating buddies are premium. Buddies are usually just much "
+"better cards than the regular minion pool. ADVANCED: You'll probably go "
+"infinite at some point, and the highest cap scaling is usually using "
+"[[Titanic Guardian]] and [[Snack Vendor]] strats. You'll need a [[Channel "
+"the Devourer||100899]] to make the AFK buddy big though."
+msgstr ""
+
+#: Anomaly id 106633 | Guide id 69
+msgid ""
+"If you're at 11-15 HP with your secret still up, do NOT use armor. Wait "
+"until your secret is used up before you use your armor up, so you can first "
+"benefit from the 11 extra gold. Go for highest cap scaling this anomaly "
+"(usually it's go infinite into Magicfin Murlocs)"
 msgstr ""
