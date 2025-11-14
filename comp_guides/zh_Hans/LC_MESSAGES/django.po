@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-10-31 01:40\n"
+"POT-Creation-Date: 2025-11-14 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-11-11 12:40\n"
+"PO-Revision-Date: 2025-11-14 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/34/
 msgid "Murlocs - APM"
@@ -168,8 +168,8 @@ msgid "Demons - Damage"
 msgstr "恶魔 - 伤害"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/51/
-msgid "[[Lord of the Ruins||122116]] and [[Devout Hellcaller||122586]] scale by having your demons deal damage to minions. The best way to do that is with [[Silent Enforcer||122605]] + [[Titus Rivendare||97408]], which damages all your opponent's minions at once. Finally, taunted [[Cultist S'thara||106501]] resumons your Silent Enforcer multiple times which is extremely powerful."
-msgstr "通过让你的恶魔对随从造成伤害使 [[Lord of the Ruins||122116]] 和 [[Devout Hellcaller||122586]] 成长。最好的方式是使用 [[Silent Enforcer||122605]] + [[Titus Rivendare||97408]]，可以同时对对手的所有随从造成伤害。最后嘲讽的 [[Cultist S'thara||106501]] 会多次重新召唤你的沉默的惩罚者，这种情况极其强大。"
+msgid "[[Lord of the Ruins||122116]] and [[Devout Hellcaller||122586]] scale by having your demons deal damage to minions. The best way to do that is with [[Silent Enforcer||122605]] + [[Titus Rivendare||97408]], which damages all your opponent's minions at once."
+msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/51/
 msgid "[[Silent Enforcer||122605]] + Damage payoff ([[Lord of the Ruins||122116]] or [[Devout Hellcaller||122586]])"
@@ -515,9 +515,8 @@ msgstr "恶魔 - 商店强化/法术"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
 msgid "First find a way to scale your spells, which may be through [[Tranquil Meditative||119942]], [[Felfire Conjurer||120299]], or [[Humongozz||121640]]. Then, the staffs that you get from [[Shadowdancer||120662]] will be extremely buffed. If you have 1x [[Insatiable Urzul||72060]], buy every premium demon ([[Tardy Traveler||116833]], [[Ominous Seer||117553]]), and with 2x [[Insatiable Urzul||72060]], buy every demon.\n\n"
-"Titus and Macaw can help with you staff generation. In the endgame, [[All-seeing Elder||122104]] or [[Cultist S'thara||106501]] can help duplicate the stats from your Urzul."
-msgstr "首先找到一种方法来增强你的酒馆法术，可以通过 [[Tranquil Meditative||119942]]、[[Felfire Conjurer||120299]] 或 [[Humongozz||121640]] 实现。然后，你从[[Shadowdancer||120662]] 获得的富足之杖将得到极大强化。如果你有1个 [[Insatiable Urzul||72060]]，购买所有高级恶魔（[[Tardy Traveler||116833]]、[[Ominous Seer||117553]]），而如果有2个 [[Insatiable Urzul||72060]]，则购买所有恶魔。\n\n"
-"瑞文和鹦鹉可以帮你生成富足之杖。在决赛阶段，[[All-seeing Elder||122104]] 或 [[Cultist S'thara||106501]] 可以帮助复制你乌尔祖尔的属性。"
+"Titus and Macaw can help with you staff generation. In the endgame, [[All-seeing Elder]] or [[Cultist S'thara]] can help duplicate the stats from your Urzul."
+msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Early [[Felfire Conjurer||120299]] + [[Shadowdancer||120662]]"
