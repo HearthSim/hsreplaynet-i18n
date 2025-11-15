@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-06T01:40:24.356262\n"
+"POT-Creation-Date: 2025-11-15T01:40:23.255082\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2025-11-06 12:40\n"
+"PO-Revision-Date: 2025-11-15 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -161,6 +161,10 @@ msgstr ""
 msgid "Cleave Hunter"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/834/pirate-priest
+msgid "Pirate Priest"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/22/pirate-warrior
 msgid "Pirate Warrior"
 msgstr "Guerreiro Pirata"
@@ -179,10 +183,6 @@ msgstr "Sacerdote Elemental"
 
 #: https://hsreplay.net/archetypes/366/highlander-demon-hunter
 msgid "Highlander Demon Hunter"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/198/deathrattle-rogue
-msgid "Deathrattle Rogue"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/168/otk-dk-paladin
@@ -1205,6 +1205,10 @@ msgstr ""
 msgid "Plague Death Knight"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/461/menagerie-priest
+msgid "Menagerie Priest"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/472/quest-demon-hunter
 msgid "Quest Demon Hunter"
 msgstr ""
@@ -1231,6 +1235,10 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/426/whirlkick-rogue
 msgid "Whirlkick Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/449/nature-shaman
+msgid "Nature Shaman"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/673/odd-demon-hunter
@@ -1263,10 +1271,6 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/459/leoroxx-otk-hunter
 msgid "Leoroxx OTK Hunter"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/461/menagerie-priest
-msgid "Menagerie Priest"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/438/exodia-warrior
@@ -1315,10 +1319,6 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/448/poison-rogue
 msgid "Poison Rogue"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/449/nature-shaman
-msgid "Nature Shaman"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/450/neeru-warlock
@@ -1785,6 +1785,10 @@ msgstr ""
 msgid "Undead Warlock"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/595/bubble-paladin
+msgid "Bubble Paladin"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/570/shockspitter-hunter
 msgid "Shockspitter Hunter"
 msgstr ""
@@ -1879,10 +1883,6 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/594/burn-mage
 msgid "Burn Mage"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/595/bubble-paladin
-msgid "Bubble Paladin"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/596/dancing-paladin
@@ -2257,10 +2257,6 @@ msgstr ""
 msgid "Tourist Mage"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/687/pirate-shaman
-msgid "Pirate Shaman"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/688/incindius-shaman
 msgid "Incindius Shaman"
 msgstr ""
@@ -2533,10 +2529,6 @@ msgstr ""
 msgid "Zerg Warlock"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/757/terran-warrior
-msgid "Terran Warrior"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/758/attack-demon-hunter
 msgid "Attack Demon Hunter"
 msgstr ""
@@ -2745,6 +2737,10 @@ msgstr ""
 msgid "Menagerie Shaman"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/198/deathrattle-rogue
+msgid "Deathrattle Rogue"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/809/orb-mage
 msgid "Orb Mage"
 msgstr ""
@@ -2773,8 +2769,16 @@ msgstr ""
 msgid "Concierge Rogue"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/757/terran-warrior
+msgid "Terran Warrior"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/818/ravenous-cliff-dive-demon-hunter
 msgid "Ravenous Cliff Dive Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/687/pirate-shaman
+msgid "Pirate Shaman"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/822/bwonsamdi-death-knight

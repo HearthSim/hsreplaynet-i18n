@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-06T01:40:24.356262\n"
+"POT-Creation-Date: 2025-11-15T01:40:23.255082\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-11-11 12:40\n"
+"PO-Revision-Date: 2025-11-15 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -161,6 +161,10 @@ msgstr "弃牌术"
 msgid "Cleave Hunter"
 msgstr "狂战猎"
 
+#: https://hsreplay.net/archetypes/834/pirate-priest
+msgid "Pirate Priest"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/22/pirate-warrior
 msgid "Pirate Warrior"
 msgstr "海盗战"
@@ -180,10 +184,6 @@ msgstr "元素牧"
 #: https://hsreplay.net/archetypes/366/highlander-demon-hunter
 msgid "Highlander Demon Hunter"
 msgstr "宇宙瞎"
-
-#: https://hsreplay.net/archetypes/198/deathrattle-rogue
-msgid "Deathrattle Rogue"
-msgstr "亡语贼"
 
 #: https://hsreplay.net/archetypes/168/otk-dk-paladin
 msgid "OTK DK Paladin"
@@ -1205,6 +1205,10 @@ msgstr "加基森任务法"
 msgid "Plague Death Knight"
 msgstr "疫病DK"
 
+#: https://hsreplay.net/archetypes/461/menagerie-priest
+msgid "Menagerie Priest"
+msgstr "光牙牧"
+
 #: https://hsreplay.net/archetypes/472/quest-demon-hunter
 msgid "Quest Demon Hunter"
 msgstr "任务瞎"
@@ -1232,6 +1236,10 @@ msgstr "决战骑"
 #: https://hsreplay.net/archetypes/426/whirlkick-rogue
 msgid "Whirlkick Rogue"
 msgstr "连击贼"
+
+#: https://hsreplay.net/archetypes/449/nature-shaman
+msgid "Nature Shaman"
+msgstr "自然萨"
 
 #: https://hsreplay.net/archetypes/673/odd-demon-hunter
 msgid "Odd Demon Hunter"
@@ -1264,10 +1272,6 @@ msgstr "残片瞎"
 #: https://hsreplay.net/archetypes/459/leoroxx-otk-hunter
 msgid "Leoroxx OTK Hunter"
 msgstr "兽王猎"
-
-#: https://hsreplay.net/archetypes/461/menagerie-priest
-msgid "Menagerie Priest"
-msgstr "光牙牧"
 
 #: https://hsreplay.net/archetypes/438/exodia-warrior
 msgid "Exodia Warrior"
@@ -1316,10 +1320,6 @@ msgstr "哨所贼"
 #: https://hsreplay.net/archetypes/448/poison-rogue
 msgid "Poison Rogue"
 msgstr "药膏贼"
-
-#: https://hsreplay.net/archetypes/449/nature-shaman
-msgid "Nature Shaman"
-msgstr "自然萨"
 
 #: https://hsreplay.net/archetypes/450/neeru-warlock
 msgid "Neeru Warlock"
@@ -1785,6 +1785,10 @@ msgstr "冲锋萨"
 msgid "Undead Warlock"
 msgstr "亡灵术"
 
+#: https://hsreplay.net/archetypes/595/bubble-paladin
+msgid "Bubble Paladin"
+msgstr "圣盾骑"
+
 #: https://hsreplay.net/archetypes/570/shockspitter-hunter
 msgid "Shockspitter Hunter"
 msgstr "龙鹰猎"
@@ -1880,10 +1884,6 @@ msgstr "法力风暴法"
 #: https://hsreplay.net/archetypes/594/burn-mage
 msgid "Burn Mage"
 msgstr "直伤法"
-
-#: https://hsreplay.net/archetypes/595/bubble-paladin
-msgid "Bubble Paladin"
-msgstr "圣盾骑"
 
 #: https://hsreplay.net/archetypes/596/dancing-paladin
 msgid "Dancing Paladin"
@@ -2257,10 +2257,6 @@ msgstr "游客骑"
 msgid "Tourist Mage"
 msgstr "游客法"
 
-#: https://hsreplay.net/archetypes/687/pirate-shaman
-msgid "Pirate Shaman"
-msgstr "海盗萨"
-
 #: https://hsreplay.net/archetypes/688/incindius-shaman
 msgid "Incindius Shaman"
 msgstr "爆发萨"
@@ -2533,10 +2529,6 @@ msgstr "战吼萨"
 msgid "Zerg Warlock"
 msgstr "异虫术"
 
-#: https://hsreplay.net/archetypes/757/terran-warrior
-msgid "Terran Warrior"
-msgstr "星舰战"
-
 #: https://hsreplay.net/archetypes/758/attack-demon-hunter
 msgid "Attack Demon Hunter"
 msgstr "打脸瞎"
@@ -2745,6 +2737,10 @@ msgstr "武器贼"
 msgid "Menagerie Shaman"
 msgstr "光牙萨"
 
+#: https://hsreplay.net/archetypes/198/deathrattle-rogue
+msgid "Deathrattle Rogue"
+msgstr "亡语贼"
+
 #: https://hsreplay.net/archetypes/809/orb-mage
 msgid "Orb Mage"
 msgstr "投影球法"
@@ -2773,9 +2769,17 @@ msgstr "蛋术"
 msgid "Concierge Rogue"
 msgstr "礼宾贼"
 
+#: https://hsreplay.net/archetypes/757/terran-warrior
+msgid "Terran Warrior"
+msgstr "星舰战"
+
 #: https://hsreplay.net/archetypes/818/ravenous-cliff-dive-demon-hunter
 msgid "Ravenous Cliff Dive Demon Hunter"
 msgstr "跳水瞎"
+
+#: https://hsreplay.net/archetypes/687/pirate-shaman
+msgid "Pirate Shaman"
+msgstr "海盗萨"
 
 #: https://hsreplay.net/archetypes/822/bwonsamdi-death-knight
 msgid "Bwonsamdi Death Knight"

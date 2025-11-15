@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-06T01:40:24.356262\n"
+"POT-Creation-Date: 2025-11-15T01:40:23.255082\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2025-11-06 12:40\n"
+"PO-Revision-Date: 2025-11-15 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -161,6 +161,10 @@ msgstr "버리기 흑마법사"
 msgid "Cleave Hunter"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/834/pirate-priest
+msgid "Pirate Priest"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/22/pirate-warrior
 msgid "Pirate Warrior"
 msgstr "해적 전사"
@@ -180,10 +184,6 @@ msgstr "정령 사제"
 #: https://hsreplay.net/archetypes/366/highlander-demon-hunter
 msgid "Highlander Demon Hunter"
 msgstr "하이랜더 악마사냥꾼"
-
-#: https://hsreplay.net/archetypes/198/deathrattle-rogue
-msgid "Deathrattle Rogue"
-msgstr "죽음의 메아리 도적"
 
 #: https://hsreplay.net/archetypes/168/otk-dk-paladin
 msgid "OTK DK Paladin"
@@ -1205,6 +1205,10 @@ msgstr ""
 msgid "Plague Death Knight"
 msgstr "역병 죽음의 기사"
 
+#: https://hsreplay.net/archetypes/461/menagerie-priest
+msgid "Menagerie Priest"
+msgstr ""
+
 #: https://hsreplay.net/archetypes/472/quest-demon-hunter
 msgid "Quest Demon Hunter"
 msgstr "퀘스트 악마사냥꾼"
@@ -1232,6 +1236,10 @@ msgstr ""
 #: https://hsreplay.net/archetypes/426/whirlkick-rogue
 msgid "Whirlkick Rogue"
 msgstr "모래칼춤꾼 도적"
+
+#: https://hsreplay.net/archetypes/449/nature-shaman
+msgid "Nature Shaman"
+msgstr "자연 주술사"
 
 #: https://hsreplay.net/archetypes/673/odd-demon-hunter
 msgid "Odd Demon Hunter"
@@ -1264,10 +1272,6 @@ msgstr "파편 악마사냥꾼"
 #: https://hsreplay.net/archetypes/459/leoroxx-otk-hunter
 msgid "Leoroxx OTK Hunter"
 msgstr "레오록스 원턴킬 사냥꾼"
-
-#: https://hsreplay.net/archetypes/461/menagerie-priest
-msgid "Menagerie Priest"
-msgstr ""
 
 #: https://hsreplay.net/archetypes/438/exodia-warrior
 msgid "Exodia Warrior"
@@ -1316,10 +1320,6 @@ msgstr "경비초소 도적"
 #: https://hsreplay.net/archetypes/448/poison-rogue
 msgid "Poison Rogue"
 msgstr "독 도적"
-
-#: https://hsreplay.net/archetypes/449/nature-shaman
-msgid "Nature Shaman"
-msgstr "자연 주술사"
 
 #: https://hsreplay.net/archetypes/450/neeru-warlock
 msgid "Neeru Warlock"
@@ -1785,6 +1785,10 @@ msgstr "알아키르 원턴킬 주술사"
 msgid "Undead Warlock"
 msgstr "언데드 흑마법사"
 
+#: https://hsreplay.net/archetypes/595/bubble-paladin
+msgid "Bubble Paladin"
+msgstr "천상의 보호막 성기사"
+
 #: https://hsreplay.net/archetypes/570/shockspitter-hunter
 msgid "Shockspitter Hunter"
 msgstr "충격분출용매 사냥꾼"
@@ -1880,10 +1884,6 @@ msgstr "마나스톰 마법사"
 #: https://hsreplay.net/archetypes/594/burn-mage
 msgid "Burn Mage"
 msgstr ""
-
-#: https://hsreplay.net/archetypes/595/bubble-paladin
-msgid "Bubble Paladin"
-msgstr "천상의 보호막 성기사"
 
 #: https://hsreplay.net/archetypes/596/dancing-paladin
 msgid "Dancing Paladin"
@@ -2257,10 +2257,6 @@ msgstr "관광객 성기사"
 msgid "Tourist Mage"
 msgstr "관광객 마법사"
 
-#: https://hsreplay.net/archetypes/687/pirate-shaman
-msgid "Pirate Shaman"
-msgstr "해적 주술사"
-
 #: https://hsreplay.net/archetypes/688/incindius-shaman
 msgid "Incindius Shaman"
 msgstr "인신디우스 주술사"
@@ -2533,10 +2529,6 @@ msgstr "전투의 함성 주술사"
 msgid "Zerg Warlock"
 msgstr "저그 흑마법사"
 
-#: https://hsreplay.net/archetypes/757/terran-warrior
-msgid "Terran Warrior"
-msgstr "테란 전사"
-
 #: https://hsreplay.net/archetypes/758/attack-demon-hunter
 msgid "Attack Demon Hunter"
 msgstr ""
@@ -2745,6 +2737,10 @@ msgstr "무기 도적"
 msgid "Menagerie Shaman"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/198/deathrattle-rogue
+msgid "Deathrattle Rogue"
+msgstr "죽음의 메아리 도적"
+
 #: https://hsreplay.net/archetypes/809/orb-mage
 msgid "Orb Mage"
 msgstr ""
@@ -2773,9 +2769,17 @@ msgstr ""
 msgid "Concierge Rogue"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/757/terran-warrior
+msgid "Terran Warrior"
+msgstr "테란 전사"
+
 #: https://hsreplay.net/archetypes/818/ravenous-cliff-dive-demon-hunter
 msgid "Ravenous Cliff Dive Demon Hunter"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/687/pirate-shaman
+msgid "Pirate Shaman"
+msgstr "해적 주술사"
 
 #: https://hsreplay.net/archetypes/822/bwonsamdi-death-knight
 msgid "Bwonsamdi Death Knight"
