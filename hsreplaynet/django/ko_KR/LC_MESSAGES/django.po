@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-15 01:40+0000\n"
-"PO-Revision-Date: 2025-11-15 12:40\n"
+"POT-Creation-Date: 2025-11-19 01:40+0000\n"
+"PO-Revision-Date: 2025-11-19 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Korean\n"
 "Language: ko_KR\n"
@@ -492,59 +492,59 @@ msgstr ""
 msgid "Arenasmith"
 msgstr ""
 
-#: templates/footer.html:74
+#: templates/footer.html:75
 msgid "Standard Decks"
 msgstr ""
 
-#: templates/footer.html:75 web/views/archetypes.py:48
+#: templates/footer.html:76 web/views/archetypes.py:48
 msgid "Meta Tier List"
 msgstr ""
 
-#: templates/footer.html:76
+#: templates/footer.html:77
 msgid "Arena Guide"
 msgstr ""
 
-#: templates/footer.html:77 web/views/battlegrounds.py:141
+#: templates/footer.html:78 web/views/battlegrounds.py:141
 msgid "Battlegrounds Heroes"
 msgstr ""
 
-#: templates/footer.html:78 web/views/battlegrounds.py:156
+#: templates/footer.html:79 web/views/battlegrounds.py:156
 msgid "Battlegrounds Comps"
 msgstr ""
 
-#: templates/footer.html:79 web/views/battlegrounds.py:278
+#: templates/footer.html:80 web/views/battlegrounds.py:278
 msgid "Battlegrounds Anomalies"
 msgstr ""
 
-#: templates/footer.html:80 web/views/battlegrounds.py:327
+#: templates/footer.html:81 web/views/battlegrounds.py:327
 msgid "Battlegrounds Quests"
 msgstr ""
 
-#: templates/footer.html:81 web/views/battlegrounds.py:217
+#: templates/footer.html:82 web/views/battlegrounds.py:217
 msgid "Battlegrounds Trinkets"
 msgstr ""
 
-#: templates/footer.html:85
+#: templates/footer.html:86
 msgid "Support"
 msgstr ""
 
-#: templates/footer.html:98
+#: templates/footer.html:99
 msgid "Help Center"
 msgstr ""
 
-#: templates/footer.html:100
+#: templates/footer.html:101
 msgid "Your Account"
 msgstr ""
 
-#: templates/footer.html:102
+#: templates/footer.html:103
 msgid "Terms of Service"
 msgstr "서비스 이용약관"
 
-#: templates/footer.html:105
+#: templates/footer.html:106
 msgid "Privacy Policy"
 msgstr "개인정보 보호정책"
 
-#: templates/footer.html:107
+#: templates/footer.html:108
 msgid "Get in Touch"
 msgstr ""
 
@@ -961,64 +961,112 @@ msgstr ""
 msgid "Battlegrounds Duos Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:587 web/views/battlegrounds.py:617
-#: web/views/battlegrounds.py:640
+#: web/views/battlegrounds.py:587 web/views/battlegrounds.py:651
+#: web/views/battlegrounds.py:675
 msgid "Battlegrounds Minions"
 msgstr ""
 
+#: web/views/battlegrounds.py:613
+msgid "Beast"
+msgstr ""
+
+#: web/views/battlegrounds.py:614
+msgid "Demon"
+msgstr ""
+
+#: web/views/battlegrounds.py:615
+msgid "Dragon"
+msgstr ""
+
+#: web/views/battlegrounds.py:616
+msgid "Elemental"
+msgstr ""
+
+#: web/views/battlegrounds.py:617
+msgid "Mech"
+msgstr ""
+
+#: web/views/battlegrounds.py:618
+msgid "Murloc"
+msgstr ""
+
+#: web/views/battlegrounds.py:619
+msgid "Naga"
+msgstr ""
+
 #: web/views/battlegrounds.py:620
+msgid "Pirate"
+msgstr ""
+
+#: web/views/battlegrounds.py:621
+msgid "Quilboar"
+msgstr ""
+
+#: web/views/battlegrounds.py:622
+msgid "Undead"
+msgstr ""
+
+#: web/views/battlegrounds.py:634
+msgid "Invalid Tavern Tier."
+msgstr ""
+
+#: web/views/battlegrounds.py:640
+msgid "No matching minion type found."
+msgstr ""
+
+#: web/views/battlegrounds.py:654
 #, python-brace-format
 msgid "Battlegrounds {type} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:625
+#: web/views/battlegrounds.py:659
 #, python-brace-format
 msgid "Battlegrounds Tier {tier} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:629
+#: web/views/battlegrounds.py:663
 #, python-brace-format
 msgid "Battlegrounds Tier {tier} {type} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:655 web/views/battlegrounds.py:711
+#: web/views/battlegrounds.py:690 web/views/battlegrounds.py:746
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:703
+#: web/views/battlegrounds.py:738
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:766
+#: web/views/battlegrounds.py:801
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:772 web/views/battlegrounds.py:802
+#: web/views/battlegrounds.py:807 web/views/battlegrounds.py:837
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:795
+#: web/views/battlegrounds.py:830
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:797
+#: web/views/battlegrounds.py:832
 msgid "No matching composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:896
+#: web/views/battlegrounds.py:931
 msgid "Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:915
+#: web/views/battlegrounds.py:950
 msgid "No matching comp found."
 msgstr ""
 
-#: web/views/battlegrounds.py:922
+#: web/views/battlegrounds.py:957
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr ""
 
-#: web/views/battlegrounds.py:961
+#: web/views/battlegrounds.py:996
 msgid "My Battlegrounds Stats"
 msgstr ""
 
