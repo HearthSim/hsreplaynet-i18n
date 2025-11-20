@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-19 01:40+0000\n"
-"PO-Revision-Date: 2025-11-19 12:40\n"
+"POT-Creation-Date: 2025-11-20 01:40+0000\n"
+"PO-Revision-Date: 2025-11-20 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -487,7 +487,7 @@ msgstr "与Blizzard Entertainment没有从属关系。"
 
 #: templates/footer.html:63 templates/navigation.html:67
 #: templates/navigation.html:181 templates/navigation.html:238
-#: web/views/__init__.py:174
+#: web/views/__init__.py:180
 msgid "Downloads"
 msgstr "下载"
 
@@ -769,43 +769,43 @@ msgstr "HSReplay.net - 释放您的潜能"
 msgid "Sign in to HSReplay.net"
 msgstr "登录到HSReplay.net"
 
-#: web/views/__init__.py:162
+#: web/views/__init__.py:168
 msgid "Download Hearthstone Deck Tracker"
 msgstr "下载HDT炉石记牌器"
 
-#: web/views/__init__.py:164
+#: web/views/__init__.py:170
 msgid "HSReplay.net Companion App"
 msgstr "HSReplay.net随身应用程序"
 
-#: web/views/__init__.py:166
+#: web/views/__init__.py:172
 msgid "Hearthstone Deck Tracker is a free companion app to help you play like the pros."
 msgstr "HDT炉石记牌器是一款免费应用，可以帮助您拥有职业选手的炉石传说水平。"
 
-#: web/views/__init__.py:227
+#: web/views/__init__.py:233
 msgid "Contact our Support Team"
 msgstr "联系我们的支持团队"
 
-#: web/views/__init__.py:229
+#: web/views/__init__.py:235
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr "与HSReplay.net支持团队取得联系。"
 
-#: web/views/__init__.py:278
+#: web/views/__init__.py:284
 msgid "Redeem a Code"
 msgstr "兑换激活码"
 
-#: web/views/__init__.py:289
+#: web/views/__init__.py:295
 msgid "Welcome to HSReplay.net"
 msgstr "欢迎使用 HSReplay.net"
 
-#: web/views/__init__.py:291
+#: web/views/__init__.py:297
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr "学习如何开始使用 HSReplay.net 以及你可以用它来做些什么。"
 
-#: web/views/__init__.py:302
+#: web/views/__init__.py:308
 msgid "Welcome to Hearthstone Deck Tracker"
 msgstr "欢迎使用Hearthstone Deck Tracker炉石记牌器"
 
-#: web/views/__init__.py:304
+#: web/views/__init__.py:310
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
 msgstr "看看你能使用Hearthstone Deck Tracker和这个网站做些什么吧！"
 
@@ -980,51 +980,51 @@ msgstr "酒馆战棋随从"
 
 #: web/views/battlegrounds.py:613
 msgid "Beast"
-msgstr ""
+msgstr "野兽"
 
 #: web/views/battlegrounds.py:614
 msgid "Demon"
-msgstr ""
+msgstr "恶魔"
 
 #: web/views/battlegrounds.py:615
 msgid "Dragon"
-msgstr ""
+msgstr "龙"
 
 #: web/views/battlegrounds.py:616
 msgid "Elemental"
-msgstr ""
+msgstr "元素"
 
 #: web/views/battlegrounds.py:617
 msgid "Mech"
-msgstr ""
+msgstr "机械"
 
 #: web/views/battlegrounds.py:618
 msgid "Murloc"
-msgstr ""
+msgstr "鱼人"
 
 #: web/views/battlegrounds.py:619
 msgid "Naga"
-msgstr ""
+msgstr "纳迦"
 
 #: web/views/battlegrounds.py:620
 msgid "Pirate"
-msgstr ""
+msgstr "海盗"
 
 #: web/views/battlegrounds.py:621
 msgid "Quilboar"
-msgstr ""
+msgstr "野猪人"
 
 #: web/views/battlegrounds.py:622
 msgid "Undead"
-msgstr ""
+msgstr "亡灵"
 
 #: web/views/battlegrounds.py:634
 msgid "Invalid Tavern Tier."
-msgstr ""
+msgstr "无效的酒馆等级。"
 
 #: web/views/battlegrounds.py:640
 msgid "No matching minion type found."
-msgstr ""
+msgstr "未找到匹配的随从类型。"
 
 #: web/views/battlegrounds.py:654
 #, python-brace-format
@@ -1073,12 +1073,12 @@ msgstr "酒馆战棋流派"
 msgid "No matching comp found."
 msgstr "未找到匹配的流派。"
 
-#: web/views/battlegrounds.py:957
+#: web/views/battlegrounds.py:963
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr "{tribe_name} - {obj.name}"
 
-#: web/views/battlegrounds.py:996
+#: web/views/battlegrounds.py:1001
 msgid "My Battlegrounds Stats"
 msgstr "我的酒馆战棋数据"
 

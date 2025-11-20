@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-19T01:40:26.802714\n"
+"POT-Creation-Date: 2025-11-20T01:40:26.323553\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-11-19 12:40\n"
+"PO-Revision-Date: 2025-11-20 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/117425/ Hero id 117425 | Guide id
 #: 696
@@ -170,7 +170,7 @@ msgstr "英雄的起始护甲越低，就越适合与芬利搭配。蛇眼的起
 #: https://hsreplay.net/battlegrounds/heroes/74646/ Hero id 74646 | Guide id
 #: 150
 msgid "Make sure you trigger the minion that gets the deathrattle with [[Monstrous Macaw||62230]] or [[Hawkstrider]] Herald. The best comp for this hero is [[Silithid Burrower||108547]] comp, if you make sure that burrower has the lowest attack on your board."
-msgstr ""
+msgstr "确保你用[[巨型金刚鹦鹉||62230]]或[[陆行鸟先锋]]来触发具有亡语的随从。这个英雄的最佳流派是[[异种钻地虫||108547]]流，只要你确保钻地虫在你的棋盘上攻击力最低。"
 
 #: https://hsreplay.net/battlegrounds/heroes/57944/ Hero id 57944 | Guide id
 #: 27
@@ -212,6 +212,11 @@ msgstr "你不必每回合都使用英雄技能，只有当你剩1铸币时才�
 msgid "Force Dragons on this hero, using [[Prized Promo-Drake||72073]] and [[Twilight Watcher||122442]] plus [[Persistent Poet||108463]] to stabilize."
 msgstr "为这个英雄强制玩龙，使用[[珍稀增强幼龙||72073]]和[[暮光守望巨龙||122442]]加上[[执念诗心龙||108463]]来稳定局势。"
 
+#: https://hsreplay.net/battlegrounds/heroes/64480/ Hero id 64480 | Guide id
+#: 11
+msgid "A ticket is roughly worth 1 gold, so any 1 cost spell with a ticket is worth buying. However, don't buy useless units for the sake of buying a ticket."
+msgstr "一张暗月奖券大约价值1铸币，因此任何带有暗月奖券的1费法术都值得购买。但是也不要为了买暗月奖券而买无用的随从。"
+
 #: https://hsreplay.net/battlegrounds/heroes/75702/ Hero id 75702 | Guide id
 #: 16
 msgid "I recommend starting with a 1-3 flightpath to line up the discovers with your buddy."
@@ -230,11 +235,6 @@ msgstr "这个英雄在前期能提供免费的节奏。整体表现不错。"
 #: https://hsreplay.net/battlegrounds/heroes/64403/ Hero id 64403 | Guide id 5
 msgid "Rally units are really nice with this hero power to attack twice with them."
 msgstr "使用这个英雄技能时，进击单位可以进行两次攻击，效果非常不错。"
-
-#: https://hsreplay.net/battlegrounds/heroes/64480/ Hero id 64480 | Guide id
-#: 11
-msgid "A ticket is roughly worth 1 gold, so any 1 cost spell with a ticket is worth buying. However, don't buy useless units for the sake of buying a ticket."
-msgstr "一张暗月奖券大约价值1铸币，因此任何带有暗月奖券的1费法术都值得购买。但是也不要为了买暗月奖券而买无用的随从。"
 
 #: https://hsreplay.net/battlegrounds/heroes/60362/ Hero id 60362 | Guide id
 #: 127
@@ -334,15 +334,15 @@ msgstr "在游戏初期将香蕉用在优质的随从上，以便在游戏初期
 msgid "The most common curve with this hero is to level hero power on turn 4, so turn 5 you can buy 2 good 4 drops, and play the game from there."
 msgstr "这个英雄最常见的曲线是在第4回合升级，在第5回合你就可以买到2个不错的4级随从，然后从此开始游戏。"
 
-#: https://hsreplay.net/battlegrounds/heroes/59831/ Hero id 59831 | Guide id
-#: 121
-msgid "Hero power on turns 1, 3, 4, and 5, and possibly 6 to fill out your board. On turn 2 you should level. After that, forget about the hero power."
-msgstr "在第 1、3、4和5回合使用英雄技能，必要时在第6回合也使用以铺满你的棋盘。第2回合你应该升级。之后就别再使用英雄技能了。"
-
 #: https://hsreplay.net/battlegrounds/heroes/57893/ Hero id 57893 | Guide id
 #: 111
 msgid "Hero power the first 6 turns (except turn 2), and be tavern 4 by turn 6. Then, you don't have to hero power every turn, only when the tribe is useful to you."
 msgstr "前6个回合（除了第2回合）都使用英雄技能，到第6回合升到4级酒馆。之后你就不必每回合都使用英雄技能了，只有当种族类型对你有用时才使用。"
+
+#: https://hsreplay.net/battlegrounds/heroes/59831/ Hero id 59831 | Guide id
+#: 121
+msgid "Hero power on turns 1, 3, 4, and 5, and possibly 6 to fill out your board. On turn 2 you should level. After that, forget about the hero power."
+msgstr "在第 1、3、4和5回合使用英雄技能，必要时在第6回合也使用以铺满你的棋盘。第2回合你应该升级。之后就别再使用英雄技能了。"
 
 #: https://hsreplay.net/battlegrounds/heroes/64475/ Hero id 64475 | Guide id 6
 msgid "Try not to spend a lot of money leveling on this hero. You can buy elementals, and then level to taverns 4, 5 or 6 when it's 3 or less gold."
@@ -446,7 +446,7 @@ msgstr "你可以选择在较低等级酒馆保持稳定并保存生命值，这
 #: https://hsreplay.net/battlegrounds/heroes/59203/ Hero id 59203 | Guide id
 #: 33
 msgid "Reborn the amalgam using [[Prosthetic Hand||112364]] or [[Sprightly Scarab||108909]]. Shield the Amalgam using [[Hogwatcher||122737]] or [[Annoy-o-Module||96812]]. Resummon the Amalgam using [[Cultist S'thara]]"
-msgstr ""
+msgstr "使用[[义肢假手||112364]]或[[机变甲虫||108909]]复生融合怪。使用[[护猪牧人||122737]]或[[吵吵模组||96812]]给融合怪贴圣盾。使用[[异教徒斯瑟拉]]重新召唤融合怪"
 
 #: https://hsreplay.net/battlegrounds/heroes/66483/ Hero id 66483 | Guide id
 #: 14

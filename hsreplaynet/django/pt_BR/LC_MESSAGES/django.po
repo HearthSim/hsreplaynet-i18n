@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-19 01:40+0000\n"
-"PO-Revision-Date: 2025-11-19 12:40\n"
+"POT-Creation-Date: 2025-11-20 01:40+0000\n"
+"PO-Revision-Date: 2025-11-20 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -475,7 +475,7 @@ msgstr "Não vinculado com Blizzard Entertainment."
 
 #: templates/footer.html:63 templates/navigation.html:67
 #: templates/navigation.html:181 templates/navigation.html:238
-#: web/views/__init__.py:174
+#: web/views/__init__.py:180
 msgid "Downloads"
 msgstr "Downloads"
 
@@ -757,43 +757,43 @@ msgstr "HSReplay.net - Liberte seu potencial"
 msgid "Sign in to HSReplay.net"
 msgstr ""
 
-#: web/views/__init__.py:162
+#: web/views/__init__.py:168
 msgid "Download Hearthstone Deck Tracker"
 msgstr "Baixe o Hearthstone Deck Tracker"
 
-#: web/views/__init__.py:164
+#: web/views/__init__.py:170
 msgid "HSReplay.net Companion App"
 msgstr "Aplicativo Companheiro do HSReplay.net"
 
-#: web/views/__init__.py:166
+#: web/views/__init__.py:172
 msgid "Hearthstone Deck Tracker is a free companion app to help you play like the pros."
 msgstr ""
 
-#: web/views/__init__.py:227
+#: web/views/__init__.py:233
 msgid "Contact our Support Team"
 msgstr ""
 
-#: web/views/__init__.py:229
+#: web/views/__init__.py:235
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr ""
 
-#: web/views/__init__.py:278
+#: web/views/__init__.py:284
 msgid "Redeem a Code"
 msgstr ""
 
-#: web/views/__init__.py:289
+#: web/views/__init__.py:295
 msgid "Welcome to HSReplay.net"
 msgstr ""
 
-#: web/views/__init__.py:291
+#: web/views/__init__.py:297
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr ""
 
-#: web/views/__init__.py:302
+#: web/views/__init__.py:308
 msgid "Welcome to Hearthstone Deck Tracker"
 msgstr ""
 
-#: web/views/__init__.py:304
+#: web/views/__init__.py:310
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
 msgstr ""
 
@@ -1061,12 +1061,12 @@ msgstr ""
 msgid "No matching comp found."
 msgstr ""
 
-#: web/views/battlegrounds.py:957
+#: web/views/battlegrounds.py:963
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr ""
 
-#: web/views/battlegrounds.py:996
+#: web/views/battlegrounds.py:1001
 msgid "My Battlegrounds Stats"
 msgstr ""
 
