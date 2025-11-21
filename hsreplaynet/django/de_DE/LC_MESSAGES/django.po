@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-20 01:40+0000\n"
-"PO-Revision-Date: 2025-11-20 12:40\n"
+"POT-Creation-Date: 2025-11-21 01:40+0000\n"
+"PO-Revision-Date: 2025-11-21 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -474,12 +474,12 @@ msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Nicht mit Blizzard Entertainment assoziiert."
 
 #: templates/footer.html:63 templates/navigation.html:67
-#: templates/navigation.html:181 templates/navigation.html:238
+#: templates/navigation.html:185 templates/navigation.html:242
 #: web/views/__init__.py:180
 msgid "Downloads"
 msgstr "Downloads"
 
-#: templates/footer.html:64 templates/navigation.html:231
+#: templates/footer.html:64 templates/navigation.html:235
 #: web/views/premium.py:31
 msgid "Premium"
 msgstr "Premium"
@@ -496,7 +496,7 @@ msgstr "Arenasmith"
 msgid "Standard Decks"
 msgstr "Standard-Decks"
 
-#: templates/footer.html:76 web/views/archetypes.py:48
+#: templates/footer.html:76 web/views/archetypes.py:46
 msgid "Meta Tier List"
 msgstr "Meta-Tier-Liste"
 
@@ -504,47 +504,52 @@ msgstr "Meta-Tier-Liste"
 msgid "Arena Guide"
 msgstr ""
 
-#: templates/footer.html:78 web/views/battlegrounds.py:141
+#: templates/footer.html:78 web/views/battlegrounds.py:140
 msgid "Battlegrounds Heroes"
 msgstr "Schlachtfeld-Helden"
 
-#: templates/footer.html:79 web/views/battlegrounds.py:156
+#: templates/footer.html:79 web/views/battlegrounds.py:155
 msgid "Battlegrounds Comps"
 msgstr ""
 
-#: templates/footer.html:80 web/views/battlegrounds.py:278
+#: templates/footer.html:80 web/views/battlegrounds.py:607
+#: web/views/battlegrounds.py:671 web/views/battlegrounds.py:695
+msgid "Battlegrounds Minions"
+msgstr "Schlachtfeld-Diener"
+
+#: templates/footer.html:81 web/views/battlegrounds.py:277
 msgid "Battlegrounds Anomalies"
 msgstr "Schlachtfeld-Anomalien"
 
-#: templates/footer.html:81 web/views/battlegrounds.py:327
+#: templates/footer.html:82 web/views/battlegrounds.py:326
 msgid "Battlegrounds Quests"
 msgstr ""
 
-#: templates/footer.html:82 web/views/battlegrounds.py:217
+#: templates/footer.html:83 web/views/battlegrounds.py:216
 msgid "Battlegrounds Trinkets"
 msgstr "Schlachtfeld-Schmuckstücke"
 
-#: templates/footer.html:86
+#: templates/footer.html:87
 msgid "Support"
 msgstr "Support"
 
-#: templates/footer.html:99
+#: templates/footer.html:100
 msgid "Help Center"
 msgstr "Hilfezentrum"
 
-#: templates/footer.html:101
+#: templates/footer.html:102
 msgid "Your Account"
 msgstr "Dein Konto"
 
-#: templates/footer.html:103
+#: templates/footer.html:104
 msgid "Terms of Service"
 msgstr "Nutzungsbedingungen"
 
-#: templates/footer.html:106
+#: templates/footer.html:107
 msgid "Privacy Policy"
 msgstr "Datenschutzerklärung"
 
-#: templates/footer.html:108
+#: templates/footer.html:109
 msgid "Get in Touch"
 msgstr "Kontaktiere uns"
 
@@ -572,32 +577,34 @@ msgstr "Tier-Liste"
 msgid "Parties"
 msgstr "Gruppen"
 
-#: templates/navigation.html:78 web/views/battlegrounds.py:150
-#: web/views/battlegrounds.py:461
+#: templates/navigation.html:78 web/views/battlegrounds.py:149
+#: web/views/battlegrounds.py:460
 msgid "Heroes"
 msgstr "Helden"
 
-#: templates/navigation.html:90 web/views/battlegrounds.py:225
+#: templates/navigation.html:90 web/views/battlegrounds.py:224
 msgid "Trinkets"
 msgstr "Schmuckstücke"
 
-#: templates/navigation.html:103 web/views/battlegrounds.py:395
+#: templates/navigation.html:103 web/views/battlegrounds.py:394
 msgid "Darkmoon Prizes"
 msgstr "Dunkelmond-Preise"
 
-#: templates/navigation.html:114 web/views/battlegrounds.py:165
+#: templates/navigation.html:114 web/views/battlegrounds.py:164
+#: web/views/battlegrounds.py:1008
 msgid "Comps"
 msgstr ""
 
-#: templates/navigation.html:126 web/views/battlegrounds.py:335
+#: templates/navigation.html:126 web/views/battlegrounds.py:334
 msgid "Quests"
 msgstr "Quests"
 
-#: templates/navigation.html:129 templates/navigation.html:223
+#: templates/navigation.html:129 templates/navigation.html:162
+#: templates/navigation.html:227
 msgid "NEW"
 msgstr "NEU"
 
-#: templates/navigation.html:143 web/views/battlegrounds.py:286
+#: templates/navigation.html:143 web/views/battlegrounds.py:285
 msgid "Anomalies"
 msgstr "Anomalien"
 
@@ -605,37 +612,37 @@ msgstr "Anomalien"
 msgid "Minions"
 msgstr "Diener"
 
-#: templates/navigation.html:173
+#: templates/navigation.html:177
 msgid "SALE!"
 msgstr "ANGEBOT!"
 
-#: templates/navigation.html:188
+#: templates/navigation.html:192
 msgid "Trending"
 msgstr "Im Trend"
 
-#: templates/navigation.html:196 templates/navigation.html:202
+#: templates/navigation.html:200 templates/navigation.html:206
 msgid "Meta"
 msgstr "Meta"
 
-#: templates/navigation.html:197
+#: templates/navigation.html:201
 msgid "Back soon!"
 msgstr "Bald zurück!"
 
-#: templates/navigation.html:209
+#: templates/navigation.html:213
 msgid "Decks"
 msgstr "Decks"
 
-#: templates/navigation.html:215 web/views/arena.py:73 web/views/cards.py:37
-#: web/views/cards.py:161
+#: templates/navigation.html:219 web/views/arena.py:73 web/views/cards.py:34
+#: web/views/cards.py:158
 msgid "Cards"
 msgstr "Karten"
 
-#: templates/navigation.html:222 web/views/arena.py:24 web/views/arena.py:41
+#: templates/navigation.html:226 web/views/arena.py:24 web/views/arena.py:41
 #: web/views/arena.py:72 web/views/arena.py:90 web/views/arena.py:118
 msgid "Arena"
 msgstr ""
 
-#: templates/navigation.html:265
+#: templates/navigation.html:269
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
@@ -745,6 +752,10 @@ msgstr "Es können keine neuen Endpunkte hinzugefügt werden. Bestehende Webhook
 msgid "You cannot remove the last account you can sign in with. Instead, you can delete your HSReplay.net account entirely."
 msgstr ""
 
+#: web/structured_data.py:12
+msgid "Top BGs Player"
+msgstr ""
+
 #: web/views/__init__.py:18
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr "Betrachte und teile Hearthstone-Aufzeichnungen direkt aus deinem Browser heraus. Erforsche fortgeschrittene Deck- und Kartenstatistiken, basierend auf Millionen von Spielen pro Woche."
@@ -797,44 +808,44 @@ msgstr "Willkommen beim Hearthstone Deck Tracker"
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
 msgstr ""
 
-#: web/views/archetypes.py:38
+#: web/views/archetypes.py:36
 #, python-brace-format
 msgid "Hearthstone Meta Tier List - {month} {year}"
 msgstr "Hearthstone-Meta-Tier-Liste - {month} {year}"
 
-#: web/views/archetypes.py:44
+#: web/views/archetypes.py:42
 msgid "Explore the Hearthstone meta tier list, find the best decks for every class,and how the archetypes match up."
 msgstr ""
 
-#: web/views/archetypes.py:65
+#: web/views/archetypes.py:63
 msgid "Discover"
 msgstr "Entdecken"
 
-#: web/views/archetypes.py:67
+#: web/views/archetypes.py:65
 msgid "Engage with the up-and-coming Hearthstone meta game to discover the newest archetypes and what's next."
 msgstr "Befasse dich mit dem Hearthstone-Meta von morgen um die neuesten Archetypen zu entdecken."
 
-#: web/views/archetypes.py:85
+#: web/views/archetypes.py:83
 msgid "Archetype Quality"
 msgstr ""
 
-#: web/views/archetypes.py:87
+#: web/views/archetypes.py:85
 msgid "Analyze the quality of the most recently trained archetype cluster weights."
 msgstr ""
 
-#: web/views/archetypes.py:109
+#: web/views/archetypes.py:107
 msgid "Archetype"
 msgstr "Archetyp"
 
-#: web/views/archetypes.py:115
+#: web/views/archetypes.py:113
 msgid "This archetype is no longer available."
 msgstr "Dieser Archetyp ist nicht mehr verfügbar."
 
-#: web/views/archetypes.py:145
+#: web/views/archetypes.py:141
 msgid "Archetypes"
 msgstr "Archetypen"
 
-#: web/views/archetypes.py:165
+#: web/views/archetypes.py:160
 #, python-brace-format
 msgid "Find stats and different {name} decklists."
 msgstr "Finde Statistiken und verschiedene {name}-Decklisten."
@@ -897,197 +908,192 @@ msgstr ""
 msgid "Arenasmith - Draft Assistant for Hearthstone Arena"
 msgstr "Arenasmith - Draftassistent für Hearthstone Arena"
 
-#: web/views/battlegrounds.py:120
+#: web/views/battlegrounds.py:119
 msgid "Level up your gameplay with Tier7’s in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
 msgstr ""
 
-#: web/views/battlegrounds.py:130 web/views/battlegrounds.py:149
-#: web/views/battlegrounds.py:164 web/views/battlegrounds.py:224
-#: web/views/battlegrounds.py:285 web/views/battlegrounds.py:334
-#: web/views/battlegrounds.py:378 web/views/battlegrounds.py:394
-#: web/views/battlegrounds.py:452
+#: web/views/battlegrounds.py:129 web/views/battlegrounds.py:148
+#: web/views/battlegrounds.py:163 web/views/battlegrounds.py:223
+#: web/views/battlegrounds.py:284 web/views/battlegrounds.py:333
+#: web/views/battlegrounds.py:377 web/views/battlegrounds.py:393
+#: web/views/battlegrounds.py:451 web/views/battlegrounds.py:999
 msgid "Battlegrounds"
 msgstr "Schlachtfeld"
 
-#: web/views/battlegrounds.py:131
+#: web/views/battlegrounds.py:130
 msgid "Tier7"
 msgstr "Tier7"
 
-#: web/views/battlegrounds.py:136
+#: web/views/battlegrounds.py:135
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr "HSReplay.net Tier7 für Schlachtfeld"
 
-#: web/views/battlegrounds.py:143
+#: web/views/battlegrounds.py:142
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:158
+#: web/views/battlegrounds.py:157
 msgid "Explore our Comps Tier List and learn which comp is the best - powered by JeefHS, Top BGs player."
 msgstr ""
 
-#: web/views/battlegrounds.py:219
+#: web/views/battlegrounds.py:218
 msgid "Explore our Battlegrounds Trinkets Tier List and learn which trinket is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:280
+#: web/views/battlegrounds.py:279
 msgid "Explore our Battlegrounds Anomalies List and learn which anomalies are more common - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:329
+#: web/views/battlegrounds.py:328
 msgid "Explore our Battlegrounds Quests List and learn which quests are the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:375
+#: web/views/battlegrounds.py:374
 msgid "Battlegrounds Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:379
+#: web/views/battlegrounds.py:378
 msgid "Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:391
+#: web/views/battlegrounds.py:390
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr "Schlachtfeld Dunkelmond-Preise"
 
-#: web/views/battlegrounds.py:400
+#: web/views/battlegrounds.py:399
 msgid "Battlegrounds Hero"
 msgstr "Schlachtfeld-Held"
 
-#: web/views/battlegrounds.py:421
+#: web/views/battlegrounds.py:420
 msgid "No matching hero found."
 msgstr "Kein passender Held gefunden."
 
-#: web/views/battlegrounds.py:579
+#: web/views/battlegrounds.py:599
 msgid "Battlegrounds Duos Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:587 web/views/battlegrounds.py:651
-#: web/views/battlegrounds.py:675
-msgid "Battlegrounds Minions"
-msgstr "Schlachtfeld-Diener"
-
-#: web/views/battlegrounds.py:613
+#: web/views/battlegrounds.py:633
 msgid "Beast"
 msgstr ""
 
-#: web/views/battlegrounds.py:614
+#: web/views/battlegrounds.py:634
 msgid "Demon"
 msgstr ""
 
-#: web/views/battlegrounds.py:615
+#: web/views/battlegrounds.py:635
 msgid "Dragon"
 msgstr ""
 
-#: web/views/battlegrounds.py:616
+#: web/views/battlegrounds.py:636
 msgid "Elemental"
 msgstr ""
 
-#: web/views/battlegrounds.py:617
+#: web/views/battlegrounds.py:637
 msgid "Mech"
 msgstr ""
 
-#: web/views/battlegrounds.py:618
+#: web/views/battlegrounds.py:638
 msgid "Murloc"
 msgstr ""
 
-#: web/views/battlegrounds.py:619
+#: web/views/battlegrounds.py:639
 msgid "Naga"
 msgstr ""
 
-#: web/views/battlegrounds.py:620
+#: web/views/battlegrounds.py:640
 msgid "Pirate"
 msgstr ""
 
-#: web/views/battlegrounds.py:621
+#: web/views/battlegrounds.py:641
 msgid "Quilboar"
 msgstr ""
 
-#: web/views/battlegrounds.py:622
+#: web/views/battlegrounds.py:642
 msgid "Undead"
 msgstr ""
 
-#: web/views/battlegrounds.py:634
+#: web/views/battlegrounds.py:654
 msgid "Invalid Tavern Tier."
 msgstr ""
 
-#: web/views/battlegrounds.py:640
+#: web/views/battlegrounds.py:660
 msgid "No matching minion type found."
 msgstr ""
 
-#: web/views/battlegrounds.py:654
+#: web/views/battlegrounds.py:674
 #, python-brace-format
 msgid "Battlegrounds {type} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:659
+#: web/views/battlegrounds.py:679
 #, python-brace-format
 msgid "Battlegrounds Tier {tier} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:663
+#: web/views/battlegrounds.py:683
 #, python-brace-format
 msgid "Battlegrounds Tier {tier} {type} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:690 web/views/battlegrounds.py:746
+#: web/views/battlegrounds.py:710 web/views/battlegrounds.py:766
 msgid "Battlegrounds Minion"
 msgstr "Schlachtfeld-Diener"
 
-#: web/views/battlegrounds.py:738
+#: web/views/battlegrounds.py:758
 msgid "No matching minion found."
 msgstr "Kein passender Diener gefunden."
 
-#: web/views/battlegrounds.py:801
+#: web/views/battlegrounds.py:821
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:807 web/views/battlegrounds.py:837
+#: web/views/battlegrounds.py:827 web/views/battlegrounds.py:857
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:830
+#: web/views/battlegrounds.py:850
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:832
+#: web/views/battlegrounds.py:852
 msgid "No matching composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:931
+#: web/views/battlegrounds.py:951
 msgid "Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:950
+#: web/views/battlegrounds.py:970
 msgid "No matching comp found."
 msgstr ""
 
-#: web/views/battlegrounds.py:963
+#: web/views/battlegrounds.py:983
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr "{tribe_name} - {obj.name}"
 
-#: web/views/battlegrounds.py:1001
+#: web/views/battlegrounds.py:1063
 msgid "My Battlegrounds Stats"
 msgstr "Meine Schlachtfeldstatistiken"
 
-#: web/views/cards.py:29
+#: web/views/cards.py:26
 msgid "Hearthstone Card Statistics"
 msgstr "Hearthstone-Kartenstatistiken"
 
-#: web/views/cards.py:31
+#: web/views/cards.py:28
 msgid "Compare statistics about all collectible Hearthstone cards. Find the cards that are played the most or have the highest winrate."
 msgstr "Vergleiche Statistiken über alle sammelbaren Hearthstone-Karten. Finde die meistgespielten Karten oder die mit der höchsten Gewinnrate."
 
-#: web/views/cards.py:109
+#: web/views/cards.py:106
 msgid "No card found matching the query."
 msgstr "Keine passende Karte gefunden."
 
-#: web/views/cards.py:146
+#: web/views/cards.py:143
 #, python-brace-format
 msgid "{name} decks and stats"
 msgstr "{name}decks und Statistiken"
 
-#: web/views/cards.py:195
+#: web/views/cards.py:191
 msgid "Hearthstone Card Editor"
 msgstr "Hearthstone-Karteneditor"
 
