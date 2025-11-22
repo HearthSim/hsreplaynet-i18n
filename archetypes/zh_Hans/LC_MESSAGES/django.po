@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-15T01:40:23.255082\n"
+"POT-Creation-Date: 2025-11-22T01:40:25.139416\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-11-21 12:40\n"
+"PO-Revision-Date: 2025-11-22 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -161,9 +161,9 @@ msgstr "弃牌术"
 msgid "Cleave Hunter"
 msgstr "狂战猎"
 
-#: https://hsreplay.net/archetypes/834/pirate-priest
-msgid "Pirate Priest"
-msgstr "海盗牧"
+#: https://hsreplay.net/archetypes/835/azshara-druid
+msgid "Azshara Druid"
+msgstr "艾萨拉德"
 
 #: https://hsreplay.net/archetypes/22/pirate-warrior
 msgid "Pirate Warrior"
@@ -2773,6 +2773,10 @@ msgstr "礼宾贼"
 msgid "Terran Warrior"
 msgstr "星舰战"
 
+#: https://hsreplay.net/archetypes/836/quest-casino-mage
+msgid "Quest Casino Mage"
+msgstr "任务随机法"
+
 #: https://hsreplay.net/archetypes/818/ravenous-cliff-dive-demon-hunter
 msgid "Ravenous Cliff Dive Demon Hunter"
 msgstr "跳水瞎"
@@ -2840,4 +2844,8 @@ msgstr "拉法姆术"
 #: https://hsreplay.net/archetypes/833/arena-warrior
 msgid "Arena Warrior"
 msgstr "血斗士战"
+
+#: https://hsreplay.net/archetypes/834/pirate-priest
+msgid "Pirate Priest"
+msgstr "海盗牧"
 
