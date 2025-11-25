@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-24 01:40+0000\n"
+"POT-Creation-Date: 2025-11-25 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -522,12 +522,12 @@ msgid "Not affiliated with Blizzard Entertainment."
 msgstr ""
 
 #: templates/footer.html:63 templates/navigation.html:67
-#: templates/navigation.html:185 templates/navigation.html:242
+#: templates/navigation.html:189 templates/navigation.html:249
 #: web/views/__init__.py:180
 msgid "Downloads"
 msgstr ""
 
-#: templates/footer.html:64 templates/navigation.html:235
+#: templates/footer.html:64 templates/navigation.html:239
 #: web/views/premium.py:31
 msgid "Premium"
 msgstr ""
@@ -648,7 +648,7 @@ msgid "Quests"
 msgstr ""
 
 #: templates/navigation.html:129 templates/navigation.html:162
-#: templates/navigation.html:227
+#: templates/navigation.html:231
 msgid "NEW"
 msgstr ""
 
@@ -660,37 +660,38 @@ msgstr ""
 msgid "Minions"
 msgstr ""
 
-#: templates/navigation.html:177
+#: templates/navigation.html:177 templates/navigation.html:181
+#: templates/navigation.html:241
 msgid "SALE!"
 msgstr ""
 
-#: templates/navigation.html:192
+#: templates/navigation.html:196
 msgid "Trending"
 msgstr ""
 
-#: templates/navigation.html:200 templates/navigation.html:206
+#: templates/navigation.html:204 templates/navigation.html:210
 msgid "Meta"
 msgstr ""
 
-#: templates/navigation.html:201
+#: templates/navigation.html:205
 msgid "Back soon!"
 msgstr ""
 
-#: templates/navigation.html:213
+#: templates/navigation.html:217
 msgid "Decks"
 msgstr ""
 
-#: templates/navigation.html:219 web/views/arena.py:73 web/views/cards.py:34
+#: templates/navigation.html:223 web/views/arena.py:73 web/views/cards.py:34
 #: web/views/cards.py:158
 msgid "Cards"
 msgstr ""
 
-#: templates/navigation.html:226 web/views/arena.py:24 web/views/arena.py:41
+#: templates/navigation.html:230 web/views/arena.py:24 web/views/arena.py:41
 #: web/views/arena.py:72 web/views/arena.py:90 web/views/arena.py:118
 msgid "Arena"
 msgstr ""
 
-#: templates/navigation.html:269
+#: templates/navigation.html:276
 msgid ""
 "We are currently updating this section for the latest Battlegrounds patch. "
 "You may temporarily encounter incomplete or delayed data."
