@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-25 01:40+0000\n"
-"PO-Revision-Date: 2025-11-25 12:40\n"
+"POT-Creation-Date: 2025-11-27 01:40+0000\n"
+"PO-Revision-Date: 2025-11-27 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -1142,10 +1142,6 @@ msgstr "Sprawdź swoją skrzynkę odbiorczą! Wysłaliśmy do ciebie wiadomość
 #: web/views/dashboard.py:252 web/views/dashboard.py:258
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "Nie udało się zapisać Twoich ustawień emaila. Spróbuj ponownie później!"
-
-#: web/views/dashboard.py:329
-msgid "Your Application"
-msgstr "Twoja Aplikacja"
 
 #: web/views/decks.py:30
 #, python-brace-format

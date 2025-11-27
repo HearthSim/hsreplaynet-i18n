@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-22T01:40:25.139416\n"
+"POT-Creation-Date: 2025-11-27T01:40:25.268662\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-11-26 12:40\n"
+"PO-Revision-Date: 2025-11-27 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -160,6 +160,10 @@ msgstr "弃牌术"
 #: https://hsreplay.net/archetypes/639/cleave-hunter
 msgid "Cleave Hunter"
 msgstr "狂战猎"
+
+#: https://hsreplay.net/archetypes/649/control-death-knight
+msgid "Control Death Knight"
+msgstr "控制DK"
 
 #: https://hsreplay.net/archetypes/835/azshara-druid
 msgid "Azshara Druid"
@@ -2088,10 +2092,6 @@ msgstr "宇宙牧"
 #: https://hsreplay.net/archetypes/648/boomkin-druid
 msgid "Boomkin Druid"
 msgstr "法强德"
-
-#: https://hsreplay.net/archetypes/649/control-death-knight
-msgid "Control Death Knight"
-msgstr "控制DK"
 
 #: https://hsreplay.net/archetypes/650/sharpshooter-demon-hunter
 msgid "Sharpshooter Demon Hunter"

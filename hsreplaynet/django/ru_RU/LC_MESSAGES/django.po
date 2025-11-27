@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-25 01:40+0000\n"
-"PO-Revision-Date: 2025-11-25 12:40\n"
+"POT-Creation-Date: 2025-11-27 01:40+0000\n"
+"PO-Revision-Date: 2025-11-27 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -1142,10 +1142,6 @@ msgstr "Проверьте входящие! Мы отправили письм�
 #: web/views/dashboard.py:252 web/views/dashboard.py:258
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "Не удалось сохранить параметры почтовых уведомлений. Попробуйте позже!"
-
-#: web/views/dashboard.py:329
-msgid "Your Application"
-msgstr "Ваше приложение"
 
 #: web/views/decks.py:30
 #, python-brace-format
