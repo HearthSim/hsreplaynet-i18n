@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-27 01:40+0000\n"
-"PO-Revision-Date: 2025-11-27 12:40\n"
+"POT-Creation-Date: 2025-11-28 01:40+0000\n"
+"PO-Revision-Date: 2025-11-28 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -474,12 +474,12 @@ msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Не связан с Blizzard Entertainment."
 
 #: templates/footer.html:63 templates/navigation.html:67
-#: templates/navigation.html:189 templates/navigation.html:249
+#: templates/navigation.html:202 templates/navigation.html:262
 #: web/views/__init__.py:180
 msgid "Downloads"
 msgstr "Скачать"
 
-#: templates/footer.html:64 templates/navigation.html:239
+#: templates/footer.html:64 templates/navigation.html:252
 #: web/views/premium.py:31
 msgid "Premium"
 msgstr "Премиум"
@@ -586,64 +586,68 @@ msgstr "Герои"
 msgid "Trinkets"
 msgstr ""
 
-#: templates/navigation.html:103 web/views/battlegrounds.py:394
+#: templates/navigation.html:103
+msgid "Timewarp"
+msgstr ""
+
+#: templates/navigation.html:116 web/views/battlegrounds.py:394
 msgid "Darkmoon Prizes"
 msgstr "Призы Новолуния"
 
-#: templates/navigation.html:114 web/views/battlegrounds.py:164
-#: web/views/battlegrounds.py:1008
+#: templates/navigation.html:127 web/views/battlegrounds.py:164
+#: web/views/battlegrounds.py:1025
 msgid "Comps"
 msgstr ""
 
-#: templates/navigation.html:126 web/views/battlegrounds.py:334
+#: templates/navigation.html:139 web/views/battlegrounds.py:334
 msgid "Quests"
 msgstr ""
 
-#: templates/navigation.html:129 templates/navigation.html:162
-#: templates/navigation.html:231
+#: templates/navigation.html:142 templates/navigation.html:175
+#: templates/navigation.html:244
 msgid "NEW"
 msgstr ""
 
-#: templates/navigation.html:143 web/views/battlegrounds.py:285
+#: templates/navigation.html:156 web/views/battlegrounds.py:285
 msgid "Anomalies"
 msgstr ""
 
-#: templates/navigation.html:159
+#: templates/navigation.html:172
 msgid "Minions"
 msgstr "Существа"
 
-#: templates/navigation.html:177 templates/navigation.html:181
-#: templates/navigation.html:241
+#: templates/navigation.html:190 templates/navigation.html:194
+#: templates/navigation.html:254
 msgid "SALE!"
 msgstr "Распродажа!"
 
-#: templates/navigation.html:196
+#: templates/navigation.html:209
 msgid "Trending"
 msgstr "Популярное"
 
-#: templates/navigation.html:204 templates/navigation.html:210
+#: templates/navigation.html:217 templates/navigation.html:223
 msgid "Meta"
 msgstr "Мета"
 
-#: templates/navigation.html:205
+#: templates/navigation.html:218
 msgid "Back soon!"
 msgstr "Скоро вернется!"
 
-#: templates/navigation.html:217
+#: templates/navigation.html:230
 msgid "Decks"
 msgstr "Колоды"
 
-#: templates/navigation.html:223 web/views/arena.py:73 web/views/cards.py:34
+#: templates/navigation.html:236 web/views/arena.py:73 web/views/cards.py:34
 #: web/views/cards.py:158
 msgid "Cards"
 msgstr "Карты"
 
-#: templates/navigation.html:230 web/views/arena.py:24 web/views/arena.py:41
+#: templates/navigation.html:243 web/views/arena.py:24 web/views/arena.py:41
 #: web/views/arena.py:72 web/views/arena.py:90 web/views/arena.py:118
 msgid "Arena"
 msgstr ""
 
-#: templates/navigation.html:276
+#: templates/navigation.html:289
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "Мы обновляем этот раздел в связи с выходом обновления на Полях сражений. Данные могут быть не полными или отображаться с задержкой."
 
@@ -917,7 +921,8 @@ msgstr ""
 #: web/views/battlegrounds.py:163 web/views/battlegrounds.py:223
 #: web/views/battlegrounds.py:284 web/views/battlegrounds.py:333
 #: web/views/battlegrounds.py:377 web/views/battlegrounds.py:393
-#: web/views/battlegrounds.py:451 web/views/battlegrounds.py:999
+#: web/views/battlegrounds.py:451 web/views/battlegrounds.py:822
+#: web/views/battlegrounds.py:1016
 msgid "Battlegrounds"
 msgstr "Поля сражений"
 
@@ -1044,36 +1049,36 @@ msgstr "Существо Полей сражений"
 msgid "No matching minion found."
 msgstr "Подходящих существ не найдено."
 
-#: web/views/battlegrounds.py:821
+#: web/views/battlegrounds.py:838
 msgid "Battlegrounds Compositions"
 msgstr "Составы Полей сражений"
 
-#: web/views/battlegrounds.py:827 web/views/battlegrounds.py:857
+#: web/views/battlegrounds.py:844 web/views/battlegrounds.py:874
 msgid "Battlegrounds Composition"
 msgstr "Состав Полей сражений"
 
-#: web/views/battlegrounds.py:850
+#: web/views/battlegrounds.py:867
 msgid "No matching live or lingering composition found."
 msgstr "Соответствующая транслируемая или транслированная ранее стратегия не найдена."
 
-#: web/views/battlegrounds.py:852
+#: web/views/battlegrounds.py:869
 msgid "No matching composition found."
 msgstr "Подходящий состав не найден."
 
-#: web/views/battlegrounds.py:951
+#: web/views/battlegrounds.py:968
 msgid "Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:970
+#: web/views/battlegrounds.py:987
 msgid "No matching comp found."
 msgstr ""
 
-#: web/views/battlegrounds.py:983
+#: web/views/battlegrounds.py:1000
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr ""
 
-#: web/views/battlegrounds.py:1063
+#: web/views/battlegrounds.py:1080
 msgid "My Battlegrounds Stats"
 msgstr ""
 
