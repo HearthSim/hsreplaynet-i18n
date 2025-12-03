@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-09-30T01:40:23.952897\n"
+"POT-Creation-Date: 2025-12-03T01:40:26.820110\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,15 +15,15 @@ msgstr ""
 "X-Crowdin-File: /quest_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 183\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-12-02 12:40\n"
+"PO-Revision-Date: 2025-12-03 12:40\n"
 
 #: Quest id 121945 | Guide id 41
 msgid "Finish this ASAP, even if it means staying down taverns to do so. 5 gold per turn is very very strong and will immediately catch you back up on lost value."
 msgstr "尽快做完任务，即使这意味着要待在低级酒馆里。每回合多5铸币非常非常强，可以立即让你弥补损失的经济。"
 
 #: Quest id 104670 | Guide id 6
-msgid "Carapace Undead is the best comp for this quest, playing around [[Friendly Geist||120219]] and [[Carapace Raiser||122479]]. Another option is Tier 4 Quilboars with Rylak/Jazzer, Piper and Bristler."
-msgstr "龟甲亡灵流是完成此任务的最佳流派，可配合[[友善的恶鬼||120219]]与[[龟甲祈唤师||122479]]使用。另一种选择是4本野猪人流，搭配双头飞龙/暗膘爵士乐手、刺头吹笛人和腐化的棘刺野猪使用。"
+msgid "Carapace Undead is the best comp for this quest, playing around [[Friendly Geist||120219]] and [[Carapace Raiser]]. Another option is Tier 4 Quilboars with Rylak/Jazzer, Piper and Bristler."
+msgstr "龟甲亡灵流是完成此任务的最佳流派，可配合[[友善的恶鬼||120219]]与[[龟甲祈唤师]]使用。另一种选择是4本野猪人流，搭配双头飞龙/暗膘爵士乐手、刺头吹笛人和腐化的棘刺野猪使用。"
 
 #: Quest id 95867 | Guide id 57
 msgid "Great highroll quest if you can live until then. You tend to keep 6 drops and chain triples."
@@ -54,8 +54,8 @@ msgid "Generically strong quest. Getting Sinstone/Pilfred Tome/Bloodsoaked Tome 
 msgstr "很强的任务。在拿到罪碑/偷来的神灯/浸血魔典时可以让你有机会打出爆炸回合。"
 
 #: Quest id 122015 | Guide id 49
-msgid "Need to pick with an avenge setup ([[Manasaber||98831]]/[[Icky Imp||74910]]) Then, finish quest as soon as possible."
-msgstr "需要搭配复仇体系选择（[[魔刃豹||98831]]/[[粗鄙小鬼||74910]]），然后尽快完成任务。"
+msgid "Need to pick with an avenge setup ([[Manasaber||98831]]/[[Icky Imp]]) Then, finish quest as soon as possible."
+msgstr "需要搭配复仇体系选择（[[魔刃豹||98831]]/[[粗鄙小鬼]]），然后尽快完成任务。"
 
 #: Quest id 97966 | Guide id 14
 msgid "Try to finish this ASAP. Turn 4-5 is great, turn 6 is average, turn 7+ is too slow. Used to \"buy\" a minion in shop for free each turn."
@@ -66,8 +66,8 @@ msgid "Insane if you can get a [[Brann Bronzebeard||96786]] at some point, so yo
 msgstr "如果你可以拿到[[布莱恩铜须||96786]]，那么这个任务强得离谱，因为你可以触发两次法术效果。"
 
 #: Quest id 90917 | Guide id 17
-msgid "Usually should only pick if the end of turn card is good, such as [[Felfire Conjurer||120299]] or [[Lost City Looter||122175]]. Unfortunately, theres not too many end of turn comps."
-msgstr "一般情况下，只能搭配很强的“回合结束时”随从，例如 [[邪火咒龙||120299]]或者 [[失落之城掠夺者||122175]]。可惜的是，没有多少“回合结束时\"流派。"
+msgid "Usually should only pick if the end of turn card is good, such as [[Felfire Conjurer||120299]] or [[Lost City Looter]]. Unfortunately, theres not too many end of turn comps."
+msgstr "一般情况下，只能搭配很强的“回合结束时”随从，例如 [[邪火咒龙||120299]]或者 [[失落之城掠夺者]]。可惜的是，没有多少“回合结束时\"流派。"
 
 #: Quest id 122014 | Guide id 44
 msgid "Try to finish this ASAP. Turn 7 and before is amazing, turn 8-9 is average, turn 10+ is too slow. Getting an early Candle or Pagle's Fishing Rod is game winning."
@@ -190,6 +190,6 @@ msgid "Generically okay quest, best done with a passive completion (Have minion 
 msgstr "还行的的任务。最好可以快速且被动地做完任务（例如随从攻击/死亡）。 作为灵活的雷诺英雄技能使用。"
 
 #: Quest id 110343 | Guide id 4
-msgid "Finish this quest ASAP. Start of turn 5-6 is amazing, start of turn 7-8 is average, start of turn 9+ is too late. Decent synergy with spell strategies such as [[Nalaa the Redeemer||104468]], [[Charging Czarina]], [[Sundered Matriarch||122672]] or [[Fire Forged Evoker||120301]]."
-msgstr "尽快做完任务。在5-6回合时做完任务时很强，在第7-8回合时做完任务中规中矩，9回合以后完成就太慢了。 与诸如[[救赎者娜拉||104468]]、[[蓄能女沙皇]]、[[破碎主母||122672]]或[[火铸唤魔师||120301]]等法术强化随从具有良好的协同效果。"
+msgid "Finish this quest ASAP. Start of turn 5-6 is amazing, start of turn 7-8 is average, start of turn 9+ is too late. Decent synergy with spell strategies such as [[Nalaa the Redeemer||104468]], [[Charging Czarina||110321]], [[Sundered Matriarch||122672]] or [[Fire Forged Evoker||120301]]."
+msgstr "尽快做完任务。在5-6回合时做完任务时很强，在第7-8回合时做完任务中规中矩，9回合以后完成就太慢了。 与诸如[[救赎者娜拉||104468]]、[[蓄能女沙皇||110321]]、[[破碎主母||122672]]或[[火铸唤魔师||120301]]等法术强化随从具有良好的协同效果。"
 

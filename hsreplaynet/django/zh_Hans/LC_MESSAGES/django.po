@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-29 01:40+0000\n"
-"PO-Revision-Date: 2025-12-02 12:40\n"
+"POT-Creation-Date: 2025-12-03 01:40+0000\n"
+"PO-Revision-Date: 2025-12-03 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -598,7 +598,7 @@ msgstr "英雄"
 msgid "Trinkets"
 msgstr "饰品"
 
-#: templates/navigation.html:103
+#: templates/navigation.html:103 web/views/battlegrounds.py:787
 msgid "Timewarp"
 msgstr "时空扭曲"
 
@@ -607,7 +607,7 @@ msgid "Darkmoon Prizes"
 msgstr "暗月奖品"
 
 #: templates/navigation.html:127 web/views/battlegrounds.py:164
-#: web/views/battlegrounds.py:990
+#: web/views/battlegrounds.py:989
 msgid "Comps"
 msgstr "流派"
 
@@ -933,8 +933,8 @@ msgstr "使用Tier7细致入微的酒馆战棋统计数据来提升你的游戏�
 #: web/views/battlegrounds.py:163 web/views/battlegrounds.py:223
 #: web/views/battlegrounds.py:284 web/views/battlegrounds.py:333
 #: web/views/battlegrounds.py:377 web/views/battlegrounds.py:393
-#: web/views/battlegrounds.py:451 web/views/battlegrounds.py:787
-#: web/views/battlegrounds.py:981
+#: web/views/battlegrounds.py:451 web/views/battlegrounds.py:786
+#: web/views/battlegrounds.py:980
 msgid "Battlegrounds"
 msgstr "酒馆战棋"
 
@@ -1061,36 +1061,44 @@ msgstr "酒馆战棋随从"
 msgid "No matching minion found."
 msgstr "未找到匹配的随从。"
 
-#: web/views/battlegrounds.py:803
+#: web/views/battlegrounds.py:778
+msgid "Battlegrounds Timewarp Cards"
+msgstr "酒馆战棋时空扭曲卡牌"
+
+#: web/views/battlegrounds.py:780
+msgid "Explore the Minions, Spells & Hero Powers available in each of the Timewarp Tavern shops"
+msgstr "探索每个时空扭曲酒馆商店中可用的随从、法术与英雄技能"
+
+#: web/views/battlegrounds.py:802
 msgid "Battlegrounds Compositions"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:809 web/views/battlegrounds.py:839
+#: web/views/battlegrounds.py:808 web/views/battlegrounds.py:838
 msgid "Battlegrounds Composition"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:832
+#: web/views/battlegrounds.py:831
 msgid "No matching live or lingering composition found."
 msgstr "没有找到匹配的流派。"
 
-#: web/views/battlegrounds.py:834
+#: web/views/battlegrounds.py:833
 msgid "No matching composition found."
 msgstr "没有找到对应的流派。"
 
-#: web/views/battlegrounds.py:933
+#: web/views/battlegrounds.py:932
 msgid "Battlegrounds Comp"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:952
+#: web/views/battlegrounds.py:951
 msgid "No matching comp found."
 msgstr "未找到匹配的流派。"
 
-#: web/views/battlegrounds.py:965
+#: web/views/battlegrounds.py:964
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr "{tribe_name} - {obj.name}"
 
-#: web/views/battlegrounds.py:1045
+#: web/views/battlegrounds.py:1044
 msgid "My Battlegrounds Stats"
 msgstr "我的酒馆战棋数据"
 
