@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-04 01:40\n"
+"POT-Creation-Date: 2025-12-05 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-12-04 12:40\n"
+"PO-Revision-Date: 2025-12-05 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/68/
 msgid "Mechs - Deathrattle"
@@ -23,7 +23,7 @@ msgstr "机械 - 亡语"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/68/
 msgid "Put as many volumizers on your mechs in combat as possible. [[Apexis Guardian||126820]] counts as 3 magnetics, reborning it double its power, and [[Monstrous Macaw||62230]] and [[Titus Rivendare||97408]] further multiply the magnetic count. Every fight, your board will be better and better because each combat will scale volumizers for future combats. Rolling for board improvements is usually better than buying volumizers from shop. You have the option to go [[Persistent Poet||108463]] plus Amalgam to keep Apexis Guardian stats."
-msgstr ""
+msgstr "尽可能多地在战斗中给你的机械贴上扩音机。[[Apexis Guardian||126820]]算作3个磁力，复生后威力翻倍，而[[Monstrous Macaw||62230]]和[[Titus Rivendare||97408]]会进一步增加磁力数量。每场战斗你的战局都会越来越好，因为每场战斗都会为未来的战斗强化扩音机。找场面强化通常比从商店直接购买扩音机更好。你可以选择[[Persistent Poet||108463]]加上融合怪来留住埃匹希斯卫士的属性。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/68/
 msgid "[[Apexis Guardian||126820]] + Titus/Macaw/Reborn"
@@ -45,7 +45,7 @@ msgstr "鱼人 - 手牌强化"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/67/
 msgid "First, scale a huge card in your hand. Most commonly you use [[Brann Bronzebeard||96786]] and cycling Murlocs to scale [[Bream Counter||98509]], but another option is to have a big minion on your board already and then tripling it. Then, you use [[Dramaloc||126643]] + [[Titus Rivendare||97408]] combo to multiply the amount stats in your hand. [[Bassgill||98926]] and [[Costume Enthusiast||126641]] are the best Murlocs to buff with Dramaloc because they additionally benefit from the big minion in hand. [[Monstrous Macaw||62230]] is another multiplier for Dramaloc, and [[Persistent Poet||108463]] plus amalgam is an option to keep Dramaloc stats."
-msgstr ""
+msgstr "首先，在你手牌中放一张巨大的随从。最常见的是使用[[Brann Bronzebeard||96786]]并循环鱼人牌来增强[[Bream Counter||98509]]，但另一种选择是在你的场上已经有一个巨大随从，然后将其三连不打出。接着使用[[Dramaloc||126643]] + [[Titus Rivendare||97408]]组合来复制你手牌中随从的属性值。[[Bassgill||98926]]和[[Costume Enthusiast||126641]]是用戏剧鱼人增强的最佳鱼人，因为它们还能额外受益于手牌中的巨大随从。[[Monstrous Macaw||62230]]是戏剧鱼人的另一个倍增器，而[[Persistent Poet||108463]]加上融合怪也是留住戏剧鱼人属性的选择。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/67/
 msgid "[[Brann Bronzebeard||96786]] + [[Bream Counter||98509]] + lots of economy"
@@ -59,13 +59,77 @@ msgstr "[[Brann Bronzebeard||96786]]"
 msgid "Buff Murloc in hand and multiply its stats"
 msgstr "强化手牌中的鱼人并复制其身材数值"
 
+#: name | https://hsreplay.net/battlegrounds/comps/70/
+msgid "Beasts - RDU"
+msgstr "野兽 - 自伤"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/70/
+msgid "Use [[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]] to generate lots of beasts every turn. [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], reborn, and [[Titus Rivendare||97408]] all amplify this effect. When you have your scaling setup with [[Rabid Panther||127111]] + [[Iridescent Skyblazer||107937]] or double Rabid Panther, start buying every single beast to scale your board."
+msgstr "使用 [[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]] 的组合每回合生成大量野兽。[[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], 复生和 [[Titus Rivendare||97408]] 都能增强此效果。当你用 [[Rabid Panther||127111]] + [[Iridescent Skyblazer||107937]] 或双狂乱的猎豹建立起成长体系时，开始购买所有野兽来扩大你的棋盘。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/70/
+msgid "[[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]] + [[Rabid Panther||127111]]"
+msgstr "[[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]] + [[Rabid Panther||127111]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/70/
+msgid "[[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]]\n"
+"[[Rabid Panther||127111]]"
+msgstr "[[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]]\n"
+"[[Rabid Panther||127111]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/70/
+msgid "Cycle beasts to damage themselves and scale"
+msgstr "循环使用野兽并对它们造成伤害来强化"
+
+#: name | https://hsreplay.net/battlegrounds/comps/69/
+msgid "Elementals - Rightmost Buff"
+msgstr "元素 - 最右强化"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/69/
+msgid "Brann provides economy for you to cycle cards which helps spend gold for [[Easterly Winds||126909]]. Cycle every free battlecry such as [[Refreshing Anomaly||64042]] and [[Tavern Tempest||64077]]. With this economy, you'll refresh a lot of times so [[Acid Rainfall||126171]] can benefit from the buffs of the rightmost card. [[Fleet Admiral Tethys||101122]] and [[Visionary Shipman||126810]] are additional tools to boost your economy."
+msgstr "布莱恩·铜须为你提供了更多经济来刷牌，从而为 [[Easterly Winds||126909]] 消耗铸币。循环使用所有免费的战吼，例如 [[Refreshing Anomaly||64042]] 和 [[Tavern Tempest||64077]]。凭借这种经济循环，你可以频繁刷新，使 [[Acid Rainfall||126171]] 能够获得酒馆最右侧随从的强化效果。[[Fleet Admiral Tethys||101122]] 和 [[Visionary Shipman||126810]] 是增强你经济的额外工具。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/69/
+msgid "[[Brann Bronzebeard||96786]] (good economy) + [[Easterly Winds||126909]]"
+msgstr "[[Brann Bronzebeard||96786]] (良好经济) + [[Easterly Winds||126909]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/69/
+msgid "[[Flaming Enforcer||126924]] + [[Waveling||126169]] midgame\n"
+"[[Brann Bronzebeard||96786]]"
+msgstr "[[Flaming Enforcer||126924]] + [[waveling||126169]] 中期过度\n"
+"[[Brann Bronzebeard||96786]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/69/
+msgid "Buff rightmost minion in shop to scale"
+msgstr "强化商店中最右边的随从"
+
+#: name | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Beasts - Summons"
+msgstr "野兽 - 召唤"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/12/
+msgid "[[Goldrinn, the Great Wolf||59955]] + [[Monstrous Macaw||62230]] and [[Titus Rivendare||97408]] gives a huge aura affect to all beasts you summon. Usually, you want to taunt and reborn the Goldrinn so the Macaw always procs it and it always dies. [[Indomitable Mount||113132]] is the best summon beast to run in this comp."
+msgstr "[[Goldrinn, the Great Wolf||59955]] + [[Monstrous Macaw||62230]] 和 [[Titus Rivendare||97408]] 会为所有你召唤的野兽提供强大的光环效果。通常你需要让戈德林获得嘲讽和复生，这样鹦鹉就能持续触发该效果，而戈德林也会不断死亡。[[Indomitable Mount||113132]] 是该流派中最佳的野兽召唤选择。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/12/
+msgid "[[Goldrinn, the Great Wolf||59955]] + beast summons ([[Indomitable Mount||113132]])"
+msgstr "[[Goldrinn, the Great Wolf||59955]] + 野兽召唤 ([[Indomitable Mount||113132]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Deathrattle Beasts Midgame ([[Bird Buddy||72055]])"
+msgstr "亡语野兽中期过度 ([[Bird Buddy||72055]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Scale summoned beasts in combat"
+msgstr "在战斗中召唤强化的野兽"
+
 #: name | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Murlocs - Venom Scam"
 msgstr "鱼人 - 下毒"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Aim to golden [[Bassgill||98926]] to summon one or two [[Operatic Belcher||101316]] from hand. Use [[Soul Splitter||95282]] to reborn [[Leeroy the Reckless||90425]]. Golden Soulsplitter can reborn two Leeroys."
-msgstr ""
+msgstr "购买所有的下毒单卡，尽可能击败对手以保住排名。保留你最强战力的卡牌（所以你才需要集中精力研究统计数据！），用可以各种能一换一的随从填充空余棋盘。目标是金色的 [[Bassgill||98926]] 能从手牌中召唤一到两个 [[Operatic Belcher||101316]]。使用 [[Soul Splitter||95282]] 让 [[Leeroy the Reckless||90425]] 复生。金色的灵魂切分者可以复生两个火车王。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
 msgid "When you have no future or are clearly getting outstatted"

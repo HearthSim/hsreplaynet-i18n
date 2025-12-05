@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-04 01:40\n"
+"POT-Creation-Date: 2025-12-05 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-12-04 12:40\n"
+"PO-Revision-Date: 2025-12-05 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/68/
 msgid "Mechs - Deathrattle"
@@ -56,6 +56,68 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Buff Murloc in hand and multiply its stats"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/70/
+msgid "Beasts - RDU"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/70/
+msgid "Use [[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]] to generate lots of beasts every turn. [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], reborn, and [[Titus Rivendare||97408]] all amplify this effect. When you have your scaling setup with [[Rabid Panther||127111]] + [[Iridescent Skyblazer||107937]] or double Rabid Panther, start buying every single beast to scale your board."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/70/
+msgid "[[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]] + [[Rabid Panther||127111]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/70/
+msgid "[[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]]\n"
+"[[Rabid Panther||127111]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/70/
+msgid "Cycle beasts to damage themselves and scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/69/
+msgid "Elementals - Rightmost Buff"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/69/
+msgid "Brann provides economy for you to cycle cards which helps spend gold for [[Easterly Winds||126909]]. Cycle every free battlecry such as [[Refreshing Anomaly||64042]] and [[Tavern Tempest||64077]]. With this economy, you'll refresh a lot of times so [[Acid Rainfall||126171]] can benefit from the buffs of the rightmost card. [[Fleet Admiral Tethys||101122]] and [[Visionary Shipman||126810]] are additional tools to boost your economy."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/69/
+msgid "[[Brann Bronzebeard||96786]] (good economy) + [[Easterly Winds||126909]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/69/
+msgid "[[Flaming Enforcer||126924]] + [[Waveling||126169]] midgame\n"
+"[[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/69/
+msgid "Buff rightmost minion in shop to scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Beasts - Summons"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/12/
+msgid "[[Goldrinn, the Great Wolf||59955]] + [[Monstrous Macaw||62230]] and [[Titus Rivendare||97408]] gives a huge aura affect to all beasts you summon. Usually, you want to taunt and reborn the Goldrinn so the Macaw always procs it and it always dies. [[Indomitable Mount||113132]] is the best summon beast to run in this comp."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/12/
+msgid "[[Goldrinn, the Great Wolf||59955]] + beast summons ([[Indomitable Mount||113132]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Deathrattle Beasts Midgame ([[Bird Buddy||72055]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Scale summoned beasts in combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
