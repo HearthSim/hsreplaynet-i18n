@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-05 01:40\n"
+"POT-Creation-Date: 2025-12-06 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Japanese\n"
 "Language: ja\n"
@@ -15,7 +15,29 @@ msgstr ""
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-12-05 12:40\n"
+"PO-Revision-Date: 2025-12-06 12:40\n"
+
+#: name | https://hsreplay.net/battlegrounds/comps/71/
+msgid "Pirates - APM"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/71/
+msgid "This comp relies on going infinite and finding some way to turn that infinite gold to stats. A combination  of [[Fleet Admiral Tethys||101122]], [[Brann Bronzebeard||96786]], and [[Visionary Shipman||126810]] will generate you infinite gold. Buy every card this gives another gold on top of it, such as [[Sellemental||64038]], [[Patient Scout||97604]], and [[River Skipper||122092]] to maintain infinity. Most commonly you use [[Cannon Corsair||126812]] to scale your board while cycling infinite gold, but [[Gunpowder Courier||98889]] and [[Plankwalker||128086]] are other options as well. ADVANCED: Keep an [[Air Revenant||126173]] on your board and pivot to [[Acid Rainfall||126171]] when you see it, the scaling is much faster."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/71/
+msgid "[[Brann Bronzebeard||96786]] + [[Fleet Admiral Tethys||101122]]/[[Visionary Shipman||126810]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/71/
+msgid "[[Fleet Admiral Tethys||101122]]\n"
+"[[Visionary Shipman||126810]]\n"
+"[[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/71/
+msgid "Have infinite gold to scale"
+msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/68/
 msgid "Mechs - Deathrattle"
@@ -38,12 +60,54 @@ msgstr ""
 msgid "Magnetize huge magnetics in combat"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/58/
+msgid "Nagas - Deep Blue"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/58/
+msgid "Roll for [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]], and [[Lava Lurker||80747]]. Put your spellcrafts on your Lava Lurker to gain permanent stats. [[Bluesy Siren||127229]] on 6 further scales your deep blues and provides a lot of tempo. After you have golden versions of everything, start filling out the rest of your board with scam such as [[Leeroy the Reckless||90425]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/58/
+msgid "Early [[Deep Blue Crooner||98886]]/[[Bluesy Siren||127229]] + [[Zesty Shaker||99054]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/58/
+msgid "[[Deep Blue Crooner||98886]]\n"
+"[[Zesty Shaker||99054]]\n"
+"[[Bluesy Siren||127229]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/58/
+msgid "Scale Naga's spellcraft"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/62/
+msgid "Pirates - Eudora"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/62/
+msgid "*MUST HAVE BEASTS* Proc [[Ship Master Eudora||123595]] extra times with effects such as [[Titus Rivendare||97408]] and [[Monstrous Macaw||62230]]. Macaw and Titus needs to be golden for this strat to work decent. Fill in the rest of your board with various goldens as well, usually its [[Aureate Laureate||119996]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/62/
+msgid "[[Ship Master Eudora||123595]] + [[Monstrous Macaw||62230]] + [[Titus Rivendare||97408]] + some goldens"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/62/
+msgid "[[Ship Master Eudora||123595]] + some goldens"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/62/
+msgid "Scale golden cards in combat"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - Hand Buff"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/67/
-msgid "First, scale a huge card in your hand. Most commonly you use [[Brann Bronzebeard||96786]] and cycling Murlocs to scale [[Bream Counter||98509]], but another option is to have a big minion on your board already and then tripling it. Then, you use [[Dramaloc||126643]] + [[Titus Rivendare||97408]] combo to multiply the amount stats in your hand. [[Bassgill||98926]] and [[Costume Enthusiast||126641]] are the best Murlocs to buff with Dramaloc because they additionally benefit from the big minion in hand. [[Monstrous Macaw||62230]] is another multiplier for Dramaloc, and [[Persistent Poet||108463]] plus amalgam is an option to keep Dramaloc stats."
+msgid "First, scale a huge card in your hand. Most commonly you use [[Brann Bronzebeard||96786]] and cycling Murlocs to scale [[Bream Counter||98509]], but another option is to have a big minion on your board already and then tripling it. Both [[Bassgill||98926]] and [[Costume Enthusiast||126641]] benefit from the big minion in hand. Additionally buy every [[Operatic Belcher||101316]] in the lategame to either pull from Bassgill or end on."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/67/
