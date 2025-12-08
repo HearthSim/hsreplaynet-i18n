@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-06 01:40\n"
+"POT-Creation-Date: 2025-12-08 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-12-06 12:40\n"
+"PO-Revision-Date: 2025-12-08 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/71/
 msgid "Pirates - APM"
@@ -40,6 +40,48 @@ msgstr "[[Fleet Admiral Tethys||101122]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/71/
 msgid "Have infinite gold to scale"
 msgstr "有无限铸币用来成长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Beasts - Burrower"
+msgstr "野兽 - 钻地虫"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Must play with a EARLY [[Silithid Burrower||108547]] with an avenge setup. Spend your first 2 or 3 turns with Burrower in the back scaling it up. In the meantime, roll for the core cards of your comp. At some point, cut your avenge setup for trigger deathrattle effects on [[Silithid Burrower||108547]] with cards such as [[Monstrous Macaw||62230]] or [[Titus Rivendare||97408]]."
+msgstr "必须很早就打出 [[Silithid Burrower||108547]] ，并有初始的复仇能力。用最初的2~3个回合把钻地虫养大，与此同时，逐步加入核心卡到阵容中。在你觉得合适时，去掉复仇组件而专注于触发 [[Silithid Burrower||108547]] 的亡语，例如 [[Monstrous Macaw||62230]] 或 [[Titus Rivendare||97408]]。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/44/
+msgid "EARLY [[Silithid Burrower||108547]] + Avenge setup"
+msgstr "很早就打出 [[Silithid Burrower||108547]] ，并有初始的复仇能力"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Avenge setup ([[Manasaber||98831]])"
+msgstr "复仇组件([[Manasaber||98831]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/44/
+msgid "Make huge beasts in combat"
+msgstr "在战斗中制造强大的野兽"
+
+#: name | https://hsreplay.net/battlegrounds/comps/51/
+msgid "Demons - Damage"
+msgstr "恶魔 - 伤害"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/51/
+msgid "*BEST PLAYED WITH UNDEAD* [[Lord of the Ruins||122116]] and [[Devout Hellcaller||122586]] scale by having your demons deal damage to minions. The best way to do that is with [[Silent Enforcer||122605]] + [[Titus Rivendare||97408]], which damages all your opponent's minions at once. The Lord of Ruins combo also scaled your [[Sepulchral Sergeant||127490]] really really fast and adds thousands of health to your board. [[Tarecgosa||72062]] may be nice to keep stats, and [[Monstrous Macaw||62230]] may proc and Silent Enforcer or Sergeant, both good."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/51/
+msgid "[[Silent Enforcer||122605]] + Damage payoff ([[Lord of the Ruins||122116]])"
+msgstr "[[Silent Enforcer||122605]] + 受伤回报 ([[Lord of the Ruins||122116]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/51/
+msgid "Demon midgame ([[Wrath Weaver||59670]] + [[Devout Hellcaller||122586]])\n"
+"[[Lord of the Ruins||122116]]"
+msgstr "恶魔中期过度 ([[Wrath Weaver||59670]] + [[Devout Hellcaller||122586]])\n"
+"[[Lord of the Ruins||122116]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/51/
+msgid "Demons deal damage to buff board"
+msgstr "恶魔造成伤害来增强棋盘"
 
 #: name | https://hsreplay.net/battlegrounds/comps/68/
 msgid "Mechs - Deathrattle"
@@ -69,7 +111,7 @@ msgstr "纳迦 - 深沉蓝调"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/58/
 msgid "Roll for [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]], and [[Lava Lurker||80747]]. Put your spellcrafts on your Lava Lurker to gain permanent stats. [[Bluesy Siren||127229]] on 6 further scales your deep blues and provides a lot of tempo. After you have golden versions of everything, start filling out the rest of your board with scam such as [[Leeroy the Reckless||90425]]."
-msgstr ""
+msgstr "刷新酒馆只拿 [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]] 和 [[Lava Lurker||80747]]。将你的塑造法术施加在熔岩潜伏者上，以获得永久属性加成。 6级的[[Bluesy Siren||127229]] 能进一步成长你的深沉蓝调并提供大量节奏。当你拥有所有金色版本后，用烈毒填充你棋盘的其余部分，例如 [[Leeroy the Reckless||90425]]。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/58/
 msgid "Early [[Deep Blue Crooner||98886]]/[[Bluesy Siren||127229]] + [[Zesty Shaker||99054]]"
@@ -126,6 +168,26 @@ msgstr "[[Brann Bronzebeard||96786]]"
 #: summary | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Buff Murloc in hand and multiply its stats"
 msgstr "强化手牌中的鱼人并复制其身材数值"
+
+#: name | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Undead - Overflow"
+msgstr "亡灵 - 挤爆"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
+msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Use [[Monstrous Macaw||62230]] to further proc Cadaver's deathrattle."
+msgstr "当 [[Cadaver Caretaker||113158]] 的亡语被触发时，它会通过 [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] 的组合强化你的整个棋盘。使用 [[Monstrous Macaw||62230]]来进一步触发遗骸看管者的亡语。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+msgstr "挤爆随从 ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
+msgid "[[Cadaver Caretaker||113158]]"
+msgstr "[[Cadaver Caretaker||113158]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow your board to scale"
+msgstr "挤掉召唤物来成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/70/
 msgid "Beasts - RDU"
