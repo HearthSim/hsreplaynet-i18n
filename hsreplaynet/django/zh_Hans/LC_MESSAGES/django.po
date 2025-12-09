@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-07 01:40+0000\n"
-"PO-Revision-Date: 2025-12-08 12:40\n"
+"POT-Creation-Date: 2025-12-09 01:40+0000\n"
+"PO-Revision-Date: 2025-12-09 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -67,94 +67,94 @@ msgstr "字符串值过大。"
 msgid "{tribe_name} - {instance.name}"
 msgstr "{tribe_name} - {instance.name}"
 
-#: api/views/accounts.py:354
+#: api/views/accounts.py:353
 #, python-brace-format
 msgid "You have already applied this code to your account. Start your free subscription lasting {n} days now."
 msgstr "此代码已应用到你的账号里，现在启动你 {n} 天的免费订阅吧。"
 
-#: api/views/accounts.py:377
+#: api/views/accounts.py:376
 #, python-brace-format
 msgid "Code has been applied to your account. Your existing subscription has been extended by {n} days."
 msgstr "此代码已应用到你的账号里，你的已有订阅将延长 {n} 天。"
 
-#: api/views/accounts.py:383
+#: api/views/accounts.py:382
 #, python-brace-format
 msgid "Code has been applied to your account. You can now start a free subscription lasting {n} days."
 msgstr "此代码已应用到你的账号里，现在你已有免费的订阅，持续 {n} 天。"
 
-#: api/views/accounts.py:391
+#: api/views/accounts.py:390
 msgid "This code has already been redeemed."
 msgstr "此代码已被兑换。"
 
-#: api/views/accounts.py:394
+#: api/views/accounts.py:393
 msgid "This code is not compatible with your existing subscription."
 msgstr "此代码与您现有的订阅不兼容。"
 
-#: api/views/accounts.py:397
+#: api/views/accounts.py:396
 msgid "This code has expired."
 msgstr "此代码已过期。"
 
-#: api/views/accounts.py:400
+#: api/views/accounts.py:399
 msgid "You have used the maximum number of codes from this campaign."
 msgstr "您已经达到了活动的代码最大兑换次数。"
 
-#: api/views/accounts.py:405
+#: api/views/accounts.py:404
 msgid "You have already redeemed a code for this product. Start a subscription before redeeming this code."
 msgstr "您已经为该产品兑换了一个代码。在兑换此代码之前先开始订阅。"
 
-#: api/views/accounts.py:416
+#: api/views/accounts.py:415
 msgid "This code is unknown."
 msgstr "此激活码未知。"
 
-#: api/views/accounts.py:426
+#: api/views/accounts.py:425
 msgid "You have already applied this code to your account."
 msgstr "您已经将此激活码应用到您的账号。"
 
-#: api/views/accounts.py:433
+#: api/views/accounts.py:432
 msgid "Code has been applied to your account."
 msgstr "激活码使用成功。"
 
-#: settings.py:423
+#: settings.py:422
 msgid "Full access to your HSReplay.net account"
 msgstr "完全访问您的HSReplay.net帐户"
 
-#: settings.py:424
+#: settings.py:423
 msgid "Access information about your connected social accounts"
 msgstr "访问您已连接的社交帐户的信息"
 
-#: settings.py:425
+#: settings.py:424
 msgid "View your Hearthstone card collection"
 msgstr "查看您的炉石卡牌收藏"
 
-#: settings.py:426
+#: settings.py:425
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "上传您的炉石卡牌收藏到网站"
 
-#: settings.py:427
+#: settings.py:426
 msgid "View your replays"
 msgstr "查看您的回放"
 
-#: settings.py:428
+#: settings.py:427
 msgid "Update and delete your replays"
 msgstr "更新和删除您的回放"
 
-#: settings.py:429
+#: settings.py:428
 msgid "Access the Partner API"
 msgstr "获取合作伙伴的API"
 
-#: settings.py:430
+#: settings.py:429
 msgid "Read access to the tournaments service"
 msgstr "获得锦标赛服务的读取权限"
 
-#: settings.py:431
+#: settings.py:430
 msgid "Write access to the tournaments service"
 msgstr "获得锦标赛服务的写入权限"
 
-#: settings.py:432
+#: settings.py:431
 msgid "View your webhooks"
 msgstr "查看您的 webhooks"
 
-#: settings.py:433
+#: settings.py:432
 msgid "Create and delete webhooks on your behalf"
 msgstr "为您创建和删除 webhooks"
 
@@ -598,7 +598,7 @@ msgstr "英雄"
 msgid "Trinkets"
 msgstr "饰品"
 
-#: templates/navigation.html:103 web/views/battlegrounds.py:785
+#: templates/navigation.html:103 web/views/battlegrounds.py:779
 msgid "Timewarp"
 msgstr "时空扭曲"
 
@@ -612,7 +612,7 @@ msgid "Darkmoon Prizes"
 msgstr "暗月奖品"
 
 #: templates/navigation.html:128 web/views/battlegrounds.py:164
-#: web/views/battlegrounds.py:987
+#: web/views/battlegrounds.py:981
 msgid "Comps"
 msgstr "流派"
 
@@ -934,7 +934,7 @@ msgstr "使用Tier7细致入微的酒馆战棋统计数据来提升你的游戏�
 #: web/views/battlegrounds.py:284 web/views/battlegrounds.py:333
 #: web/views/battlegrounds.py:377 web/views/battlegrounds.py:393
 #: web/views/battlegrounds.py:451 web/views/battlegrounds.py:611
-#: web/views/battlegrounds.py:784 web/views/battlegrounds.py:978
+#: web/views/battlegrounds.py:778 web/views/battlegrounds.py:972
 msgid "Battlegrounds"
 msgstr "酒馆战棋"
 
@@ -1053,52 +1053,52 @@ msgstr "酒馆战棋{tier}级随从"
 msgid "Battlegrounds Tier {tier} {type} Minions"
 msgstr "酒馆战棋{tier}级{type}随从"
 
-#: web/views/battlegrounds.py:695 web/views/battlegrounds.py:729
+#: web/views/battlegrounds.py:695 web/views/battlegrounds.py:723
 msgid "Battlegrounds Minion"
 msgstr "酒馆战棋随从"
 
-#: web/views/battlegrounds.py:721
+#: web/views/battlegrounds.py:715
 msgid "No matching minion found."
 msgstr "未找到匹配的随从。"
 
-#: web/views/battlegrounds.py:776
+#: web/views/battlegrounds.py:770
 msgid "Battlegrounds Timewarped Cards"
 msgstr "酒馆战棋时空扭曲卡牌"
 
-#: web/views/battlegrounds.py:778
+#: web/views/battlegrounds.py:772
 msgid "Explore the Minions, Spells & Hero Powers available in each of the Timewarped Tavern shops"
 msgstr "探索时空扭曲酒馆商店中可用的随从、法术与英雄技能"
 
-#: web/views/battlegrounds.py:800
+#: web/views/battlegrounds.py:794
 msgid "Battlegrounds Compositions"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:806 web/views/battlegrounds.py:836
+#: web/views/battlegrounds.py:800 web/views/battlegrounds.py:830
 msgid "Battlegrounds Composition"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:829
+#: web/views/battlegrounds.py:823
 msgid "No matching live or lingering composition found."
 msgstr "没有找到匹配的流派。"
 
-#: web/views/battlegrounds.py:831
+#: web/views/battlegrounds.py:825
 msgid "No matching composition found."
 msgstr "没有找到对应的流派。"
 
-#: web/views/battlegrounds.py:930
+#: web/views/battlegrounds.py:924
 msgid "Battlegrounds Comp"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:949
+#: web/views/battlegrounds.py:943
 msgid "No matching comp found."
 msgstr "未找到匹配的流派。"
 
-#: web/views/battlegrounds.py:962
+#: web/views/battlegrounds.py:956
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr "{tribe_name} - {obj.name}"
 
-#: web/views/battlegrounds.py:1042
+#: web/views/battlegrounds.py:1036
 msgid "My Battlegrounds Stats"
 msgstr "我的酒馆战棋数据"
 

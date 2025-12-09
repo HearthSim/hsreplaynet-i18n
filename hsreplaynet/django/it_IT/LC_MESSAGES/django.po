@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-07 01:40+0000\n"
-"PO-Revision-Date: 2025-12-07 12:40\n"
+"POT-Creation-Date: 2025-12-09 01:40+0000\n"
+"PO-Revision-Date: 2025-12-09 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -67,94 +67,94 @@ msgstr ""
 msgid "{tribe_name} - {instance.name}"
 msgstr ""
 
-#: api/views/accounts.py:354
+#: api/views/accounts.py:353
 #, python-brace-format
 msgid "You have already applied this code to your account. Start your free subscription lasting {n} days now."
 msgstr ""
 
-#: api/views/accounts.py:377
+#: api/views/accounts.py:376
 #, python-brace-format
 msgid "Code has been applied to your account. Your existing subscription has been extended by {n} days."
 msgstr ""
 
-#: api/views/accounts.py:383
+#: api/views/accounts.py:382
 #, python-brace-format
 msgid "Code has been applied to your account. You can now start a free subscription lasting {n} days."
 msgstr ""
 
-#: api/views/accounts.py:391
+#: api/views/accounts.py:390
 msgid "This code has already been redeemed."
 msgstr ""
 
-#: api/views/accounts.py:394
+#: api/views/accounts.py:393
 msgid "This code is not compatible with your existing subscription."
 msgstr ""
 
-#: api/views/accounts.py:397
+#: api/views/accounts.py:396
 msgid "This code has expired."
 msgstr ""
 
-#: api/views/accounts.py:400
+#: api/views/accounts.py:399
 msgid "You have used the maximum number of codes from this campaign."
 msgstr ""
 
-#: api/views/accounts.py:405
+#: api/views/accounts.py:404
 msgid "You have already redeemed a code for this product. Start a subscription before redeeming this code."
 msgstr ""
 
-#: api/views/accounts.py:416
+#: api/views/accounts.py:415
 msgid "This code is unknown."
 msgstr ""
 
-#: api/views/accounts.py:426
+#: api/views/accounts.py:425
 msgid "You have already applied this code to your account."
 msgstr ""
 
-#: api/views/accounts.py:433
+#: api/views/accounts.py:432
 msgid "Code has been applied to your account."
 msgstr "Il codice è stato applicato al tuo account."
 
-#: settings.py:423
+#: settings.py:422
 msgid "Full access to your HSReplay.net account"
 msgstr "Accesso completo al tuo account HSReplay.net"
 
-#: settings.py:424
+#: settings.py:423
 msgid "Access information about your connected social accounts"
 msgstr "Accedi alle informazioni sui tuoi account social connessi"
 
-#: settings.py:425
+#: settings.py:424
 msgid "View your Hearthstone card collection"
 msgstr "Vedi la tua collezione di carte di Hearthstone"
 
-#: settings.py:426
+#: settings.py:425
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Carica la tua collezione di carte di Hearthstone sul sito"
 
-#: settings.py:427
+#: settings.py:426
 msgid "View your replays"
 msgstr "Visualizza i tuoi replay"
 
-#: settings.py:428
+#: settings.py:427
 msgid "Update and delete your replays"
 msgstr "Aggiorna ed elimina i tuoi replay"
 
-#: settings.py:429
+#: settings.py:428
 msgid "Access the Partner API"
 msgstr "Accedi all'API dei Partner"
 
-#: settings.py:430
+#: settings.py:429
 msgid "Read access to the tournaments service"
 msgstr "Accesso in modalità sola lettura al servizio tornei"
 
-#: settings.py:431
+#: settings.py:430
 msgid "Write access to the tournaments service"
 msgstr "Accesso in modalità scrittura al servizio tornei"
 
-#: settings.py:432
+#: settings.py:431
 msgid "View your webhooks"
 msgstr "Visualizza i tuoi webhooks"
 
-#: settings.py:433
+#: settings.py:432
 msgid "Create and delete webhooks on your behalf"
 msgstr "Crea ed elimina i webhooks per tuo conto"
 
@@ -586,7 +586,7 @@ msgstr "Eroi"
 msgid "Trinkets"
 msgstr "Monili"
 
-#: templates/navigation.html:103 web/views/battlegrounds.py:785
+#: templates/navigation.html:103 web/views/battlegrounds.py:779
 msgid "Timewarp"
 msgstr ""
 
@@ -600,7 +600,7 @@ msgid "Darkmoon Prizes"
 msgstr "Premi di Lunacupa"
 
 #: templates/navigation.html:128 web/views/battlegrounds.py:164
-#: web/views/battlegrounds.py:987
+#: web/views/battlegrounds.py:981
 msgid "Comps"
 msgstr ""
 
@@ -922,7 +922,7 @@ msgstr "Alza di livello il tuo stile di gioco con le statistiche di Battaglia al
 #: web/views/battlegrounds.py:284 web/views/battlegrounds.py:333
 #: web/views/battlegrounds.py:377 web/views/battlegrounds.py:393
 #: web/views/battlegrounds.py:451 web/views/battlegrounds.py:611
-#: web/views/battlegrounds.py:784 web/views/battlegrounds.py:978
+#: web/views/battlegrounds.py:778 web/views/battlegrounds.py:972
 msgid "Battlegrounds"
 msgstr "Battlegrorounds"
 
@@ -1041,52 +1041,52 @@ msgstr ""
 msgid "Battlegrounds Tier {tier} {type} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:695 web/views/battlegrounds.py:729
+#: web/views/battlegrounds.py:695 web/views/battlegrounds.py:723
 msgid "Battlegrounds Minion"
 msgstr "Creatura del Battelgrounds"
 
-#: web/views/battlegrounds.py:721
+#: web/views/battlegrounds.py:715
 msgid "No matching minion found."
 msgstr "Nessuna corrispondenza con la creatura trovata."
 
-#: web/views/battlegrounds.py:776
+#: web/views/battlegrounds.py:770
 msgid "Battlegrounds Timewarped Cards"
 msgstr ""
 
-#: web/views/battlegrounds.py:778
+#: web/views/battlegrounds.py:772
 msgid "Explore the Minions, Spells & Hero Powers available in each of the Timewarped Tavern shops"
 msgstr ""
 
-#: web/views/battlegrounds.py:800
+#: web/views/battlegrounds.py:794
 msgid "Battlegrounds Compositions"
 msgstr "Composizioni del Battelgrounds"
 
-#: web/views/battlegrounds.py:806 web/views/battlegrounds.py:836
+#: web/views/battlegrounds.py:800 web/views/battlegrounds.py:830
 msgid "Battlegrounds Composition"
 msgstr "Composizione Battleground"
 
-#: web/views/battlegrounds.py:829
+#: web/views/battlegrounds.py:823
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:831
+#: web/views/battlegrounds.py:825
 msgid "No matching composition found."
 msgstr "Nessuna composizione corrispondente trovata."
 
-#: web/views/battlegrounds.py:930
+#: web/views/battlegrounds.py:924
 msgid "Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:949
+#: web/views/battlegrounds.py:943
 msgid "No matching comp found."
 msgstr ""
 
-#: web/views/battlegrounds.py:962
+#: web/views/battlegrounds.py:956
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr ""
 
-#: web/views/battlegrounds.py:1042
+#: web/views/battlegrounds.py:1036
 msgid "My Battlegrounds Stats"
 msgstr "Le mie statistiche di Battaglia"
 
