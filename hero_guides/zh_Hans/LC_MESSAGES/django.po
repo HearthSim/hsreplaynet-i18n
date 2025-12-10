@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-03T01:40:26.293153\n"
+"POT-Creation-Date: 2025-12-10T01:40:26.860161\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-12-08 12:40\n"
+"PO-Revision-Date: 2025-12-10 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/117425/ Hero id 117425 | Guide id
 #: 696
@@ -87,15 +87,15 @@ msgstr "你的英雄技能会帮你少掉点血，但别玩它。"
 msgid "Strong hero power used to fill out your board in the early game, and duplicate key cards for your board in the mid-late game."
 msgstr "强大的英雄能力可在前期填满你的棋盘，并在中后期为你的棋盘复制关键卡牌。"
 
-#: https://hsreplay.net/battlegrounds/heroes/61910/ Hero id 61910 | Guide id
-#: 86
-msgid "The more summons your board has, the more attacks will happen. Value cards that summon such as [[Manasaber||98831]] or [[Icky Imp]] in the earlygame."
-msgstr "你的棋盘上有越多的召唤物就会有越多的攻击次数。在早期游戏中要重视[[魔刃豹||98831]]或[[粗鄙小鬼]]等召唤牌。"
-
 #: https://hsreplay.net/battlegrounds/heroes/84867/ Hero id 84867 | Guide id
 #: 322
 msgid "After turn 1, keep track of everyone's tavern 1 unit! Murloc Holmes might have you choose between tier 1 units in the first few turns."
 msgstr "第1回合后，记录每个人的酒馆1级随从！摩洛克·福尔摩斯可能会在前几个回合让你在1级随从中做出选择。"
+
+#: https://hsreplay.net/battlegrounds/heroes/61910/ Hero id 61910 | Guide id
+#: 86
+msgid "The more summons your board has, the more attacks will happen. Value cards that summon such as [[Manasaber||98831]] or [[Harmless Bonehead||104551]] in the earlygame."
+msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/101130/ Hero id 101130 | Guide id
 #: 452
@@ -174,8 +174,8 @@ msgstr "确保你用[[巨型金刚鹦鹉||62230]]或[[陆行鸟先锋]]来触发
 
 #: https://hsreplay.net/battlegrounds/heroes/57944/ Hero id 57944 | Guide id
 #: 27
-msgid "Value generator 4 drops are by far the best ones, such as [[Bigwig Bandit]] or [[Campfire Shadow]]. Same thing with value generating 3 drops, such as [[Lost City Looter]]."
-msgstr "生成资源的4级随从无疑是最好的，例如[[顶尖大盗]]或[[营火幽影]]。生成资源的3级随从也是如此，例如[[失落之城掠夺者]]。"
+msgid "Value generator or scaling 4 drops are by far the best ones, such as [[Deep Blue Crooner||98886]] or [[Witchwing Nestmatron||76185]]. Same thing with value generating 3 drops, such as [[Coilskar Snaketongue]]."
+msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/60214/ Hero id 60214 | Guide id
 #: 125
@@ -227,14 +227,14 @@ msgstr "我建议先选择 1-3 的航线，以便与你的伙伴配合发现。"
 msgid "It's worth buying the highest attack units in your shop and pointy arrows to complete your quest ASAP. You ideally want this quest done turn 6 the latest. Then, start leveling and force a Naga comp."
 msgstr "建议在商店中购买攻击力最高的单位和尖利箭矢，以尽快完成任务。理想情况下，应在第6回合前完成该任务。随后，开始升级并组建纳迦流派。"
 
+#: https://hsreplay.net/battlegrounds/heroes/64403/ Hero id 64403 | Guide id 5
+msgid "Rally units are really nice with this hero power to attack twice with them, most commonly [[Monstrous Macaw||62230]]."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/85125/ Hero id 85125 | Guide id
 #: 293
 msgid "This hero provides free early game tempo. Overall decent."
 msgstr "这个英雄在前期能提供免费的节奏。整体表现不错。"
-
-#: https://hsreplay.net/battlegrounds/heroes/64403/ Hero id 64403 | Guide id 5
-msgid "Rally units are really nice with this hero power to attack twice with them."
-msgstr "使用这个英雄技能时，进击单位可以进行两次攻击，效果非常不错。"
 
 #: https://hsreplay.net/battlegrounds/heroes/60362/ Hero id 60362 | Guide id
 #: 127
@@ -265,6 +265,11 @@ msgstr "始终思考你的下一回合！在第1回合，冻结一个2费法术�
 msgid "Hero power when it works out goldwise. For example, on turn 4 you may level to tavern 3 and hero power for 1. When your hero power costs 5, stop hero powering."
 msgstr "在铸币充足的情况下使用英雄技能。例如，在第4回合，你可以升到3级酒馆并用1铸币使用英雄技能。当英雄技能耗费5铸币时，停止使用英雄技能。"
 
+#: https://hsreplay.net/battlegrounds/heroes/62266/ Hero id 62266 | Guide id
+#: 49
+msgid "Hero power mainly used to target high tier battlecries such as [[Rodeo Performer||104466]] for the discovery."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/57634/ Hero id 57634 | Guide id
 #: 109
 msgid "Illidan is great with Rally cards because attacking first with them is quite important. It also allows for you to proc important rallys twice."
@@ -274,11 +279,6 @@ msgstr "伊利丹非常适合使用进击卡，因为用它们先手攻击非常
 #: 12
 msgid "Patchwerk 2.0, only press this hero power if you don't have a better way to spend 1 gold on maybe on turns 3, 4, or 5. The hero power is decent with Drakkari Enchanter because it upgrades twice and procs twice."
 msgstr "帕奇维克2.0，只有在第 3、4 或 5 回合没有更好的1铸币使用方式时才使用这个英雄技能。配合达卡莱附魔师时，这个英雄技能相当不错，因为它能升级两次并触发两次效果。"
-
-#: https://hsreplay.net/battlegrounds/heroes/62266/ Hero id 62266 | Guide id
-#: 49
-msgid "ONLY PICKABLE WITH BEASTS! Hero power 1 drops the first few turns and try to discover [[Southsea Busker]], [[Ominous Seer||117553]], or [[Alleycat]]. Then, you can hero power the battlecry minion again and try to discover more battlecries."
-msgstr "只在野兽局才选！在前几个回合对1级随从使用英雄技能并尝试发现 [[南海卖艺者]], [[厄运先知||117553]], 或 [[雄斑虎]]。然后你就可以再次对战吼随从使用英雄技能，并尝试发现更多战吼。"
 
 #: https://hsreplay.net/battlegrounds/heroes/59806/ Hero id 59806 | Guide id
 #: 118
@@ -334,6 +334,10 @@ msgstr "在游戏初期将香蕉用在优质的随从上，以便在游戏初期
 msgid "The most common curve with this hero is to level hero power on turn 4, so turn 5 you can buy 2 good 4 drops, and play the game from there."
 msgstr "这个英雄最常见的曲线是在第4回合升级，在第5回合你就可以买到2个不错的4级随从，然后从此开始游戏。"
 
+#: https://hsreplay.net/battlegrounds/heroes/64475/ Hero id 64475 | Guide id 6
+msgid "Try not to spend a lot of money leveling on this hero. You can buy elementals, and then level to taverns 5 or 6 when it's 3 or less gold."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/57893/ Hero id 57893 | Guide id
 #: 111
 msgid "Hero power the first 6 turns (except turn 2), and be tavern 4 by turn 6. Then, you don't have to hero power every turn, only when the tribe is useful to you."
@@ -343,10 +347,6 @@ msgstr "前6个回合（除了第2回合）都使用英雄技能，到第6回合
 #: 121
 msgid "Hero power on turns 1, 3, 4, and 5, and possibly 6 to fill out your board. On turn 2 you should level. After that, forget about the hero power."
 msgstr "在第 1、3、4和5回合使用英雄技能，必要时在第6回合也使用以铺满你的棋盘。第2回合你应该升级。之后就别再使用英雄技能了。"
-
-#: https://hsreplay.net/battlegrounds/heroes/64475/ Hero id 64475 | Guide id 6
-msgid "Try not to spend a lot of money leveling on this hero. You can buy elementals, and then level to taverns 4, 5 or 6 when it's 3 or less gold."
-msgstr "尽量不要在这个英雄身上花很多钱升级。你可以一直购买元素，然后在升级只要3或2以下铸币时升到4、5或6级酒馆。"
 
 #: https://hsreplay.net/battlegrounds/heroes/61912/ Hero id 61912 | Guide id
 #: 45
@@ -420,8 +420,8 @@ msgstr "如果你在早期/中期游戏时剩余 1 金币（例如第 3 回合�
 
 #: https://hsreplay.net/battlegrounds/heroes/81569/ Hero id 81569 | Guide id
 #: 222
-msgid "Very often the curve on this hero is to level to tavern 3 on turn 4 and level to 4 on turn 5 so you can unlock your 4 drop as soon as possible. The best 4 drops to pick are the ones that generate value every turn such as [[Bigwig Bandit]]."
-msgstr "这个英雄的曲线通常是在第4回合升到3级酒馆，然后在第5回合升到4级，这样就能尽快解锁4级随从。最好选择每回合都能产生经济的4级随从，例如 [[顶尖大盗]]。"
+msgid "Very often the curve on this hero is to level to tavern 3 on turn 4 and level to 4 on turn 5 so you can unlock your 4 drop as soon as possible. The best 4 drops to pick are the ones that generate value every turn such as [[Witchwing Nestmatron||76185]]."
+msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/77516/ Hero id 77516 | Guide id
 #: 142
