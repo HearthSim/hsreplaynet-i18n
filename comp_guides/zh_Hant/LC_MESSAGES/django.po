@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-13 01:40\n"
+"POT-Creation-Date: 2025-12-14 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh\n"
@@ -15,14 +15,14 @@ msgstr ""
 "X-Crowdin-Language: zh-TW\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-12-13 12:40\n"
+"PO-Revision-Date: 2025-12-14 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/71/
 msgid "Pirates - APM"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/71/
-msgid "This comp relies on going infinite and finding some way to turn that infinite gold to stats. A combination  of [[Fleet Admiral Tethys||101122]], [[Brann Bronzebeard||96786]], and [[Visionary Shipman||126810]] will generate you infinite gold. Buy every card this gives another gold on top of it, such as [[Sellemental||64038]], [[Patient Scout||97604]], and [[River Skipper||122092]] to maintain infinity. Most commonly you use [[Cannon Corsair||126812]] to scale your board while cycling infinite gold, but [[Gunpowder Courier||98889]] and [[Plankwalker||128086]] are other options as well. ADVANCED: Keep an [[Air Revenant||126173]] on your board and pivot to [[Acid Rainfall||126171]] when you see it, the scaling is much faster."
+msgid "This comp relies on going infinite and finding some way to turn that infinite gold to stats. A combination  of [[Fleet Admiral Tethys||101122]], [[Brann Bronzebeard||96786]], and [[Visionary Shipman||126810]] will generate you infinite gold. Buy every card this gives another gold on top of it, such as [[Sellemental||64038]], [[Patient Scout||97604]], and [[River Skipper||122092]] to maintain infinity. Most commonly you use [[Cannon Corsair||126812]] and [[Dastardly Drust||119992]] to scale your board while cycling infinite gold, but [[Gunpowder Courier||98889]] and [[Plankwalker||128086]] are other options as well. ADVANCED: Keep an [[Air Revenant||126173]] on your board and pivot to [[Acid Rainfall||126171]] when you see it, the scaling is much faster. Or you can eat pirates onto [[Stuntdrake||127238]] and then play avenge minions."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/71/
@@ -37,6 +37,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/71/
 msgid "Have infinite gold to scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Undead - Attack Scaling"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Scale the attack of your Undeads and summons with [[Forsaken Weaver||126733]]. Your spell generation may come from [[Wintergrasp Ghoul||126955]], [[Spirit Drake||128084]] or [[Carapace Raiser||122479]]. Your quality of summons come from [[Handless Forsaken||95265]] and [[Deathly Striker||115610]]. Be sure to reborn as many key undeads as possible, starting from [[Wintergrasp Ghoul||126955]] and [[Handless Forsaken||95265]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Attack Scaling ([[Forsaken Weaver||126733]]) + Spell Generation ([[Spirit Drake||128084]]/[[Wintergrasp Ghoul||126955]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
+msgid "[[Deathly Striker||115610]] \n"
+"[[Spirit Drake||128084]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Summon high attack Undeads"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/44/
@@ -57,6 +78,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/44/
 msgid "Make huge beasts in combat"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/52/
+msgid "Undead - Carapace"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/52/
+msgid "Buff the Attack of Tavern Spells with [[Friendly Geist||120219]], and generate [[Haunted Carapace||122489]] spells using [[Carapace Raiser||122479]]. Titus is crucial because it double both of those effects. These spells will buff your board AND summons a ton of attack, so you want the rest of your board to be token spawners, such as [[Handless Forsaken||95265]]. Finally, use [[Prosthetic Hand||112364]] to reborn your core Undeads."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/52/
+msgid "[[Titus Rivendare||97408]]/[[Friendly Geist||120219]] + [[Carapace Raiser||122479]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/52/
+msgid "[[Carapace Raiser||122479]]\n"
+"[[Friendly Geist||120219]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/52/
+msgid "Buff summons using spells."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/51/
@@ -123,6 +165,26 @@ msgstr ""
 msgid "Scale Naga's spellcraft"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Mechs - Divine Shield"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Use [[Whirling Lass-o-Matic||110668]] primarily to generate spells, but [[Marquee Ticker||115680]] and [[Industrious Deckhand||126808]] are good options too. Then, use [[Charging Czarina||110321]] to convert these spells into attack buffs for your divine shields, such as [[Deflect-o-Bot||61930]] and [[Greasebot||72389]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Spell Generation ([[Whirling Lass-o-matic||110668]]) + [[Charging Czarina||110321]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Divine Shields ([[Deflect-o-bot||61930]], [[Grease bot||72389]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/21/
+msgid "Play spells to buff Mechs"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/62/
 msgid "Pirates - Eudora"
 msgstr ""
@@ -143,12 +205,32 @@ msgstr ""
 msgid "Scale golden cards in combat"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/72/
+msgid "Quilboar - Gem Barrage"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/72/
+msgid "First, scale your gems, typically through cycling [[Moon-bacon Jazzer||98930]] and [[Fearless Foodie||113154]] and keeping a [[Prickly Piper||98946]]. Then, scale shop using Gem Barrage. This is usually done with [[Titus Rivendare||97408]] + [[Razorfen Flapper||126667]] + [[Monstrous Macaw||62230]], but could be done with [[Rylak Metalhead||98829]] + [[Briarback Drummer||126669]] as well. Finally, the payoff for your buffed shops include [[Trench Fighter||126671]] so you can use your Gem Confiscation in shop to triple its stats, and [[Felboar||110664]] to eat buffed units in the shop."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/72/
+msgid "Gem scaling ([[Prickly Piper||98946]]) + Razorfen Flapper + payoff ([[Trench Fighter||126671]]/[[Felboar||110664]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/72/
+msgid "Gem scaling ([[Prickly Piper||98946]]/[[Moon Bacon Jazzer||98930]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/72/
+msgid "Make shop big with gems."
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - Hand Buff"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/67/
-msgid "First, scale a huge card in your hand. Most commonly you use [[Brann Bronzebeard||96786]] and cycling Murlocs to scale [[Bream Counter||98509]], but another option is to have a big minion on your board already and then tripling it. Both [[Bassgill||98926]] and [[Costume Enthusiast||126641]] benefit from the big minion in hand. Additionally buy every [[Operatic Belcher]] in the lategame to either pull from Bassgill or end on."
+msgid "First, scale a huge card in your hand. Most commonly you use [[Brann Bronzebeard||96786]] and cycling Murlocs to scale [[Bream Counter||98509]]. You usually have [[Mrglin' Burglar||114391]] and/or [[Primitive Painter||122281]] as supplementary scaling. Both [[Bassgill||98926]] and [[Costume Enthusiast||126641]] benefit from the big minion in hand. Additionally buy every [[Bile Spitter||122219]] in the lategame to either pull from Bassgill or end on."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/67/
@@ -252,11 +334,11 @@ msgid "Elementals - Rightmost Buff"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/69/
-msgid "Brann provides economy for you to cycle cards which helps spend gold for [[Easterly Winds||126909]]. Cycle every free battlecry such as [[Refreshing Anomaly||64042]] and [[Tavern Tempest||64077]]. With this economy, you'll refresh a lot of times so [[Acid Rainfall||126171]] can benefit from the buffs of the rightmost card. [[Fleet Admiral Tethys||101122]] and [[Visionary Shipman||126810]] are additional tools to boost your economy."
+msgid "Brann provides economy for you to cycle cards which helps spend gold for [[Air Revenant||126173]] to buff your rightmost minion. If you don't have [[Air Revenant||126173]], you can choose to use [[Rylak Metalhead||98829]] + [[En-Djinn Blazer||126175]] as well. Cycle every free battlecry such as [[Refreshing Anomaly||64042]] and [[Tavern Tempest||64077]]. With this economy, you'll refresh a lot of times so [[Acid Rainfall||126171]] can benefit from the buffs of the rightmost card. [[Fleet Admiral Tethys||101122]] and [[Visionary Shipman||126810]] are additional tools to boost your economy."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/69/
-msgid "[[Brann Bronzebeard||96786]] (good economy) + [[Easterly Winds||126909]]"
+msgid "[[Brann Bronzebeard||96786]] (good economy) + [[Air Revenant||126173]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/69/
@@ -266,6 +348,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/69/
 msgid "Buff rightmost minion in shop to scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Nagas - Spell Buff/End of Turn"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Fauna Whisperer benefits a lot from the end of turn/spell buff synergy, and ideally you put it next to an Nightmare Par-tea Guest to buff your entire board. [[Famished Felbat||72067]] can eat the shop after you've buffed it using [[Fauna Whisperer||120905]], as long as you position it last."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Spell scaling([[Felfire Conjurer||120299]]) + [[Drakkari Enchanter||101314]] or Spell Generation ([[Fauna Whisperer||120905]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/39/
+msgid "[[Felfire Conjurer||120299]]\n"
+"[[Tranquil Meditative||119942]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/39/
+msgid "Cast Buffed Spells End of Turn"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/12/
@@ -293,7 +396,7 @@ msgid "Murlocs - Venom Scam"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Aim to golden [[Bassgill||98926]] to summon one or two [[Operatic Belcher]] from hand. Use [[Soul Splitter||95282]] to reborn [[Leeroy the Reckless||90425]]. Golden Soulsplitter can reborn two Leeroys."
+msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Aim to golden [[Bassgill||98926]] to summon one or two [[Bile Spitter||122219]] from hand. This comp is much better with abilities to reborn/divine shield scam units, typically through Timewarped cards."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
