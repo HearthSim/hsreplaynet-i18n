@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-14 01:40\n"
+"POT-Creation-Date: 2025-12-15 12:32\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Italian\n"
 "Language: it\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-12-14 12:40\n"
+"PO-Revision-Date: 2025-12-15 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/71/
 msgid "Pirates - APM"
@@ -148,7 +148,7 @@ msgid "Nagas - Deep Blue"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/58/
-msgid "Roll for [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]], and [[Lava Lurker||80747]]. Put your spellcrafts on your Lava Lurker to gain permanent stats. [[Bluesy Siren||127229]] on 6 further scales your deep blues and provides a lot of tempo. After you have golden versions of everything, start filling out the rest of your board with scam such as [[Leeroy the Reckless||90425]]."
+msgid "Roll for [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]], and [[Lava Lurker||80747]]. Put your spellcrafts on your Lava Lurker to gain permanent stats. [[Bluesy Siren||127229]] on 6 further scales your deep blues and provides a lot of tempo. After you have golden versions of everything, start filling out the rest of your board with scam such as [[Leeroy the Reckless||90425]]. The best ending unit is taunted [[Daggerspine Thrasher||103714]] because it can reset divine shield and venom during combat."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/58/
@@ -350,6 +350,26 @@ msgstr ""
 msgid "Buff rightmost minion in shop to scale"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Demons - Shop Buff"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Scale your shop somehow, usually it's through [[Shadowdancer||120662]] but your timewarps may help with it. Then, use [[Insatiable Urzul||72060]] to capture the buffs in the shop. Typically you have an economy setup with [[Brann Bronzebeard||96786]] which allows you to cycle only premium demons such as [[Tardy Traveler||116833]], [[Ominous Seer||117553]], [[Felemental||97553]], [[Furious Driver||116831]], and [[Imposing Percussionist||99232]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Buffed Shop ([[Shadowdancer||120662]]) + [[Insatiable Urzul||72060]] + [[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Shadowdancer||120662]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Scale shop and consume shop"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Nagas - Spell Buff/End of Turn"
 msgstr ""
@@ -369,6 +389,47 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Cast Buffed Spells End of Turn"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/73/
+msgid "Dragons - Spells"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/73/
+msgid "[[Fire-Forged Evoker||120301]] scales with the amount of spells you cast. Your spell generation is mainly going to come from cycling cards with [[Brann Bronzebeard||96786]] and [[Visionary Shipman||126810]]. As long as you cycle free cards such as [[Tavern Tempest||64077]] and [[Reef Explorer||80754]], you should get 20 or more procs on your [[Fire-forged Evoker||120301]] a turn. Leave [[Persistent Poet||108463]] on your board to capture permanent stats every fight. Finally, at some point you may sell your spell generation setup to end on premium dragons such as [[Tarecgosa||72062]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/73/
+msgid "[[Fire-forged Evoker||120301]] + [[Visionary Shipman||126810]] + economy ([[Brann Bronzebeard||96786]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/73/
+msgid "[[Visionary Shipman||126810]]\n"
+"[[Fire-forged Evoker||120301]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/73/
+msgid "Cast spells to scale dragons"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/74/
+msgid "Dragons - Stuntdrake"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/74/
+msgid "Scale a big [[Stuntdrake||127238]] using [[Persistent Poet||108463]] + [[Twilight Watcher||122442]], so that every time a dragon attacks in buffs your [[Stuntdrake||127238]]. Then, you have [[Titus Rivendare||97408]] + [[Twilight Broodmother||127236]] combo to have your dragons attack as many times as possible. With your scaled Stuntdrake, your summoned [[Twilight Hatchling||126741]]s will also get a ton of attack. You may also choose to use [[Fire-forged Evoker||120301]] with spell generation to scale your [[Stuntdrake||127238]] instead of [[Twilight Watcher||122442]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/74/
+msgid "[[Stuntdrake||127238]] + [[Twilight Hatchling||126741]] + way to buff it ([[Twilight Watcher||122442]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/74/
+msgid "Dragon midgame ([[Twilight Broodmother||127236]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/74/
+msgid "Summon many high attack dragons in combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/12/
