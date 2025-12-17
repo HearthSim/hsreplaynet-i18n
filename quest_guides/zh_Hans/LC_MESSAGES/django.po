@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-13T01:40:27.052951\n"
+"POT-Creation-Date: 2025-08-28T18:11:03.387423\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,19 +15,7 @@ msgstr ""
 "X-Crowdin-File: /quest_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 183\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2025-12-16 12:40\n"
-
-#: Quest id 121945 | Guide id 41
-msgid "Finish this ASAP, even if it means staying down taverns to do so. 5 gold per turn is very very strong and will immediately catch you back up on lost value."
-msgstr "尽快做完任务，即使这意味着要待在低级酒馆里。每回合多5铸币非常非常强，可以立即让你弥补损失的经济。"
-
-#: Quest id 104670 | Guide id 6
-msgid "Carapace Undead is the best comp for this quest, playing around [[Friendly Geist||120219]] and [[Carapace Raiser||122479]]. Another option is Tier 4 Quilboars with Rylak/Jazzer, Piper and Bristler."
-msgstr "龟甲亡灵流是完成此任务的最佳流派，可配合[[友善的恶鬼||120219]]与[[龟甲祈唤师||122479]]使用。另一种选择是4本野猪人流，搭配双头飞龙/暗膘爵士乐手、刺头吹笛人和腐化的棘刺野猪使用。"
-
-#: Quest id 95867 | Guide id 57
-msgid "Great highroll quest if you can live until then. You tend to keep 6 drops and chain triples."
-msgstr "如果你能活下来，这是个高收益的任务。你通常会想要留着六本怪，然后不断三连。"
+"PO-Revision-Date: 2025-12-17 00:40\n"
 
 #: Quest id 104673 | Guide id 73
 msgid "Strong quest, especially with Murlocs, Eles, and/or Pirates. Brann is powerful in a lot of meta APM comps."
@@ -40,6 +28,10 @@ msgstr "在4-5回合时做完任务时很强，在第6回合时做完任务中�
 #: Quest id 110305 | Guide id 36
 msgid "Generically strong quest, used to duplicate core cards for any comp."
 msgstr "这个任务强度在线，可以用来复制核心卡，来搭配任何流派。"
+
+#: Quest id 104670 | Guide id 6
+msgid "The best quest possible with Undeads in, pretty much unpickable without. Stay on 4 and force Carapace Undeads."
+msgstr ""
 
 #: Quest id 97658 | Guide id 69
 msgid "Most powerful use case is to Reborn venom/leeroys, Windfury rallys, and Divine Shield giant units."
@@ -54,20 +46,20 @@ msgid "Generically strong quest. Getting Sinstone/Pilfred Tome/Bloodsoaked Tome 
 msgstr "很强的任务。在拿到罪碑/偷来的神灯/浸血魔典时可以让你有机会打出爆炸回合。"
 
 #: Quest id 122015 | Guide id 49
-msgid "Need to pick with an avenge setup ([[Manasaber||98831]]/[[Icky Imp]]) Then, finish quest as soon as possible."
-msgstr "需要搭配复仇体系选择（[[魔刃豹||98831]]/[[粗鄙小鬼]]），然后尽快完成任务。"
+msgid "Need to pick with an avenge setup ([[Manasaber||98831]]/[[Icky Imp||74910]]) Then, finish quest as soon as possible."
+msgstr ""
 
-#: Quest id 97966 | Guide id 14
-msgid "Try to finish this ASAP. Turn 4-5 is great, turn 6 is average, turn 7+ is too slow. Used to \"buy\" a minion in shop for free each turn."
-msgstr "尽快做完任务。在4-5回合时做完任务时很强，在第6回合时做完任务中规中矩，7回合以后完成就太慢了。用于每回合在商店免费“买”一个随从。"
+#: Quest id 89481 | Guide id 13
+msgid "Generically strong quest. No need to rush this, best picked with a passive quest completion (have minions attack/die)"
+msgstr ""
 
 #: Quest id 122825 | Guide id 52
 msgid "Insane if you can get a [[Brann Bronzebeard||96786]] at some point, so you can trigger the spells twice."
 msgstr "如果你可以拿到[[布莱恩铜须||96786]]，那么这个任务强得离谱，因为你可以触发两次法术效果。"
 
 #: Quest id 90917 | Guide id 17
-msgid "Usually should only pick if the end of turn card is good, such as [[Felfire Conjurer||120299]] or [[Lost City Looter]]. Unfortunately, theres not too many end of turn comps."
-msgstr "一般情况下，只能搭配很强的“回合结束时”随从，例如 [[邪火咒龙||120299]]或者 [[失落之城掠夺者]]。可惜的是，没有多少“回合结束时\"流派。"
+msgid "Usually should only pick if the end of turn card is good, such as [[Felfire Conjurer||120299]] or [[Lost City Looter||122175]]. Unfortunately, theres not too many end of turn comps."
+msgstr ""
 
 #: Quest id 122014 | Guide id 44
 msgid "Try to finish this ASAP. Turn 7 and before is amazing, turn 8-9 is average, turn 10+ is too slow. Getting an early Candle or Pagle's Fishing Rod is game winning."
@@ -80,6 +72,14 @@ msgstr "比较一般的任务。最好搭配可以快速且被动地做任务的
 #: Quest id 110325 | Guide id 66
 msgid "Finish this ASAP. Getting it online start of turn 5-6 is great, start of turn 7 is average, start of turn 8 is too slow."
 msgstr "尽快做完任务。在5-6回合开始时做完最佳，第7回合时比较一般，等到第8回合就太慢了。"
+
+#: Quest id 110299 | Guide id 59
+msgid "."
+msgstr ""
+
+#: Quest id 97966 | Guide id 14
+msgid "Try to finish this ASAP. Turn 4-5 is great, turn 6 is average, turn 7+ is too slow."
+msgstr ""
 
 #: Quest id 110298 | Guide id 16
 msgid "This quest gives consistent value over the course of the game, but it's nothing crazy"
@@ -96,6 +96,14 @@ msgstr "你如果选了这个任务，你就应该玩手速流，例如海盗、
 #: Quest id 121335 | Guide id 46
 msgid "With this quest, you kinda need to force APM bounty pirates, and also have a completion that benefits from forcing pirates (Play spells/pirates)"
 msgstr "选了这个任务，你基本上就得强行玩手速流海盗悬赏令体系，最好任务条件也能搭配海盗（例如打出法术/海盗）"
+
+#: Quest id 89650 | Guide id 61
+msgid "The best strategy is to stay on 3 and buy every Divine Shield unit, Magnetic Mech to put on your shields, and tokens ([[Sellemental||64038]]). This is not a Top 1 strategy though, just a safe top 3."
+msgstr ""
+
+#: Quest id 95867 | Guide id 57
+msgid "Great highroll quest if you can live until then. You tend to hold 6 drops and chain triples."
+msgstr ""
 
 #: Quest id 110303 | Guide id 23
 msgid "Needs to be completed within 2 turns, preferably with an avenge setup."
@@ -129,6 +137,14 @@ msgstr "非常适合瑞文体系，例如龟甲祈唤师或者狼爹野兽。"
 msgid "All around decent quest, try to finish it ASAP."
 msgstr "整体不错的任务，尽量尽快完成。"
 
+#: Quest id 110343 | Guide id 4
+msgid "Finish this quest ASAP. Start of turn 5-6 is amazing, start of turn 7-8 is average, start of turn 9+ is too late."
+msgstr ""
+
+#: Quest id 121945 | Guide id 41
+msgid "Finish this ASAP. It's also a really rare quest, so there's not much data on it to work with."
+msgstr ""
+
 #: Quest id 92563 | Guide id 71
 msgid "Just an RNG quest. Finishing start of turn 5-6 is amazing, turn 7 is average, turn 8+ is too slow."
 msgstr "这是一个拼运气的任务。在5-6回合开始时完成很棒，第7回合时一般，在8回合及以后完成就太慢了。"
@@ -141,55 +157,39 @@ msgstr "全部随从都有圣盾总体来说非常强，风怒对进击流派来
 msgid "Only pick Scepter for good tribes (Undead/Elementals). Nagas to force Deep Blue Zesty is OK. Scepter for bad tribes are actively bad."
 msgstr "权杖只在有优秀种族时才选（亡灵/元素）。纳迦强行玩蓝调也还行。但是拿到垃圾种族时就非常坏了。"
 
-#: Quest id 89650 | Guide id 61
-msgid "The best strategy is to buy every Divine Shield unit, Magnetic Mech to put on your shields, and tokens ([[Sellemental||64038]]). This is not a Top 1 strategy though, just a safe top 3. Round out your comp later buying Leeroys and Venoms."
-msgstr "最好的打法是买下所有的圣盾随从，再用磁力机械贴给你的圣盾怪，还要拿衍生物随从（[[商贩元素||64038]]）。尽管吃不到鸡，但是这是一个比较稳定的前三策略。之后再买火车王和烈毒来完成你的流派。"
+#: Quest id 90916 | Guide id 37
+msgid "Insane popoff quest that can enable being infinite, you just need to live while completing it. After completed, buy every single discovery effect because they're at least free, and find some way to scale."
+msgstr ""
+
+#: Quest id 110309 | Guide id 7
+msgid "You must finish this turn 4-5 or else its unpickable. Even so, the quest usually pretty mediocre."
+msgstr ""
 
 #: Quest id 89449 | Guide id 12
 msgid "The best strat with this quest is Brann + Drakkari + Moon bacon Jazzer + Gem Smuggler. If you can get there, it's S tier."
 msgstr "这个任务的最佳套路是铜须+暗膘爵士乐手+宝石走私商。如果你可以凑齐这套阵容，那就是稳定的S级别。"
 
-#: Quest id 90916 | Guide id 37
-msgid "Insane popoff quest that can enable being infinite, you just need to live while completing it. After completed, buy every single discovery effect because they're at least free, and find some way to scale. Typically, you run an APM comp such as Murlocs, Elementals, or Pirates."
-msgstr "这是个很猛的任务，甚至可以让你倒转，只要你能活到做完任务。在做完任务后，买下所有的发现随从（至少不亏钱），再想办法成长就行。通常你要用手速倒转流派，例如鱼人、元素或海盗流。"
-
-#: Quest id 92551 | Guide id 38
-msgid "Generically pretty good quest, especially if the tribe for it is good (Elementals/Quilboar). Try to finish it ASAP."
-msgstr "通常来说相当不错的任务，特别是对应种族很强的时候（元素/野猪人）。尽量尽快完成。"
-
 #: Quest id 110300 | Guide id 58
 msgid "Pretty average quest. Buy every duplicate discover battlecry spell, baller spell, murloc spell, or discover deathrattle spell for some extra value."
 msgstr "比较一般的任务。买下所有的发现战吼法术、发现亡语法术和寒热骤变以及克隆螺号，来获得额外价值。"
+
+#: Quest id 92551 | Guide id 38
+msgid "Generically pretty good quest, especially if the tribe for it is good (Elementals/Undead). Try to finish it ASAP."
+msgstr ""
+
+#: Quest id 97756 | Guide id 68
+msgid "Generically okay quest, best done with a passive completion (Have minion attack/dies)."
+msgstr ""
 
 #: Quest id 104724 | Guide id 70
 msgid "Start of turn 5 acceleration is amazing, start of turn 6 is average, start of turn 7+ is too slow."
 msgstr "第5回合开始时的加速器很棒，第6回合的比较一般，第7回合及以后就太慢了。"
 
+#: Quest id 121943 | Guide id 42
+msgid "You need to finish this relatively early (before start of turn 8). If you can get away with it, freeze a shop with the core unit as the highest tavern tier in the shop, preferably if the shop is full (If it's not full, it has a low chance of goldening a random unit). Then, next turn, that core card will be golden."
+msgstr ""
+
 #: Quest id 93074 | Guide id 29
 msgid "Finish this ASAP. Finishing it turn 4-5 combat is amazing, turn 6 combat is average, turn 7+ combat is too slow. Try not to run a token comp, so you can easily triple/copy core cards with the quest."
 msgstr "这个任务一定要尽快完成。在第4-5回合战斗时完成非常强，6回合时比较一般，7回合及以后完成就太慢了。尽量别走衍生物流派，这样你才可以更容易的用任务去三连/复制核心随从。"
-
-#: Quest id 110299 | Guide id 59
-msgid "Amazing quest with APM Pirates to generate a ton of bounties and have them cast twice, making you infinite very easily. Nalaa and Evoker are orher options for good comps with this quest."
-msgstr "这是一个配合手速流海盗特别强的任务，可以疯狂地刷悬赏令并且让它们触发两次，非常容易就可以倒转。救赎者娜拉和火铸唤魔师也是这个任务下不错的流派。"
-
-#: Quest id 110309 | Guide id 7
-msgid "You must finish this turn 4-5 or else its unpickable. Even so, the quest usually pretty mediocre. The quest will eventually stop at 6 and golden a 6 drop at the start of every turn"
-msgstr "必须在4-5回合时做完任务不然就不要选。 即便如此，此任务通常相当平庸。任务最终会在6级酒馆时停止升级并在每回合开始时获得一个金色6级随从"
-
-#: Quest id 121943 | Guide id 42
-msgid "You need to finish this relatively early (before start of turn 8), while being on tavern 4 or 5 already. If you can get away with it, freeze a shop with the core unit as the highest tavern tier in the shop, preferably if the shop is full (If it's not full, it has a low chance of goldening a random unit). Then, next turn, that core card will be golden."
-msgstr "这个任务需要在前期完成（在第8回合开始前），且已经升级到4级或5级酒馆。如果条件允许，在核心随从是商店中最高等级随从时冻结商店，并且最好商店格子满了（如果没有满，有一定几率把随机随从点金）。这样下一个回合，你的核心卡就会变金。"
-
-#: Quest id 89481 | Guide id 13
-msgid "Generically average quest. No need to rush this, best picked with a passive quest completion (have minions attack/die)"
-msgstr "比较一般的任务。不用着急完成任务，最好选择可以被动完成的任务（比如随从攻击/死亡）"
-
-#: Quest id 97756 | Guide id 68
-msgid "Generically okay quest, best done with a passive completion (Have minion attack/dies). Used as an effective Reno HP."
-msgstr "还行的的任务。最好可以快速且被动地做完任务（例如随从攻击/死亡）。 作为灵活的雷诺英雄技能使用。"
-
-#: Quest id 110343 | Guide id 4
-msgid "Finish this quest ASAP. Start of turn 5-6 is amazing, start of turn 7-8 is average, start of turn 9+ is too late. Decent synergy with spell strategies such as [[Nalaa the Redeemer||104468]], [[Charging Czarina||110321]], [[Sundered Matriarch||122672]] or [[Fire Forged Evoker||120301]]."
-msgstr "尽快做完任务。在5-6回合时做完任务时很强，在第7-8回合时做完任务中规中矩，9回合以后完成就太慢了。 与诸如[[救赎者娜拉||104468]]、[[蓄能女沙皇||110321]]、[[破碎主母||122672]]或[[火铸唤魔师||120301]]等法术强化随从具有良好的协同效果。"
 
