@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-15 12:32\n"
+"POT-Creation-Date: 2025-12-17 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,14 +15,14 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2025-12-16 12:40\n"
+"PO-Revision-Date: 2025-12-17 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/71/
 msgid "Pirates - APM"
 msgstr "海盗 - 手速倒转"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/71/
-msgid "This comp relies on going infinite and finding some way to turn that infinite gold to stats. A combination  of [[Fleet Admiral Tethys||101122]], [[Brann Bronzebeard||96786]], and [[Visionary Shipman||126810]] will generate you infinite gold. Buy every card this gives another gold on top of it, such as [[Sellemental||64038]], [[Patient Scout||97604]], and [[River Skipper||122092]] to maintain infinity. Most commonly you use [[Cannon Corsair||126812]] and [[Dastardly Drust||119992]] to scale your board while cycling infinite gold, but [[Gunpowder Courier||98889]] and [[Plankwalker||128086]] are other options as well. ADVANCED: Keep an [[Air Revenant||126173]] on your board and pivot to [[Acid Rainfall||126171]] when you see it, the scaling is much faster. Or you can eat pirates onto [[Stuntdrake||127238]] and then play avenge minions."
+msgid "This comp relies on going infinite and finding some way to turn that infinite gold to stats. A combination  of [[Fleet Admiral Tethys||101122]], [[Brann Bronzebeard||96786]], and [[Visionary Shipman||126810]] will generate you infinite gold. Buy every card this gives another gold on top of it, such as [[Sellemental||64038]], [[Patient Scout||97604]], and [[River Skipper||122092]] to maintain infinity. Most commonly you use [[Cannon Corsair||126812]] and [[Dastardly Drust||119992]] to scale your board while cycling infinite gold, but [[Gunpowder Courier||98889]] and [[Plankwalker||128086]] are other options as well. ADVANCED: Keep an [[Air Revenant||126173]] on your board and pivot to [[Acid Rainfall||126171]] when you see it, the scaling is much faster. Or you can eat pirates onto [[Stuntdrake||127238]] and then play avenge minions. Or you can pivot to Evoker Dragons."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/71/
@@ -51,12 +51,13 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
 msgid "Attack Scaling ([[Forsaken Weaver||126733]]) + Spell Generation ([[Spirit Drake||128084]]/[[Wintergrasp Ghoul||126955]])"
-msgstr ""
+msgstr "攻击提升 ([[Forsaken Weaver||126733]]) + 法术生成 ([[Spirit Drake||128084]]/[[Wintergrasp Ghoul||126955]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
 msgid "[[Deathly Striker||115610]] \n"
 "[[Spirit Drake||128084]]"
-msgstr ""
+msgstr "[[Deathly Striker||115610]] \n"
+"[[Spirit Drake||128084]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/14/
 msgid "Summon high attack Undeads"
@@ -154,7 +155,7 @@ msgstr "纳迦 - 深沉蓝调"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/58/
 msgid "Roll for [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]], and [[Lava Lurker||80747]]. Put your spellcrafts on your Lava Lurker to gain permanent stats. [[Bluesy Siren||127229]] on 6 further scales your deep blues and provides a lot of tempo. After you have golden versions of everything, start filling out the rest of your board with scam such as [[Leeroy the Reckless||90425]]. The best ending unit is taunted [[Daggerspine Thrasher||103714]] because it can reset divine shield and venom during combat."
-msgstr ""
+msgstr "刷新酒馆只拿 [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]] 和 [[Lava Lurker||80747]]。将你的塑造法术施加在熔岩潜伏者上，以获得永久属性加成。 6级的[[Bluesy Siren||127229]] 能进一步成长你的深沉蓝调并提供大量节奏。当你拥有所有金色版本后，用烈毒填充你棋盘的其余部分，例如 [[Leeroy the Reckless||90425]]。最好决赛单位是有嘲讽的[[Daggerspine Thrasher||103714]]，因为它可以在战斗中重置圣盾和烈毒。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/58/
 msgid "Early [[Deep Blue Crooner||98886]]/[[Bluesy Siren||127229]] + [[Zesty Shaker||99054]]"
@@ -182,7 +183,7 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Spell Generation ([[Whirling Lass-o-matic||110668]]) + [[Charging Czarina||110321]]"
-msgstr ""
+msgstr "法术生成 ([[Whirling Lass-o-matic||110668]]) + [[Charging Czarina||110321]]"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Divine Shields ([[Deflect-o-bot||61930]], [[Grease bot||72389]])"
@@ -198,7 +199,7 @@ msgstr "海盗 - 尤朵拉"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/62/
 msgid "*MUST HAVE BEASTS* Proc [[Ship Master Eudora||123595]] extra times with effects such as [[Titus Rivendare||97408]] and [[Monstrous Macaw||62230]]. Macaw and Titus needs to be golden for this strat to work decent. Fill in the rest of your board with various goldens as well, usually its [[Aureate Laureate||119996]]."
-msgstr "*必须有野兽* 配合 [[Titus Rivendare||97408]] and [[Monstrous Macaw||62230]] 等效果额外触发 [[Ship Master Eudora||123595]] 多次，此战术需金色鹦鹉和瑞文才能发挥理想效果。棋盘其余空位也需用各类金色卡牌填充，通常选 [[Aureate Laureate||119996]]。"
+msgstr "*必须有野兽* 配合 [[Titus Rivendare||97408]] 和 [[Monstrous Macaw||62230]] 等效果额外触发 [[Ship Master Eudora||123595]] 多次，此战术需金色鹦鹉和瑞文才能发挥理想效果。棋盘其余空位也需用各类金色卡牌填充，通常选 [[Aureate Laureate||119996]]。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/62/
 msgid "[[Ship Master Eudora||123595]] + [[Monstrous Macaw||62230]] + [[Titus Rivendare||97408]] + some goldens"
@@ -222,15 +223,15 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/72/
 msgid "Gem scaling ([[Prickly Piper||98946]]) + Razorfen Flapper + payoff ([[Trench Fighter||126671]]/[[Felboar||110664]])"
-msgstr ""
+msgstr "宝石强化 ([[Prickly Piper||98946]]) + 剃刀沼泽舞扇者+ 属性转移 ([[Trench Fighter||126671]]/[[Felboar||110664]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/72/
 msgid "Gem scaling ([[Prickly Piper||98946]]/[[Moon Bacon Jazzer||98930]])"
-msgstr ""
+msgstr "宝石强化 ([[Prickly Piper||98946]]/[[Moon Bacon Jazzer||98930]])"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/72/
 msgid "Make shop big with gems."
-msgstr ""
+msgstr "用宝石养大酒馆商店。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - Hand Buff"
@@ -302,7 +303,7 @@ msgstr "野猪人 - 进击"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/49/
 msgid "Scale your bloodgems using an early [[Sanguine Refiner||122566]]. Then, [[Razorfen Vineweaver||122562]] casts 3 or more permanent gems on itself each fight, while [[Bloodsnout Warlord||122564]] casts an insane amount of temporary gems on your board. Taunt is important in this comp, and use it on either [[Charlga||70165]] or any Divine Shield"
-msgstr ""
+msgstr "在早期使用 [[Sanguine Refiner||122566]] 来强化鲜血宝石。然后 [[Razorfen Vineweaver||122562]] 在每次攻击都会为自己使用 3 个或更多的永久宝石，而[[Bloodsnout Warlord||122564]] 则会在你的棋盘上疯狂地施放大量的临时宝石。嘲讽在这一流派中至关重要，建议给 [[Charlga||70165]] 或其他圣盾贴嘲讽"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/49/
 msgid "Gem Scaling ([[Sanguine Refiner||122566]]) + Payoff ([[Razorfen Vineweaver||122562]]/[[Bloodsnout Warlord||122564]])"
@@ -346,11 +347,11 @@ msgstr "元素 - 最右强化"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/69/
 msgid "Brann provides economy for you to cycle cards which helps spend gold for [[Air Revenant||126173]] to buff your rightmost minion. If you don't have [[Air Revenant||126173]], you can choose to use [[Rylak Metalhead||98829]] + [[En-Djinn Blazer||126175]] as well. Cycle every free battlecry such as [[Refreshing Anomaly||64042]] and [[Tavern Tempest||64077]]. With this economy, you'll refresh a lot of times so [[Acid Rainfall||126171]] can benefit from the buffs of the rightmost card. [[Fleet Admiral Tethys||101122]] and [[Visionary Shipman||126810]] are additional tools to boost your economy."
-msgstr ""
+msgstr "布莱恩·铜须为你提供经济循环卡牌，帮助你花费铸币让 [[Air Revenant||126173]] 强化最右侧的随从。如果你没有[[Air Revenant||126173]]，你也可以选择使用[[Rylak Metalhead||98829]] + [[En-Djinn Blazer||126175]]。循环使用所有免费的战吼，例如 [[Refreshing Anomaly||64042]] 和 [[Tavern Tempest||64077]]。凭借这种经济循环，你可以频繁刷新，使 [[Acid Rainfall||126171]] 能够获得酒馆最右侧随从的强化效果。[[Fleet Admiral Tethys||101122]] 和 [[Visionary Shipman||126810]] 是增强你经济的额外工具。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/69/
 msgid "[[Brann Bronzebeard||96786]] (good economy) + [[Air Revenant||126173]]"
-msgstr ""
+msgstr "[[Brann Bronzebeard||96786]] (良好经济) + [[Air Revenant||126173]]"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/69/
 msgid "[[Flaming Enforcer||126924]] + [[Waveling||126169]] midgame\n"
@@ -364,7 +365,7 @@ msgstr "强化商店中最右边的随从"
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff"
-msgstr ""
+msgstr "恶魔 - 商店强化"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Scale your shop somehow, usually it's through [[Shadowdancer||120662]] but your timewarps may help with it. Then, use [[Insatiable Urzul||72060]] to capture the buffs in the shop. Typically you have an economy setup with [[Brann Bronzebeard||96786]] which allows you to cycle only premium demons such as [[Tardy Traveler||116833]], [[Ominous Seer||117553]], [[Felemental||97553]], [[Furious Driver||116831]], and [[Imposing Percussionist||99232]]."
@@ -372,15 +373,15 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Buffed Shop ([[Shadowdancer||120662]]) + [[Insatiable Urzul||72060]] + [[Brann Bronzebeard||96786]]"
-msgstr ""
+msgstr "强化商店 ([[Shadowdancer||120662]]) + [[Insatiable Urzul||72060]] + [[Brann Bronzebeard||96786]]"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
 msgid "[[Shadowdancer||120662]]"
-msgstr ""
+msgstr "[[Shadowdancer||120662]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Scale shop and consume shop"
-msgstr ""
+msgstr "强化并吞噬商店"
 
 #: name | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Nagas - Spell Buff/End of Turn"
@@ -392,12 +393,13 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Spell scaling([[Felfire Conjurer||120299]]) + [[Drakkari Enchanter||101314]] or Spell Generation ([[Fauna Whisperer||120905]])"
-msgstr ""
+msgstr "法术强化([[Felfire Conjurer||120299]]) + [[Drakkari Enchanter||101314]] 或者法术生成 ([[Fauna Whisperer||120905]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/39/
 msgid "[[Felfire Conjurer||120299]]\n"
 "[[Tranquil Meditative||119942]]"
-msgstr ""
+msgstr "[[Felfire Conjurer||120299]]\n"
+"[[Tranquil Meditative||119942]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/39/
 msgid "Cast Buffed Spells End of Turn"
@@ -405,7 +407,7 @@ msgstr "回合结束时施放强化法术"
 
 #: name | https://hsreplay.net/battlegrounds/comps/73/
 msgid "Dragons - Spells"
-msgstr ""
+msgstr "龙 - 法术"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/73/
 msgid "[[Fire-Forged Evoker||120301]] scales with the amount of spells you cast. Your spell generation is mainly going to come from cycling cards with [[Brann Bronzebeard||96786]] and [[Visionary Shipman||126810]]. As long as you cycle free cards such as [[Tavern Tempest||64077]] and [[Reef Explorer||80754]], you should get 20 or more procs on your [[Fire-forged Evoker||120301]] a turn. Leave [[Persistent Poet||108463]] on your board to capture permanent stats every fight. Finally, at some point you may sell your spell generation setup to end on premium dragons such as [[Tarecgosa||72062]]."
@@ -413,20 +415,21 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/73/
 msgid "[[Fire-forged Evoker||120301]] + [[Visionary Shipman||126810]] + economy ([[Brann Bronzebeard||96786]])"
-msgstr ""
+msgstr "[[Fire-fuled Evoker||120301]] + [[Visionary Shipman||126810]] + 经济 ([[Brann Bronzebeard||96786]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/73/
 msgid "[[Visionary Shipman||126810]]\n"
 "[[Fire-forged Evoker||120301]]"
-msgstr ""
+msgstr "[[Visionary Shipman||126810]]\n"
+"[[Fire-forged Evoker||120301]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/73/
 msgid "Cast spells to scale dragons"
-msgstr ""
+msgstr "释放酒馆法术扩大龙的属性"
 
 #: name | https://hsreplay.net/battlegrounds/comps/74/
 msgid "Dragons - Stuntdrake"
-msgstr ""
+msgstr "龙 - 迷雾幼龙"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/74/
 msgid "Scale a big [[Stuntdrake||127238]] using [[Persistent Poet||108463]] + [[Twilight Watcher||122442]], so that every time a dragon attacks in buffs your [[Stuntdrake||127238]]. Then, you have [[Titus Rivendare||97408]] + [[Twilight Broodmother||127236]] combo to have your dragons attack as many times as possible. With your scaled Stuntdrake, your summoned [[Twilight Hatchling||126741]]s will also get a ton of attack. You may also choose to use [[Fire-forged Evoker||120301]] with spell generation to scale your [[Stuntdrake||127238]] instead of [[Twilight Watcher||122442]]."
@@ -434,15 +437,15 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/74/
 msgid "[[Stuntdrake||127238]] + [[Twilight Hatchling||126741]] + way to buff it ([[Twilight Watcher||122442]])"
-msgstr ""
+msgstr "[[Stuntdrake||127238]] + [[Twilight Hatchling||126741]] + 强化它的方法 ([[Twilight Watcher||122442]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/74/
 msgid "Dragon midgame ([[Twilight Broodmother||127236]])"
-msgstr ""
+msgstr "龙中期过度 ([[Twilight Broodmother||127236]])"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/74/
 msgid "Summon many high attack dragons in combat"
-msgstr ""
+msgstr "战斗中召唤许多高攻击的龙"
 
 #: name | https://hsreplay.net/battlegrounds/comps/12/
 msgid "Beasts - Summons"
@@ -470,7 +473,7 @@ msgstr "鱼人 - 下毒"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Aim to golden [[Bassgill||98926]] to summon one or two [[Bile Spitter||122219]] from hand. This comp is much better with abilities to reborn/divine shield scam units, typically through Timewarped cards."
-msgstr ""
+msgstr "购买所有的下毒单卡，尽可能击败对手以保住排名。保留你最强战力的卡牌（所以你才需要集中精力研究统计数据！），用可以各种能一换一的随从填充空余棋盘。目标是金色的 [[Bassgill||98926]] 能从手牌中召唤一到两个 [[Bile Spitter||122219]]。这个流派能通过时空扭曲卡牌获得让下毒单位拥有复生/圣盾的能力，因此好得多。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
 msgid "When you have no future or are clearly getting outstatted"
