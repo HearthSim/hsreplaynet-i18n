@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-15 12:32+0000\n"
-"PO-Revision-Date: 2025-12-15 12:40\n"
+"POT-Creation-Date: 2025-12-18 01:40+0000\n"
+"PO-Revision-Date: 2025-12-18 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -114,47 +114,47 @@ msgstr "Du hast diesen Code bereits auf dein Konto angewendet."
 msgid "Code has been applied to your account."
 msgstr "Code wurde auf dein Konto angewendet."
 
-#: settings.py:434
+#: settings.py:452
 msgid "Full access to your HSReplay.net account"
 msgstr "Vollständiger Zugriff auf dein HSReplay.net-Konto"
 
-#: settings.py:435
+#: settings.py:453
 msgid "Access information about your connected social accounts"
 msgstr "Zugriff auf Informationen über deine verknüpften sozialen Konten"
 
-#: settings.py:436
+#: settings.py:454
 msgid "View your Hearthstone card collection"
 msgstr "Betrachte deine Hearthstone-Kartensammlung"
 
-#: settings.py:437
+#: settings.py:455
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Deine Hearthstone-Kartensammlung zur Seite hochladen"
 
-#: settings.py:438
+#: settings.py:456
 msgid "View your replays"
 msgstr "Deine Aufzeichnungen betrachten"
 
-#: settings.py:439
+#: settings.py:457
 msgid "Update and delete your replays"
 msgstr "Deine Aufzeichnungen hochladen und entfernen"
 
-#: settings.py:440
+#: settings.py:458
 msgid "Access the Partner API"
 msgstr "Zugriff auf die Partner-API"
 
-#: settings.py:441
+#: settings.py:459
 msgid "Read access to the tournaments service"
 msgstr "Lesezugriff auf den Turnierdienst"
 
-#: settings.py:442
+#: settings.py:460
 msgid "Write access to the tournaments service"
 msgstr "Schreibzugriff auf den Turnierdienst"
 
-#: settings.py:443
+#: settings.py:461
 msgid "View your webhooks"
 msgstr "Deine Webhooks betrachten"
 
-#: settings.py:444
+#: settings.py:462
 msgid "Create and delete webhooks on your behalf"
 msgstr "Webhooks für dich erstellen und löschen"
 

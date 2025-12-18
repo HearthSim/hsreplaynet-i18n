@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-12-10T01:40:26.860161\n"
+"POT-Creation-Date: 2025-12-18T01:40:31.241149\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2025-12-10 12:40\n"
+"PO-Revision-Date: 2025-12-18 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/117425/ Hero id 117425 | Guide id
 #: 696
@@ -37,9 +37,9 @@ msgstr ""
 msgid "Use this hero power like reno and use it on the first value generator you see, such as [[Bigwig Bandit]]. If you don't find an early value generator, then use it on a core card for your direction."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/118509/ Hero id 118509 | Guide id
-#: 697
-msgid "The battlecruiser upgrades are very strong, but only starting from tavern 4. Don't invest too much into the upgrades early, only if it makes sense goldwise, and then start playing into your buddy."
+#: https://hsreplay.net/battlegrounds/heroes/120358/ Hero id 120358 | Guide id
+#: 699
+msgid "The Zerg gives you tempo so you can level fast while saving HP. I don't recommend playing into it and sell it at some point."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/116920/ Hero id 116920 | Guide id
@@ -47,9 +47,14 @@ msgstr ""
 msgid "Always hero power the first 3 turns, freezing a 2 cost spell turn 1 if you can. Turn 4 onwards, you can choose to stop hero powering if buying a good minion is better. Definitely stop hero powering after turn 6 if you don't want to die."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/120358/ Hero id 120358 | Guide id
-#: 699
-msgid "The Zerg provides guaranteed tempo. Level up your Zerg to tavern 3 on turn 5 or 6, and you must stay on tavern 2 to do so. Then, fully play into Infestor by cycling cards that give multiple cards such as [[Enchanted Lasso||104502]] and [[Patient Scout||97604]]."
+#: https://hsreplay.net/battlegrounds/heroes/127696/ Hero id 127696 | Guide id
+#: 703
+msgid "This hero can golden or duplicate key Greater Timewarp cards which might be instantly gamewinning."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/118509/ Hero id 118509 | Guide id
+#: 697
+msgid "This hero is only great when you can cheat out a second battlecruiser, so look at for Timewarps that do that."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/122925/ Hero id 122925 | Guide id
@@ -67,24 +72,29 @@ msgstr ""
 msgid "This hero provides some early game tempo, and has some lategame potential with venomous on random cards."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/82110/ Hero id 82110 | Guide id
-#: 213
-msgid "Must have beasts, undeads, and/or demons to start farming hero power early on. [[Manasaber||98831]] and [[Icky Imp]] are premium on this hero."
-msgstr ""
-
-#: https://hsreplay.net/battlegrounds/heroes/99033/ Hero id 99033 | Guide id
-#: 425
-msgid "Hero power and buddy has extra synergy with [[Drakkari Enchanter||101314]], allowing you to copy more copies of powerful cards."
-msgstr ""
-
 #: https://hsreplay.net/battlegrounds/heroes/86013/ Hero id 86013 | Guide id
 #: 272
 msgid "Your hero power will save some HP, but don't play into it."
 msgstr ""
 
+#: https://hsreplay.net/battlegrounds/heroes/82110/ Hero id 82110 | Guide id
+#: 213
+msgid "Must have beasts, undeads, and/or dragons to start farming hero power early on. [[Manasaber||98831]] and [[Harmless Bonehead||104551]] are premium on this hero."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/99033/ Hero id 99033 | Guide id
+#: 425
+msgid "Copy your Timewarped cards on turn 6 and 9! Hero power and buddy has extra synergy with [[Drakkari Enchanter||101314]], allowing you to copy more copies of powerful cards."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/89293/ Hero id 89293 | Guide id
 #: 345
 msgid "Strong hero power used to fill out your board in the early game, and duplicate key cards for your board in the mid-late game."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/103500/ Hero id 103500 | Guide id
+#: 453
+msgid "Use your hero for some free stats to save HP and play the game as Patchwerk 2.0."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/84867/ Hero id 84867 | Guide id
@@ -125,11 +135,6 @@ msgstr ""
 #: https://hsreplay.net/battlegrounds/heroes/97186/ Hero id 97186 | Guide id
 #: 371
 msgid "Use your hero power on [[Cadaver Caretaker||113158]] for free triples!"
-msgstr ""
-
-#: https://hsreplay.net/battlegrounds/heroes/103500/ Hero id 103500 | Guide id
-#: 453
-msgid "Build your gameplan around your buddy."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/57924/ Hero id 57924 | Guide id
@@ -217,11 +222,6 @@ msgstr ""
 msgid "A ticket is roughly worth 1 gold, so any 1 cost spell with a ticket is worth buying. However, don't buy useless units for the sake of buying a ticket."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/75702/ Hero id 75702 | Guide id
-#: 16
-msgid "I recommend starting with a 1-3 flightpath to line up the discovers with your buddy."
-msgstr ""
-
 #: https://hsreplay.net/battlegrounds/heroes/79618/ Hero id 79618 | Guide id
 #: 252
 msgid "It's worth buying the highest attack units in your shop and pointy arrows to complete your quest ASAP. You ideally want this quest done turn 6 the latest. Then, start leveling and force a Naga comp."
@@ -234,6 +234,11 @@ msgstr ""
 #: https://hsreplay.net/battlegrounds/heroes/85125/ Hero id 85125 | Guide id
 #: 293
 msgid "This hero provides free early game tempo. Overall decent."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/75702/ Hero id 75702 | Guide id
+#: 16
+msgid "I recommend a 3-1-3 flightpath because the discovery is the strongest option."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/60362/ Hero id 60362 | Guide id
@@ -256,10 +261,6 @@ msgstr ""
 msgid "Most commonly, you use your hero power on turn 6 when you level to 4 in order to stabilize on tavern 4. Stabilize means you buy either good standalone cards or good synergy with your board."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/63604/ Hero id 63604 | Guide id 3
-msgid "Always think about your next turn! On turn 1, freeze a 2 cost spell or buy a [[Southsea Busker]] so your turn 2 is much cleaner. Omu almost always levels to tavern 3 on turn 4 while buying a minion."
-msgstr ""
-
 #: https://hsreplay.net/battlegrounds/heroes/60213/ Hero id 60213 | Guide id
 #: 124
 msgid "Hero power when it works out goldwise. For example, on turn 4 you may level to tavern 3 and hero power for 1. When your hero power costs 5, stop hero powering."
@@ -275,6 +276,10 @@ msgstr ""
 msgid "Illidan is great with Rally cards because attacking first with them is quite important. It also allows for you to proc important rallys twice."
 msgstr ""
 
+#: https://hsreplay.net/battlegrounds/heroes/63604/ Hero id 63604 | Guide id 3
+msgid "Always think about your next turn! On turn 1, freeze a 2 cost spell so your turn 2 is much cleaner. Omu almost always levels to tavern 3 on turn 4 while buying a minion."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/58535/ Hero id 58535 | Guide id
 #: 12
 msgid "Patchwerk 2.0, only press this hero power if you don't have a better way to spend 1 gold on maybe on turns 3, 4, or 5. The hero power is decent with Drakkari Enchanter because it upgrades twice and procs twice."
@@ -287,12 +292,12 @@ msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/61914/ Hero id 61914 | Guide id
 #: 47
-msgid "Early game, your hero power is used to buy minions for 1 gold. Late game, you can hero power 5 drop and 6 drop spells in your shop to \"buy\" them for cheap."
+msgid "Early game, your hero power is used to buy minions for 1 gold. Late game, you can hero power pairs that you don't plan on playing immediately, such as Brann or Titus pair."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/80239/ Hero id 80239 | Guide id
 #: 167
-msgid "Try to play a comp that concentrates stats if you can. Examples include T4 Quilboars or [[Insatiable Ur'zul||72060]]."
+msgid "Your hero power will copy key Timewarp or directional cards. Make your most important card the highest attack, using spells such as [[Pointy Arrow||100596]] if necessary."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/73940/ Hero id 73940 | Guide id
@@ -307,12 +312,7 @@ msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/61490/ Hero id 61490 | Guide id
 #: 41
-msgid "BEST PLAYED WITH BEASTS! Early game, after you play a Battlecry unit such as [[Alleycat]] or [[Southsea Busker]], hero power it to reroll it into something better. Lategame, you can use your hero power to reroll your 6 drops if you don't like them."
-msgstr ""
-
-#: https://hsreplay.net/battlegrounds/heroes/57635/ Hero id 57635 | Guide id
-#: 110
-msgid "Early game, hero power and freeze every turn, including turn 1, until you hit something you like from a higher tier. Value generating cards are the best, such as [[Lost City Looter]] on 3, [[Bigwig Bandit]] or [[Campfire Shadow]] on 4, and [[Holo Rover]] on 6"
+msgid "If you triple into or buy a battlecry card, you can play it to get its battlecry effect and then transform it again to a good tempo unit."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/76521/ Hero id 76521 | Guide id
@@ -320,8 +320,13 @@ msgstr ""
 msgid "You have the option to reborn the buddy with [[Prosthetic Hand||112364]] and summon scam such as [[Deadly Spore||65031]] or [[Leeroy, the Reckless||90425]]. This hero isn't that good though."
 msgstr ""
 
+#: https://hsreplay.net/battlegrounds/heroes/57635/ Hero id 57635 | Guide id
+#: 110
+msgid "You may choose to play this hero power normally. You may also do a curve where you stay on 1, hero power and freeze every turn including turn 1, until you hit something you like from a higher tier. Value generating cards are the best or [[Silithid Burrower||108547]]."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/63601/ Hero id 63601 | Guide id 1
-msgid "If you find an [[Alleycat]] turn 1, swap it every turn (except turn 2 because it should be frozen in your shop), taking a 3 drop with your tabbycat triple turn 3 and taking a 5 drop on turn 6."
+msgid "Some 7 drops are broken with Jandice. With the Elemental one, you can swap your biggest unit and double its stats. With the Naga one, you can copy your best unit. with the Mech one, you can create a magnetic stack and double its stats and effects every turn."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/59814/ Hero id 59814 | Guide id
@@ -464,7 +469,7 @@ msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/57946/ Hero id 57946 | Guide id
 #: 28
-msgid "Infinite access to divine shields and reborns for your mechs. If you don't need those, pick [[Accord-o-Tron||98576]] for gold or [[Whirring Protector]] for strength."
+msgid "Infinite access to divine shields and reborns for your mechs. If you don't need those, pick [[Accord-o-Tron||98576]] for gold."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/74631/ Hero id 74631 | Guide id
@@ -492,11 +497,6 @@ msgstr ""
 msgid "Early game, hero power to \"buy\" a minion for 2 gold to fill out your board. Mid-late game, your hero power might snipe a great directional card."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/71916/ Hero id 71916 | Guide id
-#: 36
-msgid "Play into your buddy completely."
-msgstr ""
-
 #: https://hsreplay.net/battlegrounds/heroes/80247/ Hero id 80247 | Guide id
 #: 168
 msgid "Comps that can concentrate stats are especially good on this hero, such as Deep Blue Zesty or gems to hand Quilboars."
@@ -509,7 +509,12 @@ msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/71458/ Hero id 71458 | Guide id
 #: 21
-msgid "Your hero power acts as gem generation, so commit to Quilboars the moment you find [[Prickly Piper||98946]] to scale your gems. Also, use [[Hot-Air Surveyor]] and [[Geomagus Roogug||104766]] to benefit from your hero power."
+msgid "Your hero power is used to give you stats whenever you have gold left over in the early game. It's not strong enough to play into, even with quilboars."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/71916/ Hero id 71916 | Guide id
+#: 36
+msgid "If you see Alleycat lesser timewarp (you must have 2 beasts to enable it), then you can exponentially scale by selling your whole board and eating your Tabbycat onto it every turn."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/77987/ Hero id 77987 | Guide id
@@ -548,6 +553,6 @@ msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/60212/ Hero id 60212 | Guide id
 #: 123
-msgid "Either golden an early value generator or the first directional card you see. Value generators such as turn 6 [[Bigwig Bandit]] will give you so much value so you can level fast with a strong board. Directional cards include [[Sanguine Refiner||122566]] or [[Nomi, Kitchen Nightmare||63626]], and then you just commit to that direction."
+msgid "Either golden an early value generator or the first directional card you see. Value generators such as turn 6 [[Witchwing Nestmatron||76185]] will give you so much value so you can level fast with a strong board. Directional cards include [[Lord of Ruins]] or [[Goldrinn, the Great Wolf||59955]], and then you just commit to that direction."
 msgstr ""
 
