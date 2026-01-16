@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-15 01:40+0000\n"
-"PO-Revision-Date: 2026-01-15 12:41\n"
+"POT-Creation-Date: 2026-01-16 01:40+0000\n"
+"PO-Revision-Date: 2026-01-16 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -62,7 +62,7 @@ msgstr "{input} no es un miembro valido de {enum}."
 msgid "String value too large."
 msgstr ""
 
-#: api/serializers/battlegrounds.py:512
+#: api/serializers/battlegrounds.py:554
 #, python-brace-format
 msgid "{tribe_name} - {instance.name}"
 msgstr ""
