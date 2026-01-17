@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-16T01:40:27.294493\n"
+"POT-Creation-Date: 2026-01-17T01:40:27.094844\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-01-16 12:40\n"
+"PO-Revision-Date: 2026-01-17 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -2095,7 +2095,7 @@ msgstr "法强德"
 
 #: https://hsreplay.net/archetypes/837/imbue-death-knight
 msgid "Imbue Death Knight"
-msgstr ""
+msgstr "灌注DK"
 
 #: https://hsreplay.net/archetypes/650/sharpshooter-demon-hunter
 msgid "Sharpshooter Demon Hunter"
@@ -2251,7 +2251,7 @@ msgstr "艾维娜德"
 
 #: https://hsreplay.net/archetypes/839/rewind-druid
 msgid "Rewind Druid"
-msgstr ""
+msgstr "回溯德"
 
 #: https://hsreplay.net/archetypes/684/sandwich-hunter
 msgid "Sandwich Hunter"
@@ -2859,21 +2859,29 @@ msgstr "海盗牧"
 
 #: https://hsreplay.net/archetypes/838/mill-demon-hunter
 msgid "Mill Demon Hunter"
-msgstr ""
+msgstr "爆牌瞎"
 
 #: https://hsreplay.net/archetypes/840/buff-druid
 msgid "Buff Druid"
-msgstr ""
+msgstr "污手德"
 
 #: https://hsreplay.net/archetypes/841/tick-tock-hunter
 msgid "Tick Tock Hunter"
-msgstr ""
+msgstr "提克托克猎"
 
 #: https://hsreplay.net/archetypes/842/imbue-rogue
 msgid "Imbue Rogue"
-msgstr ""
+msgstr "灌注贼"
 
 #: https://hsreplay.net/archetypes/843/tick-tock-warlock
 msgid "Tick Tock Warlock"
-msgstr ""
+msgstr "提克托克术"
+
+#: https://hsreplay.net/archetypes/844/sleeper-demon-hunter
+msgid "Sleeper Demon Hunter"
+msgstr "休眠瞎"
+
+#: https://hsreplay.net/archetypes/845/dragon-demon-hunter
+msgid "Dragon Demon Hunter"
+msgstr "龙瞎"
 
