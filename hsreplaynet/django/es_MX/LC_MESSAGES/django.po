@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-01-16 01:40+0000\n"
-"PO-Revision-Date: 2026-01-16 12:40\n"
+"PO-Revision-Date: 2026-01-21 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -60,7 +60,7 @@ msgstr "{input} no es un miembro valido de {enum}."
 
 #: api/fields.py:14
 msgid "String value too large."
-msgstr ""
+msgstr "Valor de cadena demasiado grande."
 
 #: api/serializers/battlegrounds.py:554
 #, python-brace-format
@@ -92,7 +92,7 @@ msgstr ""
 
 #: api/views/accounts.py:396
 msgid "This code has expired."
-msgstr ""
+msgstr "Este código ha expirado."
 
 #: api/views/accounts.py:399
 msgid "You have used the maximum number of codes from this campaign."
@@ -104,7 +104,7 @@ msgstr ""
 
 #: api/views/accounts.py:415
 msgid "This code is unknown."
-msgstr ""
+msgstr "Este código es desconocido."
 
 #: api/views/accounts.py:425
 msgid "You have already applied this code to your account."
@@ -461,11 +461,11 @@ msgstr "Redes Sociales"
 
 #: templates/footer.html:25
 msgid "Join our Discord server"
-msgstr ""
+msgstr "Únete a nuestro servidor Discord"
 
 #: templates/footer.html:31
 msgid "Follow us on X"
-msgstr ""
+msgstr "Síguenos en X"
 
 #: templates/footer.html:37
 msgid "Follow us on Instagram"
@@ -492,7 +492,7 @@ msgstr "Premium"
 
 #: templates/footer.html:65
 msgid "Get Tier7"
-msgstr ""
+msgstr "Obtén Tier7"
 
 #: templates/footer.html:66 web/views/arenasmith.py:13
 msgid "Arenasmith"
@@ -508,7 +508,7 @@ msgstr "Ver lista del Meta"
 
 #: templates/footer.html:77
 msgid "Arena Guide"
-msgstr ""
+msgstr "Guía de Arena"
 
 #: templates/footer.html:78 web/views/battlegrounds.py:201
 msgid "Battlegrounds Heroes"
@@ -529,7 +529,7 @@ msgstr "Anomalias de Campos de Batalla"
 
 #: templates/footer.html:82 web/views/battlegrounds.py:387
 msgid "Battlegrounds Quests"
-msgstr ""
+msgstr "Misiones de Campos de batalla"
 
 #: templates/footer.html:83 web/views/battlegrounds.py:277
 msgid "Battlegrounds Trinkets"
@@ -557,7 +557,7 @@ msgstr "Política de Privacidad"
 
 #: templates/footer.html:109
 msgid "Get in Touch"
-msgstr ""
+msgstr "Ponte en contacto"
 
 #: templates/games/replay_detail.html:29
 msgid "Replay not available"
@@ -599,7 +599,7 @@ msgstr ""
 #: templates/navigation.html:104 templates/navigation.html:143
 #: templates/navigation.html:169 templates/navigation.html:237
 msgid "NEW"
-msgstr ""
+msgstr "NUEVO"
 
 #: templates/navigation.html:117 web/views/battlegrounds.py:455
 msgid "Darkmoon Prizes"
@@ -612,7 +612,7 @@ msgstr "Compas"
 
 #: templates/navigation.html:140 web/views/battlegrounds.py:395
 msgid "Quests"
-msgstr ""
+msgstr "Misiones"
 
 #: templates/navigation.html:157 web/views/battlegrounds.py:346
 msgid "Anomalies"
@@ -651,7 +651,7 @@ msgstr "Cartas"
 #: templates/navigation.html:236 web/views/arena.py:24 web/views/arena.py:41
 #: web/views/arena.py:72 web/views/arena.py:90 web/views/arena.py:118
 msgid "Arena"
-msgstr ""
+msgstr "Arena"
 
 #: templates/navigation.html:282
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
@@ -765,7 +765,7 @@ msgstr ""
 
 #: web/structured_data.py:12
 msgid "Top BGs Player"
-msgstr ""
+msgstr "Mejores Jugadores Campos de Batalla"
 
 #: web/views/__init__.py:18
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
@@ -801,7 +801,7 @@ msgstr "Contactar con el Equipo de Soporte de HSReplay.net."
 
 #: web/views/__init__.py:284
 msgid "Redeem a Code"
-msgstr ""
+msgstr "Canjear un código"
 
 #: web/views/__init__.py:295
 msgid "Welcome to HSReplay.net"
@@ -883,11 +883,11 @@ msgstr ""
 
 #: web/views/arena.py:42
 msgid "12 Win Decks"
-msgstr ""
+msgstr "Mazos con 12 Victorias"
 
 #: web/views/arena.py:65
 msgid "Arena Card Tier List"
-msgstr ""
+msgstr "Mejores cartas para la Arena"
 
 #: web/views/arena.py:68
 msgid "Explore the cards available when drafting in Hearthstone Arena and Underground Arena for the current Arena Season."
@@ -895,7 +895,7 @@ msgstr ""
 
 #: web/views/arena.py:83
 msgid "Hearthstone Arena Guide"
-msgstr ""
+msgstr "Guía de Arena de Hearthstone"
 
 #: web/views/arena.py:86
 msgid "Earn the crowd's favor in the Hearthstone Arena by exploring class rankings card ratings, legendary groups and winning decks."
@@ -904,7 +904,7 @@ msgstr ""
 #: web/views/arena.py:100
 #, python-brace-format
 msgid "Hearthstone Arena {class} Guide"
-msgstr ""
+msgstr "Guía de {class} para la Arena"
 
 #: web/views/arena.py:107
 #, python-format
@@ -991,51 +991,51 @@ msgstr "Campo de Batalla Héroes Duales"
 
 #: web/views/battlegrounds.py:679
 msgid "Beast"
-msgstr ""
+msgstr "Bestia"
 
 #: web/views/battlegrounds.py:680
 msgid "Demon"
-msgstr ""
+msgstr "Demonio"
 
 #: web/views/battlegrounds.py:681
 msgid "Dragon"
-msgstr ""
+msgstr "Dragón"
 
 #: web/views/battlegrounds.py:682
 msgid "Elemental"
-msgstr ""
+msgstr "Elemental"
 
 #: web/views/battlegrounds.py:683
 msgid "Mech"
-msgstr ""
+msgstr "Meca"
 
 #: web/views/battlegrounds.py:684
 msgid "Murloc"
-msgstr ""
+msgstr "Múrloc"
 
 #: web/views/battlegrounds.py:685
 msgid "Naga"
-msgstr ""
+msgstr "Naga"
 
 #: web/views/battlegrounds.py:686
 msgid "Pirate"
-msgstr ""
+msgstr "Pirata"
 
 #: web/views/battlegrounds.py:687
 msgid "Quilboar"
-msgstr ""
+msgstr "Jabaespín"
 
 #: web/views/battlegrounds.py:688
 msgid "Undead"
-msgstr ""
+msgstr "No-muerto"
 
 #: web/views/battlegrounds.py:700
 msgid "Invalid Tavern Tier."
-msgstr ""
+msgstr "Taberna no válida."
 
 #: web/views/battlegrounds.py:706
 msgid "No matching minion type found."
-msgstr ""
+msgstr "No se encontró el tipo de esbirro que coincida."
 
 #: web/views/battlegrounds.py:720
 #, python-brace-format
