@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-25 01:40\n"
+"POT-Creation-Date: 2026-01-27 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-01-25 12:40\n"
+"PO-Revision-Date: 2026-01-27 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/71/
 msgid "Pirates - APM"
@@ -46,12 +46,12 @@ msgid "Undead - Attack Scaling"
 msgstr "亡灵 - 攻击提升"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Scale the attack of your Undeads and summons with [[Forsaken Weaver||126733]]. Your spell generation may come from [[Wintergrasp Ghoul||126955]], [[Spirit Drake||128084]] or [[Carapace Raiser||122479]]. Your quality of summons come from [[Handless Forsaken||95265]] and [[Deathly Striker||115610]]. Be sure to reborn as many key undeads as possible, starting from [[Wintergrasp Ghoul||126955]] and [[Handless Forsaken||95265]]."
+msgid "Scale the attack of your Undeads and summons with [[Forsaken Weaver||126733]]. The best spell generation comes from [[Visionary Shipman||126810]], but other forms of spell generation include [[Wintergrasp Ghoul||126955]], [[Spirit Drake||128084]] or [[Brann Bronzebeard||96786]]. Your quality of summons come from [[Handless Forsaken||95265]] and [[Deathly Striker||115610]]. Be sure to reborn as many key undeads as possible, starting with [[Handless Forsaken||95265]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
 msgid "Attack Scaling ([[Forsaken Weaver||126733]]) + Spell Generation ([[Visionary Shipman||126810]]/[[Spirit Drake||128084]]/[[Wintergrasp Ghoul||126955]])"
-msgstr ""
+msgstr "攻击提升 ([[Forsaken Weaver||126733]]) + 法术生成([[Visionary Shipman||126810]]/[[Spirit Drake||128084]]/[[Wintergrasp Ghoul||126955]])"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
 msgid "[[Deathly Striker||115610]] \n"
@@ -108,8 +108,8 @@ msgid "Undead - Carapace"
 msgstr "亡灵 - 龟甲"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/52/
-msgid "Buff the Attack of Tavern Spells with [[Friendly Geist||120219]], and generate [[Haunted Carapace||122489]] spells using [[Carapace Raiser||122479]]. Titus is crucial because it double both of those effects. These spells will buff your board AND summons a ton of attack, so you want the rest of your board to be token spawners, such as [[Handless Forsaken||95265]]. Finally, use [[Prosthetic Hand||112364]] to reborn your core Undeads."
-msgstr "使用 [[Friendly Geist||120219]] 增强酒馆法术的攻击力，并通过 [[Carapace Raiser||122479]] 生成 [[Haunted Carapace||122489]] 法术。提图斯·瑞文戴尔至关重要，因为它能将这两种效果翻倍。这些法术既能强化你的棋盘，又能召唤大量攻击力，因此你需要让场上的其他随从成为召唤物生成者，例如 [[Handless Forsaken||95265]]。最后使用 [[Prosthetic Hand||112364]] 来复生你的核心亡灵随从。"
+msgid "Buff the Attack of Tavern Spells with [[Friendly Geist||120219]], and generate [[Haunted Carapace||122489]] spells using [[Carapace Raiser||122479]]. Titus is crucial because it double both of those effects. These spells will buff your board AND summons a ton of attack, so you want the rest of your board to be token spawners, such as [[Twilight Broodmother||127236]]. Finally, use [[Prosthetic Hand||112364]] to reborn your core Undeads."
+msgstr "使用 [[Friendly Geist||120219]] 增强酒馆法术的攻击力，并通过 [[Carapace Raiser||122479]] 生成 [[Haunted Carapace||122489]] 法术。提图斯·瑞文戴尔至关重要，因为它能将这两种效果翻倍。这些法术既能强化你的棋盘，又能召唤大量攻击力，因此你需要让场上的其他随从成为召唤物生成者，例如[[Twilight Broodmother||127236]]。最后使用 [[Prosthetic Hand||112364]] 来复生你的核心亡灵随从。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/52/
 msgid "[[Titus Rivendare||97408]]/[[Friendly Geist||120219]] + [[Carapace Raiser||122479]]"
@@ -131,7 +131,7 @@ msgstr "恶魔 - 伤害"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/51/
 msgid "*BEST PLAYED WITH UNDEAD* [[Lord of the Ruins||122116]] and [[Devout Hellcaller||122586]] scale by having your demons deal damage to minions. The best way to do that is with [[Silent Enforcer||122605]] + [[Titus Rivendare||97408]], which damages all your opponent's minions at once."
-msgstr ""
+msgstr "*最好有亡灵* [[Lord of the Ruins||122116]] 和 [[Devout Hellcaller||122586]] 通过让你的恶魔对随从造成伤害来获得成长。最好的方式是使用 [[Silent Enforcer||122605]] + [[Titus Rivendare||97408]]，这样可以一次性对对手的所有随从造成伤害。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/51/
 msgid "[[Silent Enforcer||122605]] + Damage payoff ([[Lord of the Ruins||122116]])"
@@ -255,7 +255,7 @@ msgstr "鱼人 - 小学生"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/56/
 msgid "This comp relies on teaching a great spell to Magicfin Apprentice and proccing it over and over again. [[Young Murk-eye||87084]] is a must to proc these spells every turn, with its effect amplified by [[Brann Bronzebeard||96786]] and [[Drakkari Enchanter||101314]]. Teach the apprentice [[Shiny ring||109230]], [[Azerite Empowerment||109232]], or [[Time management||117573]] with some spell scaling, which comes from [[Felfire Conjurer||120299]]. Early on, it may be nice to teach it some econ spell as well, notable [[Strike Oil||104029]]. Do not triple Young Murk-eye in this comp! It doesn't increase your scaling."
-msgstr ""
+msgstr "这个流派依赖于教会魔鳍学徒一个强大的法术并不断触发它。[[Young Murk-eye||87084]] 是每回合触发这些法术的必备卡，其效果被 [[Brann Bronzebeard||96786]] 和 [[Drakkari Enchanter||101314]] 增强。教会学徒 [[Shiny ring||109230]]、[[Azerite Empowerment||109232]] 或 [[Time management||117573]]，并搭配一些法强，这些法强来自 [[Felfire Conjurer||120299]]。在早期，教它一些经济法术也不错，特别是[[Strike Oil||104029]]。这个流派中不要三连小瞎眼！这不会增加你的身材。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/56/
 msgid "[[Brann Bronzebeard||96786]] + [[Magicfin Mycologist||122277]] + [[Young Murk-eye||87084]]"
