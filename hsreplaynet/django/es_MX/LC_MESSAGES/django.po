@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-02-03 01:40+0000\n"
-"PO-Revision-Date: 2026-02-03 12:40\n"
+"PO-Revision-Date: 2026-02-04 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -65,30 +65,30 @@ msgstr "Valor de cadena demasiado grande."
 #: api/serializers/battlegrounds.py:538
 #, python-brace-format
 msgid "{tribe_name} - {instance.name}"
-msgstr ""
+msgstr "{tribe_name} - {instance.name}"
 
 #: api/views/accounts.py:353
 #, python-brace-format
 msgid "You have already applied this code to your account. Start your free subscription lasting {n} days now."
-msgstr ""
+msgstr "Ya has aplicado este código a tu cuenta. Comienza tu suscripción gratuita de {n} días ahora."
 
 #: api/views/accounts.py:376
 #, python-brace-format
 msgid "Code has been applied to your account. Your existing subscription has been extended by {n} days."
-msgstr ""
+msgstr "Se ha aplicado el código a tu cuenta. Tu suscripción existente se ha ampliado por {n} días."
 
 #: api/views/accounts.py:382
 #, python-brace-format
 msgid "Code has been applied to your account. You can now start a free subscription lasting {n} days."
-msgstr ""
+msgstr "Se ha aplicado el código a tu cuenta. Ahora puedes iniciar una suscripción gratuita durante {n} días."
 
 #: api/views/accounts.py:390
 msgid "This code has already been redeemed."
-msgstr ""
+msgstr "Este código ya ha sido canjeado."
 
 #: api/views/accounts.py:393
 msgid "This code is not compatible with your existing subscription."
-msgstr ""
+msgstr "Este código no es compatible con tu suscripción existente."
 
 #: api/views/accounts.py:396
 msgid "This code has expired."
@@ -96,11 +96,11 @@ msgstr "Este código ha expirado."
 
 #: api/views/accounts.py:399
 msgid "You have used the maximum number of codes from this campaign."
-msgstr ""
+msgstr "Has utilizado el número máximo de códigos de esta campaña."
 
 #: api/views/accounts.py:404
 msgid "You have already redeemed a code for this product. Start a subscription before redeeming this code."
-msgstr ""
+msgstr "Ya has canjeado un código para este producto. Comienza una suscripción antes de canjear este código."
 
 #: api/views/accounts.py:415
 msgid "This code is unknown."
@@ -108,7 +108,7 @@ msgstr "Este código es desconocido."
 
 #: api/views/accounts.py:425
 msgid "You have already applied this code to your account."
-msgstr ""
+msgstr "Ya has aplicado este código a tu cuenta."
 
 #: api/views/accounts.py:432
 msgid "Code has been applied to your account."
@@ -381,7 +381,7 @@ msgstr "¿Necesitas ayuda? Contáctanos <a href=\"%(contact_url)s\"></a>."
 
 #: templates/account/password_reset_done.html:10
 msgid "We have sent you an email. If you have not received it please check your spam folder."
-msgstr ""
+msgstr "Te hemos enviado un correo electrónico. Si no lo has recibido, por favor revisa tu carpeta de correo no deseado."
 
 #: templates/account/password_reset_done.html:14
 #: templates/account/verification_sent.html:15
@@ -391,12 +391,12 @@ msgstr "Por favor contáctanos <a href=\"%(contact_url)s\"></a> si no lo recibes
 
 #: templates/account/password_reset_from_key_done.html:8
 msgid "Your password has been changed."
-msgstr ""
+msgstr "Su contraseña ha sido cambiada."
 
 #: templates/account/password_reset_from_key_done.html:14
 #, python-format
 msgid "You can now return to our <a href=\"%(login_url)s\">login page</a> to sign in with it.</p>"
-msgstr ""
+msgstr "Ahora puedes volver a nuestra página <a href=\"%(login_url)s\">de inicio de sesión</a> para iniciar sesión con ella.</p>"
 
 #: templates/account/password_set.html:5 templates/account/password_set.html:9
 #: templates/account/password_set.html:14
