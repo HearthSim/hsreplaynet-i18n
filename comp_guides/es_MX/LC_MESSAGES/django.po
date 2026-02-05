@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-27 01:40\n"
+"POT-Creation-Date: 2026-02-05 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-MX\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-02-05 00:40\n"
+"PO-Revision-Date: 2026-02-05 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/71/
 msgid "Pirates - APM"
@@ -37,6 +37,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/71/
 msgid "Have infinite gold to scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/76/
+msgid "Quilboar - APM Felboar"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/76/
+msgid "You must have an insane amount of economy to go for this comp. This is usually achieved with a turn 9 golden brann, or early Brann + Visionary Shipman + Tethys. When you have too much economy, you may cycle [[Moon Bacon Jazzer||98930]], [[Fearless Foodie||113154]], and [[Briarback Drummer||126669]] without running out of gold. This will scale your shop over the course of the game. You'll also generate a ton of spells because of Brann and Shipman, allowing Felboar to eat a huge shop over and over again."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/76/
+msgid "Early infinite gold + [[Paint Smudger||104768]]/[[Felboar||110664]] to stabilize and Felboar eventually."
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/76/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Visionary Shipman||126810]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/76/
+msgid "Cast spells to consume buffed shop."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/14/
@@ -146,7 +167,7 @@ msgid "Nagas - Deep Blue"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/58/
-msgid "Roll for [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]], and [[Lava Lurker||80747]]. Put your spellcrafts on your Lava Lurker to gain permanent stats. [[Bluesy Siren||127229]] on 6 further scales your deep blues and provides a lot of tempo. After you have golden versions of everything, start filling out the rest of your board with scam such as [[Leeroy the Reckless||90425]]. The best ending unit is taunted [[Daggerspine Thrasher||103714]] because it can reset divine shield and venom during combat."
+msgid "Roll for [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]], and [[Flaming Enforcer||126924]]. Put your spellcrafts on the shop with Enforcer to gain permanent stats. [[Bluesy Siren||127229]] on 6 further scales your deep blues and provides a lot of tempo. After you have golden versions of everything, start filling out the rest of your board with scam such as [[Leeroy the Reckless||90425]] and [[Daggerspine Thrasher||103714]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/58/
@@ -262,6 +283,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/56/
 msgid "Teach Murlocs spells and proc them"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/36/
+msgid "Nalaa"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/36/
+msgid "Buy every single spell that effectively costs 1 (Fleeting Vigor, Enchanted Lasso), to scale your good menagerie units. [[Stuntdrake||127238]] and [[Niuzao||103591]] are the most important cards to scale. Eventually, you can replace your worst units with summons such as [[Twilight Broodmother||127236]] to help support the [[Stuntdrake||127238]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/36/
+msgid "[[Nalaa the Redeemer||104468]] + Spell Generation ([[Visionary Shipman||126810]])/Good tribes ([[Whirling Lass-o-matic||110668]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/36/
+msgid "[[Nalaa the Redeemer||104468]]\n"
+"Spell Generation"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/36/
+msgid "Buy spells to scale Menagerie units."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/6/
