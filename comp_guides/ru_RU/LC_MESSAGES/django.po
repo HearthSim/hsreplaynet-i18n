@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-05 01:40\n"
+"POT-Creation-Date: 2026-02-09 22:32\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -15,14 +15,14 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-02-05 12:40\n"
+"PO-Revision-Date: 2026-02-10 00:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/71/
 msgid "Pirates - APM"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/71/
-msgid "This comp relies on going infinite and finding some way to turn that infinite gold to stats. A combination  of [[Fleet Admiral Tethys||101122]], [[Brann Bronzebeard||96786]], and [[Visionary Shipman||126810]] will generate you infinite gold. Buy every card this gives another gold on top of it, such as [[Sellemental||64038]], [[Patient Scout||97604]], and [[River Skipper||122092]] to maintain infinity. Most commonly you use [[Cannon Corsair||126812]] and [[Dastardly Drust||119992]] to scale your board while cycling infinite gold, but [[Gunpowder Courier||98889]] and [[Plankwalker||128086]] are other options as well. ADVANCED: Keep an [[Air Revenant||126173]] on your board and pivot to [[Acid Rainfall||126171]] when you see it, the scaling is much faster. Or you can eat pirates onto [[Stuntdrake||127238]] and then play avenge minions. Or you can pivot to Evoker Dragons."
+msgid "This comp relies on going infinite and finding some way to turn that infinite gold to stats. A combination  of [[Fleet Admiral Tethys||101122]], [[Brann Bronzebeard||96786]], and [[Visionary Shipman||126810]] will generate you infinite gold. Buy every card this gives another gold on top of it, such as [[Sellemental||64038]], [[Patient Scout||97604]], and [[River Skipper]] to maintain infinity. Most commonly you use [[Cannon Corsair||126812]] and [[Dastardly Drust]] to scale your board while cycling infinite gold, but [[Gunpowder Courier||98889]] and [[Plankwalker||128086]] are other options as well. ADVANCED: Keep an [[Air Revenant||126173]] on your board and pivot to [[Acid Rainfall||126171]] when you see it, the scaling is much faster. Or you can eat pirates onto [[Stuntdrake||127238]] and then play avenge minions. Or you can pivot to Evoker Dragons."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/71/
@@ -114,7 +114,7 @@ msgid "EARLY [[Silithid Burrower||108547]] + Avenge setup"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Avenge setup ([[Manasaber||98831]])"
+msgid "Avenge setup ([[Manasaber]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/44/
@@ -189,7 +189,7 @@ msgid "Mechs - Divine Shield"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/21/
-msgid "Use [[Whirling Lass-o-Matic||110668]] primarily to generate spells, but [[Marquee Ticker||115680]] and [[Industrious Deckhand||126808]] are good options too. Then, use [[Charging Czarina||110321]] to convert these spells into attack buffs for your divine shields, such as [[Deflect-o-Bot||61930]] and [[Greasebot||72389]]."
+msgid "Use [[Whirling Lass-o-Matic||110668]] primarily to generate spells, but [[Marquee Ticker||115680]] and [[Industrious Deckhand||126808]] are good options too. Then, use [[Charging Czarina||110321]] to convert these spells into attack buffs for your divine shields, such as [[Deflect-o-Bot]] and [[Greasebot||72389]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/21/
@@ -197,7 +197,7 @@ msgid "Spell Generation ([[Whirling Lass-o-matic||110668]]) + [[Charging Czarina
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/21/
-msgid "Divine Shields ([[Deflect-o-bot||61930]], [[Grease bot||72389]])"
+msgid "Divine Shields ([[Deflect-o-bot]], [[Grease bot||72389]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/21/
@@ -209,15 +209,15 @@ msgid "Pirates - Eudora"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/62/
-msgid "*MUST HAVE BEASTS* Proc [[Ship Master Eudora||123595]] extra times with effects such as [[Titus Rivendare||97408]] and [[Monstrous Macaw||62230]]. Macaw and Titus needs to be golden for this strat to work decent. Fill in the rest of your board with various goldens as well, usually its [[Aureate Laureate||119996]]."
+msgid "*MUST HAVE BEASTS* Proc [[Ship Master Eudora]] extra times with effects such as [[Titus Rivendare||97408]] and [[Monstrous Macaw||62230]]. Macaw and Titus needs to be golden for this strat to work decent. Fill in the rest of your board with various goldens as well, usually its [[Aureate Laureate||119996]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/62/
-msgid "[[Ship Master Eudora||123595]] + [[Monstrous Macaw||62230]] + [[Titus Rivendare||97408]] + some goldens"
+msgid "[[Ship Master Eudora]] + [[Monstrous Macaw||62230]] + [[Titus Rivendare||97408]] + some goldens"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/62/
-msgid "[[Ship Master Eudora||123595]] + some goldens"
+msgid "[[Ship Master Eudora]] + some goldens"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/62/
@@ -249,7 +249,7 @@ msgid "Murlocs - Hand Buff"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/67/
-msgid "First, scale a huge card in your hand. Most commonly you use [[Brann Bronzebeard||96786]] and cycling Murlocs to scale [[Bream Counter||98509]]. You usually have [[Mrglin' Burglar||114391]] and/or [[Primitive Painter||122281]] as supplementary scaling. Both [[Bassgill||98926]] and [[Costume Enthusiast||126641]] benefit from the big minion in hand. Additionally buy every [[Bile Spitter||122219]] in the lategame to either pull from Bassgill or end on."
+msgid "First, scale a huge card in your hand. Most commonly you use [[Brann Bronzebeard||96786]] and cycling Murlocs to scale [[Bream Counter||98509]]. You usually have [[Mrglin' Burglar||114391]] and/or [[Primitive Painter]] as supplementary scaling. Both [[Bassgill||98926]] and [[Costume Enthusiast||126641]] benefit from the big minion in hand. Additionally buy every [[Bile Spitter||122219]] in the lategame to either pull from Bassgill or end on."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/67/
@@ -332,11 +332,11 @@ msgid "Quilboar - Rally"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/49/
-msgid "Scale your bloodgems using an early [[Sanguine Refiner||122566]]. Then, [[Razorfen Vineweaver||122562]] casts 3 or more permanent gems on itself each fight, while [[Bloodsnout Warlord||122564]] casts an insane amount of temporary gems on your board. Taunt is important in this comp, and use it on either [[Charlga||70165]] or any Divine Shield"
+msgid "Scale your bloodgems using an early [[Sanguine Refiner||122566]]. Then, [[Razorfen Vineweaver||122562]] casts 3 or more permanent gems on itself each fight, while [[Bloodsnout Warlord]] casts an insane amount of temporary gems on your board. Taunt is important in this comp, and use it on either [[Charlga||70165]] or any Divine Shield"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/49/
-msgid "Gem Scaling ([[Sanguine Refiner||122566]]) + Payoff ([[Razorfen Vineweaver||122562]]/[[Bloodsnout Warlord||122564]])"
+msgid "Gem Scaling ([[Sanguine Refiner||122566]]) + Payoff ([[Razorfen Vineweaver||122562]]/[[Bloodsnout Warlord]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/49/
@@ -395,7 +395,7 @@ msgid "Demons - Shop Buff"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Scale your shop somehow, usually it's through [[Shadowdancer||120662]] but your timewarps may help with it. Then, use [[Insatiable Urzul||72060]] to capture the buffs in the shop. Typically you have an economy setup with [[Brann Bronzebeard||96786]] which allows you to cycle only premium demons such as [[Tardy Traveler||116833]], [[Ominous Seer||117553]], [[Felemental||97553]], [[Furious Driver||116831]], and [[Imposing Percussionist||99232]]."
+msgid "Scale your shop somehow, usually it's through [[Shadowdancer||120662]] but your timewarps may help with it. Then, use [[Insatiable Urzul||72060]] to capture the buffs in the shop. Typically you have an economy setup with [[Brann Bronzebeard||96786]] which allows you to cycle only premium demons such as [[Tardy Traveler]], [[Ominous Seer||117553]], [[Felemental||97553]], [[Furious Driver||116831]], and [[Imposing Percussionist||99232]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
@@ -436,7 +436,7 @@ msgid "Dragons - Spells"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/73/
-msgid "[[Fire-Forged Evoker||120301]] scales with the amount of spells you cast. Your spell generation is mainly going to come from cycling cards with [[Brann Bronzebeard||96786]] and [[Visionary Shipman||126810]]. As long as you cycle free cards such as [[Tavern Tempest||64077]] and [[Reef Explorer||80754]], you should get 20 or more procs on your [[Fire-forged Evoker||120301]] a turn. Leave [[Persistent Poet||108463]] on your board to capture permanent stats every fight. Finally, at some point you may sell your spell generation setup to end on premium dragons such as [[Tarecgosa||72062]]."
+msgid "[[Fire-Forged Evoker||120301]] scales with the amount of spells you cast. Your spell generation is mainly going to come from cycling cards with [[Brann Bronzebeard||96786]] and [[Visionary Shipman||126810]]. As long as you cycle free cards such as [[Tavern Tempest||64077]] and [[Reef Explorer]], you should get 20 or more procs on your [[Fire-forged Evoker||120301]] a turn. Leave [[Persistent Poet||108463]] on your board to capture permanent stats every fight. Finally, at some point you may sell your spell generation setup to end on premium dragons such as [[Tarecgosa||72062]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/73/
@@ -457,11 +457,11 @@ msgid "Beasts - Summons"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/12/
-msgid "[[Goldrinn, the Great Wolf||59955]] + [[Monstrous Macaw||62230]] and [[Titus Rivendare||97408]] gives a huge aura affect to all beasts you summon. Usually, you want to taunt and reborn the Goldrinn so the Macaw always procs it and it always dies. [[Indomitable Mount||113132]] is the best summon beast to run in this comp."
+msgid "[[Goldrinn, the Great Wolf]] + [[Monstrous Macaw||62230]] and [[Titus Rivendare||97408]] gives a huge aura affect to all beasts you summon. Usually, you want to taunt and reborn the Goldrinn so the Macaw always procs it and it always dies. [[Indomitable Mount]] is the best summon beast to run in this comp."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/12/
-msgid "[[Goldrinn, the Great Wolf||59955]] + beast summons ([[Indomitable Mount||113132]])"
+msgid "[[Goldrinn, the Great Wolf]] + beast summons ([[Indomitable Mount]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/12/

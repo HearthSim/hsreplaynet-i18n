@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-08 01:40+0000\n"
-"PO-Revision-Date: 2026-02-09 12:40\n"
+"POT-Creation-Date: 2026-02-09 22:32+0000\n"
+"PO-Revision-Date: 2026-02-10 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -126,47 +126,47 @@ msgstr "您已经将此激活码应用到您的账号。"
 msgid "Code has been applied to your account."
 msgstr "激活码使用成功。"
 
-#: settings.py:452
+#: settings.py:451
 msgid "Full access to your HSReplay.net account"
 msgstr "完全访问您的HSReplay.net帐户"
 
-#: settings.py:453
+#: settings.py:452
 msgid "Access information about your connected social accounts"
 msgstr "访问您已连接的社交帐户的信息"
 
-#: settings.py:454
+#: settings.py:453
 msgid "View your Hearthstone card collection"
 msgstr "查看您的炉石卡牌收藏"
 
-#: settings.py:455
+#: settings.py:454
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "上传您的炉石卡牌收藏到网站"
 
-#: settings.py:456
+#: settings.py:455
 msgid "View your replays"
 msgstr "查看您的回放"
 
-#: settings.py:457
+#: settings.py:456
 msgid "Update and delete your replays"
 msgstr "更新和删除您的回放"
 
-#: settings.py:458
+#: settings.py:457
 msgid "Access the Partner API"
 msgstr "获取合作伙伴的API"
 
-#: settings.py:459
+#: settings.py:458
 msgid "Read access to the tournaments service"
 msgstr "获得锦标赛服务的读取权限"
 
-#: settings.py:460
+#: settings.py:459
 msgid "Write access to the tournaments service"
 msgstr "获得锦标赛服务的写入权限"
 
-#: settings.py:461
+#: settings.py:460
 msgid "View your webhooks"
 msgstr "查看您的 webhooks"
 
-#: settings.py:462
+#: settings.py:461
 msgid "Create and delete webhooks on your behalf"
 msgstr "为您创建和删除 webhooks"
 
@@ -536,8 +536,8 @@ msgstr "酒馆战棋英雄"
 msgid "Battlegrounds Comps"
 msgstr "酒馆战棋流派"
 
-#: templates/footer.html:80 web/views/battlegrounds.py:731
-#: web/views/battlegrounds.py:781 web/views/battlegrounds.py:805
+#: templates/footer.html:80 web/views/battlegrounds.py:738
+#: web/views/battlegrounds.py:788 web/views/battlegrounds.py:812
 msgid "Battlegrounds Minions"
 msgstr "酒馆战棋随从"
 
@@ -545,7 +545,7 @@ msgstr "酒馆战棋随从"
 msgid "Battlegrounds Anomalies"
 msgstr "酒馆战棋畸变"
 
-#: templates/footer.html:82 web/views/battlegrounds.py:449
+#: templates/footer.html:82 web/views/battlegrounds.py:456
 msgid "Battlegrounds Quests"
 msgstr "酒馆战棋任务"
 
@@ -596,10 +596,10 @@ msgstr "切换导航"
 #: templates/navigation.html:38 web/views/battlegrounds.py:146
 #: web/views/battlegrounds.py:246 web/views/battlegrounds.py:266
 #: web/views/battlegrounds.py:282 web/views/battlegrounds.py:343
-#: web/views/battlegrounds.py:407 web/views/battlegrounds.py:456
-#: web/views/battlegrounds.py:500 web/views/battlegrounds.py:516
-#: web/views/battlegrounds.py:575 web/views/battlegrounds.py:735
-#: web/views/battlegrounds.py:904 web/views/battlegrounds.py:1099
+#: web/views/battlegrounds.py:407 web/views/battlegrounds.py:463
+#: web/views/battlegrounds.py:507 web/views/battlegrounds.py:523
+#: web/views/battlegrounds.py:582 web/views/battlegrounds.py:742
+#: web/views/battlegrounds.py:911 web/views/battlegrounds.py:1106
 msgid "Battlegrounds"
 msgstr "酒馆战棋"
 
@@ -624,7 +624,7 @@ msgid "Parties"
 msgstr "队伍"
 
 #: templates/navigation.html:96 web/views/battlegrounds.py:267
-#: web/views/battlegrounds.py:584
+#: web/views/battlegrounds.py:591
 msgid "Heroes"
 msgstr "英雄"
 
@@ -632,20 +632,20 @@ msgstr "英雄"
 msgid "Trinkets"
 msgstr "饰品"
 
-#: templates/navigation.html:121 web/views/battlegrounds.py:905
+#: templates/navigation.html:121 web/views/battlegrounds.py:912
 msgid "Timewarp"
 msgstr "时空扭曲"
 
-#: templates/navigation.html:134 web/views/battlegrounds.py:517
+#: templates/navigation.html:134 web/views/battlegrounds.py:524
 msgid "Darkmoon Prizes"
 msgstr "暗月奖品"
 
 #: templates/navigation.html:145 web/views/battlegrounds.py:283
-#: web/views/battlegrounds.py:1108
+#: web/views/battlegrounds.py:1115
 msgid "Comps"
 msgstr "流派"
 
-#: templates/navigation.html:157 web/views/battlegrounds.py:457
+#: templates/navigation.html:157 web/views/battlegrounds.py:464
 msgid "Quests"
 msgstr "任务"
 
@@ -658,7 +658,7 @@ msgstr "新"
 msgid "Anomalies"
 msgstr "畸变"
 
-#: templates/navigation.html:185 web/views/battlegrounds.py:736
+#: templates/navigation.html:185 web/views/battlegrounds.py:743
 msgid "Minions"
 msgstr "随从"
 
@@ -991,143 +991,143 @@ msgstr "透过千千万对局数据，探索酒馆战棋中最适合您的饰品
 msgid "Explore our Battlegrounds Anomalies List and learn which anomalies are more common - powered by data from millions of games."
 msgstr "打开我们的酒馆战棋畸变梯队表，查看它们在百万场对局中的表现。"
 
-#: web/views/battlegrounds.py:451
+#: web/views/battlegrounds.py:458
 msgid "Explore our Battlegrounds Quests List and learn which quests are the best - powered by data from millions of games."
 msgstr "打开我们的酒馆战棋任务梯队表看看最好的任务哪些 —— 基于它们在百万场对局中的表现。"
 
-#: web/views/battlegrounds.py:497
+#: web/views/battlegrounds.py:504
 msgid "Battlegrounds Duos Heroes"
 msgstr "酒馆战棋双打英雄"
 
-#: web/views/battlegrounds.py:501
+#: web/views/battlegrounds.py:508
 msgid "Duos Heroes"
 msgstr "双打英雄"
 
-#: web/views/battlegrounds.py:513
+#: web/views/battlegrounds.py:520
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr "酒馆战棋暗月奖品"
 
-#: web/views/battlegrounds.py:522
+#: web/views/battlegrounds.py:529
 msgid "Battlegrounds Hero"
 msgstr "酒馆战棋英雄"
 
-#: web/views/battlegrounds.py:544
+#: web/views/battlegrounds.py:551
 msgid "No matching hero found."
 msgstr "未找到匹配的英雄。"
 
-#: web/views/battlegrounds.py:723
+#: web/views/battlegrounds.py:730
 msgid "Battlegrounds Duos Hero"
 msgstr "酒馆战棋双打英雄"
 
-#: web/views/battlegrounds.py:743
+#: web/views/battlegrounds.py:750
 msgid "Beast"
 msgstr "野兽"
 
-#: web/views/battlegrounds.py:744
+#: web/views/battlegrounds.py:751
 msgid "Demon"
 msgstr "恶魔"
 
-#: web/views/battlegrounds.py:745
+#: web/views/battlegrounds.py:752
 msgid "Dragon"
 msgstr "龙"
 
-#: web/views/battlegrounds.py:746
+#: web/views/battlegrounds.py:753
 msgid "Elemental"
 msgstr "元素"
 
-#: web/views/battlegrounds.py:747
+#: web/views/battlegrounds.py:754
 msgid "Mech"
 msgstr "机械"
 
-#: web/views/battlegrounds.py:748
+#: web/views/battlegrounds.py:755
 msgid "Murloc"
 msgstr "鱼人"
 
-#: web/views/battlegrounds.py:749
+#: web/views/battlegrounds.py:756
 msgid "Naga"
 msgstr "纳迦"
 
-#: web/views/battlegrounds.py:750
+#: web/views/battlegrounds.py:757
 msgid "Pirate"
 msgstr "海盗"
 
-#: web/views/battlegrounds.py:751
+#: web/views/battlegrounds.py:758
 msgid "Quilboar"
 msgstr "野猪人"
 
-#: web/views/battlegrounds.py:752
+#: web/views/battlegrounds.py:759
 msgid "Undead"
 msgstr "亡灵"
 
-#: web/views/battlegrounds.py:764
+#: web/views/battlegrounds.py:771
 msgid "Invalid Tavern Tier."
 msgstr "无效的酒馆等级。"
 
-#: web/views/battlegrounds.py:770
+#: web/views/battlegrounds.py:777
 msgid "No matching minion type found."
 msgstr "未找到匹配的随从类型。"
 
-#: web/views/battlegrounds.py:784
+#: web/views/battlegrounds.py:791
 #, python-brace-format
 msgid "Battlegrounds {type} Minions"
 msgstr "酒馆战棋{type}随从"
 
-#: web/views/battlegrounds.py:789
+#: web/views/battlegrounds.py:796
 #, python-brace-format
 msgid "Battlegrounds Tier {tier} Minions"
 msgstr "酒馆战棋{tier}级随从"
 
-#: web/views/battlegrounds.py:793
+#: web/views/battlegrounds.py:800
 #, python-brace-format
 msgid "Battlegrounds Tier {tier} {type} Minions"
 msgstr "酒馆战棋{tier}级{type}随从"
 
-#: web/views/battlegrounds.py:820 web/views/battlegrounds.py:849
+#: web/views/battlegrounds.py:827 web/views/battlegrounds.py:856
 msgid "Battlegrounds Minion"
 msgstr "酒馆战棋随从"
 
-#: web/views/battlegrounds.py:841
+#: web/views/battlegrounds.py:848
 msgid "No matching minion found."
 msgstr "未找到匹配的随从。"
 
-#: web/views/battlegrounds.py:896
+#: web/views/battlegrounds.py:903
 msgid "Battlegrounds Timewarped Cards"
 msgstr "酒馆战棋时空扭曲卡牌"
 
-#: web/views/battlegrounds.py:898
+#: web/views/battlegrounds.py:905
 msgid "Explore the Minions, Spells & Hero Powers available in each of the Timewarped Tavern shops"
 msgstr "探索时空扭曲酒馆商店中可用的随从、法术与英雄技能"
 
-#: web/views/battlegrounds.py:920
+#: web/views/battlegrounds.py:927
 msgid "Battlegrounds Compositions"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:926 web/views/battlegrounds.py:956
+#: web/views/battlegrounds.py:933 web/views/battlegrounds.py:963
 msgid "Battlegrounds Composition"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:949
+#: web/views/battlegrounds.py:956
 msgid "No matching live or lingering composition found."
 msgstr "没有找到匹配的流派。"
 
-#: web/views/battlegrounds.py:951
+#: web/views/battlegrounds.py:958
 msgid "No matching composition found."
 msgstr "没有找到对应的流派。"
 
-#: web/views/battlegrounds.py:1050
+#: web/views/battlegrounds.py:1057
 msgid "Battlegrounds Comp"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:1070
+#: web/views/battlegrounds.py:1077
 msgid "No matching comp found."
 msgstr "未找到匹配的流派。"
 
-#: web/views/battlegrounds.py:1083
+#: web/views/battlegrounds.py:1090
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr "{tribe_name} - {obj.name}"
 
-#: web/views/battlegrounds.py:1165
+#: web/views/battlegrounds.py:1172
 msgid "My Battlegrounds Stats"
 msgstr "我的酒馆战棋数据"
 
