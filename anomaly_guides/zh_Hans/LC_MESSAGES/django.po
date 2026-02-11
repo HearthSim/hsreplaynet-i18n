@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-09T22:32:53.233176\n"
+"POT-Creation-Date: 2026-02-11T01:40:27.321326\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /anomaly_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 167\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-02-10 12:40\n"
+"PO-Revision-Date: 2026-02-11 12:40\n"
 
 #: Anomaly id 102982 | Guide id 20
 msgid "Quests with spellcraft effects are really strong because you get the spellcraft for two turns."
@@ -37,10 +37,6 @@ msgstr "前期的三连尽量拿4级随从，这样你就能在第4回合复制4
 msgid "Usually, you level to tavern 2 on turn 2, then tavern 3 on turn 4. The best T1 prizes to take are 2 coins and 3 rolls. The best T2 prizes to take are Great Deal and On the House."
 msgstr "通常情况下，在第2回合升到2级酒馆，然后在第4回合升到3级酒馆。等级1的最佳暗月奖品是2个铸币和3次刷新。等级2的最佳暗月奖品是 “绝妙的交易 ”和 “免费酬宾”。"
 
-#: Anomaly id 106510 | Guide id 19
-msgid "The best ones are value generators such as [[Greedy Snaketongue]] and [[Lost City Looter]]."
-msgstr "最好的资源生成器是[[贪婪的蛇信纳迦]]和[[失落之城掠夺者]]。"
-
 #: Anomaly id 101954 | Guide id 28
 msgid "Level every turn and be tavern 4 by turn 3. You can do this because of damage cap."
 msgstr "每回合都升级，第3回合升到4级酒馆。因为有伤害上限保护所以你可以这样做。"
@@ -60,6 +56,10 @@ msgstr "第1回合的购买非常重要。准备好只购买这种类型的随�
 #: Anomaly id 106470 | Guide id 95
 msgid "The best ones are value generators such as [[Campfire Shadow]] and [[Friendly Bouncer]]"
 msgstr "最好的是资源生成器，例如 [[营火幽影]] 和 [[友方保镖]]"
+
+#: Anomaly id 129427 | Guide id 109
+msgid "The prize that gives discounted 2 on tavern spells for the turn is super overpowered, and allows you to buy every spell you see in a turn basically."
+msgstr ""
 
 #: Anomaly id 119094 | Guide id 22
 msgid "For your second hero power, generally the lower armor the hero is, the better option it is. For example, Snake eyes is one of the best second hero powers to pick because it's a 6 armor hero paired alongside the armor of your first hero. Patchwerk technically counts as a 0 armor hero so it's one of the best second hero powers."
@@ -165,6 +165,10 @@ msgstr "在这个畸变下基于法术的流派稍好一些。除此以外你也
 msgid "It's really hard to hit anything in this anomaly, so maybe you need to buy more marginal cards you wouldn't otherwise buy to become stronger."
 msgstr "在这个畸变下，你真的很难凑出任何流派，所以也许需要购买更多原本不会购买的边际卡牌来变得更强。"
 
+#: Anomaly id 106510 | Guide id 19
+msgid "The best ones are value generators such as [[Briny Bootlegger||72071]]. Scaling cards such as [[Underhanded Dealer||99014]] are pretty good too."
+msgstr ""
+
 #: Anomaly id 106508 | Guide id 87
 msgid "Hope for a golden 6 drop that agrees with your current boardstate. If not, you may have to pivot into your golden 6 drop direction."
 msgstr "希望抽到一张与你当前场面契合的六级金随从。如果没有，你可能不得不调整策略，朝着你的金色六级随从方向发展。"
@@ -193,9 +197,13 @@ msgstr "有几个“智慧之球”刷新需要注意的点：其中一个是复
 msgid "Spells are really bad to buy in this anomaly. Typically you get one gold back from using [[Chef's Choice||105664]] but in this anomaly the spell is more expensive. Also minions are much more efficient to buy. Also, every single [[Refreshing Anomaly||64042]] is free."
 msgstr "在这个畸变下购买法术非常不划算。通常情况下，使用[[主厨甄选||105664]]可以换回1铸币，但在此畸变下法术的价格更高。此外，购买随从也更有效率。另外，每个[[刷新畸体||64042]]都是免费的。"
 
-#: Anomaly id 103078 | Guide id 82
-msgid "7 Drops are so overpowered any non-T7 comp can't compete. Here are some of the 7 drop lines: Morgl + Stiched + Moira + Bassgill steals a ton of opponents' stats // Rylak + Hawkstrider Herald + Sanguine Champion + Moira to make gigantic blood gems // Arcane Behemoth + Moira shop buff elementals // Moira + Champion of Sargeras + Rylak + Batty Terrorguard Shop Buff Demons"
-msgstr "7级随从过于强大，任何非7级阵容都无法与之抗衡。以下是一些7级随从阵容：摩戈尔+缝合回收者+茉艾拉·铜须+低音提琴鱼人偷取大量对手属性 // 双头飞龙+陆行鸟先锋+鲜血勇士+茉艾拉·铜须制造巨大鲜血宝石 // 奥术巨怪+茉艾拉·铜须强化商店元素 // 茉艾拉·铜须+萨格拉斯的勇士+双头飞龙+狂蝠恐惧卫士强化商店恶魔"
+#: Anomaly id 102084 | Guide id 45
+msgid "Most of the time, golden your timewarp on turn 6 or 9. The other times golden a value generator such as early [[Witchwing Nestmatron||76185]], [[Brann Bronzebeard||96786]], or [[Fleet Admiral Tethys||101122]]."
+msgstr ""
+
+#: Anomaly id 119092 | Guide id 57
+msgid "Most of the time, go for 6 drops."
+msgstr ""
 
 #: Anomaly id 109379 | Guide id 86
 msgid "Moira is best in economy heavy lobbies (Elemental/Murloc/Pirate). Seawitch, Morgl, and Varian are generally solid."
@@ -229,14 +237,6 @@ msgstr "你会希望你的英雄技能能够在不依赖高等级单位的情况
 msgid "Cycle comps such as Murlocs, Elementals, or PIrates, are wayyy better in this anomaly. You can easily go infinite with a single Brann or Rogers."
 msgstr "在这个畸变下，鱼人、元素或海盗等循环流派会变得更好。你可以轻松地用一个布莱恩·铜须或空军上将罗杰斯获取无限资源。"
 
-#: Anomaly id 102084 | Guide id 45
-msgid "On hero select, pick a value generator buddy. Finish that buddy as soon as possible and use goldenizer on it."
-msgstr "在英雄选择时，选择一个生成经济的伙伴。尽快完成该伙伴，并对其使用点金。"
-
-#: Anomaly id 119092 | Guide id 57
-msgid "Most of the time, go for 6 drops. If you want to go for 5s, make sure beasts are in because beast 5 drops are good."
-msgstr "大多数时候，选择6级随从。如果你要选择5级，确保野兽在酒馆中，因为野兽的5级随从很不错。"
-
 #: Anomaly id 103541 | Guide id 70
 msgid "Early value generating buddies are premium. Buddies are usually just much better cards than the regular minion pool. ADVANCED: You'll probably go infinite at some point, and the highest cap scaling is usually using [[Titanic Guardian]] and [[Snack Vendor]] strats. You'll need a [[Channel the Devourer||100899]] to make the AFK buddy big though."
 msgstr "早期生成经济的伙伴价值很高。伙伴通常比常规随从池中的卡牌强得多。进阶：你可能会在某个阶段实现无限经济，而最高上限的收益策略通常是使用[[泰坦守护者]]和[[零食商人]]。不过，你需要一张[[祈请吞噬者||100899]]来让阿凯的伙伴变得强大。"
@@ -244,4 +244,8 @@ msgstr "早期生成经济的伙伴价值很高。伙伴通常比常规随从池
 #: Anomaly id 106633 | Guide id 69
 msgid "If you're at 11-15 HP with your secret still up, do NOT use armor. Wait until your secret is used up before you use your armor up, so you can first benefit from the 11 extra gold. Go for highest cap scaling this anomaly (usually it's go infinite into Magicfin Murlocs)"
 msgstr "如果你的生命值在 11-15 之间且奥秘还在，请勿使用护甲。请等奥秘用完后，再使用你的护甲，这样你就能从额外获得的 11 枚铸币中受益。在这个畸变中追求最高的上限成长（通常是无限经济后转小学生鱼人流）"
+
+#: Anomaly id 103078 | Guide id 82
+msgid "Must use [[Treasure Seeker Elise||93099]] in this anomaly!! Then use Brann, [[Captain Sanders||97539]], and Sea Witch Zar'jia to go infinite and pick the highest scaling line. [[Psychus||127105]] will also be incredibly valuable this lobby because it's really hard to counter."
+msgstr ""
 
