@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-11 01:40+0000\n"
-"PO-Revision-Date: 2026-02-12 00:40\n"
+"POT-Creation-Date: 2026-02-12 01:40+0000\n"
+"PO-Revision-Date: 2026-02-12 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -499,7 +499,7 @@ msgstr "与Blizzard Entertainment没有从属关系。"
 
 #: templates/footer.html:63 templates/navigation.html:87
 #: templates/navigation.html:214 templates/navigation.html:273
-#: web/views/__init__.py:180
+#: web/views/__init__.py:184
 msgid "Downloads"
 msgstr "下载"
 
@@ -825,43 +825,43 @@ msgstr "HSReplay.net - 释放您的潜能"
 msgid "Sign in to HSReplay.net"
 msgstr "登录到HSReplay.net"
 
-#: web/views/__init__.py:168
+#: web/views/__init__.py:172
 msgid "Download Hearthstone Deck Tracker"
 msgstr "下载HDT炉石记牌器"
 
-#: web/views/__init__.py:170
+#: web/views/__init__.py:174
 msgid "HSReplay.net Companion App"
 msgstr "HSReplay.net随身应用程序"
 
-#: web/views/__init__.py:172
+#: web/views/__init__.py:176
 msgid "Hearthstone Deck Tracker is a free companion app to help you play like the pros."
 msgstr "HDT炉石记牌器是一款免费应用，可以帮助您拥有职业选手的炉石传说水平。"
 
-#: web/views/__init__.py:233
+#: web/views/__init__.py:237
 msgid "Contact our Support Team"
 msgstr "联系我们的支持团队"
 
-#: web/views/__init__.py:235
+#: web/views/__init__.py:239
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr "与HSReplay.net支持团队取得联系。"
 
-#: web/views/__init__.py:284
+#: web/views/__init__.py:288
 msgid "Redeem a Code"
 msgstr "兑换激活码"
 
-#: web/views/__init__.py:295
+#: web/views/__init__.py:299
 msgid "Welcome to HSReplay.net"
 msgstr "欢迎使用 HSReplay.net"
 
-#: web/views/__init__.py:297
+#: web/views/__init__.py:301
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr "学习如何开始使用 HSReplay.net 以及你可以用它来做些什么。"
 
-#: web/views/__init__.py:308
+#: web/views/__init__.py:312
 msgid "Welcome to Hearthstone Deck Tracker"
 msgstr "欢迎使用Hearthstone Deck Tracker炉石记牌器"
 
-#: web/views/__init__.py:310
+#: web/views/__init__.py:314
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
 msgstr "看看你能使用Hearthstone Deck Tracker和这个网站做些什么吧！"
 
