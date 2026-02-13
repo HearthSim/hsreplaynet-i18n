@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23T01:40:26.874293\n"
+"POT-Creation-Date: 2026-02-13T01:40:25.588849\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-02-12 00:40\n"
+"PO-Revision-Date: 2026-02-13 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -505,10 +505,6 @@ msgstr "恶毒牧"
 msgid "Galakrond Stealth Rogue"
 msgstr "潜行祈求贼"
 
-#: https://hsreplay.net/archetypes/741/big-hunter
-msgid "Big Hunter"
-msgstr "大哥猎"
-
 #: https://hsreplay.net/archetypes/25/miracle-rogue
 msgid "Miracle Rogue"
 msgstr "奇迹贼"
@@ -656,6 +652,10 @@ msgstr "快攻牧"
 #: https://hsreplay.net/archetypes/228/clone-priest
 msgid "Clone Priest"
 msgstr "展览馆牧"
+
+#: https://hsreplay.net/archetypes/741/big-hunter
+msgid "Big Hunter"
+msgstr "大哥猎"
 
 #: https://hsreplay.net/archetypes/267/gonk-druid
 msgid "Gonk Druid"
