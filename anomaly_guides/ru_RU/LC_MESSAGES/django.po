@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-11T01:40:27.321326\n"
+"POT-Creation-Date: 2026-02-14T01:40:26.933830\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /anomaly_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 167\n"
 "Language: ru_RU\n"
-"PO-Revision-Date: 2026-02-11 12:40\n"
+"PO-Revision-Date: 2026-02-14 12:40\n"
 
 #: Anomaly id 102982 | Guide id 20
 msgid "Quests with spellcraft effects are really strong because you get the spellcraft for two turns."
@@ -31,10 +31,6 @@ msgstr ""
 
 #: Anomaly id 118670 | Guide id 37
 msgid "Try to line up an early triple into a 4 drop, so you can copy the 4 drop turn 4. Also [[Drakkari Enchanter||101314]] works with this anomaly, and can be used on itself or another key card such as [[Brann Bronzebeard||96786]]."
-msgstr ""
-
-#: Anomaly id 102459 | Guide id 84
-msgid "Usually, you level to tavern 2 on turn 2, then tavern 3 on turn 4. The best T1 prizes to take are 2 coins and 3 rolls. The best T2 prizes to take are Great Deal and On the House."
 msgstr ""
 
 #: Anomaly id 101954 | Guide id 28
@@ -59,6 +55,10 @@ msgstr ""
 
 #: Anomaly id 129427 | Guide id 109
 msgid "The prize that gives discounted 2 on tavern spells for the turn is super overpowered, and allows you to buy every spell you see in a turn basically."
+msgstr ""
+
+#: Anomaly id 128772 | Guide id 111
+msgid "Immortal, Chameleon, and Mythrax tend to be insane ending units that get added to the pool."
 msgstr ""
 
 #: Anomaly id 119094 | Guide id 22
@@ -246,6 +246,14 @@ msgid "If you're at 11-15 HP with your secret still up, do NOT use armor. Wait u
 msgstr ""
 
 #: Anomaly id 103078 | Guide id 82
-msgid "Must use [[Treasure Seeker Elise||93099]] in this anomaly!! Then use Brann, [[Captain Sanders||97539]], and Sea Witch Zar'jia to go infinite and pick the highest scaling line. [[Psychus||127105]] will also be incredibly valuable this lobby because it's really hard to counter."
+msgid "Must use [[Treasure Seeker Elise||93099]] in this anomaly!! Then use Brann, [[Captain Sanders||97539]], and [[Sea Witch Zar'jira||103069]] to go infinite and pick the highest scaling line. [[Psychus||127105]] will also be incredibly valuable this lobby because it's really hard to counter."
+msgstr ""
+
+#: Anomaly id 128889 | Guide id 110
+msgid "There's no set rule on how many Chronum to spend on Minor vs Major, the most important rule is \"don't buy trash.\""
+msgstr ""
+
+#: Anomaly id 102459 | Guide id 84
+msgid "Usually, you level to tavern 2 on turn 2, then tavern 3 on turn 4. The best T1 prizes to take are 2 coins and 3 rolls. The best T2 prizes to take are Great Deal and On the House. The best T3 prizes are Mindflayer Goggles and Tavern spell discount 2."
 msgstr ""
 

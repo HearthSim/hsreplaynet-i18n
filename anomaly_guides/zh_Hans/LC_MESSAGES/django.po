@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-11T01:40:27.321326\n"
+"POT-Creation-Date: 2026-02-14T01:40:26.933830\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /anomaly_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 167\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-02-12 00:40\n"
+"PO-Revision-Date: 2026-02-14 12:40\n"
 
 #: Anomaly id 102982 | Guide id 20
 msgid "Quests with spellcraft effects are really strong because you get the spellcraft for two turns."
@@ -32,10 +32,6 @@ msgstr "买完东西后在你刷新酒馆前稍等一会儿，自动刷出来的
 #: Anomaly id 118670 | Guide id 37
 msgid "Try to line up an early triple into a 4 drop, so you can copy the 4 drop turn 4. Also [[Drakkari Enchanter||101314]] works with this anomaly, and can be used on itself or another key card such as [[Brann Bronzebeard||96786]]."
 msgstr "前期的三连尽量拿4级随从，这样你就能在第4回合复制4级随从。此外，[[达卡莱附魔师||101314]]也能与此畸变配合使用，可以用在它本身或另一张关键牌上，如[[布莱恩·铜须||96786]]。"
-
-#: Anomaly id 102459 | Guide id 84
-msgid "Usually, you level to tavern 2 on turn 2, then tavern 3 on turn 4. The best T1 prizes to take are 2 coins and 3 rolls. The best T2 prizes to take are Great Deal and On the House."
-msgstr "通常情况下，在第2回合升到2级酒馆，然后在第4回合升到3级酒馆。等级1的最佳暗月奖品是2个铸币和3次刷新。等级2的最佳暗月奖品是 “绝妙的交易 ”和 “免费酬宾”。"
 
 #: Anomaly id 101954 | Guide id 28
 msgid "Level every turn and be tavern 4 by turn 3. You can do this because of damage cap."
@@ -59,7 +55,11 @@ msgstr "最好的是资源生成器，例如 [[营火幽影]] 和 [[友方保镖
 
 #: Anomaly id 129427 | Guide id 109
 msgid "The prize that gives discounted 2 on tavern spells for the turn is super overpowered, and allows you to buy every spell you see in a turn basically."
-msgstr ""
+msgstr "本回合对酒馆法术提供2铸币优惠的奖励非常强大，基本上让你能买到每一回合看到的法术。"
+
+#: Anomaly id 128772 | Guide id 111
+msgid "Immortal, Chameleon, and Mythrax tend to be insane ending units that get added to the pool."
+msgstr "不朽者，变色龙和米斯拉克斯往往都是卡池中的疯狂的决赛随从。"
 
 #: Anomaly id 119094 | Guide id 22
 msgid "For your second hero power, generally the lower armor the hero is, the better option it is. For example, Snake eyes is one of the best second hero powers to pick because it's a 6 armor hero paired alongside the armor of your first hero. Patchwerk technically counts as a 0 armor hero so it's one of the best second hero powers."
@@ -167,7 +167,7 @@ msgstr "在这个畸变下，你真的很难凑出任何流派，所以也许需
 
 #: Anomaly id 106510 | Guide id 19
 msgid "The best ones are value generators such as [[Briny Bootlegger||72071]]. Scaling cards such as [[Underhanded Dealer||99014]] are pretty good too."
-msgstr ""
+msgstr "最好的是资源生成卡比如 [[海上走私贩||72071]]。成长卡比如 [[开挂荷官||99014]] 也相当不错。"
 
 #: Anomaly id 106508 | Guide id 87
 msgid "Hope for a golden 6 drop that agrees with your current boardstate. If not, you may have to pivot into your golden 6 drop direction."
@@ -199,11 +199,11 @@ msgstr "在这个畸变下购买法术非常不划算。通常情况下，使用
 
 #: Anomaly id 102084 | Guide id 45
 msgid "Most of the time, golden your timewarp on turn 6 or 9. The other times golden a value generator such as early [[Witchwing Nestmatron||76185]], [[Brann Bronzebeard||96786]], or [[Fleet Admiral Tethys||101122]]."
-msgstr ""
+msgstr "大多数时候，在第6回合或第9回合时点金你的时空扭曲随从。其他时候点金一个资源生成器，例如早期的 [[巫翼巢穴主母||76185]]， [[布莱恩·铜须||96786]]，或 [[舰队上将特塞斯||101122]]。"
 
 #: Anomaly id 119092 | Guide id 57
 msgid "Most of the time, go for 6 drops."
-msgstr ""
+msgstr "在大多数情况下拿6级随从。"
 
 #: Anomaly id 109379 | Guide id 86
 msgid "Moira is best in economy heavy lobbies (Elemental/Murloc/Pirate). Seawitch, Morgl, and Varian are generally solid."
@@ -246,6 +246,14 @@ msgid "If you're at 11-15 HP with your secret still up, do NOT use armor. Wait u
 msgstr "如果你的生命值在 11-15 之间且奥秘还在，请勿使用护甲。请等奥秘用完后，再使用你的护甲，这样你就能从额外获得的 11 枚铸币中受益。在这个畸变中追求最高的上限成长（通常是无限经济后转小学生鱼人流）"
 
 #: Anomaly id 103078 | Guide id 82
-msgid "Must use [[Treasure Seeker Elise||93099]] in this anomaly!! Then use Brann, [[Captain Sanders||97539]], and Sea Witch Zar'jia to go infinite and pick the highest scaling line. [[Psychus||127105]] will also be incredibly valuable this lobby because it's really hard to counter."
-msgstr ""
+msgid "Must use [[Treasure Seeker Elise||93099]] in this anomaly!! Then use Brann, [[Captain Sanders||97539]], and [[Sea Witch Zar'jira||103069]] to go infinite and pick the highest scaling line. [[Psychus||127105]] will also be incredibly valuable this lobby because it's really hard to counter."
+msgstr "在这个畸变中必须使用 [[宝藏追寻者伊莉斯||93099]]！！然后使用铜须、[[杉德尔船长||97539]] 和 [[海巫扎尔吉拉||103069]] 无限循环并选择最高的成长线。[[赛古斯||127105]] 在这个酒馆中也非常有价值，因为它很难被反制。"
+
+#: Anomaly id 128889 | Guide id 110
+msgid "There's no set rule on how many Chronum to spend on Minor vs Major, the most important rule is \"don't buy trash.\""
+msgstr "在小型和大型时空扭曲卡牌上花多少时光标记没有固定规则，最重要的规则是“不要买垃圾。”"
+
+#: Anomaly id 102459 | Guide id 84
+msgid "Usually, you level to tavern 2 on turn 2, then tavern 3 on turn 4. The best T1 prizes to take are 2 coins and 3 rolls. The best T2 prizes to take are Great Deal and On the House. The best T3 prizes are Mindflayer Goggles and Tavern spell discount 2."
+msgstr "通常情况下，在第2回合升到2级酒馆，然后在第4回合升到3级酒馆。等级1的最佳暗月奖品是2个铸币和3次刷新。等级2的最佳暗月奖品是 “绝妙的交易 ”和 “免费酬宾”。等级3的最佳暗月奖品是夺心护目镜和酒馆法术减费"
 
