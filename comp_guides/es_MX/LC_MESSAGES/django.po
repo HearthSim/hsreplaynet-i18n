@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-14 01:40\n"
+"POT-Creation-Date: 2026-02-15 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-MX\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-02-14 12:40\n"
+"PO-Revision-Date: 2026-02-15 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/71/
 msgid "Pirates - APM"
@@ -204,26 +204,6 @@ msgstr ""
 msgid "Scale Naga's spellcraft"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/51/
-msgid "Demons - Demon Beetles"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/51/
-msgid "*BEST PLAYED WITH DEMONS* [[Lord of the Ruins||122116]] buffs by having your demons deal damage to minions. The best way to do that is with [[Silent Enforcer||122605]] + [[Titus Rivendare||97408]], which damages all your opponent's minions at once. [[Silky Shimmermoth||121135]] then gets buffed every individual time your silent enforcer damages a minion, so it gets scaled a ton every fight."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/51/
-msgid "[[Silent Enforcer||122605]] + Damage payoff ([[Lord of the Ruins||122116]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/51/
-msgid "[[Lord of the Ruins||122116]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/51/
-msgid "Demons deal damage to buff board"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Mechs - Divine Shield"
 msgstr ""
@@ -242,26 +222,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Play spells to buff Mechs"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/77/
-msgid "Beasts - Felhorn Beetles"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/77/
-msgid "Use [[Rylak Metalhead||98829]] + [[Felhorn||129437]] to give free attack buffs to your [[Silky Shimmermoth||121135]] to scale your beetles. [[Monstrous Macaw||62230]], reborn, [[Brann Bronzebeard||96786]], [[Titus Rivendare||97408]], [[Lord of the Ruins||122116]], AND [[Hardy Orca||126849]] ALL provide multipliers for this effect, and stacking multipliers scales your beetles insanely fast."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/77/
-msgid "[[Brann Bronzebeard||96786]] + good economy"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/77/
-msgid "[[Brann Bronzebeard||96786]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/77/
-msgid "Scale beetles"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/72/
@@ -327,7 +287,7 @@ msgid "Buy spells to scale Menagerie units."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Undead - Overflow Beetles"
+msgid "Undead - Overflow"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
