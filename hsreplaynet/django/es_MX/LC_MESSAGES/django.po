@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-12 01:40+0000\n"
-"PO-Revision-Date: 2026-02-12 12:40\n"
+"POT-Creation-Date: 2026-02-18 01:40+0000\n"
+"PO-Revision-Date: 2026-02-18 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -17,53 +17,41 @@ msgstr ""
 "X-Crowdin-File: /hsreplaynet/django/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 47\n"
 
-#: api/exceptions.py:22
+#: api/exceptions.py:21
 msgid "An upstream gateway returned an invalid response."
 msgstr "Una puerta de enlace principal devolvió una respuesta no válida."
 
-#: api/exceptions.py:28
+#: api/exceptions.py:27
 msgid "An upstream gateway timed out."
 msgstr "Se ha agotado el tiempo de espera."
 
-#: api/exceptions.py:34
+#: api/exceptions.py:33
 msgid "The entity cannot be processed."
 msgstr "La entidad no puede ser procesada."
 
-#: api/exceptions.py:40
+#: api/exceptions.py:39
 msgid "A resource is not in the expected state."
 msgstr "Un recurso no está en el estado esperado."
 
-#: api/exceptions.py:46
+#: api/exceptions.py:45
 msgid "The card has been rejected."
 msgstr "La carta ha sido rechazada."
 
-#: api/exceptions.py:51
+#: api/exceptions.py:50
 msgid "You need to authenticate to view this collection."
 msgstr "Necesitas autenticarte para ver esta colección."
 
-#: api/exceptions.py:56
+#: api/exceptions.py:55
 msgid "You do not have permission to view this collection."
 msgstr "No tienes permiso para ver esta colección."
 
-#: api/exceptions.py:62
+#: api/exceptions.py:61
 msgid "This product is not available."
 msgstr "Este producto no está disponible."
 
-#: api/exceptions.py:68
+#: api/exceptions.py:67
 msgid "This plan is not available."
 msgstr "Este plan no está disponible."
-
-#: api/exceptions.py:74
-msgid "Botocore exception NoCredentialsError"
-msgstr ""
-
-#: api/exceptions.py:80
-msgid "S3 exception NoSuchKey"
-msgstr ""
-
-#: api/exceptions.py:86
-msgid "Sagemaker InvokeEndpoint ClientError"
-msgstr ""
 
 #: api/fields.py:13
 #, python-brace-format
@@ -688,12 +676,12 @@ msgstr "Cartas"
 msgid "Arena"
 msgstr "Arena"
 
-#: templates/navigation.html:300
+#: templates/navigation.html:301
 #, python-format
 msgid " View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
 msgstr ""
 
-#: templates/navigation.html:314
+#: templates/navigation.html:315
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "Actualmente estamos actualizando esta sección para el último parche de Campos de Batalla. Pueda que los datos que encuentres sean incompletos o con demora."
 
