@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-15 01:40\n"
+"POT-Creation-Date: 2026-02-20 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: fr\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-02-15 12:40\n"
+"PO-Revision-Date: 2026-02-20 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/71/
 msgid "Pirates - APM"
@@ -160,6 +160,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/17/
 msgid "Scale up blood gems, unleash them during combat"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/51/
+msgid "Demons - Damage"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/51/
+msgid "[[Lord of the Ruins||122116]] buffs by having your demons deal damage to minions. The best way to do that is with [[Silent Enforcer||122605]] + [[Titus Rivendare||97408]], which damages all your opponent's minions at once. [[Devout Hellcaller||122586]] and [[Tarecgosa||72062]] are ways to get permanent scaling."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/51/
+msgid "[[Silent Enforcer||122605]] + Damage payoff ([[Lord of the Ruins||122116]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/51/
+msgid "[[Lord of the Ruins||122116]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/51/
+msgid "Demons deal damage to buff board"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/68/

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-15 01:40\n"
+"POT-Creation-Date: 2026-02-20 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-02-15 12:40\n"
+"PO-Revision-Date: 2026-02-20 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/71/
 msgid "Pirates - APM"
@@ -167,6 +167,26 @@ msgstr "野猪中期过度([[刺头吹笛人||98946]]/[[狂棍野猪人||70173]]
 msgid "Scale up blood gems, unleash them during combat"
 msgstr "提升鲜血宝石属性，在战斗中施放"
 
+#: name | https://hsreplay.net/battlegrounds/comps/51/
+msgid "Demons - Damage"
+msgstr "恶魔 - 伤害"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/51/
+msgid "[[Lord of the Ruins||122116]] buffs by having your demons deal damage to minions. The best way to do that is with [[Silent Enforcer||122605]] + [[Titus Rivendare||97408]], which damages all your opponent's minions at once. [[Devout Hellcaller||122586]] and [[Tarecgosa||72062]] are ways to get permanent scaling."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/51/
+msgid "[[Silent Enforcer||122605]] + Damage payoff ([[Lord of the Ruins||122116]])"
+msgstr "[[Silent Enforcer||122605]] + 受伤回报 ([[Lord of the Ruins||122116]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/51/
+msgid "[[Lord of the Ruins||122116]]"
+msgstr "[[Lord of the Ruins||122116]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/51/
+msgid "Demons deal damage to buff board"
+msgstr "恶魔造成伤害来增强棋盘"
+
 #: name | https://hsreplay.net/battlegrounds/comps/68/
 msgid "Mechs - Deathrattle"
 msgstr "机械 - 亡语"
@@ -297,7 +317,7 @@ msgstr "购买酒馆法术提升喝茶组件。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/6/
 msgid "Undead - Overflow"
-msgstr ""
+msgstr "亡灵 - 挤爆"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
 msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Use [[Monstrous Macaw||62230]] to further proc Cadaver's deathrattle. Instead of [[Cadaver Caretaker||113158]], you may also use [[Lava Lurker||80747]] if you've stacked it with a lot of [[Surf n' Surf||103674]] deathrattles early. [[Silky Shimmermoth||121135]] benefits from each individual overflow proc, scaling your beetles super fast."

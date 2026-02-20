@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-14T01:40:26.933830\n"
+"POT-Creation-Date: 2026-02-20T01:40:28.805065\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /anomaly_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 167\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-02-14 12:40\n"
+"PO-Revision-Date: 2026-02-20 12:40\n"
 
 #: Anomaly id 102982 | Guide id 20
 msgid "Quests with spellcraft effects are really strong because you get the spellcraft for two turns."
@@ -60,6 +60,10 @@ msgstr "本回合对酒馆法术提供2铸币优惠的奖励非常强大，基�
 #: Anomaly id 128772 | Guide id 111
 msgid "Immortal, Chameleon, and Mythrax tend to be insane ending units that get added to the pool."
 msgstr "不朽者，变色龙和米斯拉克斯往往都是卡池中的疯狂的决赛随从。"
+
+#: Anomaly id 128775 | Guide id 112
+msgid "An extra Timewarped shop can appear anywhere from turn 3 to turn 11, and the shop is a major shop if it's after turn 6."
+msgstr ""
 
 #: Anomaly id 119094 | Guide id 22
 msgid "For your second hero power, generally the lower armor the hero is, the better option it is. For example, Snake eyes is one of the best second hero powers to pick because it's a 6 armor hero paired alongside the armor of your first hero. Patchwerk technically counts as a 0 armor hero so it's one of the best second hero powers."
@@ -237,18 +241,6 @@ msgstr "你会希望你的英雄技能能够在不依赖高等级单位的情况
 msgid "Cycle comps such as Murlocs, Elementals, or PIrates, are wayyy better in this anomaly. You can easily go infinite with a single Brann or Rogers."
 msgstr "在这个畸变下，鱼人、元素或海盗等循环流派会变得更好。你可以轻松地用一个布莱恩·铜须或空军上将罗杰斯获取无限资源。"
 
-#: Anomaly id 103541 | Guide id 70
-msgid "Early value generating buddies are premium. Buddies are usually just much better cards than the regular minion pool. ADVANCED: You'll probably go infinite at some point, and the highest cap scaling is usually using [[Titanic Guardian]] and [[Snack Vendor]] strats. You'll need a [[Channel the Devourer||100899]] to make the AFK buddy big though."
-msgstr "早期生成经济的伙伴价值很高。伙伴通常比常规随从池中的卡牌强得多。进阶：你可能会在某个阶段实现无限经济，而最高上限的收益策略通常是使用[[泰坦守护者]]和[[零食商人]]。不过，你需要一张[[祈请吞噬者||100899]]来让阿凯的伙伴变得强大。"
-
-#: Anomaly id 106633 | Guide id 69
-msgid "If you're at 11-15 HP with your secret still up, do NOT use armor. Wait until your secret is used up before you use your armor up, so you can first benefit from the 11 extra gold. Go for highest cap scaling this anomaly (usually it's go infinite into Magicfin Murlocs)"
-msgstr "如果你的生命值在 11-15 之间且奥秘还在，请勿使用护甲。请等奥秘用完后，再使用你的护甲，这样你就能从额外获得的 11 枚铸币中受益。在这个畸变中追求最高的上限成长（通常是无限经济后转小学生鱼人流）"
-
-#: Anomaly id 103078 | Guide id 82
-msgid "Must use [[Treasure Seeker Elise||93099]] in this anomaly!! Then use Brann, [[Captain Sanders||97539]], and [[Sea Witch Zar'jira||103069]] to go infinite and pick the highest scaling line. [[Psychus||127105]] will also be incredibly valuable this lobby because it's really hard to counter."
-msgstr "在这个畸变中必须使用 [[宝藏追寻者伊莉斯||93099]]！！然后使用铜须、[[杉德尔船长||97539]] 和 [[海巫扎尔吉拉||103069]] 无限循环并选择最高的成长线。[[赛古斯||127105]] 在这个酒馆中也非常有价值，因为它很难被反制。"
-
 #: Anomaly id 128889 | Guide id 110
 msgid "There's no set rule on how many Chronum to spend on Minor vs Major, the most important rule is \"don't buy trash.\""
 msgstr "在小型和大型时空扭曲卡牌上花多少时光标记没有固定规则，最重要的规则是“不要买垃圾。”"
@@ -256,4 +248,20 @@ msgstr "在小型和大型时空扭曲卡牌上花多少时光标记没有固定
 #: Anomaly id 102459 | Guide id 84
 msgid "Usually, you level to tavern 2 on turn 2, then tavern 3 on turn 4. The best T1 prizes to take are 2 coins and 3 rolls. The best T2 prizes to take are Great Deal and On the House. The best T3 prizes are Mindflayer Goggles and Tavern spell discount 2."
 msgstr "通常情况下，在第2回合升到2级酒馆，然后在第4回合升到3级酒馆。等级1的最佳暗月奖品是2个铸币和3次刷新。等级2的最佳暗月奖品是 “绝妙的交易 ”和 “免费酬宾”。等级3的最佳暗月奖品是夺心护目镜和酒馆法术减费"
+
+#: Anomaly id 103078 | Guide id 82
+msgid "If Pirates/Nagas are in, use [[Brann Bronzebeard||96786]]/[[Fleet Admiral Tethys||101122]], [[Captain Sanders||97539]], and [[Sea Witch Zar'jira||103069]] to go infinite and pick the highest scaling line. ADVANCED: After infinite, some very high cap builds include Quilboars to make a big Futurefin and scale cleaves, or Quilboars to make a big Kodo and duplicate it with [[Stitched Salvager||119666]]"
+msgstr ""
+
+#: Anomaly id 103541 | Guide id 70
+msgid "Early value generating buddies are premium. Buddies are usually just much better cards than the regular minion pool. ADVANCED: A common scaling line in Elemental lobbies are to go infinite with Brann and then scaling using ballers. You should have golden Reliquary Attendants (Taethalan Buddy) to copy multiple baller spells every turn and also Jandice Buddy."
+msgstr ""
+
+#: Anomaly id 106633 | Guide id 69
+msgid "If you're at 11-15 HP with your secret still up, do NOT use armor. Wait until your secret is used up before you use your armor up, so you can first benefit from the 11 extra gold. Go for highest cap scaling this anomaly."
+msgstr "如果你的生命值在 11-15 之间且奥秘还在，请勿使用护甲。请等奥秘用完后，再使用你的护甲，这样你就能从额外获得的 11 枚铸币中受益。在这个畸变中追求最高的上限成长。"
+
+#: Anomaly id 129082 | Guide id 106
+msgid "Golden Timewarped River Skipper is crazy OP, allows you to go infinite and scale with any comp that likes cycling."
+msgstr "金色时空扭曲弹跳鱼是非常超模的，允许你使用任何你喜欢的循环流派完成无限经济和成长。"
 
