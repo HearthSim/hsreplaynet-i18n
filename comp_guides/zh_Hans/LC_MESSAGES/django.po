@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-20 01:40\n"
+"POT-Creation-Date: 2026-02-21 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-02-20 12:40\n"
+"PO-Revision-Date: 2026-02-21 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/71/
 msgid "Pirates - APM"
@@ -118,8 +118,8 @@ msgid "EARLY [[Silithid Burrower||108547]] + Avenge setup"
 msgstr "很早就打出 [[Silithid Burrower||108547]] ，并有初始的复仇能力"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Avenge setup ([[Manasaber]])"
-msgstr "复仇组件([[Manasaber]])"
+msgid "Avenge setup ([[Twilight Broodmother||127236]])"
+msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/44/
 msgid "Make huge beasts in combat"
@@ -320,7 +320,7 @@ msgid "Undead - Overflow"
 msgstr "亡灵 - 挤爆"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Use [[Monstrous Macaw||62230]] to further proc Cadaver's deathrattle. Instead of [[Cadaver Caretaker||113158]], you may also use [[Lava Lurker||80747]] if you've stacked it with a lot of [[Surf n' Surf||103674]] deathrattles early. [[Silky Shimmermoth||121135]] benefits from each individual overflow proc, scaling your beetles super fast."
+msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Use [[Monstrous Macaw||62230]] to further proc Cadaver's deathrattle. Instead of [[Cadaver Caretaker||113158]], you may also use [[Lava Lurker||80747]] if you've stacked it with a lot of [[Surf n' Surf||103674]] deathrattles early."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
@@ -406,7 +406,7 @@ msgid "Demons - Shop Buff"
 msgstr "恶魔 - 商店强化"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Scale your shop somehow, usually it's through [[Shadowdancer||120662]] but your timewarps may help with it. Then, use [[Insatiable Urzul||72060]] to capture the buffs in the shop. Typically you have an economy setup with [[Brann Bronzebeard||96786]] which allows you to cycle only premium demons such as [[Tardy Traveler]], [[Ominous Seer||117553]], [[Felemental||97553]], [[Furious Driver||116831]], and [[Imposing Percussionist||99232]]."
+msgid "Scale your shop somehow, usually it's through [[Shadowdancer||120662]] but your timewarps may help with it. Then, use [[Insatiable Urzul||72060]] to capture the buffs in the shop. Typically you have an economy setup with [[Brann Bronzebeard||96786]] which allows you to cycle only premium demons such as [[Ominous Seer||117553]], [[Felemental||97553]], [[Furious Driver||116831]], and [[Imposing Percussionist||99232]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
@@ -448,7 +448,7 @@ msgid "Dragons - Spells"
 msgstr "龙 - 法术"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/73/
-msgid "[[Fire-Forged Evoker||120301]] scales with the amount of spells you cast. Your spell generation is mainly going to come from cycling cards with [[Brann Bronzebeard||96786]] and [[Visionary Shipman||126810]]. As long as you cycle free cards such as [[Tavern Tempest||64077]] and [[Reef Explorer]], you should get 20 or more procs on your [[Fire-forged Evoker||120301]] a turn. Leave [[Persistent Poet||108463]] on your board to capture permanent stats every fight. Finally, at some point you may sell your spell generation setup to end on premium dragons such as [[Tarecgosa||72062]]."
+msgid "[[Fire-Forged Evoker||120301]] scales with the amount of spells you cast. Your spell generation is mainly going to come from cycling cards with [[Brann Bronzebeard||96786]] and [[Visionary Shipman||126810]]. As long as you cycle free cards such as [[Tavern Tempest||64077]] and [[Shell Collector||80740]], you should get 20 or more procs on your [[Fire-forged Evoker||120301]] a turn. Leave [[Persistent Poet||108463]] on your board to capture permanent stats every fight. Finally, at some point you may sell your spell generation setup to end on premium dragons such as [[Stuntdrake||127238]] and [[Twilight Broodmother||127236]]"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/73/
