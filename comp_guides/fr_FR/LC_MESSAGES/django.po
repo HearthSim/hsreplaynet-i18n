@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-21 01:40\n"
+"POT-Creation-Date: 2026-02-22 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: fr\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-02-21 12:40\n"
+"PO-Revision-Date: 2026-02-22 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/71/
 msgid "Pirates - APM"
@@ -373,16 +373,15 @@ msgid "Elementals - Rightmost Buff"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/69/
-msgid "Brann provides economy for you to cycle cards which helps spend gold for [[Air Revenant||126173]] to buff your rightmost minion. If you don't have [[Air Revenant||126173]], you can choose to use [[Rylak Metalhead||98829]] + [[En-Djinn Blazer||126175]] as well. It's also common to first use [[Rylak Metalhead||98829]] + [[Refreshing Anomaly||64042]] for infinite rolls first. Cycle every free battlecry such as [[Shell Collector||80740]] and [[Tavern Tempest||64077]]. With this economy, you'll refresh a lot of times so [[Acid Rainfall||126171]] can benefit from the buffs of the rightmost card. [[Fleet Admiral Tethys||101122]] and [[Visionary Shipman||126810]] are additional tools to boost your economy."
+msgid "First use [[Rylak Metalhead||98829]] + [[Refreshing Anomaly||64042]] + [[Brann Bronzebeard||96786]] for infinite rolls. Add multipliers such as [[Monstrous Macaw||62230]] and [[Titus Rivendare||97408]]. With so much economy, start cycling and proccing [[En-Djinn Blazer||126175]] to buff your right most minion a ton. [[Acid Rainfall||126171]] is your main payoff for having a buffed right most minion. If you don't choose the Rylak line, you can choose to spend gold with [[Fleet Admiral Tethys||101122]] and [[Visionary Shipman||126810]], then buff the rightmost minion with [[Acid Rainfall||126171]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/69/
-msgid "[[Brann Bronzebeard||96786]] (good economy) + [[Air Revenant||126173]] + [[Acid Rainfall||126171]]"
+msgid "[[Brann Bronzebeard||96786]] (good economy) + Rightmost shop buffer([[Air Revenant||126173]]) + [[Acid Rainfall||126171]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/69/
-msgid "[[Flaming Enforcer||126924]] + [[Waveling||126169]] midgame\n"
-"[[Brann Bronzebeard||96786]]"
+msgid "[[Brann Bronzebeard||96786]] + [[Rylak Metalhead||98829]] + [[Refreshing Anomaly||64042]]"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/69/
