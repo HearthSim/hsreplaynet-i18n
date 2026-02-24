@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-22 01:40\n"
+"POT-Creation-Date: 2026-02-24 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh\n"
@@ -15,10 +15,10 @@ msgstr ""
 "X-Crowdin-Language: zh-TW\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-02-22 12:40\n"
+"PO-Revision-Date: 2026-02-24 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/71/
-msgid "Pirates - APM"
+msgid "海盗 - 手速倒转"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/71/
@@ -40,7 +40,7 @@ msgid "Have infinite gold to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/76/
-msgid "Quilboar - APM Felboar"
+msgid "野猪人 - 邪能手速"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/76/
@@ -48,7 +48,7 @@ msgid "You must have an insane amount of economy to go for this comp. This is us
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/76/
-msgid "Early infinite gold + [[Paint Smudger||104768]]/[[Felboar||110664]] to stabilize and Felboar eventually."
+msgid "早期无限金币 + [[Paint Smudger||104768]]/[[Felboar||110664]] 来稳定战力，并最终找到邪能野猪人。"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/76/
@@ -61,7 +61,7 @@ msgid "Cast spells to consume buffed shop."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Undead - Attack Scaling"
+msgid "亡灵 - 攻击提升"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
@@ -69,7 +69,7 @@ msgid "Scale the attack of your Undeads and summons with [[Forsaken Weaver||1267
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Attack Scaling ([[Forsaken Weaver||126733]]) + Spell Generation ([[Visionary Shipman||126810]]/[[Spirit Drake||128084]]/[[Wintergrasp Ghoul||126955]])"
+msgid "攻击提升 ([[Forsaken Weaver||126733]]) + 法术生成([[Visionary Shipman||126810]]/[[Spirit Drake||128084]]/[[Wintergrasp Ghoul||126955]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
@@ -82,7 +82,7 @@ msgid "Summon high attack Undeads"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/75/
-msgid "Elementals - Ballers"
+msgid "元素 - 投球手"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/75/
@@ -90,11 +90,11 @@ msgid "The strat involves staying on tavern 2 and buying every [[Fire Baller||11
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/75/
-msgid "Specific hero or Timewarped Skipper/Snow Elemental on tavern 2"
+msgid "特定英雄或2级酒馆时空扭曲弹跳鱼/时空扭曲冰雪元素"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/75/
-msgid "Specific Hero"
+msgid "特定英雄"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/75/
@@ -102,15 +102,15 @@ msgid "Scale balls"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Beasts - Burrower"
+msgid "野兽 - 钻地虫"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/44/
-msgid "Must play with a EARLY [[Silithid Burrower||108547]] with an avenge setup. Spend your first 2 or 3 turns with Burrower in the back scaling it up. In the meantime, roll for the core cards of your comp. At some point, cut your avenge setup for trigger deathrattle effects on [[Silithid Burrower||108547]] with cards such as [[Monstrous Macaw||62230]] or [[Titus Rivendare||97408]]."
+msgid "必须很早就打出 [[Silithid Burrower||108547]] ，并有初始的复仇能力。用最初的2~3个回合把钻地虫养大，与此同时，逐步加入核心卡到阵容中。在你觉得合适时，去掉复仇组件而专注于触发 [[Silithid Burrower||108547]] 的亡语，例如 [[Monstrous Macaw||62230]] 或 [[Titus Rivendare||97408]]。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/44/
-msgid "EARLY [[Silithid Burrower||108547]] + Avenge setup"
+msgid "很早就打出 [[Silithid Burrower||108547]] ，并有初始的复仇能力"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/44/
@@ -122,11 +122,11 @@ msgid "Make huge beasts in combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/52/
-msgid "Undead - Carapace"
+msgid "亡灵 - 龟甲"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/52/
-msgid "Buff the Attack of Tavern Spells with [[Friendly Geist||120219]], and generate [[Haunted Carapace||122489]] spells using [[Carapace Raiser||122479]]. Titus is crucial because it double both of those effects. These spells will buff your board AND summons a ton of attack, so you want the rest of your board to be token spawners, such as [[Twilight Broodmother||127236]]. Finally, use [[Prosthetic Hand||112364]] to reborn your core Undeads."
+msgid "使用 [[Friendly Geist||120219]] 增强酒馆法术的攻击力，并通过 [[Carapace Raiser||122479]] 生成 [[Haunted Carapace||122489]] 法术。提图斯·瑞文戴尔至关重要，因为它能将这两种效果翻倍。这些法术既能强化你的棋盘，又能召唤大量攻击力，因此你需要让场上的其他随从成为召唤物生成者，例如[[Twilight Broodmother||127236]]。最后使用 [[Prosthetic Hand||112364]] 来复生你的核心亡灵随从。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/52/
@@ -143,7 +143,7 @@ msgid "Buff summons using spells."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/17/
-msgid "Quilboar - Combat Scaling"
+msgid "野猪人 - 战斗提升"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/17/
@@ -151,11 +151,11 @@ msgid "Scale up your gems in the midgame, usually using [[Sanguine Refiner||1225
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/17/
-msgid "[[Three Lil' Quilboar||114486]] + Gem scaling ([[Prickly Piper||98946]]/[[Sanguine Refiner||122566]])"
+msgid "[[三只小野猪||114486]] + 鲜血宝石属性成长([[刺头吹笛人||98946]]/[[鲜血精研者||122566]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/17/
-msgid "Quilboar Midgame([[Prickly Piper||98946]]/[[Bonker||70173]])"
+msgid "野猪中期过度([[刺头吹笛人||98946]]/[[狂棍野猪人||70173]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/17/
@@ -163,7 +163,7 @@ msgid "Scale up blood gems, unleash them during combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/51/
-msgid "Demons - Damage"
+msgid "恶魔 - 伤害"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/51/
@@ -171,7 +171,7 @@ msgid "[[Lord of the Ruins||122116]] buffs by having your demons deal damage to 
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/51/
-msgid "[[Silent Enforcer||122605]] + Damage payoff ([[Lord of the Ruins||122116]])"
+msgid "[[Silent Enforcer||122605]] + 受伤回报 ([[Lord of the Ruins||122116]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/51/
@@ -183,7 +183,7 @@ msgid "Demons deal damage to buff board"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/68/
-msgid "Mechs - Deathrattle"
+msgid "机械 - 亡语"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/68/
@@ -191,11 +191,11 @@ msgid "First, start generating volumizers using either [[Conveyor Construct||126
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/68/
-msgid "[[Conveyor Construct||126816]] + [[Apexis Guardian||126820]] + Titus/Macaw/Reborn"
+msgid "[[转运构筑机||126816]] + [[埃匹希斯卫士||126820]] + 瑞文/鹦鹉/复生"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/68/
-msgid "Volumizer midgame ([[Conveyor Construct||126816]])"
+msgid "扩音机中期过度 ([[转运构筑机||126816]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/68/
@@ -203,15 +203,15 @@ msgid "Magnetize huge magnetics in combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/58/
-msgid "Nagas - Deep Blue"
+msgid "纳迦 - 深沉蓝调"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/58/
-msgid "Roll for [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]], and [[Flaming Enforcer||126924]]. Put your spellcrafts on the shop with Enforcer to gain permanent stats. [[Bluesy Siren||127229]] on 6 further scales your deep blues and provides a lot of tempo. After you have golden versions of everything, start filling out the rest of your board with scam such as [[Leeroy the Reckless||90425]] and [[Daggerspine Thrasher||103714]]."
+msgid "刷新酒馆只拿 [[深沉蓝调歌手||98886]], [[情沙锤手||99054]] 和 [[魔焰执行者||126924]]。将你的塑造法术施加在魔焰执行者上，以获得永久属性加成。 6级的[[Bluesy Siren||127229]] 能进一步成长你的深沉蓝调并提供大量节奏。当你拥有所有金色版本后，用烈毒填充你棋盘的其余部分，例如 [[莽神火车王 ||90425]] 和 [[刺脊刺击者||103714]]。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/58/
-msgid "Early [[Deep Blue Crooner||98886]]/[[Bluesy Siren||127229]] + [[Zesty Shaker||99054]]"
+msgid "早期获得 [[深沉蓝调歌手||98886]]/[[蓝调海妖||127229]] + [[热情沙锤手||99054]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/58/
@@ -225,7 +225,7 @@ msgid "Scale Naga's spellcraft"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/21/
-msgid "Mechs - Divine Shield"
+msgid "机械 - 圣盾"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/21/
@@ -233,11 +233,11 @@ msgid "Use [[Whirling Lass-o-Matic||110668]] primarily to generate spells. Then,
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/21/
-msgid "Spell Generation ([[Whirling Lass-o-matic||110668]]) + [[Charging Czarina||110321]]"
+msgid "法术生成 ([[Whirling Lass-o-matic||110668]]) + [[Charging Czarina||110321]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/21/
-msgid "Divine Shields ([[Prehistoric Tinkerer||126460]], [[Grease bot||72389]])"
+msgid "圣盾 ([[Prehistoric Tinkerer||126460]], [[Grease bot||72389]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/21/
@@ -245,7 +245,7 @@ msgid "Play spells to buff Mechs"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/72/
-msgid "Quilboar - Gem Barrage"
+msgid "野猪人 - 宝石弹幕"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/72/
@@ -253,11 +253,11 @@ msgid "First, scale your gems, typically through cycling [[Moon-bacon Jazzer||98
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/72/
-msgid "Gem scaling ([[Prickly Piper||98946]]) + Razorfen Flapper + payoff ([[Trench Fighter||126671]]/[[Felboar||110664]])"
+msgid "宝石强化 ([[Prickly Piper||98946]]) + 剃刀沼泽舞扇者+ 属性转移 ([[Trench Fighter||126671]]/[[Felboar||110664]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/72/
-msgid "Gem scaling ([[Prickly Piper||98946]]/[[Moon Bacon Jazzer||98930]])"
+msgid "宝石强化 ([[Prickly Piper||98946]]/[[Moon Bacon Jazzer||98930]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/72/
@@ -265,11 +265,11 @@ msgid "Make shop big with gems."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/56/
-msgid "Murlocs - Magicfin"
+msgid "鱼人 - 小学生"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/56/
-msgid "This comp relies on teaching a great spell to Magicfin Apprentice and proccing it over and over again. [[Young Murk-eye||87084]] is a must to proc these spells every turn, with its effect amplified by [[Brann Bronzebeard||96786]] and [[Drakkari Enchanter||101314]]. Teach the apprentice [[Shiny ring||109230]], [[Azerite Empowerment||109232]], or [[Time management||117573]] with some spell scaling, which comes from [[Felfire Conjurer||120299]]. Early on, it may be nice to teach it some econ spell as well, notable [[Strike Oil||104029]]. Do not triple Young Murk-eye in this comp! It doesn't increase your scaling."
+msgid "这个流派依赖于教会魔鳍学徒一个强大的法术并不断触发它。[[Young Murk-eye||87084]] 是每回合触发这些法术的必备卡，其效果被 [[Brann Bronzebeard||96786]] 和 [[Drakkari Enchanter||101314]] 增强。教会学徒 [[Shiny ring||109230]]、[[Azerite Empowerment||109232]] 或 [[Time management||117573]]，并搭配一些法强，这些法强来自 [[Felfire Conjurer||120299]]。在早期，教它一些经济法术也不错，特别是[[Strike Oil||104029]]。这个流派中不要三连小瞎眼！这不会增加你的身材。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/56/
@@ -294,12 +294,12 @@ msgid "Buy every single spell that effectively costs 1 (Fleeting Vigor, Enchante
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/36/
-msgid "[[Nalaa the Redeemer||104468]] + Spell Generation ([[Visionary Shipman||126810]])/Good tribes ([[Whirling Lass-o-matic||110668]])"
+msgid "[[Nalaa the Redeemer||104468]] + 酒馆法术生成 ([[Visionary Shipman||126810]])/优秀种族 ([[Whirling Lass-o-matic||110668]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/36/
 msgid "[[Nalaa the Redeemer||104468]]\n"
-"Spell Generation"
+"酒馆法术生成"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/36/
@@ -307,7 +307,7 @@ msgid "Buy spells to scale Menagerie units."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Undead - Overflow"
+msgid "亡灵 - 挤爆"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
@@ -315,7 +315,7 @@ msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll 
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+msgid "挤爆随从 ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
@@ -328,7 +328,7 @@ msgid "Overflow your board to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/79/
-msgid "Mechs - Photobomber"
+msgid "机械 - 摄影炸弹"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/79/
@@ -336,11 +336,11 @@ msgid "First, you need a spell generator. Most commonly, it's through [[Brann Br
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/79/
-msgid "Spell Generation ([[Visionary Shipman||126810]]) + [[Photobomber||113940]])"
+msgid "酒馆法术生成 ([[Visionary Shipman||126810]]) + [[Photobomber||113940]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/79/
-msgid "Spell Generation"
+msgid "酒馆法术生成"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/79/
@@ -348,11 +348,11 @@ msgid "Scale your bombs and unleash them."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/70/
-msgid "Beasts - RDU"
+msgid "野兽 - 自伤"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/70/
-msgid "Use [[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]] to generate lots of beasts every turn. [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], reborn, and [[Titus Rivendare||97408]] all amplify this effect. When you have your scaling setup with [[Rabid Panther||127111]] + [[Iridescent Skyblazer||107937]] or double Rabid Panther, start buying every single beast to scale your board."
+msgid "使用 [[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]] 的组合每回合生成大量野兽。[[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], 复生和 [[Titus Rivendare||97408]] 都能增强此效果。当你用 [[Rabid Panther||127111]] + [[Iridescent Skyblazer||107937]] 或双狂乱的猎豹建立起成长体系时，开始购买所有野兽来扩大你的棋盘。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/70/
@@ -369,7 +369,7 @@ msgid "Cycle beasts to damage themselves and scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/69/
-msgid "Elementals - Rightmost Buff"
+msgid "元素 - 最右强化"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/69/
@@ -389,7 +389,7 @@ msgid "Buff rightmost minion in shop to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Demons - Shop Buff"
+msgid "恶魔 - 商店强化"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
@@ -397,7 +397,7 @@ msgid "Scale your shop somehow, usually it's through [[Shadowdancer||120662]] bu
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Buffed Shop ([[Shadowdancer||120662]]) + [[Insatiable Urzul||72060]] + [[Brann Bronzebeard||96786]]"
+msgid "强化商店 ([[Shadowdancer||120662]]) + [[Insatiable Urzul||72060]] + [[Brann Bronzebeard||96786]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
@@ -409,15 +409,15 @@ msgid "Scale shop and consume shop"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Nagas - Spell Buff/End of Turn"
+msgid "纳迦 - 法术强化/回合结束"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Buff the spells, most commonly through early [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]].  The rest of your board are cards that can take advantage of the buffed spells. Fauna Whisperer benefits a lot from the end of turn/spell buff synergy, and ideally you put it next to an Nightmare Par-tea Guest to buff your entire board. [[Famished Felbat||72067]] can eat the shop after you've buffed it using [[Fauna Whisperer||120905]], as long as you position it last."
+msgid "强化法术，最常见的方式是尽早获得 [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]]。你棋盘中的其他卡牌都是能够利用强化法术的卡牌。动物低语者能从回合结束/法术强化协同效应中获得巨大收益，理想情况下应将其放置在梦魇茶客旁边以强化整个牌组。[[Famished Felbat||72067]] 可以吞噬用 [[Fauna Whisperer||120905]] 强化后的商店，只要将魔蝠放置在最后即可。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/39/
-msgid "Spell scaling([[Felfire Conjurer||120299]]) + [[Drakkari Enchanter||101314]] or Spell Generation ([[Fauna Whisperer||120905]])"
+msgid "法术强化([[Felfire Conjurer||120299]]) + [[Drakkari Enchanter||101314]] 或者法术生成 ([[Fauna Whisperer||120905]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/39/
@@ -430,7 +430,7 @@ msgid "Cast Buffed Spells End of Turn"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/73/
-msgid "Dragons - Spells"
+msgid "龙 - 法术"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/73/
@@ -438,7 +438,7 @@ msgid "[[Fire-Forged Evoker||120301]] scales with the amount of spells you cast.
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/73/
-msgid "[[Fire-forged Evoker||120301]] + [[Visionary Shipman||126810]] + economy ([[Brann Bronzebeard||96786]])"
+msgid "[[Fire-fuled Evoker||120301]] + [[Visionary Shipman||126810]] + 经济 ([[Brann Bronzebeard||96786]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/73/
@@ -451,19 +451,19 @@ msgid "Cast spells to scale dragons"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Murlocs - Venom Scam"
+msgid "鱼人 - 下毒"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Aim to golden [[Bassgill||98926]] to summon one or two [[Bile Spitter||122219]] from hand. This comp is much better with abilities to reborn/divine shield scam units, typically through Timewarped cards."
+msgid "购买所有的下毒单卡，尽可能击败对手以保住排名。保留你最强战力的卡牌（所以你才需要集中精力研究统计数据！），用可以各种能一换一的随从填充空余棋盘。目标是金色的 [[Bassgill||98926]] 能从手牌中召唤一到两个 [[Bile Spitter||122219]]。这个流派能通过时空扭曲卡牌获得让下毒单位拥有复生/圣盾的能力，因此好得多。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
-msgid "When you have no future or are clearly getting outstatted"
+msgid "当你觉得没有未来或明显快被淘汰时"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Getting outscaled"
+msgid "快被淘汰了"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/8/
@@ -471,7 +471,7 @@ msgid "Buy scam cards and try to preserve placements"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/78/
-msgid "Dragons - Whelps"
+msgid "龙 - 雏龙"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/78/
@@ -479,7 +479,7 @@ msgid "Scale your Whelps by proccing [[Burgeoning Whelp||129267]] as many times 
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/78/
-msgid "Whelp scaling ([[Burgeoning Whelp||129267]]) + Whelp generation ([[Twilight Broodmother||127236]])"
+msgid "雏龙成长 ([[Burgeoning Whelp||129267]]) + 雏龙生成 ([[Twilight Broodmother||127236]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/78/
