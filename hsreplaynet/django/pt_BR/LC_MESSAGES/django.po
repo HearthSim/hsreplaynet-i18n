@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-20 01:40+0000\n"
-"PO-Revision-Date: 2026-02-20 12:40\n"
+"POT-Creation-Date: 2026-02-24 19:15+0000\n"
+"PO-Revision-Date: 2026-02-25 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -475,7 +475,7 @@ msgstr "Não vinculado com Blizzard Entertainment."
 
 #: templates/footer.html:63 templates/navigation.html:87
 #: templates/navigation.html:214 templates/navigation.html:273
-#: web/views/__init__.py:184
+#: web/views/__init__.py:213
 msgid "Downloads"
 msgstr "Downloads"
 
@@ -789,55 +789,55 @@ msgstr ""
 msgid "Top BGs Player"
 msgstr ""
 
-#: web/views/__init__.py:18
+#: web/views/__init__.py:20
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr "Assista e compartilhe replays do Hearthstone diretamente do seu navegador. Explore estatísticas avançadas sobre decks e cartas baseados em milhões de jogos por semana."
 
-#: web/views/__init__.py:24
+#: web/views/__init__.py:26
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net - Liberte seu potencial"
 
-#: web/views/__init__.py:115
+#: web/views/__init__.py:144
 msgid "Sign in to HSReplay.net"
 msgstr ""
 
-#: web/views/__init__.py:172
+#: web/views/__init__.py:201
 msgid "Download Hearthstone Deck Tracker"
 msgstr "Baixe o Hearthstone Deck Tracker"
 
-#: web/views/__init__.py:174
+#: web/views/__init__.py:203
 msgid "HSReplay.net Companion App"
 msgstr "Aplicativo Companheiro do HSReplay.net"
 
-#: web/views/__init__.py:176
+#: web/views/__init__.py:205
 msgid "Hearthstone Deck Tracker is a free companion app to help you play like the pros."
 msgstr ""
 
-#: web/views/__init__.py:237
+#: web/views/__init__.py:266
 msgid "Contact our Support Team"
 msgstr ""
 
-#: web/views/__init__.py:239
+#: web/views/__init__.py:268
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr ""
 
-#: web/views/__init__.py:288
+#: web/views/__init__.py:317
 msgid "Redeem a Code"
 msgstr ""
 
-#: web/views/__init__.py:299
+#: web/views/__init__.py:328
 msgid "Welcome to HSReplay.net"
 msgstr ""
 
-#: web/views/__init__.py:301
+#: web/views/__init__.py:330
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr ""
 
-#: web/views/__init__.py:312
+#: web/views/__init__.py:341
 msgid "Welcome to Hearthstone Deck Tracker"
 msgstr ""
 
-#: web/views/__init__.py:314
+#: web/views/__init__.py:343
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
 msgstr ""
 
