@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-21T01:40:26.816130\n"
+"POT-Creation-Date: 2026-02-26T01:40:26.704206\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-02-25 12:40\n"
+"PO-Revision-Date: 2026-02-26 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/117425/ Hero id 117425 | Guide id
 #: 696
@@ -528,11 +528,6 @@ msgstr "如果你看到小型时空扭曲雄斑虎（你需要拥有 2 只野兽
 msgid "Your hero power will copy key Timewarp or directional cards. Make your most important card the highest health, using spells if necessary."
 msgstr "你的英雄技能将复制关键的时空扭曲卡牌或方向性卡牌。必要时使用法术，让你的最重要卡牌获得最高生命值。"
 
-#: https://hsreplay.net/battlegrounds/heroes/77987/ Hero id 77987 | Guide id
-#: 165
-msgid "In the midgame, play into your buddy. In the endgame, hero power scam units such as leeroy and spore."
-msgstr "在游戏中期，配合你的伙伴。在决赛，英雄技能可以用来打掉火车王和孢子等下毒随从。"
-
 #: https://hsreplay.net/battlegrounds/heroes/59397/ Hero id 59397 | Guide id
 #: 34
 msgid "You can afford to stabilize on higher tavern tiers because of your extra HP."
@@ -542,6 +537,11 @@ msgstr "由于你有额外的生命值，你可以在较高的酒馆等级上稳
 #: 113
 msgid "In the endgame, running reborn [[Leeroy the Reckless||90425]] is very strong in general."
 msgstr "在决赛局，复生的 [[莽神火车王||90425]] 一般来说非常强大。"
+
+#: https://hsreplay.net/battlegrounds/heroes/77987/ Hero id 77987 | Guide id
+#: 165
+msgid "In the early-midgame, use hero power for slight tempo. In the endgame, hero power scam such as [[Deadly Spore||65031]] and [[Leeroy the Reckless||90425]]."
+msgstr "在早中期，使用英雄技能来获取微小的节奏优势。在游戏后期，使用英雄技能点掉像[[致命孢子||65031]]和[[莽神火车王||90425]]这样的下毒卡。"
 
 #: https://hsreplay.net/battlegrounds/heroes/70956/ Hero id 70956 | Guide id
 #: 20

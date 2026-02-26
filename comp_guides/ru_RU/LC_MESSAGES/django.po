@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-25 01:40\n"
+"POT-Creation-Date: 2026-02-26 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Russian\n"
 "Language: ru\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: ru\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-02-25 12:40\n"
+"PO-Revision-Date: 2026-02-26 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/71/
 msgid "Pirates - APM"
@@ -244,6 +244,26 @@ msgstr ""
 msgid "Play spells to buff Mechs"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/77/
+msgid "Beasts - Felhorn"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/77/
+msgid "Use [[Rylak Metalhead||98829]] + [[Felhorn||129437]] to have your Felhorn deal damage to your minions multiple times. This will benefit your payoff cards such as [[Lord of the ruins||122116]], which buffs your whole board, or [[Silky Shimmermoth||121135]] which scales your beetles. [[Monstrous Macaw||62230]], reborn, [[Brann Bronzebeard||96786]], [[Titus Rivendare||97408]] ALL provide multipliers for this effect, and stacking multipliers scales your board insanely fast. You usually use [[Refreshing Anomaly||64042]] instead of Felhorn at first to ramp up economy."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/77/
+msgid "[[Brann Bronzebeard||96786]] + good economy"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/77/
+msgid "[[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/77/
+msgid "Deal damage to your own board to scale."
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/72/
 msgid "Quilboar - Gem Barrage"
 msgstr ""
@@ -406,6 +426,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Scale shop and consume shop"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/80/
+msgid "Nagas - Showy Cyclist"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/80/
+msgid "First generate spellcrafts in the midgame. The only ways to do this are Timewarped Sapper and [[Profound Thinker||127225]]. Then, [[Showy Cyclist||115565]] is a deathrattle that benefits from the spellcrafts you generated. [[Titus Rivendare||97408]], [[Monstrous Macaw||62230]] and [[Weary Mage||119921]] reborn all act as multipliers for this effect. You may choose to use [[Persistent Poet||108463]] and an Amalgam to keep permanent stats."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/80/
+msgid "Spellcraft generation in the midgame ([[Profound Thinker||127225]]) + [[Showy Cyclist||115565]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/80/
+msgid "[[Profound Thinker||127225]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/80/
+msgid "Trigger deathrattle to buff nagas"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/39/
