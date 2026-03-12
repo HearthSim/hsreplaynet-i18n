@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-17T01:40:24.030008\n"
+"POT-Creation-Date: 2026-03-12T01:40:29.421912\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2026-02-17 12:40\n"
+"PO-Revision-Date: 2026-03-12 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -2237,10 +2237,6 @@ msgstr "융합체 사냥꾼"
 msgid "Buff Hunter"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/625/breakfast-hunter
-msgid "Breakfast Hunter"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/145/elemental-mage
 msgid "Elemental Mage"
 msgstr "정령 마법사"
@@ -2896,4 +2892,12 @@ msgstr ""
 #: https://hsreplay.net/archetypes/719/space-druid
 msgid "Space Druid"
 msgstr "우주선 드루이드"
+
+#: https://hsreplay.net/archetypes/849/handbuff-hunter
+msgid "Handbuff Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/625/breakfast-hunter
+msgid "Breakfast Hunter"
+msgstr ""
 

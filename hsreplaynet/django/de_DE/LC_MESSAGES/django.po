@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-04 01:40+0000\n"
-"PO-Revision-Date: 2026-03-04 12:40\n"
+"POT-Creation-Date: 2026-03-12 01:40+0000\n"
+"PO-Revision-Date: 2026-03-12 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -670,12 +670,12 @@ msgstr "Karten"
 msgid "Arena"
 msgstr ""
 
-#: templates/navigation.html:301
+#: templates/navigation.html:302
 #, python-format
 msgid " View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
 msgstr ""
 
-#: templates/navigation.html:315
+#: templates/navigation.html:316
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
