@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-17 01:40+0000\n"
+"POT-Creation-Date: 2026-03-17 17:54+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1248,12 +1248,12 @@ msgstr ""
 msgid "Hearthstone Card Editor"
 msgstr ""
 
-#: web/views/cards.py:222
+#: web/views/cards.py:221
 #, python-brace-format
 msgid "{set} Card Reveals"
 msgstr ""
 
-#: web/views/cards.py:227
+#: web/views/cards.py:226
 #, python-brace-format
 msgid ""
 "Get the first look at the latest Hearthstone card reveals for the next "
