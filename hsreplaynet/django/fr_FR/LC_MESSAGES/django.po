@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-12 01:40+0000\n"
-"PO-Revision-Date: 2026-03-12 12:40\n"
+"POT-Creation-Date: 2026-03-17 01:40+0000\n"
+"PO-Revision-Date: 2026-03-17 12:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -449,111 +449,111 @@ msgstr "Xsolla est un distributeur mondial autorisé de HSReplay.net"
 msgid "Back to top"
 msgstr "Haut de page"
 
-#: templates/footer.html:19
+#: templates/footer.html:25
 msgid "Social Media:"
 msgstr ""
 
-#: templates/footer.html:25
+#: templates/footer.html:31
 msgid "Join our Discord server"
 msgstr ""
 
-#: templates/footer.html:31
+#: templates/footer.html:37
 msgid "Follow us on X"
 msgstr ""
 
-#: templates/footer.html:37
+#: templates/footer.html:43
 msgid "Follow us on Instagram"
 msgstr "Suivez-nous sur Instagram"
 
-#: templates/footer.html:43
+#: templates/footer.html:49
 msgid "Like us on Facebook"
 msgstr "Suivez-nous sur Facebook"
 
-#: templates/footer.html:55
+#: templates/footer.html:61
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "Non affilié à Blizzard Entertainment."
 
-#: templates/footer.html:63 templates/navigation.html:87
-#: templates/navigation.html:214 templates/navigation.html:273
+#: templates/footer.html:69 templates/navigation.html:93
+#: templates/navigation.html:220 templates/navigation.html:283
 #: web/views/__init__.py:205
 msgid "Downloads"
 msgstr "Téléchargements"
 
-#: templates/footer.html:64 templates/navigation.html:263
+#: templates/footer.html:70 templates/navigation.html:269
 #: web/views/premium.py:31
 msgid "Premium"
 msgstr "Premium"
 
-#: templates/footer.html:65
+#: templates/footer.html:71
 msgid "Get Tier7"
 msgstr ""
 
-#: templates/footer.html:66 web/views/arenasmith.py:13
+#: templates/footer.html:72 web/views/arenasmith.py:13
 msgid "Arenasmith"
 msgstr ""
 
-#: templates/footer.html:75
+#: templates/footer.html:81
 msgid "Standard Decks"
 msgstr ""
 
-#: templates/footer.html:76 web/views/archetypes.py:46
+#: templates/footer.html:82 web/views/archetypes.py:46
 msgid "Meta Tier List"
 msgstr ""
 
-#: templates/footer.html:77
+#: templates/footer.html:83
 msgid "Arena Guide"
 msgstr ""
 
-#: templates/footer.html:78 web/views/battlegrounds.py:252
+#: templates/footer.html:84 web/views/battlegrounds.py:252
 msgid "Battlegrounds Heroes"
 msgstr "Héros des Champs de bataille"
 
-#: templates/footer.html:79 web/views/battlegrounds.py:268
+#: templates/footer.html:85 web/views/battlegrounds.py:268
 msgid "Battlegrounds Comps"
 msgstr ""
 
-#: templates/footer.html:80 web/views/battlegrounds.py:732
+#: templates/footer.html:86 web/views/battlegrounds.py:732
 #: web/views/battlegrounds.py:782
 msgid "Battlegrounds Minions"
 msgstr "Serviteurs des Champs de bataille"
 
-#: templates/footer.html:81 web/views/battlegrounds.py:394
+#: templates/footer.html:87 web/views/battlegrounds.py:394
 msgid "Battlegrounds Anomalies"
 msgstr ""
 
-#: templates/footer.html:82 web/views/battlegrounds.py:450
+#: templates/footer.html:88 web/views/battlegrounds.py:450
 msgid "Battlegrounds Quests"
 msgstr ""
 
-#: templates/footer.html:83 web/views/battlegrounds.py:330
+#: templates/footer.html:89 web/views/battlegrounds.py:330
 msgid "Battlegrounds Trinkets"
 msgstr ""
 
-#: templates/footer.html:84
+#: templates/footer.html:90
 msgid "Battlegrounds Timewarp"
 msgstr ""
 
-#: templates/footer.html:88
+#: templates/footer.html:94
 msgid "Support"
 msgstr "Assistance"
 
-#: templates/footer.html:101
+#: templates/footer.html:107
 msgid "Help Center"
 msgstr "Centre d'aide"
 
-#: templates/footer.html:103
+#: templates/footer.html:109
 msgid "Your Account"
 msgstr "Votre compte"
 
-#: templates/footer.html:105
+#: templates/footer.html:111
 msgid "Terms of Service"
 msgstr "Conditions d’utilisation"
 
-#: templates/footer.html:108
+#: templates/footer.html:114
 msgid "Privacy Policy"
 msgstr "Confidentialité"
 
-#: templates/footer.html:110
+#: templates/footer.html:116
 msgid "Get in Touch"
 msgstr ""
 
@@ -569,7 +569,7 @@ msgstr "Ce replay n'est plus disponible."
 msgid "Toggle navigation"
 msgstr "Navigation"
 
-#: templates/navigation.html:40 web/views/battlegrounds.py:146
+#: templates/navigation.html:46 web/views/battlegrounds.py:146
 #: web/views/battlegrounds.py:234 web/views/battlegrounds.py:260
 #: web/views/battlegrounds.py:276 web/views/battlegrounds.py:337
 #: web/views/battlegrounds.py:401 web/views/battlegrounds.py:457
@@ -580,102 +580,102 @@ msgstr "Navigation"
 msgid "Battlegrounds"
 msgstr "Champs de bataille"
 
-#: templates/navigation.html:43 web/views/mercenaries.py:137
+#: templates/navigation.html:49 web/views/mercenaries.py:137
 msgid "Mercenaries"
 msgstr "Mercenaires"
 
-#: templates/navigation.html:46
+#: templates/navigation.html:52
 msgid "Hearthstone"
 msgstr ""
 
-#: templates/navigation.html:61
+#: templates/navigation.html:67
 msgid "Home"
 msgstr "Accueil"
 
-#: templates/navigation.html:71
+#: templates/navigation.html:77
 msgid "Tier List"
 msgstr "Tier List"
 
-#: templates/navigation.html:81
+#: templates/navigation.html:87
 msgid "Parties"
 msgstr "Groupes"
 
-#: templates/navigation.html:98 web/views/battlegrounds.py:261
+#: templates/navigation.html:104 web/views/battlegrounds.py:261
 #: web/views/battlegrounds.py:585
 msgid "Heroes"
 msgstr "Héros"
 
-#: templates/navigation.html:110 web/views/battlegrounds.py:338
+#: templates/navigation.html:116 web/views/battlegrounds.py:338
 msgid "Trinkets"
 msgstr "Bibelots"
 
-#: templates/navigation.html:123 web/views/battlegrounds.py:909
+#: templates/navigation.html:129 web/views/battlegrounds.py:909
 msgid "Timewarp"
 msgstr ""
 
-#: templates/navigation.html:136 web/views/battlegrounds.py:518
+#: templates/navigation.html:142 web/views/battlegrounds.py:518
 msgid "Darkmoon Prizes"
 msgstr "Prix de Sombrelune"
 
-#: templates/navigation.html:147 web/views/battlegrounds.py:277
+#: templates/navigation.html:153 web/views/battlegrounds.py:277
 #: web/views/battlegrounds.py:1112
 msgid "Comps"
 msgstr ""
 
-#: templates/navigation.html:159 web/views/battlegrounds.py:458
+#: templates/navigation.html:165 web/views/battlegrounds.py:458
 msgid "Quests"
 msgstr ""
 
-#: templates/navigation.html:162 templates/navigation.html:188
+#: templates/navigation.html:168 templates/navigation.html:194
 msgid "NEW"
 msgstr ""
 
-#: templates/navigation.html:176 web/views/battlegrounds.py:402
+#: templates/navigation.html:182 web/views/battlegrounds.py:402
 msgid "Anomalies"
 msgstr ""
 
-#: templates/navigation.html:187 web/views/battlegrounds.py:737
+#: templates/navigation.html:193 web/views/battlegrounds.py:737
 #: web/views/battlegrounds.py:808
 msgid "Minions"
 msgstr "Serviteurs"
 
-#: templates/navigation.html:202 templates/navigation.html:206
-#: templates/navigation.html:265
+#: templates/navigation.html:208 templates/navigation.html:212
+#: templates/navigation.html:272 templates/navigation.html:275
 msgid "SALE!"
 msgstr "SOLDES !"
 
-#: templates/navigation.html:221
+#: templates/navigation.html:227
 msgid "Trending"
 msgstr "Tendances"
 
-#: templates/navigation.html:229 templates/navigation.html:235
+#: templates/navigation.html:235 templates/navigation.html:241
 msgid "Meta"
 msgstr "Meta"
 
-#: templates/navigation.html:230
+#: templates/navigation.html:236
 msgid "Back soon!"
 msgstr "Revenez bientôt !"
 
-#: templates/navigation.html:242
+#: templates/navigation.html:248
 msgid "Decks"
 msgstr "Decks"
 
-#: templates/navigation.html:248 web/views/arena.py:73 web/views/cards.py:41
+#: templates/navigation.html:254 web/views/arena.py:73 web/views/cards.py:41
 #: web/views/cards.py:165
 msgid "Cards"
 msgstr "Cartes"
 
-#: templates/navigation.html:255 web/views/arena.py:24 web/views/arena.py:41
+#: templates/navigation.html:261 web/views/arena.py:24 web/views/arena.py:41
 #: web/views/arena.py:72 web/views/arena.py:90 web/views/arena.py:118
 msgid "Arena"
 msgstr ""
 
-#: templates/navigation.html:302
+#: templates/navigation.html:312
 #, python-format
 msgid " View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
 msgstr ""
 
-#: templates/navigation.html:316
+#: templates/navigation.html:326
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "Nous sommes en train de mettre à jour cette section à la suite du dernier patch Champ de batailles. Il se peut que vous rencontriez temporairement des données incomplètes ou retardées."
 
@@ -1269,6 +1269,14 @@ msgstr "Groupe de mercenaires"
 #: web/views/mercenaries.py:147
 msgid "Mercenaries Tier List"
 msgstr "Tier liste Mercenaires"
+
+#: web/views/mulligan_gv2.py:20
+msgid "Mulligan G-V2"
+msgstr ""
+
+#: web/views/mulligan_gv2.py:23
+msgid "Make better mulligan decisions with Mulligan Guide Version 2"
+msgstr ""
 
 #: web/views/oauth2.py:38
 #, python-format
