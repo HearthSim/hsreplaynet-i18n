@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-13T01:40:26.976731\n"
+"POT-Creation-Date: 2026-03-19T01:40:29.073303\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: pt_BR\n"
-"PO-Revision-Date: 2026-03-13 12:40\n"
+"PO-Revision-Date: 2026-03-19 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -417,10 +417,6 @@ msgstr "Ladino Jade"
 msgid "Murloc Warlock"
 msgstr "Bruxo Murloc"
 
-#: https://hsreplay.net/archetypes/161/enrage-warrior
-msgid "Enrage Warrior"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/165/cthun-warrior
 msgid "C'Thun Warrior"
 msgstr "Guerreiro C'Thun"
@@ -703,6 +699,10 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/185/demon-warlock
 msgid "Demon Warlock"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/161/enrage-warrior
+msgid "Enrage Warrior"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/273/secret-odd-mage
@@ -1173,10 +1173,6 @@ msgstr ""
 msgid "Taunt Warrior"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/335/dragon-druid
-msgid "Dragon Druid"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/79/quest-paladin
 msgid "Quest Paladin"
 msgstr ""
@@ -1195,6 +1191,10 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/661/shopper-demon-hunter
 msgid "Shopper Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/335/dragon-druid
+msgid "Dragon Druid"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/291/big-warrior
@@ -1693,10 +1693,6 @@ msgstr ""
 msgid "Loh Druid"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/511/burn-shaman
-msgid "Burn Shaman"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/813/egg-rogue
 msgid "Egg Rogue"
 msgstr ""
@@ -1715,6 +1711,10 @@ msgstr "Druida Missão"
 
 #: https://hsreplay.net/archetypes/142/quest-mage
 msgid "Quest Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/511/burn-shaman
+msgid "Burn Shaman"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/201/totem-shaman
@@ -1885,10 +1885,6 @@ msgstr ""
 msgid "Manastorm Mage"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/594/burn-mage
-msgid "Burn Mage"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/596/dancing-paladin
 msgid "Dancing Paladin"
 msgstr ""
@@ -1999,6 +1995,10 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/624/giant-druid
 msgid "Giant Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/850/herald-warrior
+msgid "Herald Warrior"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/626/tendril-shaman
@@ -2899,5 +2899,41 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/625/breakfast-hunter
 msgid "Breakfast Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/851/herald-death-knight
+msgid "Herald Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/852/herald-demon-hunter
+msgid "Herald Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/853/herald-hunter
+msgid "Herald Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/594/burn-mage
+msgid "Burn Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/854/end-of-turn-paladin
+msgid "End of Turn Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/855/alexstrasza-priest
+msgid "Alexstrasza Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/856/herald-rogue
+msgid "Herald Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/857/herald-shaman
+msgid "Herald Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/858/herald-warlock
+msgid "Herald Warlock"
 msgstr ""
 
