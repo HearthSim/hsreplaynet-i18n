@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-20 01:40+0000\n"
-"PO-Revision-Date: 2026-03-20 12:40\n"
+"PO-Revision-Date: 2026-03-25 14:26\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -276,7 +276,13 @@ msgid "Hello,\n\n"
 "If this was not you, you can simply ignore this email.\n\n"
 "Cheers,\n"
 "The HSReplay.net Team\n"
-msgstr ""
+msgstr "Hola,\n\n"
+"Estás recibiendo este correo porque tú (o alguien más) está tratando de crear una nueva cuenta en HSReplay.net. Necesitamos que verifiques que eres el dueño.\n\n"
+"Si es correcto, ve al siguiente enlace dentro de los siguientes tres días para confirmar:\n\n"
+"%(activate_url)s\n\n"
+"Si no fuiste tu, simplemente ignora este correo.\n\n"
+"Saludos,\n"
+"El equipo HSReplay.net\n"
 
 #: templates/account/email_change.html:6
 msgid "Email Address"
@@ -457,7 +463,7 @@ msgstr "Volver arriba"
 
 #: templates/footer.html:25
 msgid "Social Media:"
-msgstr ""
+msgstr "Redes Sociales:"
 
 #: templates/footer.html:31
 msgid "Join our Discord server"
@@ -496,11 +502,11 @@ msgstr "Obtén Tier7"
 
 #: templates/footer.html:72 web/views/arenasmith.py:13
 msgid "Arenasmith"
-msgstr ""
+msgstr "ForjadorArena"
 
 #: templates/footer.html:81
 msgid "Standard Decks"
-msgstr ""
+msgstr "Mazos Estándar"
 
 #: templates/footer.html:82 web/views/archetypes.py:47
 msgid "Meta Tier List"
@@ -592,7 +598,7 @@ msgstr "Mercenarios"
 
 #: templates/navigation.html:52
 msgid "Hearthstone"
-msgstr ""
+msgstr "Hearthstone"
 
 #: templates/navigation.html:67
 msgid "Home"
@@ -679,7 +685,7 @@ msgstr "Arena"
 #: templates/navigation.html:312
 #, python-format
 msgid " View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
-msgstr ""
+msgstr " Mira las últimas cartas reveladas para la próxima expansión de Hearthstone: %(spoiler_set)s "
 
 #: templates/navigation.html:326
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
@@ -736,7 +742,7 @@ msgstr "Cuentas vinculadas"
 
 #: templates/socialaccount/connections.html:14
 msgid "The following social accounts are connected to your HSReplay.net account. You may sign in with any connected Blizzard, Google, or WeChat account."
-msgstr ""
+msgstr "Las siguientes redes sociales están vinculadas a tu cuenta HSRepplay.net. Puedes conectarte con cualquier cuenta de Blizzard, Google o WeChat."
 
 #: templates/socialaccount/connections.html:61
 msgid "You currently have no social network accounts connected to this account."
@@ -789,7 +795,7 @@ msgstr "No se pueden añadir nuevos puntos. Seguiremos ofreciendo los webhooks e
 
 #: web/adapters.py:136
 msgid "You cannot remove the last account you can sign in with. Instead, you can delete your HSReplay.net account entirely."
-msgstr ""
+msgstr "No puedes eliminar la última cuenta con la que puede iniciar sesión. En su lugar, puede eliminar su cuenta HSReplay.net por completo."
 
 #: web/structured_data.py:12
 msgid "Top BGs Player"
@@ -891,7 +897,7 @@ msgstr "Buscar estadísticas y diferentes {name} listas de mazos."
 
 #: web/views/arena.py:17
 msgid "Hearthstone Arena Legendary Groups"
-msgstr ""
+msgstr "Grupos Legendarios de la Arena de Hearthstone"
 
 #: web/views/arena.py:20
 msgid "Explore the Legendary Groups available when drafting in Hearthstone Arena and Underground Arena for the current Arena Season."
@@ -899,7 +905,7 @@ msgstr ""
 
 #: web/views/arena.py:25
 msgid "Legendary Groups"
-msgstr ""
+msgstr "Grupos Legendarios"
 
 #: web/views/arena.py:35
 msgid "12 Win Underground Arena Decks"
@@ -1282,7 +1288,7 @@ msgstr ""
 
 #: web/views/mulligan_gv2.py:23
 msgid "Make better mulligan decisions with Mulligan Guide Version 2"
-msgstr ""
+msgstr "Haz mejores decisiones mulligan con la Guía Mulligan Versión 2"
 
 #: web/views/oauth2.py:38
 #, python-format
