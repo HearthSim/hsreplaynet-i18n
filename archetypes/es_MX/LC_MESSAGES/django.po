@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-23T01:40:28.114407\n"
+"POT-Creation-Date: 2026-03-27T01:40:27.002288\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2026-03-26 00:40\n"
+"PO-Revision-Date: 2026-03-27 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1733,10 +1733,6 @@ msgstr "Pícaro Prestor"
 msgid "Keleseth Rogue"
 msgstr "Pícaro Keleseth"
 
-#: https://hsreplay.net/archetypes/555/blood-death-knight
-msgid "Blood Death Knight"
-msgstr "Caballero de la Muerte Sangre"
-
 #: https://hsreplay.net/archetypes/556/unholy-death-knight
 msgid "Unholy Death Knight"
 msgstr "Caballero de la Muerte Profano"
@@ -2236,6 +2232,10 @@ msgstr "Cazador Amalgamas"
 #: https://hsreplay.net/archetypes/652/buff-hunter
 msgid "Buff Hunter"
 msgstr "Cazador Potenciador"
+
+#: https://hsreplay.net/archetypes/555/blood-death-knight
+msgid "Blood Death Knight"
+msgstr "Caballero de la Muerte Sangre"
 
 #: https://hsreplay.net/archetypes/145/elemental-mage
 msgid "Elemental Mage"
@@ -2943,5 +2943,9 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/860/murloc-hunter
 msgid "Murloc Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/861/egg-priest
+msgid "Egg Priest"
 msgstr ""
 
