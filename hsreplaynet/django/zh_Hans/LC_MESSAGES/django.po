@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-03-28 01:40+0000\n"
-"PO-Revision-Date: 2026-03-28 12:40\n"
+"PO-Revision-Date: 2026-03-30 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1284,11 +1284,11 @@ msgstr "佣兵强度列表"
 
 #: web/views/mulligan_gv2.py:19
 msgid "Mulligan G-V2"
-msgstr "留牌指南 V2"
+msgstr "留牌指南G-V2"
 
 #: web/views/mulligan_gv2.py:22
 msgid "Make better mulligan decisions with Mulligan Guide Version 2"
-msgstr "使用新版留牌指南做出更好的起手留牌决策"
+msgstr "使用留牌指南G-V2做出更好的起手留牌决策"
 
 #: web/views/oauth2.py:38
 #, python-format
