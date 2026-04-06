@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-04 01:40\n"
+"POT-Creation-Date: 2026-04-06 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Japanese\n"
 "Language: ja\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: ja\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-04-04 12:40\n"
+"PO-Revision-Date: 2026-04-06 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/71/
 msgid "Pirates - APM"
@@ -282,6 +282,22 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/72/
 msgid "Make shop big with gems."
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/67/
+msgid "Murlocs - Hand Buff"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/67/
+msgid "First, scale a huge card in your hand. Most commonly you use [[Brann Bronzebeard||96786]] and cycling Murlocs to scale [[Bream Counter||98509]]. You usually have [[Mrglin' Burglar||114391]] as supplementary scaling. Use [[Dramaloc||126643]] to buff amalgams ([[Arid Atrocity||114473]]) and then [[Persistent Poet||108463]] can keep the Dramaloc buffs. After your amalgams are big, then triple it and keep it in hand so fugure Dramaloc buffs become huge."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/67/
+msgid "[[Brann Bronzebeard||96786]] + [[Bream Counter||98509]] + lots of economy"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/67/
+msgid "Buff Murloc in hand and multiply its stats"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/56/
