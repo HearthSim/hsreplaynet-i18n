@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-27T01:40:27.002288\n"
+"POT-Creation-Date: 2026-04-10T01:40:26.283376\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-03-28 00:40\n"
+"PO-Revision-Date: 2026-04-10 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -1557,10 +1557,6 @@ msgstr "Amulet Mage"
 msgid "Secret Paladin"
 msgstr "Secret Paladin"
 
-#: https://hsreplay.net/archetypes/171/aggro-paladin
-msgid "Aggro Paladin"
-msgstr "Aggro Paladin"
-
 #: https://hsreplay.net/archetypes/314/highlander-quest-priest
 msgid "Highlander Quest Priest"
 msgstr "Highlander Quest Priest"
@@ -2948,4 +2944,8 @@ msgstr ""
 #: https://hsreplay.net/archetypes/861/egg-priest
 msgid "Egg Priest"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/171/aggro-paladin
+msgid "Aggro Paladin"
+msgstr "Aggro Paladin"
 
