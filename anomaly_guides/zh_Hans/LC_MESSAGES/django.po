@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-06T01:40:27.663949\n"
+"POT-Creation-Date: 2026-04-14T17:54:42.825968\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /anomaly_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 167\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-04-06 12:40\n"
+"PO-Revision-Date: 2026-04-15 00:40\n"
 
 #: Anomaly id 102982 | Guide id 20
 msgid "Quests with spellcraft effects are really strong because you get the spellcraft for two turns."
@@ -170,8 +170,8 @@ msgid "It's really hard to hit anything in this anomaly, so maybe you need to bu
 msgstr "在这个畸变下，你真的很难凑出任何流派，所以也许需要购买更多原本不会购买的边际卡牌来变得更强。"
 
 #: Anomaly id 106510 | Guide id 19
-msgid "The best ones are value generators such as [[Briny Bootlegger||72071]]. Scaling cards such as [[Underhanded Dealer||99014]] are pretty good too."
-msgstr "最好的是资源生成卡比如 [[海上走私贩||72071]]。成长卡比如 [[开挂荷官||99014]] 也相当不错。"
+msgid "The best ones are value generators such as [[Briny Bootlegger]]. Scaling cards such as [[Underhanded Dealer]] are pretty good too."
+msgstr ""
 
 #: Anomaly id 106508 | Guide id 87
 msgid "Hope for a golden 6 drop that agrees with your current boardstate. If not, you may have to pivot into your golden 6 drop direction."
@@ -202,8 +202,8 @@ msgid "Spells are really bad to buy in this anomaly. Typically you get one gold 
 msgstr "在这个畸变下购买法术非常不划算。通常情况下，使用[[主厨甄选||105664]]可以换回1铸币，但在此畸变下法术的价格更高。此外，购买随从也更有效率。另外，每个[[刷新畸体||64042]]都是免费的。"
 
 #: Anomaly id 102084 | Guide id 45
-msgid "Most of the time, golden your timewarp on turn 6 or 9. The other times golden a value generator such as early [[Witchwing Nestmatron||76185]], [[Brann Bronzebeard||96786]], or [[Fleet Admiral Tethys||101122]]."
-msgstr "大多数时候，在第6回合或第9回合时点金你的时空扭曲随从。其他时候点金一个资源生成器，例如早期的 [[巫翼巢穴主母||76185]]， [[布莱恩·铜须||96786]]，或 [[舰队上将特塞斯||101122]]。"
+msgid "Most of the time, golden your timewarp on turn 6 or 9. The other times golden a value generator such as early [[Witchwing Nestmatron]], [[Brann Bronzebeard||96786]], or [[Fleet Admiral Tethys]]."
+msgstr ""
 
 #: Anomaly id 119092 | Guide id 57
 msgid "Most of the time, go for 6 drops."
@@ -250,8 +250,8 @@ msgid "Usually, you level to tavern 2 on turn 2, then tavern 3 on turn 4. The be
 msgstr ""
 
 #: Anomaly id 103078 | Guide id 82
-msgid "If Pirates/Nagas are in, use [[Brann Bronzebeard||96786]]/[[Fleet Admiral Tethys||101122]], [[Captain Sanders||97539]], and [[Sea Witch Zar'jira||103069]] to go infinite and pick the highest scaling line. ADVANCED: After infinite, some very high cap builds include Quilboars to make a big Futurefin and scale cleaves, or Quilboars to make a big Kodo and duplicate it with [[Stitched Salvager||119666]]"
-msgstr "如果海盗/纳迦存在，使用 [[布莱恩·铜须||96786]]/[[舰队上将特塞斯||101122]]、[[杉德尔船长||97539]] 和 [[海巫扎尔吉拉||103069]] 无限刷钱并选择最高等级的成长线。进阶：无限经济后，有一些非常高上限的构筑，包括使用野猪人制作一个巨大的未来鱼人来成长和传播，或者用野猪人制作一个巨大的科多兽，并用 [[缝合回收者||119666]] 复制它。"
+msgid "If Pirates/Nagas are in, use [[Brann Bronzebeard||96786]]/[[Fleet Admiral Tethys]], [[Captain Sanders||97539]], and [[Sea Witch Zar'jira||103069]] to go infinite and pick the highest scaling line. ADVANCED: After infinite, some very high cap builds include Quilboars to make a big Futurefin and scale cleaves, or Quilboars to make a big Kodo and duplicate it with [[Stitched Salvager||119666]]"
+msgstr ""
 
 #: Anomaly id 103541 | Guide id 70
 msgid "Early value generating buddies are premium. Buddies are usually just much better cards than the regular minion pool. ADVANCED: A common scaling line in Elemental lobbies are to go infinite with Brann and then scaling using ballers. You should have golden Reliquary Attendants (Taethalan Buddy) to copy multiple baller spells every turn and also Jandice Buddy."
