@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-15 01:40\n"
+"POT-Creation-Date: 2026-04-15 14:10\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish\n"
 "Language: es\n"
@@ -15,5 +15,106 @@ msgstr ""
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-04-15 12:40\n"
+"PO-Revision-Date: 2026-04-16 00:40\n"
+
+#: name | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Pirates - Bounty APM"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
+msgid "[[Sky Admiral Rogers||122516]] combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup.  Cycle [[Tranquil Meditative||119942]], or spell buff Chromadrakes with Brann for spell scaling to make your bounties buff more. You also want to cycle every single free card ([[Refreshing Anomaly||64042]]) and [[Roving Sailor||130705]] so you stay infinite. You may want to scale using [[Brazen Buccaneer||130703]] + [[Drakkari Enchanter||101314]] as well. ADVANCED PLAYERS: After you're infinite, think about the highest possible scaling from your spot. Options include Ship Jumper Pivot ([[Monstrous Macaw||62230]] + [[Titus Rivendare||97408]]) or [[Fire-forged Evoker||120301]] Pivot ([[Persistent Poet||108463]] + [[Nightbane, Ignited||110088]])"
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Bounty Generation ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Midgame Bounties ([[Bigwig Bandit||122179]]/[[Lost City Looter||122175]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Bounties generate gold and stats"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Demons - Shop Buff"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Scale your shop somehow, usually it's through [[Shadowdancer||120662]], [[Felemental||97553]], or [[Consummate Conqueror||130079]]. Then, add fodders to your shop to capture the buffed minions in shop. Typically you have an economy setup with [[Brann Bronzebeard||96786]] + damage rewinder ([[Ashen Corruptor||121687]]) which allows you to cycle a lot of cards. Every card you cycle will add a lot of fodders to eat because of [[Twisted Wrathguard||130662]]. There's another line where you can add fodders to your shop using [[Rylak Metalhead||98829]] + [[Laboratory Assistant||130075]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Buffed Shop ([[Shadowdancer||120662]]) + [[Ashen Corruptor||121687]] + [[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"Demon midgame ([[Woodland Defiler||130076]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/41/
+msgid "Scale and consume shop"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/81/
+msgid "Elementals - Shop Buff/Spells"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/81/
+msgid "First, buff the shop. This is usually done by having [[Living Azerite||107939]], but [[Air Revenant||126173]] works as well. [[Brann Bronzebeard||96786]] + [[Lantern Lava||122650]] gives you all the economy you need. Keep a good battlecry elemental on your board every turn, usually [[Refreshing Anomaly||64042]] for money and [[Leyline Surfacer||130294]] for stats. Double the effect of the [[Arcane Absorption||130311]] you get from Leyline using [[Balinda Stonehearth||130298]]. In the endgame, scale up [[Wildfire Elemental||64189]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/81/
+msgid "[[Brann Bronzebeard||96786]] + [[Lantern Lava||122650]] good economy"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/81/
+msgid "[[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/81/
+msgid "Make big units in shop to scale."
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Beasts - Stegodon"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Initially attack with your [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or any multi-hit taunt to soak some attacks. Then, the next things to attack should be [[Manasaber||98831]] then [[Sewer Lord||130996]] because this fills out the board with a lot of taunts that protect your Poultron. Every 4 things that die will give your board insane rallys because your Poultron's will attack and swing with all the combined rallies. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your Poultrons, then the Manasabers and Sewer Lord. Comp is much better if your Poultron is golden."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/48/
+msgid "[[Stomping Stegodon||122286]] + Beasts ([[Manasaber||98831]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/48/
+msgid "[[Stomping Stegodon||122286]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/48/
+msgid "Exponentially scale attack with rally"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Beasts - Summons"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/12/
+msgid "[[Goldrinn, the Great Wolf||59955]] + [[Monstrous Macaw||62230]] and [[Titus Rivendare||97408]] gives a huge aura affect to all beasts you summon. Usually, you want to taunt and reborn the Goldrinn so the Macaw always procs it and it always dies. [[Sewer Lord||130996]] is the best summon beast to run in this comp."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/12/
+msgid "[[Goldrinn, the Great Wolf||59955]] + beast summons ([[Sewer Lord||130996]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/12/
+msgid "[[Titus Rivendare||97408]] + [[Monstrous Macaw||62230]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Scale summoned beasts in combat"
+msgstr ""
 
