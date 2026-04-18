@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-15 14:10\n"
+"POT-Creation-Date: 2026-04-18 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: German\n"
 "Language: de\n"
@@ -15,7 +15,28 @@ msgstr ""
 "X-Crowdin-Language: de\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-04-16 00:40\n"
+"PO-Revision-Date: 2026-04-18 12:40\n"
+
+#: name | https://hsreplay.net/battlegrounds/comps/82/
+msgid "Back to Back"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/82/
+msgid "Scale spell power with [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] to make your Back to Back (Tavern Spell) bigger. Then, use [[Balinda Stonehearth||130298]] to double the scaling and effectiveness of your back to backs. [[Cataclysmic Harbinger||130884]] allows you to print multiple of them every turn. Scale premium units such as [[Sinrunner Blanchy||92398]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/82/
+msgid "Back to Back generation ([[Cataclysmic Harbinger||130884]]) + spell power ([[Felfire Conjurer||120299]]) + [[Drakkari Enchanter||101314]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/82/
+msgid "[[Cataclysmic Harbinger||130884]]\n"
+"[[Drakkari Enchanter||101314]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/82/
+msgid "Scale and repeatedly play specific tavern spell"
+msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Pirates - Bounty APM"
@@ -35,6 +56,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Bounties generate gold and stats"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/20/
+msgid "Nagas - Groundbreaker"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/20/
+msgid "First, you must have had a Naga midgame so you casted a lot of spells. After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Darkcrest Strategist||115555]]. Brann is very effective spell generation and economy as well. In the end game, sell your small units with ending units such as [[Leeroy the Reckless||90425]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/20/
+msgid "[[Darkcrest Strategist||115555]] plus [[Groundbreaker||114816]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/20/
+msgid "[[Darkcrest Strategist||115555]]\n"
+"Naga midgame"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/20/
+msgid "Play spells and nagas to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
@@ -63,7 +105,7 @@ msgid "Elementals - Shop Buff/Spells"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/81/
-msgid "First, buff the shop. This is usually done by having [[Living Azerite||107939]], but [[Air Revenant||126173]] works as well. [[Brann Bronzebeard||96786]] + [[Lantern Lava||122650]] gives you all the economy you need. Keep a good battlecry elemental on your board every turn, usually [[Refreshing Anomaly||64042]] for money and [[Leyline Surfacer||130294]] for stats. Double the effect of the [[Arcane Absorption||130311]] you get from Leyline using [[Balinda Stonehearth||130298]]. In the endgame, scale up [[Wildfire Elemental||64189]]."
+msgid "First, buff the shop. This is usually done by having [[Living Azerite||107939]], but [[Air Revenant||126173]] works as well. Keep [[Leyline Surfacer||130294]] for stats. Double the effect of the [[Arcane Absorption||130311]] you get from Leyline using [[Balinda Stonehearth||130298]]. In the endgame, scale up [[Wildfire Elemental||64189]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/81/
@@ -76,6 +118,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/81/
 msgid "Make big units in shop to scale."
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Quilboar - Smuggler"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/60/
+msgid "**MUST HAVE BEASTS** Before you start proccing [[Gem Smuggler||101594]], you want to scale your gems as much as possible, typically with [[Prickly Piper||98946]] and also proccing [[Moon bacon Jazzer||98930]] as much as possible. In the midgame, use [[Three Lil' Quilboar||114486]] or [[Bristlebach||100997]] to stabilize. The final variation of this comp uses [[Rylak Metalhead||98829]] to proc the [[Gem Smuggler||101594]]. Then, reborn on the Rylak, [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], and [[Titus Rivendare||97408]] all act as multipliers to the Rylak effect. If you have golden Rylak, then you can try to proc both Jazzer and Smuggler. You can choose to add in [[Tarecgosa||72062]] to keep gems."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/60/
+msgid "[[Brann Bronzebeard||96786]] + Gem Scaling ([[Prickly Piper||98946]]) + [[Gem Smuggler||101594]] + [[Rylak Metalhead||98829]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Gem scaling + QB Midgame ([[Prickly Piper||98946]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/60/
+msgid "Play gems during combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/48/

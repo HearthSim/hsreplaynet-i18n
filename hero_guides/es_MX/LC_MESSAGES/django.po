@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-15T01:40:28.551493\n"
+"POT-Creation-Date: 2026-04-18T01:40:52.868234\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: es_MX\n"
-"PO-Revision-Date: 2026-04-15 12:40\n"
+"PO-Revision-Date: 2026-04-18 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/129173/ Hero id 129173 | Guide id
 #: 705
@@ -26,6 +26,11 @@ msgstr ""
 #: 696
 msgid "This hero power is mainly used to gain 1 gold per turn, similar to Murloc Holmes."
 msgstr "Este poder de héroe se usa principalmente para ganar 1 oro por turno, similar a Murloc Holmes."
+
+#: https://hsreplay.net/battlegrounds/heroes/117409/ Hero id 117409 | Guide id
+#: 695
+msgid "Use this hero power like reno and use it on the first value generator you see, such as [[Bigwig Bandit||122179]]. If you don't find an early value generator, then use it on a core card for your direction."
+msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/116926/ Hero id 116926 | Guide id
 #: 694
@@ -45,11 +50,6 @@ msgstr ""
 #: https://hsreplay.net/battlegrounds/heroes/116920/ Hero id 116920 | Guide id
 #: 700
 msgid "Always hero power the first 3 turns, freezing a 2 cost spell turn 1 if you can. Turn 4 onwards, you can choose to stop hero powering if buying a good minion is better. Definitely stop hero powering after turn 6 if you don't want to die."
-msgstr ""
-
-#: https://hsreplay.net/battlegrounds/heroes/117409/ Hero id 117409 | Guide id
-#: 695
-msgid "Use this hero power like reno and use it on the first value generator you see, such as [[Industrious Deckhand]]. If you don't find an early value generator, then use it on a core card for your direction."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/127696/ Hero id 127696 | Guide id
@@ -82,14 +82,14 @@ msgstr ""
 msgid "The more summons your board has, the more attacks will happen. Value cards that summon such as [[Twilight Hatchling||126741]] or [[Harmless Bonehead||104551]] in the earlygame."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/98726/ Hero id 98726 | Guide id
-#: 420
-msgid "This hero is best used in Beast comps to target the [[Rylak Metalhead||98829]] or Undead comps to target a Reborn Deathrattle Undead ([[Carapace Raiser]])."
-msgstr ""
-
 #: https://hsreplay.net/battlegrounds/heroes/86291/ Hero id 86291 | Guide id
 #: 308
 msgid "Most games your curve will be leveling to tavern 3 on turn 4, and then hero powering either your turn 5 shop or leveling. If you level on turn 5, then hero power your best tier 4 shop."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/98726/ Hero id 98726 | Guide id
+#: 420
+msgid "This hero is best in Mech lobbies to force [[Ancestral Automaton||108432]] if you see it early on."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/96870/ Hero id 96870 | Guide id
@@ -184,12 +184,12 @@ msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/57944/ Hero id 57944 | Guide id
 #: 27
-msgid "Value generator or scaling 4 drops are by far the best ones, such as [[Deep Blue Crooner||98886]] or [[Witchwing Nestmatron]]. Same thing with value generating 3 drops, such as [[Briny Bootlegger]]."
+msgid "Value generator or scaling 4 drops are by far the best ones, such as [[Seafloor Recruiter||126916]] or [[Bigwig Bandit||122179]]. Same thing with value generating 3 drops, such as [[Lost City Looter||122175]]."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/74646/ Hero id 74646 | Guide id
 #: 150
-msgid "Make sure you trigger the minion that gets the deathrattle with [[Monstrous Macaw||62230]]. The best comp for this hero is [[Silithid Burrower]] comp, if you make sure that burrower has the lowest attack on your board. Certain cards that grow in combat are also premium for this Macaw strat, Timewarped Mythrax and Timewarped Immortal."
+msgid "Make sure you trigger the minion that gets the deathrattle with [[Monstrous Macaw||62230]]. The best comp for this hero is any Macaw Titus comp. Then, make sure your deathrattle is put on something that grows mid combat, so when it dies it gives the rest of your board a lot of stats when combined with Titus."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/60214/ Hero id 60214 | Guide id
@@ -200,6 +200,11 @@ msgstr ""
 #: https://hsreplay.net/battlegrounds/heroes/60369/ Hero id 60369 | Guide id
 #: 38
 msgid "Only pick with Mechs in. Divine Shielded units such as [[Cord Puller||110101]] are premium in the early game. If you find no Divine Shields, then value units with higher HP."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/60370/ Hero id 60370 | Guide id
+#: 54
+msgid "Force Dragons on this hero, using [[Prized Promo-Drake||72073]] plus [[Persistent Poet||108463]] to stabilize."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/105314/ Hero id 105314 | Guide id
@@ -220,11 +225,6 @@ msgstr ""
 #: https://hsreplay.net/battlegrounds/heroes/105434/ Hero id 105434 | Guide id
 #: 604
 msgid "You don't have to hero power every turn, only when you have 1 gold left over. For example, turn 2 you should still just level and not hero power."
-msgstr ""
-
-#: https://hsreplay.net/battlegrounds/heroes/60370/ Hero id 60370 | Guide id
-#: 54
-msgid "Force Dragons on this hero, using [[Prized Promo-Drake||72073]] and [[Twilight Watcher]] plus [[Persistent Poet||108463]] to stabilize."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/64480/ Hero id 64480 | Guide id
@@ -332,7 +332,7 @@ msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/57635/ Hero id 57635 | Guide id
 #: 110
-msgid "You may choose to play this hero power normally. You may also do a curve where you stay on 1, hero power and freeze every turn including turn 1, until you hit something you like from a higher tier. Value generating cards are the best or [[Silithid Burrower]]."
+msgid "You may choose to play this hero power normally. You may also do a curve where you stay on 1, hero power and freeze every turn including turn 1, until you hit something you like from a higher tier. Value generating cards such as [[Seafloor Recruiter||126916]] are the best."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/63601/ Hero id 63601 | Guide id 1
@@ -402,14 +402,14 @@ msgstr ""
 msgid "Mediocre hero power in the early game, enables spell synergy mid-late game such as [[Shadowdancer||120662]] or Bounty Pirates."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/71463/ Hero id 71463 | Guide id
-#: 22
-msgid "The main strat is to use [[Persistent Poet||108463]] and transfer largest attack dragon to [[Stuntdrake]] every turn to exponentially scale attack. Use avenge units such as [[Twilight Broodmother||127236]] for this strat."
-msgstr ""
-
 #: https://hsreplay.net/battlegrounds/heroes/57633/ Hero id 57633 | Guide id
 #: 108
 msgid "The hero power isn't that good, so only use it when you have one gold left over and don't play into too much."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/71463/ Hero id 71463 | Guide id
+#: 22
+msgid "With [[Nightbane, Ignited||110088]] and [[Persistent Poet||108463]], you can constantly swap your biggest attack dragon with Nightbane to expoentially scale attack. With [[Flaming Enforcer||126924]], you can scale attack by swapping it with the highest health unit in the shop at the end of the turn. In the end, make a large cleave ([[Blade Collector||99035]])"
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/59805/ Hero id 59805 | Guide id
@@ -434,7 +434,7 @@ msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/81569/ Hero id 81569 | Guide id
 #: 222
-msgid "Very often the curve on this hero is to level to tavern 3 on turn 4 and level to 4 on turn 5 so you can unlock your 4 drop as soon as possible. The best 4 drops to pick are the ones that generate value every turn such as [[Witchwing Nestmatron]]."
+msgid "Very often the curve on this hero is to level to tavern 3 on turn 4 and level to 4 on turn 5 so you can unlock your 4 drop as soon as possible. The best 4 drops to pick are the ones that generate value every turn such as [[Bigwig Bandit||122179]]."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/77516/ Hero id 77516 | Guide id
@@ -492,14 +492,14 @@ msgstr ""
 msgid "Turn 1 if you have a 2 cost spell in your first shop, buy it and then roll and you'll likely roll into a 1 cost spell that you can then buy. Same thing with coin, buy it and roll and hope to get a 2 cost spell in your next shop."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/59807/ Hero id 59807 | Guide id
-#: 119
-msgid "Prioritize first buffing the shop and then finding [[Insatiable Ur'zul]] to best capitalize on the 2 demons per turn. The alternative gameplay is playing damage demons."
-msgstr ""
-
 #: https://hsreplay.net/battlegrounds/heroes/71454/ Hero id 71454 | Guide id
 #: 19
 msgid "Most of the benefit from this hero power is giving 1/1 or 2/2 to every minion you buy in the early game. The hero power scales a bit too slow to play into, it just serves as an enabler to shop buff demons."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/59807/ Hero id 59807 | Guide id
+#: 119
+msgid "Prioritize first buffing the shop and then finding [[Twisted Wrathguard||130662]] to best capitalize on the 2 demons per turn. Run a permanent [[Soul Rewinder||100949]] on this hero."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/76562/ Hero id 76562 | Guide id
@@ -563,6 +563,6 @@ msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/60212/ Hero id 60212 | Guide id
 #: 123
-msgid "Either golden an early value generator or the first directional card you see. Value generators such as turn 6 [[Witchwing Nestmatron]] will give you so much value so you can level fast with a strong board. Directional cards include [[Lord of the Ruins]] or [[Brann Bronzebeard||96786]], and then you just commit to that direction."
+msgid "Either golden an early value generator or the first directional card you see. Value generators such as turn 6 [[Bigwig Bandit||122179]] will give you so much value so you can level fast with a strong board. Directional cards include [[Titus Rivendare||97408]] or [[Brann Bronzebeard||96786]], and then you just commit to that direction."
 msgstr ""
 
