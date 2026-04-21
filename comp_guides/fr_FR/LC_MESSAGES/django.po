@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-18 01:40\n"
+"POT-Creation-Date: 2026-04-21 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -15,7 +15,27 @@ msgstr ""
 "X-Crowdin-Language: fr\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-04-18 12:40\n"
+"PO-Revision-Date: 2026-04-21 12:40\n"
+
+#: name | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Mechs - Automaton"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Reborn your Automaton as soon as possible to start scaling it. Put naked [[Auto Assembler||120025]] on the board to also scale it. Roll on 5 for Kangors, and then you can fill out the rest of your comp with Leeroy and scam."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Automaton + Enabled Hero/Trinket"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Lich King, Akazamarak (Pack Tactics), and Teron Gorefield"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/32/
+msgid "Summon large Automatons"
+msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/82/
 msgid "Back to Back"
@@ -43,7 +63,7 @@ msgid "Pirates - Bounty APM"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Sky Admiral Rogers||122516]] combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup.  Cycle [[Tranquil Meditative||119942]], or spell buff Chromadrakes with Brann for spell scaling to make your bounties buff more. You also want to cycle every single free card ([[Refreshing Anomaly||64042]]) and [[Roving Sailor||130705]] so you stay infinite. You may want to scale using [[Brazen Buccaneer||130703]] + [[Drakkari Enchanter||101314]] as well. ADVANCED PLAYERS: After you're infinite, think about the highest possible scaling from your spot. Options include Ship Jumper Pivot ([[Monstrous Macaw||62230]] + [[Titus Rivendare||97408]]) or [[Fire-forged Evoker||120301]] Pivot ([[Persistent Poet||108463]] + [[Nightbane, Ignited||110088]])"
+msgid "[[Sky Admiral Rogers||122516]] combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup.  Cycle [[Tranquil Meditative||119942]], or spell buff Chromadrakes with Brann for spell scaling to make your bounties buff more. You also want to cycle every single free card ([[Refreshing Anomaly||64042]]) and [[Roving Sailor||130705]] so you stay infinite. You may want to scale using [[Brazen Buccaneer||130703]] + [[Drakkari Enchanter||101314]] as well. ADVANCED PLAYERS: After you're infinite, think about the highest possible scaling from your spot. Options include Ship Jumper Pivot ([[Monstrous Macaw||62230]] + [[Titus Rivendare||97408]]) or [[Fire-forged Evoker||120301]] Pivot ([[Persistent Poet||108463]] + [[Nightbane, Ignited||110088]]), or Azerite Pivot, or Demon Pivot"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
@@ -56,6 +76,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Bounties generate gold and stats"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/84/
+msgid "Quilboar - Combat Scaling"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/84/
+msgid "Scale your gems mainly using [[Prickly Piper||98946]] and cycling every [[Moon-Bacon Jazzer||98930]] and [[Fearless Foodie||113154]] that you see. Then, Using [[Redtusk Thornraiser||130153]] to reborn all your quilboars, most importantly Piper and [[Three Lil Quilboar||114486]]. [[Bristlebach||100997]] makes you really strong because of all your reborns, especially when paired with reborn [[Glowgullet Warlord||120031]]. You may reborn taunt [[Pufferquil||97549]], so the reborned Pufferquil also gets venom. You may run an [[Earthsong Shaman||130149]] just to add many stats at the end of the turn. Of course, cycle every [[Hog Watcher||122737]] to give your quilboars Divine Shield."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/84/
+msgid "Gem scaling ([[Prickly Piper||98946]]) + Combat scaling ([[Bristlebach||100997]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/84/
+msgid "Gem scaling ([[Prickly Piper||98946]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/84/
+msgid "Unleash high attack gems during combat."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/20/
@@ -77,6 +117,47 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/20/
 msgid "Play spells and nagas to scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/83/
+msgid "Beasts - Leviathan"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/83/
+msgid "Summon as many beasts as possible after you get early [[Lurking Leviathan||130711]]. You either use [[Sewer Lord||130996]] and/or [[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]]. Then, paired with [[Banana Slamma||98824]], every summon will have a ton of attack. Reborn on [[Sewer Lord||130996]] provides so many summons."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/83/
+msgid "Early [[Lurking Leviathan||130711]] + Beast summons ([[Sewer Lord||130996]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/83/
+msgid "[[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/83/
+msgid "Make huge attack summons"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Undead - Overflow"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
+msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Use [[Monstrous Macaw||62230]] to further proc Cadaver's deathrattle. Instead of [[Cadaver Caretaker||113158]], you may also use [[Lava Lurker||80747]] if you've stacked it with a lot of [[Surf n' Surf||103674]] deathrattles early."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
+msgid "[[Cadaver Caretaker||113158]]\n"
+"[[Lava Lurker||80747]] + [[Surf n' Surf||103674]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/6/
+msgid "Overflow your board to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
@@ -109,7 +190,7 @@ msgid "First, buff the shop. This is usually done by having [[Living Azerite||10
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/81/
-msgid "[[Brann Bronzebeard||96786]] + [[Lantern Lava||122650]] good economy"
+msgid "[[Brann Bronzebeard||96786]] + shop buff([[Living Azerite||107939]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/81/
@@ -178,5 +259,25 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/12/
 msgid "Scale summoned beasts in combat"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Murlocs - Venom Scam"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Aim to golden [[Diremuck Forager||108922]] and give it venom using [[Bile Spitter||122219]]. Then, the Diremuck will pull many scam units from your hand."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
+msgid "When you have no future or are clearly getting outstatted"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Getting outscaled"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Buy scam cards and try to preserve placements"
 msgstr ""
 
