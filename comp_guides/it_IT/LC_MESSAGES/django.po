@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-04-21 01:40\n"
+"POT-Creation-Date: 2026-04-22 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Italian\n"
 "Language: it\n"
@@ -15,10 +15,31 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-04-21 12:40\n"
+"PO-Revision-Date: 2026-04-22 12:40\n"
+
+#: name | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Undead - Attack Scaling"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Scale the attack of your Undeads and summons with the Butchering spell from [[Drustfallen Butcher||120104]]. Butchering doubles it's effect when paired with [[Balinda Stonehearth||130298]], and also improves with spell scaling from [[Friendly Geist||120219]] or [[Tranquil Meditative||119942]]. Your quality of summons come from [[Handless Forsaken||95265]], but also could use [[Deathly Striker||115610]] or [[Eternal Summoner||95263]]. Be sure to reborn as many key undeads as possible, starting with [[Handless Forsaken||95265]]. Using [[Disguised Graverobber||104610]] on [[Mummifier||108992]] also gives permanent reborns."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Attack Scaling ([[Drustfallen Butcher||120104]]) + summons ([[Handless Forsaken||95265]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
+msgid "[[Deathly Striker||115610]] \n"
+"[[Friendly Geist||120219]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/14/
+msgid "Summon high attack Undeads"
+msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/32/
-msgid "Mechs - Automaton"
+msgid "Mechs - Automaton (SPECIFIC HEROES)"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/32/
@@ -58,12 +79,32 @@ msgstr ""
 msgid "Scale and repeatedly play specific tavern spell"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/15/
+msgid "Dragons - Battlecries"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +4/4 every single battlecry you play. You want to trigger as many battlecries as possible. After you have your setup, cycle only PREMIUM battlecries, such as [[Tavern Tempest||64077]], [[Refreshing Anomaly||64042]], [[Shell Collector||80740]] or [[Draconic Warden||126860]]. You may run [[Rylak Metalhead||98829]] + [[Draconic Warden||126860]], which farms a lot of battlecries and triples which help a lot with board strength and economy."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Kalecgos, Arcane Aspect||60630]] + [[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/15/
+msgid "Cycle battlecries to scale dragons"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Pirates - Bounty APM"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Sky Admiral Rogers||122516]] combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup.  Cycle [[Tranquil Meditative||119942]], or spell buff Chromadrakes with Brann for spell scaling to make your bounties buff more. You also want to cycle every single free card ([[Refreshing Anomaly||64042]]) and [[Roving Sailor||130705]] so you stay infinite. You may want to scale using [[Brazen Buccaneer||130703]] + [[Drakkari Enchanter||101314]] as well. ADVANCED PLAYERS: After you're infinite, think about the highest possible scaling from your spot. Options include Ship Jumper Pivot ([[Monstrous Macaw||62230]] + [[Titus Rivendare||97408]]) or [[Fire-forged Evoker||120301]] Pivot ([[Persistent Poet||108463]] + [[Nightbane, Ignited||110088]]), or Azerite Pivot, or Demon Pivot"
+msgid "[[Sky Admiral Rogers||122516]] combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup.  Cycle [[Tranquil Meditative||119942]], or spell buff Chromadrakes with Brann for spell scaling to make your bounties buff more. You also want to cycle every single free card ([[Refreshing Anomaly||64042]]) and [[Roving Sailor||130705]] so you stay infinite. You may want to scale using [[Brazen Buccaneer||130703]] + [[Drakkari Enchanter||101314]] as well. ADVANCED PLAYERS: After you're infinite, think about the highest possible scaling from your spot. Options include Ship Jumper Pivot ([[Monstrous Macaw||62230]] + [[Titus Rivendare||97408]]) or [[Fire-forged Evoker||120301]] Pivot ([[Persistent Poet||108463]] + [[Nightbane, Ignited||110088]]), or Azerite Shop Buff Ele Pivot, or Shop Buff Demons Pivot"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
@@ -191,10 +232,6 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/81/
 msgid "[[Brann Bronzebeard||96786]] + shop buff([[Living Azerite||107939]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/81/
-msgid "[[Brann Bronzebeard||96786]]"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/81/
