@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-31 01:40+0000\n"
-"PO-Revision-Date: 2026-03-31 12:40\n"
+"POT-Creation-Date: 2026-04-22 19:19+0000\n"
+"PO-Revision-Date: 2026-04-23 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -512,16 +512,16 @@ msgstr ""
 msgid "Battlegrounds Comps"
 msgstr ""
 
-#: templates/footer.html:86 web/views/battlegrounds.py:734
-#: web/views/battlegrounds.py:784
+#: templates/footer.html:86 web/views/battlegrounds.py:739
+#: web/views/battlegrounds.py:789
 msgid "Battlegrounds Minions"
 msgstr ""
 
-#: templates/footer.html:87 web/views/battlegrounds.py:399
+#: templates/footer.html:87 web/views/battlegrounds.py:404
 msgid "Battlegrounds Anomalies"
 msgstr ""
 
-#: templates/footer.html:88 web/views/battlegrounds.py:455
+#: templates/footer.html:88 web/views/battlegrounds.py:460
 msgid "Battlegrounds Quests"
 msgstr ""
 
@@ -572,11 +572,11 @@ msgstr "Cambiar el modo de navegación"
 #: templates/navigation.html:46 web/views/battlegrounds.py:151
 #: web/views/battlegrounds.py:239 web/views/battlegrounds.py:265
 #: web/views/battlegrounds.py:281 web/views/battlegrounds.py:342
-#: web/views/battlegrounds.py:406 web/views/battlegrounds.py:462
-#: web/views/battlegrounds.py:506 web/views/battlegrounds.py:522
-#: web/views/battlegrounds.py:581 web/views/battlegrounds.py:738
-#: web/views/battlegrounds.py:809 web/views/battlegrounds.py:910
-#: web/views/battlegrounds.py:1105
+#: web/views/battlegrounds.py:411 web/views/battlegrounds.py:467
+#: web/views/battlegrounds.py:511 web/views/battlegrounds.py:527
+#: web/views/battlegrounds.py:586 web/views/battlegrounds.py:743
+#: web/views/battlegrounds.py:814 web/views/battlegrounds.py:915
+#: web/views/battlegrounds.py:1110
 msgid "Battlegrounds"
 msgstr ""
 
@@ -601,7 +601,7 @@ msgid "Parties"
 msgstr ""
 
 #: templates/navigation.html:104 web/views/battlegrounds.py:266
-#: web/views/battlegrounds.py:590
+#: web/views/battlegrounds.py:595
 msgid "Heroes"
 msgstr ""
 
@@ -609,20 +609,20 @@ msgstr ""
 msgid "Trinkets"
 msgstr ""
 
-#: templates/navigation.html:129 web/views/battlegrounds.py:911
+#: templates/navigation.html:129 web/views/battlegrounds.py:916
 msgid "Timewarp"
 msgstr ""
 
-#: templates/navigation.html:142 web/views/battlegrounds.py:523
+#: templates/navigation.html:142 web/views/battlegrounds.py:528
 msgid "Darkmoon Prizes"
 msgstr ""
 
 #: templates/navigation.html:153 web/views/battlegrounds.py:282
-#: web/views/battlegrounds.py:1114
+#: web/views/battlegrounds.py:1119
 msgid "Comps"
 msgstr ""
 
-#: templates/navigation.html:165 web/views/battlegrounds.py:463
+#: templates/navigation.html:165 web/views/battlegrounds.py:468
 msgid "Quests"
 msgstr ""
 
@@ -630,12 +630,12 @@ msgstr ""
 msgid "NEW"
 msgstr ""
 
-#: templates/navigation.html:182 web/views/battlegrounds.py:407
+#: templates/navigation.html:182 web/views/battlegrounds.py:412
 msgid "Anomalies"
 msgstr ""
 
-#: templates/navigation.html:193 web/views/battlegrounds.py:739
-#: web/views/battlegrounds.py:810
+#: templates/navigation.html:193 web/views/battlegrounds.py:744
+#: web/views/battlegrounds.py:815
 msgid "Minions"
 msgstr ""
 
@@ -969,147 +969,147 @@ msgstr ""
 msgid "Explore our Battlegrounds Trinkets Tier List and learn which trinket is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:401
+#: web/views/battlegrounds.py:406
 msgid "Explore our Battlegrounds Anomalies List and learn which anomalies are more common - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:457
+#: web/views/battlegrounds.py:462
 msgid "Explore our Battlegrounds Quests List and learn which quests are the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:503
+#: web/views/battlegrounds.py:508
 msgid "Battlegrounds Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:507
+#: web/views/battlegrounds.py:512
 msgid "Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:519
+#: web/views/battlegrounds.py:524
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr ""
 
-#: web/views/battlegrounds.py:528
+#: web/views/battlegrounds.py:533
 msgid "Battlegrounds Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:550
+#: web/views/battlegrounds.py:555
 msgid "No matching hero found."
 msgstr ""
 
-#: web/views/battlegrounds.py:726
+#: web/views/battlegrounds.py:731
 msgid "Battlegrounds Duos Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:746
+#: web/views/battlegrounds.py:751
 msgid "Beast"
 msgstr ""
 
-#: web/views/battlegrounds.py:747
+#: web/views/battlegrounds.py:752
 msgid "Demon"
 msgstr ""
 
-#: web/views/battlegrounds.py:748
+#: web/views/battlegrounds.py:753
 msgid "Dragon"
 msgstr ""
 
-#: web/views/battlegrounds.py:749
+#: web/views/battlegrounds.py:754
 msgid "Elemental"
 msgstr ""
 
-#: web/views/battlegrounds.py:750
+#: web/views/battlegrounds.py:755
 msgid "Mech"
 msgstr ""
 
-#: web/views/battlegrounds.py:751
+#: web/views/battlegrounds.py:756
 msgid "Murloc"
 msgstr ""
 
-#: web/views/battlegrounds.py:752
+#: web/views/battlegrounds.py:757
 msgid "Naga"
 msgstr ""
 
-#: web/views/battlegrounds.py:753
+#: web/views/battlegrounds.py:758
 msgid "Pirate"
 msgstr ""
 
-#: web/views/battlegrounds.py:754
+#: web/views/battlegrounds.py:759
 msgid "Quilboar"
 msgstr ""
 
-#: web/views/battlegrounds.py:755
+#: web/views/battlegrounds.py:760
 msgid "Undead"
 msgstr ""
 
-#: web/views/battlegrounds.py:767
+#: web/views/battlegrounds.py:772
 msgid "Invalid Tavern Tier."
 msgstr ""
 
-#: web/views/battlegrounds.py:773
+#: web/views/battlegrounds.py:778
 msgid "No matching minion type found."
-msgstr ""
-
-#: web/views/battlegrounds.py:787
-#, python-brace-format
-msgid "Battlegrounds {type} Minions"
 msgstr ""
 
 #: web/views/battlegrounds.py:792
 #, python-brace-format
+msgid "Battlegrounds {type} Minions"
+msgstr ""
+
+#: web/views/battlegrounds.py:797
+#, python-brace-format
 msgid "Battlegrounds Tier {tier} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:796
+#: web/views/battlegrounds.py:801
 #, python-brace-format
 msgid "Battlegrounds Tier {tier} {type} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:826 web/views/battlegrounds.py:855
+#: web/views/battlegrounds.py:831 web/views/battlegrounds.py:860
 msgid "Battlegrounds Minion"
 msgstr ""
 
-#: web/views/battlegrounds.py:847
+#: web/views/battlegrounds.py:852
 msgid "No matching minion found."
 msgstr ""
 
-#: web/views/battlegrounds.py:902
+#: web/views/battlegrounds.py:907
 msgid "Battlegrounds Timewarped Cards"
 msgstr ""
 
-#: web/views/battlegrounds.py:904
+#: web/views/battlegrounds.py:909
 msgid "Explore the Minions, Spells & Hero Powers available in each of the Timewarped Tavern shops"
 msgstr ""
 
-#: web/views/battlegrounds.py:926
+#: web/views/battlegrounds.py:931
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:932 web/views/battlegrounds.py:962
+#: web/views/battlegrounds.py:937 web/views/battlegrounds.py:967
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:955
+#: web/views/battlegrounds.py:960
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:957
+#: web/views/battlegrounds.py:962
 msgid "No matching composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:1056
+#: web/views/battlegrounds.py:1061
 msgid "Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:1076
+#: web/views/battlegrounds.py:1081
 msgid "No matching comp found."
 msgstr ""
 
-#: web/views/battlegrounds.py:1089
+#: web/views/battlegrounds.py:1094
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr ""
 
-#: web/views/battlegrounds.py:1171
+#: web/views/battlegrounds.py:1176
 msgid "My Battlegrounds Stats"
 msgstr ""
 
