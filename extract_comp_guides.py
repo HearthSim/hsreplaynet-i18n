@@ -1,10 +1,12 @@
 #!/usr/bin/env python
 import os
-import re
 from datetime import datetime
 
 from polib import POEntry, POFile
 import requests
+
+from utils import update_pofile
+
 
 def main():
     out_dir = os.path.join(
@@ -62,10 +64,9 @@ def main():
             if entry not in po:
                 po.append(entry)
 
-    po.save(out_path)
+    update_pofile(po, out_path)
     print(f"Written {out_path}")
 
 
 if __name__ == "__main__":
     main()
-    
