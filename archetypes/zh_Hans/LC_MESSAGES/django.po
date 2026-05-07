@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-02T01:40:27.996936\n"
+"POT-Creation-Date: 2026-05-07T01:40:27.168939\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-05-06 12:40\n"
+"PO-Revision-Date: 2026-05-07 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -472,10 +472,6 @@ msgstr "铺场萨"
 #: https://hsreplay.net/archetypes/164/deathrattle-warrior
 msgid "Deathrattle Warrior"
 msgstr "亡语战"
-
-#: https://hsreplay.net/archetypes/181/leyline-mage
-msgid "Leyline Mage"
-msgstr "魔网火球法"
 
 #: https://hsreplay.net/archetypes/427/vargoth-otk-mage
 msgid "Vargoth OTK Mage"
@@ -1183,7 +1179,7 @@ msgstr "任务术"
 
 #: https://hsreplay.net/archetypes/384/egg-warrior
 msgid "Egg Warrior"
-msgstr "激怒蛋战"
+msgstr "蛋战"
 
 #: https://hsreplay.net/archetypes/274/dragon-shaman
 msgid "Dragon Shaman"
@@ -1561,6 +1557,10 @@ msgstr "龙火法"
 msgid "Secret Paladin"
 msgstr "奥秘骑"
 
+#: https://hsreplay.net/archetypes/864/egg-druid
+msgid "Egg Druid"
+msgstr "蛋德"
+
 #: https://hsreplay.net/archetypes/314/highlander-quest-priest
 msgid "Highlander Quest Priest"
 msgstr "宇宙任务牧"
@@ -1676,10 +1676,6 @@ msgstr "神话猎"
 #: https://hsreplay.net/archetypes/546/imp-warlock
 msgid "Imp Warlock"
 msgstr "小鬼术"
-
-#: https://hsreplay.net/archetypes/183/silver-hand-paladin
-msgid "Silver Hand Paladin"
-msgstr "报告骑"
 
 #: https://hsreplay.net/archetypes/467/menagerie-rogue
 msgid "Menagerie Rogue"
@@ -2956,4 +2952,16 @@ msgstr "快攻骑"
 #: https://hsreplay.net/archetypes/863/magmaw-hunter
 msgid "Magmaw Hunter"
 msgstr "熔喉猎"
+
+#: https://hsreplay.net/archetypes/865/companion-hunter
+msgid "Companion Hunter"
+msgstr "伙伴猎"
+
+#: https://hsreplay.net/archetypes/866/leyline-mage
+msgid "Leyline Mage"
+msgstr "魔网法"
+
+#: https://hsreplay.net/archetypes/183/silver-hand-paladin
+msgid "Silver Hand Paladin"
+msgstr "报告骑"
 
