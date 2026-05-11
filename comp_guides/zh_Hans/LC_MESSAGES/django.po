@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-02 01:40\n"
+"POT-Creation-Date: 2026-05-11 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-05-08 12:40\n"
+"PO-Revision-Date: 2026-05-11 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - APM"
@@ -258,6 +258,28 @@ msgstr "[[Cadaver Caretaker||113158]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/6/
 msgid "Overflow your board to scale"
 msgstr "挤掉召唤物来成长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/70/
+msgid "Beasts - RDU"
+msgstr "野兽 - 自伤"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/70/
+msgid "Use [[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]] to generate lots of beasts every turn. [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], reborn, and [[Titus Rivendare||97408]] all amplify this effect. When you have your scaling setup with [[Rabid Panther||127111]] + [[Iridescent Skyblazer||107937]] or double Rabid Panther, start buying every single beast to scale your board."
+msgstr "使用 [[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]] 的组合每回合生成大量野兽。[[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], 复生和 [[Titus Rivendare||97408]] 都能增强此效果。当你用 [[Rabid Panther||127111]] + [[Iridescent Skyblazer||107937]] 或双狂乱的猎豹建立起成长体系时，开始购买所有野兽来扩大你的棋盘。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/70/
+msgid "[[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]] + [[Rabid Panther||127111]]"
+msgstr "[[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]] + [[Rabid Panther||127111]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/70/
+msgid "[[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]]\n"
+"[[Rabid Panther||127111]]"
+msgstr "[[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]]\n"
+"[[Rabid Panther||127111]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/70/
+msgid "Cycle beasts to damage themselves and scale"
+msgstr "循环使用野兽并对它们造成伤害来强化"
 
 #: name | https://hsreplay.net/battlegrounds/comps/86/
 msgid "Dragons - Shiny Ring"
