@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-11 01:40\n"
+"POT-Creation-Date: 2026-05-17 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Italian\n"
 "Language: it\n"
@@ -15,18 +15,18 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-05-11 12:40\n"
+"PO-Revision-Date: 2026-05-17 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
-msgid "Murlocs - APM"
+msgid "鱼人 - 手速倒转"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/67/
-msgid "First, have a ton of economy, typically starting from golden [[Brann Bronzebeard||96786]] or Brann + [[Magicfin Mycologist||122277]], remembering premium economy spells such as Cloning Conch or Battlecry Discovery. Then, your payoff card for all that economy is typically [[Primitive Painter||122281]]. Your payoff can also include [[Bream Counter||98509]] + [[Mrglin'Burglar||114391]] handbuff package, or [[Cousin Errgl||131149]] family package. In any case, you're scaling [[Expert Aviator||126637]], which is the most premium murloc because it can summon any scam card ([[Leeroy The Reckless||90425]]) from your hand."
+msgid "首先，要有大量的经济，通常要从有金色[[Brann Bronzebeard||96786]] 或铜须+ [[Magicfin Mycologist||122277]]开始，让小学生记住高级经济法术，如克隆螺号或发现战吼。然后，所有这些经济的回报卡通常是[[Primitive Painter||122281]]。你的回报也可以包括 [[Bream Counter||98509]] + [[Mrglin'Burglar||114391]] 手牌强化组合，或 [[Cousin Errgl||131149]] 家族组合。无论如何，你都在提升 [[Expert Aviator||126637]]，这是最好的鱼人，因为它可以从手牌召唤任何下毒卡 ([[Leeroy The Reckless||90425]]) 。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/67/
-msgid "[[Brann Bronzebeard||96786]] + lots of economy + Murloc scaling ([[Primitive Painter||122281]])"
+msgid "[[Brann Bronzebeard||96786]] + 大量经济 + 鱼人成长 ([[Primitive Painter||122281]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/67/
@@ -38,15 +38,15 @@ msgid "Cycle cards to scale murlocs"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Undead - Attack Scaling"
+msgid "亡灵 - 攻击提升"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Scale the attack of your Undeads and summons with the Butchering spell from [[Drustfallen Butcher||120104]]. Butchering doubles it's effect when paired with [[Balinda Stonehearth||130298]], and also improves with spell scaling from [[Friendly Geist||120219]] or [[Tranquil Meditative||119942]]. Your quality of summons come from [[Handless Forsaken||95265]], but also could use [[Deathly Striker||115610]] or [[Eternal Summoner||95263]]. Be sure to reborn as many key undeads as possible, starting with [[Handless Forsaken||95265]]. Using [[Disguised Graverobber||104610]] on [[Mummifier||108992]] also gives permanent reborns."
+msgid "使用来自 [[Drustfallen Butcher||120104]] 的宰割法术来提升你的亡灵和召唤物的攻击力。宰割法术在与 [[Balinda Stonehearth||130298]] 搭配时效果翻倍，并且也能从 [[Friendly Geist||120219]] 或 [[Tranquil Meditative||119942]] 的法术加成中获益。你的召唤物的品质来自 [[Handless Forsaken||95265]]，但也可以使用 [[Deathly Striker||115610]] 或 [[Eternal Summoner||95263]]。确保尽可能多地复生关键亡灵，从 [[Handless Forsaken||95265]] 开始贴复生。在 [[Mummifier||108992]] 上使用 [[Disguised Graverobber||104610]] 也能提供永久复生。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Attack Scaling ([[Drustfallen Butcher||120104]]) + summons ([[Handless Forsaken||95265]])"
+msgid "攻击成长 ([[德鲁斯特堕落屠夫||120104]]) + 亡灵召唤 ([[断手被遗忘者||95265]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
@@ -59,19 +59,19 @@ msgid "Summon high attack Undeads"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/32/
-msgid "Mechs - Automaton (SPECIFIC HEROES)"
+msgid "机械 - 星元自动机（特定英雄）"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/32/
-msgid "Reborn your Automaton as soon as possible to start scaling it. Put naked [[Auto Assembler||120025]] on the board to also scale it. Roll on 5 for Kangors, and then you can fill out the rest of your comp with Leeroy and scam."
+msgid "尽快复生你的自动机以开始强化它。将单独的[[Auto Assembler||120025]] 放在棋盘上来强化它。在5级酒馆刷新找坎格尔的学徒，然后你可以用火车王和其他下毒卡来完成你的流派。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/32/
-msgid "Automaton + Enabled Hero/Trinket"
+msgid "星元自动机 + 特定英雄/饰品"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/32/
-msgid "Lich King, Akazamarak (Pack Tactics), and Teron Gorefield"
+msgid "巫妖王，阿卡扎曼扎拉克（集群战术），塔隆·血魔"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/32/
@@ -83,11 +83,11 @@ msgid "Back to Back"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/82/
-msgid "Scale spell power with [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] to make your Back to Back (Tavern Spell) bigger. Then, use [[Balinda Stonehearth||130298]] to double the scaling and effectiveness of your back to backs. [[Cataclysmic Harbinger||130884]] allows you to print multiple of them every turn. Scale premium units such as [[Sinrunner Blanchy||92398]]."
+msgid "使用 [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] 来提升法术强度，使你的背靠背（酒馆法术）变得更大。然后使用 [[Balinda Stonehearth||130298]] 将其数值和效果翻倍。[[Cataclysmic Harbinger||130884]] 能让你每回合印多个背靠背。提升高级单位，如 [[Sinrunner Blanchy||92398]]。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/82/
-msgid "Back to Back generation ([[Cataclysmic Harbinger||130884]]) + spell power ([[Felfire Conjurer||120299]]) + [[Drakkari Enchanter||101314]]"
+msgid "背靠背生成 ([[Cataclysmic Harbinger||130884]]) + 法术强化 ([[Felfire Conjurer||120299]]) + [[Drakkari Enchanter||101314]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/82/
@@ -100,11 +100,11 @@ msgid "Scale and repeatedly play specific tavern spell"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/15/
-msgid "Dragons - Battlecries"
+msgid "龙 - 战吼"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/15/
-msgid "[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +4/4 every single battlecry you play. You want to trigger as many battlecries as possible. After you have your setup, cycle only PREMIUM battlecries, such as [[Tavern Tempest||64077]], [[Refreshing Anomaly||64042]], [[Shell Collector||80740]] or [[Draconic Warden||126860]]. You may run [[Rylak Metalhead||98829]] + [[Draconic Warden||126860]], which farms a lot of battlecries and triples which help a lot with board strength and economy."
+msgid "每当你施放一个战吼，[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] 会使你所有龙获得+4/4。你需要尽可能多地触发战吼。当你完成阵容搭建后，只使用高级战吼，例如[[Tavern Tempest||64077]], [[Refreshing Anomaly||64042]],  [[Shell Collector||80740]] 或 [[Draconic Warden||126860]]。你可以使用 [[Rylak Metalhead||98829]] + [[Draconic Warden||126860]]，这能产生大量战吼和三连，对场面和经济都非常有帮助。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/15/
@@ -116,19 +116,19 @@ msgid "Cycle battlecries to scale dragons"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Pirates - Bounty APM"
+msgid "海盗 - 悬赏令手速倒转"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Sky Admiral Rogers||122516]] combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup.  Cycle [[Tranquil Meditative||119942]], or spell buff Chromadrakes with Brann for spell scaling to make your bounties buff more. You also want to cycle every single free card ([[Refreshing Anomaly||64042]]) and [[Roving Sailor||130705]] so you stay infinite. You may want to scale using [[Brazen Buccaneer||130703]] + [[Drakkari Enchanter||101314]] as well. ADVANCED PLAYERS: After you're infinite, think about the highest possible scaling from your spot. Options include Shop Buff Demons Pivot or [[Fire-forged Evoker||120301]] Pivot or Attack Scaling Undead pivot ([[Forsaken Weaver||126733]])"
+msgid "[[Sky Admiral Rogers||122516]] 与 [[Proud Privateer||122520]] 组合，能为你提供大量铸币，让你能构建更多卡牌。循环 [[Tranquil Meditative||119942]],，或者用铜须给多彩幼龙加法术强度，让你的悬赏令卡获得更多增益。你还需要循环每一张免费卡牌 ([[Refreshing Anomaly||64042]]) 和 [[Roving Sailor||130705]]，这样你就能保持无限资源。你也可以考虑使用 [[Brazen Buccaneer||130703]] + [[Drakkari Enchanter||101314]] 来提升强度。进阶玩家：当你达到无限资源后，要考虑从你的卡组中获得最高的强度。选项包括转成商店增益恶魔流派或 [[Fire-forged Evoker||120301]流派，或者攻击强化亡灵流([[Forsaken Weaver||126733]])"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Bounty Generation ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]]"
+msgid "悬赏令生成器 ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Midgame Bounties ([[Bigwig Bandit||122179]]/[[Lost City Looter||122175]])"
+msgid "中期获取悬赏令 ([[Bigwig Bandit||122179]]/[[Lost City Looter||122175]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/3/
@@ -136,7 +136,7 @@ msgid "Bounties generate gold and stats"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/84/
-msgid "Quilboar - Combat Scaling"
+msgid "野猪人 - 战斗提升"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/84/
@@ -144,11 +144,11 @@ msgid "Scale your gems mainly using [[Prickly Piper||98946]] and cycling every [
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/84/
-msgid "Gem scaling ([[Prickly Piper||98946]]) + Combat scaling ([[Bristlebach||100997]])"
+msgid "宝石强化([Prickly Piper||98946]]) + 战斗提升([[Bristlebach||100997]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/84/
-msgid "Gem scaling ([[Prickly Piper||98946]])"
+msgid "宝石强化 ([[Prickly Piper||98946]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/84/
@@ -156,7 +156,7 @@ msgid "Unleash high attack gems during combat."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/85/
-msgid "Nagas - Combat Scaling/Spell Buff"
+msgid "纳迦 - 战斗成长/法术强化"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/85/
@@ -164,12 +164,12 @@ msgid "Proc [[Ruthless Queensguard||126918]]'s deathratte effect as many times a
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/85/
-msgid "[[Ruthless Queensguard||126918]] + Spell Scaling ([[Tranquil Meditative||119942]])"
+msgid "[[Ruthless Queensguard||126918]] + 法术成长 ([[Tranquil Meditative||119942]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/85/
 msgid "[[Ruthless Queensguard||126918]]\n"
-"Spell scaling ([[Tranquil Meditative||119942]])"
+"法术成长 ([[Tranquil Meditative||119942]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/85/
@@ -177,7 +177,7 @@ msgid "Scale nagas in combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/59/
-msgid "Quilboar - Darkgaze"
+msgid "野猪人 - 暗视"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/59/
@@ -185,7 +185,7 @@ msgid "After you have [[Darkgaze Elder||80756]] and buffed gems ([[Prickly Piper
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/59/
-msgid "[[Darkgaze Elder||80756]] + Scaled gems ([[Prickly Piper||98946]])"
+msgid "[[Darkgaze Elder||80756]] + 宝石强化 ([[Prickly Piper||98946]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/59/
@@ -193,7 +193,7 @@ msgid "Spend gold to cast blood gems"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/20/
-msgid "Nagas - Groundbreaker"
+msgid "纳迦 - 碎地者"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/20/
@@ -201,12 +201,12 @@ msgid "First, you must have had a Naga midgame so you casted a lot of spells. Af
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/20/
-msgid "[[Darkcrest Strategist||115555]] plus [[Groundbreaker||114816]]"
+msgid "[[暗潮战略专家||115555]] + [[碎地者||114816]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/20/
-msgid "[[Darkcrest Strategist||115555]]\n"
-"Naga midgame"
+msgid "[[Darkcrest Strategist||1115555]]\n"
+"纳迦中期过度"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/20/
@@ -214,7 +214,7 @@ msgid "Play spells and nagas to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/83/
-msgid "Beasts - Leviathan"
+msgid "野兽 - 深潜巨兽"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/83/
@@ -222,7 +222,7 @@ msgid "Summon as many beasts as possible after you get early [[Lurking Leviathan
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/83/
-msgid "Early [[Lurking Leviathan||130711]] + Beast summons ([[Sewer Lord||130996]])"
+msgid "早期获得[[Lurking Leviathan||130711]] + 野兽召唤([[Sewer Lord||130996]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/83/
@@ -234,15 +234,15 @@ msgid "Make huge attack summons"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Undead - Overflow"
+msgid "亡灵 - 挤爆"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Use [[Monstrous Macaw||62230]] to further proc Cadaver's deathrattle. Instead of [[Cadaver Caretaker||113158]], you may also use [[Lava Lurker||80747]] if you've stacked it with a lot of [[Surf n' Surf||103674]] deathrattles early."
+msgid "当 [[Cadaver Caretaker||113158]] 的亡语被触发时，它会通过 [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] 的组合来强化你的整个棋盘。使用 [[Monstrous Macaw||62230]] 来进一步触发遗骸看管者的亡语。如果你在早期堆叠了很多 [[Surf n' Surf||103674]] 的亡语，如果你在早期用很多 [[Surf n' Surf||103674]] 堆叠了很多亡语，你也可以用 [[Lava Lurker||80747]]。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+msgid "挤爆随从 ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
@@ -255,11 +255,11 @@ msgid "Overflow your board to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/70/
-msgid "Beasts - RDU"
+msgid "野兽 - 自伤"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/70/
-msgid "Use [[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]] to generate lots of beasts every turn. [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], reborn, and [[Titus Rivendare||97408]] all amplify this effect. When you have your scaling setup with [[Rabid Panther||127111]] + [[Iridescent Skyblazer||107937]] or double Rabid Panther, start buying every single beast to scale your board."
+msgid "使用 [[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]] 的组合每回合生成大量野兽。[[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], 复生和 [[Titus Rivendare||97408]] 都能增强此效果。当你用 [[Rabid Panther||127111]] + [[Iridescent Skyblazer||107937]] 或双狂乱的猎豹建立起成长体系时，开始购买所有野兽来扩大你的棋盘。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/70/
@@ -276,7 +276,7 @@ msgid "Cycle beasts to damage themselves and scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/86/
-msgid "Dragons - Shiny Ring"
+msgid "龙 - 闪亮的戒指"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/86/
@@ -284,11 +284,11 @@ msgid "Scale your spells using [[Felfire Conjurer||120299]] or [[Tranquil Medita
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/86/
-msgid "Spell scaling ([[Felfire Conjurer||120299]]) + [[Ring Bearer||126631]]"
+msgid "法术强化 ([[Felfire Conjurer||120299]]) + [[Ring Bearer||126631]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/86/
-msgid "Spell scaling ([[Felfire Conjurer||120299]])"
+msgid "法术强化 ([[Felfire Conjurer||120299]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/86/
@@ -296,7 +296,7 @@ msgid "Attack many times to scale board in combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Demons - Shop Buff"
+msgid "恶魔 - 商店强化"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
@@ -304,12 +304,12 @@ msgid "Scale your shop somehow, usually it's through [[Shadowdancer||120662]], [
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Buffed Shop ([[Shadowdancer||120662]]) + [[Ashen Corruptor||121687]] + [[Brann Bronzebeard||96786]]"
+msgid "强化商店 ([[Shadowdancer||120662]]) + [[Ashen Corruptor||121687]] + [[Brann Bronzebeard||96786]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
 msgid "[[Brann Bronzebeard||96786]]\n"
-"Demon midgame ([[Woodland Defiler||130076]])"
+"恶魔中期过度 ([[Woodland Defiler||130076]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/41/
@@ -317,7 +317,7 @@ msgid "Scale and consume shop"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/81/
-msgid "Elementals - Shop Buff/Spells"
+msgid "元素 - 商店强化/法术"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/81/
@@ -325,7 +325,7 @@ msgid "First, buff the shop. This is usually done by having [[Living Azerite||10
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/81/
-msgid "[[Brann Bronzebeard||96786]] + shop buff([[Living Azerite||107939]])"
+msgid "[[Brann Bronzebeard||96786]] + 商店强化([[Living Azerite||107939]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/81/
@@ -333,19 +333,19 @@ msgid "Make big units in shop to scale."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/60/
-msgid "Quilboar - Smuggler"
+msgid "野猪人 - 走私商"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/60/
-msgid "**MUST HAVE BEASTS** Before you start proccing [[Gem Smuggler||101594]], you want to scale your gems as much as possible, typically with [[Prickly Piper||98946]] and also proccing [[Moon bacon Jazzer||98930]] as much as possible. In the midgame, use [[Three Lil' Quilboar||114486]] or [[Bristlebach||100997]] to stabilize. The final variation of this comp uses [[Rylak Metalhead||98829]] to proc the [[Gem Smuggler||101594]]. Then, reborn on the Rylak, [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], and [[Titus Rivendare||97408]] all act as multipliers to the Rylak effect. If you have golden Rylak, then you can try to proc both Jazzer and Smuggler. You can choose to add in [[Tarecgosa||72062]] to keep gems."
+msgid "**必须有野兽** 在开始触发 [[Gem Smuggler||101594]] 前你需要尽可能提升宝石的属性，通常使用 [[Prickly Piper||98946]]，并尽可能多地触发 [[Moon bacon Jazzer||98930]]。在中期使用 [[Three Lil' Quilboar||114486]] 或 [[Bristlebach||100997]]稳定下来。最后该流派使用 [[Rylak Metalhead||98829]] 来触发 [[Gem Smuggler||101594]]。随后给双头飞龙复生，使用 [[Monstrous Macaw||62230]]、[[Brann Bronzebeard||96786]] 和 [[Titus Rivendare||97408]] 的组合倍增双头飞龙效果。如果你有金色双头飞龙，那么你可以尝试触发暗膘爵士乐手和宝石走私商。你可以选择添加[[Tarecgosa||72062]] 来保留宝石。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/60/
-msgid "[[Brann Bronzebeard||96786]] + Gem Scaling ([[Prickly Piper||98946]]) + [[Gem Smuggler||101594]] + [[Rylak Metalhead||98829]]"
+msgid "[[Brann Bronzebeard||96786]] + 宝石强化 ([[Prickly Piper||98946]]) + [[Gem Smuggler||101594]] + [[Rylak Metalhead||98829]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/60/
-msgid "Gem scaling + QB Midgame ([[Prickly Piper||98946]])"
+msgid "宝石强化 + 野猪人中期过度 ([[Prickly Piper||98946]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/60/
@@ -353,7 +353,7 @@ msgid "Play gems during combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/73/
-msgid "Dragons - Spells"
+msgid "龙 - 法术"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/73/
@@ -361,7 +361,7 @@ msgid "[[Fire-Forged Evoker||120301]] scales with the amount of spells you cast.
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/73/
-msgid "[[Fire-forged Evoker||120301]] + spell generation ([[Sky Admiral Rogers||122516]], [[Ring Bearer||126631]])"
+msgid "[[Fire-forged Evoker||120301]] + 法术生成 ([[Sky Admiral Rogers||122516]], [[Ring Bearer||126631]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/73/
@@ -374,15 +374,15 @@ msgid "Cast spells to scale dragons"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/12/
-msgid "Beasts - Summons"
+msgid "野兽 - 召唤"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/12/
-msgid "[[Goldrinn, the Great Wolf||59955]] + [[Monstrous Macaw||62230]] and [[Titus Rivendare||97408]] gives a huge aura affect to all beasts you summon. Usually, you want to taunt and reborn the Goldrinn so the Macaw always procs it and it always dies. [[Sewer Lord||130996]] is the best summon beast to run in this comp."
+msgid "[[Goldrinn, the Great Wolf||59955]] + [[Monstrous Macaw||62230]] 和 [[Titus Rivendare||97408]] 会为所有你召唤的野兽提供强大的光环效果。通常你需要让戈德林获得嘲讽和复生，这样鹦鹉就能持续触发该效果，而戈德林也会不断死亡。[[Sewer Lord||130996]] 是该流派中最佳的野兽召唤选择。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/12/
-msgid "[[Goldrinn, the Great Wolf||59955]] + beast summons ([[Sewer Lord||130996]])"
+msgid "[[Goldrinn, the Great Wolf||59955]] + 野兽召唤 ([[Sewer Lord||130996]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/12/
@@ -394,19 +394,19 @@ msgid "Scale summoned beasts in combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Murlocs - Venom Scam"
+msgid "鱼人 - 下毒"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Aim to golden [[Diremuck Forager||108922]] and give it venom using [[Bile Spitter||122219]]. Then, the Diremuck will pull many scam units from your hand."
+msgid "购买所有的下毒单卡，尽可能多杀一些随从以保住排名。保留你最强战力的卡牌（所以你才需要集中精力研究统计数据！），用可以各种能1换1的随从填充空余棋盘。目标是金色的 [[Diremuck Forager||108922]] 并通过 [[Bile Spitter||122219]] 给它上毒。然后凶饿的觅食者会把你手牌中的下毒卡拉到场上。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
-msgid "When you have no future or are clearly getting outstatted"
+msgid "当你觉得没有未来或明显快被淘汰时"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Getting outscaled"
+msgid "快被淘汰了"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/8/
