@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-05 17:59+0000\n"
-"PO-Revision-Date: 2026-05-06 00:40\n"
+"POT-Creation-Date: 2026-05-29 01:40+0000\n"
+"PO-Revision-Date: 2026-05-29 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -461,99 +461,101 @@ msgstr "Xsolla es un distribuidor global autorizado de HSReplay.net"
 msgid "Back to top"
 msgstr "Volver arriba"
 
-#: templates/footer.html:25
+#: templates/footer.html:27
 msgid "Social Media:"
 msgstr "Redes Sociales:"
 
-#: templates/footer.html:31
+#: templates/footer.html:33
 msgid "Join our Discord server"
 msgstr "Únete a nuestro servidor Discord"
 
-#: templates/footer.html:37
+#: templates/footer.html:39
 msgid "Follow us on X"
 msgstr "Síguenos en X"
 
-#: templates/footer.html:43
+#: templates/footer.html:45
 msgid "Follow us on Instagram"
 msgstr "Síguenos en Instagram"
 
-#: templates/footer.html:49
+#: templates/footer.html:51
 msgid "Like us on Facebook"
 msgstr "Danos un like en Facebook"
 
-#: templates/footer.html:61
+#: templates/footer.html:60
 msgid "Not affiliated with Blizzard Entertainment."
 msgstr "No estámos afiliados a Blizzard Entertainment."
 
-#: templates/footer.html:69 templates/navigation.html:93
-#: templates/navigation.html:219 templates/navigation.html:282
-#: web/views/__init__.py:201
-msgid "Downloads"
-msgstr "Descargas"
+#: templates/footer.html:68
+msgid "Deck Tracker"
+msgstr ""
 
-#: templates/footer.html:70 templates/navigation.html:268
+#: templates/footer.html:69 templates/navigation.html:268
 #: web/views/premium.py:31
 msgid "Premium"
 msgstr "Premium"
 
-#: templates/footer.html:71
-msgid "Get Tier7"
-msgstr "Obtén Tier7"
+#: templates/footer.html:70
+msgid "Standard Decks"
+msgstr "Mazos Estándar"
+
+#: templates/footer.html:71 web/views/archetypes.py:47
+msgid "Meta Tier List"
+msgstr "Ver lista del Meta"
 
 #: templates/footer.html:72 web/views/arenasmith.py:13
 msgid "Arenasmith"
 msgstr "ForjadorArena"
 
-#: templates/footer.html:81
-msgid "Standard Decks"
-msgstr "Mazos Estándar"
+#: templates/footer.html:73 web/views/mulligan_gv2.py:15
+msgid "Mulligan G-V2"
+msgstr ""
 
-#: templates/footer.html:82 web/views/archetypes.py:47
-msgid "Meta Tier List"
-msgstr "Ver lista del Meta"
+#: templates/footer.html:79
+msgid "Battlegrounds Overlay"
+msgstr ""
 
-#: templates/footer.html:83
-msgid "Arena Guide"
-msgstr "Guía de Arena"
+#: templates/footer.html:80
+msgid "Get Tier7"
+msgstr "Obtén Tier7"
 
-#: templates/footer.html:84 web/views/battlegrounds.py:260
+#: templates/footer.html:81 web/views/battlegrounds.py:261
 msgid "Battlegrounds Heroes"
 msgstr "Héroes de Campos de Batalla"
 
-#: templates/footer.html:85 web/views/battlegrounds.py:276
+#: templates/footer.html:82 web/views/battlegrounds.py:277
 msgid "Battlegrounds Comps"
 msgstr "Compas de Campos de Batalla"
 
-#: templates/footer.html:86 web/views/battlegrounds.py:742
-#: web/views/battlegrounds.py:792
+#: templates/footer.html:83 web/views/battlegrounds.py:743
+#: web/views/battlegrounds.py:793
 msgid "Battlegrounds Minions"
 msgstr "Esbirros de Campos de Batalla"
 
-#: templates/footer.html:87 web/views/battlegrounds.py:407
+#: templates/footer.html:84 web/views/battlegrounds.py:408
 msgid "Battlegrounds Anomalies"
 msgstr "Anomalias de Campos de Batalla"
 
-#: templates/footer.html:88 web/views/battlegrounds.py:463
+#: templates/footer.html:85 web/views/battlegrounds.py:464
 msgid "Battlegrounds Quests"
 msgstr "Misiones de Campos de batalla"
 
-#: templates/footer.html:89 web/views/battlegrounds.py:338
+#: templates/footer.html:86 web/views/battlegrounds.py:339
 msgid "Battlegrounds Trinkets"
 msgstr ""
 
-#: templates/footer.html:90
+#: templates/footer.html:87
 msgid "Battlegrounds Timewarp"
 msgstr ""
 
-#: templates/footer.html:94
+#: templates/footer.html:93
 msgid "Support"
 msgstr "Asistencia"
 
-#: templates/footer.html:107
+#: templates/footer.html:106
 msgid "Help Center"
 msgstr "Centro de Ayuda"
 
-#: templates/footer.html:109
+#: templates/footer.html:108
 msgid "Your Account"
 msgstr "Tu Cuenta"
 
@@ -581,14 +583,14 @@ msgstr "Esta repetición ya no está disponible."
 msgid "Toggle navigation"
 msgstr "Cambiar el modo de navegación"
 
-#: templates/navigation.html:46 web/views/battlegrounds.py:154
-#: web/views/battlegrounds.py:242 web/views/battlegrounds.py:268
-#: web/views/battlegrounds.py:284 web/views/battlegrounds.py:345
-#: web/views/battlegrounds.py:414 web/views/battlegrounds.py:470
-#: web/views/battlegrounds.py:514 web/views/battlegrounds.py:530
-#: web/views/battlegrounds.py:589 web/views/battlegrounds.py:746
-#: web/views/battlegrounds.py:817 web/views/battlegrounds.py:925
-#: web/views/battlegrounds.py:1120
+#: templates/navigation.html:46 web/views/battlegrounds.py:155
+#: web/views/battlegrounds.py:243 web/views/battlegrounds.py:269
+#: web/views/battlegrounds.py:285 web/views/battlegrounds.py:346
+#: web/views/battlegrounds.py:415 web/views/battlegrounds.py:471
+#: web/views/battlegrounds.py:515 web/views/battlegrounds.py:531
+#: web/views/battlegrounds.py:590 web/views/battlegrounds.py:747
+#: web/views/battlegrounds.py:818 web/views/battlegrounds.py:926
+#: web/views/battlegrounds.py:1121
 msgid "Battlegrounds"
 msgstr "Campos de Batalla"
 
@@ -612,29 +614,34 @@ msgstr "Lista del meta"
 msgid "Parties"
 msgstr "Equipos"
 
-#: templates/navigation.html:104 web/views/battlegrounds.py:269
-#: web/views/battlegrounds.py:598
+#: templates/navigation.html:93 templates/navigation.html:219
+#: templates/navigation.html:282 web/views/__init__.py:201
+msgid "Downloads"
+msgstr "Descargas"
+
+#: templates/navigation.html:104 web/views/battlegrounds.py:270
+#: web/views/battlegrounds.py:599
 msgid "Heroes"
 msgstr "Héroes"
 
-#: templates/navigation.html:116 web/views/battlegrounds.py:346
+#: templates/navigation.html:116 web/views/battlegrounds.py:347
 msgid "Trinkets"
 msgstr ""
 
-#: templates/navigation.html:129 web/views/battlegrounds.py:926
+#: templates/navigation.html:129 web/views/battlegrounds.py:927
 msgid "Timewarp"
 msgstr ""
 
-#: templates/navigation.html:142 web/views/battlegrounds.py:531
+#: templates/navigation.html:142 web/views/battlegrounds.py:532
 msgid "Darkmoon Prizes"
 msgstr "Premios de la Luna Negra"
 
-#: templates/navigation.html:153 web/views/battlegrounds.py:285
-#: web/views/battlegrounds.py:1129
+#: templates/navigation.html:153 web/views/battlegrounds.py:286
+#: web/views/battlegrounds.py:1130
 msgid "Comps"
 msgstr "Compas"
 
-#: templates/navigation.html:165 web/views/battlegrounds.py:471
+#: templates/navigation.html:165 web/views/battlegrounds.py:472
 msgid "Quests"
 msgstr "Misiones"
 
@@ -642,12 +649,12 @@ msgstr "Misiones"
 msgid "NEW"
 msgstr "NUEVO"
 
-#: templates/navigation.html:182 web/views/battlegrounds.py:415
+#: templates/navigation.html:182 web/views/battlegrounds.py:416
 msgid "Anomalies"
 msgstr "Anomalías"
 
-#: templates/navigation.html:193 web/views/battlegrounds.py:747
-#: web/views/battlegrounds.py:818
+#: templates/navigation.html:193 web/views/battlegrounds.py:748
+#: web/views/battlegrounds.py:819
 msgid "Minions"
 msgstr "Esbirros"
 
@@ -957,175 +964,175 @@ msgstr ""
 msgid "Download Hearthstone Deck Tracker for Battlegrounds"
 msgstr ""
 
-#: web/views/battlegrounds.py:156
+#: web/views/battlegrounds.py:157
 msgid "Master Hearthstone Battlegrounds with data-driven insights. Explore hero tier lists, winning compositions, minion stats, and more!"
 msgstr ""
 
-#: web/views/battlegrounds.py:232
+#: web/views/battlegrounds.py:233
 msgid "Level up your gameplay with Tier7's in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
 msgstr ""
 
-#: web/views/battlegrounds.py:243
+#: web/views/battlegrounds.py:244
 msgid "Tier7"
 msgstr "Tier7"
 
-#: web/views/battlegrounds.py:255
+#: web/views/battlegrounds.py:256
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr "HSReplay.net Nivel 7 para Campos de Batalla"
 
-#: web/views/battlegrounds.py:262
+#: web/views/battlegrounds.py:263
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr "Explora nuestra Lista de Nivel de Héroes de los Campos de Batalla y aprende qué héroe es el mejor - alimentado por datos de millones de juegos."
 
-#: web/views/battlegrounds.py:278
+#: web/views/battlegrounds.py:279
 msgid "Explore our Comps Tier List and learn which comp is the best - powered by JeefHS, Top BGs player."
 msgstr "Explora nuestra lista de mejores Comps y aprende cual es el mejor - desarrollado por JeefHS, de los Mejores jugadores de Campos de Batalla."
 
-#: web/views/battlegrounds.py:340
+#: web/views/battlegrounds.py:341
 msgid "Explore our Battlegrounds Trinkets Tier List and learn which trinket is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:409
+#: web/views/battlegrounds.py:410
 msgid "Explore our Battlegrounds Anomalies List and learn which anomalies are more common - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:465
+#: web/views/battlegrounds.py:466
 msgid "Explore our Battlegrounds Quests List and learn which quests are the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:511
+#: web/views/battlegrounds.py:512
 msgid "Battlegrounds Duos Heroes"
 msgstr "Campos de batalla Héroes Duales"
 
-#: web/views/battlegrounds.py:515
+#: web/views/battlegrounds.py:516
 msgid "Duos Heroes"
 msgstr "Héroes Duales"
 
-#: web/views/battlegrounds.py:527
+#: web/views/battlegrounds.py:528
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr "Premios de Luna Negra de Campos de batalla"
 
-#: web/views/battlegrounds.py:536
+#: web/views/battlegrounds.py:537
 msgid "Battlegrounds Hero"
 msgstr "Héroes de Campos de Batalla"
 
-#: web/views/battlegrounds.py:558
+#: web/views/battlegrounds.py:559
 msgid "No matching hero found."
 msgstr "Héroe no encontrado."
 
-#: web/views/battlegrounds.py:734
+#: web/views/battlegrounds.py:735
 msgid "Battlegrounds Duos Hero"
 msgstr "Campo de Batalla Héroes Duales"
 
-#: web/views/battlegrounds.py:754
+#: web/views/battlegrounds.py:755
 msgid "Beast"
 msgstr "Bestia"
 
-#: web/views/battlegrounds.py:755
+#: web/views/battlegrounds.py:756
 msgid "Demon"
 msgstr "Demonio"
 
-#: web/views/battlegrounds.py:756
+#: web/views/battlegrounds.py:757
 msgid "Dragon"
 msgstr "Dragón"
 
-#: web/views/battlegrounds.py:757
+#: web/views/battlegrounds.py:758
 msgid "Elemental"
 msgstr "Elemental"
 
-#: web/views/battlegrounds.py:758
+#: web/views/battlegrounds.py:759
 msgid "Mech"
 msgstr "Meca"
 
-#: web/views/battlegrounds.py:759
+#: web/views/battlegrounds.py:760
 msgid "Murloc"
 msgstr "Múrloc"
 
-#: web/views/battlegrounds.py:760
+#: web/views/battlegrounds.py:761
 msgid "Naga"
 msgstr "Naga"
 
-#: web/views/battlegrounds.py:761
+#: web/views/battlegrounds.py:762
 msgid "Pirate"
 msgstr "Pirata"
 
-#: web/views/battlegrounds.py:762
+#: web/views/battlegrounds.py:763
 msgid "Quilboar"
 msgstr "Jabaespín"
 
-#: web/views/battlegrounds.py:763
+#: web/views/battlegrounds.py:764
 msgid "Undead"
 msgstr "No-muerto"
 
-#: web/views/battlegrounds.py:775
+#: web/views/battlegrounds.py:776
 msgid "Invalid Tavern Tier."
 msgstr "Taberna no válida."
 
-#: web/views/battlegrounds.py:781
+#: web/views/battlegrounds.py:782
 msgid "No matching minion type found."
 msgstr "No se encontró el tipo de esbirro que coincida."
 
-#: web/views/battlegrounds.py:795
+#: web/views/battlegrounds.py:796
 #, python-brace-format
 msgid "Battlegrounds {type} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:800
+#: web/views/battlegrounds.py:801
 #, python-brace-format
 msgid "Battlegrounds Tier {tier} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:804
+#: web/views/battlegrounds.py:805
 #, python-brace-format
 msgid "Battlegrounds Tier {tier} {type} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:841 web/views/battlegrounds.py:870
+#: web/views/battlegrounds.py:842 web/views/battlegrounds.py:871
 msgid "Battlegrounds Minion"
 msgstr "Esbirros de Campos de Batalla"
 
-#: web/views/battlegrounds.py:862
+#: web/views/battlegrounds.py:863
 msgid "No matching minion found."
 msgstr "No se encontraron esbirros que coincidan."
 
-#: web/views/battlegrounds.py:917
+#: web/views/battlegrounds.py:918
 msgid "Battlegrounds Timewarped Cards"
 msgstr ""
 
-#: web/views/battlegrounds.py:919
+#: web/views/battlegrounds.py:920
 msgid "Explore the Minions, Spells & Hero Powers available in each of the Timewarped Tavern shops"
 msgstr ""
 
-#: web/views/battlegrounds.py:941
+#: web/views/battlegrounds.py:942
 msgid "Battlegrounds Compositions"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:947 web/views/battlegrounds.py:977
+#: web/views/battlegrounds.py:948 web/views/battlegrounds.py:978
 msgid "Battlegrounds Composition"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:970
+#: web/views/battlegrounds.py:971
 msgid "No matching live or lingering composition found."
 msgstr "Ninguna composición en vivo se encontró."
 
-#: web/views/battlegrounds.py:972
+#: web/views/battlegrounds.py:973
 msgid "No matching composition found."
 msgstr "No se encontraron coincidencias."
 
-#: web/views/battlegrounds.py:1071
+#: web/views/battlegrounds.py:1072
 msgid "Battlegrounds Comp"
 msgstr "Compas de Campos de Batalla"
 
-#: web/views/battlegrounds.py:1091
+#: web/views/battlegrounds.py:1092
 msgid "No matching comp found."
 msgstr "No se encontró ningún compa coincidente."
 
-#: web/views/battlegrounds.py:1104
+#: web/views/battlegrounds.py:1105
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr ""
 
-#: web/views/battlegrounds.py:1186
+#: web/views/battlegrounds.py:1187
 msgid "My Battlegrounds Stats"
 msgstr "Estadísticas de Mis Campos de Batalla"
 
@@ -1285,10 +1292,6 @@ msgstr "Grupo de Mercenarios"
 #: web/views/mercenaries.py:147
 msgid "Mercenaries Tier List"
 msgstr "Lista de los Mejores Mercenarios"
-
-#: web/views/mulligan_gv2.py:15
-msgid "Mulligan G-V2"
-msgstr ""
 
 #: web/views/mulligan_gv2.py:18
 msgid "Make better mulligan decisions with Mulligan Guide Version 2"
