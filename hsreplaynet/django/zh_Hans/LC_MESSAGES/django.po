@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-05-29 01:40+0000\n"
-"PO-Revision-Date: 2026-05-29 12:40\n"
+"PO-Revision-Date: 2026-06-01 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -487,7 +487,7 @@ msgstr "与Blizzard Entertainment没有从属关系。"
 
 #: templates/footer.html:68
 msgid "Deck Tracker"
-msgstr ""
+msgstr "记牌器"
 
 #: templates/footer.html:69 templates/navigation.html:268
 #: web/views/premium.py:31
@@ -512,7 +512,7 @@ msgstr "留牌指南G-V2"
 
 #: templates/footer.html:79
 msgid "Battlegrounds Overlay"
-msgstr ""
+msgstr "酒馆战棋内嵌浮窗"
 
 #: templates/footer.html:80
 msgid "Get Tier7"
