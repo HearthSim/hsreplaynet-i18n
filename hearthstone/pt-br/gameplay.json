@@ -288,6 +288,8 @@
 	"GAMEPLAY_PEARL_SPELLSTONE_1": "<i>(Restaure 3 de Vida para aprimorar.)</i>",
 	"GAMEPLAY_PEARL_SPELLSTONE_2": "<i>(Restaure mais 2 de Vida para aprimorar.)</i>",
 	"GAMEPLAY_PEARL_SPELLSTONE_3": "<i>(Restaure mais 1 de Vida para aprimorar.)</i>",
+	"GAMEPLAY_PREPARE_DESC": "[x]O oponente\\n <b>Preparou</b> um card!",
+	"GAMEPLAY_PREPARE_NAME": "Preparar",
 	"GAMEPLAY_PROGRESS_X_OF_Y": "{0}/{1}",
 	"GAMEPLAY_PlayErrors_REQ_ATTACKER_CAN_ATTACK": "Este personagem não pode atacar",
 	"GAMEPLAY_PlayErrors_REQ_ATTACKER_NOT_FROZEN": "Personagens congelados não podem atacar",
@@ -368,6 +370,7 @@
 	"GAMEPLAY_PlayErrors_REQ_NUM_ENEMY_MINION_SLOTS": "Seu oponente tem lacaios demais para jogar isso",
 	"GAMEPLAY_PlayErrors_REQ_NUM_MINION_SLOTS": "Você tem lacaios demais para jogar isso",
 	"GAMEPLAY_PlayErrors_REQ_OPPONENT_PLAYED_CARDS_THIS_GAME": "O oponente não jogou nenhum card",
+	"GAMEPLAY_PlayErrors_REQ_PREPARE": "É impossível reduzir mais o custo",
 	"GAMEPLAY_PlayErrors_REQ_SECRET_ZONE_CAP": "Você só pode ter {0} cards\\nna sua Zona Secreta",
 	"GAMEPLAY_PlayErrors_REQ_SOLD_MINION_THIS_TURN": "Você ainda não vendeu lacaios neste turno",
 	"GAMEPLAY_PlayErrors_REQ_SOURCE_MUST_HAVE_TAG_CHARGES": "Não tem mais carga.",
@@ -517,5 +520,8 @@
 	"GAMEPLAY_UNKNOWN_CREATED_BY": "outro card",
 	"GAMEPLAY_WIN_REWARD_PROGRESS": "Vitórias {0}/{1}",
 	"GAMEPLAY_YOUR_TURN": "Seu turno",
-	"GANEPLAY_BACON_GUIDE_TUTORIAL": "Experimente seu novo Guia!"
+	"GANEPLAY_BACON_GUIDE_TUTORIAL": "Experimente seu novo Guia!",
+	"NUMBER_BILLIONS_INDICATOR": "B",
+	"NUMBER_MILLIONS_INDICATOR": "M",
+	"NUMBER_THOUSANDS_INDICATOR": "k"
 }

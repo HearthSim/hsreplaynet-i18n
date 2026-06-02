@@ -288,6 +288,8 @@
 	"GAMEPLAY_PEARL_SPELLSTONE_1": "<i>(Si potenzia rigenerando 3 Salute)</i>",
 	"GAMEPLAY_PEARL_SPELLSTONE_2": "<i>(Si potenzia rigenerando ancora 2 Salute)</i>",
 	"GAMEPLAY_PEARL_SPELLSTONE_3": "<i>(Si potenzia rigenerando ancora 1 Salute)</i>",
+	"GAMEPLAY_PREPARE_DESC": "[x]Il tuo avversario\\n ha usato <b>Predisposizione</b> su una carta!",
+	"GAMEPLAY_PREPARE_NAME": "Predisposizione",
 	"GAMEPLAY_PROGRESS_X_OF_Y": "{0}/{1}",
 	"GAMEPLAY_PlayErrors_REQ_ATTACKER_CAN_ATTACK": "Questo personaggio non può attaccare",
 	"GAMEPLAY_PlayErrors_REQ_ATTACKER_NOT_FROZEN": "I personaggi Congelati non possono attaccare",
@@ -368,6 +370,7 @@
 	"GAMEPLAY_PlayErrors_REQ_NUM_ENEMY_MINION_SLOTS": "L'avversario ha troppi servitori per poter giocare quella carta",
 	"GAMEPLAY_PlayErrors_REQ_NUM_MINION_SLOTS": "Controlli troppi servitori per poterlo fare",
 	"GAMEPLAY_PlayErrors_REQ_OPPONENT_PLAYED_CARDS_THIS_GAME": "Il tuo avversario non ha ancora giocato carte",
+	"GAMEPLAY_PlayErrors_REQ_PREPARE": "Il costo non può essere ridotto ulteriormente",
 	"GAMEPLAY_PlayErrors_REQ_SECRET_ZONE_CAP": "Puoi avere solo {0} carte nella\\ntua Zona Segreta",
 	"GAMEPLAY_PlayErrors_REQ_SOLD_MINION_THIS_TURN": "Non hai ancora venduto servitori in questo turno",
 	"GAMEPLAY_PlayErrors_REQ_SOURCE_MUST_HAVE_TAG_CHARGES": "Le Cariche sono esaurite.",
@@ -517,5 +520,8 @@
 	"GAMEPLAY_UNKNOWN_CREATED_BY": "un'altra carta",
 	"GAMEPLAY_WIN_REWARD_PROGRESS": "Vittorie {0}/{1}",
 	"GAMEPLAY_YOUR_TURN": "Tocca a te!",
-	"GANEPLAY_BACON_GUIDE_TUTORIAL": "Prova la tua nuova Guida!"
+	"GANEPLAY_BACON_GUIDE_TUTORIAL": "Prova la tua nuova Guida!",
+	"NUMBER_BILLIONS_INDICATOR": "mrd",
+	"NUMBER_MILLIONS_INDICATOR": "mln",
+	"NUMBER_THOUSANDS_INDICATOR": "k"
 }

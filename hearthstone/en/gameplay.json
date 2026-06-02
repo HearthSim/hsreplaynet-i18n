@@ -288,6 +288,8 @@
 	"GAMEPLAY_PEARL_SPELLSTONE_1": "<i>(Restore 3 Health to upgrade.)</i>",
 	"GAMEPLAY_PEARL_SPELLSTONE_2": "<i>(Restore 2 more Health to upgrade.)</i>",
 	"GAMEPLAY_PEARL_SPELLSTONE_3": "<i>(Restore 1 more Health to upgrade.)</i>",
+	"GAMEPLAY_PREPARE_DESC": "[x]Your opponent\\n <b>Prepared</b> a card!",
+	"GAMEPLAY_PREPARE_NAME": "Prepare",
 	"GAMEPLAY_PROGRESS_X_OF_Y": "{0}/{1}",
 	"GAMEPLAY_PlayErrors_REQ_ATTACKER_CAN_ATTACK": "That character can't attack",
 	"GAMEPLAY_PlayErrors_REQ_ATTACKER_NOT_FROZEN": "Frozen characters can't attack",
@@ -368,6 +370,7 @@
 	"GAMEPLAY_PlayErrors_REQ_NUM_ENEMY_MINION_SLOTS": "Your opponent has too many minions to play that",
 	"GAMEPLAY_PlayErrors_REQ_NUM_MINION_SLOTS": "You have too many minions to play that",
 	"GAMEPLAY_PlayErrors_REQ_OPPONENT_PLAYED_CARDS_THIS_GAME": "Your opponent has not played any cards",
+	"GAMEPLAY_PlayErrors_REQ_PREPARE": "The cost cannot be reduced any further",
 	"GAMEPLAY_PlayErrors_REQ_SECRET_ZONE_CAP": "You can only have {0} cards in\\nyour Secret Zone",
 	"GAMEPLAY_PlayErrors_REQ_SOLD_MINION_THIS_TURN": "You haven't sold any minions yet this turn",
 	"GAMEPLAY_PlayErrors_REQ_SOURCE_MUST_HAVE_TAG_CHARGES": "This has no charges left.",
@@ -517,5 +520,8 @@
 	"GAMEPLAY_UNKNOWN_CREATED_BY": "another card",
 	"GAMEPLAY_WIN_REWARD_PROGRESS": "Wins {0}/{1}",
 	"GAMEPLAY_YOUR_TURN": "Your Turn",
-	"GANEPLAY_BACON_GUIDE_TUTORIAL": "Try your new Guide!"
+	"GANEPLAY_BACON_GUIDE_TUTORIAL": "Try your new Guide!",
+	"NUMBER_BILLIONS_INDICATOR": "B",
+	"NUMBER_MILLIONS_INDICATOR": "M",
+	"NUMBER_THOUSANDS_INDICATOR": "k"
 }

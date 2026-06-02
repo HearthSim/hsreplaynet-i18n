@@ -288,6 +288,8 @@
 	"GAMEPLAY_PEARL_SPELLSTONE_1": "<i>(Восстановите 3 ед. здоровья для улучшения.)</i>",
 	"GAMEPLAY_PEARL_SPELLSTONE_2": "<i>(Восстановите еще 2 ед. здоровья для улучшения.)</i>",
 	"GAMEPLAY_PEARL_SPELLSTONE_3": "<i>(Восстановите еще 1 ед. здоровья для улучшения.)</i>",
+	"GAMEPLAY_PREPARE_DESC": "[x]Ваш оппонент\\n <b>подготовил</b> карту!",
+	"GAMEPLAY_PREPARE_NAME": "Подготовка",
 	"GAMEPLAY_PROGRESS_X_OF_Y": "{0}/{1}",
 	"GAMEPLAY_PlayErrors_REQ_ATTACKER_CAN_ATTACK": "Этот персонаж не может атаковать.",
 	"GAMEPLAY_PlayErrors_REQ_ATTACKER_NOT_FROZEN": "Замороженные персонажи не могут атаковать.",
@@ -368,6 +370,7 @@
 	"GAMEPLAY_PlayErrors_REQ_NUM_ENEMY_MINION_SLOTS": "Противник не может разыграть эту карту — у него слишком много существ",
 	"GAMEPLAY_PlayErrors_REQ_NUM_MINION_SLOTS": "Уже призвано слишком много существ.",
 	"GAMEPLAY_PlayErrors_REQ_OPPONENT_PLAYED_CARDS_THIS_GAME": "Противник не разыграл ни одной карты.",
+	"GAMEPLAY_PlayErrors_REQ_PREPARE": "Стоимость больше нельзя уменьшить",
 	"GAMEPLAY_PlayErrors_REQ_SECRET_ZONE_CAP": "У вас не может быть больше {0} |4(карты,карт,карт)\\nв области секретов.",
 	"GAMEPLAY_PlayErrors_REQ_SOLD_MINION_THIS_TURN": "Вы не продали ни одного существа на этом ходу.",
 	"GAMEPLAY_PlayErrors_REQ_SOURCE_MUST_HAVE_TAG_CHARGES": "Не осталось зарядов.",
@@ -517,5 +520,8 @@
 	"GAMEPLAY_UNKNOWN_CREATED_BY": "другая карта",
 	"GAMEPLAY_WIN_REWARD_PROGRESS": "Побед: {0}/{1}",
 	"GAMEPLAY_YOUR_TURN": "Ваш ход",
-	"GANEPLAY_BACON_GUIDE_TUTORIAL": "Доступно новое руководство!"
+	"GANEPLAY_BACON_GUIDE_TUTORIAL": "Доступно новое руководство!",
+	"NUMBER_BILLIONS_INDICATOR": "МЛРД",
+	"NUMBER_MILLIONS_INDICATOR": "М",
+	"NUMBER_THOUSANDS_INDICATOR": "Т"
 }

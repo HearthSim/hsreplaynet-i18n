@@ -288,6 +288,8 @@
 	"GAMEPLAY_PEARL_SPELLSTONE_1": "<i>(ฟื้นฟูพลังชีวิต 3_แต้มเพื่ออัพเกรด)</i>",
 	"GAMEPLAY_PEARL_SPELLSTONE_2": "<i>(ฟื้นฟูพลังชีวิต[b]อีก_2_แต้มเพื่ออัพเกรด)</i>",
 	"GAMEPLAY_PEARL_SPELLSTONE_3": "<i>(ฟื้นฟูพลังชีวิต[b]อีก_1_แต้มเพื่ออัพเกรด)</i>",
+	"GAMEPLAY_PREPARE_DESC": "คู่ต่อสู้ของคุณได้ <b>เตรียมการ</b> การ์ดแล้ว!",
+	"GAMEPLAY_PREPARE_NAME": "เตรียมการ",
 	"GAMEPLAY_PROGRESS_X_OF_Y": "{0}/{1}",
 	"GAMEPLAY_PlayErrors_REQ_ATTACKER_CAN_ATTACK": "ตัวละครนั้นโจมตีไม่ได้",
 	"GAMEPLAY_PlayErrors_REQ_ATTACKER_NOT_FROZEN": "ตัวละครที่ถูกแช่แข็งไม่สามารถโจมตีได้",
@@ -368,6 +370,7 @@
 	"GAMEPLAY_PlayErrors_REQ_NUM_ENEMY_MINION_SLOTS": "ไม่สามารถเล่นการ์ดนี้ได้เพราะคู่ต่อสู้มีมินเนี่ยนมากเกินไป",
 	"GAMEPLAY_PlayErrors_REQ_NUM_MINION_SLOTS": "ไม่สามารถเล่นการ์ดนี้ได้เพราะคุณมีมินเนี่ยนมากเกินไป",
 	"GAMEPLAY_PlayErrors_REQ_OPPONENT_PLAYED_CARDS_THIS_GAME": "คู่ต่อสู้ของคุณ[b]ยังไม่ได้เล่นการ์ด",
+	"GAMEPLAY_PlayErrors_REQ_PREPARE": "ไม่สามารถลดค่าร่ายได้อีก",
 	"GAMEPLAY_PlayErrors_REQ_SECRET_ZONE_CAP": "คุณมีการ์ดในโซนกับดัก\\nได้สูงสุด {0} ใบ",
 	"GAMEPLAY_PlayErrors_REQ_SOLD_MINION_THIS_TURN": "คุณยังไม่ได้ขายมินเนี่ยนเลยในเทิร์นนี้",
 	"GAMEPLAY_PlayErrors_REQ_SOURCE_MUST_HAVE_TAG_CHARGES": "ไม่มีชาร์จเหลือ",
@@ -517,5 +520,8 @@
 	"GAMEPLAY_UNKNOWN_CREATED_BY": "การ์ดอื่น",
 	"GAMEPLAY_WIN_REWARD_PROGRESS": "ชนะ {0}/{1}",
 	"GAMEPLAY_YOUR_TURN": "เทิร์นของคุณ",
-	"GANEPLAY_BACON_GUIDE_TUTORIAL": "ลองดูคู่มือใหม่ของคุณ!"
+	"GANEPLAY_BACON_GUIDE_TUTORIAL": "ลองดูคู่มือใหม่ของคุณ!",
+	"NUMBER_BILLIONS_INDICATOR": "B",
+	"NUMBER_MILLIONS_INDICATOR": "M",
+	"NUMBER_THOUSANDS_INDICATOR": "k"
 }
