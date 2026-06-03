@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-26 01:40\n"
+"POT-Creation-Date: 2026-06-02 18:47\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-06-01 00:40\n"
+"PO-Revision-Date: 2026-06-03 00:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - APM"
@@ -84,8 +84,8 @@ msgid "Back to Back"
 msgstr "背靠背"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/82/
-msgid "Scale spell power with [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] to make your Back to Back (Tavern Spell) bigger. Then, use [[Balinda Stonehearth||130298]] to double the scaling and effectiveness of your back to backs. [[Cataclysmic Harbinger||130884]] allows you to print multiple of them every turn. Scale premium units such as [[Sinrunner Blanchy||92398]]."
-msgstr "使用 [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] 来提升法术强度，使你的背靠背（酒馆法术）变得更大。然后使用 [[Balinda Stonehearth||130298]] 将其数值和效果翻倍。[[Cataclysmic Harbinger||130884]] 能让你每回合印多个背靠背。提升高级单位，如 [[Sinrunner Blanchy||92398]]。"
+msgid "Scale spell power with [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] to make your Back to Back (Tavern Spell) bigger. Then, use [[Balinda Stonehearth||130298]] to double the scaling and effectiveness of your back to backs. [[Cataclysmic Harbinger||130884]] allows you to print multiple of them every turn. Scale premium units such as [[Sinrunner Blanchy]]."
+msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/82/
 msgid "Back to Back generation ([[Cataclysmic Harbinger||130884]]) + spell power ([[Felfire Conjurer||120299]]) + [[Drakkari Enchanter||101314]]"
@@ -350,12 +350,12 @@ msgid "Elementals - Shop Buff/Spells"
 msgstr "元素 - 商店强化/法术"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/81/
-msgid "First, buff the shop. This is usually done by having [[Living Azerite||107939]], but [[Air Revenant||126173]] works as well. Keep [[Leyline Surfacer||130294]] for stats. Double the effect of the [[Arcane Absorption||130311]] you get from Leyline using [[Balinda Stonehearth||130298]]. In the endgame, scale up [[Wildfire Elemental||64189]]."
+msgid "First, buff the shop. This is usually done by having [[Living Azerite]], but [[Air Revenant||126173]] works as well. Keep [[Leyline Surfacer||130294]] for stats. Double the effect of the [[Arcane Absorption||130311]] you get from Leyline using [[Balinda Stonehearth||130298]]. In the endgame, scale up [[Wildfire Elemental||64189]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/81/
-msgid "[[Brann Bronzebeard||96786]] + shop buff([[Living Azerite||107939]])"
-msgstr "[[Brann Bronzebeard||96786]] + 商店强化([[Living Azerite||107939]])"
+msgid "[[Brann Bronzebeard||96786]] + shop buff([[Living Azerite]])"
+msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/81/
 msgid "Make big units in shop to scale."
@@ -366,12 +366,12 @@ msgid "Quilboar - Smuggler"
 msgstr "野猪人 - 走私商"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/60/
-msgid "**MUST HAVE BEASTS** Before you start proccing [[Gem Smuggler||101594]], you want to scale your gems as much as possible, typically with [[Prickly Piper||98946]] and also proccing [[Moon bacon Jazzer||98930]] as much as possible. In the midgame, use [[Three Lil' Quilboar||114486]] or [[Bristlebach||100997]] to stabilize. The final variation of this comp uses [[Rylak Metalhead||98829]] to proc the [[Gem Smuggler||101594]]. Then, reborn on the Rylak, [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], and [[Titus Rivendare||97408]] all act as multipliers to the Rylak effect. If you have golden Rylak, then you can try to proc both Jazzer and Smuggler. You can choose to add in [[Tarecgosa||72062]] to keep gems."
-msgstr "**必须有野兽** 在开始触发 [[Gem Smuggler||101594]] 前你需要尽可能提升宝石的属性，通常使用 [[Prickly Piper||98946]]，并尽可能多地触发 [[Moon bacon Jazzer||98930]]。在中期使用 [[Three Lil' Quilboar||114486]] 或 [[Bristlebach||100997]]稳定下来。最后该流派使用 [[Rylak Metalhead||98829]] 来触发 [[Gem Smuggler||101594]]。随后给双头飞龙复生，使用 [[Monstrous Macaw||62230]]、[[Brann Bronzebeard||96786]] 和 [[Titus Rivendare||97408]] 的组合倍增双头飞龙效果。如果你有金色双头飞龙，那么你可以尝试触发暗膘爵士乐手和宝石走私商。你可以选择添加[[Tarecgosa||72062]] 来保留宝石。"
+msgid "**MUST HAVE BEASTS** Before you start proccing [[Gem Smuggler]], you want to scale your gems as much as possible, typically with [[Prickly Piper||98946]] and also proccing [[Moon bacon Jazzer||98930]] as much as possible. In the midgame, use [[Three Lil' Quilboar||114486]] or [[Bristlebach||100997]] to stabilize. The final variation of this comp uses [[Rylak Metalhead||98829]] to proc the [[Gem Smuggler]]. Then, reborn on the Rylak, [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], and [[Titus Rivendare||97408]] all act as multipliers to the Rylak effect. If you have golden Rylak, then you can try to proc both Jazzer and Smuggler. You can choose to add in [[Tarecgosa||72062]] to keep gems."
+msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/60/
-msgid "[[Brann Bronzebeard||96786]] + Gem Scaling ([[Prickly Piper||98946]]) + [[Gem Smuggler||101594]] + [[Rylak Metalhead||98829]]"
-msgstr "[[Brann Bronzebeard||96786]] + 宝石强化 ([[Prickly Piper||98946]]) + [[Gem Smuggler||101594]] + [[Rylak Metalhead||98829]]"
+msgid "[[Brann Bronzebeard||96786]] + Gem Scaling ([[Prickly Piper||98946]]) + [[Gem Smuggler]] + [[Rylak Metalhead||98829]]"
+msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/60/
 msgid "Gem scaling + QB Midgame ([[Prickly Piper||98946]])"
@@ -408,16 +408,16 @@ msgid "Beasts - Stegodon"
 msgstr "野兽 - 剑龙"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/48/
-msgid "Initially attack with your [[Stomping Stegodon||122286]]. Make sure that you have a taunted [[Sewer Rat||70790]] or any multi-hit taunt to soak some attacks. Then, the next things to attack should be [[Manasaber||98831]] then [[Sewer Lord||130996]] because this fills out the board with a lot of taunts that protect your Poultron. Every 4 things that die will give your board insane rallys because your Poultron's will attack and swing with all the combined rallies. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your Poultrons, then the Manasabers and Sewer Lord. Comp is much better if your Poultron is golden."
-msgstr "首先用 [[Stomping Stegodon||122286]] 发起攻击。确保你有一个嘲讽的 [[Sewer Rat||70790]] 或任何能承受多次攻击的嘲讽来承受一些攻击。接下来应优先攻击的是[[Manasaber||98831]] 然后是[[Sewer Lord||130996]]，因为这样就能用嘲讽随从填满棋盘来保护P-0UL-TR-0N护巢机。每 4 个死亡的随从会给你的棋盘带来疯狂的进击效果，因为你的护巢机会攻击并叠加所有进击效果。另外千万不要复生你的剑龙！！使用[[Sprightly Scarab||108909]]时，你要先复生你的护巢机，然后是魔刃豹和下水道老鼠头目。如果你的护巢机是金色的会很好。"
+msgid "Initially attack with your [[Stomping Stegodon]]. Make sure that you have a taunted [[Sewer Rat]] or any multi-hit taunt to soak some attacks. Then, the next things to attack should be [[Manasaber]] then [[Sewer Lord||130996]] because this fills out the board with a lot of taunts that protect your Poultron. Every 4 things that die will give your board insane rallys because your Poultron's will attack and swing with all the combined rallies. Also don't reborn your Stegodon!! With [[Sprightly Scarab||108909]], you want to first reborn your Poultrons, then the Manasabers and Sewer Lord. Comp is much better if your Poultron is golden."
+msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/48/
-msgid "[[Stomping Stegodon||122286]] + Beasts ([[Manasaber||98831]])"
-msgstr "[[Stomping Stegodon||122286]] + 野兽 ([[Manasaber||98831]])"
+msgid "[[Stomping Stegodon]] + Beasts ([[Manasaber]])"
+msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/48/
-msgid "[[Stomping Stegodon||122286]]"
-msgstr "[[Stomping Stegodon||122286]]"
+msgid "[[Stomping Stegodon]]"
+msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/48/
 msgid "Exponentially scale attack with rally"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-29 01:40+0000\n"
-"PO-Revision-Date: 2026-06-01 00:40\n"
+"POT-Creation-Date: 2026-06-02 18:47+0000\n"
+"PO-Revision-Date: 2026-06-03 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -489,7 +489,7 @@ msgstr "与Blizzard Entertainment没有从属关系。"
 msgid "Deck Tracker"
 msgstr "记牌器"
 
-#: templates/footer.html:69 templates/navigation.html:268
+#: templates/footer.html:69 templates/navigation.html:279
 #: web/views/premium.py:31
 msgid "Premium"
 msgstr "升级会员"
@@ -614,87 +614,91 @@ msgstr "佣兵强度"
 msgid "Parties"
 msgstr "队伍"
 
-#: templates/navigation.html:93 templates/navigation.html:219
-#: templates/navigation.html:282 web/views/__init__.py:201
+#: templates/navigation.html:93 templates/navigation.html:229
+#: templates/navigation.html:293 web/views/__init__.py:201
 msgid "Downloads"
 msgstr "下载"
 
-#: templates/navigation.html:104 web/views/battlegrounds.py:270
+#: templates/navigation.html:102
+msgid "Overlay"
+msgstr ""
+
+#: templates/navigation.html:113 web/views/battlegrounds.py:270
 #: web/views/battlegrounds.py:599
 msgid "Heroes"
 msgstr "英雄"
 
-#: templates/navigation.html:116 web/views/battlegrounds.py:347
+#: templates/navigation.html:125 web/views/battlegrounds.py:347
 msgid "Trinkets"
 msgstr "饰品"
 
-#: templates/navigation.html:129 web/views/battlegrounds.py:927
+#: templates/navigation.html:138 web/views/battlegrounds.py:927
 msgid "Timewarp"
 msgstr "时空扭曲"
 
-#: templates/navigation.html:142 web/views/battlegrounds.py:532
+#: templates/navigation.html:151 web/views/battlegrounds.py:532
 msgid "Darkmoon Prizes"
 msgstr "暗月奖品"
 
-#: templates/navigation.html:153 web/views/battlegrounds.py:286
+#: templates/navigation.html:162 web/views/battlegrounds.py:286
 #: web/views/battlegrounds.py:1130
 msgid "Comps"
 msgstr "流派"
 
-#: templates/navigation.html:165 web/views/battlegrounds.py:472
+#: templates/navigation.html:174 web/views/battlegrounds.py:472
 msgid "Quests"
 msgstr "任务"
 
-#: templates/navigation.html:168
+#: templates/navigation.html:177
 msgid "NEW"
 msgstr "新"
 
-#: templates/navigation.html:182 web/views/battlegrounds.py:416
+#: templates/navigation.html:191 web/views/battlegrounds.py:416
 msgid "Anomalies"
 msgstr "畸变"
 
-#: templates/navigation.html:193 web/views/battlegrounds.py:748
+#: templates/navigation.html:202 web/views/battlegrounds.py:748
 #: web/views/battlegrounds.py:819
 msgid "Minions"
 msgstr "随从"
 
-#: templates/navigation.html:207 templates/navigation.html:211
-#: templates/navigation.html:271 templates/navigation.html:274
+#: templates/navigation.html:216 templates/navigation.html:220
+#: templates/navigation.html:282 templates/navigation.html:285
 msgid "SALE!"
 msgstr "促销！"
 
-#: templates/navigation.html:226
+#: templates/navigation.html:237
 msgid "Trending"
 msgstr "趋势"
 
-#: templates/navigation.html:234 templates/navigation.html:240
+#: templates/navigation.html:245 templates/navigation.html:251
 msgid "Meta"
 msgstr "环境"
 
-#: templates/navigation.html:235
+#: templates/navigation.html:246
 msgid "Back soon!"
 msgstr "马上回来！"
 
-#: templates/navigation.html:247
+#: templates/navigation.html:258
 msgid "Decks"
 msgstr "套牌"
 
-#: templates/navigation.html:253 web/views/arena.py:73 web/views/cards.py:41
+#: templates/navigation.html:264 web/views/arena.py:73 web/views/cards.py:41
 #: web/views/cards.py:172
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:260 web/views/arena.py:24 web/views/arena.py:41
+#: templates/navigation.html:271 web/views/arena.py:24 web/views/arena.py:41
 #: web/views/arena.py:72 web/views/arena.py:90 web/views/arena.py:118
 msgid "Arena"
 msgstr "竞技模式"
 
-#: templates/navigation.html:311
+#: templates/navigation.html:322
 #, python-format
 msgid " View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
 msgstr " 查看下一个炉石传说扩展包的最新卡牌发布：%(spoiler_set)s "
 
-#: templates/navigation.html:325
+#: templates/navigation.html:336
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "我们正在根据最新酒馆战棋补丁更新此页面。您可能会暂时看到缺失和过期的信息。"
 
