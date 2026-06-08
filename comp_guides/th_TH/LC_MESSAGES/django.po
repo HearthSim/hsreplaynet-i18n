@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-05 01:40\n"
+"POT-Creation-Date: 2026-06-08 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Thai\n"
 "Language: th\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: th\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-06-05 12:40\n"
+"PO-Revision-Date: 2026-06-08 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - APM"
@@ -212,6 +212,26 @@ msgstr ""
 msgid "Spend gold to cast blood gems"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/68/
+msgid "Mechs - Deathrattle"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/68/
+msgid "First, have a deathrattle midgame to have a scaled [[Falling Sky Golem||130798]] already. Taunt reborn it. Resummon it with [[Kangor's apprentice||59935]]. Fill out the rest of your board with scam such as [[Leeroy the Reckless||90425]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/68/
+msgid "[[Falling Sky Golem||130798]] + [[Kangor's Apprentice||59935]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/68/
+msgid "Big [[Falling Sky Golem||130798]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/68/
+msgid "Summon huge golems"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/58/
 msgid "Nagas - Deep Blue"
 msgstr ""
@@ -291,6 +311,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/83/
 msgid "Make huge attack summons"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Mechs - Magnetics"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Generate Magnetics with an early [[Holo Rover||115674]] or [[Scrap Scraper||98592]]. Then, reborn [[Ingenious Inventor||131606]] to stabilize. Resummon it with [[Kangor's Apprentice||59935]] and/or Titus Rivendare. Have some mech summons in the back, such as [[Auto Assembler||120025]] and reborn put on [[Deflect-o-bot||61930]] or [[Falling Sky Golem||130798]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Magnetic Generation ([[Scrap Scraper||98592]]) + [[Ingenious Inventor||131606]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Magnetic Generation ([[Scrap Scraper||98592]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/2/
+msgid "Magnetize mechs and scale attack"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/6/
