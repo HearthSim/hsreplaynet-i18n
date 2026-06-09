@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-06 01:40+0000\n"
-"PO-Revision-Date: 2026-06-06 12:40\n"
+"POT-Creation-Date: 2026-06-09 01:40+0000\n"
+"PO-Revision-Date: 2026-06-09 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -590,7 +590,7 @@ msgstr "切换导航"
 #: web/views/battlegrounds.py:519 web/views/battlegrounds.py:535
 #: web/views/battlegrounds.py:594 web/views/battlegrounds.py:751
 #: web/views/battlegrounds.py:822 web/views/battlegrounds.py:930
-#: web/views/battlegrounds.py:1443
+#: web/views/battlegrounds.py:1447
 msgid "Battlegrounds"
 msgstr "酒馆战棋"
 
@@ -641,7 +641,7 @@ msgid "Darkmoon Prizes"
 msgstr "暗月奖品"
 
 #: templates/navigation.html:162 web/views/battlegrounds.py:290
-#: web/views/battlegrounds.py:1452
+#: web/views/battlegrounds.py:1456
 msgid "Comps"
 msgstr "流派"
 
@@ -1107,36 +1107,36 @@ msgstr "酒馆战棋时空扭曲卡牌"
 msgid "Explore the Minions, Spells & Hero Powers available in each of the Timewarped Tavern shops"
 msgstr "探索时空扭曲酒馆商店中可用的随从、法术与英雄技能"
 
-#: web/views/battlegrounds.py:1264
+#: web/views/battlegrounds.py:1268
 msgid "Battlegrounds Compositions"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:1270 web/views/battlegrounds.py:1300
+#: web/views/battlegrounds.py:1274 web/views/battlegrounds.py:1304
 msgid "Battlegrounds Composition"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:1293
+#: web/views/battlegrounds.py:1297
 msgid "No matching live or lingering composition found."
 msgstr "没有找到匹配的流派。"
 
-#: web/views/battlegrounds.py:1295
+#: web/views/battlegrounds.py:1299
 msgid "No matching composition found."
 msgstr "没有找到对应的流派。"
 
-#: web/views/battlegrounds.py:1394
+#: web/views/battlegrounds.py:1398
 msgid "Battlegrounds Comp"
 msgstr "酒馆战棋流派"
 
-#: web/views/battlegrounds.py:1414
+#: web/views/battlegrounds.py:1418
 msgid "No matching comp found."
 msgstr "未找到匹配的流派。"
 
-#: web/views/battlegrounds.py:1427
+#: web/views/battlegrounds.py:1431
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr "{tribe_name} - {obj.name}"
 
-#: web/views/battlegrounds.py:1509
+#: web/views/battlegrounds.py:1513
 msgid "My Battlegrounds Stats"
 msgstr "我的酒馆战棋数据"
 
