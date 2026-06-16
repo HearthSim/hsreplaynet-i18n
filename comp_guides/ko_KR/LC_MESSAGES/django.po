@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-10 01:40\n"
+"POT-Creation-Date: 2026-06-16 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: ko\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-06-10 12:40\n"
+"PO-Revision-Date: 2026-06-16 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - APM"
@@ -42,7 +42,7 @@ msgid "Undead - Attack Scaling"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Scale the attack of your Undeads and summons with the Butchering spell from [[Drustfallen Butcher||120104]]. Butchering doubles it's effect when paired with [[Balinda Stonehearth||130298]], and also improves with spell scaling from [[Friendly Geist||120219]] or [[Tranquil Meditative||119942]]. Your quality of summons come from [[Handless Forsaken||95265]], but also could use [[Deathly Striker||115610]] or [[Eternal Summoner||95263]]. Be sure to reborn as many key undeads as possible, starting with [[Handless Forsaken||95265]]. Using [[Disguised Graverobber||104610]] on [[Mummifier||108992]] also gives permanent reborns."
+msgid "Scale the attack of your Undeads and summons with the Butchering spell from [[Drustfallen Butcher||120104]]. Butchering doubles it's effect when paired with [[Balinda Stonehearth||130298]], and also improves with spell scaling from [[Friendly Geist||120219]] or [[Tranquil Meditative||119942]]. Your quality of summons come from [[Handless Forsaken||95265]], but also could use [[Deathly Striker||115610]] or [[Eternal Summoner||95263]]. Be sure to reborn as many key undeads as possible, starting with [[Handless Forsaken||95265]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
@@ -83,7 +83,7 @@ msgid "Back to Back"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/82/
-msgid "Scale spell power with [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] to make your Back to Back (Tavern Spell) bigger. Then, use [[Balinda Stonehearth||130298]] to double the scaling and effectiveness of your back to backs. [[Cataclysmic Harbinger||130884]] allows you to print multiple of them every turn. Scale premium units such as [[Sinrunner Blanchy]]."
+msgid "Scale spell power with [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] to make your Back to Back (Tavern Spell) bigger. Then, use [[Balinda Stonehearth||130298]] to double the scaling and effectiveness of your back to backs. [[Cataclysmic Harbinger||130884]] allows you to print multiple of them every turn. Scale premium units such as [[Blade Collector||99035]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/82/
@@ -237,7 +237,7 @@ msgid "Nagas - Deep Blue"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/58/
-msgid "Roll for [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]], and [[Flaming Enforcer||126924]]. Put your spellcrafts on the shop with Enforcer to gain permanent stats. [[Balinda Stonehearth||130298]] doubles your deepblue stats and scaling if you use it on your board. After you have golden versions of everything, start filling out the rest of your board with scam such as [[Leeroy the Reckless||90425]]."
+msgid "Roll for [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]], and [[Flaming Enforcer||126924]]. Put your spellcrafts on the shop with Enforcer to gain permanent stats. [[Balinda Stonehearth||130298]] doubles your deepblue stats and scaling if you use it on your board. [[Leyline Surfacer||130294]] provides extra stats after you buff to shop to eat. After you have golden versions of everything, start filling out the rest of your board with scam such as [[Leeroy the Reckless||90425]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/58/
@@ -271,6 +271,22 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/21/
 msgid "Play spells to buff Mechs"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/77/
+msgid "Beasts - Felhorn"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/77/
+msgid "Use [[Rylak Metalhead||98829]] + [[Felhorn||129437]] to have your Felhorn deal damage to your minions multiple times. This will benefit your payoff cards such as [[Lord of the ruins||122116]], which buffs your whole board, or [[Silky Shimmermoth||121135]] which scales your beetles. [[Monstrous Macaw||62230]], reborn, [[Brann Bronzebeard||96786]], [[Titus Rivendare||97408]] ALL provide multipliers for this effect, and stacking multipliers scales your board insanely fast. You usually use [[Refreshing Anomaly||64042]] instead of Felhorn at first to ramp up economy."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/77/
+msgid "[[Brann Bronzebeard||96786]] + good economy"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/77/
+msgid "Deal damage to your own board to scale."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/20/
@@ -400,16 +416,16 @@ msgid "Demons - Shop Buff"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Scale your shop somehow, usually it's through [[Shadowdancer||120662]], [[Felemental||97553]], or [[Consummate Conqueror||130079]]. Then, add fodders to your shop to capture the buffed minions in shop. Typically you have an economy setup with [[Brann Bronzebeard||96786]] + damage rewinder ([[Ashen Corruptor||121687]]) which allows you to cycle a lot of cards. Every card you cycle will add a lot of fodders to eat because of [[Twisted Wrathguard||130662]]. There's another line where you can add fodders to your shop using [[Rylak Metalhead||98829]] + [[Laboratory Assistant||130075]]."
+msgid "Scale your shop somehow, usually it's through [[Consummate Conqueror||130079]]. Then, add fodders to your shop to capture the buffed minions in shop. Typically you have an economy setup with [[Brann Bronzebeard||96786]] + damage rewinder ([[Ashen Corruptor||121687]]) which allows you to cycle a lot of cards. Every card you cycle will add a lot of fodders to eat because of [[Twisted Wrathguard||130662]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Buffed Shop ([[Shadowdancer||120662]]) + [[Ashen Corruptor||121687]] + [[Brann Bronzebeard||96786]]"
+msgid "Buffed Shop ([[Consummate Conqueror||130079]]) + [[Twisted Wrathguard||130662]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
 msgid "[[Brann Bronzebeard||96786]]\n"
-"Demon midgame ([[Woodland Defiler||130076]])"
+"[[Twisted Wrathguard||130662]]"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/41/
@@ -458,7 +474,7 @@ msgid "Beasts - Summons"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/12/
-msgid "[[Goldrinn, the Great Wolf||59955]] + [[Monstrous Macaw||62230]] and [[Titus Rivendare||97408]] gives a huge aura affect to all beasts you summon. Usually, you want to taunt and reborn the Goldrinn so the Macaw always procs it and it always dies. [[Sewer Lord||130996]] is the best summon beast to run in this comp."
+msgid "[[Goldrinn, the Great Wolf||59955]] + [[Monstrous Macaw||62230]] and [[Titus Rivendare||97408]] gives a huge aura affect to all beasts you summon. Usually, you want to taunt and reborn the Goldrinn so the Macaw always procs it and it always dies. [[Sewer Lord||130996]] is the best summon beast to run in this comp. [[Banana Slamma||98824]] gives your summons lots of attack to deal with stat comps."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/12/
@@ -478,7 +494,7 @@ msgid "Murlocs - Venom Scam"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Aim to golden [[Diremuck Forager||108922]] and give it venom using [[Bile Spitter||122219]]. Then, the Diremuck will pull many scam units from your hand."
+msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Aim to golden [[Expert Aviator||126637]] and give it venom using [[Bile Spitter||122219]]. Then, the Aviator will pull many scam units from your hand."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
