@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-16 01:40\n"
+"POT-Creation-Date: 2026-06-18 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-MX\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-06-16 12:40\n"
+"PO-Revision-Date: 2026-06-18 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - APM"
@@ -35,6 +35,22 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Cycle cards to scale murlocs"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/76/
+msgid "Quilboar - APM Felboar"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/76/
+msgid "You must have an insane amount of economy to go for this comp. This is usually achieved with a turn 9 golden brann, or early Brann + Rogers + Privateer. When you have too much economy, you may cycle [[Moon Bacon Jazzer||98930]], [[Fearless Foodie||113154]], spell power, and [[Briarback Drummer||126669]] without running out of gold. This will scale your shop over the course of the game. You'll also generate a ton of spells because of Brann and Shipman, allowing Felboar to eat a huge shop over and over again. [[Tidecaller Prophet||131608]] is the best spell scaling for this comp."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/76/
+msgid "Early infinite gold + Felboar + Spell Power ([[Tidecaller Prophet||131608]]."
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/76/
+msgid "Cast spells to consume buffed shop."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/14/
