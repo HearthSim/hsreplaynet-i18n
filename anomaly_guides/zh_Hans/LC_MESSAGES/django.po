@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-18T01:40:28.236378\n"
+"POT-Creation-Date: 2026-06-30T01:40:27.232255\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,15 +15,15 @@ msgstr ""
 "X-Crowdin-File: /anomaly_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 167\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-06-24 12:40\n"
+"PO-Revision-Date: 2026-06-30 12:40\n"
 
 #: Anomaly id 103078 | Guide id 82
 msgid "If Pirates/Nagas are in, use [[Brann Bronzebeard||96786]]/[[Sky Admiral Rogers||122516]], [[Captain Sanders||97539]], and [[Sea Witch Zar'jira||103069]] to go infinite and pick the highest scaling line. ADVANCED: After infinite, some very high cap builds include making a big Futurefin and scale more futurefins, or making a big Kodo and duplicate it with [[Stitched Salvager||119666]]"
 msgstr "如果海盗/纳迦存在，使用 [[布莱恩·铜须||96786]]/[[空军上将罗杰斯||122516]]、[[杉德尔船长||97539]] 和 [[海巫扎尔吉拉||103069]] 无限刷钱并选择最高等级的成长线。进阶：无限经济后，有一些非常高上限的构筑，包括制作一个巨大的未来鱼人来成长和传播，或者制作一个巨大的科多兽，并用 [[缝合回收者||119666]] 复制它"
 
 #: Anomaly id 131414 | Guide id 113
-msgid "The most common strat is to flag a battlecry such as [[Hunting Tiger Shark||128168]] and cycle it a lot with [[Brann Bronzebeard||96786]]. Artanis specifically could copy a lot of immortals, and Jim Raynor can make multiple battlecruisers."
-msgstr "最常见策略是标记一个战吼，例如 [[猎食的虎鲨||128168]]，并配合 [[布莱恩·铜须||96786]] 大量循环使用。阿塔尼斯能复制很多不朽者，而吉姆·雷诺可以制造多个战列巡航舰。"
+msgid "The most common strat is to flag a battlecry such as [[Hunting Tiger Shark||128168]] and cycle it a lot with [[Brann Bronzebeard||96786]]. The other strat is to flag a [[Tortallan Blue Shell]] and go infinite that turn. Artanis specifically could copy a lot of immortals, and Jim Raynor can make multiple battlecruisers."
+msgstr ""
 
 #: Anomaly id 128772 | Guide id 111
 msgid "Immortal, Chameleon, and Mythrax tend to be insane ending units that get added to the pool."
@@ -52,6 +52,10 @@ msgstr "如果有一张超模卡牌能与大厅中的其他英雄产生很好的
 #: Anomaly id 102075 | Guide id 25
 msgid "Useless triples are less valuable because they don't give you a triple reward. If you don't plan on keeping a card, don't triple it."
 msgstr "无用的三连没那么重要，因为它们不会给你三连奖励。如果你不打算留下这个随从，请不要三连。"
+
+#: Anomaly id 131413 | Guide id 114
+msgid "Trinkets that give a card start of your turn will give you a card when you pick it and a card the next turn, so value these trinkets highly."
+msgstr ""
 
 #: Anomaly id 103541 | Guide id 70
 msgid "Early value generating buddies are premium. Buddies are usually just much better cards than the regular minion pool. ADVANCED: A common scaling line in Elemental lobbies are to go infinite with Brann and then scaling using ballers. You should have golden Reliquary Attendants (Taethalan Buddy) to copy multiple baller spells every turn and also Jandice Buddy."
