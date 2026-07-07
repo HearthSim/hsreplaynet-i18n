@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-03 01:40+0000\n"
-"PO-Revision-Date: 2026-07-03 12:40\n"
+"POT-Creation-Date: 2026-07-06 19:54+0000\n"
+"PO-Revision-Date: 2026-07-07 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -506,28 +506,28 @@ msgstr ""
 msgid "Get Tier7"
 msgstr ""
 
-#: templates/footer.html:81 web/views/battlegrounds.py:393
+#: templates/footer.html:81 web/views/battlegrounds.py:404
 msgid "Battlegrounds Heroes"
 msgstr "Bohaterowie Ustawek"
 
-#: templates/footer.html:82 web/views/battlegrounds.py:409
+#: templates/footer.html:82 web/views/battlegrounds.py:420
 msgid "Battlegrounds Comps"
 msgstr ""
 
-#: templates/footer.html:83 web/views/battlegrounds.py:875
-#: web/views/battlegrounds.py:925
+#: templates/footer.html:83 web/views/battlegrounds.py:886
+#: web/views/battlegrounds.py:936
 msgid "Battlegrounds Minions"
 msgstr "Stronnicy Ustawki"
 
-#: templates/footer.html:84 web/views/battlegrounds.py:540
+#: templates/footer.html:84 web/views/battlegrounds.py:551
 msgid "Battlegrounds Anomalies"
 msgstr ""
 
-#: templates/footer.html:85 web/views/battlegrounds.py:596
+#: templates/footer.html:85 web/views/battlegrounds.py:607
 msgid "Battlegrounds Quests"
 msgstr ""
 
-#: templates/footer.html:86 web/views/battlegrounds.py:471
+#: templates/footer.html:86 web/views/battlegrounds.py:482
 msgid "Battlegrounds Trinkets"
 msgstr ""
 
@@ -571,13 +571,13 @@ msgstr "Powtórka nie jest już dostępna."
 msgid "Toggle navigation"
 msgstr "Schowaj/pokaż nawigację"
 
-#: templates/navigation.html:46 web/views/battlegrounds.py:327
-#: web/views/battlegrounds.py:401 web/views/battlegrounds.py:417
-#: web/views/battlegrounds.py:478 web/views/battlegrounds.py:547
-#: web/views/battlegrounds.py:603 web/views/battlegrounds.py:647
-#: web/views/battlegrounds.py:663 web/views/battlegrounds.py:722
-#: web/views/battlegrounds.py:879 web/views/battlegrounds.py:950
-#: web/views/battlegrounds.py:1058 web/views/battlegrounds.py:1575
+#: templates/navigation.html:46 web/views/battlegrounds.py:337
+#: web/views/battlegrounds.py:412 web/views/battlegrounds.py:428
+#: web/views/battlegrounds.py:489 web/views/battlegrounds.py:558
+#: web/views/battlegrounds.py:614 web/views/battlegrounds.py:658
+#: web/views/battlegrounds.py:674 web/views/battlegrounds.py:733
+#: web/views/battlegrounds.py:890 web/views/battlegrounds.py:961
+#: web/views/battlegrounds.py:1069 web/views/battlegrounds.py:1586
 msgid "Battlegrounds"
 msgstr "Ustawka"
 
@@ -610,29 +610,29 @@ msgstr "Pobieranie"
 msgid "Overlay"
 msgstr ""
 
-#: templates/navigation.html:110 web/views/battlegrounds.py:402
-#: web/views/battlegrounds.py:731
+#: templates/navigation.html:110 web/views/battlegrounds.py:413
+#: web/views/battlegrounds.py:742
 msgid "Heroes"
 msgstr "Bohaterowie"
 
-#: templates/navigation.html:122 web/views/battlegrounds.py:479
+#: templates/navigation.html:122 web/views/battlegrounds.py:490
 msgid "Trinkets"
 msgstr ""
 
-#: templates/navigation.html:135 web/views/battlegrounds.py:1059
+#: templates/navigation.html:135 web/views/battlegrounds.py:1070
 msgid "Timewarp"
 msgstr ""
 
-#: templates/navigation.html:148 web/views/battlegrounds.py:664
+#: templates/navigation.html:148 web/views/battlegrounds.py:675
 msgid "Darkmoon Prizes"
 msgstr ""
 
-#: templates/navigation.html:159 web/views/battlegrounds.py:418
-#: web/views/battlegrounds.py:1584
+#: templates/navigation.html:159 web/views/battlegrounds.py:429
+#: web/views/battlegrounds.py:1595
 msgid "Comps"
 msgstr ""
 
-#: templates/navigation.html:171 web/views/battlegrounds.py:604
+#: templates/navigation.html:171 web/views/battlegrounds.py:615
 msgid "Quests"
 msgstr ""
 
@@ -640,12 +640,12 @@ msgstr ""
 msgid "NEW"
 msgstr ""
 
-#: templates/navigation.html:188 web/views/battlegrounds.py:548
+#: templates/navigation.html:188 web/views/battlegrounds.py:559
 msgid "Anomalies"
 msgstr ""
 
-#: templates/navigation.html:199 web/views/battlegrounds.py:880
-#: web/views/battlegrounds.py:951
+#: templates/navigation.html:199 web/views/battlegrounds.py:891
+#: web/views/battlegrounds.py:962
 msgid "Minions"
 msgstr "Stronnicy"
 
@@ -1044,7 +1044,7 @@ msgid "Yes! Hearthstone Deck Tracker is completely free to download and use. Cor
 msgstr ""
 
 #: web/views/battlegrounds.py:167
-msgid "Is it safe to use? Will I get banned?"
+msgid "Is Hearthstone Deck Tracker safe to use? Will I get banned?"
 msgstr ""
 
 #: web/views/battlegrounds.py:169
@@ -1052,262 +1052,270 @@ msgid "Hearthstone Deck Tracker is fully compliant with Blizzard's policies. It 
 msgstr ""
 
 #: web/views/battlegrounds.py:176
-msgid "Does it work on Mac?"
+msgid "Do I need an account to use Hearthstone Deck Tracker?"
 msgstr ""
 
 #: web/views/battlegrounds.py:178
-msgid "Yes! HSTracker is our Mac companion app with most of the core features."
-msgstr ""
-
-#: web/views/battlegrounds.py:182
-msgid "How does Bob's Buddy work?"
+msgid "No account is required! Simply download and install, the overlay will starts working automatically when you launch it alongside Hearthstone."
 msgstr ""
 
 #: web/views/battlegrounds.py:184
-msgid "Bob's Buddy reads the board state when a combat starts then it simulates over 10,000 random combat outcomes to calculate your exact win, loss, and tie percentages, including lethal and elimination odds!"
+msgid "Can I use it on Mac?"
+msgstr ""
+
+#: web/views/battlegrounds.py:186
+msgid "Yes! HSTracker is our Mac companion app with most of the core features."
 msgstr ""
 
 #: web/views/battlegrounds.py:190
-msgid "What is Tier7?"
+msgid "Do I need a powerful gaming PC to run Hearthstone Deck Tracker?"
 msgstr ""
 
 #: web/views/battlegrounds.py:192
-msgid "Tier7 is an optional premium subscription that adds real-time, lobby-specific data to your overlay, including hero tier lists tailored to your lobby's tribes, filtered and tiered composition guides, and tribe performance stats. You can try 2 free games per week before subscribing."
+msgid "While Hearthstone Deck Tracker works very well on low-spec devices, it will take advantage extra performance headroom on a powerful device to significantly speed the simulation of combat odds, especially on complex boards, all while carefully avoiding impacting your gaming performance."
 msgstr ""
 
-#: web/views/battlegrounds.py:200
-msgid "Do I need an account to use it?"
+#: web/views/battlegrounds.py:199
+msgid "How does Bob's Buddy work?"
 msgstr ""
 
-#: web/views/battlegrounds.py:202
-msgid "No account is needed to use the core features. Simply download and install, the tracker starts working automatically when you launch it alongside Hearthstone."
+#: web/views/battlegrounds.py:201
+msgid "Bob's Buddy reads the board state when a combat starts then it simulates over 10,000 random combat outcomes to calculate your exact win, loss, and tie percentages, including lethal and elimination odds!"
 msgstr ""
 
-#: web/views/battlegrounds.py:208 web/views/battlegrounds.py:362
+#: web/views/battlegrounds.py:207
+msgid "What is Tier7?"
+msgstr ""
+
+#: web/views/battlegrounds.py:209
+msgid "Tier7 is a set of highly advanced features that add real-time, lobby-specific data to your overlay, including hero tier lists tailored to your lobby's tribes, filtered and tiered composition guides, and tribe performance stats. You automatically get access to it twice a week by using Hearthstone Deck Tracker, and can subscribe for more."
+msgstr ""
+
+#: web/views/battlegrounds.py:218 web/views/battlegrounds.py:373
 msgid "How often is the data updated?"
 msgstr ""
 
-#: web/views/battlegrounds.py:210
+#: web/views/battlegrounds.py:220
 msgid "Our meta statistics update every hour with the latest games. New patch data is typically available within 2 hours of release, so you always have current information."
 msgstr ""
 
-#: web/views/battlegrounds.py:237
+#: web/views/battlegrounds.py:247
 msgid "Battleground Stats & Guides"
 msgstr ""
 
-#: web/views/battlegrounds.py:239
+#: web/views/battlegrounds.py:249
 msgid "Master Hearthstone Battlegrounds with data-driven insights. Explore hero tier lists, winning compositions, minion stats, and more!"
 msgstr ""
 
-#: web/views/battlegrounds.py:317
+#: web/views/battlegrounds.py:327
 msgid "Level up your gameplay with Tier7's in-depth Battlegrounds statsistics, including actionable information about the best heroes, compositions, minions, and more!"
 msgstr ""
 
-#: web/views/battlegrounds.py:328
+#: web/views/battlegrounds.py:338
 msgid "Tier7"
 msgstr "Poziom7"
 
-#: web/views/battlegrounds.py:339
-msgid "Can I try Tier7 before subscribing?"
+#: web/views/battlegrounds.py:349
+msgid "Do I need to pay for Tier7?"
 msgstr ""
 
-#: web/views/battlegrounds.py:341
-msgid "Yes! You can try 2 free games per week with Tier7 features using the Hearthstone Deck Tracker. No credit card required."
+#: web/views/battlegrounds.py:351
+msgid "No, all in-game Tier7 features are available for free twice a week by playing with Hearthstone Deck Tracker. If you need more, you can subscribe."
 msgstr ""
 
-#: web/views/battlegrounds.py:346
+#: web/views/battlegrounds.py:357
 msgid "Can I cancel anytime?"
 msgstr ""
 
-#: web/views/battlegrounds.py:348
+#: web/views/battlegrounds.py:359
 msgid "Yes! You can cancel your subscription at any time from your account settings. You'll continue to have access until the end of your billing period."
 msgstr ""
 
-#: web/views/battlegrounds.py:354
-msgid "Do I need the Deck Tracker for web features?"
+#: web/views/battlegrounds.py:365
+msgid "Do I need the Hearthstone Deck Tracker for web features?"
 msgstr ""
 
-#: web/views/battlegrounds.py:356
+#: web/views/battlegrounds.py:367
 msgid "No, the web features (stats, personal dashboard) work independently. However, the Deck Tracker is required for in-game overlays like hero picking and composition stats."
 msgstr ""
 
-#: web/views/battlegrounds.py:364
+#: web/views/battlegrounds.py:375
 msgid "Our meta statistics update every hour with the latest games. New patch data is typically available within 2 hours of release."
 msgstr ""
 
-#: web/views/battlegrounds.py:369
+#: web/views/battlegrounds.py:380
 msgid "What MMR bracket should I be to benefit?"
 msgstr ""
 
-#: web/views/battlegrounds.py:371
+#: web/views/battlegrounds.py:382
 msgid "Tier7 helps players at all skill levels. Whether you're climbing from 2k or pushing for top 200, our data ensures you get relevant information for you."
 msgstr ""
 
-#: web/views/battlegrounds.py:377
+#: web/views/battlegrounds.py:388
 msgid "Is my account data secure?"
 msgstr ""
 
-#: web/views/battlegrounds.py:379
+#: web/views/battlegrounds.py:390
 msgid "Absolutely. We use industry-standard encryption and never share your personal information. Your gameplay data is anonymized in our aggregated statistics."
 msgstr ""
 
-#: web/views/battlegrounds.py:388
+#: web/views/battlegrounds.py:399
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr ""
 
-#: web/views/battlegrounds.py:395
+#: web/views/battlegrounds.py:406
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:411
+#: web/views/battlegrounds.py:422
 msgid "Explore our Comps Tier List and learn which comp is the best - powered by JeefHS, Top BGs player."
 msgstr ""
 
-#: web/views/battlegrounds.py:473
+#: web/views/battlegrounds.py:484
 msgid "Explore our Battlegrounds Trinkets Tier List and learn which trinket is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:542
+#: web/views/battlegrounds.py:553
 msgid "Explore our Battlegrounds Anomalies List and learn which anomalies are more common - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:598
+#: web/views/battlegrounds.py:609
 msgid "Explore our Battlegrounds Quests List and learn which quests are the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:644
+#: web/views/battlegrounds.py:655
 msgid "Battlegrounds Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:648
+#: web/views/battlegrounds.py:659
 msgid "Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:660
+#: web/views/battlegrounds.py:671
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr ""
 
-#: web/views/battlegrounds.py:669
+#: web/views/battlegrounds.py:680
 msgid "Battlegrounds Hero"
 msgstr "Bohater Ustawki"
 
-#: web/views/battlegrounds.py:691
+#: web/views/battlegrounds.py:702
 msgid "No matching hero found."
 msgstr "Nie znaleziono pasującego bohatera."
 
-#: web/views/battlegrounds.py:867
+#: web/views/battlegrounds.py:878
 msgid "Battlegrounds Duos Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:887
+#: web/views/battlegrounds.py:898
 msgid "Beast"
 msgstr ""
 
-#: web/views/battlegrounds.py:888
+#: web/views/battlegrounds.py:899
 msgid "Demon"
 msgstr ""
 
-#: web/views/battlegrounds.py:889
+#: web/views/battlegrounds.py:900
 msgid "Dragon"
 msgstr ""
 
-#: web/views/battlegrounds.py:890
+#: web/views/battlegrounds.py:901
 msgid "Elemental"
 msgstr ""
 
-#: web/views/battlegrounds.py:891
+#: web/views/battlegrounds.py:902
 msgid "Mech"
 msgstr ""
 
-#: web/views/battlegrounds.py:892
+#: web/views/battlegrounds.py:903
 msgid "Murloc"
 msgstr ""
 
-#: web/views/battlegrounds.py:893
+#: web/views/battlegrounds.py:904
 msgid "Naga"
 msgstr ""
 
-#: web/views/battlegrounds.py:894
+#: web/views/battlegrounds.py:905
 msgid "Pirate"
 msgstr ""
 
-#: web/views/battlegrounds.py:895
+#: web/views/battlegrounds.py:906
 msgid "Quilboar"
 msgstr ""
 
-#: web/views/battlegrounds.py:896
+#: web/views/battlegrounds.py:907
 msgid "Undead"
 msgstr ""
 
-#: web/views/battlegrounds.py:908
+#: web/views/battlegrounds.py:919
 msgid "Invalid Tavern Tier."
 msgstr ""
 
-#: web/views/battlegrounds.py:914
+#: web/views/battlegrounds.py:925
 msgid "No matching minion type found."
 msgstr ""
 
-#: web/views/battlegrounds.py:928
+#: web/views/battlegrounds.py:939
 #, python-brace-format
 msgid "Battlegrounds {type} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:933
+#: web/views/battlegrounds.py:944
 #, python-brace-format
 msgid "Battlegrounds Tier {tier} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:937
+#: web/views/battlegrounds.py:948
 #, python-brace-format
 msgid "Battlegrounds Tier {tier} {type} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:974 web/views/battlegrounds.py:1003
+#: web/views/battlegrounds.py:985 web/views/battlegrounds.py:1014
 msgid "Battlegrounds Minion"
 msgstr "Stronnik Ustawki"
 
-#: web/views/battlegrounds.py:995
+#: web/views/battlegrounds.py:1006
 msgid "No matching minion found."
 msgstr "Nie znaleziono pasującego stronnika."
 
-#: web/views/battlegrounds.py:1050
+#: web/views/battlegrounds.py:1061
 msgid "Battlegrounds Timewarped Cards"
 msgstr ""
 
-#: web/views/battlegrounds.py:1052
+#: web/views/battlegrounds.py:1063
 msgid "Explore the Minions, Spells & Hero Powers available in each of the Timewarped Tavern shops"
 msgstr ""
 
-#: web/views/battlegrounds.py:1396
+#: web/views/battlegrounds.py:1407
 msgid "Battlegrounds Compositions"
 msgstr "Kompozycje Ustawki"
 
-#: web/views/battlegrounds.py:1402 web/views/battlegrounds.py:1432
+#: web/views/battlegrounds.py:1413 web/views/battlegrounds.py:1443
 msgid "Battlegrounds Composition"
 msgstr "Kompozycja Ustawki"
 
-#: web/views/battlegrounds.py:1425
+#: web/views/battlegrounds.py:1436
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:1427
+#: web/views/battlegrounds.py:1438
 msgid "No matching composition found."
 msgstr "Nie znaleziono pasującej kompozycji."
 
-#: web/views/battlegrounds.py:1526
+#: web/views/battlegrounds.py:1537
 msgid "Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:1546
+#: web/views/battlegrounds.py:1557
 msgid "No matching comp found."
 msgstr ""
 
-#: web/views/battlegrounds.py:1559
+#: web/views/battlegrounds.py:1570
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr ""
 
-#: web/views/battlegrounds.py:1641
+#: web/views/battlegrounds.py:1652
 msgid "My Battlegrounds Stats"
 msgstr ""
 
