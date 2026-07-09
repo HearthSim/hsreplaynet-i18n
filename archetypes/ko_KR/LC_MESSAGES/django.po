@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07T01:40:27.168939\n"
+"POT-Creation-Date: 2026-07-09T01:40:28.620269\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: ko_KR\n"
-"PO-Revision-Date: 2026-05-07 12:40\n"
+"PO-Revision-Date: 2026-07-09 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -445,10 +445,6 @@ msgstr "컨트롤 주술사"
 msgid "Even Hunter"
 msgstr "짝수 사냥꾼"
 
-#: https://hsreplay.net/archetypes/213/dragon-hunter
-msgid "Dragon Hunter"
-msgstr "용 사냥꾼"
-
 #: https://hsreplay.net/archetypes/211/quest-hunter
 msgid "Quest Hunter"
 msgstr "퀘스트 사냥꾼"
@@ -693,13 +689,13 @@ msgstr "홀수 전사"
 msgid "Secret Libram Paladin"
 msgstr "비밀 성서 성기사"
 
-#: https://hsreplay.net/archetypes/185/demon-warlock
-msgid "Demon Warlock"
-msgstr "악마 흑마법사"
-
 #: https://hsreplay.net/archetypes/161/enrage-warrior
 msgid "Enrage Warrior"
 msgstr "격노 전사"
+
+#: https://hsreplay.net/archetypes/185/demon-warlock
+msgid "Demon Warlock"
+msgstr "악마 흑마법사"
 
 #: https://hsreplay.net/archetypes/273/secret-odd-mage
 msgid "Secret Odd Mage"
@@ -973,10 +969,6 @@ msgstr "갈라크론드 손패 흑마법사"
 msgid "Embiggen Druid"
 msgstr "거대화 드루이드"
 
-#: https://hsreplay.net/archetypes/355/face-hunter
-msgid "Face Hunter"
-msgstr "명치 사냥꾼"
-
 #: https://hsreplay.net/archetypes/361/wall-druid
 msgid "Wall Druid"
 msgstr "벽 드루이드"
@@ -1192,6 +1184,10 @@ msgstr ""
 #: https://hsreplay.net/archetypes/335/dragon-druid
 msgid "Dragon Druid"
 msgstr "용 드루이드"
+
+#: https://hsreplay.net/archetypes/355/face-hunter
+msgid "Face Hunter"
+msgstr "명치 사냥꾼"
 
 #: https://hsreplay.net/archetypes/291/big-warrior
 msgid "Big Warrior"
@@ -1829,9 +1825,9 @@ msgstr "냉기 어그로 죽음의 기사"
 msgid "Horsemen Demon Hunter"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/371/big-demon-hunter
-msgid "Big Demon Hunter"
-msgstr "빅 악마사냥꾼"
+#: https://hsreplay.net/archetypes/593/manastorm-mage
+msgid "Manastorm Mage"
+msgstr "마나스톰 마법사"
 
 #: https://hsreplay.net/archetypes/582/horsemen-druid
 msgid "Horsemen Druid"
@@ -1873,9 +1869,9 @@ msgstr "빅 드럼 드루이드"
 msgid "Lightshow Mage"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/593/manastorm-mage
-msgid "Manastorm Mage"
-msgstr "마나스톰 마법사"
+#: https://hsreplay.net/archetypes/371/big-demon-hunter
+msgid "Big Demon Hunter"
+msgstr "빅 악마사냥꾼"
 
 #: https://hsreplay.net/archetypes/596/dancing-paladin
 msgid "Dancing Paladin"
@@ -2964,4 +2960,56 @@ msgstr ""
 #: https://hsreplay.net/archetypes/183/silver-hand-paladin
 msgid "Silver Hand Paladin"
 msgstr "신병 성기사"
+
+#: https://hsreplay.net/archetypes/867/void-demon-hunter
+msgid "Void Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/868/chef-druid
+msgid "Chef Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/869/attack-druid
+msgid "Attack Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/870/tripwire-hunter
+msgid "Tripwire Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/213/dragon-hunter
+msgid "Dragon Hunter"
+msgstr "용 사냥꾼"
+
+#: https://hsreplay.net/archetypes/871/egg-hunter
+msgid "Egg Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/872/contraband-mage
+msgid "Contraband Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/873/beatrix-paladin
+msgid "Beatrix Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/874/troublemaker-rogue
+msgid "Troublemaker Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/875/burn-rogue
+msgid "Burn Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/876/mug-shaman
+msgid "Mug Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/878/zee-shaman
+msgid "Zee Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/879/archmage-warlock
+msgid "Archmage Warlock"
+msgstr ""
 

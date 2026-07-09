@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07T01:40:27.168939\n"
+"POT-Creation-Date: 2026-07-09T01:40:28.620269\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-07-08 12:40\n"
+"PO-Revision-Date: 2026-07-09 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -445,10 +445,6 @@ msgstr "控制萨"
 msgid "Even Hunter"
 msgstr "偶数猎"
 
-#: https://hsreplay.net/archetypes/213/dragon-hunter
-msgid "Dragon Hunter"
-msgstr "龙猎"
-
 #: https://hsreplay.net/archetypes/211/quest-hunter
 msgid "Quest Hunter"
 msgstr "任务猎"
@@ -693,13 +689,13 @@ msgstr "奇数战"
 msgid "Secret Libram Paladin"
 msgstr "奥秘圣契骑"
 
-#: https://hsreplay.net/archetypes/185/demon-warlock
-msgid "Demon Warlock"
-msgstr "恶魔术"
-
 #: https://hsreplay.net/archetypes/161/enrage-warrior
 msgid "Enrage Warrior"
 msgstr "激怒战"
+
+#: https://hsreplay.net/archetypes/185/demon-warlock
+msgid "Demon Warlock"
+msgstr "恶魔术"
 
 #: https://hsreplay.net/archetypes/273/secret-odd-mage
 msgid "Secret Odd Mage"
@@ -973,10 +969,6 @@ msgstr "祈求手牌术"
 msgid "Embiggen Druid"
 msgstr "巨化德"
 
-#: https://hsreplay.net/archetypes/355/face-hunter
-msgid "Face Hunter"
-msgstr "T7猎"
-
 #: https://hsreplay.net/archetypes/361/wall-druid
 msgid "Wall Druid"
 msgstr "墙德"
@@ -1192,6 +1184,10 @@ msgstr "看客瞎"
 #: https://hsreplay.net/archetypes/335/dragon-druid
 msgid "Dragon Druid"
 msgstr "龙德"
+
+#: https://hsreplay.net/archetypes/355/face-hunter
+msgid "Face Hunter"
+msgstr "T7猎"
 
 #: https://hsreplay.net/archetypes/291/big-warrior
 msgid "Big Warrior"
@@ -1829,9 +1825,9 @@ msgstr "快攻冰DK"
 msgid "Horsemen Demon Hunter"
 msgstr "天启瞎"
 
-#: https://hsreplay.net/archetypes/371/big-demon-hunter
-msgid "Big Demon Hunter"
-msgstr "大哥瞎"
+#: https://hsreplay.net/archetypes/593/manastorm-mage
+msgid "Manastorm Mage"
+msgstr "法力风暴法"
 
 #: https://hsreplay.net/archetypes/582/horsemen-druid
 msgid "Horsemen Druid"
@@ -1873,9 +1869,9 @@ msgstr "大哥鼓圈德"
 msgid "Lightshow Mage"
 msgstr "灯光法"
 
-#: https://hsreplay.net/archetypes/593/manastorm-mage
-msgid "Manastorm Mage"
-msgstr "法力风暴法"
+#: https://hsreplay.net/archetypes/371/big-demon-hunter
+msgid "Big Demon Hunter"
+msgstr "大哥瞎"
 
 #: https://hsreplay.net/archetypes/596/dancing-paladin
 msgid "Dancing Paladin"
@@ -2855,7 +2851,7 @@ msgstr "污手德"
 
 #: https://hsreplay.net/archetypes/841/tick-tock-hunter
 msgid "Tick Tock Hunter"
-msgstr "提克托克猎"
+msgstr "弃牌任务猎"
 
 #: https://hsreplay.net/archetypes/842/imbue-rogue
 msgid "Imbue Rogue"
@@ -2964,4 +2960,56 @@ msgstr "魔网法"
 #: https://hsreplay.net/archetypes/183/silver-hand-paladin
 msgid "Silver Hand Paladin"
 msgstr "报告骑"
+
+#: https://hsreplay.net/archetypes/867/void-demon-hunter
+msgid "Void Demon Hunter"
+msgstr "虚空瞎"
+
+#: https://hsreplay.net/archetypes/868/chef-druid
+msgid "Chef Druid"
+msgstr "主厨德"
+
+#: https://hsreplay.net/archetypes/869/attack-druid
+msgid "Attack Druid"
+msgstr "口德"
+
+#: https://hsreplay.net/archetypes/870/tripwire-hunter
+msgid "Tripwire Hunter"
+msgstr "绊索猎"
+
+#: https://hsreplay.net/archetypes/213/dragon-hunter
+msgid "Dragon Hunter"
+msgstr "龙猎"
+
+#: https://hsreplay.net/archetypes/871/egg-hunter
+msgid "Egg Hunter"
+msgstr "蛋猎"
+
+#: https://hsreplay.net/archetypes/872/contraband-mage
+msgid "Contraband Mage"
+msgstr "私藏法"
+
+#: https://hsreplay.net/archetypes/873/beatrix-paladin
+msgid "Beatrix Paladin"
+msgstr "碧阿崔克丝骑"
+
+#: https://hsreplay.net/archetypes/874/troublemaker-rogue
+msgid "Troublemaker Rogue"
+msgstr "打二贼"
+
+#: https://hsreplay.net/archetypes/875/burn-rogue
+msgid "Burn Rogue"
+msgstr "打脸贼"
+
+#: https://hsreplay.net/archetypes/876/mug-shaman
+msgid "Mug Shaman"
+msgstr "法术萨"
+
+#: https://hsreplay.net/archetypes/878/zee-shaman
+msgid "Zee Shaman"
+msgstr "随从萨"
+
+#: https://hsreplay.net/archetypes/879/archmage-warlock
+msgid "Archmage Warlock"
+msgstr "大法师术"
 

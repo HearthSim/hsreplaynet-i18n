@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-05-07T01:40:27.168939\n"
+"POT-Creation-Date: 2026-07-09T01:40:28.620269\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: pl_PL\n"
-"PO-Revision-Date: 2026-05-07 12:40\n"
+"PO-Revision-Date: 2026-07-09 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -445,10 +445,6 @@ msgstr "Control Shaman"
 msgid "Even Hunter"
 msgstr "Even Hunter"
 
-#: https://hsreplay.net/archetypes/213/dragon-hunter
-msgid "Dragon Hunter"
-msgstr "Dragon Hunter"
-
 #: https://hsreplay.net/archetypes/211/quest-hunter
 msgid "Quest Hunter"
 msgstr "Quest Hunter"
@@ -693,13 +689,13 @@ msgstr "Odd Warrior"
 msgid "Secret Libram Paladin"
 msgstr "Secret Libram Paladin"
 
-#: https://hsreplay.net/archetypes/185/demon-warlock
-msgid "Demon Warlock"
-msgstr "Demon Warlock"
-
 #: https://hsreplay.net/archetypes/161/enrage-warrior
 msgid "Enrage Warrior"
 msgstr "Enrage Warrior"
+
+#: https://hsreplay.net/archetypes/185/demon-warlock
+msgid "Demon Warlock"
+msgstr "Demon Warlock"
 
 #: https://hsreplay.net/archetypes/273/secret-odd-mage
 msgid "Secret Odd Mage"
@@ -973,10 +969,6 @@ msgstr "Galakrond Hand Warlock"
 msgid "Embiggen Druid"
 msgstr "Embiggen Druid"
 
-#: https://hsreplay.net/archetypes/355/face-hunter
-msgid "Face Hunter"
-msgstr "Face Hunter"
-
 #: https://hsreplay.net/archetypes/361/wall-druid
 msgid "Wall Druid"
 msgstr "Wall Druid"
@@ -1192,6 +1184,10 @@ msgstr ""
 #: https://hsreplay.net/archetypes/335/dragon-druid
 msgid "Dragon Druid"
 msgstr "Dragon Druid"
+
+#: https://hsreplay.net/archetypes/355/face-hunter
+msgid "Face Hunter"
+msgstr "Face Hunter"
 
 #: https://hsreplay.net/archetypes/291/big-warrior
 msgid "Big Warrior"
@@ -1829,9 +1825,9 @@ msgstr ""
 msgid "Horsemen Demon Hunter"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/371/big-demon-hunter
-msgid "Big Demon Hunter"
-msgstr "Big Demon Hunter"
+#: https://hsreplay.net/archetypes/593/manastorm-mage
+msgid "Manastorm Mage"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/582/horsemen-druid
 msgid "Horsemen Druid"
@@ -1873,9 +1869,9 @@ msgstr ""
 msgid "Lightshow Mage"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/593/manastorm-mage
-msgid "Manastorm Mage"
-msgstr ""
+#: https://hsreplay.net/archetypes/371/big-demon-hunter
+msgid "Big Demon Hunter"
+msgstr "Big Demon Hunter"
 
 #: https://hsreplay.net/archetypes/596/dancing-paladin
 msgid "Dancing Paladin"
@@ -2964,4 +2960,56 @@ msgstr "Leyline Mage"
 #: https://hsreplay.net/archetypes/183/silver-hand-paladin
 msgid "Silver Hand Paladin"
 msgstr "Silver Hand Paladin"
+
+#: https://hsreplay.net/archetypes/867/void-demon-hunter
+msgid "Void Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/868/chef-druid
+msgid "Chef Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/869/attack-druid
+msgid "Attack Druid"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/870/tripwire-hunter
+msgid "Tripwire Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/213/dragon-hunter
+msgid "Dragon Hunter"
+msgstr "Dragon Hunter"
+
+#: https://hsreplay.net/archetypes/871/egg-hunter
+msgid "Egg Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/872/contraband-mage
+msgid "Contraband Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/873/beatrix-paladin
+msgid "Beatrix Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/874/troublemaker-rogue
+msgid "Troublemaker Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/875/burn-rogue
+msgid "Burn Rogue"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/876/mug-shaman
+msgid "Mug Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/878/zee-shaman
+msgid "Zee Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/879/archmage-warlock
+msgid "Archmage Warlock"
+msgstr ""
 
