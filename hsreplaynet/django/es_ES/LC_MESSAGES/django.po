@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-09 01:40+0000\n"
-"PO-Revision-Date: 2026-07-09 12:40\n"
+"POT-Creation-Date: 2026-07-16 01:40+0000\n"
+"PO-Revision-Date: 2026-07-16 10:28\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -200,7 +200,7 @@ msgstr "Identificador"
 msgid "Created on"
 msgstr "Creado en"
 
-#: templates/account/base.html:14 web/views/dashboard.py:38
+#: templates/account/base.html:14 web/views/dashboard.py:39
 msgid "Account"
 msgstr ""
 
@@ -221,11 +221,11 @@ msgstr "Facturación"
 msgid "Connections"
 msgstr ""
 
-#: templates/account/base.html:21 web/views/dashboard.py:278
+#: templates/account/base.html:21 web/views/dashboard.py:296
 msgid "Applications"
 msgstr ""
 
-#: templates/account/base.html:27 web/views/dashboard.py:89
+#: templates/account/base.html:27 web/views/dashboard.py:90
 msgid "Delete Account"
 msgstr "Borrar cuenta"
 
@@ -1364,35 +1364,35 @@ msgstr "Colección"
 msgid "{user}'s Hearthstone Collection"
 msgstr "{user}'s colección de Hearthstone"
 
-#: web/views/dashboard.py:78
+#: web/views/dashboard.py:79
 msgid "API Access"
 msgstr "Acceso API"
 
-#: web/views/dashboard.py:119
+#: web/views/dashboard.py:120
 msgid "This account cannot be deleted."
 msgstr "Esta cuenta no puede ser borrada."
 
-#: web/views/dashboard.py:138
+#: web/views/dashboard.py:139
 msgid "Your HSReplay.net account has been deleted. It was great having you!"
 msgstr ""
 
-#: web/views/dashboard.py:153
+#: web/views/dashboard.py:154
 msgid "Your replays have been deleted."
 msgstr "Tus repeticiones se han borrado."
 
-#: web/views/dashboard.py:189
+#: web/views/dashboard.py:205
 msgid "You must add a verified email before we can send you marketing emails."
 msgstr ""
 
-#: web/views/dashboard.py:201 web/views/dashboard.py:268
+#: web/views/dashboard.py:217 web/views/dashboard.py:286
 msgid "Your email preferences have been saved."
 msgstr "Tus preferencias de correo se han guardado."
 
-#: web/views/dashboard.py:245
+#: web/views/dashboard.py:261
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr "¡Comprueba tu bandeja de entrada! Hemos enviado un correo electrónico para confirmar tus preferencias de suscripción."
 
-#: web/views/dashboard.py:252 web/views/dashboard.py:258
+#: web/views/dashboard.py:268 web/views/dashboard.py:274
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "Error al guardar tus preferencias de correo electrónico. ¡Por favor, inténtalo de nuevo más tarde!"
 
