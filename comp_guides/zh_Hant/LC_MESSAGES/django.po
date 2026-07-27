@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-21 17:52\n"
+"POT-Creation-Date: 2026-07-27 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-TW\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-07-22 00:40\n"
+"PO-Revision-Date: 2026-07-27 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - APM"
@@ -42,7 +42,7 @@ msgid "Quilboar - APM Felboar"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/76/
-msgid "You must have an insane amount of economy to go for this comp. This is usually achieved with a turn 9 golden brann, or early Brann + Rogers + Privateer. When you have too much economy, you may cycle [[Moon Bacon Jazzer||98930]], [[Fearless Foodie||113154]], spell power, and [[Briarback Drummer||126669]] without running out of gold. This will scale your shop over the course of the game. You'll also generate a ton of spells because of Brann and Shipman, allowing Felboar to eat a huge shop over and over again. [[Tidecaller Prophet||131608]] is the best spell scaling for this comp."
+msgid "You must have an insane amount of economy to go for this comp. This is usually achieved with a turn 9 golden brann, or early Brann + Rogers + Privateer. When you have too much economy, you may cycle [[Moon Bacon Jazzer||98930]], [[Fearless Foodie||113154]], spell power, and [[Briarback Drummer||126669]] without running out of gold. This will scale your shop over the course of the game. You'll also generate a ton of spells by being infinite, allowing Felboar to eat a huge shop over and over again. [[Tidecaller Prophet||131608]] is the best spell scaling for this comp."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/76/
@@ -156,7 +156,7 @@ msgid "Quilboar - Combat Scaling"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/84/
-msgid "Scale your gems mainly using [[Prickly Piper||98946]] and [[Dreaming Thornweaver]] and cycling every [[Moon-Bacon Jazzer||98930]] and [[Fearless Foodie||113154]] that you see. Then, Using [[Redtusk Thornraiser||130153]] to reborn all your quilboars, most importantly Piper and [[Three Lil Quilboar||114486]]. [[Bristlebach||100997]] makes you really strong because of all your reborns, especially when paired with reborn [[Glowgullet Warlord||120031]]. You may reborn taunt [[Pufferquil||97549]], so the reborned Pufferquil also gets venom. You may run an [[Earthsong Shaman||130149]] just to add many stats at the end of the turn. Of course, cycle every [[Hog Watcher||122737]] to give your quilboars Divine Shield."
+msgid "Scale your gems mainly using [[Prickly Piper||98946]] and/or [[Vinespeaker||130157]] and cycling every [[Moon-Bacon Jazzer||98930]] and [[Fearless Foodie||113154]] that you see. Then, Using [[Redtusk Thornraiser||130153]] to reborn all your quilboars, most importantly Piper and [[Three Lil Quilboar||114486]]. [[Bristlebach||100997]] makes you really strong because of all your reborns, especially when paired with reborn [[Glowgullet Warlord||120031]]. You may reborn taunt [[Pufferquil||97549]], so the reborned Pufferquil also gets venom. You may run an [[Earthsong Shaman||130149]] just to add many stats at the end of the turn. Of course, cycle every [[Hog Watcher||122737]] to give your quilboars Divine Shield."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/84/
@@ -303,6 +303,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/77/
 msgid "Deal damage to your own board to scale."
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/63/
+msgid "Quilboar - Gems from Hand"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/63/
+msgid "First, you need [[Prickly Piper||98946]] to enable this build, as it relies on having decent sized gems. When you have prophet + surveyor setup, cycle only good quilboars, which include [[Sun bacon relaxer||70147]], [[Razorfen Geomancer||70143]], and [[Moon bacon Jazzer||98930]]. After you find [[Geomagus Roogug||104766]], it's very powerful to put all gems on it. [[Balinda Stonehearth||130298]] also doubles your Surveyor effect."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/63/
+msgid "[[Prickly Piper||98946]] + Add gems to hand ([[Prophet of the boar||70153]]) + [[Hot Air Surveyor||113152]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/63/
+msgid "[[Prickly Piper||98946]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/63/
+msgid "Add buffed gems to hand"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/20/
