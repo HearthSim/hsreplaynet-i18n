@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-29 01:40+0000\n"
-"PO-Revision-Date: 2026-07-29 12:40\n"
+"POT-Creation-Date: 2026-08-04 01:40+0000\n"
+"PO-Revision-Date: 2026-08-04 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -1396,59 +1396,59 @@ msgstr "Überprüfe deinen Posteingang! Wir haben eine E-Mail gesendet um deine 
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "Fehler beim Speichern der E-Mail-Einstellungen. Bitte versuche es später erneut!"
 
-#: web/views/decks.py:30
+#: web/views/decks.py:44
 #, python-brace-format
 msgid "Best Hearthstone Decks - {month} {year}"
 msgstr "Beste Hearthstone-Decks - {month} {year}"
 
-#: web/views/decks.py:36
+#: web/views/decks.py:50
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
 msgstr "Finde beliebte Hearthstone-Decks für jede Klasse, Karte und Spielmodus. Vergleiche Gewinnraten und finde das Deck für dich!"
 
-#: web/views/decks.py:44 web/views/decks.py:87
+#: web/views/decks.py:58 web/views/decks.py:102
 msgid "Hearthstone Decks"
 msgstr "Hearthstone-Decks"
 
-#: web/views/decks.py:67
+#: web/views/decks.py:82
 #, python-brace-format
 msgid "Best {class} Decks - {month} {year} - Hearthstone"
 msgstr "Beste {class}-Decks - {month} {year} - Hearthstone"
 
-#: web/views/decks.py:76
+#: web/views/decks.py:91
 #, python-format
 msgid "Find popular %s decks for every card and Hearthstone game mode. Compare winrates and find the deck for you!"
 msgstr "Finde beliebte %s-Decks für jede Karte und jeden Hearthstone-Spielmodus. Vergleiche Gewinnraten und finde das Deck für dich!"
 
-#: web/views/decks.py:107
+#: web/views/decks.py:123
 msgid "My Decks"
 msgstr "Meine Decks"
 
-#: web/views/decks.py:128
+#: web/views/decks.py:148
 msgid "Deck does not exist."
 msgstr "Deck ist nicht vorhanden."
 
-#: web/views/decks.py:138
+#: web/views/decks.py:158
 msgid "Deck list is too small."
 msgstr "Deckliste ist zu klein."
 
-#: web/views/decks.py:141
+#: web/views/decks.py:161
 msgid "Deck list contains uncollectible cards."
 msgstr "Deckliste enthält nicht-sammelbare Karten."
 
-#: web/views/decks.py:158
+#: web/views/decks.py:178
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr "{name}-Statistiken und Deckliste. Importe sie: {deckstring}"
 
-#: web/views/decks.py:202
+#: web/views/decks.py:222
 msgid "Trending Hearthstone Decks"
 msgstr "Hearthstone-Decks im Trend"
 
-#: web/views/decks.py:204
+#: web/views/decks.py:224
 msgid "Find the up-and-coming decks with rising popularity in Hearthstone for each class updated every single day."
 msgstr "Finde die Hearthstone-Decks von morgen mittels steigender Beliebtheit, für jede Klasse, jeden Tag aufs Neue."
 
-#: web/views/decks.py:210
+#: web/views/decks.py:230
 msgid "Trending Decks"
 msgstr "Decks im Trend"
 
