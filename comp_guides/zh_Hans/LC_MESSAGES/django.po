@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-27 01:40\n"
+"POT-Creation-Date: 2026-08-04 18:05\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,14 +15,14 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-08-04 12:40\n"
+"PO-Revision-Date: 2026-08-05 00:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - APM"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/67/
-msgid "First, have a ton of economy, typically starting from golden [[Brann Bronzebeard||96786]] or Brann + [[Magicfin Mycologist||122277]], remembering premium economy spells such as Cloning Conch or Battlecry Discovery. Then, your payoff card for all that economy is typically [[Primitive Painter||122281]]. Your payoff can also include [[Bream Counter||98509]] + [[Mrglin'Burglar||114391]] handbuff package, or [[Cousin Errgl||131149]] family package. In any case, you're scaling [[Expert Aviator||126637]], which is the most premium murloc because it can summon any scam card ([[Leeroy The Reckless||90425]]) from your hand."
+msgid "First, have a ton of economy, typically starting from golden [[Brann Bronzebeard||96786]] or Brann + [[Magicfin Mycologist||122277]], remembering premium economy spells such as Cloning Conch or Battlecry Discovery. Then, your payoff card for all that economy is typically [[Primitive Painter||122281]]. Your payoff can also include [[Bream Counter||98509]] + [[Mrglin'Burglar]] handbuff package, or [[Cousin Errgl||131149]] family package. In any case, you're scaling [[Expert Aviator||126637]], which is the most premium murloc because it can summon any scam card ([[Leeroy The Reckless||90425]]) from your hand."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/67/
@@ -42,11 +42,11 @@ msgid "Quilboar - APM Felboar"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/76/
-msgid "You must have an insane amount of economy to go for this comp. This is usually achieved with a turn 9 golden brann, or early Brann + Rogers + Privateer. When you have too much economy, you may cycle [[Moon Bacon Jazzer||98930]], [[Fearless Foodie||113154]], spell power, and [[Briarback Drummer||126669]] without running out of gold. This will scale your shop over the course of the game. You'll also generate a ton of spells by being infinite, allowing Felboar to eat a huge shop over and over again. [[Tidecaller Prophet||131608]] is the best spell scaling for this comp."
+msgid "You must have an insane amount of economy to go for this comp. This is usually achieved with a turn 9 golden brann, or early Brann + Rogers + Privateer. When you have too much economy, you may cycle [[Moon Bacon Jazzer]], [[Fearless Foodie||113154]], spell power, and [[Briarback Drummer||126669]] without running out of gold. This will scale your shop over the course of the game. You'll also generate a ton of spells by being infinite, allowing Felboar to eat a huge shop over and over again. [[Tidecaller Prophet]] is the best spell scaling for this comp."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/76/
-msgid "Early infinite gold + Felboar + Spell Power ([[Tidecaller Prophet||131608]]."
+msgid "Early infinite gold + Felboar + Spell Power ([[Tidecaller Prophet]]."
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/76/
@@ -100,11 +100,11 @@ msgid "Back to Back"
 msgstr "背靠背"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/82/
-msgid "Scale spell power with [[Felfire Conjurer||120299]] + [[Drakkari Enchanter||101314]] to make your Back to Back (Tavern Spell) bigger. Then, use [[Balinda Stonehearth||130298]] to double the scaling and effectiveness of your back to backs. [[Cataclysmic Harbinger||130884]] allows you to print multiple of them every turn. Scale premium units such as [[Blade Collector||99035]]."
+msgid "Scale spell power with [[Felfire Conjurer]] + [[Drakkari Enchanter||101314]] to make your Back to Back (Tavern Spell) bigger. Then, use [[Balinda Stonehearth||130298]] to double the scaling and effectiveness of your back to backs. [[Cataclysmic Harbinger||130884]] allows you to print multiple of them every turn. Scale premium units such as [[Blade Collector||99035]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/82/
-msgid "Back to Back generation ([[Cataclysmic Harbinger||130884]]) + spell power ([[Felfire Conjurer||120299]]) + [[Drakkari Enchanter||101314]]"
+msgid "Back to Back generation ([[Cataclysmic Harbinger||130884]]) + spell power ([[Felfire Conjurer]]) + [[Drakkari Enchanter||101314]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/82/
@@ -122,7 +122,7 @@ msgid "Dragons - Battlecries"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/15/
-msgid "[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +4/4 every single battlecry you play. You want to trigger as many battlecries as possible. After you have your setup, cycle only PREMIUM battlecries, such as [[Tavern Tempest||64077]], [[Refreshing Anomaly||64042]], [[Shell Collector||80740]] or [[Draconic Warden||126860]]. You may run [[Rylak Metalhead||98829]] + [[Draconic Warden||126860]], which farms a lot of battlecries and triples which help a lot with board strength and economy."
+msgid "[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +4/4 every single battlecry you play. You want to trigger as many battlecries as possible. After you have your setup, cycle only PREMIUM battlecries, such as [[Tavern Tempest||64077]], [[Refreshing Anomaly||64042]], [[Shell Collector||80740]] or [[Draconic Warden||126860]]. You may run [[Rylak Metalhead]] + [[Draconic Warden||126860]], which farms a lot of battlecries and triples which help a lot with board strength and economy."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/15/
@@ -138,7 +138,7 @@ msgid "Pirates - Bounty APM"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Sky Admiral Rogers||122516]] combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup.  Cycle [[Tranquil Meditative||119942]], or spell buff Chromadrakes with Brann for spell scaling to make your bounties buff more. You also want to cycle every single free card ([[Refreshing Anomaly||64042]]) and [[Roving Sailor||130705]] so you stay infinite. You may want to scale using [[Brazen Buccaneer||130703]] + [[Drakkari Enchanter||101314]] as well. ADVANCED PLAYERS: After you're infinite, think about the highest possible scaling from your spot. Options include Shop Buff Demons Pivot or [[Fire-forged Evoker||120301]] Pivot or Attack Scaling Undead pivot ([[Forsaken Weaver||126733]])"
+msgid "[[Sky Admiral Rogers||122516]] combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup.  Cycle [[Tranquil Meditative||119942]], or spell buff Chromadrakes with Brann for spell scaling to make your bounties buff more. You also want to cycle every single free card ([[Refreshing Anomaly||64042]]) and [[Roving Sailor]] so you stay infinite. You may want to scale using [[Brazen Buccaneer]] + [[Drakkari Enchanter||101314]] as well. ADVANCED PLAYERS: After you're infinite, think about the highest possible scaling from your spot. Options include Shop Buff Demons Pivot or [[Fire-forged Evoker||120301]] Pivot or Attack Scaling Undead pivot ([[Forsaken Weaver||126733]])"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
@@ -146,7 +146,7 @@ msgid "Bounty Generation ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||1
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Midgame Bounties ([[Bigwig Bandit||122179]]/[[Lost City Looter||122175]])"
+msgid "Midgame Bounties ([[Bigwig Bandit||122179]]/[[Lost City Looter]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/3/
@@ -158,15 +158,15 @@ msgid "Quilboar - Combat Scaling"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/84/
-msgid "Scale your gems mainly using [[Prickly Piper||98946]] and/or [[Vinespeaker||130157]] and cycling every [[Moon-Bacon Jazzer||98930]] and [[Fearless Foodie||113154]] that you see. Then, Using [[Redtusk Thornraiser||130153]] to reborn all your quilboars, most importantly Piper and [[Three Lil Quilboar||114486]]. [[Bristlebach||100997]] makes you really strong because of all your reborns, especially when paired with reborn [[Glowgullet Warlord||120031]]. You may reborn taunt [[Pufferquil||97549]], so the reborned Pufferquil also gets venom. You may run an [[Earthsong Shaman||130149]] just to add many stats at the end of the turn. Of course, cycle every [[Hog Watcher||122737]] to give your quilboars Divine Shield."
+msgid "Scale your gems mainly using [[Prickly Piper]] and/or [[Vinespeaker]] and cycling every [[Moon-Bacon Jazzer]] and [[Fearless Foodie||113154]] that you see. Then, Using [[Redtusk Thornraiser]] to reborn all your quilboars, most importantly Piper and [[Three Lil Quilboar]]. [[Bristlebach]] makes you really strong because of all your reborns, especially when paired with reborn [[Glowgullet Warlord]]. You may reborn taunt [[Pufferquil]], so the reborned Pufferquil also gets venom. You may run an [[Earthsong Shaman]] just to add many stats at the end of the turn. Of course, cycle every [[Hog Watcher]] to give your quilboars Divine Shield."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/84/
-msgid "Gem scaling ([[Prickly Piper||98946]]) + Combat scaling ([[Bristlebach||100997]])"
+msgid "Gem scaling ([[Prickly Piper]]) + Combat scaling ([[Bristlebach]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/84/
-msgid "Gem scaling ([[Prickly Piper||98946]])"
+msgid "Gem scaling ([[Prickly Piper]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/84/
@@ -178,15 +178,15 @@ msgid "Nagas - Combat Scaling/Spell Buff"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/85/
-msgid "Proc [[Ruthless Queensguard||126918]]'s deathratte effect as many times as possible. Your Queen's commands benefit from spell buff ([[Tranquil Meditative||119942]]). [[Maelstrom Emergent||126633]], [[Rylak Metalhead||98829]], reborn on it, [[Titus Rivendare||97408]], [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]] all add multiplier effects on the amount of Queen's Command you cast. For higher cap, have a golden Rylak and put spell power dragon on the left and Queensguard on the right."
+msgid "Proc [[Ruthless Queensguard]]'s deathratte effect as many times as possible. Your Queen's commands benefit from spell buff ([[Tranquil Meditative||119942]]). [[Maelstrom Emergent]], [[Rylak Metalhead]], reborn on it, [[Titus Rivendare||97408]], [[Monstrous Macaw]], [[Brann Bronzebeard||96786]] all add multiplier effects on the amount of Queen's Command you cast. For higher cap, have a golden Rylak and put spell power dragon on the left and Queensguard on the right."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/85/
-msgid "[[Ruthless Queensguard||126918]] + Spell Scaling ([[Tranquil Meditative||119942]])"
+msgid "[[Ruthless Queensguard]] + Spell Scaling ([[Tranquil Meditative||119942]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/85/
-msgid "[[Ruthless Queensguard||126918]]\n"
+msgid "[[Ruthless Queensguard]]\n"
 "Spell scaling ([[Tranquil Meditative||119942]])"
 msgstr ""
 
@@ -199,16 +199,16 @@ msgid "Demons - Damage"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/51/
-msgid "[[Lord of the Ruins||122116]] buffs by having your demons deal damage to minions. The best way to do that is with [[Silent Enforcer||122605]] + [[Titus Rivendare||97408]], which damages all your opponent's minions at once. [[Devout Hellcaller||122586]] and [[Tarecgosa||72062]] are ways to get permanent scaling."
+msgid "[[Lord of the Ruins]] buffs by having your demons deal damage to minions. The best way to do that is with [[Silent Enforcer]] + [[Titus Rivendare||97408]], which damages all your opponent's minions at once. [[Devout Hellcaller||122586]] and [[Tarecgosa||72062]] are ways to get permanent scaling."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/51/
-msgid "[[Silent Enforcer||122605]] + Damage payoff ([[Lord of the Ruins||122116]])"
+msgid "[[Silent Enforcer]] + Damage payoff ([[Lord of the Ruins]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/51/
-msgid "[[Lord of the Ruins||122116]]"
-msgstr "[[Lord of the Ruins||122116]]"
+msgid "[[Lord of the Ruins]]"
+msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/51/
 msgid "Demons deal damage to buff board"
@@ -219,11 +219,11 @@ msgid "Quilboar - Darkgaze"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/59/
-msgid "After you have [[Darkgaze Elder||80756]] and buffed gems ([[Prickly Piper||98946]]), your objective is to spend as much gold as possible. This is usually done if you have [[Brann Bronzebeard||96786]], and you cycle every free battlecry such as [[Shell Collector||80740]] and [[Tavern Tempest||64077]]. You also want to cycle every [[Moon bacon Jazzer||98930]] and [[Fearless foodie||113154]] to help scale. Any quilboar in the addon section is good to fill out the rest of your board."
+msgid "After you have [[Darkgaze Elder]] and buffed gems ([[Prickly Piper]]), your objective is to spend as much gold as possible. This is usually done if you have [[Brann Bronzebeard||96786]], and you cycle every free battlecry such as [[Shell Collector||80740]] and [[Tavern Tempest||64077]]. You also want to cycle every [[Moon bacon Jazzer]] and [[Fearless foodie||113154]] to help scale. Any quilboar in the addon section is good to fill out the rest of your board."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/59/
-msgid "[[Darkgaze Elder||80756]] + Scaled gems ([[Prickly Piper||98946]])"
+msgid "[[Darkgaze Elder]] + Scaled gems ([[Prickly Piper]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/59/
@@ -255,18 +255,17 @@ msgid "Nagas - Deep Blue"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/58/
-msgid "Roll for [[Deep Blue Crooner||98886]], [[Zesty Shaker||99054]], and [[Flaming Enforcer||126924]]. Put your spellcrafts on the shop with Enforcer to gain permanent stats. [[Balinda Stonehearth||130298]] doubles your deepblue stats and scaling if you use it on your board. [[Leyline Surfacer||130294]] provides extra stats after you buff to shop to eat. After you have golden versions of everything, start filling out the rest of your board with scam such as [[Leeroy the Reckless||90425]]."
+msgid "Roll for [[Deep Blue Crooner]], [[Zesty Shaker||99054]], and [[Flaming Enforcer||126924]]. Put your spellcrafts on the shop with Enforcer to gain permanent stats. [[Balinda Stonehearth||130298]] doubles your deepblue stats and scaling if you use it on your board. [[Leyline Surfacer]] provides extra stats after you buff to shop to eat. After you have golden versions of everything, start filling out the rest of your board with scam such as [[Leeroy the Reckless||90425]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/58/
-msgid "Early [[Deep Blue Crooner||98886]] + [[Zesty Shaker||99054]]"
+msgid "Early [[Deep Blue Crooner]] + [[Zesty Shaker||99054]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/58/
-msgid "[[Deep Blue Crooner||98886]]\n"
+msgid "[[Deep Blue Crooner]]\n"
 "[[Zesty Shaker||99054]]"
-msgstr "[[Deep Blue Crooner||98886]]\n"
-"[[Zesty Shaker||99054]]"
+msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/58/
 msgid "Scale Naga's spellcraft"
@@ -277,11 +276,11 @@ msgid "Mechs - Divine Shield"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/21/
-msgid "Use [[Charging Czarina||110321]] to buff your divine shields. [[Deflect-o-bot||61930]] is your best divine shield unit, while [[Divine Sparkbot||123644]] + reborn is your spell generation. Buy every spell that effectively costs 1 (such as [[Recruit a Trainee||103793]] and [[Fortify||103791]])."
+msgid "Use [[Charging Czarina||110321]] to buff your divine shields. [[Deflect-o-bot||61930]] is your best divine shield unit, while [[Divine Sparkbot]] + reborn is your spell generation. Buy every spell that effectively costs 1 (such as [[Recruit a Trainee||103793]] and [[Fortify||103791]])."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/21/
-msgid "2x [[Charging Czarina||110321]] or [[Charging Czarina||110321]] + [[Divine Sparkbot||123644]]"
+msgid "2x [[Charging Czarina||110321]] or [[Charging Czarina||110321]] + [[Divine Sparkbot]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/21/
@@ -297,7 +296,7 @@ msgid "Beasts - Felhorn"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/77/
-msgid "Use [[Rylak Metalhead||98829]] + [[Felhorn||129437]] to have your Felhorn deal damage to your minions multiple times. This will benefit your payoff cards such as [[Lord of the ruins||122116]], which buffs your whole board, or [[Silky Shimmermoth||121135]] which scales your beetles. [[Monstrous Macaw||62230]], reborn, [[Brann Bronzebeard||96786]], [[Titus Rivendare||97408]] ALL provide multipliers for this effect, and stacking multipliers scales your board insanely fast. You usually use [[Refreshing Anomaly||64042]] instead of Felhorn at first to ramp up economy."
+msgid "Use [[Rylak Metalhead]] + [[Felhorn]] to have your Felhorn deal damage to your minions multiple times. This will benefit your payoff cards such as [[Lord of the ruins]], which buffs your whole board, or [[Silky Shimmermoth]] which scales your beetles. [[Monstrous Macaw]], reborn, [[Brann Bronzebeard||96786]], [[Titus Rivendare||97408]] ALL provide multipliers for this effect, and stacking multipliers scales your board insanely fast. You usually use [[Refreshing Anomaly||64042]] instead of Felhorn at first to ramp up economy."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/77/
@@ -313,15 +312,15 @@ msgid "Quilboar - Gems from Hand"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/63/
-msgid "First, you need [[Prickly Piper||98946]] to enable this build, as it relies on having decent sized gems. When you have prophet + surveyor setup, cycle only good quilboars, which include [[Sun bacon relaxer||70147]], [[Razorfen Geomancer||70143]], and [[Moon bacon Jazzer||98930]]. After you find [[Geomagus Roogug||104766]], it's very powerful to put all gems on it. [[Balinda Stonehearth||130298]] also doubles your Surveyor effect."
+msgid "First, you need [[Prickly Piper]] to enable this build, as it relies on having decent sized gems. When you have prophet + surveyor setup, cycle only good quilboars, which include [[Sun bacon relaxer]], [[Razorfen Geomancer||70143]], and [[Moon bacon Jazzer]]. After you find [[Geomagus Roogug]], it's very powerful to put all gems on it. [[Balinda Stonehearth||130298]] also doubles your Surveyor effect."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/63/
-msgid "[[Prickly Piper||98946]] + Add gems to hand ([[Prophet of the boar||70153]]) + [[Hot Air Surveyor||113152]]"
+msgid "[[Prickly Piper]] + Add gems to hand ([[Prophet of the boar]]) + [[Hot Air Surveyor]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/63/
-msgid "[[Prickly Piper||98946]]"
+msgid "[[Prickly Piper]]"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/63/
@@ -333,7 +332,7 @@ msgid "Nagas - Groundbreaker"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/20/
-msgid "First, you must have had a Naga midgame so you casted a lot of spells. Your naga generation setup consists of [[Seafloor Recruiter||126916]] + [[Balinda Stonehearth||130298]] and/or [[Maelstrom Emergent||126633]]. After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Darkcrest Strategist||115555]]."
+msgid "First, you must have had a Naga midgame so you casted a lot of spells. Your naga generation setup consists of [[Seafloor Recruiter||126916]] + [[Balinda Stonehearth||130298]] and/or [[Maelstrom Emergent]]. After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Darkcrest Strategist||115555]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/20/
@@ -353,7 +352,7 @@ msgid "Beasts - Leviathan"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/83/
-msgid "Summon as many beasts as possible after you get early [[Lurking Leviathan||130711]]. You either use [[Sewer Lord||130996]] and/or [[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]]. Then, paired with [[Banana Slamma||98824]], every summon will have a ton of attack. Reborn on [[Sewer Lord||130996]] provides so many summons."
+msgid "Summon as many beasts as possible after you get early [[Lurking Leviathan||130711]]. You either use [[Sewer Lord||130996]] and/or [[Rylak Metalhead]] + [[Hunting Tiger Shark]]. Then, paired with [[Banana Slamma||98824]], every summon will have a ton of attack. Reborn on [[Sewer Lord||130996]] provides so many summons."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/83/
@@ -361,8 +360,8 @@ msgid "Early [[Lurking Leviathan||130711]] + Beast summons ([[Sewer Lord||130996
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/83/
-msgid "[[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]]"
-msgstr "[[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]]"
+msgid "[[Rylak Metalhead]] + [[Hunting Tiger Shark]]"
+msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/83/
 msgid "Make huge attack summons"
@@ -373,11 +372,11 @@ msgid "Mechs - Magnetics"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Generate Magnetics with an early [[Holo Rover||115674]] or [[Scrap Scraper||98592]]. Then, reborn [[Ingenious Inventor||131606]] to stabilize. Resummon it with [[Kangor's Apprentice||59935]] and/or Titus Rivendare. Have some mech summons in the back, such as [[Auto Assembler||120025]] and reborn put on [[Deflect-o-bot||61930]] or [[Falling Sky Golem||130798]]."
+msgid "Generate Magnetics with an early [[Holo Rover]] or [[Scrap Scraper||98592]]. Then, reborn [[Ingenious Inventor]] to stabilize. Resummon it with [[Kangor's Apprentice||59935]] and/or Titus Rivendare. Have some mech summons in the back, such as [[Auto Assembler||120025]] and reborn put on [[Deflect-o-bot||61930]] or [[Falling Sky Golem||130798]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Magnetic Generation ([[Scrap Scraper||98592]]) + [[Ingenious Inventor||131606]]"
+msgid "Magnetic Generation ([[Scrap Scraper||98592]]) + [[Ingenious Inventor]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
@@ -393,18 +392,17 @@ msgid "Undead - Overflow"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/6/
-msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher||114379]] combo. Use [[Monstrous Macaw||62230]] to further proc Cadaver's deathrattle. Instead of [[Cadaver Caretaker||113158]], you may also use [[Lava Lurker||80747]] if you've stacked it with a lot of [[Surf n' Surf||103674]] deathrattles early. You may choose to use [[Archlich Kel'Thuzad||105518]] on a reborn Catacomb Crasher to duplicate it every turn."
+msgid "When the [[Cadaver Caretaker||113158]] deathrattle gets triggered, it'll buff your whole board via the [[Titus Rivendare||97408]] + [[Catacomb Crasher]] combo. Use [[Monstrous Macaw]] to further proc Cadaver's deathrattle. Instead of [[Cadaver Caretaker||113158]], you may also use [[Lava Lurker||80747]] if you've stacked it with a lot of [[Surf n' Surf]] deathrattles early. You may choose to use [[Archlich Kel'Thuzad]] on a reborn Catacomb Crasher to duplicate it every turn."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/6/
-msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher||114379]]"
+msgid "Overflow unit ([[Cadaver Caretaker||113158]]) + [[Catacomb Crasher]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/6/
 msgid "[[Cadaver Caretaker||113158]]\n"
-"[[Lava Lurker||80747]] + [[Surf n' Surf||103674]]"
-msgstr "[[Cadaver Caretaker||113158]]\n"
-"[[Lava Lurker||80747]] + [[Surf n' Surf||103674]]"
+"[[Lava Lurker||80747]] + [[Surf n' Surf]]"
+msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/6/
 msgid "Overflow your board to scale"
@@ -415,18 +413,17 @@ msgid "Beasts - RDU"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/70/
-msgid "Use [[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]] to generate lots of beasts every turn. [[Monstrous Macaw||62230]], [[Brann Bronzebeard||96786]], reborn, and [[Titus Rivendare||97408]] all amplify this effect. When you have your scaling setup with [[Rabid Panther||127111]] + [[Iridescent Skyblazer||107937]] or double Rabid Panther, start buying every single beast to scale your board."
+msgid "Use [[Rylak Metalhead]] + [[Hunting Tiger Shark]] to generate lots of beasts every turn. [[Monstrous Macaw]], [[Brann Bronzebeard||96786]], reborn, and [[Titus Rivendare||97408]] all amplify this effect. When you have your scaling setup with [[Rabid Panther]] + [[Iridescent Skyblazer]] or double Rabid Panther, start buying every single beast to scale your board."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/70/
-msgid "[[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]] + [[Rabid Panther||127111]]"
-msgstr "[[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]] + [[Rabid Panther||127111]]"
+msgid "[[Rylak Metalhead]] + [[Hunting Tiger Shark]] + [[Rabid Panther]]"
+msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/70/
-msgid "[[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]]\n"
-"[[Rabid Panther||127111]]"
-msgstr "[[Rylak Metalhead||98829]] + [[Hunting Tiger Shark||128168]]\n"
-"[[Rabid Panther||127111]]"
+msgid "[[Rylak Metalhead]] + [[Hunting Tiger Shark]]\n"
+"[[Rabid Panther]]"
+msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/70/
 msgid "Cycle beasts to damage themselves and scale"
@@ -437,15 +434,15 @@ msgid "Dragons - Shiny Ring"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/86/
-msgid "Scale your spells using [[Felfire Conjurer||120299]] or [[Tranquil Meditative||119942]]. Then, use [[Ring Bearer||126631]] to cast as many shiny rings mid combat as possible. In order to attack as many times as possible, use [[Twilight Hatchling||126741]] and [[Twilight Broodmother||127236]] paired with [[Titus Rivendare||97408]]. Finally, [[Maelstrom Emergent||126633]] serves as a multiplier for the comp, while [[Persistent Poet||108463]] is able to capture permanent stats."
+msgid "Scale your spells using [[Felfire Conjurer]] or [[Tranquil Meditative||119942]]. Then, use [[Ring Bearer]] to cast as many shiny rings mid combat as possible. In order to attack as many times as possible, use [[Twilight Hatchling]] and [[Twilight Broodmother]] paired with [[Titus Rivendare||97408]]. Finally, [[Maelstrom Emergent]] serves as a multiplier for the comp, while [[Persistent Poet||108463]] is able to capture permanent stats."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/86/
-msgid "Spell scaling ([[Felfire Conjurer||120299]]) + [[Ring Bearer||126631]]"
+msgid "Spell scaling ([[Felfire Conjurer]]) + [[Ring Bearer]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/86/
-msgid "Spell scaling ([[Felfire Conjurer||120299]])"
+msgid "Spell scaling ([[Felfire Conjurer]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/86/
@@ -457,11 +454,11 @@ msgid "Demons - Shop Buff"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Scale your shop somehow, usually it's through [[Consummate Conqueror||130079]]. Then, add fodders to your shop to capture the buffed minions in shop. Typically you have an economy setup with [[Brann Bronzebeard||96786]] + damage rewinder ([[Ashen Corruptor||121687]]) which allows you to cycle a lot of cards. Every card you cycle will add a lot of fodders to eat because of [[Twisted Wrathguard||130662]]."
+msgid "Scale your shop somehow, usually it's through [[Consummate Conqueror]]. Then, add fodders to your shop to capture the buffed minions in shop. Typically you have an economy setup with [[Brann Bronzebeard||96786]] + damage rewinder ([[Ashen Corruptor||121687]]) which allows you to cycle a lot of cards. Every card you cycle will add a lot of fodders to eat because of [[Twisted Wrathguard||130662]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Buffed Shop ([[Consummate Conqueror||130079]]) + [[Twisted Wrathguard||130662]]"
+msgid "Buffed Shop ([[Consummate Conqueror]]) + [[Twisted Wrathguard||130662]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
@@ -479,11 +476,11 @@ msgid "Elementals - Shop Buff/Spells"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/81/
-msgid "First, buff the shop. This is usually done by having [[Rylak Metalhead||98829]] + [[Dancing Barnstormer||99523]] or [[En-Djinn Blazer||126175]]. Keep [[Leyline Surfacer||130294]] for stats. Double the effect of the [[Arcane Absorption||130311]] you get from Leyline using [[Balinda Stonehearth||130298]]. In the endgame, scale up [[Wildfire Elemental||64189]]."
+msgid "First, buff the shop. This is usually done by having [[Rylak Metalhead]] + [[Dancing Barnstormer||99523]] or [[En-Djinn Blazer||126175]]. Keep [[Leyline Surfacer]] for stats. Double the effect of the [[Arcane Absorption]] you get from Leyline using [[Balinda Stonehearth||130298]]. In the endgame, scale up [[Wildfire Elemental||64189]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/81/
-msgid "[[Brann Bronzebeard||96786]] + shop buff ([[En-Djinn Blazer||126175]] + [[Rylak Metalhead||98829]])"
+msgid "[[Brann Bronzebeard||96786]] + shop buff ([[En-Djinn Blazer||126175]] + [[Rylak Metalhead]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/81/
@@ -495,11 +492,11 @@ msgid "Dragons - Spells"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/73/
-msgid "[[Fire-Forged Evoker||120301]] scales with the amount of spells you cast. Your spell generation may come from cycling cards with [[Sky Admiral Rogers||122516]] and [[Proud Privateer||122520]]. Another option for spell generation is [[Ring Bearer||126631]] + [[Twilight Broodmother||127236]], each attack casts a spell which scales your evoker mid combat. Leave [[Persistent Poet||108463]] on your board to capture permanent stats from Evoker."
+msgid "[[Fire-Forged Evoker||120301]] scales with the amount of spells you cast. Your spell generation may come from cycling cards with [[Sky Admiral Rogers||122516]] and [[Proud Privateer||122520]]. Another option for spell generation is [[Ring Bearer]] + [[Twilight Broodmother]], each attack casts a spell which scales your evoker mid combat. Leave [[Persistent Poet||108463]] on your board to capture permanent stats from Evoker."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/73/
-msgid "[[Fire-forged Evoker||120301]] + spell generation ([[Sky Admiral Rogers||122516]], [[Ring Bearer||126631]])"
+msgid "[[Fire-forged Evoker||120301]] + spell generation ([[Sky Admiral Rogers||122516]], [[Ring Bearer]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/73/
@@ -517,7 +514,7 @@ msgid "Beasts - Summons"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/12/
-msgid "[[Goldrinn, the Great Wolf||59955]] + [[Monstrous Macaw||62230]] and [[Titus Rivendare||97408]] gives a huge aura affect to all beasts you summon. Usually, you want to taunt and reborn the Goldrinn so the Macaw always procs it and it always dies. [[Sewer Lord||130996]] is the best summon beast to run in this comp. [[Banana Slamma||98824]] gives your summons lots of attack to deal with stat comps."
+msgid "[[Goldrinn, the Great Wolf||59955]] + [[Monstrous Macaw]] and [[Titus Rivendare||97408]] gives a huge aura affect to all beasts you summon. Usually, you want to taunt and reborn the Goldrinn so the Macaw always procs it and it always dies. [[Sewer Lord||130996]] is the best summon beast to run in this comp. [[Banana Slamma||98824]] gives your summons lots of attack to deal with stat comps."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/12/
@@ -525,8 +522,8 @@ msgid "[[Goldrinn, the Great Wolf||59955]] + beast summons ([[Sewer Lord||130996
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/12/
-msgid "[[Titus Rivendare||97408]] + [[Monstrous Macaw||62230]]"
-msgstr "[[Titus Rivendare||97408]] + [[Monstrous Macaw||62230]]"
+msgid "[[Titus Rivendare||97408]] + [[Monstrous Macaw]]"
+msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/12/
 msgid "Scale summoned beasts in combat"
