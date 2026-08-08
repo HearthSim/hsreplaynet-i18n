@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-06 01:40\n"
+"POT-Creation-Date: 2026-08-08 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Italian\n"
 "Language: it\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: it\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-08-06 12:40\n"
+"PO-Revision-Date: 2026-08-08 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - APM"
@@ -63,7 +63,7 @@ msgid "Undead - Attack Scaling"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Scale the attack of your Undeads and summons with the Butchering spell from [[Drustfallen Butcher||120104]]. Butchering doubles it's effect when paired with [[Balinda Stonehearth||130298]], and also improves with spell scaling from [[Friendly Geist||120219]]. Your quality of summons come from [[Handless Forsaken||95265]] and [[Deathly Striker||115610]]. Be sure to reborn as many key undeads as possible, starting with [[Handless Forsaken||95265]]. [[Snazzy Phantom||133083]] provides a ton of attack and health to your might most unit in combat, but also during the shop phase. Start using Butchering spells on your reborn cards with [[Snazzy Phantom||133083]] on board to capture permanent stats."
+msgid "Scale the attack of your Undeads and summons with the Butchering spell from [[Drustfallen Butcher||120104]]. Butchering doubles it's effect when paired with [[Balinda Stonehearth||130298]], and also improves with spell scaling from [[Friendly Geist||120219]]. Your quality of summons come from [[Handless Forsaken||95265]] and [[Deathly Striker||115610]]. Be sure to reborn as many key undeads as possible, starting with [[Handless Forsaken||95265]]. [[Snazzy Phantom||133083]] provides a ton of attack and health to your right most unit in combat, but also during the shop phase. Start using Butchering spells on your reborn cards with [[Snazzy Phantom||133083]] on board to capture permanent stats."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
@@ -78,6 +78,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/14/
 msgid "Summon high attack Undeads"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/90/
+msgid "Quilboar - Bristlemane"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/90/
+msgid "First, have gems scaled, usually with early [[Gem Rat||116434]]. Then, use [[Vigilant Bristlemane||132320]] to cast gems on the most premium quilboar which is [[Jailbird Juggernaut||132636]]. Balinda is crucial to double Bristemane's effect. Concentrate all your gems on your juggernaut every turn using your Gem Confiscation from [[Trench Fighter||126671]]. In the endgame, starting filling out your board with ending units such as [[Leeroy the Reckless||90425]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/90/
+msgid "Buffed Gems ([[Gem Rat||116434]]) + [[Vigilant Bristlemane||132320]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/90/
+msgid "Buffed gems ([[Gem Rat||116434]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/90/
+msgid "Cast spells on Quilboar to scale."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/88/
@@ -98,6 +118,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/88/
 msgid "Play Choose One cards to scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/68/
+msgid "Mechs - Deathrattle"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/68/
+msgid "First, have a deathrattle midgame to have a scaled [[Falling Sky Golem||130798]] already. Taunt reborn it. Resummon it with [[Kangor's apprentice||59935]]. Fill out the rest of your board with scam such as [[Leeroy the Reckless||90425]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/68/
+msgid "[[Falling Sky Golem||130798]] + [[Kangor's Apprentice||59935]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/68/
+msgid "Big [[Falling Sky Golem||130798]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/68/
+msgid "Summon huge golems"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/83/
