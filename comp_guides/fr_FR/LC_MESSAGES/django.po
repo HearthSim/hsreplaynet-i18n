@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-08 01:40\n"
+"POT-Creation-Date: 2026-08-11 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: fr\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-08-08 12:40\n"
+"PO-Revision-Date: 2026-08-11 10:45\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - APM"
@@ -199,6 +199,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Scale and consume shop"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/37/
+msgid "Elementals - Stat scaling"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/37/
+msgid "Buff your stat scaling through either [[Moat Custodian||132981]] or early [[Glowing Cinder||119951]]. Then, if you have Manasurge, cycle every good elemental ([[Sellemental||64038]], [[Tavern Tempest||64077]], [[Refreshing Anomaly||64042]], [[Sand Swirler||119949]]). It's even better if you cycle those cards with [[Brann Bronzebeard||96786]]. If your economy is really good you can add [[Unbound Tempest||132983]] while buffing the shop,"
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/37/
+msgid "[[Unleashed Mana Surge||120674]] + [[Brann Bronzebeard||96786]] + Stat scaling ([[Glowing Cinder||119951]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/37/
+msgid "[[Glowing Cinder||119951]] + Ele Midgameuyh\n"
+"[[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/37/
+msgid "Buff stat scaling on Elementals."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/87/

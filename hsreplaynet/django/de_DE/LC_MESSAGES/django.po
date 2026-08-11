@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-04 18:05+0000\n"
-"PO-Revision-Date: 2026-08-05 00:40\n"
+"POT-Creation-Date: 2026-08-11 01:40+0000\n"
+"PO-Revision-Date: 2026-08-11 10:45\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 #: api/exceptions.py:21
 msgid "An upstream gateway returned an invalid response."
-msgstr ""
+msgstr "Ein vorgelagertes Gateway hat eine ungültige Antwort zurückgegeben."
 
 #: api/exceptions.py:27
 msgid "An upstream gateway timed out."
-msgstr ""
+msgstr "Ein vorgelagertes Gateway hat das Zeitlimit überschritten."
 
 #: api/exceptions.py:33
 msgid "The entity cannot be processed."
@@ -259,7 +259,12 @@ msgid "Hello,\n\n"
 "If this was not you, you can simply ignore this email.\n\n"
 "Cheers,\n"
 "The HSReplay.net Team\n"
-msgstr ""
+msgstr "Hallo,\n\n"
+"Du erhältst diese E-Mail, weil du (oder jemand anderes) versucht, deine HSReplay.net-E-Mail-Adresse zu ändern. Wir müssen verifizieren, dass sie dir gehört.\n\n"
+"Falls das korrekt ist, besuche innerhalb von drei Tagen zur Bestätigung die folgende URL:\n\n"
+"%(activate_url)s\n\n"
+"Falls du das nicht warst, kannst du diese E-Mail ignorieren.\n\n"
+"Das HSReplay.net-Team\n"
 
 #: templates/account/email/email_confirmation_signup_message.txt:1
 #, python-format
@@ -270,7 +275,12 @@ msgid "Hello,\n\n"
 "If this was not you, you can simply ignore this email.\n\n"
 "Cheers,\n"
 "The HSReplay.net Team\n"
-msgstr ""
+msgstr "Hallo,\n\n"
+"Du erhältst diese E-Mail, weil du (oder jemand anderes) versucht, mit dieser E-Mail-Adresse ein neues HSReplay.net-Konto zu erstellen. Wir müssen verifizieren, dass sie dir gehört.\n\n"
+"Falls das korrekt ist, besuche innerhalb von drei Tagen zur Bestätigung die folgende URL:\n\n"
+"%(activate_url)s\n\n"
+"Falls du das nicht warst, kannst du diese E-Mail ignorieren.\n\n"
+"Das HSReplay.net-Team\n"
 
 #: templates/account/email_change.html:6
 msgid "Email Address"
@@ -300,7 +310,7 @@ msgstr "Entfernen"
 #: templates/account/email_change.html:43
 #, python-format
 msgid "Your account's email address is currently set to <strong>%(email)s</strong>"
-msgstr ""
+msgstr "Die E-Mail-Adresse deines Kontos ist derzeit auf <strong>%(email)s</strong> festgelegt"
 
 #: templates/account/email_change.html:59
 msgid "Change Email"
@@ -316,7 +326,7 @@ msgstr "Benachrichtigungseinstellungen"
 
 #: templates/account/email_change.html:77
 msgid "Control which types of emails you want receive from us:"
-msgstr ""
+msgstr "Konfiguriere, welche Arten von E-Mails du von uns erhalten möchtest:"
 
 #: templates/account/email_change.html:83
 msgid "Account & security (required)"
@@ -375,13 +385,13 @@ msgstr "Benötigst du Hilfe? <a href=\"%(contact_url)s\">Kontaktiere uns</a>."
 
 #: templates/account/password_reset_done.html:10
 msgid "We have sent you an email. If you have not received it please check your spam folder."
-msgstr ""
+msgstr "Wir haben dir eine E-Mail gesendet. Falls du sie nicht erhalten hast, überprüfe bitte deinen Spam-Ordner."
 
 #: templates/account/password_reset_done.html:14
 #: templates/account/verification_sent.html:15
 #, python-format
 msgid "Please <a href=\"%(contact_url)s\">contact us</a> if you do not receive it within a few minutes."
-msgstr ""
+msgstr "Bitte <a href=\"%(contact_url)s\">kontaktiere uns</a> falls du sie nicht innerhalb weniger Minuten erhältst."
 
 #: templates/account/password_reset_from_key_done.html:8
 msgid "Your password has been changed."
@@ -390,7 +400,7 @@ msgstr "Dein Passwort wurde geändert."
 #: templates/account/password_reset_from_key_done.html:14
 #, python-format
 msgid "You can now return to our <a href=\"%(login_url)s\">login page</a> to sign in with it.</p>"
-msgstr ""
+msgstr "Du kannst nun zu unserer <a href=\"%(login_url)s\">Anmeldeseite</a> zurückkehren, um dich damit anzumelden.</p>"
 
 #: templates/account/password_set.html:5 templates/account/password_set.html:9
 #: templates/account/password_set.html:14
@@ -431,7 +441,7 @@ msgstr "Ich akzeptiere die <a href=\"%(tos_url)s\">Nutzungsbedingungen</a>."
 #: templates/account/snippets/already_logged_in.html:5
 #, python-format
 msgid "You are already logged in as %(user)s."
-msgstr ""
+msgstr "Du bist bereits als %(user)s angemeldet."
 
 #: templates/account/verification_sent.html:7
 msgid "Verify your e-mail address"
@@ -455,7 +465,7 @@ msgstr ""
 
 #: templates/footer.html:33
 msgid "Join our Discord server"
-msgstr ""
+msgstr "Tritt unserem Discord-Server bei"
 
 #: templates/footer.html:39
 msgid "Follow us on X"
@@ -477,7 +487,7 @@ msgstr "Nicht mit Blizzard Entertainment assoziiert."
 msgid "Deck Tracker"
 msgstr ""
 
-#: templates/footer.html:69 templates/navigation.html:268
+#: templates/footer.html:69 templates/navigation.html:281
 #: web/views/premium.py:31
 msgid "Premium"
 msgstr "Premium"
@@ -514,8 +524,8 @@ msgstr "Schlachtfeld-Helden"
 msgid "Battlegrounds Comps"
 msgstr ""
 
-#: templates/footer.html:83 web/views/battlegrounds.py:901
-#: web/views/battlegrounds.py:951
+#: templates/footer.html:83 web/views/battlegrounds.py:920
+#: web/views/battlegrounds.py:970
 msgid "Battlegrounds Minions"
 msgstr "Schlachtfeld-Diener"
 
@@ -531,31 +541,35 @@ msgstr ""
 msgid "Battlegrounds Trinkets"
 msgstr "Schlachtfeld-Schmuckstücke"
 
-#: templates/footer.html:87
+#: templates/footer.html:87 web/views/battlegrounds.py:674
+msgid "Battlegrounds Dark Gifts"
+msgstr ""
+
+#: templates/footer.html:88
 msgid "Battlegrounds Timewarp"
 msgstr ""
 
-#: templates/footer.html:93
+#: templates/footer.html:94
 msgid "Support"
 msgstr "Support"
 
-#: templates/footer.html:106
+#: templates/footer.html:107
 msgid "Help Center"
 msgstr "Hilfezentrum"
 
-#: templates/footer.html:108
+#: templates/footer.html:109
 msgid "Your Account"
 msgstr "Dein Konto"
 
-#: templates/footer.html:111
+#: templates/footer.html:112
 msgid "Terms of Service"
 msgstr "Nutzungsbedingungen"
 
-#: templates/footer.html:114
+#: templates/footer.html:115
 msgid "Privacy Policy"
 msgstr "Datenschutzerklärung"
 
-#: templates/footer.html:116
+#: templates/footer.html:117
 msgid "Get in Touch"
 msgstr "Kontaktiere uns"
 
@@ -575,10 +589,10 @@ msgstr "Navigation umschalten"
 #: web/views/battlegrounds.py:343 web/views/battlegrounds.py:427
 #: web/views/battlegrounds.py:443 web/views/battlegrounds.py:504
 #: web/views/battlegrounds.py:573 web/views/battlegrounds.py:629
-#: web/views/battlegrounds.py:673 web/views/battlegrounds.py:689
-#: web/views/battlegrounds.py:748 web/views/battlegrounds.py:905
-#: web/views/battlegrounds.py:976 web/views/battlegrounds.py:1084
-#: web/views/battlegrounds.py:1601
+#: web/views/battlegrounds.py:682 web/views/battlegrounds.py:692
+#: web/views/battlegrounds.py:708 web/views/battlegrounds.py:767
+#: web/views/battlegrounds.py:924 web/views/battlegrounds.py:995
+#: web/views/battlegrounds.py:1103 web/views/battlegrounds.py:1620
 msgid "Battlegrounds"
 msgstr "Schlachtfeld"
 
@@ -602,7 +616,7 @@ msgstr "Tier-Liste"
 msgid "Parties"
 msgstr "Gruppen"
 
-#: templates/navigation.html:93 templates/navigation.html:282
+#: templates/navigation.html:93 templates/navigation.html:295
 #: web/views/__init__.py:200
 msgid "Downloads"
 msgstr "Downloads"
@@ -611,82 +625,86 @@ msgstr "Downloads"
 msgid "Overlay"
 msgstr ""
 
-#: templates/navigation.html:110 web/views/battlegrounds.py:428
-#: web/views/battlegrounds.py:757
-msgid "Heroes"
-msgstr "Helden"
-
-#: templates/navigation.html:122 web/views/battlegrounds.py:505
-msgid "Trinkets"
-msgstr "Schmuckstücke"
-
-#: templates/navigation.html:135 web/views/battlegrounds.py:1085
-msgid "Timewarp"
-msgstr ""
-
-#: templates/navigation.html:148 web/views/battlegrounds.py:690
-msgid "Darkmoon Prizes"
-msgstr "Dunkelmond-Preise"
-
-#: templates/navigation.html:159 web/views/battlegrounds.py:444
-#: web/views/battlegrounds.py:1610
-msgid "Comps"
-msgstr ""
-
-#: templates/navigation.html:171 web/views/battlegrounds.py:630
-msgid "Quests"
-msgstr "Quests"
-
-#: templates/navigation.html:174
-msgid "NEW"
-msgstr "NEU"
-
-#: templates/navigation.html:188 web/views/battlegrounds.py:574
-msgid "Anomalies"
-msgstr "Anomalien"
-
-#: templates/navigation.html:199 web/views/battlegrounds.py:906
-#: web/views/battlegrounds.py:977
-msgid "Minions"
-msgstr "Diener"
-
-#: templates/navigation.html:213 templates/navigation.html:217
-#: templates/navigation.html:271 templates/navigation.html:274
+#: templates/navigation.html:114 templates/navigation.html:118
+#: templates/navigation.html:284 templates/navigation.html:287
 msgid "SALE!"
 msgstr "ANGEBOT!"
 
-#: templates/navigation.html:226
+#: templates/navigation.html:130 web/views/battlegrounds.py:444
+#: web/views/battlegrounds.py:1629
+msgid "Comps"
+msgstr ""
+
+#: templates/navigation.html:142 web/views/battlegrounds.py:505
+msgid "Trinkets"
+msgstr "Schmuckstücke"
+
+#: templates/navigation.html:155 web/views/battlegrounds.py:1104
+msgid "Timewarp"
+msgstr ""
+
+#: templates/navigation.html:168 web/views/battlegrounds.py:709
+msgid "Darkmoon Prizes"
+msgstr "Dunkelmond-Preise"
+
+#: templates/navigation.html:181 web/views/battlegrounds.py:630
+msgid "Quests"
+msgstr "Quests"
+
+#: templates/navigation.html:184
+msgid "NEW"
+msgstr "NEU"
+
+#: templates/navigation.html:198 web/views/battlegrounds.py:683
+msgid "Dark Gifts"
+msgstr "Dunkle Gaben"
+
+#: templates/navigation.html:211 web/views/battlegrounds.py:574
+msgid "Anomalies"
+msgstr "Anomalien"
+
+#: templates/navigation.html:222 web/views/battlegrounds.py:428
+#: web/views/battlegrounds.py:776
+msgid "Heroes"
+msgstr "Helden"
+
+#: templates/navigation.html:232 web/views/battlegrounds.py:925
+#: web/views/battlegrounds.py:996
+msgid "Minions"
+msgstr "Diener"
+
+#: templates/navigation.html:239
 msgid "Trending"
 msgstr "Im Trend"
 
-#: templates/navigation.html:234 templates/navigation.html:240
+#: templates/navigation.html:247 templates/navigation.html:253
 msgid "Meta"
 msgstr "Meta"
 
-#: templates/navigation.html:235
+#: templates/navigation.html:248
 msgid "Back soon!"
 msgstr "Bald zurück!"
 
-#: templates/navigation.html:247
+#: templates/navigation.html:260
 msgid "Decks"
 msgstr "Decks"
 
-#: templates/navigation.html:253 web/views/arena.py:73 web/views/cards.py:41
+#: templates/navigation.html:266 web/views/arena.py:73 web/views/cards.py:41
 #: web/views/cards.py:178
 msgid "Cards"
 msgstr "Karten"
 
-#: templates/navigation.html:260 web/views/arena.py:24 web/views/arena.py:41
+#: templates/navigation.html:273 web/views/arena.py:24 web/views/arena.py:41
 #: web/views/arena.py:72 web/views/arena.py:90 web/views/arena.py:118
 msgid "Arena"
 msgstr ""
 
-#: templates/navigation.html:311
+#: templates/navigation.html:324
 #, python-format
 msgid " View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
 msgstr ""
 
-#: templates/navigation.html:325
+#: templates/navigation.html:338
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
@@ -705,7 +723,7 @@ msgstr ""
 
 #: templates/react_base_faq.html:12
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "Häufig gestellte Fragen"
 
 #: templates/snippets/noscript.html:5
 msgid "It looks like you have Javascript turned off. This page will not work correctly. <a href=\"https://enable-javascript.com/\" target=\"_blank\" rel=\"noopener\">Here is how to enable it</a>."
@@ -950,83 +968,83 @@ msgstr ""
 
 #: web/views/arenasmith.py:9
 msgid "Pick the strongest cards in Arena with Arenasmith"
-msgstr ""
+msgstr "Wähle mit Arenasmith die stärksten Karten in der Arena"
 
 #: web/views/arenasmith.py:17
 msgid "What is Arenasmith?"
-msgstr ""
+msgstr "Was ist Arenasmith?"
 
 #: web/views/arenasmith.py:19
 msgid "Arenasmith is a draft assistant for Hearthstone Arena and Underground Arena, built by the team behind HSReplay.net and Hearthstone Deck Tracker."
-msgstr ""
+msgstr "Arenasmith ist ein Draft-Assistent für die Hearthstone-Arena und den Untergrund, entwickelt vom Team hinter HSReplay.net und Hearthstone Deck Tracker."
 
 #: web/views/arenasmith.py:25
 msgid "What does Arenasmith do?"
-msgstr ""
+msgstr "Was macht Arenasmith?"
 
 #: web/views/arenasmith.py:27
 msgid "Heroes and cards you are offered in a draft are automatically rated by Arenasmith based on their past in-game performance and your existing picks. It also shows card synergies, what other cards might be generated, and other helpful information."
-msgstr ""
+msgstr "Helden und Karten, die dir im Draft angeboten werden, werden von Arenasmith automatisch bewertet, basierend darauf, wie sie in vergangenen Partien abgeschnitten haben und auf deinen bereits gewählten Karten. Es zeigt außerdem Kartensynergien an, welche anderen Karten generiert werden könnten, und weitere hilfreiche Informationen."
 
 #: web/views/arenasmith.py:34
 msgid "How does Arenasmith calculate card ratings?"
-msgstr ""
+msgstr "Wie berechnet Arenasmith die Kartenbewertungen?"
 
 #: web/views/arenasmith.py:36
 msgid "The card ratings are calculated across hundreds of thousands of matches from other players, and then dynamically adjusted based on the cards you have already drafted. For example, if you have already picked cards that synergize well with an offered card, Arenasmith will show a better card rating than usual for that card."
-msgstr ""
+msgstr "Die Kartenbewertungen werden anhand hunderttausender Partien anderer Spieler berechnet und dann dynamisch auf Grundlage der bereits gedrafteten Karten angepasst. Wenn du zum Beispiel bereits Karten ausgewählt hast, die gut mit einer angebotenen Karte zusammenspielen, zeigt Arenasmith für diese Karte eine bessere Kartenbewertung als üblich."
 
 #: web/views/arenasmith.py:44
 msgid "How do I access Arenasmith?"
-msgstr ""
+msgstr "Wie kann ich auf Arenasmith zugreifen?"
 
 #: web/views/arenasmith.py:46
 msgid "Arenasmith is a Premium feature available in Hearthstone Deck Tracker. It will automatically appear on the Arena or Underground Arena screen before you start a new draft."
-msgstr ""
+msgstr "Arenasmith ist eine Premium-Funktion, die im Hearthstone Deck Tracker verfügbar ist. Es erscheint automatisch im Arena- oder Untergrund-Bildschirm, bevor du einen neuen Draft startest."
 
 #: web/views/arenasmith.py:52
 msgid "Do I need to pay to use Arenasmith?"
-msgstr ""
+msgstr "Ist die Benutzung von Arenasmith kostenpflichtig?"
 
 #: web/views/arenasmith.py:54
 msgid "As a subscriber to our Premium or Bundle subscription, you can use Arenasmith as often as you want in your drafts."
-msgstr ""
+msgstr "Als Abonnent unseres Premium- oder Bundle-Abos kannst du Arenasmith in deinen Drafts so oft nutzen, wie du möchtest."
 
 #: web/views/arenasmith.py:58
 msgid "As a free user, you can trial Arenasmith for ten drafts, and then one draft that resets each week. You can see how many Arenasmith trials you have remaining on the Arena screen in Hearthstone."
-msgstr ""
+msgstr "Als kostenloser Nutzer kannst du Arenasmith in zehn Drafts testen, danach in einem Draft, der jede Woche zurückgesetzt wird. Wie viele Arenasmith-Tests dir noch verbleiben, siehst du auf dem Arena-Bildschirm in Hearthstone."
 
 #: web/views/arenasmith.py:64
 msgid "Is Arenasmith available for both The Arena and Underground Arena?"
-msgstr ""
+msgstr "Ist Arenasmith sowohl für die Arena als auch für den Untergrund verfügbar?"
 
 #: web/views/arenasmith.py:66
 msgid "Yes! Arenasmith is available for all Arena drafts. As a free user, your number of trial drafts is shared across the two game modes."
-msgstr ""
+msgstr "Ja! Arenasmith ist für alle Arena-Drafts verfügbar. Als kostenloser Nutzer wird deine Anzahl an Test-Drafts zwischen beiden Spielmodi geteilt."
 
 #: web/views/arenasmith.py:71
 msgid "How do I know if the Card Ratings are available for Arenasmith?"
-msgstr ""
+msgstr "Woran erkenne ich, ob die Kartenbewertungen für Arenasmith verfügbar sind?"
 
 #: web/views/arenasmith.py:73
 msgid "Arenasmith is usually available. If it isn't, there will be a message on the Arena screen in Hearthstone before you start a draft. If you decide to proceed anyway and are a free user, this will not use one of your free drafts."
-msgstr ""
+msgstr "Arenasmith ist normalerweise verfügbar. Wenn nicht, erscheint eine Meldung auf dem Arena-Bildschirm in Hearthstone, bevor du einen Draft startest. Wenn du dich als kostenloser Nutzer dennoch entscheidest fortzufahren, verbraucht dies keinen deiner kostenlosen Drafts."
 
 #: web/views/arenasmith.py:81
 msgid "How long after an expansion or Arena pool update do the Card Ratings update?"
-msgstr ""
+msgstr "Wie lange nach einer Erweiterung oder einem Update des Arena-Pools werden die Kartenbewertungen aktualisiert?"
 
 #: web/views/arenasmith.py:85
 msgid "We're currently targeting ~24 hours to collect enough data to power new card ratings for that season, but this may speed up in future."
-msgstr ""
+msgstr "Wir peilen derzeit ~24 Stunden an, um genügend Daten zu sammeln, um neue Kartenbewertungen für die jeweilige Saison bereitzustellen, aber das könnte sich in Zukunft beschleunigen."
 
 #: web/views/arenasmith.py:90
 msgid "Is Arenasmith available for macOS?"
-msgstr ""
+msgstr "Ist Arenasmith für macOS verfügbar?"
 
 #: web/views/arenasmith.py:92
 msgid "Currently, Arenasmith is not available for macOS through HSTracker. We are planning on adding support in the future!"
-msgstr ""
+msgstr "Derzeit ist Arenasmith über HSTracker nicht für macOS verfügbar. Wir planen, die Unterstützung in Zukunft hinzuzufügen!"
 
 #: web/views/arenasmith.py:100
 msgid "Arenasmith - Draft Assistant for Hearthstone Arena"
@@ -1034,7 +1052,7 @@ msgstr "Arenasmith - Draftassistent für Hearthstone Arena"
 
 #: web/views/battlegrounds.py:145
 msgid "Download Hearthstone Deck Tracker for Battlegrounds"
-msgstr ""
+msgstr "Hearthstone Deck Tracker für Battlegrounds herunterladen"
 
 #: web/views/battlegrounds.py:162
 msgid "Is Hearthstone Deck Tracker free?"
@@ -1184,139 +1202,143 @@ msgstr ""
 msgid "Explore our Battlegrounds Quests List and learn which quests are the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:670
+#: web/views/battlegrounds.py:676
+msgid "Explore our Battlegrounds Dark Gifts List and learn which dark gifts are the best - powered by data from millions of games."
+msgstr ""
+
+#: web/views/battlegrounds.py:689
 msgid "Battlegrounds Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:674
+#: web/views/battlegrounds.py:693
 msgid "Duos Heroes"
 msgstr ""
 
-#: web/views/battlegrounds.py:686
+#: web/views/battlegrounds.py:705
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr "Schlachtfeld Dunkelmond-Preise"
 
-#: web/views/battlegrounds.py:695
+#: web/views/battlegrounds.py:714
 msgid "Battlegrounds Hero"
 msgstr "Schlachtfeld-Held"
 
-#: web/views/battlegrounds.py:717
+#: web/views/battlegrounds.py:736
 msgid "No matching hero found."
 msgstr "Kein passender Held gefunden."
 
-#: web/views/battlegrounds.py:893
+#: web/views/battlegrounds.py:912
 msgid "Battlegrounds Duos Hero"
 msgstr ""
 
-#: web/views/battlegrounds.py:913
+#: web/views/battlegrounds.py:932
 msgid "Beast"
 msgstr ""
 
-#: web/views/battlegrounds.py:914
+#: web/views/battlegrounds.py:933
 msgid "Demon"
 msgstr ""
 
-#: web/views/battlegrounds.py:915
+#: web/views/battlegrounds.py:934
 msgid "Dragon"
 msgstr ""
 
-#: web/views/battlegrounds.py:916
+#: web/views/battlegrounds.py:935
 msgid "Elemental"
 msgstr ""
 
-#: web/views/battlegrounds.py:917
+#: web/views/battlegrounds.py:936
 msgid "Mech"
 msgstr ""
 
-#: web/views/battlegrounds.py:918
+#: web/views/battlegrounds.py:937
 msgid "Murloc"
 msgstr ""
 
-#: web/views/battlegrounds.py:919
+#: web/views/battlegrounds.py:938
 msgid "Naga"
 msgstr ""
 
-#: web/views/battlegrounds.py:920
+#: web/views/battlegrounds.py:939
 msgid "Pirate"
 msgstr ""
 
-#: web/views/battlegrounds.py:921
+#: web/views/battlegrounds.py:940
 msgid "Quilboar"
 msgstr ""
 
-#: web/views/battlegrounds.py:922
+#: web/views/battlegrounds.py:941
 msgid "Undead"
 msgstr ""
 
-#: web/views/battlegrounds.py:934
+#: web/views/battlegrounds.py:953
 msgid "Invalid Tavern Tier."
 msgstr ""
 
-#: web/views/battlegrounds.py:940
+#: web/views/battlegrounds.py:959
 msgid "No matching minion type found."
 msgstr ""
 
-#: web/views/battlegrounds.py:954
+#: web/views/battlegrounds.py:973
 #, python-brace-format
 msgid "Battlegrounds {type} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:959
+#: web/views/battlegrounds.py:978
 #, python-brace-format
 msgid "Battlegrounds Tier {tier} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:963
+#: web/views/battlegrounds.py:982
 #, python-brace-format
 msgid "Battlegrounds Tier {tier} {type} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:1000 web/views/battlegrounds.py:1029
+#: web/views/battlegrounds.py:1019 web/views/battlegrounds.py:1048
 msgid "Battlegrounds Minion"
 msgstr "Schlachtfeld-Diener"
 
-#: web/views/battlegrounds.py:1021
+#: web/views/battlegrounds.py:1040
 msgid "No matching minion found."
 msgstr "Kein passender Diener gefunden."
 
-#: web/views/battlegrounds.py:1076
+#: web/views/battlegrounds.py:1095
 msgid "Battlegrounds Timewarped Cards"
 msgstr ""
 
-#: web/views/battlegrounds.py:1078
+#: web/views/battlegrounds.py:1097
 msgid "Explore the Minions, Spells & Hero Powers available in each of the Timewarped Tavern shops"
 msgstr ""
 
-#: web/views/battlegrounds.py:1422
+#: web/views/battlegrounds.py:1441
 msgid "Battlegrounds Compositions"
 msgstr ""
 
-#: web/views/battlegrounds.py:1428 web/views/battlegrounds.py:1458
+#: web/views/battlegrounds.py:1447 web/views/battlegrounds.py:1477
 msgid "Battlegrounds Composition"
 msgstr ""
 
-#: web/views/battlegrounds.py:1451
+#: web/views/battlegrounds.py:1470
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:1453
+#: web/views/battlegrounds.py:1472
 msgid "No matching composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:1552
+#: web/views/battlegrounds.py:1571
 msgid "Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:1572
+#: web/views/battlegrounds.py:1591
 msgid "No matching comp found."
 msgstr ""
 
-#: web/views/battlegrounds.py:1585
+#: web/views/battlegrounds.py:1604
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr "{tribe_name} - {obj.name}"
 
-#: web/views/battlegrounds.py:1667
+#: web/views/battlegrounds.py:1686
 msgid "My Battlegrounds Stats"
 msgstr "Meine Schlachtfeldstatistiken"
 
