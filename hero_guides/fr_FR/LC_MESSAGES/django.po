@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-04T18:05:46.069894\n"
+"POT-Creation-Date: 2026-08-12T01:40:27.817332\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -15,12 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2026-08-11 10:45\n"
-
-#: https://hsreplay.net/battlegrounds/heroes/117425/ Hero id 117425 | Guide id
-#: 696
-msgid "This hero power is mainly used to gain 1 gold per turn, similar to Murloc Holmes."
-msgstr ""
+"PO-Revision-Date: 2026-08-12 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/117409/ Hero id 117409 | Guide id
 #: 695
@@ -42,19 +37,9 @@ msgstr ""
 msgid "The Zerg gives you tempo so you can level fast while saving HP. I don't recommend playing into it and sell it at some point."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/129684/ Hero id 129684 | Guide id
-#: 707
-msgid "The best heroes are choose are either the ones that you wouldn't use on turns 1-3 anyways, such as Reno Jackson, or the ones that have low armor, such as Trade Prince Gallywix."
-msgstr ""
-
-#: https://hsreplay.net/battlegrounds/heroes/116920/ Hero id 116920 | Guide id
-#: 700
-msgid "Always hero power the first 3 turns, freezing a 2 cost spell turn 1 if you can. Turn 4 onwards, you can choose to stop hero powering if buying a good minion is better. Definitely stop hero powering after turn 6 if you don't want to die."
-msgstr ""
-
-#: https://hsreplay.net/battlegrounds/heroes/118509/ Hero id 118509 | Guide id
-#: 697
-msgid "This hero is only great when you can cheat out a second battlecruiser, so look at for Timewarps that do that."
+#: https://hsreplay.net/battlegrounds/heroes/132608/ Hero id 132608 | Guide id
+#: 709
+msgid "Generally very strong hero that gets a ton of free value."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/126537/ Hero id 126537 | Guide id
@@ -72,14 +57,34 @@ msgstr ""
 msgid "This hero really likes value generating timewarps on turn 5, such as Tavern Tipper and Valestraz."
 msgstr ""
 
+#: https://hsreplay.net/battlegrounds/heroes/132578/ Hero id 132578 | Guide id
+#: 708
+msgid "Most of the time take a core card for a comp and commit to it. For example, pick [[Drustfallen Butcher||120104]] and commit Undead."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/127696/ Hero id 127696 | Guide id
 #: 703
 msgid "If committed to a tribe, you need 3 of that tribe to qualifying for that tribe's timewarp cards."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/122925/ Hero id 122925 | Guide id
-#: 702
-msgid "Summon cards such as [[Harmless Bonehead||104551]] or [[Twilight Hatchling]] are great because they'll give you more attacks so you get more hero power procs. Use those discovers to help you find direction."
+#: https://hsreplay.net/battlegrounds/heroes/117425/ Hero id 117425 | Guide id
+#: 696
+msgid "Sometimes it makes sense to buy a spell and then hero power early game if it makes more sense gold wise. For example, 2 cost spell turn 3."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/116920/ Hero id 116920 | Guide id
+#: 700
+msgid "Always hero power the first 3 turns, freezing a 2 cost spell turn 1 if you can. Turn 4 onwards, you can choose to stop hero powering if buying a good minion or dark gifting is better. Definitely stop hero powering after turn 5."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/129684/ Hero id 129684 | Guide id
+#: 707
+msgid "The best heroes to choose are either the ones that you wouldn't use on turns 1-3 anyways, such as Reno Jackson, or the ones that have low armor, such as Trade Prince Gallywix."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/118509/ Hero id 118509 | Guide id
+#: 697
+msgid "This hero is only great when you can cheat out a second battlecruiser, so look out for Trimkets that do that such as Lens Case."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/61910/ Hero id 61910 | Guide id
@@ -102,6 +107,11 @@ msgstr ""
 msgid "Getting a value quest such as Pagle's Fishing Rod on Turn 8 is usually pretty sick, depending on your setup."
 msgstr ""
 
+#: https://hsreplay.net/battlegrounds/heroes/122925/ Hero id 122925 | Guide id
+#: 702
+msgid "Summon cards such as [[Harmless Bonehead||104551]] are great because they'll give you more attacks so you get more hero power procs. Use those discovers to help you find direction."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/82110/ Hero id 82110 | Guide id
 #: 213
 msgid "Must have beasts, undeads, and/or dragons to start farming hero power early on. [[Twilight Hatchling]] and [[Harmless Bonehead||104551]] are premium on this hero."
@@ -112,14 +122,14 @@ msgstr ""
 msgid "On turn 3, copy a 2 drop or a copy of your turn 1 1 drop. For turn 9, hero power has extra synergy with [[Drakkari Enchanter||101314]], allowing you to copy more copies of powerful cards."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/96870/ Hero id 96870 | Guide id
-#: 381
-msgid "This hero provides some early game tempo, and has some lategame potential with venomous on random cards."
-msgstr ""
-
 #: https://hsreplay.net/battlegrounds/heroes/86013/ Hero id 86013 | Guide id
 #: 272
 msgid "Your hero power will save some HP, but don't play into it."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/96870/ Hero id 96870 | Guide id
+#: 381
+msgid "This hero provides some early game tempo, and has some lategame potential with venomous on random cards. Prefers non Undead lobbies where scam does the best."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/103500/ Hero id 103500 | Guide id
@@ -142,11 +152,6 @@ msgstr ""
 msgid "Buy most pirates in the early game to fill out your board fast so you can level."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/101345/ Hero id 101345 | Guide id
-#: 424
-msgid "After going 3 on 3 or 3 on 4, hero power on turns 4, 5, and 6. Value generating buddies such as Lil KT are the best."
-msgstr ""
-
 #: https://hsreplay.net/battlegrounds/heroes/68129/ Hero id 68129 | Guide id
 #: 35
 msgid "This hero is the best with cycle tribes, because the hero power benefits from you buying a ton of cards. These tribes include Pirates, Elementals, and Murlocs, and try to play one of these compositions."
@@ -155,6 +160,11 @@ msgstr ""
 #: https://hsreplay.net/battlegrounds/heroes/97186/ Hero id 97186 | Guide id
 #: 371
 msgid "MUST buy [[Surf n' Surf]] early so you can print a crab every time your hero power. You may also use your hero power on [[Cadaver Caretaker||113158]] for free triples!"
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/101345/ Hero id 101345 | Guide id
+#: 424
+msgid "After going taverm 3 on turn 3 or tavern 3 on turn 4, hero power on turns 4, 5, and 6. Value generating buddies such as Lil KT are the best."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/57924/ Hero id 57924 | Guide id
@@ -242,6 +252,11 @@ msgstr ""
 msgid "A ticket is roughly worth 1 gold, so any 1 cost spell with a ticket is worth buying. However, don't buy useless units for the sake of buying a ticket."
 msgstr ""
 
+#: https://hsreplay.net/battlegrounds/heroes/85125/ Hero id 85125 | Guide id
+#: 293
+msgid "This hero provides free early game tempo. Don’t have to play into Nagas that hard."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/79618/ Hero id 79618 | Guide id
 #: 252
 msgid "It's worth buying the highest attack units in your shop and pointy arrows to complete your quest ASAP. You ideally want this quest done turn 6 the latest. Then, start leveling and force a Naga comp."
@@ -249,11 +264,6 @@ msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/64403/ Hero id 64403 | Guide id 5
 msgid "Rally units are really nice with this hero power to attack twice with them, most commonly [[Monstrous Macaw]]."
-msgstr ""
-
-#: https://hsreplay.net/battlegrounds/heroes/85125/ Hero id 85125 | Guide id
-#: 293
-msgid "This hero provides free early game tempo. Overall decent."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/75702/ Hero id 75702 | Guide id
@@ -315,19 +325,9 @@ msgstr ""
 msgid "Use your hero power for early game tempo, saving HP and allowing you to level aggressively."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/73940/ Hero id 73940 | Guide id
-#: 87
-msgid "Buff some divine shields and play for top 4. This hero doesn't have enough economy to consistently win."
-msgstr ""
-
 #: https://hsreplay.net/battlegrounds/heroes/80832/ Hero id 80832 | Guide id
 #: 232
 msgid "Even though you want to play Mechs eventually, Undead and Beasts provide the best early game summons so you can start having minions die early on."
-msgstr ""
-
-#: https://hsreplay.net/battlegrounds/heroes/80239/ Hero id 80239 | Guide id
-#: 167
-msgid "Slightly prefer comps that concentrate stats such as Back to Back or Groundbreaker, but mainly llay what you're given."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/61490/ Hero id 61490 | Guide id
@@ -335,8 +335,14 @@ msgstr ""
 msgid "If you triple into or buy a battlecry card, you can play it to get its battlecry effect and then transform it again to a good tempo unit."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/63601/ Hero id 63601 | Guide id 1
-msgid "Some 7 drops are broken with Jandice. With the Elemental one, you can swap your biggest unit and double its stats. With the Naga one, you can copy your best unit. with the Mech one, you can create a magnetic stack and double its stats and effects every turn."
+#: https://hsreplay.net/battlegrounds/heroes/73940/ Hero id 73940 | Guide id
+#: 87
+msgid "This hero gets a lot of free stats early game which allows you to level fast without taking damage. Most of the time, level to tavern 3 turn 4 and tavern 4 turn 5 and then your hero falls off starting mid game."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/80239/ Hero id 80239 | Guide id
+#: 167
+msgid "Slightly prefer comps that concentrate stats on a big unit such as Magnetic Mechs but mostly just play normally and enjoy the powerful late game hero power."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/59814/ Hero id 59814 | Guide id
@@ -352,6 +358,10 @@ msgstr ""
 #: https://hsreplay.net/battlegrounds/heroes/57635/ Hero id 57635 | Guide id
 #: 110
 msgid "You may choose to play this hero power normally. You may also do a curve where you stay on 1, hero power and freeze every turn including turn 1, until you hit something you like from a higher tier. Value generating cards such as [[Seafloor Recruiter||126916]] are the best."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/63601/ Hero id 63601 | Guide id 1
+msgid "With [[Polarizing Beatboxer||98713]], you can create a magnetic stack and double its stats and effects every turn."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/66196/ Hero id 66196 | Guide id
@@ -494,7 +504,7 @@ msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/74631/ Hero id 74631 | Guide id
 #: 37
-msgid "Economy cards such as [[Freedealing Gambler]], [[Sellemental||64038]], and [[Patient Scout||97604]] are must buys to get hero power procs early on."
+msgid "Economy cards such as [[Tad]], [[Sellemental||64038]], and [[Patient Scout||97604]] are must buys to get hero power procs early on."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/71454/ Hero id 71454 | Guide id
@@ -502,14 +512,14 @@ msgstr ""
 msgid "Most of the benefit from this hero power is giving 1/1 or 2/2 to every minion you buy in the early game. The hero power scales a bit too slow to play into, it just serves as an enabler to shop buff demons."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/59807/ Hero id 59807 | Guide id
-#: 119
-msgid "Prioritize first buffing the shop and then finding [[Twisted Wrathguard||130662]] to best capitalize on the 2 demons per turn. Run a permanent [[Soul Rewinder||100949]] on this hero."
-msgstr ""
-
 #: https://hsreplay.net/battlegrounds/heroes/61489/ Hero id 61489 | Guide id
 #: 40
 msgid "Turn 1 if you have a 2 cost spell in your first shop, buy it and then roll and you'll likely roll into a 1 cost spell that you can then buy."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/59807/ Hero id 59807 | Guide id
+#: 119
+msgid "Prioritize first buffing the shop and then finding [[Twisted Wrathguard||130662]] or [[Insatiable Ur’zul||72060]] to best capitalize on the 2 demons per turn. Run a permanent [[Soul Rewinder||100949]] on this hero."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/76562/ Hero id 76562 | Guide id
@@ -519,12 +529,17 @@ msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/71908/ Hero id 71908 | Guide id
 #: 51
-msgid "Did you know OP hero powers such as Reno or Zerek appear less frequently?"
+msgid "Early game go for hero powers that give you a gold or buy minions for cheap, late game hope for combat heroes such as Drekthar or Vandar."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/71458/ Hero id 71458 | Guide id
 #: 21
 msgid "Your hero power is used to give you stats whenever you have gold left over in the early game. It's not strong enough to play into, even with quilboars."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/80247/ Hero id 80247 | Guide id
+#: 168
+msgid "Slightly prefer comps that concentrate stats such as Back to Back or Groundbreaker, but mainly llay what you're given."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/71916/ Hero id 71916 | Guide id

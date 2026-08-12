@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-04T18:05:46.069894\n"
+"POT-Creation-Date: 2026-08-12T01:40:27.817332\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,12 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-08-07 12:40\n"
-
-#: https://hsreplay.net/battlegrounds/heroes/117425/ Hero id 117425 | Guide id
-#: 696
-msgid "This hero power is mainly used to gain 1 gold per turn, similar to Murloc Holmes."
-msgstr "这个英雄技能主要用来每回合获得1铸币，类似摩洛克·福尔摩斯。"
+"PO-Revision-Date: 2026-08-12 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/117409/ Hero id 117409 | Guide id
 #: 695
@@ -42,20 +37,10 @@ msgstr "你要反复复制强力的法术。前期有[[钻探原油||104029]]或
 msgid "The Zerg gives you tempo so you can level fast while saving HP. I don't recommend playing into it and sell it at some point."
 msgstr "异虫能提供节奏，让你快速升级同时节省生命值。我不建议玩它，应该在某个时机将其卖出。"
 
-#: https://hsreplay.net/battlegrounds/heroes/129684/ Hero id 129684 | Guide id
-#: 707
-msgid "The best heroes are choose are either the ones that you wouldn't use on turns 1-3 anyways, such as Reno Jackson, or the ones that have low armor, such as Trade Prince Gallywix."
-msgstr "最好的英雄要么是你无论如何都不会在第 1-3 回合使用的，比如雷诺·杰克逊，要么是护甲很低的，比如贸易亲王加里维克斯。"
-
-#: https://hsreplay.net/battlegrounds/heroes/116920/ Hero id 116920 | Guide id
-#: 700
-msgid "Always hero power the first 3 turns, freezing a 2 cost spell turn 1 if you can. Turn 4 onwards, you can choose to stop hero powering if buying a good minion is better. Definitely stop hero powering after turn 6 if you don't want to die."
-msgstr "前3个回合一定要使用英雄技能，如果可以的话，在第1回合冻结一个2费法术。第4回合以后，如果买到一个好的随从，你可以选择停止使用英雄技能。如果你不想死，第6回合后一定要停止使用英雄技能。"
-
-#: https://hsreplay.net/battlegrounds/heroes/118509/ Hero id 118509 | Guide id
-#: 697
-msgid "This hero is only great when you can cheat out a second battlecruiser, so look at for Timewarps that do that."
-msgstr "只有当你能通过一些手段再获得一艘战列巡洋舰时，这个英雄才会变得强大，所以要留意那些能实现这一点的时空扭曲卡。"
+#: https://hsreplay.net/battlegrounds/heroes/132608/ Hero id 132608 | Guide id
+#: 709
+msgid "Generally very strong hero that gets a ton of free value."
+msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/126537/ Hero id 126537 | Guide id
 #: 704
@@ -72,14 +57,34 @@ msgstr "母舰是最好的选择。通过购买所有实际花费为1的物品([
 msgid "This hero really likes value generating timewarps on turn 5, such as Tavern Tipper and Valestraz."
 msgstr "这个英雄真的很喜欢在第5回合拿产生价值的时空扭曲，比如小费酒客和瓦拉斯塔兹。"
 
+#: https://hsreplay.net/battlegrounds/heroes/132578/ Hero id 132578 | Guide id
+#: 708
+msgid "Most of the time take a core card for a comp and commit to it. For example, pick [[Drustfallen Butcher||120104]] and commit Undead."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/127696/ Hero id 127696 | Guide id
 #: 703
 msgid "If committed to a tribe, you need 3 of that tribe to qualifying for that tribe's timewarp cards."
 msgstr "如果你选定了一个种族，你需要3个该种族的随从才能获得该种族的时空扭曲卡。"
 
-#: https://hsreplay.net/battlegrounds/heroes/122925/ Hero id 122925 | Guide id
-#: 702
-msgid "Summon cards such as [[Harmless Bonehead||104551]] or [[Twilight Hatchling]] are great because they'll give you more attacks so you get more hero power procs. Use those discovers to help you find direction."
+#: https://hsreplay.net/battlegrounds/heroes/117425/ Hero id 117425 | Guide id
+#: 696
+msgid "Sometimes it makes sense to buy a spell and then hero power early game if it makes more sense gold wise. For example, 2 cost spell turn 3."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/116920/ Hero id 116920 | Guide id
+#: 700
+msgid "Always hero power the first 3 turns, freezing a 2 cost spell turn 1 if you can. Turn 4 onwards, you can choose to stop hero powering if buying a good minion or dark gifting is better. Definitely stop hero powering after turn 5."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/129684/ Hero id 129684 | Guide id
+#: 707
+msgid "The best heroes to choose are either the ones that you wouldn't use on turns 1-3 anyways, such as Reno Jackson, or the ones that have low armor, such as Trade Prince Gallywix."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/118509/ Hero id 118509 | Guide id
+#: 697
+msgid "This hero is only great when you can cheat out a second battlecruiser, so look out for Trimkets that do that such as Lens Case."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/61910/ Hero id 61910 | Guide id
@@ -102,6 +107,11 @@ msgstr "大多数对局中你都会在第4回合提升到3级酒馆，然后在�
 msgid "Getting a value quest such as Pagle's Fishing Rod on Turn 8 is usually pretty sick, depending on your setup."
 msgstr "在第8回合获得像帕格的鱼竿这样的价值饰品通常非常不错，具体效果取决于你的阵容。"
 
+#: https://hsreplay.net/battlegrounds/heroes/122925/ Hero id 122925 | Guide id
+#: 702
+msgid "Summon cards such as [[Harmless Bonehead||104551]] are great because they'll give you more attacks so you get more hero power procs. Use those discovers to help you find direction."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/82110/ Hero id 82110 | Guide id
 #: 213
 msgid "Must have beasts, undeads, and/or dragons to start farming hero power early on. [[Twilight Hatchling]] and [[Harmless Bonehead||104551]] are premium on this hero."
@@ -112,15 +122,15 @@ msgstr ""
 msgid "On turn 3, copy a 2 drop or a copy of your turn 1 1 drop. For turn 9, hero power has extra synergy with [[Drakkari Enchanter||101314]], allowing you to copy more copies of powerful cards."
 msgstr "在第3回合，复制一个2级随从或者复制你第1回合拿的随从。第9回合，英雄技能与 [[达卡莱附魔师||101314]]有额外的协同作用，使你能够复制更多强力卡牌的复制。"
 
-#: https://hsreplay.net/battlegrounds/heroes/96870/ Hero id 96870 | Guide id
-#: 381
-msgid "This hero provides some early game tempo, and has some lategame potential with venomous on random cards."
-msgstr "这位英雄在游戏前期提供一定的节奏，并且通过随机卡牌上的烈毒效果在后期具备一定潜力。"
-
 #: https://hsreplay.net/battlegrounds/heroes/86013/ Hero id 86013 | Guide id
 #: 272
 msgid "Your hero power will save some HP, but don't play into it."
 msgstr "你的英雄技能会帮你少掉点血，但别玩它。"
+
+#: https://hsreplay.net/battlegrounds/heroes/96870/ Hero id 96870 | Guide id
+#: 381
+msgid "This hero provides some early game tempo, and has some lategame potential with venomous on random cards. Prefers non Undead lobbies where scam does the best."
+msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/103500/ Hero id 103500 | Guide id
 #: 453
@@ -142,11 +152,6 @@ msgstr "第1回合后，记录每个人的酒馆1级随从！摩洛克·福尔�
 msgid "Buy most pirates in the early game to fill out your board fast so you can level."
 msgstr "在游戏前期购买最多的海盗来快速填满你的棋盘，这样你就可以升级了。"
 
-#: https://hsreplay.net/battlegrounds/heroes/101345/ Hero id 101345 | Guide id
-#: 424
-msgid "After going 3 on 3 or 3 on 4, hero power on turns 4, 5, and 6. Value generating buddies such as Lil KT are the best."
-msgstr "在第3回合升3或第4回合升3之后，第4、5、6回合使用英雄技能。像小克这样的生成资源的伙伴是最好的。"
-
 #: https://hsreplay.net/battlegrounds/heroes/68129/ Hero id 68129 | Guide id
 #: 35
 msgid "This hero is the best with cycle tribes, because the hero power benefits from you buying a ton of cards. These tribes include Pirates, Elementals, and Murlocs, and try to play one of these compositions."
@@ -155,6 +160,11 @@ msgstr "这个英雄最适合可以打循环流的种族，因为英雄技能会
 #: https://hsreplay.net/battlegrounds/heroes/97186/ Hero id 97186 | Guide id
 #: 371
 msgid "MUST buy [[Surf n' Surf]] early so you can print a crab every time your hero power. You may also use your hero power on [[Cadaver Caretaker||113158]] for free triples!"
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/101345/ Hero id 101345 | Guide id
+#: 424
+msgid "After going taverm 3 on turn 3 or tavern 3 on turn 4, hero power on turns 4, 5, and 6. Value generating buddies such as Lil KT are the best."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/57924/ Hero id 57924 | Guide id
@@ -242,6 +252,11 @@ msgstr "你不必每回合都使用英雄技能，只有当你剩1铸币时才�
 msgid "A ticket is roughly worth 1 gold, so any 1 cost spell with a ticket is worth buying. However, don't buy useless units for the sake of buying a ticket."
 msgstr "一张暗月奖券大约价值1铸币，因此任何带有暗月奖券的1费法术都值得购买。但是也不要为了买暗月奖券而买无用的随从。"
 
+#: https://hsreplay.net/battlegrounds/heroes/85125/ Hero id 85125 | Guide id
+#: 293
+msgid "This hero provides free early game tempo. Don’t have to play into Nagas that hard."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/79618/ Hero id 79618 | Guide id
 #: 252
 msgid "It's worth buying the highest attack units in your shop and pointy arrows to complete your quest ASAP. You ideally want this quest done turn 6 the latest. Then, start leveling and force a Naga comp."
@@ -250,11 +265,6 @@ msgstr "建议在商店中购买攻击力最高的单位和尖利箭矢，以尽
 #: https://hsreplay.net/battlegrounds/heroes/64403/ Hero id 64403 | Guide id 5
 msgid "Rally units are really nice with this hero power to attack twice with them, most commonly [[Monstrous Macaw]]."
 msgstr ""
-
-#: https://hsreplay.net/battlegrounds/heroes/85125/ Hero id 85125 | Guide id
-#: 293
-msgid "This hero provides free early game tempo. Overall decent."
-msgstr "这个英雄在前期能提供免费的节奏。整体表现不错。"
 
 #: https://hsreplay.net/battlegrounds/heroes/75702/ Hero id 75702 | Guide id
 #: 16
@@ -315,29 +325,25 @@ msgstr "帕奇维克2.0，只有在第 3、4 或 5 回合没有更好的1铸币�
 msgid "Use your hero power for early game tempo, saving HP and allowing you to level aggressively."
 msgstr "在游戏初期使用英雄技能来获得游戏节奏，节省血量并让你能够积极地提升酒馆等级。"
 
-#: https://hsreplay.net/battlegrounds/heroes/73940/ Hero id 73940 | Guide id
-#: 87
-msgid "Buff some divine shields and play for top 4. This hero doesn't have enough economy to consistently win."
-msgstr "给一些圣盾随从加Buff，争取前4名。这个英雄没有足够的经济来持续获胜。"
-
 #: https://hsreplay.net/battlegrounds/heroes/80832/ Hero id 80832 | Guide id
 #: 232
 msgid "Even though you want to play Mechs eventually, Undead and Beasts provide the best early game summons so you can start having minions die early on."
 msgstr "尽管你最终还是想玩机械流，但亡灵和野兽提供了最好的游戏前期召唤物，因此你可以在游戏初期就更多让随从死亡。"
-
-#: https://hsreplay.net/battlegrounds/heroes/80239/ Hero id 80239 | Guide id
-#: 167
-msgid "Slightly prefer comps that concentrate stats such as Back to Back or Groundbreaker, but mainly llay what you're given."
-msgstr "稍微倾向于那些集中数值属性的流派，比如“背靠背”或“碎地者”流派，但主要还是得看你给的东西。"
 
 #: https://hsreplay.net/battlegrounds/heroes/61490/ Hero id 61490 | Guide id
 #: 41
 msgid "If you triple into or buy a battlecry card, you can play it to get its battlecry effect and then transform it again to a good tempo unit."
 msgstr "如果你三连出或购买一张战吼牌，你可以打出它来获得其战吼效果，然后再将其转化为一个良好的节奏单位。"
 
-#: https://hsreplay.net/battlegrounds/heroes/63601/ Hero id 63601 | Guide id 1
-msgid "Some 7 drops are broken with Jandice. With the Elemental one, you can swap your biggest unit and double its stats. With the Naga one, you can copy your best unit. with the Mech one, you can create a magnetic stack and double its stats and effects every turn."
-msgstr "有些7级随从与詹迪斯配合简直太强了。对于7级元素，你可以交换你最大的单位并使其属性翻倍。对于7级纳迦，你可以复制你最好的单位。对于7级机械，你可以创建一个堆叠磁力随从，并使其属性和效果每回合翻倍。"
+#: https://hsreplay.net/battlegrounds/heroes/73940/ Hero id 73940 | Guide id
+#: 87
+msgid "This hero gets a lot of free stats early game which allows you to level fast without taking damage. Most of the time, level to tavern 3 turn 4 and tavern 4 turn 5 and then your hero falls off starting mid game."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/80239/ Hero id 80239 | Guide id
+#: 167
+msgid "Slightly prefer comps that concentrate stats on a big unit such as Magnetic Mechs but mostly just play normally and enjoy the powerful late game hero power."
+msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/59814/ Hero id 59814 | Guide id
 #: 120
@@ -353,6 +359,10 @@ msgstr "你可以选择使用[[义肢假手||112364]]复生伙伴，并召唤如
 #: 110
 msgid "You may choose to play this hero power normally. You may also do a curve where you stay on 1, hero power and freeze every turn including turn 1, until you hit something you like from a higher tier. Value generating cards such as [[Seafloor Recruiter||126916]] are the best."
 msgstr "你可以选择正常使用这个英雄技能。你也可以选择一种策略，停留在1级酒馆，每回合使用英雄技能并冻结，直到在更高等级找到满意的卡牌。资源生成型卡牌例如[[海床招募者||126916]] 最佳。"
+
+#: https://hsreplay.net/battlegrounds/heroes/63601/ Hero id 63601 | Guide id 1
+msgid "With [[Polarizing Beatboxer||98713]], you can create a magnetic stack and double its stats and effects every turn."
+msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/66196/ Hero id 66196 | Guide id
 #: 13
@@ -494,7 +504,7 @@ msgstr "尝试在第5回合升级到4级酒馆获取早期的 [[自动装配机|
 
 #: https://hsreplay.net/battlegrounds/heroes/74631/ Hero id 74631 | Guide id
 #: 37
-msgid "Economy cards such as [[Freedealing Gambler]], [[Sellemental||64038]], and [[Patient Scout||97604]] are must buys to get hero power procs early on."
+msgid "Economy cards such as [[Tad]], [[Sellemental||64038]], and [[Patient Scout||97604]] are must buys to get hero power procs early on."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/71454/ Hero id 71454 | Guide id
@@ -502,15 +512,15 @@ msgstr ""
 msgid "Most of the benefit from this hero power is giving 1/1 or 2/2 to every minion you buy in the early game. The hero power scales a bit too slow to play into, it just serves as an enabler to shop buff demons."
 msgstr "这个英雄技能的主要优势是在游戏早期为你购买的每个随从提供1/1或2/2的增益。该英雄技能的成长速度有点太慢了，难以作为主要玩法，它主要作为强化商店恶魔的辅助手段。"
 
-#: https://hsreplay.net/battlegrounds/heroes/59807/ Hero id 59807 | Guide id
-#: 119
-msgid "Prioritize first buffing the shop and then finding [[Twisted Wrathguard||130662]] to best capitalize on the 2 demons per turn. Run a permanent [[Soul Rewinder||100949]] on this hero."
-msgstr "优先强化商店，然后寻找 [[扭曲的愤怒卫士||130662]] 以充分利用每回合两个恶魔。这个英雄场上永远要留一个 [[灵魂回溯者||100949]]。"
-
 #: https://hsreplay.net/battlegrounds/heroes/61489/ Hero id 61489 | Guide id
 #: 40
 msgid "Turn 1 if you have a 2 cost spell in your first shop, buy it and then roll and you'll likely roll into a 1 cost spell that you can then buy."
 msgstr "如果你在第1回合商店里有一张2铸币的法术，就买下它并刷新，你很可能会掷到一张1铸币的法术，可以再买它。"
+
+#: https://hsreplay.net/battlegrounds/heroes/59807/ Hero id 59807 | Guide id
+#: 119
+msgid "Prioritize first buffing the shop and then finding [[Twisted Wrathguard||130662]] or [[Insatiable Ur’zul||72060]] to best capitalize on the 2 demons per turn. Run a permanent [[Soul Rewinder||100949]] on this hero."
+msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/76562/ Hero id 76562 | Guide id
 #: 172
@@ -519,13 +529,18 @@ msgstr "游戏前期，使用英雄技能用2铸币\"购买\"一个随从来填�
 
 #: https://hsreplay.net/battlegrounds/heroes/71908/ Hero id 71908 | Guide id
 #: 51
-msgid "Did you know OP hero powers such as Reno or Zerek appear less frequently?"
-msgstr "你知道雷诺或泽里克等超模的英雄技能的出现率较低吗？"
+msgid "Early game go for hero powers that give you a gold or buy minions for cheap, late game hope for combat heroes such as Drekthar or Vandar."
+msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/71458/ Hero id 71458 | Guide id
 #: 21
 msgid "Your hero power is used to give you stats whenever you have gold left over in the early game. It's not strong enough to play into, even with quilboars."
 msgstr "你的英雄技能用于在游戏早期有剩余铸币时为你提供属性。即使有野猪人，它也不够强大，不值得主动使用。"
+
+#: https://hsreplay.net/battlegrounds/heroes/80247/ Hero id 80247 | Guide id
+#: 168
+msgid "Slightly prefer comps that concentrate stats such as Back to Back or Groundbreaker, but mainly llay what you're given."
+msgstr "稍微倾向于那些集中数值属性的流派，比如“背靠背”或“碎地者”流派，但主要还是得看你给的东西。"
 
 #: https://hsreplay.net/battlegrounds/heroes/71916/ Hero id 71916 | Guide id
 #: 36
