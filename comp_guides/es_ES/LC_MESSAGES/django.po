@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-11 01:40\n"
+"POT-Creation-Date: 2026-08-15 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish\n"
 "Language: es\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-ES\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-08-11 10:45\n"
+"PO-Revision-Date: 2026-08-15 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - APM"
@@ -80,6 +80,26 @@ msgstr ""
 msgid "Summon high attack Undeads"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Pirates - Bounty APM"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
+msgid "[[Sky Admiral Rogers||122516]] combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup.  Cycle [[Tranquil Meditative||119942]], or spell buff Chromadrakes with Brann for spell scaling to make your bounties buff more. You also want to cycle every single free card ([[Refreshing Anomaly||64042]]) so you stay infinite. After you're infinite, think about the highest possible scaling from your spot. Options include [[Fire-forged Evoker||120301]] Pivot or Attack Scaling Undead pivot ([[Forsaken Weaver||126733]])"
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Bounty Generation ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
+msgid "[[Sky Admiral Rogers||122516]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Bounties generate gold and stats"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/90/
 msgid "Quilboar - Bristlemane"
 msgstr ""
@@ -138,6 +158,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/68/
 msgid "Summon huge golems"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/20/
+msgid "Nagas - Groundbreaker"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/20/
+msgid "First, you must have had a Naga midgame so you casted a lot of spells. Your naga generation setup consists of [[Seafloor Recruiter||126916]] + [[Balinda Stonehearth||130298]] and/or [[Sky-Hatch Runaway||132957]]. After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Darkcrest Strategist||115555]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/20/
+msgid "[[Seafloor Recruiter||126916]] plus [[Groundbreaker||114816]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/20/
+msgid "[[Seafloor Recruiter||126916]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/20/
+msgid "Play spells and nagas to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/83/
@@ -201,6 +241,26 @@ msgstr ""
 msgid "Scale and consume shop"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/55/
+msgid "Nagas - Spell Casting"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/55/
+msgid "[[Torrential Ruiner||133707]] buffs your board every time you cast a spell on a naga. [[Fauna Whisperer||120905]] casts spells on nagas at the end of your turn, and [[Seafloor Recruiter||126916]] generate nagas that might have spellcraft. [[Balinda Stonehearth||130298]] doubles both of these effects. Could run [[Drakkari Enchanter||101314]] to additionally double Fauna's effect. Cycle good spell generation cards such as [[Fearless Foodie||113154]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/55/
+msgid "[[Torrential Ruiner||133707]] + spell generation/[[Balinda Stonehearth||130298]]."
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/55/
+msgid "[[Torrential Ruiner||133707]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/55/
+msgid "Play spells to buff Nagas"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/37/
 msgid "Elementals - Stat scaling"
 msgstr ""
@@ -240,5 +300,25 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/87/
 msgid "Trigger Deathrattle to scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Murlocs - Venom Scam"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Aim to golden [[Expert Aviator||126637]] and give it venom using [[Bile Spitter||122219]]. Then, the Aviator will pull many scam units from your hand. Could give murlocs permanent Venom using [[Sky-hatch Runaway||132957]] as well."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
+msgid "When you have no future or are clearly getting outstatted"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Getting outscaled"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/8/
+msgid "Buy scam cards and try to preserve placements"
 msgstr ""
 
