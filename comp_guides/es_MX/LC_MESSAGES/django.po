@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-15 01:40\n"
+"POT-Creation-Date: 2026-08-17 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-MX\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-08-15 12:40\n"
+"PO-Revision-Date: 2026-08-17 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - APM"
@@ -36,6 +36,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Play spells to scale Murlocs."
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/76/
+msgid "Quilboar - APM Felboar"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/76/
+msgid "You must have an insane amount of economy to go for this comp. This is usually achieved with a turn 9 Brann + Rogers + Privateer. When you have too much economy, you will buy all targeted spells to use on [[Devilish Distractor||132901]] + [[Balinda Stonehearth||130298]]. This will scale your shop over the course of the game. You'll also generate a ton of spells by being infinite, allowing Felboar to eat a huge shop over and over again. Brann and Escapee are additional tools to be infinite."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/76/
+msgid "Early infinite gold + Felboar"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/76/
+msgid "[[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/76/
+msgid "Cast spells to consume buffed shop."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/89/
@@ -266,7 +286,7 @@ msgid "Elementals - Stat scaling"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Buff your stat scaling through either [[Moat Custodian||132981]] or early [[Glowing Cinder||119951]]. Then, if you have Manasurge, cycle every good elemental ([[Sellemental||64038]], [[Tavern Tempest||64077]], [[Refreshing Anomaly||64042]], [[Sand Swirler||119949]]). It's even better if you cycle those cards with [[Brann Bronzebeard||96786]]. If your economy is really good you can add [[Unbound Tempest||132983]] while buffing the shop,"
+msgid "Buff your stat scaling through either [[Moat Custodian||132981]] or early [[Glowing Cinder||119951]]. Then, if you have Manasurge, cycle every good elemental ([[Sellemental||64038]], [[Tavern Tempest||64077]], [[Refreshing Anomaly||64042]], [[Sand Swirler||119949]]). It's even better if you cycle those cards with [[Brann Bronzebeard||96786]]. The best elemental engine in the game is [[Kelp Keeper||132883]] + [[Tavern Tempest||64077]] if Murlocs are in. If your economy is really good you can add [[Unbound Tempest||132983]] while buffing the shop,"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/37/
@@ -274,7 +294,7 @@ msgid "[[Unleashed Mana Surge||120674]] + [[Brann Bronzebeard||96786]] + Stat sc
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/37/
-msgid "[[Glowing Cinder||119951]] + Ele Midgameuyh\n"
+msgid "[[Glowing Cinder||119951]] + Ele Midgame\n"
 "[[Brann Bronzebeard||96786]]"
 msgstr ""
 
