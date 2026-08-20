@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-17 01:40\n"
+"POT-Creation-Date: 2026-08-20 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: English\n"
 "Language: en\n"
@@ -105,9 +105,8 @@ msgstr ""
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
 msgid ""
 "Scale the attack of your Undeads and summons with the Butchering spell from "
-"[[Drustfallen Butcher||120104]]. Butchering doubles it's effect when paired "
-"with [[Balinda Stonehearth||130298]], and also improves with spell scaling "
-"from [[Friendly Geist||120219]]. Your quality of summons come from "
+"[[Drustfallen Butcher||120104]]. Butchering spell improves with spell "
+"scaling from [[Friendly Geist||120219]]. Your quality of summons come from "
 "[[Handless Forsaken||95265]] and [[Deathly Striker||115610]]. Be sure to "
 "reborn as many key undeads as possible, starting with [[Handless "
 "Forsaken||95265]]. [[Snazzy Phantom||133083]] provides a ton of attack and "
@@ -170,12 +169,12 @@ msgstr ""
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/90/
 msgid ""
 "First, have gems scaled, usually with early [[Gem Rat||116434]]. Then, use "
-"[[Vigilant Bristlemane||132320]] to cast gems on the most premium quilboar "
-"which is [[Jailbird Juggernaut||132636]]. Balinda is crucial to double "
-"Bristemane's effect. Concentrate all your gems on your juggernaut every turn"
-" using your Gem Confiscation from [[Trench Fighter||126671]]. In the "
-"endgame, starting filling out your board with ending units such as [[Leeroy "
-"the Reckless||90425]]."
+"[[Vigilant Bristlemane||132320]] to cast gems on the most premium card which"
+" is [[Blade Collector||99035]] or any premium dark gifts. Balinda is crucial"
+" to double Bristemane's effect. Concentrate all your gems on your juggernaut"
+" every turn using your Gem Confiscation from [[Trench Fighter||126671]]. In "
+"the endgame, starting filling out your board with ending units such as "
+"[[Leeroy the Reckless||90425]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/90/
@@ -238,6 +237,38 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/68/
 msgid "Summon huge golems"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/55/
+msgid "Nagas - End Of Turn/Spell Buff"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/55/
+msgid ""
+"[[Felfire Conjurer||120299]] buffs your spell power, while [[Fauna "
+"Whisperer||120905]] uses that spell power to buff your board at the end of "
+"the turn. Both effects are amplified by [[Drakkari Enchanter||101314]]. The "
+"best target to buff with [[Fauna Whisperer||120905]] is [[Gatekeeper "
+"Amalgam||133329]] because it is an all tribe which buffs all your tribed "
+"units, and also it additionally casts Misplaced Tea Sets which benefit from "
+"spell power. Buy cheap targetted spells to use on Amalgam when you have "
+"[[Balinda Stonehearth||130298]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/55/
+msgid ""
+"Spell power ([[Felfire Conjurer||120299]]) + [[Fauna Whisperer||120905]] or "
+"[[Gatekeeper Amalgam||133329]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/55/
+msgid ""
+"Spell power ([[Felfire Conjurer||120299]])\n"
+"[[Fauna Whisperer||120905]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/55/
+msgid "Scale end of turn with spell power"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/20/
@@ -347,37 +378,8 @@ msgstr ""
 msgid "Scale and consume shop"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/55/
-msgid "Nagas - Spell Casting"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/55/
-msgid ""
-"[[Torrential Ruiner||133707]] buffs your board every time you cast a spell "
-"on a naga. [[Fauna Whisperer||120905]] casts spells on nagas at the end of "
-"your turn, and [[Seafloor Recruiter||126916]] generate nagas that might have"
-" spellcraft. [[Balinda Stonehearth||130298]] doubles both of these effects. "
-"Could run [[Drakkari Enchanter||101314]] to additionally double Fauna's "
-"effect. Cycle good spell generation cards such as [[Fearless "
-"Foodie||113154]]."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/55/
-msgid ""
-"[[Torrential Ruiner||133707]] + spell generation/[[Balinda "
-"Stonehearth||130298]]."
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/55/
-msgid "[[Torrential Ruiner||133707]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/55/
-msgid "Play spells to buff Nagas"
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Elementals - Stat scaling"
+msgid "Elementals - Stat scaling/Shop Buff"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/37/
@@ -387,9 +389,9 @@ msgid ""
 "elemental ([[Sellemental||64038]], [[Tavern Tempest||64077]], [[Refreshing "
 "Anomaly||64042]], [[Sand Swirler||119949]]). It's even better if you cycle "
 "those cards with [[Brann Bronzebeard||96786]]. The best elemental engine in "
-"the game is [[Kelp Keeper||132883]] + [[Tavern Tempest||64077]] if Murlocs "
-"are in. If your economy is really good you can add [[Unbound "
-"Tempest||132983]] while buffing the shop,"
+"the game is [[Kelp Keeper||132883]] + [[Tavern Tempest||64077]] or [[Gentle "
+"Djinni||64062]] if Murlocs are in. If your economy is really good you can "
+"add [[Unbound Tempest||132983]] while buffing the shop,"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/37/
