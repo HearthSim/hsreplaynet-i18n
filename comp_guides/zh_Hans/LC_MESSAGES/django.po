@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-08-20 12:40\n"
+"PO-Revision-Date: 2026-08-23 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - APM"
@@ -185,7 +185,7 @@ msgstr "召唤巨大的飞天魔像"
 
 #: name | https://hsreplay.net/battlegrounds/comps/55/
 msgid "Nagas - End Of Turn/Spell Buff"
-msgstr ""
+msgstr "纳迦 - 回合结束/法术强化"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/55/
 msgid "[[Felfire Conjurer||120299]] buffs your spell power, while [[Fauna Whisperer||120905]] uses that spell power to buff your board at the end of the turn. Both effects are amplified by [[Drakkari Enchanter||101314]]. The best target to buff with [[Fauna Whisperer||120905]] is [[Gatekeeper Amalgam||133329]] because it is an all tribe which buffs all your tribed units, and also it additionally casts Misplaced Tea Sets which benefit from spell power. Buy cheap targetted spells to use on Amalgam when you have [[Balinda Stonehearth||130298]]."
@@ -193,16 +193,17 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/55/
 msgid "Spell power ([[Felfire Conjurer||120299]]) + [[Fauna Whisperer||120905]] or [[Gatekeeper Amalgam||133329]]"
-msgstr ""
+msgstr "法强 ([[Felfire Conjurer||120299]]) + [[Fauna Whisperer||120905]] 或 [[Gatekeeper Amalgam||133329]]"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/55/
 msgid "Spell power ([[Felfire Conjurer||120299]])\n"
 "[[Fauna Whisperer||120905]]"
-msgstr ""
+msgstr "法强 ([[Felfire Conjurer||120299]])\n"
+"[[Fauna Whisperer||120905]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/55/
 msgid "Scale end of turn with spell power"
-msgstr ""
+msgstr "在回合结束时通过法术强化"
 
 #: name | https://hsreplay.net/battlegrounds/comps/20/
 msgid "Nagas - Groundbreaker"
@@ -210,7 +211,7 @@ msgstr "纳迦 - 碎地者"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/20/
 msgid "First, you must have had a Naga midgame so you casted a lot of spells. Your naga generation setup consists of [[Seafloor Recruiter||126916]] + [[Balinda Stonehearth||130298]] and/or [[Sky-Hatch Runaway||132957]]. After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Darkcrest Strategist||115555]]."
-msgstr ""
+msgstr "首先，你必须拥有过中期过度纳迦，因此你施放过大量的法术。你的纳迦生成阵容由 [[Seafloor Recruiter||126916]] + [[Balinda Stonehearth||130298]] 和/或 [[Sky-Hatch Runaway||132957]] 组成。在你至少拥有2个碎地者后，循环使用那些对它有良好效果的纳迦，例如 [[Shell collector||80740]] 和 [[Darkcrest Strategist||115555]]。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/20/
 msgid "[[Seafloor Recruiter||126916]] plus [[Groundbreaker||114816]]"
@@ -288,7 +289,7 @@ msgstr "强化并吞噬商店"
 
 #: name | https://hsreplay.net/battlegrounds/comps/37/
 msgid "Elementals - Stat scaling/Shop Buff"
-msgstr ""
+msgstr "元素 - 属性成长/商店强化"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/37/
 msgid "Buff your stat scaling through either [[Moat Custodian||132981]] or early [[Glowing Cinder||119951]]. Then, if you have Manasurge, cycle every good elemental ([[Sellemental||64038]], [[Tavern Tempest||64077]], [[Refreshing Anomaly||64042]], [[Sand Swirler||119949]]). It's even better if you cycle those cards with [[Brann Bronzebeard||96786]]. The best elemental engine in the game is [[Kelp Keeper||132883]] + [[Tavern Tempest||64077]] or [[Gentle Djinni||64062]] if Murlocs are in. If your economy is really good you can add [[Unbound Tempest||132983]] while buffing the shop,"
