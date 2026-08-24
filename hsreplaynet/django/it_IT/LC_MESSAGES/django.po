@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-23 01:40+0000\n"
-"PO-Revision-Date: 2026-08-23 12:40\n"
+"POT-Creation-Date: 2026-08-24 01:40+0000\n"
+"PO-Revision-Date: 2026-08-24 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -1084,7 +1084,7 @@ msgstr ""
 msgid "Bob's Buddy reads the board state when a combat starts, then it simulates over 10,000 random combat outcomes to calculate your exact win, loss, and tie percentages, including lethal and elimination odds!"
 msgstr ""
 
-#: web/views/battlegrounds.py:208 web/views/battlegrounds.py:389
+#: web/views/battlegrounds.py:208 web/views/battlegrounds.py:381
 msgid "How often is the data updated?"
 msgstr ""
 
@@ -1125,55 +1125,55 @@ msgid "Tier7"
 msgstr "Tier7"
 
 #: web/views/battlegrounds.py:356
-msgid "Do I need to pay for Tier7?"
-msgstr ""
-
-#: web/views/battlegrounds.py:358
-msgid "No, all in-game Tier7 features are available for free twice a week by playing with Hearthstone Deck Tracker. If you need more, you can subscribe."
-msgstr ""
-
-#: web/views/battlegrounds.py:364
 msgid "What do I get with Tier7?"
 msgstr ""
 
-#: web/views/battlegrounds.py:366
+#: web/views/battlegrounds.py:358
 msgid "With Tier7 you get advanced features that add additional, lobby-specific data to your overlay in real-time, including hero tier lists tailored to your lobby's tribes, filtered and tiered composition guides, and tribe performance stats, for free twice a week."
 msgstr ""
 
+#: web/views/battlegrounds.py:365
+msgid "Do I need to pay for Tier7?"
+msgstr ""
+
+#: web/views/battlegrounds.py:367
+msgid "No, all in-game Tier7 features are available for free twice a week by playing with Hearthstone Deck Tracker. If you need more, you can subscribe."
+msgstr ""
+
 #: web/views/battlegrounds.py:373
-msgid "Can I cancel anytime?"
-msgstr ""
-
-#: web/views/battlegrounds.py:375
-msgid "Yes! You can cancel your subscription at any time from your account settings. You'll continue to have access until the end of your billing period."
-msgstr ""
-
-#: web/views/battlegrounds.py:381
 msgid "Do I need the Hearthstone Deck Tracker for web features?"
 msgstr ""
 
-#: web/views/battlegrounds.py:383
+#: web/views/battlegrounds.py:375
 msgid "No, the web features (stats, personal dashboard) work independently. However, the Deck Tracker is required for in-game overlays like hero picking and composition stats."
 msgstr ""
 
-#: web/views/battlegrounds.py:391
+#: web/views/battlegrounds.py:383
 msgid "Our meta statistics update every hour with the latest games. New patch data is typically available within 2 hours of release."
 msgstr ""
 
-#: web/views/battlegrounds.py:396
+#: web/views/battlegrounds.py:388
 msgid "What MMR bracket should I be to benefit?"
 msgstr ""
 
-#: web/views/battlegrounds.py:398
+#: web/views/battlegrounds.py:390
 msgid "Tier7 helps players at all skill levels. Whether you're climbing from 2k or pushing for top 200, our data ensures you get relevant information for you."
 msgstr ""
 
-#: web/views/battlegrounds.py:404
+#: web/views/battlegrounds.py:396
 msgid "Is my account data secure?"
 msgstr ""
 
-#: web/views/battlegrounds.py:406
+#: web/views/battlegrounds.py:398
 msgid "Absolutely. We use industry-standard encryption and never share your personal information. Your gameplay data is anonymized in our aggregated statistics."
+msgstr ""
+
+#: web/views/battlegrounds.py:404
+msgid "Can I cancel anytime?"
+msgstr ""
+
+#: web/views/battlegrounds.py:406
+msgid "Yes! You can cancel your subscription at any time from your account settings. You'll continue to have access until the end of your billing period."
 msgstr ""
 
 #: web/views/battlegrounds.py:424
