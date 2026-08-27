@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-20 01:40\n"
+"POT-Creation-Date: 2026-08-27 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-08-26 12:40\n"
+"PO-Revision-Date: 2026-08-27 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - APM"
@@ -98,6 +98,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/14/
 msgid "Summon high attack Undeads"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/15/
+msgid "Dragons - Battlecries"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +4/4 every single battlecry you play. You want to trigger as many battlecries as possible. After you have your setup, cycle only PREMIUM battlecries, such as [[Tavern Tempest||64077]], [[Refreshing Anomaly||64042]], [[Shell Collector||80740]] or [[Draconic Warden||126860]]. The highest cap is to find as many double attack spell every turn, and permanently double the attack of warpwing every turn with the help of [[Persistent Poet||108463]]. Additionally, permanently attach divine shield with [[Amber Guardian||95006]] and permanently attach Windfury on Warpwing with [[Thousandth Paper Drake||108116]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Kalecgos, Arcane Aspect||60630]] + [[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/15/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Bronze Timewalker||132955]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/15/
+msgid "Cycle battlecries to scale dragons"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
@@ -261,6 +282,26 @@ msgstr ""
 msgid "Magnetize huge mechs"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/91/
+msgid "Mechs - Magnetics/Spells"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/91/
+msgid "Put targetted spells on mechs as much as possible with [[Glambot||132893]] on board. [[Balinda Stonehearth||130298]] doubles the effect. Best to have spell generation such as [[Captain Cookie||133075]]. Cycle good gem cards such as [[Fearless Foodie||113154]] and buy good spells such as 3 pointy arrow spell. Eventually, buy [[Utility Drone||98588]] to capitalize on the magnetics you attached with Glambot in the midgame."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/91/
+msgid "[[Glambot||132893]] + [[Balinda Stonehearth||130298]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/91/
+msgid "[[Glambot||132893]] to stabilize"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/91/
+msgid "Cast spells on Mechs"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff"
 msgstr ""
@@ -283,7 +324,7 @@ msgid "Scale and consume shop"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Elementals - Stat scaling/Shop Buff"
+msgid "Elementals - Stat scaling"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/37/
@@ -321,6 +362,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/87/
 msgid "Trigger Deathrattle to scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/92/
+msgid "Elementals - Unbound Tempest"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/92/
+msgid "Buff the shop with either [[Nomi, Kitchen Nightmare||63626]] or [[Air Revenant||126173]], whichever method you find first. Use [[Brann Bronzebeard||96786]] + [[Tavern Tempest||64077]] + [[Kelp Keeper||132883]] for massive economy and elemental generation. You may use [[Flaming Enforcer||126924]] to stabilize in the midgame, and [[Unbound Tempest||132983]] to cap out your scaling. With tempest, cycle premium elementals such as [[Sellemental||64038]] and [[Refreshing Anomaly||64042]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/92/
+msgid "[[Brann Bronzebeard||96786]] + shop buff ([[Nomi, Kitchen Nightmare||63626]]) + [[Unbound Tempest||132983]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/92/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Tavern Tempest||64077]] + [[Kelp Keeper||132883]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/92/
+msgid "Play elementals to scale from big shop"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
