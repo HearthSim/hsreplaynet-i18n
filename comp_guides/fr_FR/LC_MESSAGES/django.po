@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-27 01:40\n"
+"POT-Creation-Date: 2026-08-28 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: fr\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-08-27 12:40\n"
+"PO-Revision-Date: 2026-08-28 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - APM"
@@ -38,32 +38,12 @@ msgstr ""
 msgid "Play spells to scale Murlocs."
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/76/
-msgid "Quilboar - APM Felboar"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/76/
-msgid "You must have an insane amount of economy to go for this comp. This is usually achieved with a turn 9 Brann + Rogers + Privateer. When you have too much economy, you will buy all targeted spells to use on [[Devilish Distractor||132901]] + [[Balinda Stonehearth||130298]]. This will scale your shop over the course of the game. You'll also generate a ton of spells by being infinite, allowing Felboar to eat a huge shop over and over again. Brann and Escapee are additional tools to be infinite."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/76/
-msgid "Early infinite gold + Felboar"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/76/
-msgid "[[Brann Bronzebeard||96786]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/76/
-msgid "Cast spells to consume buffed shop."
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/89/
 msgid "Pirates - APM Golden"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/89/
-msgid "Go infinite with [[Enterprising Escapee||132762]] + [[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]] setup, [[Brann Bronzebeard||96786]] helps to get the ball rolling. With the escapee, you'll play a lot of goldens and discovers, both of which helps with [[Hooktusk, Master Marauder||132925]]. Scale by being infinite and buying discover effects."
+msgid "Go infinite with [[Enterprising Escapee||132762]] + [[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]] setup, [[Brann Bronzebeard||96786]] helps to get the ball rolling. With the escapee, you'll play a lot of goldens and discovers, both of which helps with [[Hooktusk, Master Marauder||132925]]. Scale by being infinite and buying discover effects.  ADVANCED PLAYERS: Pivot higher cap which is demons shop buff comp"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/89/
@@ -76,6 +56,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/89/
 msgid "Use infinite money to scale pirates"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/76/
+msgid "Demons - APM Shop Buff"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/76/
+msgid "You must have an insane amount of economy to go for this comp. This is usually achieved with a turn 9 Brann + Rogers + Privateer. When you have too much economy, you will buy all targeted spells to use on [[Devilish Distractor||132901]] + [[Balinda Stonehearth||130298]] to scale the shop. You may also buff the shop cycling bloom gem buffers and buying every gem barrage card. You'll also generate a ton of spells by being infinite, allowing [[Felboar||110664]] or [[Twisted Wrathguard||130662]] to eat a huge shop over and over again. Brann and Escapee are additional tools to be infinite."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/76/
+msgid "Early infinite gold + Felboar"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/76/
+msgid "[[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/76/
+msgid "Cast spells to consume buffed shop."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/14/
@@ -126,7 +126,7 @@ msgid "Pirates - Bounty APM"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Sky Admiral Rogers||122516]] combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup.  Cycle [[Tranquil Meditative||119942]], or spell buff Chromadrakes with Brann for spell scaling to make your bounties buff more. You also want to cycle every single free card ([[Refreshing Anomaly||64042]]) so you stay infinite. After you're infinite, think about the highest possible scaling from your spot. Options include [[Fire-forged Evoker||120301]] Pivot or Attack Scaling Undead pivot ([[Forsaken Weaver||126733]])"
+msgid "[[Sky Admiral Rogers||122516]] combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup.  Cycle [[Tranquil Meditative||119942]], or spell buff Chromadrakes with Brann for spell scaling to make your bounties buff more. You also want to cycle every single free card ([[Refreshing Anomaly||64042]]) so you stay infinite. After you're infinite, think about the highest possible scaling from your spot. Options include [[Fire-forged Evoker||120301]] Pivot with [[Warpwing||92413]] [[Persistent Poet||108463]] or Attack Scaling Undead pivot ([[Forsaken Weaver||126733]]) with [[Handless Forsaken||95265]]"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
@@ -222,6 +222,27 @@ msgstr ""
 msgid "Scale end of turn with spell power"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/93/
+msgid "Murlocs - Family"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/93/
+msgid "Generate [[Papa Mrrglton||131147]] or [[Mama Mrrglton||131145]] early on with [[Cousin Errgl||131149]]. Use [[Brann Bronzebeard||96786]] to double the effect of all of these battlecries. [[Primalfin Lookout||60028]] is a great battlecry to cycle to generate more Papas and Mamas, and buy every Papa and Mama from shop as well. Leave a golden Mrrglton on your board to proc with [[Kelp Keeper||132883]]. Could choose to buff premium murlocs such as [[Bile Spitter||122219]] or [[Expert Aviator||126637]] that can summon scam units."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/93/
+msgid "Early [[Cousin Errgl||131149]] + [[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/93/
+msgid "Early [[Cousin Errgl||131149]]\n"
+"[[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/93/
+msgid "Scale Murlocs with battlecries"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/20/
 msgid "Nagas - Groundbreaker"
 msgstr ""
@@ -307,7 +328,7 @@ msgid "Demons - Shop Buff"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Scale your shop with [[Devilish Distractor||132901]], best when paired with [[Balinda Stonehearth||130298]]. Then, your payoff for the buffed shop is most commonly [[Twisted Wrathguard||130662]], but it could also be [[Insatiable Ur'zul||72060]] and/or reborn [[Imp-lusionist||132899]]. Use [[Methodical Madness||132903]] spells on shops with Divine shield or Venomous to give these keywords to all your demons."
+msgid "Scale your shop with [[Devilish Distractor||132901]], best when paired with [[Balinda Stonehearth||130298]]. Then, your payoff for the buffed shop is most commonly [[Felboar||110664]], but it could also be [[Twisted Wrathguard||130662]] and/or reborn [[Imp-lusionist||132899]]. Use [[Methodical Madness||132903]] spells on shops with Divine shield or Venomous to give these keywords to all your demons."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
@@ -344,24 +365,40 @@ msgstr ""
 msgid "Buff stat scaling on Elementals."
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/38/
+msgid "Beasts - Summon Beetles"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/38/
+msgid "With early [[Ravaging Scorpid||132949]] or [[Turquoise Skitterer||119255]], start scaling the stats of beetles. [[Headhunter Gryphon||132800]] can help you generate pieces of the comp with the help of [[Snarky Shark||132804]]. Run as many [[Banana Slamma||98824]] as possible, as they double the attack of your beetles and helps deals with high HP boards."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/38/
+msgid "Early [[Ravaging Scorpid||132949]] or [[Turquoise Skitterer||119255]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/38/
+msgid "[[Headhunter Gryphon||132800]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/38/
+msgid "Summon large beetles"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/87/
 msgid "Beasts - Tasty Lobstah"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/87/
-msgid "Trigger [[Tasty Lobster||132796]] deathrattle as many times as possible. This is done with multiple rallies + [[Deathstrider||132808]] and [[Titus Rivendare||97408]], triggering Lobster deathrattle upon every rally. The best rally units to run are [[Headhunter Gryphon||132800]] and [[Hoarding Hyena||133039]]. Prioritize reborning the lobster and then windfury/reborn your [[Hoarding Hyena||133039]]."
+msgid "Trigger [[Tasty Lobster||132796]] deathrattle as many times as possible. This is done with multiple rallies + [[Deathstrider||132808]] and [[Titus Rivendare||97408]], triggering Lobster deathrattle upon every rally. Trigger the lobster deathrattle during shop phase using golden [[Headhunter Gryphon||132800]] and buying every [[Snarky Shark||132804]] and [[Lurking Lionfish||132794]]. Reborn taunt your lobster, and then windfury your Gryphon with [[Sprightly Scarab||108909]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/87/
-msgid "Early [[Tasty Lobster||132796]], [[Tasty Lobster||132796]] + [[Titus Rivendare||97408]]/[[Deathstrider||132808]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/87/
-msgid "[[Tasty Lobster||132796]]"
+msgid "[[Headhunter Gryphon||132800]] + [[Deathstrider||132808]]"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/87/
-msgid "Trigger Deathrattle to scale"
+msgid "Trigger Lobster Deathrattle to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/92/
