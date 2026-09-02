@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-29 01:40+0000\n"
-"PO-Revision-Date: 2026-08-31 00:40\n"
+"POT-Creation-Date: 2026-09-02 01:40+0000\n"
+"PO-Revision-Date: 2026-09-02 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -114,47 +114,47 @@ msgstr "您已经将此激活码应用到您的账号。"
 msgid "Code has been applied to your account."
 msgstr "激活码使用成功。"
 
-#: settings.py:474
+#: settings.py:475
 msgid "Full access to your HSReplay.net account"
 msgstr "完全访问您的HSReplay.net帐户"
 
-#: settings.py:475
+#: settings.py:476
 msgid "Access information about your connected social accounts"
 msgstr "访问您已连接的社交帐户的信息"
 
-#: settings.py:476
+#: settings.py:477
 msgid "View your Hearthstone card collection"
 msgstr "查看您的炉石卡牌收藏"
 
-#: settings.py:477
+#: settings.py:478
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "上传您的炉石卡牌收藏到网站"
 
-#: settings.py:478
+#: settings.py:479
 msgid "View your replays"
 msgstr "查看您的回放"
 
-#: settings.py:479
+#: settings.py:480
 msgid "Update and delete your replays"
 msgstr "更新和删除您的回放"
 
-#: settings.py:480
+#: settings.py:481
 msgid "Access the Partner API"
 msgstr "获取合作伙伴的API"
 
-#: settings.py:481
+#: settings.py:482
 msgid "Read access to the tournaments service"
 msgstr "获得锦标赛服务的读取权限"
 
-#: settings.py:482
+#: settings.py:483
 msgid "Write access to the tournaments service"
 msgstr "获得锦标赛服务的写入权限"
 
-#: settings.py:483
+#: settings.py:484
 msgid "View your webhooks"
 msgstr "查看您的 webhooks"
 
-#: settings.py:484
+#: settings.py:485
 msgid "Create and delete webhooks on your behalf"
 msgstr "为您创建和删除 webhooks"
 
@@ -1062,7 +1062,7 @@ msgstr "Hearthstone Deck Tracker 是否免费？"
 
 #: web/views/battlegrounds.py:161
 msgid "Yes, Hearthstone Deck Tracker is completely free to download and use! An extensive set of features such as Bob's Buddy, opponent tracking, the minion browser and more are all included free, with no ads. The only paid aspect is if you want to optionally use the advanced Tier7 features more than twice a week."
-msgstr ""
+msgstr "是的，Hearthstone Deck Tracker 完全可以免费下载和使用！鲍勃之友、对手追踪、随从浏览器等丰富功能均可免费使用，而且没有广告。只有当你希望每周使用高级 Tier7 功能超过两次时，才需要选择付费订阅。"
 
 #: web/views/battlegrounds.py:169
 msgid "Is Hearthstone Deck Tracker safe to use? Will I get banned?"
@@ -1086,7 +1086,7 @@ msgstr "什么是Tier7？"
 
 #: web/views/battlegrounds.py:188
 msgid "Tier7 is a set of highly advanced features that add additional, lobby-specific data to your overlay in real-time, including hero tier lists tailored to your lobby's tribes, filtered and tiered composition guides, and tribe performance stats. You automatically have access to Tier7 for free twice a week when you play with Hearthstone Deck Tracker, and you can subscribe if you want it available in all your matches."
-msgstr ""
+msgstr "Tier7 是一套高级功能订阅，可以在内嵌浮窗中实时显示当前对局的专属数据，包括根据本局随从类型定制的英雄梯队列表、经过筛选并划分梯队的流派指南，以及各随从类型的表现数据。使用 Hearthstone Deck Tracker 进行游戏时，你每周可以自动免费使用 Tier7 两次。如果希望在所有对局中使用这些功能，也可以选择订阅。"
 
 #: web/views/battlegrounds.py:197
 msgid "How does Bob's Buddy work?"
@@ -1118,7 +1118,7 @@ msgstr "我可以在 Mac 上使用它吗？"
 
 #: web/views/battlegrounds.py:224
 msgid "Yes! HSTracker is our companion app for macOS with most of the core features."
-msgstr ""
+msgstr "是的！HSTracker 是我们面向 macOS 推出的配套应用，提供绝大多数核心功能。"
 
 #: web/views/battlegrounds.py:251
 msgid "Battleground Stats & Guides"
@@ -1138,11 +1138,11 @@ msgstr "Tier7"
 
 #: web/views/battlegrounds.py:353
 msgid "What do I get with Tier7?"
-msgstr ""
+msgstr "Tier7 可以为我提供哪些功能？"
 
 #: web/views/battlegrounds.py:355
 msgid "With Tier7 you get advanced features that add additional, lobby-specific data to your overlay in real-time, including hero tier lists tailored to your lobby's tribes, filtered and tiered composition guides, and tribe performance stats, for free twice a week."
-msgstr ""
+msgstr "Tier7 提供多项高级功能，可以在内嵌浮窗中实时显示当前对局的专属数据，包括根据本局随从类型定制的英雄梯队列表、经过筛选并划分梯队的流派指南，以及各随从类型的表现数据。上述功能每周可免费使用两次。"
 
 #: web/views/battlegrounds.py:362
 msgid "Do I need to pay for Tier7?"
@@ -1583,7 +1583,7 @@ msgstr "macOS端可以用留牌指南G-V2吗？"
 
 #: web/views/mulligan_gv2.py:88
 msgid "Yes! Mulligan G-V2 is available for macOS through HSTracker, just like it is on Windows through Hearthstone Deck Tracker."
-msgstr ""
+msgstr "是的！留牌指南G-V2可以在 macOS 上通过 HSTracker 使用，就像它在 Windows 上通过 Hearthstone Deck Tracker 一样。"
 
 #: web/views/mulligan_gv2.py:99
 msgid "Make better mulligan decisions with Mulligan Guide Version 2"
