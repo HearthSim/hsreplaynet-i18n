@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-02 01:40+0000\n"
-"PO-Revision-Date: 2026-09-02 12:40\n"
+"PO-Revision-Date: 2026-09-03 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1094,7 +1094,7 @@ msgstr "鲍勃之友是如何运作的？"
 
 #: web/views/battlegrounds.py:199
 msgid "Bob's Buddy reads the board state when a combat starts, then it simulates over 10,000 random combat outcomes to calculate your exact win, loss, and tie percentages, including lethal and elimination odds!"
-msgstr "当战斗开始时，鲍勃之友会读取棋盘状态，转瞬间模拟超过10000次随机战斗结果，以计算您的确切胜负和平局概率，包括致命和淘汰几率！"
+msgstr "当战斗开始时，鲍勃之友会读取场面状态，转瞬间模拟超过10,000次随机战斗结果，以计算您的确切胜负和平局概率，包括致命和淘汰几率！"
 
 #: web/views/battlegrounds.py:205 web/views/battlegrounds.py:378
 msgid "How often is the data updated?"
