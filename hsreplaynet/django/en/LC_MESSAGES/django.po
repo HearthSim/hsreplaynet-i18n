@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-02 01:40+0000\n"
+"POT-Creation-Date: 2026-09-05 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -525,7 +525,7 @@ msgstr ""
 msgid "Deck Tracker"
 msgstr ""
 
-#: templates/footer.html:69 templates/navigation.html:283
+#: templates/footer.html:69 templates/navigation.html:296
 #: web/views/premium.py:31
 msgid "Premium"
 msgstr ""
@@ -654,7 +654,7 @@ msgstr ""
 msgid "Parties"
 msgstr ""
 
-#: templates/navigation.html:95 templates/navigation.html:297
+#: templates/navigation.html:95 templates/navigation.html:310
 #: web/views/__init__.py:214
 msgid "Downloads"
 msgstr ""
@@ -664,7 +664,7 @@ msgid "Overlay"
 msgstr ""
 
 #: templates/navigation.html:116 templates/navigation.html:120
-#: templates/navigation.html:286 templates/navigation.html:289
+#: templates/navigation.html:299 templates/navigation.html:302
 msgid "SALE!"
 msgstr ""
 
@@ -689,7 +689,7 @@ msgstr ""
 msgid "Quests"
 msgstr ""
 
-#: templates/navigation.html:186
+#: templates/navigation.html:186 templates/navigation.html:279
 msgid "NEW"
 msgstr ""
 
@@ -732,19 +732,19 @@ msgstr ""
 msgid "Cards"
 msgstr ""
 
-#: templates/navigation.html:275 web/views/arena.py:24 web/views/arena.py:41
+#: templates/navigation.html:288 web/views/arena.py:24 web/views/arena.py:41
 #: web/views/arena.py:72 web/views/arena.py:90 web/views/arena.py:118
 msgid "Arena"
 msgstr ""
 
-#: templates/navigation.html:326
+#: templates/navigation.html:339
 #, python-format
 msgid ""
 " View the latest card reveals for the next Hearthstone expansion: "
 "%(spoiler_set)s "
 msgstr ""
 
-#: templates/navigation.html:340
+#: templates/navigation.html:353
 msgid ""
 "We are currently updating this section for the latest Battlegrounds patch. "
 "You may temporarily encounter incomplete or delayed data."
@@ -1842,4 +1842,13 @@ msgstr ""
 
 #: web/views/stats.py:8
 msgid "My Stats"
+msgstr ""
+
+#: web/views/tournaments.py:29
+msgid "Browse the decks the players brought to the tournament."
+msgstr ""
+
+#: web/views/tournaments.py:50
+#, python-brace-format
+msgid "{tournament} Decks"
 msgstr ""
