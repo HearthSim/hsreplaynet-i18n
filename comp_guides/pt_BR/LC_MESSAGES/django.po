@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-04 01:40\n"
+"POT-Creation-Date: 2026-09-06 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-09-04 12:40\n"
+"PO-Revision-Date: 2026-09-06 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - APM"
@@ -78,12 +78,32 @@ msgstr ""
 msgid "Cast spells to consume buffed shop."
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Pirates - APM Undead"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
+msgid "[[Sky Admiral Rogers||122516]] combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup.  Additional cards that help you become infinite include [[Enterprising Escapee||132762]] and [[Brann Bronzebeard||96786]], but can be cut once you commit more undeads to your board. Cycle every single free card ([[Refreshing Anomaly||64042]]) so you stay infinite. After you're infinite, scale undead attack using bounties + [[Forsaken Weaver||126733]]. Run a reborn golden [[Handless Forsaken||95265]] to be strong. Also use [[Snazzy Phantom||133083]] and cycle every single destroy undead effect such as [[Maw Caster||121508]] and [[Disguised Graverobber||104610]] to destroy reborns and give snazzy permanent stats."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Bounty Generation ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]] + [[Forsaken Weaver||126733]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
+msgid "[[Sky Admiral Rogers||122516]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Scale undead attack with infinite gold"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/14/
 msgid "Undead - Attack Scaling"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Scale the attack of your Undeads and summons with the Butchering spell from [[Drustfallen Butcher||120104]]. Butchering spell improves with spell scaling from [[Friendly Geist||120219]]. Your quality of summons come from [[Handless Forsaken||95265]] and [[Deathly Striker||115610]]. Be sure to reborn as many key undeads as possible, starting with [[Handless Forsaken||95265]]. [[Snazzy Phantom||133083]] provides a ton of attack and health to your right most unit in combat, but also during the shop phase. Start using Butchering spells on your reborn cards with [[Snazzy Phantom||133083]] on board to capture permanent stats."
+msgid "Scale the attack of your Undeads and summons with the Butchering spell from [[Drustfallen Butcher||120104]]. Butchering spell improves with spell scaling from [[Friendly Geist||120219]]. Your quality of summons come from [[Handless Forsaken||95265]]. [[Snazzy Phantom||133083]] provides a ton of attack and health to your right most unit in combat, but also during the shop phase. Start using Butchering spells on your reborn cards with [[Snazzy Phantom||133083]] on board to capture permanent stats. The best variation of this comp is to run [[Dead Bellringer||132322]] + [[Mummifier||108992]] to first reborn your entire board. Then, with a full hand of butchering and also Snazzy, use bellringer activate on the mummifier, then the bellringer will get reborn, and then butcher the bellringer, and repeat for all your butchering spells. This'll give you an insane amount of Snazzy procs."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
@@ -92,7 +112,6 @@ msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
 msgid "[[Deathly Striker||115610]] \n"
-"[[Friendly Geist||120219]]\n"
 "Undead midgame ([[Plaguerunner||126451]]/[[Dustbone Devastator||122229]])"
 msgstr ""
 
@@ -119,26 +138,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/15/
 msgid "Cycle battlecries to scale dragons"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Pirates - Bounty APM"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Sky Admiral Rogers||122516]] combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup.  Cycle [[Tranquil Meditative||119942]], or spell buff Chromadrakes with Brann for spell scaling to make your bounties buff more. You also want to cycle every single free card ([[Refreshing Anomaly||64042]]) so you stay infinite. After you're infinite, think about the highest possible scaling from your spot. Options include [[Fire-forged Evoker||120301]] Pivot with [[Warpwing||92413]] [[Persistent Poet||108463]] or Attack Scaling Undead pivot ([[Forsaken Weaver||126733]]) with [[Handless Forsaken||95265]]"
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Bounty Generation ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Sky Admiral Rogers||122516]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Bounties generate gold and stats"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/90/

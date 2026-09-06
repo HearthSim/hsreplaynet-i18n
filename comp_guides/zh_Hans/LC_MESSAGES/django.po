@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-04 01:40\n"
+"POT-Creation-Date: 2026-09-06 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-09-04 12:40\n"
+"PO-Revision-Date: 2026-09-06 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - APM"
@@ -79,13 +79,33 @@ msgstr "[[Brann Bronzebeard||96786]]"
 msgid "Cast spells to consume buffed shop."
 msgstr "施放法术法术吞噬酒馆。"
 
+#: name | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Pirates - APM Undead"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
+msgid "[[Sky Admiral Rogers||122516]] combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup.  Additional cards that help you become infinite include [[Enterprising Escapee||132762]] and [[Brann Bronzebeard||96786]], but can be cut once you commit more undeads to your board. Cycle every single free card ([[Refreshing Anomaly||64042]]) so you stay infinite. After you're infinite, scale undead attack using bounties + [[Forsaken Weaver||126733]]. Run a reborn golden [[Handless Forsaken||95265]] to be strong. Also use [[Snazzy Phantom||133083]] and cycle every single destroy undead effect such as [[Maw Caster||121508]] and [[Disguised Graverobber||104610]] to destroy reborns and give snazzy permanent stats."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Bounty Generation ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]] + [[Forsaken Weaver||126733]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
+msgid "[[Sky Admiral Rogers||122516]]"
+msgstr "[[Sky Admiral Rogers||122516]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/3/
+msgid "Scale undead attack with infinite gold"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/14/
 msgid "Undead - Attack Scaling"
 msgstr "亡灵 - 攻击提升"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Scale the attack of your Undeads and summons with the Butchering spell from [[Drustfallen Butcher||120104]]. Butchering spell improves with spell scaling from [[Friendly Geist||120219]]. Your quality of summons come from [[Handless Forsaken||95265]] and [[Deathly Striker||115610]]. Be sure to reborn as many key undeads as possible, starting with [[Handless Forsaken||95265]]. [[Snazzy Phantom||133083]] provides a ton of attack and health to your right most unit in combat, but also during the shop phase. Start using Butchering spells on your reborn cards with [[Snazzy Phantom||133083]] on board to capture permanent stats."
-msgstr "使用 [[Drustfallen Butcher||120104]] 生成的“宰割”法术，提高亡灵及其召唤物的攻击力。[[Friendly Geist||120219]] 提供的法术成长可以进一步强化“宰割”。[[Handless Forsaken||95265]] 和 [[Deathly Striker||115610]] 是优质召唤物的主要来源。尽量让更多关键亡灵获得复生，首先应为 [[Handless Forsaken||95265]] 添加复生。[[Snazzy Phantom||133083]] 能为最右边的随从提供大量攻击力和生命值，并且该效果在战斗阶段和酒馆阶段都会生效。场上有 [[Snazzy Phantom||133083]] 时，开始对具有复生的随从使用“宰割”，从而保留永久属性。"
+msgid "Scale the attack of your Undeads and summons with the Butchering spell from [[Drustfallen Butcher||120104]]. Butchering spell improves with spell scaling from [[Friendly Geist||120219]]. Your quality of summons come from [[Handless Forsaken||95265]]. [[Snazzy Phantom||133083]] provides a ton of attack and health to your right most unit in combat, but also during the shop phase. Start using Butchering spells on your reborn cards with [[Snazzy Phantom||133083]] on board to capture permanent stats. The best variation of this comp is to run [[Dead Bellringer||132322]] + [[Mummifier||108992]] to first reborn your entire board. Then, with a full hand of butchering and also Snazzy, use bellringer activate on the mummifier, then the bellringer will get reborn, and then butcher the bellringer, and repeat for all your butchering spells. This'll give you an insane amount of Snazzy procs."
+msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
 msgid "Attack Scaling ([[Drustfallen Butcher||120104]]) + summons ([[Handless Forsaken||95265]])"
@@ -93,11 +113,8 @@ msgstr "攻击成长 ([[Drustfallen Butcher||120104]]) + 亡灵召唤([[Handless
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
 msgid "[[Deathly Striker||115610]] \n"
-"[[Friendly Geist||120219]]\n"
 "Undead midgame ([[Plaguerunner||126451]]/[[Dustbone Devastator||122229]])"
-msgstr "[[Deathly Striker||115610]] \n"
-"[[Friendly Geist||120219]]\n"
-"亡灵中期过度 ([[Plaguerunner||126451]]/[[Dustbone Devastator||122229]])"
+msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/14/
 msgid "Summon high attack Undeads"
@@ -124,27 +141,6 @@ msgstr "[[Brann Bronzebeard||96786]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/15/
 msgid "Cycle battlecries to scale dragons"
 msgstr "循环使用战吼来强化龙的属性"
-
-#: name | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Pirates - Bounty APM"
-msgstr "海盗 - 悬赏令手速"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Sky Admiral Rogers||122516]] combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup.  Cycle [[Tranquil Meditative||119942]], or spell buff Chromadrakes with Brann for spell scaling to make your bounties buff more. You also want to cycle every single free card ([[Refreshing Anomaly||64042]]) so you stay infinite. After you're infinite, think about the highest possible scaling from your spot. Options include [[Fire-forged Evoker||120301]] Pivot with [[Warpwing||92413]] [[Persistent Poet||108463]] or Attack Scaling Undead pivot ([[Forsaken Weaver||126733]]) with [[Handless Forsaken||95265]]"
-msgstr "[[Sky Admiral Rogers||122516]] 与 [[Proud Privateer||122520]] 的组合可以提供大量铸币，帮助你更快找到其余核心组件。反复使用 [[Tranquil Meditative||119942]]，或者配合布莱恩·铜须循环使用黑色多彩幼龙和红色多彩幼龙，持续提高酒馆法术的属性加成，使悬赏令能够提供更多属性。你还需要循环使用所有免费的卡牌，例如 [[Refreshing Anomaly||64042]]，以维持无限经济。实现无限循环后，应根据当前局面考虑上限最高的成长路线，可选方向包括：使用 [[Fire-forged Evoker||120301]]，随后转型为 [[Warpwing||92413]] 配合 [[Persistent Poet||108463]] 的龙流。\n"
-"或者使用 [[Forsaken Weaver||126733]] 转型为攻击成长亡灵，并搭配 [[Handless Forsaken||95265]]"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Bounty Generation ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]]"
-msgstr "悬赏令生成器 ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Sky Admiral Rogers||122516]]"
-msgstr "[[Sky Admiral Rogers||122516]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Bounties generate gold and stats"
-msgstr "靠悬赏令生成铸币和身材数值"
 
 #: name | https://hsreplay.net/battlegrounds/comps/90/
 msgid "Quilboar - Bristlemane"
