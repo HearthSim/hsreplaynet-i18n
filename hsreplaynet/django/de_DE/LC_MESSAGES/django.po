@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-05 01:40+0000\n"
-"PO-Revision-Date: 2026-09-15 12:40\n"
+"PO-Revision-Date: 2026-09-16 12:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -543,7 +543,7 @@ msgstr "Schlachtfeld-Schmuckstücke"
 
 #: templates/footer.html:87 web/views/battlegrounds.py:695
 msgid "Battlegrounds Dark Gifts"
-msgstr ""
+msgstr "Schlachtfeld-Dunkle Gaben"
 
 #: templates/footer.html:88
 msgid "Battlegrounds Timewarp"
@@ -1056,7 +1056,7 @@ msgstr "Hearthstone Deck Tracker für Battlegrounds herunterladen"
 
 #: web/views/battlegrounds.py:159
 msgid "Is Hearthstone Deck Tracker free?"
-msgstr ""
+msgstr "Ist Hearthstone Deck Tracker kostenlos?"
 
 #: web/views/battlegrounds.py:161
 msgid "Yes, Hearthstone Deck Tracker is completely free to download and use! An extensive set of features such as Bob's Buddy, opponent tracking, the minion browser and more are all included free, with no ads. The only paid aspect is if you want to optionally use the advanced Tier7 features more than twice a week."
@@ -1064,7 +1064,7 @@ msgstr ""
 
 #: web/views/battlegrounds.py:169
 msgid "Is Hearthstone Deck Tracker safe to use? Will I get banned?"
-msgstr ""
+msgstr "Ist die Verwendung von Hearthstone Deck Tracker sicher? Kann ich dafür gebannt werden?"
 
 #: web/views/battlegrounds.py:171
 msgid "Hearthstone Deck Tracker is fully compliant with Blizzard's policies. It only reads publicly available game log files, it never injects code or modifies the game client. Over 20 million players have used it safely since 2015."
@@ -1072,7 +1072,7 @@ msgstr ""
 
 #: web/views/battlegrounds.py:178
 msgid "Do I need an account to use Hearthstone Deck Tracker?"
-msgstr ""
+msgstr "Benötige ich ein Konto, um Hearthstone Deck Tracker nutzen zu können?"
 
 #: web/views/battlegrounds.py:180
 msgid "No account is required! Simply download and install, the overlay will start working automatically when you launch it alongside Hearthstone."
@@ -1080,7 +1080,7 @@ msgstr ""
 
 #: web/views/battlegrounds.py:186
 msgid "What is Tier7?"
-msgstr ""
+msgstr "Was ist Tier7?"
 
 #: web/views/battlegrounds.py:188
 msgid "Tier7 is a set of highly advanced features that add additional, lobby-specific data to your overlay in real-time, including hero tier lists tailored to your lobby's tribes, filtered and tiered composition guides, and tribe performance stats. You automatically have access to Tier7 for free twice a week when you play with Hearthstone Deck Tracker, and you can subscribe if you want it available in all your matches."
@@ -1088,7 +1088,7 @@ msgstr ""
 
 #: web/views/battlegrounds.py:197
 msgid "How does Bob's Buddy work?"
-msgstr ""
+msgstr "Wie funktioniert Bobs Buddy?"
 
 #: web/views/battlegrounds.py:199
 msgid "Bob's Buddy reads the board state when a combat starts, then it simulates over 10,000 random combat outcomes to calculate your exact win, loss, and tie percentages, including lethal and elimination odds!"
@@ -1096,7 +1096,7 @@ msgstr ""
 
 #: web/views/battlegrounds.py:205 web/views/battlegrounds.py:378
 msgid "How often is the data updated?"
-msgstr ""
+msgstr "Wie oft werden die Daten aktualisiert?"
 
 #: web/views/battlegrounds.py:207
 msgid "Our meta statistics update every hour with the latest games. New patch data is typically available within 2 hours of release, so you always have current information."
