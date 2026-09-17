@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-06 01:40\n"
+"POT-Creation-Date: 2026-09-17 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: es-MX\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-09-06 12:40\n"
+"PO-Revision-Date: 2026-09-17 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Murlocs - APM"
@@ -36,6 +36,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/67/
 msgid "Play spells to scale Murlocs."
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/73/
+msgid "Dragons - APM Evoker"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/73/
+msgid "[[Fire-Forged Evoker||120301]] scales with the amount of spells you cast. Your spell generation comes from casting bounties with [[Sky Admiral Rogers||122516]] and [[Proud Privateer||122520]]. Must be infinite with this comp, may use [[Brann Bronzebeard||96786]] or [[Enterprising Escapee||132762]] to help achieve that. Cycle every cheap card ([[River Skipper||122092]]) to spend gold and stay infinite. Leave [[Persistent Poet||108463]] on your board to capture permanent stats from Evoker. The best dragon to scale is [[Warpwing||92413]]. Get permanent divine shield and windfury on it using [[Amber guardian||95006]] and [[Thousandth Paper Drake||108116]] to end on in a turn."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/73/
+msgid "[[Fire-forged Evoker||120301]] + [[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/73/
+msgid "[[Sky Admiral Rogers||122516]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/73/
+msgid "Cast spells to scale dragons"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/89/
@@ -90,10 +110,6 @@ msgstr ""
 msgid "Bounty Generation ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]] + [[Forsaken Weaver||126733]]"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Sky Admiral Rogers||122516]]"
-msgstr ""
-
 #: summary | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Scale undead attack with infinite gold"
 msgstr ""
@@ -138,6 +154,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/15/
 msgid "Cycle battlecries to scale dragons"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/38/
+msgid "Beasts - Beetles"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/38/
+msgid "With early [[Ravaging Scorpid||132949]] or [[Turquoise Skitterer||119255]], start scaling the stats of beetles. [[Headhunter Gryphon||132800]] can help you generate pieces of the comp with the help of [[Snarky Shark||132804]]. Run as many [[Banana Slamma||98824]] as possible, as they double the attack of your beetles and helps deals with high HP boards."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/38/
+msgid "Early [[Ravaging Scorpid||132949]] or [[Turquoise Skitterer||119255]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/38/
+msgid "[[Headhunter Gryphon||132800]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/38/
+msgid "Summon large beetles"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/90/
@@ -322,6 +358,26 @@ msgstr ""
 msgid "Cast spells on Mechs"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/13/
+msgid "Demons - Self Damage"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/13/
+msgid "The idea of this comp is to use effects such as [[Malchezaar, Prince of Dance||99199]], [[Wrath Weaver||59670]], or trinkets to deal damage to your hero, and [[Ashen Corruptor||121687]] to negate this damage. [[Tichondrius||99228]] is some payoff for self damage, and used to stabilize in the midgame. Cupcakes generation with [[Eredar Escapist||133028]] is your main payoff for the lategame, targetting [[Ashen Corruptor||121687]] to buff your shop. [[Balinda Stonehearth||130298]] doubles the effect of both Cupcakes and [[Devilish Distractor||132901]]. With [[Wrath Weaver||59670]], every single Demon played makes your next spell free which generates a ton of value. The best demon generation is from [[Brann Bronzebeard||96786]] and cycling [[Imposing Percussionist||99232]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/13/
+msgid "[[Ashen Corruptor||121687]] + self damage ([[Wrath Weaver||59670]] or [[Malchezaar, Prince of Dance||99199]]) + payoff ([[Tichondrius||99228]] or [[Eredar Escapist||133028]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/13/
+msgid "[[Wrath Weaver||59670]] + [[Soul Rewinder||100949]] demon midgame"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/13/
+msgid "Use self-damage to scale"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Demons - Shop Buff"
 msgstr ""
@@ -364,24 +420,20 @@ msgstr ""
 msgid "Buff stat scaling on Elementals."
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/38/
-msgid "Beasts - Summon Beetles"
+#: name | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Beasts - Summons"
 msgstr ""
 
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/38/
-msgid "With early [[Ravaging Scorpid||132949]] or [[Turquoise Skitterer||119255]], start scaling the stats of beetles. [[Headhunter Gryphon||132800]] can help you generate pieces of the comp with the help of [[Snarky Shark||132804]]. Run as many [[Banana Slamma||98824]] as possible, as they double the attack of your beetles and helps deals with high HP boards."
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/12/
+msgid "First, have [[Headhunter Gryphon||132800]] in the midgame to start generating many beasts and along the way, generate the core pieces to this comp. Then, proc [[Goldrinn, the Great Wolf||59955]] during shop phase with the help of [[Deathstrider||132808]]. [[Titus Rivendare||97408]] also doubles the effectiveness of this strategy. Force your Gryphon to attack using [[Lurking Lionfish||132794]] activate or cycling [[Snarky Shark||132804]]. Best case is when you chain shop attacks by generating more Lionfish and Sharks. Then, use [[Sewer Lord||130996]] and [[Banana Slamma||98824]] to benefit from the aura from Goldrinn and summon huge attack beasts."
 msgstr ""
 
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/38/
-msgid "Early [[Ravaging Scorpid||132949]] or [[Turquoise Skitterer||119255]]"
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/12/
+msgid "[[Headhunter Gryphon||132800]] + [[Deathstrider||132808]] + [[Goldrinn, the Great Wolf||59955]]"
 msgstr ""
 
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/38/
-msgid "[[Headhunter Gryphon||132800]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/38/
-msgid "Summon large beetles"
+#: summary | https://hsreplay.net/battlegrounds/comps/12/
+msgid "Scale summoned beasts in combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/87/
