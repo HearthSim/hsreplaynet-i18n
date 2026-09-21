@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-17 01:40\n"
+"POT-Creation-Date: 2026-09-21 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,29 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-09-20 12:40\n"
-
-#: name | https://hsreplay.net/battlegrounds/comps/67/
-msgid "Murlocs - APM"
-msgstr "鱼人 - 手速"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/67/
-msgid "First, have a ton of economy, typically starting from golden [[Brann Bronzebeard||96786]] or Brann + [[Magicfin Mycologist||122277]], remembering premium economy spells such as Cloning Conch or Battlecry Discovery. Then, your payoff card for all that economy is [[Shamanic Tidecaller||133026]]. Paired with [[Balinda Stonehearth||130298]], play as many spells on the tidecaller as possible, which could be bloodgems or [[Oozeling Gladiator||103670]] spells. Scale premium murlocs in hand such as [[Bile Spitter||122219]] and [[Expert Aviator||126637]] so you can summon them and also [[Choral Mrrrglr||98948]] can capture all of the stats of the murlocs in your hand."
-msgstr "首先，你需要拥有大量经济资源，通常从金色 [[Brann Bronzebeard||96786]]，或铜须配合 [[Magicfin Mycologist||122277]] 开始。同时要留意克隆海螺或战吼发现等优质经济法术。接下来，利用这些经济资源取得核心收益的卡牌是 [[Shamanic Tidecaller||133026]]。配合 [[Balinda Stonehearth||130298]]，尽可能对潮汐召唤者使用更多法术，例如鲜血宝石或 [[Oozeling Gladiator||103670]] 生成的法术。强化手牌中的优质鱼人，例如 [[Bile Spitter||122219]] 和 [[Expert Aviator||126637]]。这样既可以在战斗中召唤它们，也能让 [[Choral Mrrrglr||98948]] 获得你手牌中所有鱼人的属性值。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/67/
-msgid "[[Brann Bronzebeard||96786]] + lots of economy + [[Shamanic Tidecaller||133026]]"
-msgstr "[[Brann Bronzebeard||96786]] + 大量经济 + [[Shamanic Tidecaller|||133026]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/67/
-msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Shamanic Tidecaller||133026]]"
-msgstr "[[Brann Bronzebeard||96786]]\n"
-"[[Shamanic Tidecaller|||133026]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/67/
-msgid "Play spells to scale Murlocs."
-msgstr "释放酒馆法术扩大鱼人的属性。"
+"PO-Revision-Date: 2026-09-21 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/73/
 msgid "Dragons - APM Evoker"
@@ -100,8 +78,8 @@ msgid "Cast spells to consume buffed shop."
 msgstr "施放法术法术吞噬酒馆。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Pirates - APM Undead"
-msgstr "海盗 - 亡灵手速"
+msgid "Undead - APM Undead"
+msgstr "亡灵 - 手速"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
 msgid "[[Sky Admiral Rogers||122516]] combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup.  Additional cards that help you become infinite include [[Enterprising Escapee||132762]] and [[Brann Bronzebeard||96786]], but can be cut once you commit more undeads to your board. Cycle every single free card ([[Refreshing Anomaly||64042]]) so you stay infinite. After you're infinite, scale undead attack using bounties + [[Forsaken Weaver||126733]]. Run a reborn golden [[Handless Forsaken||95265]] to be strong. Also use [[Snazzy Phantom||133083]] and cycle every single destroy undead effect such as [[Maw Caster||121508]] and [[Disguised Graverobber||104610]] to destroy reborns and give snazzy permanent stats."
@@ -458,6 +436,28 @@ msgstr "[[Headhunter Gryphon||132800]] + [[Deathstrider||132808]]"
 #: summary | https://hsreplay.net/battlegrounds/comps/87/
 msgid "Trigger Lobster Deathrattle to scale"
 msgstr "触发龙虾亡语以成长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/67/
+msgid "Murlocs - Tidecaller"
+msgstr "鱼人 - 萨满招潮者"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/67/
+msgid "First, have a ton of economy, typically starting from golden [[Brann Bronzebeard||96786]] or Brann + [[Magicfin Mycologist||122277]], remembering premium economy spells such as Cloning Conch or Battlecry Discovery. Then, your payoff card for all that economy is [[Shamanic Tidecaller||133026]]. Paired with [[Balinda Stonehearth||130298]], play as many spells on the tidecaller as possible, which could be bloodgems or [[Oozeling Gladiator||103670]] spells. Scale premium murlocs in hand such as [[Bile Spitter||122219]] and [[Expert Aviator||126637]] so you can summon them and also [[Choral Mrrrglr||98948]] can capture all of the stats of the murlocs in your hand."
+msgstr "首先，你需要拥有大量经济资源，通常从金色 [[Brann Bronzebeard||96786]]，或铜须配合 [[Magicfin Mycologist||122277]] 开始。同时要留意克隆海螺或战吼发现等优质经济法术。接下来，利用这些经济资源取得核心收益的卡牌是 [[Shamanic Tidecaller||133026]]。配合 [[Balinda Stonehearth||130298]]，尽可能对潮汐召唤者使用更多法术，例如鲜血宝石或 [[Oozeling Gladiator||103670]] 生成的法术。强化手牌中的优质鱼人，例如 [[Bile Spitter||122219]] 和 [[Expert Aviator||126637]]。这样既可以在战斗中召唤它们，也能让 [[Choral Mrrrglr||98948]] 获得你手牌中所有鱼人的属性值。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/67/
+msgid "[[Brann Bronzebeard||96786]] + lots of economy + [[Shamanic Tidecaller||133026]]"
+msgstr "[[Brann Bronzebeard||96786]] + 大量经济 + [[Shamanic Tidecaller|||133026]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/67/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"[[Shamanic Tidecaller||133026]]"
+msgstr "[[Brann Bronzebeard||96786]]\n"
+"[[Shamanic Tidecaller|||133026]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/67/
+msgid "Play spells to scale Murlocs."
+msgstr "释放酒馆法术扩大鱼人的属性。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/92/
 msgid "Elementals - Unbound Tempest"
