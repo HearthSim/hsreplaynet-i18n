@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-24 01:40+0000\n"
-"PO-Revision-Date: 2026-09-24 12:40\n"
+"POT-Creation-Date: 2026-09-25 01:40+0000\n"
+"PO-Revision-Date: 2026-09-25 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -62,7 +62,7 @@ msgstr "{input} は {enum} の有効なメンバーではありません。"
 msgid "String value too large."
 msgstr ""
 
-#: api/serializers/battlegrounds.py:548
+#: api/serializers/battlegrounds.py:555
 #, python-brace-format
 msgid "{tribe_name} - {instance.name}"
 msgstr ""
@@ -114,47 +114,47 @@ msgstr ""
 msgid "Code has been applied to your account."
 msgstr "コードが適用されています。"
 
-#: settings.py:475
+#: settings.py:476
 msgid "Full access to your HSReplay.net account"
 msgstr ""
 
-#: settings.py:476
+#: settings.py:477
 msgid "Access information about your connected social accounts"
 msgstr ""
 
-#: settings.py:477
+#: settings.py:478
 msgid "View your Hearthstone card collection"
 msgstr "あなたのハースストーンのカード・コレクションを見る"
 
-#: settings.py:478
+#: settings.py:479
 msgid "Upload your Hearthstone card collection to the site"
 msgstr ""
 
-#: settings.py:479
+#: settings.py:480
 msgid "View your replays"
 msgstr "自分のリプレイを見る"
 
-#: settings.py:480
+#: settings.py:481
 msgid "Update and delete your replays"
 msgstr ""
 
-#: settings.py:481
+#: settings.py:482
 msgid "Access the Partner API"
 msgstr "パートナーAPIにアクセスします。"
 
-#: settings.py:482
+#: settings.py:483
 msgid "Read access to the tournaments service"
 msgstr "トーナメントサービスへの読み取りアクセス"
 
-#: settings.py:483
+#: settings.py:484
 msgid "Write access to the tournaments service"
 msgstr "トーナメントサービスへの書き込みアクセス"
 
-#: settings.py:484
+#: settings.py:485
 msgid "View your webhooks"
 msgstr "あなたのwebhooksを表示します。"
 
-#: settings.py:485
+#: settings.py:486
 msgid "Create and delete webhooks on your behalf"
 msgstr "webhooksを作成、削除"
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-23T01:40:29.265561\n"
+"POT-Creation-Date: 2026-09-25T01:40:28.274734\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Thai\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: th_TH\n"
-"PO-Revision-Date: 2026-09-23 12:40\n"
+"PO-Revision-Date: 2026-09-25 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/117409/ Hero id 117409 | Guide id
 #: 695
@@ -202,11 +202,6 @@ msgstr ""
 msgid "The less armor a hero starts off with, the better pick it'll be with Finley. Snake Eyes starts with 6 armor, but if you pick it with Finley then you gain some extra armor with a good hero power."
 msgstr ""
 
-#: https://hsreplay.net/battlegrounds/heroes/74646/ Hero id 74646 | Guide id
-#: 150
-msgid "The best strategy with this hero is to taunt up a start of combat unit that starts small to get your hero power proc, and then gains stats before it dies. The best one is [[Choral Mrrglr]]. [[Heroic Underdog||126966]] works as well."
-msgstr ""
-
 #: https://hsreplay.net/battlegrounds/heroes/60214/ Hero id 60214 | Guide id
 #: 125
 msgid "Typically, Murlocs and Elementals can utilize Brann the best, so you must have those tribes in."
@@ -215,6 +210,11 @@ msgstr ""
 #: https://hsreplay.net/battlegrounds/heroes/57944/ Hero id 57944 | Guide id
 #: 27
 msgid "Value generator or scaling 4 drops are by far the best ones, such as [[Seafloor Recruiter||126916]] or [[Bigwig Bandit||122179]]. Same thing with value generating 3 drops, such as [[Accord-o-tron||98576]]."
+msgstr ""
+
+#: https://hsreplay.net/battlegrounds/heroes/74646/ Hero id 74646 | Guide id
+#: 150
+msgid "The best strategy with this hero is to have a start of combat unit that starts small to get your hero power proc, and then gains stats before it dies. [[Heroic Underdog||126966]] works."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/60370/ Hero id 60370 | Guide id
@@ -429,7 +429,7 @@ msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/57891/ Hero id 57891 | Guide id
 #: 23
-msgid "In the early game, buy every [[River Skipper||122092]] and [[Patient Scout||97604]] as they generate you money. In the lategame, Gallywix relies on [[Brann Bronzebeard||96786]] to cycle lots of cards to ramp up economy. You must play a cycle composition with this hero, so try not to go Beasts or Undeads."
+msgid "In the early game, buy every [[Tad||87060]] and [[Patient Scout||97604]] as they generate you money. In the lategame, Gallywix relies on [[Brann Bronzebeard||96786]] to cycle lots of cards to ramp up economy. You must play a cycle composition with this hero, so try not to go Beasts or Undeads."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/71463/ Hero id 71463 | Guide id
@@ -499,7 +499,7 @@ msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/57946/ Hero id 57946 | Guide id
 #: 28
-msgid "Try to go tavern 4 on 5 to get early [[Auto Assembler||120025]], which should provide midgame stabilization."
+msgid "Go tavern 4 on turn 5 to start printing [[Accord-o-tron||98576]] ASAP. Then, lean into Volumizer Mechs with [[Conveyor Construct]]."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/74631/ Hero id 74631 | Guide id

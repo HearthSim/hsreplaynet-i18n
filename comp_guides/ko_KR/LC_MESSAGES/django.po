@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-23 01:40\n"
+"POT-Creation-Date: 2026-09-25 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Korean\n"
 "Language: ko\n"
@@ -15,27 +15,7 @@ msgstr ""
 "X-Crowdin-Language: ko\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-09-23 12:40\n"
-
-#: name | https://hsreplay.net/battlegrounds/comps/73/
-msgid "Dragons - APM Evoker"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/73/
-msgid "[[Fire-Forged Evoker||120301]] scales with the amount of spells you cast. Your spell generation comes from casting bounties with [[Sky Admiral Rogers||122516]] and [[Proud Privateer||122520]]. Must be infinite with this comp, may use [[Brann Bronzebeard||96786]] or [[Enterprising Escapee||132762]] to help achieve that. Cycle every cheap card ([[River Skipper||122092]]) to spend gold and stay infinite. Leave [[Persistent Poet||108463]] on your board to capture permanent stats from Evoker. The best dragon to scale is [[Warpwing||92413]]. Get permanent divine shield and windfury on it using [[Amber guardian||95006]] and [[Thousandth Paper Drake||108116]] to end on in a turn."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/73/
-msgid "[[Fire-forged Evoker||120301]] + [[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/73/
-msgid "[[Sky Admiral Rogers||122516]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/73/
-msgid "Cast spells to scale dragons"
-msgstr ""
+"PO-Revision-Date: 2026-09-25 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/89/
 msgid "Pirates - APM Golden"
@@ -87,6 +67,10 @@ msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
 msgid "Bounty Generation ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]] + [[Forsaken Weaver||126733]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
+msgid "[[Sky Admiral Rogers||122516]]"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/3/
@@ -155,26 +139,6 @@ msgstr ""
 msgid "Summon large beetles"
 msgstr ""
 
-#: name | https://hsreplay.net/battlegrounds/comps/90/
-msgid "Quilboar - Bristlemane"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/90/
-msgid "First, have gems scaled, usually with early [[Gem Rat||116434]]. Then, use [[Vigilant Bristlemane||132320]] to cast gems on the most premium card which is [[Blade Collector||99035]] or any premium dark gifts. Balinda is crucial to double Bristemane's effect. Concentrate all your gems on your juggernaut every turn using your Gem Confiscation from [[Trench Fighter||126671]]. In the endgame, starting filling out your board with ending units such as [[Leeroy the Reckless||90425]]."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/90/
-msgid "Buffed Gems ([[Gem Rat||116434]]) + [[Vigilant Bristlemane||132320]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/90/
-msgid "Buffed gems ([[Gem Rat||116434]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/90/
-msgid "Cast spells on Quilboar to scale."
-msgstr ""
-
 #: name | https://hsreplay.net/battlegrounds/comps/88/
 msgid "Quilboar - Choose One"
 msgstr ""
@@ -193,26 +157,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/88/
 msgid "Play Choose One cards to scale"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/68/
-msgid "Mechs - Deathrattle"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/68/
-msgid "First, have a deathrattle midgame to have a scaled [[Falling Sky Golem||130798]] already. Taunt reborn it. Resummon it with [[Kangor's apprentice||59935]]. Fill out the rest of your board with scam such as [[Leeroy the Reckless||90425]]."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/68/
-msgid "[[Falling Sky Golem||130798]] + [[Kangor's Apprentice||59935]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/68/
-msgid "Big [[Falling Sky Golem||130798]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/68/
-msgid "Summon huge golems"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/55/
@@ -234,27 +178,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/55/
 msgid "Scale end of turn with spell power"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/93/
-msgid "Murlocs - Family"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/93/
-msgid "Generate [[Papa Mrrglton||131147]] or [[Mama Mrrglton||131145]] early on with [[Cousin Errgl||131149]]. Use [[Brann Bronzebeard||96786]] to double the effect of all of these battlecries. [[Primalfin Lookout||60028]] is a great battlecry to cycle to generate more Papas and Mamas, and buy every Papa and Mama from shop as well. Leave a golden Mrrglton on your board to proc with [[Kelp Keeper||132883]]. Could choose to buff premium murlocs such as [[Bile Spitter||122219]] or [[Expert Aviator||126637]] that can summon scam units."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/93/
-msgid "Early [[Cousin Errgl||131149]] + [[Brann Bronzebeard||96786]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/93/
-msgid "Early [[Cousin Errgl||131149]]\n"
-"[[Brann Bronzebeard||96786]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/93/
-msgid "Scale Murlocs with battlecries"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/20/
@@ -295,26 +218,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/83/
 msgid "Make huge attack summons"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Mechs - Magnetics"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/2/
-msgid "With [[Spark Snapper||132676]], generate as many magnetics as possible so every magnet you play is huge. The best generation is [[Scrap Scraper||98592]]. Then, use [[Drone Duplicator||132312]] to duplicate a big magnetic a turn, preferable [[Accord-o-tron||98576]] for money."
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Magnetic Generation ([[Scrap Scraper||98592]]) + [[Spark Snapper||132676]]"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Magnetic Generation ([[Scrap Scraper||98592]])"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/2/
-msgid "Magnetize huge mechs"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/91/
@@ -376,27 +279,6 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Scale and consume shop"
-msgstr ""
-
-#: name | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Elementals - Stat scaling"
-msgstr ""
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Buff your stat scaling through either [[Moat Custodian||132981]] or early [[Glowing Cinder||119951]]. Then, if you have Manasurge, cycle every good elemental ([[Sellemental||64038]], [[Tavern Tempest||64077]], [[Refreshing Anomaly||64042]], [[Sand Swirler||119949]]). It's even better if you cycle those cards with [[Brann Bronzebeard||96786]]. The best elemental engine in the game is [[Kelp Keeper||132883]] + [[Tavern Tempest||64077]] or [[Gentle Djinni]] if Murlocs are in. If your economy is really good you can add [[Unbound Tempest||132983]] while buffing the shop,"
-msgstr ""
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/37/
-msgid "[[Unleashed Mana Surge||120674]] + [[Brann Bronzebeard||96786]] + Stat scaling ([[Glowing Cinder||119951]])"
-msgstr ""
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/37/
-msgid "[[Glowing Cinder||119951]] + Ele Midgame\n"
-"[[Brann Bronzebeard||96786]]"
-msgstr ""
-
-#: summary | https://hsreplay.net/battlegrounds/comps/37/
-msgid "Buff stat scaling on Elementals."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/12/

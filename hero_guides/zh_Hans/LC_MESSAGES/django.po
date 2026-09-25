@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-23T01:40:29.265561\n"
+"POT-Creation-Date: 2026-09-25T01:40:28.274734\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-09-24 12:40\n"
+"PO-Revision-Date: 2026-09-25 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/117409/ Hero id 117409 | Guide id
 #: 695
@@ -202,11 +202,6 @@ msgstr "布鲁坎最常见的英雄技能是闪电祈咒，可以在打破对手
 msgid "The less armor a hero starts off with, the better pick it'll be with Finley. Snake Eyes starts with 6 armor, but if you pick it with Finley then you gain some extra armor with a good hero power."
 msgstr "英雄的起始护甲越低，就越适合与芬利搭配。蛇眼的起始护甲是6，但如果与芬利搭配，就能获得额外的护甲和不错的英雄技能。"
 
-#: https://hsreplay.net/battlegrounds/heroes/74646/ Hero id 74646 | Guide id
-#: 150
-msgid "The best strategy with this hero is to taunt up a start of combat unit that starts small to get your hero power proc, and then gains stats before it dies. The best one is [[Choral Mrrglr]]. [[Heroic Underdog||126966]] works as well."
-msgstr "这个英雄最好的打法，是给一个初始属性值较低、会在战斗开始时获得属性值的随从加上嘲讽，让它触发英雄技能，并在阵亡前变强。最佳选择是[[合唱鱼人]]。[[英勇的逆袭者||126966]]也可以。"
-
 #: https://hsreplay.net/battlegrounds/heroes/60214/ Hero id 60214 | Guide id
 #: 125
 msgid "Typically, Murlocs and Elementals can utilize Brann the best, so you must have those tribes in."
@@ -216,6 +211,11 @@ msgstr "通常，鱼人和元素可以最好地利用布莱恩·铜须，因此�
 #: 27
 msgid "Value generator or scaling 4 drops are by far the best ones, such as [[Seafloor Recruiter||126916]] or [[Bigwig Bandit||122179]]. Same thing with value generating 3 drops, such as [[Accord-o-tron||98576]]."
 msgstr "生成资源或提供成长的4级随从无疑是最好的，例如[[海床招募者||126916]] 或 [[顶尖大盗||122179]]。生成资源的3级随从也是如此，例如[[手风琴机器人||98576]]。"
+
+#: https://hsreplay.net/battlegrounds/heroes/74646/ Hero id 74646 | Guide id
+#: 150
+msgid "The best strategy with this hero is to have a start of combat unit that starts small to get your hero power proc, and then gains stats before it dies. [[Heroic Underdog||126966]] works."
+msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/60370/ Hero id 60370 | Guide id
 #: 54
@@ -429,8 +429,8 @@ msgstr "如果你在早期看到 [[永恒骑士||95261]] 或带有“刷新眼�
 
 #: https://hsreplay.net/battlegrounds/heroes/57891/ Hero id 57891 | Guide id
 #: 23
-msgid "In the early game, buy every [[River Skipper||122092]] and [[Patient Scout||97604]] as they generate you money. In the lategame, Gallywix relies on [[Brann Bronzebeard||96786]] to cycle lots of cards to ramp up economy. You must play a cycle composition with this hero, so try not to go Beasts or Undeads."
-msgstr "在游戏前期，购买每一张[[江河弹跳鱼||122092]] 和 [[耐心的侦查员||97604]]，因为它们能为你带来经济。在游戏后期，加里维克斯依靠 [[布莱恩·铜须||96786]] 循环使用大量卡牌来增加经济。你必须用这个英雄玩循环流派，所以尽量不要用野兽或亡灵。"
+msgid "In the early game, buy every [[Tad||87060]] and [[Patient Scout||97604]] as they generate you money. In the lategame, Gallywix relies on [[Brann Bronzebeard||96786]] to cycle lots of cards to ramp up economy. You must play a cycle composition with this hero, so try not to go Beasts or Undeads."
+msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/71463/ Hero id 71463 | Guide id
 #: 22
@@ -499,8 +499,8 @@ msgstr "在游戏初期买下每一个海盗。直接使用英雄技能通常也
 
 #: https://hsreplay.net/battlegrounds/heroes/57946/ Hero id 57946 | Guide id
 #: 28
-msgid "Try to go tavern 4 on 5 to get early [[Auto Assembler||120025]], which should provide midgame stabilization."
-msgstr "尝试在第5回合升级到4级酒馆获取早期的 [[自动装配机||120025]]，这应该能提供中期的稳定发展。"
+msgid "Go tavern 4 on turn 5 to start printing [[Accord-o-tron||98576]] ASAP. Then, lean into Volumizer Mechs with [[Conveyor Construct]]."
+msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/74631/ Hero id 74631 | Guide id
 #: 37

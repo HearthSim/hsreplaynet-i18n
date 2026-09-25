@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-24 01:40+0000\n"
-"PO-Revision-Date: 2026-09-24 12:40\n"
+"POT-Creation-Date: 2026-09-25 01:40+0000\n"
+"PO-Revision-Date: 2026-09-25 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -62,7 +62,7 @@ msgstr "{input} no es un miembro valido de {enum}."
 msgid "String value too large."
 msgstr ""
 
-#: api/serializers/battlegrounds.py:548
+#: api/serializers/battlegrounds.py:555
 #, python-brace-format
 msgid "{tribe_name} - {instance.name}"
 msgstr ""
@@ -114,47 +114,47 @@ msgstr ""
 msgid "Code has been applied to your account."
 msgstr "Código ha sido aplicado a su cuenta."
 
-#: settings.py:475
+#: settings.py:476
 msgid "Full access to your HSReplay.net account"
 msgstr "Acceso total a tu cuenta de HSReplay.net"
 
-#: settings.py:476
+#: settings.py:477
 msgid "Access information about your connected social accounts"
 msgstr "Información de tu cuenta sobre tus cuentas de redes sociales"
 
-#: settings.py:477
+#: settings.py:478
 msgid "View your Hearthstone card collection"
 msgstr "Ver colección de Hearthstone"
 
-#: settings.py:478
+#: settings.py:479
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Subir colección de cartas de Hearthstone a la web"
 
-#: settings.py:479
+#: settings.py:480
 msgid "View your replays"
 msgstr "Ver tus repeticiones"
 
-#: settings.py:480
+#: settings.py:481
 msgid "Update and delete your replays"
 msgstr "Subir y borrar tus repeticiones"
 
-#: settings.py:481
+#: settings.py:482
 msgid "Access the Partner API"
 msgstr "Acceder al API asociada"
 
-#: settings.py:482
+#: settings.py:483
 msgid "Read access to the tournaments service"
 msgstr "Leer accesos al servicio de torneos"
 
-#: settings.py:483
+#: settings.py:484
 msgid "Write access to the tournaments service"
 msgstr "Acceder al servicio de torneos"
 
-#: settings.py:484
+#: settings.py:485
 msgid "View your webhooks"
 msgstr "Ver tus webhooks"
 
-#: settings.py:485
+#: settings.py:486
 msgid "Create and delete webhooks on your behalf"
 msgstr "Crear y borrar webhooks en tu posesión"
 
