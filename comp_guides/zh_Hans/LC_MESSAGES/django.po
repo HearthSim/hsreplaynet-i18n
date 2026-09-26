@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-25 01:40\n"
+"POT-Creation-Date: 2026-09-26 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-09-25 12:40\n"
+"PO-Revision-Date: 2026-09-26 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/89/
 msgid "Pirates - APM Golden"
@@ -160,48 +160,6 @@ msgstr "[[Gem Rat||116434]]"
 #: summary | https://hsreplay.net/battlegrounds/comps/88/
 msgid "Play Choose One cards to scale"
 msgstr "打出抉择卡来成长"
-
-#: name | https://hsreplay.net/battlegrounds/comps/55/
-msgid "Nagas - End Of Turn/Spell Buff"
-msgstr "纳迦 - 回合结束/法术强化"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/55/
-msgid "[[Felfire Conjurer||120299]] buffs your spell power, while [[Fauna Whisperer||120905]] uses that spell power to buff your board at the end of the turn. Both effects are amplified by [[Drakkari Enchanter||101314]]. The best target to buff with [[Fauna Whisperer||120905]] is [[Gatekeeper Amalgam||133329]] because it is an all tribe which buffs all your tribed units, and also it additionally casts Misplaced Tea Sets which benefit from spell power. Buy cheap targetted spells to use on Amalgam when you have [[Balinda Stonehearth||130298]]."
-msgstr "[[Felfire Conjurer||120299]] 可以提高你的法术加成，而 [[Fauna Whisperer||120905]] 会在回合结束时利用这些法术加成强化你的场面。[[Drakkari Enchanter||101314]] 可以使这两种效果得到进一步增强。[[Fauna Whisperer||120905]] 的最佳强化目标是 [[Gatekeeper Amalgam||133329]]，因为它拥有全部随从类型，可以使你所有具有随从类型的随从获得强化；此外，它还会额外施放“乱放的茶具”，同样能够受益于法术加成。拥有 [[Balinda Stonehearth||130298]] 时，购买低费用的定向法术，并将其用于融合怪。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/55/
-msgid "Spell power ([[Felfire Conjurer||120299]]) + [[Fauna Whisperer||120905]] or [[Gatekeeper Amalgam||133329]]"
-msgstr "法强 ([[Felfire Conjurer||120299]]) + [[Fauna Whisperer||120905]] 或 [[Gatekeeper Amalgam||133329]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/55/
-msgid "Spell power ([[Felfire Conjurer||120299]])\n"
-"[[Fauna Whisperer||120905]]"
-msgstr "法强 ([[Felfire Conjurer||120299]])\n"
-"[[Fauna Whisperer||120905]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/55/
-msgid "Scale end of turn with spell power"
-msgstr "在回合结束时通过法术强化"
-
-#: name | https://hsreplay.net/battlegrounds/comps/20/
-msgid "Nagas - Groundbreaker"
-msgstr "纳迦 - 碎地者"
-
-#: how_to_play | https://hsreplay.net/battlegrounds/comps/20/
-msgid "First, you must have had a Naga midgame so you casted a lot of spells. Your naga generation setup consists of [[Seafloor Recruiter||126916]] + [[Balinda Stonehearth||130298]] and/or [[Sky-Hatch Runaway||132957]]. After you have at least 2 Groundbreakers, cycle every naga that has a good effect on top of it, such as [[Shell collector||80740]] and [[Darkcrest Strategist||115555]]."
-msgstr "首先，你必须拥有过中期过度纳迦，因此你施放过大量的法术。你的纳迦生成阵容由 [[Seafloor Recruiter||126916]] + [[Balinda Stonehearth||130298]] 和/或 [[Sky-Hatch Runaway||132957]] 组成。在你至少拥有2个碎地者后，循环使用那些对它有良好效果的纳迦，例如 [[Shell collector||80740]] 和 [[Darkcrest Strategist||115555]]。"
-
-#: when_to_commit | https://hsreplay.net/battlegrounds/comps/20/
-msgid "[[Seafloor Recruiter||126916]] plus [[Groundbreaker||114816]]"
-msgstr "[[Seafloor Recruiter||126916]] + [[Groundbreaker||114816]]"
-
-#: common_enablers | https://hsreplay.net/battlegrounds/comps/20/
-msgid "[[Seafloor Recruiter||126916]]"
-msgstr "[[Seafloor Recruiter||126916]]"
-
-#: summary | https://hsreplay.net/battlegrounds/comps/20/
-msgid "Play spells and nagas to scale"
-msgstr "打出法术和纳迦来成长"
 
 #: name | https://hsreplay.net/battlegrounds/comps/83/
 msgid "Beasts - Leviathan"
