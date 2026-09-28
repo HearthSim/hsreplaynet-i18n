@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-26 01:40\n"
+"POT-Creation-Date: 2026-09-28 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-09-28 00:40\n"
+"PO-Revision-Date: 2026-09-28 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/89/
 msgid "Pirates - APM Golden"
@@ -160,6 +160,50 @@ msgstr "[[Gem Rat||116434]]"
 #: summary | https://hsreplay.net/battlegrounds/comps/88/
 msgid "Play Choose One cards to scale"
 msgstr "打出抉择卡来成长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/94/
+msgid "Aberrations - Deathrattle/Spells"
+msgstr "畸变怪 - 亡语/法术"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/94/
+msgid "A LOT BETTER WITH CHTUN AS DEITY! Scale your deity with [[Faceless Converter||132331]] + [[Titus Rivendare||97408]]. Generate spells to scale your Converter, best using [[Unwilling Slacker||131700]], but [[N'raqi Sapper||131704]], [[Nightmare Corroder||133102]], or the APM Bounty package works too. Then, proc the deathrattle as many times as possible, typically using [[Deathstrider||132808]]. Best strategy is to use a beast rally ([[Headhunter Gryphon||132800]]), cycle [[Snarky Shark||132804]] and [[Lurking Lionfish||132794]] to proc your deathrattle during shop phase."
+msgstr "神明是克苏恩时强得多！使用 [[Faceless Converter||132331]] + [[Titus Rivendare||97408]] 强化你的神明。生成法术来强化无面转化者，最好的方式是使用 [[Unwilling Slacker||131700]]，不过 [[N'raqi Sapper||131704]]、[[Nightmare Corroder||133102]] 或手速悬赏令体系也可以。然后尽可能多次触发亡语，通常需要使用 [[Deathstrider||132808]]。最佳策略是使用野兽进击（[[Headhunter Gryphon||132800]]），并循环使用 [[Snarky Shark||132804]] 和 [[Lurking Lionfish||132794]]，在酒馆招募阶段触发你的亡语。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/94/
+msgid "[[Faceless Converter||132331]] + [[Titus Rivendare||97408]]\n"
+"[[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]] pivot highest cap"
+msgstr "[[Faceless Converter||132331]] + [[Titus Rivendare||97408]]\n"
+"[[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]] 阵容上限最高"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/94/
+msgid "Spell generation ([[Unwilling Slacker||131700]])"
+msgstr "法术生成 ([[Unwilling Slacker||131700]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/94/
+msgid "Play spells and proc deathrattle to scale Deity"
+msgstr "施放酒馆法术并触发亡语，让神明不断成长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/31/
+msgid "Murlocs - Keyword"
+msgstr "鱼人 - 关键词"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/31/
+msgid "Use Sewer Escapee and start putting keywords on a premium murloc early. The best one is [[Expert Aviator||126637]], and the second best one is [[Bile Spitter||122219]]. Then, use [[Brann Bronzebeard||96786]] to cycle [[Primalfin Lookout||60028]] and Hackerfin. Even better if you can proc a premium battecry repeatedly with [[Kelp Keeper||132883]]. With [[Expert Aviator||126637]], you want to summon a million scam cards from hand such as [[Leeroy, The Reckless||90425]] and [[Deadly Spore||65031]]."
+msgstr "尽早使用下水道逃生鱼人，给一只优质鱼人添加额外关键词。首选[[Expert Aviator||126637]]，其次是[[Bile Spitter||122219]]。然后用 [[Brann Bronzebeard||96786]] 循环使用[[Primalfin Lookout||60028]]和黑客鱼人。如果还能用[[Kelp Keeper||132883]]反复触发优质战吼，效果会更好。使用[[Expert Aviator||126637]]时，尽量从手牌中大量召唤[[Leeroy, The Reckless||90425]]和[[Deadly Spore||65031]]等针对型随从。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/31/
+msgid "[[Brann Bronzebeard||96786]] + Sewer Escapee"
+msgstr "[[Brann Bronzebeard||96786]] + 下水道逃生鱼人"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/31/
+msgid "[[Brann Bronzebeard||96786]]\n"
+"Sewer Escapee"
+msgstr "[[Brann Bronzebeard||96786]]\n"
+"下水道逃生鱼人"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/31/
+msgid "Add Keywords to Murlocs and buff them"
+msgstr "为鱼人赋予额外关键词，并强化它们"
 
 #: name | https://hsreplay.net/battlegrounds/comps/83/
 msgid "Beasts - Leviathan"

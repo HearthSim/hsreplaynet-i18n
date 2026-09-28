@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-25T01:40:28.274734\n"
+"POT-Creation-Date: 2026-09-28T01:40:25.917071\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-09-28 00:40\n"
+"PO-Revision-Date: 2026-09-28 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/117409/ Hero id 117409 | Guide id
 #: 695
@@ -215,7 +215,7 @@ msgstr "生成资源或提供成长的4级随从无疑是最好的，例如[[海
 #: https://hsreplay.net/battlegrounds/heroes/74646/ Hero id 74646 | Guide id
 #: 150
 msgid "The best strategy with this hero is to have a start of combat unit that starts small to get your hero power proc, and then gains stats before it dies. [[Heroic Underdog||126966]] works."
-msgstr ""
+msgstr "这个英雄最好的打法，是使用初始属性值较低、能触发英雄技能，并在阵亡前获得属性值的“战斗开始时”随从。[[英勇的逆袭者||126966]]就很合适。"
 
 #: https://hsreplay.net/battlegrounds/heroes/60370/ Hero id 60370 | Guide id
 #: 54
@@ -409,8 +409,8 @@ msgid "This hero benefits from cycle tribes being in, which are Elementals Murlo
 msgstr "这个英雄得益于元素、鱼人和海盗这些循环流种族。循环使用每张免费牌（[[商贩元素||64038]]、[[耐心的侦查员||97604]]、[[酒馆旋风||64077]]），找一个手速倒转流派开始成长。"
 
 #: https://hsreplay.net/battlegrounds/heroes/64400/ Hero id 64400 | Guide id 4
-msgid "Stabilize with cards that benefit from spell power such as [[Runic Arcanist||132985]] or [[Gormling Gourmet]]"
-msgstr "使用[[符文奥术师||132985]]或戈姆蛴食客等能从法术强度中获益的随从稳住局势"
+msgid "Stabilize with cards that benefit from spell power such as [[Runic Arcanist||132985]] or [[Gormling Gourmet||120689]]"
+msgstr "使用[[符文奥术师||132985]]或[[戈姆蛴食客||120689]]等能从法术强度中获益的随从稳住局势"
 
 #: https://hsreplay.net/battlegrounds/heroes/67356/ Hero id 67356 | Guide id
 #: 17
@@ -499,8 +499,8 @@ msgstr "在游戏初期买下每一个海盗。直接使用英雄技能通常也
 
 #: https://hsreplay.net/battlegrounds/heroes/57946/ Hero id 57946 | Guide id
 #: 28
-msgid "Go tavern 4 on turn 5 to start printing [[Accord-o-tron||98576]] ASAP. Then, lean into Volumizer Mechs with [[Conveyor Construct]]."
-msgstr ""
+msgid "Go tavern 4 on turn 5 to start printing [[Accord-o-tron||98576]] ASAP. Then, lean into Volumizer Mechs with [[Conveyor Construct||126816]]."
+msgstr "第5回合升到4级酒馆，尽快开始持续获取[[手风琴机器人||98576]]。之后利用[[转运构筑机||126816]]，转向扩音机机械流派。"
 
 #: https://hsreplay.net/battlegrounds/heroes/74631/ Hero id 74631 | Guide id
 #: 37
