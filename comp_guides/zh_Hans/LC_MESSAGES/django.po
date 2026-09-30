@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-28 01:40\n"
+"POT-Creation-Date: 2026-09-30 11:05\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,29 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-09-28 12:40\n"
+"PO-Revision-Date: 2026-09-30 11:16\n"
+
+#: name | https://hsreplay.net/battlegrounds/comps/96/
+msgid "Aberrations - APM Deity"
+msgstr "畸变怪 - 手速神明"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/96/
+msgid "Go infinite with pirates, with [[Sky Admiral Rogers||122516]] and [[Proud Privateer||122520]] as core. [[Enterprising Escapee||132762]] and [[Brann Bronzebeard||96786]] help you spend gold at first to start snowballing economy. Then, your scaling is [[The Shadow of Doubt||131716]] to scale your deity. Once infinite, buy every [[Greedy Conniver||134421]] and golden them using [[Eyes of the Earth Mother||100601]] or [[Elite Navigator||119986]] in order to discover [[Sha of Fear||131720]]. Make sure to always end of 3 abberations."
+msgstr "以 [[Sky Admiral Rogers||122516]] 和 [[Proud Privateer||122520]] 为核心，利用海盗实现无限循环。[[Enterprising Escapee||132762]] 和 [[Brann Bronzebeard||96786]] 能帮助你在前期消耗铸币，让经济开始滚雪球。然后，使用 [[The Shadow of Doubt||131716]] 强化你的神明。实现无限循环后，购买遇到的每一张 [[Greedy Conniver||134421]]，并使用 [[Eyes of the Earth Mother||100601]] 或 [[Elite Navigator||119986]] 将其变为金色，以便发现 [[Sha of Fear||131720]]。确保每回合结束时场上始终有3个畸变怪。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/96/
+msgid "[[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]] + [[The Shadow of Doubt||131716]]"
+msgstr "[[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]] + [[The Shadow of Doubt||131716]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/96/
+msgid "[[The Shadow of Doubt||131716]]\n"
+"[[Sky Admiral Rogers||122516]]"
+msgstr "[[The Shadow of Doubt||131716]]\n"
+"[[Sky Admiral Rogers||122516]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/96/
+msgid "Play cards to scale deity."
+msgstr "打出卡牌来强化你的神明。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/89/
 msgid "Pirates - APM Golden"
@@ -36,6 +58,26 @@ msgstr "[[Enterprising Escapee||132762]]"
 #: summary | https://hsreplay.net/battlegrounds/comps/89/
 msgid "Use infinite money to scale pirates"
 msgstr "使用无限铸币来提升海盗属性"
+
+#: name | https://hsreplay.net/battlegrounds/comps/99/
+msgid "Mechs - APM Magnetic"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/99/
+msgid "First, have infinite gold. [[Sky Admiral Rogers||122516]], [[Proud Privateer||122520]], [[Enterprising Escapee||132762]], and [[Brann Bronzebeard||96786]] are all cards to get you infinite gold, and cycle every cheap card ([[Sellemental||64038]]). Then, start generating magnetics with [[Auto Reveille||134417]]. Scale a [[Spark Snapper||132676]] so every magnetic you attach gets big very fast. After you have [[Spark Snapper||132676]], leave a golden [[Drone Duplicator||132312]] on board, and start making a huge volumizer by attaching onto it. Triple it easily with Auto Reveille and then magnetize the huge magnetic you tripled onto the activated Drone Duplicator. Finally, buy every [[Greedy Conniver||134421]] and use Eyes of the Earth Mother on it to get [[Polarizing Beatboxer||98713]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/99/
+msgid "Infinite gold ([[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]]) + [[Auto Reveille||134417]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/99/
+msgid "Infinite gold ([[Sky Admiral Rogers||122516]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/99/
+msgid "Attach bigger and bigger magnetics"
+msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/76/
 msgid "Demons - APM Shop Buff"
@@ -104,8 +146,8 @@ msgid "Dragons - Battlecries"
 msgstr "龙 - 战吼"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/15/
-msgid "[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +4/4 every single battlecry you play. You want to trigger as many battlecries as possible. After you have your setup, cycle only PREMIUM battlecries, such as [[Tavern Tempest||64077]], [[Refreshing Anomaly||64042]], [[Shell Collector||80740]] or [[Draconic Warden||126860]]. The highest cap is to find as many double attack spell every turn, and permanently double the attack of warpwing every turn with the help of [[Persistent Poet||108463]]. Additionally, permanently attach divine shield with [[Amber Guardian||95006]] and permanently attach Windfury on Warpwing with [[Thousandth Paper Drake||108116]]."
-msgstr "[[Brann Bronzebeard||96786]] 与 [[Kalecgos, Arcane Aspect||60630]] 的组合，可以让你的所有龙在每次触发战吼时获得 +4/+4。你的目标是尽可能多地触发战吼。阵容成型后，只循环使用优质战吼随从，例如 [[Tavern Tempest||64077]]、[[Refreshing Anomaly||64042]]、[[Shell Collector||80740]] 或 [[Draconic Warden||126860]]。这套阵容的最高上限，是每回合尽可能多地找到能够使攻击力翻倍的法术，并借助 [[Persistent Poet||108463]]，永久保留折跃之翼每回合翻倍后的攻击力。此外，还可以利用 [[Amber Guardian||95006]] 为折跃之翼永久保留圣盾，并利用 [[Thousandth Paper Drake||108116]] 为其永久保留风怒。"
+msgid "[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +4/4 every single battlecry you play. You want to trigger as many battlecries as possible. After you have your setup, cycle only PREMIUM battlecries, such as [[Tavern Tempest||64077]], [[Refreshing Anomaly||64042]], [[Shell Collector||80740]] or [[Draconic Warden||126860]]. If [[Kelp Keeper||132883]] is in the game, leave it on the board to proc a premium battlecry every turn, preferably [[Draconic Warden||126860]]. The highest cap is to find as many double attack spell every turn, and permanently double the attack of Heroic Broodmother every turn with the help of [[Persistent Poet||108463]]. Additionally, permanently attach divine shield to your dragons with [[Nadina, The Red||60629]]."
+msgstr "[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] 能让你的所有龙在你每使用一张战吼牌后获得+4/+4。你需要触发尽可能多的战吼。阵容成型后，只循环使用优质战吼牌，例如 [[Tavern Tempest||64077]]、[[Refreshing Anomaly||64042]]、[[Shell Collector||80740]] 或 [[Draconic Warden||126860]]。如果本局游戏中有 [[Kelp Keeper||132883]]，就将其留在场上，每回合触发一个优质战吼，最好是 [[Draconic Warden||126860]]。这套阵容的最高上限是每回合尽可能多地寻找使攻击力翻倍的法术，并借助 [[Persistent Poet||108463]]，每回合永久翻倍英勇的巢母的攻击力。此外，还可以使用 [[Nadina, The Red||60629]] 永久为你的龙附加圣盾。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/15/
 msgid "[[Kalecgos, Arcane Aspect||60630]] + [[Brann Bronzebeard||96786]]"
@@ -225,13 +267,29 @@ msgstr "野兽召唤中期过度（甲虫）"
 msgid "Make huge attack summons"
 msgstr "做出巨大的召唤物"
 
+#: name | https://hsreplay.net/battlegrounds/comps/95/
+msgid "Elementals - Living Azerite"
+msgstr "元素 - 活化艾泽里特"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/95/
+msgid "Use [[Living Azerite||107939]] to scale the shop. May use [[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]] to cast a bunch of spells. Then, your payoff for the shop buff is generating as many Arcane Absorption as possible, which is the spell from [[Leyline Surfacer||130294]].  Use [[Brann Bronzebeard||96786]] and [[Kelp Keeper||132883]] to generate them, and [[Balinda Stonehearth||130298]] to doubt its effect. Finally, the best elemental to buff is [[Wildfire Elemental||64189]]."
+msgstr "使用 [[Living Azerite||107939]] 强化酒馆。你可以利用 [[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]] 施放大量法术。然后，酒馆强化的核心收益手段是生成尽可能多的奥术吸收，也就是 [[Leyline Surfacer||130294]] 生成的法术。使用 [[Brann Bronzebeard||96786]] 和 [[Kelp Keeper||132883]] 生成奥术吸收，再用 [[Balinda Stonehearth||130298]] 使其效果翻倍。最后，最适合接受强化的元素是 [[Wildfire Elemental||64189]]。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/95/
+msgid "[[Brann Bronzebeard||96786]] + [[Living Azerite||107939]] + good economy"
+msgstr "[[Brann Bronzebeard||96786]] + [[Living Azerite||107939]] + 良好经济"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/95/
+msgid "Buff Elementals in shop"
+msgstr "强化酒馆中的元素"
+
 #: name | https://hsreplay.net/battlegrounds/comps/91/
 msgid "Mechs - Magnetics/Spells"
 msgstr "机械 - 磁力/法术"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/91/
-msgid "Put targetted spells on mechs as much as possible with [[Glambot||132893]] on board. [[Balinda Stonehearth||130298]] doubles the effect. Best to have spell generation such as [[Captain Cookie||133075]]. Cycle good gem cards such as [[Fearless Foodie||113154]] and buy good spells such as 3 pointy arrow spell. Eventually, buy [[Utility Drone||98588]] to capitalize on the magnetics you attached with Glambot in the midgame."
-msgstr "场上有 [[Glambot||132893]] 时，尽可能多地对机械使用定向法术。[[Balinda Stonehearth||130298]] 可以使这些法术的效果触发两次。最好拥有 [[Captain Cookie||133075]] 之类的法术生成组件。反复使用 [[Fearless Foodie||113154]] 等优质鲜血宝石卡牌，并购买“武器锻造”等优质法术来获取3张尖利箭矢。最后购买 [[Utility Drone||98588]]，利用中期通过微光机器人磁力吸附的大量组件获得进一步成长。"
+msgid "Put targetted spells on mechs as much as possible with [[Glambot||132893]] on board. [[Balinda Stonehearth||130298]] doubles the effect. Cycle good gem cards such as [[Fearless Foodie||113154]] and buy good spells such as 3 pointy arrow spell. Eventually, buy [[Utility Drone||98588]] to capitalize on the magnetics you attached with Glambot in the midgame."
+msgstr "场上有 [[Glambot||132893]] 时，尽可能多地对机械使用定向法术。[[Balinda Stonehearth||130298]] 可以使这些法术的效果触发两次。反复使用 [[Fearless Foodie||113154]] 等优质鲜血宝石卡牌，并购买“武器锻造”等优质法术来获取3张尖利箭矢。最后购买 [[Utility Drone||98588]]，利用中期通过微光机器人磁力吸附的大量组件获得进一步成长。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/91/
 msgid "[[Glambot||132893]] + [[Balinda Stonehearth||130298]]"
@@ -244,6 +302,28 @@ msgstr "用 [[Glambot||132893]] 稳定下来"
 #: summary | https://hsreplay.net/battlegrounds/comps/91/
 msgid "Cast spells on Mechs"
 msgstr "对机械施放法术"
+
+#: name | https://hsreplay.net/battlegrounds/comps/98/
+msgid "Menagerie"
+msgstr "喝茶流"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/98/
+msgid "Play spells onto [[Gatekeeper Amalgam||133329]] to buff one minion of each type. [[Balinda Stonehearth||130298]] doubles your scaling, and [[Brann Bronzebeard||96786]] increases spell generation and overall economy. Additionally, spell power units such as ([[Dark Puppeteer||131706]]) are nice to run in this comp. Economy units such as [[Enterprising Escapee||132762]] or [[Magicfin Mycologist||122277]] gives more gold to hit more core cards and targetted spells. Finally, [[Hot-air Surveyor||113152]] and/or [[Victorious Geomant||134423]] increase the total spells played on your Amalgam. If Deity is Y'sharajj, then running reborn amalgam is very strong because Y'sharajj will resummon it."
+msgstr "对 [[Gatekeeper Amalgam||133329]] 施放法术，使每个随从类型各有一个随从获得强化。[[Balinda Stonehearth||130298]] 能让你的成长效果翻倍，[[Brann Bronzebeard||96786]] 则能提高法术生成能力和整体经济。此外，这个流派也适合使用法术强度随从，例如 ([[Dark Puppeteer||131706]])。[[Enterprising Escapee||132762]] 或 [[Magicfin Mycologist||122277]] 等经济组件能提供更多铸币，帮助你找到更多核心卡牌和指向性法术。最后，[[Hot-air Surveyor||113152]] 和/或 [[Victorious Geomant||134423]] 能增加你对守门融合怪施放的法术总数。如果你的神明是亚煞极，使用带有复生的守门融合怪会非常强，因为亚煞极可以将其重新召唤。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/98/
+msgid "[[Gatekeeper Amalgam||133329]] + [[Balinda Stonehearth||130298]] or spell power ([[Dark Puppeteer||131706]])"
+msgstr "[[Gatekeeper Amalgam||133329]] + [[Balinda Stonehearth||130298]] 或法强 ([[Dark Puppeteer||131706]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/98/
+msgid "Spell power ([[Dark Puppeteer||131706]])\n"
+"[[Gatekeeper Amalgam||133329]]"
+msgstr "法强 ([[Dark Puppeteer||131706]])\n"
+"[[Gatekeeper Amalgam||133329]]"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/98/
+msgid "Cast targetted spells to scale all tribes"
+msgstr "施放指向性法术强化所有随从类型"
 
 #: name | https://hsreplay.net/battlegrounds/comps/13/
 msgid "Demons - Self Damage"
@@ -286,6 +366,26 @@ msgstr "[[Brann Bronzebeard||96786]]\n"
 #: summary | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Scale and consume shop"
 msgstr "强化并吞噬商店"
+
+#: name | https://hsreplay.net/battlegrounds/comps/97/
+msgid "Aberrations - Sludge"
+msgstr "畸变怪 - 腐泥"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/97/
+msgid "Use [[Nightmare Corroder||133102]] +[[Titus Rivendare||97408]] to generation sludges. Use [[N'raqi Frostcaller||132136]] and [[Dark Puppeteer||131706]] to scale spell power, which improves your sludges. Finally, use [[Mysterious K'thir||134497]] and Frostcaller to discard the sludges you generate. Comp significantly improved by Sludge Portrait greater trinket, and also if your deity is Ysharjj."
+msgstr "使用 [[Nightmare Corroder||133102]] +[[Titus Rivendare||97408]] 生成腐泥侵蚀。使用 [[N'raqi Frostcaller||132136]] 和 [[Dark Puppeteer||131706]] 提升法术强度，从而增强腐泥侵蚀的效果。最后，使用 [[Mysterious K'thir||134497]] 和恩拉其唤冰者弃掉你生成的腐泥侵蚀。大型饰品腐泥肖像能显著提升这个流派的强度，你的神明是亚煞极时也会更强。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/97/
+msgid "Spell generation ([[Nightmare Corroder||133102]], Sludge Portrait) + Spell Power ([[N'raqi Frostcaller||132136]])"
+msgstr "法术生成 ([[Nightmare Corroder||133102]], 腐泥肖像) + 法强 ([[N'raqi Frostcaller||132136]])"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/97/
+msgid "[[Nightmare Corroder||133102]] + discard midgame"
+msgstr "[[Nightmare Corroder||133102]] + 弃牌中期过渡"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/97/
+msgid "Discard sludges to scale"
+msgstr "弃掉腐泥侵蚀来强化"
 
 #: name | https://hsreplay.net/battlegrounds/comps/12/
 msgid "Beasts - Summons"
