@@ -3,13 +3,45 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-28 01:40\n"
+"POT-Creation-Date: 2026-09-30 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: English\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#: name | https://hsreplay.net/battlegrounds/comps/96/
+msgid "Aberrations - APM Deity"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/96/
+msgid ""
+"Go infinite with pirates, with [[Sky Admiral Rogers||122516]] and [[Proud "
+"Privateer||122520]] as core. [[Enterprising Escapee||132762]] and [[Brann "
+"Bronzebeard||96786]] help you spend gold at first to start snowballing "
+"economy. Then, your scaling is [[The Shadow of Doubt||131716]] to scale your"
+" deity. Once infinite, buy every [[Greedy Conniver||134421]] and golden them"
+" using [[Eyes of the Earth Mother||100601]] or [[Elite Navigator||119986]] "
+"in order to discover [[Sha of Fear||131720]]. Make sure to always end of 3 "
+"abberations."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/96/
+msgid ""
+"[[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]] + [[The Shadow "
+"of Doubt||131716]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/96/
+msgid ""
+"[[The Shadow of Doubt||131716]]\n"
+"[[Sky Admiral Rogers||122516]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/96/
+msgid "Play cards to scale deity."
+msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/89/
 msgid "Pirates - APM Golden"
@@ -146,11 +178,12 @@ msgid ""
 " many battlecries as possible. After you have your setup, cycle only PREMIUM"
 " battlecries, such as [[Tavern Tempest||64077]], [[Refreshing "
 "Anomaly||64042]], [[Shell Collector||80740]] or [[Draconic Warden||126860]]."
-" The highest cap is to find as many double attack spell every turn, and "
-"permanently double the attack of warpwing every turn with the help of "
-"[[Persistent Poet||108463]]. Additionally, permanently attach divine shield "
-"with [[Amber Guardian||95006]] and permanently attach Windfury on Warpwing "
-"with [[Thousandth Paper Drake||108116]]."
+" If [[Kelp Keeper||132883]] is in the game, leave it on the board to proc a "
+"premium battlecry every turn, preferably [[Draconic Warden||126860]]. The "
+"highest cap is to find as many double attack spell every turn, and "
+"permanently double the attack of Heroic Broodmother every turn with the help"
+" of [[Persistent Poet||108463]]. Additionally, permanently attach divine "
+"shield to your dragons with [[Nadina, The Red||60629]]."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/15/
@@ -303,6 +336,30 @@ msgstr ""
 msgid "Make huge attack summons"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/95/
+msgid "Elementals - Living Azerite"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/95/
+msgid ""
+"Use [[Living Azerite||107939]] to scale the shop. May use [[Sky Admiral "
+"Rogers||122516]] + [[Proud Privateer||122520]] to cast a bunch of spells. "
+"Then, your payoff for the shop buff is generating as many Arcane Absorption "
+"as possible, which is the spell from [[Leyline Surfacer||130294]].  Use "
+"[[Brann Bronzebeard||96786]] and [[Kelp Keeper||132883]] to generate them, "
+"and [[Balinda Stonehearth||130298]] to doubt its effect. Finally, the best "
+"elemental to buff is [[Wildfire Elemental||64189]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/95/
+msgid ""
+"[[Brann Bronzebeard||96786]] + [[Living Azerite||107939]] + good economy"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/95/
+msgid "Buff Elementals in shop"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/91/
 msgid "Mechs - Magnetics/Spells"
 msgstr ""
@@ -310,11 +367,10 @@ msgstr ""
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/91/
 msgid ""
 "Put targetted spells on mechs as much as possible with [[Glambot||132893]] "
-"on board. [[Balinda Stonehearth||130298]] doubles the effect. Best to have "
-"spell generation such as [[Captain Cookie||133075]]. Cycle good gem cards "
-"such as [[Fearless Foodie||113154]] and buy good spells such as 3 pointy "
-"arrow spell. Eventually, buy [[Utility Drone||98588]] to capitalize on the "
-"magnetics you attached with Glambot in the midgame."
+"on board. [[Balinda Stonehearth||130298]] doubles the effect. Cycle good gem"
+" cards such as [[Fearless Foodie||113154]] and buy good spells such as 3 "
+"pointy arrow spell. Eventually, buy [[Utility Drone||98588]] to capitalize "
+"on the magnetics you attached with Glambot in the midgame."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/91/
@@ -327,6 +383,40 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/91/
 msgid "Cast spells on Mechs"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/98/
+msgid "Menagerie"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/98/
+msgid ""
+"Play spells onto [[Gatekeeper Amalgam||133329]] to buff one minion of each "
+"type. [[Balinda Stonehearth||130298]] doubles your scaling, and [[Brann "
+"Bronzebeard||96786]] increases spell generation and overall economy. "
+"Additionally, spell power units such as ([[Dark Puppeteer||131706]]) are "
+"nice to run in this comp. Economy units such as [[Enterprising "
+"Escapee||132762]] or [[Magicfin Mycologist||122277]] gives more gold to hit "
+"more core cards and targetted spells. Finally, [[Hot-air Surveyor||113152]] "
+"and/or [[Victorious Geomant||134423]] increase the total spells played on "
+"your Amalgam. If Deity is Y'sharajj, then running reborn amalgam is very "
+"strong because Y'sharajj will resummon it."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/98/
+msgid ""
+"[[Gatekeeper Amalgam||133329]] + [[Balinda Stonehearth||130298]] or spell "
+"power ([[Dark Puppeteer||131706]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/98/
+msgid ""
+"Spell power ([[Dark Puppeteer||131706]])\n"
+"[[Gatekeeper Amalgam||133329]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/98/
+msgid "Cast targetted spells to scale all tribes"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/13/
@@ -391,6 +481,34 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/41/
 msgid "Scale and consume shop"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/97/
+msgid "Aberrations - Sludge"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/97/
+msgid ""
+"Use [[Nightmare Corroder||133102]] +[[Titus Rivendare||97408]] to generation"
+" sludges. Use [[N'raqi Frostcaller||132136]] and [[Dark Puppeteer||131706]] "
+"to scale spell power, which improves your sludges. Finally, use [[Mysterious"
+" K'thir||134497]] and Frostcaller to discard the sludges you generate. Comp "
+"significantly improved by Sludge Portrait greater trinket, and also if your "
+"deity is Ysharjj."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/97/
+msgid ""
+"Spell generation ([[Nightmare Corroder||133102]], Sludge Portrait) + Spell "
+"Power ([[N'raqi Frostcaller||132136]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/97/
+msgid "[[Nightmare Corroder||133102]] + discard midgame"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/97/
+msgid "Discard sludges to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/12/
