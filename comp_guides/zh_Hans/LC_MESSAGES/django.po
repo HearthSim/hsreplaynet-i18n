@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-30 11:05\n"
+"POT-Creation-Date: 2026-10-02 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-09-30 11:16\n"
+"PO-Revision-Date: 2026-10-02 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/96/
 msgid "Aberrations - APM Deity"
@@ -80,12 +80,12 @@ msgid "Attach bigger and bigger magnetics"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/76/
-msgid "Demons - APM Shop Buff"
-msgstr "恶魔 - 手速商店强化"
+msgid "Quilboar - APM Shop Buff"
+msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/76/
-msgid "You must have an insane amount of economy to go for this comp. This is usually achieved with a turn 9 Brann + Rogers + Privateer. When you have too much economy, you will buy all targeted spells to use on [[Devilish Distractor||132901]] + [[Balinda Stonehearth||130298]] to scale the shop. You may also buff the shop cycling bloom gem buffers and buying every gem barrage card. You'll also generate a ton of spells by being infinite, allowing [[Felboar||110664]] or [[Twisted Wrathguard||130662]] to eat a huge shop over and over again. Brann and Escapee are additional tools to be infinite."
-msgstr "想玩这套流派，必须拥有极其夸张的经济。通常需要在第 9 回合组成布莱恩·铜须、空军上将罗杰斯和骄傲的私掠者的组合。当经济严重溢出时，买下所有能够指定目标的法术，并将其用于 [[Devilish Distractor||132901]] 和 [[Balinda Stonehearth||130298]]，以强化酒馆。你也可以反复买卖能够获取鲜血宝石弹幕的随从，并买下所有“鲜血宝石弹幕”相关卡牌，持续强化酒馆。无限经济还会生成大量法术，使 [[Felboar||110664]] 或 [[Twisted Wrathguard||130662]] 能够反复吞食属性极高的酒馆随从。布莱恩·铜须和上进的逃兵则是帮助你实现无限循环的额外组件。"
+msgid "You must have an insane amount of economy to go for this comp. This is usually achieved with a turn 9 Brann + Rogers + Privateer. You may also buff the shop cycling bloom gem buffers, spell power buffers, and buying every gem barrage card such as [[Veteran Brigand||132929]]. You'll also generate a ton of spells by being infinite, allowing [[Felboar||110664]] or [[Twisted Wrathguard||130662]] to eat a huge shop over and over again. The best cards to cycle are blood gem generators such as [[Fearless Foodie||113154]]. Casting targetted spells onto [[Gatekeeper Amalgam||133329]] or [[Devilish Distractor||132901]] is a good use of spells. Brann and Escapee are additional tools to be infinite."
+msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/76/
 msgid "Early infinite gold + Felboar"
@@ -372,8 +372,8 @@ msgid "Aberrations - Sludge"
 msgstr "畸变怪 - 腐泥"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/97/
-msgid "Use [[Nightmare Corroder||133102]] +[[Titus Rivendare||97408]] to generation sludges. Use [[N'raqi Frostcaller||132136]] and [[Dark Puppeteer||131706]] to scale spell power, which improves your sludges. Finally, use [[Mysterious K'thir||134497]] and Frostcaller to discard the sludges you generate. Comp significantly improved by Sludge Portrait greater trinket, and also if your deity is Ysharjj."
-msgstr "使用 [[Nightmare Corroder||133102]] +[[Titus Rivendare||97408]] 生成腐泥侵蚀。使用 [[N'raqi Frostcaller||132136]] 和 [[Dark Puppeteer||131706]] 提升法术强度，从而增强腐泥侵蚀的效果。最后，使用 [[Mysterious K'thir||134497]] 和恩拉其唤冰者弃掉你生成的腐泥侵蚀。大型饰品腐泥肖像能显著提升这个流派的强度，你的神明是亚煞极时也会更强。"
+msgid "*BEST With Y'sharjj as Deity* Use [[Nightmare Corroder||133102]] +[[Titus Rivendare||97408]] to generation sludges. Use [[N'raqi Frostcaller||132136]] and [[Dark Puppeteer||131706]] to scale spell power, which improves your sludges. Finally, use [[Mysterious K'thir||134497]] and Frostcaller to discard the sludges you generate. Comp significantly improved by Sludge Portrait greater trinket, and also if your deity is Ysharjj."
+msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/97/
 msgid "Spell generation ([[Nightmare Corroder||133102]], Sludge Portrait) + Spell Power ([[N'raqi Frostcaller||132136]])"
