@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-02 01:40\n"
+"POT-Creation-Date: 2026-10-06 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: pl\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-10-02 12:40\n"
+"PO-Revision-Date: 2026-10-06 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/96/
 msgid "Aberrations - APM Deity"
@@ -83,7 +83,7 @@ msgid "Quilboar - APM Shop Buff"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/76/
-msgid "You must have an insane amount of economy to go for this comp. This is usually achieved with a turn 9 Brann + Rogers + Privateer. You may also buff the shop cycling bloom gem buffers, spell power buffers, and buying every gem barrage card such as [[Veteran Brigand||132929]]. You'll also generate a ton of spells by being infinite, allowing [[Felboar||110664]] or [[Twisted Wrathguard||130662]] to eat a huge shop over and over again. The best cards to cycle are blood gem generators such as [[Fearless Foodie||113154]]. Casting targetted spells onto [[Gatekeeper Amalgam||133329]] or [[Devilish Distractor||132901]] is a good use of spells. Brann and Escapee are additional tools to be infinite."
+msgid "You must have an insane amount of economy to go for this comp. This is usually achieved with a turn 9 Brann + Rogers + Privateer. You may also buff the shop cycling bloom gem buffers, spell power buffers, and buying every gem barrage card such as [[Veteran Brigand||132929]]. You'll also generate a ton of spells by being infinite, allowing [[Felboar||110664]] or [[Twisted Wrathguard||130662]] to eat a huge shop over and over again. The best cards to cycle are blood gem generators such as [[Fearless Foodie||113154]]. Casting targetted spells onto [[Gatekeeper Amalgam||133329]] or [[Devilish Distractor||132901]] is a good use of spells."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/76/
@@ -278,6 +278,27 @@ msgstr ""
 msgid "Buff Elementals in shop"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/56/
+msgid "Murlocs - Magicfin"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/56/
+msgid "This comp relies on teaching a great spell to Magicfin Apprentice and proccing it over and over again. [[Young Murk-eye||87084]] is a must to proc these spells every turn, with its effect amplified by [[Brann Bronzebeard||96786]] and [[Drakkari Enchanter||101314]]. Teach the apprentice [[Shiny ring||109230]], [[Azerite Empowerment||109232]], or [[Time management||117573]] with some spell scaling, which comes from [[Felfire Conjurer||120299]]. Early on, it may be nice to teach it some econ spell as well, notable [[Strike Oil||104029]], or proc [[Refreshing Anomaly||64042]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/56/
+msgid "[[Brann Bronzebeard||96786]] + [[Magicfin Mycologist||122277]] + [[Young Murk-eye||87084]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/56/
+msgid "[[Magicfin Mycologist||122277]]\n"
+"[[Brann Bronzebeard||96786]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/56/
+msgid "Teach Murlocs spells and proc them"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/91/
 msgid "Mechs - Magnetics/Spells"
 msgstr ""
@@ -365,7 +386,7 @@ msgid "Aberrations - Sludge"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/97/
-msgid "*BEST With Y'sharjj as Deity* Use [[Nightmare Corroder||133102]] +[[Titus Rivendare||97408]] to generation sludges. Use [[N'raqi Frostcaller||132136]] and [[Dark Puppeteer||131706]] to scale spell power, which improves your sludges. Finally, use [[Mysterious K'thir||134497]] and Frostcaller to discard the sludges you generate. Comp significantly improved by Sludge Portrait greater trinket, and also if your deity is Ysharjj."
+msgid "*BEST With Y'sharjj as Deity* Use [[Nightmare Corroder||133102]] +[[Drakkari Enchanter||101314]] to generatesludges. Use [[N'raqi Frostcaller||132136]] or [[Felfire Conjurer||120299]] or [[Dark Puppeteer||131706]] to scale spell power, which improves your sludges. Finally, use [[Mysterious K'thir||134497]] and Frostcaller to discard the sludges you generate. Comp significantly improved by Sludge Portrait greater trinket, and also if your deity is Ysharjj."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/97/
