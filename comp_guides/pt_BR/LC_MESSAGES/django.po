@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-06 01:40\n"
+"POT-Creation-Date: 2026-10-07 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: pt-BR\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-10-06 12:40\n"
+"PO-Revision-Date: 2026-10-07 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/96/
 msgid "Aberrations - APM Deity"
@@ -185,19 +185,59 @@ msgid "Quilboar - Choose One"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/88/
-msgid "First, have gem scaling, most commonly through [[Gem rat||116434]] but could be with [[Sanguine Refiner||122566]]. [[Turbo Hogrider||116195]] is the payoff for your gem scaling. It helps to have some choose one generation through [[Gem Rat||116434]] or [[Bramble Tunneler||132632]]. Additionally, cycle every decent choose one card (anything besides [[Intrepid Botanist||120223]] or [[Time Management||117573]])."
+msgid "First, have gem scaling, most commonly through [[Gem rat||116434]] but could be with [[Sanguine Refiner||122566]]. [[Turbo Hogrider||116195]] is the payoff for your gem scaling. It helps to have some choose one generation through [[Gem Rat||116434]] or [[Bramble Tunneler||132632]]. If dragons are in, use [[Sky-hatch Runaway||132957]] to proc [[Bramble Tunneler||132632]] for very powerful choose one generation."
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/88/
-msgid "[[Gem rat||116434]] + [[Turbo Hogrider||116195]]"
+msgid "[[Gem rat||116434]]/[[Bramble Tunneler||132632]] + [[Turbo Hogrider||116195]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/88/
-msgid "[[Gem Rat||116434]]"
+msgid "gem scaling ([[Gem Rat||116434]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/88/
 msgid "Play Choose One cards to scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/101/
+msgid "Dragons - Copebringer"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/101/
+msgid "Find an early [[Hopebringer||134411]] (latest turn 8) and start scaling its effect. Use [[Persistent Poet||108463]] to keep the stats given by Hopebringer. The best dragon to buff is [[Heroic Broodmother||134494]], who additionally scales the Hopebringer a bunch. [[Nadina the Red||60629]] gives permanent shield to your Hopebringer and also increases your Hopebringer scaling a bit. [[Crimson Hand Centurion||77794]] can be used for stabilization."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/101/
+msgid "Early [[Hopebringer||134411]] + shields"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/101/
+msgid "Divine Shields ([[Bronze Warden||60558]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/101/
+msgid "Proc Divine Shields to scale"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/100/
+msgid "Demons - Deathrattle/Shop Buff"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/100/
+msgid "Commit to this comp with an early [[Sacrificial Wrathguard||134405]] (turn 6 latest). Activate it every turn. Use [[Titus Rivendare||97408]] to double its effect and scale the shop a lot. [[Imp-lusionist||132899]] + [[Balinda Stonehearth||130298]] is the main payoff for this comp and can eat many shops. [[Soulkeeping Jailer||132306]] is a great demon to help you stabilize."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/100/
+msgid "Early [[Sacrificial Wrathguard||134405]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/100/
+msgid "Sacrificial Wrathguard"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/100/
+msgid "Scale and eat the shop with deathrattles."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/94/
@@ -219,6 +259,26 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/94/
 msgid "Play spells and proc deathrattle to scale Deity"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/63/
+msgid "Quilboar - Gems from Hand"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/63/
+msgid "First, you need Gem scaling ([[Sanguine Refiner||122566]]) to enable this build. Then, you scale by adding gems to your hand with mainly [[Victorious Geomant||134423]], and then casting them with [[Hot-Air Surveyor||113152]]. Cast them onto great utility units such as [[Blade Collector||99035]]. In the lategame, when you're done concentrating stats, fill the rest of your board with ending units such as [[Leeroy the Reckless||90425]]"
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/63/
+msgid "Gem scaling ([[Sanguine Refiner||122566]]) + [[Hot Air Surveyor||113152]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/63/
+msgid "Gem scaling ([[Sanguine Refiner||122566]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/63/
+msgid "Add buffed gems to hand"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/31/

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-06 01:40\n"
+"POT-Creation-Date: 2026-10-07 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-10-06 12:40\n"
+"PO-Revision-Date: 2026-10-07 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/96/
 msgid "Aberrations - APM Deity"
@@ -61,31 +61,33 @@ msgstr "使用无限铸币来提升海盗属性"
 
 #: name | https://hsreplay.net/battlegrounds/comps/99/
 msgid "Mechs - APM Magnetic"
-msgstr ""
+msgstr "机械 - 手速磁力"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/99/
 msgid "First, have infinite gold. [[Sky Admiral Rogers||122516]], [[Proud Privateer||122520]], [[Enterprising Escapee||132762]], and [[Brann Bronzebeard||96786]] are all cards to get you infinite gold, and cycle every cheap card ([[Sellemental||64038]]). Then, start generating magnetics with [[Auto Reveille||134417]]. Scale a [[Spark Snapper||132676]] so every magnetic you attach gets big very fast. After you have [[Spark Snapper||132676]], leave a golden [[Drone Duplicator||132312]] on board, and start making a huge volumizer by attaching onto it. Triple it easily with Auto Reveille and then magnetize the huge magnetic you tripled onto the activated Drone Duplicator. Finally, buy every [[Greedy Conniver||134421]] and use Eyes of the Earth Mother on it to get [[Polarizing Beatboxer||98713]]."
-msgstr ""
+msgstr "首先要建立近乎无限的金币循环。[[Sky Admiral Rogers||122516]]、[[Proud Privateer||122520]]、[[Enterprising Escapee||132762]]和[[Brann Bronzebeard||96786]]都能帮助你做到这一点。建立循环后，反复买卖[[Sellemental||64038]]等低费用随从。\n"
+"接着用[[Auto Reveille||134417]]生成磁力随从，并提升[[Spark Snapper||132676]]的属性，让之后吸附的磁力随从迅速变强。拿到[[Spark Snapper||132676]]后，在场上留一个金色[[Drone Duplicator||132312]]，不断向它吸附磁力随从，养出一个属性极高的磁力随从。用[[Auto Reveille||134417]]将其轻松合成金色，再把这个巨大的金色磁力随从吸附到已触发效果的[[Drone Duplicator||132312]]上。\n"
+"最后，买下所有遇到的[[Greedy Conniver||134421]]，并对它们使用大地母亲之眼，以获得[[Polarizing Beatboxer||98713]]。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/99/
 msgid "Infinite gold ([[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]]) + [[Auto Reveille||134417]]"
-msgstr ""
+msgstr "无限铸币 ([[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]]) + [[Auto Reveille||134417]]"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/99/
 msgid "Infinite gold ([[Sky Admiral Rogers||122516]])"
-msgstr ""
+msgstr "无限铸币 ([[Sky Admiral Rogers||122516]])"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/99/
 msgid "Attach bigger and bigger magnetics"
-msgstr ""
+msgstr "不断磁力吸附属性更高的随从"
 
 #: name | https://hsreplay.net/battlegrounds/comps/76/
 msgid "Quilboar - APM Shop Buff"
-msgstr ""
+msgstr "野猪人 - 手速商店强化"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/76/
 msgid "You must have an insane amount of economy to go for this comp. This is usually achieved with a turn 9 Brann + Rogers + Privateer. You may also buff the shop cycling bloom gem buffers, spell power buffers, and buying every gem barrage card such as [[Veteran Brigand||132929]]. You'll also generate a ton of spells by being infinite, allowing [[Felboar||110664]] or [[Twisted Wrathguard||130662]] to eat a huge shop over and over again. The best cards to cycle are blood gem generators such as [[Fearless Foodie||113154]]. Casting targetted spells onto [[Gatekeeper Amalgam||133329]] or [[Devilish Distractor||132901]] is a good use of spells."
-msgstr ""
+msgstr "要玩此流派，你必须拥有极强的经济能力。通常可以在第 9 回合靠 铜须+ 罗杰斯+ 私掠者 建立经济优势。你也可以通过反复买卖能强化宝石和提高法术强度的随从来提升酒馆中的随从，并购买[[Veteran Brigand||132929]]等所有能大量提供宝石的卡牌。经济运转起来后，你还会获得大量法术，让[[Felboar||110664]]或[[Twisted Wrathguard||130662]]反复吞噬属性极高的酒馆随从。最适合反复买卖的是[[Fearless Foodie||113154]]等能生成鲜血宝石的随从。将指定目标的法术施放到[[Gatekeeper Amalgam||133329]]或[[Devilish Distractor||132901]]身上，也能有效利用这些法术。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/76/
 msgid "Early infinite gold + Felboar"
@@ -188,20 +190,60 @@ msgid "Quilboar - Choose One"
 msgstr "野猪人 - 抉择"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/88/
-msgid "First, have gem scaling, most commonly through [[Gem rat||116434]] but could be with [[Sanguine Refiner||122566]]. [[Turbo Hogrider||116195]] is the payoff for your gem scaling. It helps to have some choose one generation through [[Gem Rat||116434]] or [[Bramble Tunneler||132632]]. Additionally, cycle every decent choose one card (anything besides [[Intrepid Botanist||120223]] or [[Time Management||117573]])."
-msgstr "首先建立鲜血宝石成长，最常见的方式是使用 [[Gem rat||116434]]，也可以通过 [[Sanguine Refiner||122566]] 实现。[[Turbo Hogrider||116195]] 是鲜血宝石成长体系的核心收益随从。最好能通过 [[Gem Rat||116434]] 或 [[Bramble Tunneler||132632]] 获取一些抉择牌。此外，应当循环使用所有效果尚可的抉择牌（[[Intrepid Botanist||120223]] 和 [[Time Management||117573]] 除外）。"
+msgid "First, have gem scaling, most commonly through [[Gem rat||116434]] but could be with [[Sanguine Refiner||122566]]. [[Turbo Hogrider||116195]] is the payoff for your gem scaling. It helps to have some choose one generation through [[Gem Rat||116434]] or [[Bramble Tunneler||132632]]. If dragons are in, use [[Sky-hatch Runaway||132957]] to proc [[Bramble Tunneler||132632]] for very powerful choose one generation."
+msgstr "首先要提升鲜血宝石的效果，最常见的方法是使用[[Gem rat||116434]]，也可以使用[[Sanguine Refiner||122566]]。[[Turbo Hogrider||116195]]是宝石成长后的核心收益点。最好通过[[Gem Rat||116434]]或[[Bramble Tunneler||132632]]获取一些“抉择”效果。如果本局有龙，可以用[[Sky-hatch Runaway||132957]]触发[[Bramble Tunneler||132632]]，大量获取“抉择”效果。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/88/
-msgid "[[Gem rat||116434]] + [[Turbo Hogrider||116195]]"
-msgstr "[[Gem Rat||116434]] + [[Turbo Hogrider||116195]]"
+msgid "[[Gem rat||116434]]/[[Bramble Tunneler||132632]] + [[Turbo Hogrider||116195]]"
+msgstr "[[Gem rat||116434]]/[[Bramble Tunneler||132632]] + [[Turbo Hogrider||116195]]"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/88/
-msgid "[[Gem Rat||116434]]"
-msgstr "[[Gem Rat||116434]]"
+msgid "gem scaling ([[Gem Rat||116434]])"
+msgstr "宝石成长 ([[Gem Rat||116434]])"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/88/
 msgid "Play Choose One cards to scale"
 msgstr "打出抉择卡来成长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/101/
+msgid "Dragons - Copebringer"
+msgstr "龙 - 希望信使"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/101/
+msgid "Find an early [[Hopebringer||134411]] (latest turn 8) and start scaling its effect. Use [[Persistent Poet||108463]] to keep the stats given by Hopebringer. The best dragon to buff is [[Heroic Broodmother||134494]], who additionally scales the Hopebringer a bunch. [[Nadina the Red||60629]] gives permanent shield to your Hopebringer and also increases your Hopebringer scaling a bit. [[Crimson Hand Centurion||77794]] can be used for stabilization."
+msgstr "尽早找到[[Hopebringer||134411]]（最晚第 8 回合），开始叠加其效果。用[[Persistent Poet||108463]]保留 Hopebringer 提供的属性。最值得强化的龙是[[Heroic Broodmother||134494]]，它还能大幅提升 Hopebringer 的成长效果。[[Nadina the Red||60629]]能为 Hopebringer 提供永久圣盾，并进一步提高其成长幅度。[[Crimson Hand Centurion||77794]]则可以用来稳住局面。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/101/
+msgid "Early [[Hopebringer||134411]] + shields"
+msgstr "早期获得 [[Hopebringer||134411]] +圣盾"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/101/
+msgid "Divine Shields ([[Bronze Warden||60558]])"
+msgstr "圣盾([[Bronze Warden||60558]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/101/
+msgid "Proc Divine Shields to scale"
+msgstr "触发圣盾来成长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/100/
+msgid "Demons - Deathrattle/Shop Buff"
+msgstr "恶魔 - 亡语/商店强化"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/100/
+msgid "Commit to this comp with an early [[Sacrificial Wrathguard||134405]] (turn 6 latest). Activate it every turn. Use [[Titus Rivendare||97408]] to double its effect and scale the shop a lot. [[Imp-lusionist||132899]] + [[Balinda Stonehearth||130298]] is the main payoff for this comp and can eat many shops. [[Soulkeeping Jailer||132306]] is a great demon to help you stabilize."
+msgstr "尽早拿到[[Sacrificial Wrathguard||134405]]（最晚第 6 回合），再确定玩这个流派，并每回合触发其效果。用[[Titus Rivendare||97408]]使效果触发两次，大幅提升酒馆中随从的属性。[[Imp-lusionist||132899]]与[[Balinda Stonehearth||130298]]是这套阵容的核心收益点，能吞噬大量酒馆随从。[[Soulkeeping Jailer||132306]]也是帮助你稳住局面的优秀恶魔。"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/100/
+msgid "Early [[Sacrificial Wrathguard||134405]]"
+msgstr "早期获得 [[Sacrificial Wrathguard||134405]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/100/
+msgid "Sacrificial Wrathguard"
+msgstr "牺牲的愤怒卫士"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/100/
+msgid "Scale and eat the shop with deathrattles."
+msgstr "利用亡语提升随从属性，并吞噬酒馆中的随从。"
 
 #: name | https://hsreplay.net/battlegrounds/comps/94/
 msgid "Aberrations - Deathrattle/Spells"
@@ -224,6 +266,26 @@ msgstr "法术生成 ([[Unwilling Slacker||131700]])"
 #: summary | https://hsreplay.net/battlegrounds/comps/94/
 msgid "Play spells and proc deathrattle to scale Deity"
 msgstr "施放酒馆法术并触发亡语，让神明不断成长"
+
+#: name | https://hsreplay.net/battlegrounds/comps/63/
+msgid "Quilboar - Gems from Hand"
+msgstr "野猪人 - 手牌宝石"
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/63/
+msgid "First, you need Gem scaling ([[Sanguine Refiner||122566]]) to enable this build. Then, you scale by adding gems to your hand with mainly [[Victorious Geomant||134423]], and then casting them with [[Hot-Air Surveyor||113152]]. Cast them onto great utility units such as [[Blade Collector||99035]]. In the lategame, when you're done concentrating stats, fill the rest of your board with ending units such as [[Leeroy the Reckless||90425]]"
+msgstr "首先，你需要用[[Sanguine Refiner||122566]]提升宝石效果，才能玩这个流派。之后主要依靠[[Victorious Geomant||134423]]将宝石加入手牌，再用[[Hot-Air Surveyor||113152]]施放宝石。优先将宝石用于[[Blade Collector||99035]]等功能性随从。到了后期，完成属性集中后，用[[Leeroy the Reckless||90425]]等终局随从填满剩余的场上位置"
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/63/
+msgid "Gem scaling ([[Sanguine Refiner||122566]]) + [[Hot Air Surveyor||113152]]"
+msgstr "宝石成长 ([[Sanguine Refiner||122566]]) + [[Hot Air Surveyor||113152]]"
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/63/
+msgid "Gem scaling ([[Sanguine Refiner||122566]])"
+msgstr "宝石成长 ([[Sanguine Refiner||122566]])"
+
+#: summary | https://hsreplay.net/battlegrounds/comps/63/
+msgid "Add buffed gems to hand"
+msgstr "将增强过的宝石置入手牌"
 
 #: name | https://hsreplay.net/battlegrounds/comps/31/
 msgid "Murlocs - Keyword"
@@ -285,24 +347,25 @@ msgstr "强化酒馆中的元素"
 
 #: name | https://hsreplay.net/battlegrounds/comps/56/
 msgid "Murlocs - Magicfin"
-msgstr ""
+msgstr "鱼人 - 小学生"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/56/
 msgid "This comp relies on teaching a great spell to Magicfin Apprentice and proccing it over and over again. [[Young Murk-eye||87084]] is a must to proc these spells every turn, with its effect amplified by [[Brann Bronzebeard||96786]] and [[Drakkari Enchanter||101314]]. Teach the apprentice [[Shiny ring||109230]], [[Azerite Empowerment||109232]], or [[Time management||117573]] with some spell scaling, which comes from [[Felfire Conjurer||120299]]. Early on, it may be nice to teach it some econ spell as well, notable [[Strike Oil||104029]], or proc [[Refreshing Anomaly||64042]]."
-msgstr ""
+msgstr "这个流派依赖于教会魔鳍学徒一个强大的法术并不断触发它。[[Young Murk-eye||87084]] 是每回合触发这些法术的必备卡，其效果被 [[Brann Bronzebeard||96786]] 和 [[Drakkari Enchanter||101314]] 增强。教会学徒 [[Shiny ring||109230]]、[[Azerite Empowerment||109232]] 或 [[Time management||117573]]，并搭配一些法强，这些法强来自 [[Felfire Conjurer||120299]]。在早期，教它一些经济法术也不错，特别是[[Strike Oil||104029]]，或者触发[[Refreshing Anomaly||64042]]。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/56/
 msgid "[[Brann Bronzebeard||96786]] + [[Magicfin Mycologist||122277]] + [[Young Murk-eye||87084]]"
-msgstr ""
+msgstr "[[Brann Bronzebeard||96786]] + [[Magicfin Mycologist||122277]] + [[Young Murk-eye||87084]]"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/56/
 msgid "[[Magicfin Mycologist||122277]]\n"
 "[[Brann Bronzebeard||96786]]"
-msgstr ""
+msgstr "[[Magicfin Mycologist||122277]]\n"
+"[[Brann Bronzebeard||96786]]"
 
 #: summary | https://hsreplay.net/battlegrounds/comps/56/
 msgid "Teach Murlocs spells and proc them"
-msgstr ""
+msgstr "教会鱼人法术并触发它们"
 
 #: name | https://hsreplay.net/battlegrounds/comps/91/
 msgid "Mechs - Magnetics/Spells"
@@ -394,7 +457,7 @@ msgstr "畸变怪 - 腐泥"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/97/
 msgid "*BEST With Y'sharjj as Deity* Use [[Nightmare Corroder||133102]] +[[Drakkari Enchanter||101314]] to generatesludges. Use [[N'raqi Frostcaller||132136]] or [[Felfire Conjurer||120299]] or [[Dark Puppeteer||131706]] to scale spell power, which improves your sludges. Finally, use [[Mysterious K'thir||134497]] and Frostcaller to discard the sludges you generate. Comp significantly improved by Sludge Portrait greater trinket, and also if your deity is Ysharjj."
-msgstr ""
+msgstr "*以亚煞极为神祇时效果最佳* 使用[[Nightmare Corroder||133102]]和[[Drakkari Enchanter||101314]]生成腐泥侵蚀。用[[N'raqi Frostcaller||132136]]、[[Felfire Conjurer||120299]]或[[Dark Puppeteer||131706]]提高法术强度，让腐泥侵蚀更强。最后，用[[Mysterious K'thir||134497]]和[[N'raqi Frostcaller||132136]]弃掉生成的腐泥侵蚀。如果拿到大型饰品“腐泥肖像”，或神明是亚煞极时这个流派的强度会显著提高。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/97/
 msgid "Spell generation ([[Nightmare Corroder||133102]], Sludge Portrait) + Spell Power ([[N'raqi Frostcaller||132136]])"

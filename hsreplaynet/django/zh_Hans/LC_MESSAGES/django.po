@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-03 01:40+0000\n"
-"PO-Revision-Date: 2026-10-03 12:40\n"
+"PO-Revision-Date: 2026-10-07 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1287,11 +1287,11 @@ msgstr "畸变怪"
 
 #: web/views/battlegrounds.py:986 web/views/battlegrounds.py:1068
 msgid "Battlegrounds Duos Minions"
-msgstr ""
+msgstr "酒馆战棋双打随从"
 
 #: web/views/battlegrounds.py:990 web/views/battlegrounds.py:1066
 msgid "Duos Minions"
-msgstr ""
+msgstr "双打随从"
 
 #: web/views/battlegrounds.py:1003
 #, python-brace-format
@@ -1319,17 +1319,17 @@ msgstr "未找到匹配的随从类型。"
 #: web/views/battlegrounds.py:1069
 #, python-brace-format
 msgid "Battlegrounds Duos {type} Minions"
-msgstr ""
+msgstr "酒馆战棋双打{type}随从"
 
 #: web/views/battlegrounds.py:1070
 #, python-brace-format
 msgid "Battlegrounds Duos Tier {tier} Minions"
-msgstr ""
+msgstr "酒馆战棋双打{tier}级随从"
 
 #: web/views/battlegrounds.py:1071
 #, python-brace-format
 msgid "Battlegrounds Duos Tier {tier} {type} Minions"
-msgstr ""
+msgstr "酒馆战棋双打{tier}级{type}随从"
 
 #: web/views/battlegrounds.py:1091 web/views/battlegrounds.py:1130
 msgid "Battlegrounds Minion"
