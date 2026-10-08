@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-07 01:40\n"
+"POT-Creation-Date: 2026-10-08 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-10-07 12:40\n"
+"PO-Revision-Date: 2026-10-08 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/96/
 msgid "Aberrations - APM Deity"
@@ -210,8 +210,8 @@ msgid "Dragons - Copebringer"
 msgstr "龙 - 希望信使"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/101/
-msgid "Find an early [[Hopebringer||134411]] (latest turn 8) and start scaling its effect. Use [[Persistent Poet||108463]] to keep the stats given by Hopebringer. The best dragon to buff is [[Heroic Broodmother||134494]], who additionally scales the Hopebringer a bunch. [[Nadina the Red||60629]] gives permanent shield to your Hopebringer and also increases your Hopebringer scaling a bit. [[Crimson Hand Centurion||77794]] can be used for stabilization."
-msgstr "尽早找到[[Hopebringer||134411]]（最晚第 8 回合），开始叠加其效果。用[[Persistent Poet||108463]]保留 Hopebringer 提供的属性。最值得强化的龙是[[Heroic Broodmother||134494]]，它还能大幅提升 Hopebringer 的成长效果。[[Nadina the Red||60629]]能为 Hopebringer 提供永久圣盾，并进一步提高其成长幅度。[[Crimson Hand Centurion||77794]]则可以用来稳住局面。"
+msgid "Find an early [[Hopebringer||134411]] (latest turn 8) and start scaling its effect. Use [[Persistent Poet||108463]] to keep the stats given by Hopebringer. The best dragon to buff is [[Heroic Broodmother||134494]], who additionally scales the Hopebringer a bunch. [[Nadina the Red||60629]] gives permanent shield to your Hopebringer and also increases your Hopebringer scaling a bit. [[Crimson Vindicator||132953]] can be used for stabilization."
+msgstr "尽早找到[[Hopebringer||134411]]（最晚第 8 回合），开始叠加其效果。用[[Persistent Poet||108463]]保留 Hopebringer 提供的属性。最值得强化的龙是[[Heroic Broodmother||134494]]，它还能大幅提升 Hopebringer 的成长效果。[[Nadina the Red||60629]]能为 Hopebringer 提供永久圣盾，并进一步提高其成长幅度。[[Crimson Vindicator||132953]] 则可以用来稳住局面。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/101/
 msgid "Early [[Hopebringer||134411]] + shields"
@@ -508,8 +508,8 @@ msgid "Murlocs - Tidecaller"
 msgstr "鱼人 - 萨满招潮者"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/67/
-msgid "First, have a ton of economy, typically starting from golden [[Brann Bronzebeard||96786]] or Brann + [[Magicfin Mycologist||122277]], remembering premium economy spells such as Cloning Conch or Battlecry Discovery. Then, your payoff card for all that economy is [[Shamanic Tidecaller||133026]]. Paired with [[Balinda Stonehearth||130298]], play as many spells on the tidecaller as possible, which could be bloodgems or [[Oozeling Gladiator||103670]] spells. Scale premium murlocs in hand such as [[Bile Spitter||122219]] and [[Expert Aviator||126637]] so you can summon them and also [[Choral Mrrrglr||98948]] can capture all of the stats of the murlocs in your hand."
-msgstr "首先，你需要拥有大量经济资源，通常从金色 [[Brann Bronzebeard||96786]]，或铜须配合 [[Magicfin Mycologist||122277]] 开始。同时要留意克隆海螺或战吼发现等优质经济法术。接下来，利用这些经济资源取得核心收益的卡牌是 [[Shamanic Tidecaller||133026]]。配合 [[Balinda Stonehearth||130298]]，尽可能对潮汐召唤者使用更多法术，例如鲜血宝石或 [[Oozeling Gladiator||103670]] 生成的法术。强化手牌中的优质鱼人，例如 [[Bile Spitter||122219]] 和 [[Expert Aviator||126637]]。这样既可以在战斗中召唤它们，也能让 [[Choral Mrrrglr||98948]] 获得你手牌中所有鱼人的属性值。"
+msgid "First, have a ton of economy, typically starting from golden [[Brann Bronzebeard||96786]] or Brann + [[Magicfin Mycologist||122277]], remembering premium economy spells such as Cloning Conch or Battlecry Discovery. Then, your payoff card for all that economy is [[Shamanic Tidecaller||133026]]. Paired with [[Balinda Stonehearth||130298]], play as many spells on the tidecaller as possible, which could be bloodgems or [[Iron Groundskeeper||103666]] spells. Scale premium murlocs in hand such as [[Bile Spitter||122219]] and [[Expert Aviator||126637]] so you can summon them and also [[Choral Mrrrglr||98948]] can capture all of the stats of the murlocs in your hand."
+msgstr "首先，你需要拥有大量经济资源，通常从金色 [[Brann Bronzebeard||96786]]，或铜须配合 [[Magicfin Mycologist||122277]] 开始。同时要留意克隆海螺或战吼发现等优质经济法术。接下来，利用这些经济资源取得核心收益的卡牌是 [[Shamanic Tidecaller||133026]]。配合 [[Balinda Stonehearth||130298]]，尽可能对潮汐召唤者使用更多法术，例如鲜血宝石或 [[Iron Groundskeeper||103666]] 生成的法术。强化手牌中的优质鱼人，例如 [[Bile Spitter||122219]] 和 [[Expert Aviator||126637]]。这样既可以在战斗中召唤它们，也能让 [[Choral Mrrrglr||98948]] 获得你手牌中所有鱼人的属性值。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/67/
 msgid "[[Brann Bronzebeard||96786]] + lots of economy + [[Shamanic Tidecaller||133026]]"
@@ -530,12 +530,12 @@ msgid "Elementals - Unbound Tempest"
 msgstr "元素 - 无羁雷暴"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/92/
-msgid "Buff the shop with either [[Nomi, Kitchen Nightmare||63626]] or [[Air Revenant||126173]], whichever method you find first. Use [[Brann Bronzebeard||96786]] + [[Tavern Tempest||64077]] + [[Kelp Keeper||132883]] for massive economy and elemental generation. You may use [[Flaming Enforcer||126924]] to stabilize in the midgame, and [[Unbound Tempest||132983]] to cap out your scaling. With tempest, cycle premium elementals such as [[Sellemental||64038]] and [[Refreshing Anomaly||64042]]."
-msgstr "使用 [[Nomi, Kitchen Nightmare||63626]] 或 [[Air Revenant||126173]] 强化酒馆，优先采用最先找到的方式。利用 [[Brann Bronzebeard||96786]]、[[Tavern Tempest||64077]] 和 [[Kelp Keeper||132883]] 的组合获得大量经济并生成元素。中期可以使用 [[Flaming Enforcer||126924]] 稳住场面，后期则利用 [[Unbound Tempest||132983]] 将成长提升到最高上限。拥有无羁雷暴后，循环使用 [[Sellemental||64038]] 和 [[Refreshing Anomaly||64042]] 等优质元素。"
+msgid "Buff the shop with either [[Living Azerite||107939]] or [[Air Revenant||126173]], whichever method you find first. Use [[Brann Bronzebeard||96786]] + [[Tavern Tempest||64077]] + [[Kelp Keeper||132883]] for massive economy and elemental generation. You may use [[Flaming Enforcer||126924]] to stabilize in the midgame, and [[Unbound Tempest||132983]] to cap out your scaling. With tempest, cycle premium elementals such as [[Sellemental||64038]] and [[Refreshing Anomaly||64042]]."
+msgstr "使用 [[Living Azerite||107939]] 或 [[Air Revenant||126173]] 强化酒馆，优先采用最先找到的方式。利用 [[Brann Bronzebeard||96786]]、[[Tavern Tempest||64077]] 和 [[Kelp Keeper||132883]] 的组合获得大量经济并生成元素。中期可以使用 [[Flaming Enforcer||126924]] 稳住场面，后期则利用 [[Unbound Tempest||132983]] 将成长提升到最高上限。拥有无羁雷暴后，循环使用 [[Sellemental||64038]] 和 [[Refreshing Anomaly||64042]] 等优质元素。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/92/
-msgid "[[Brann Bronzebeard||96786]] + shop buff ([[Nomi, Kitchen Nightmare||63626]]) + [[Unbound Tempest||132983]]"
-msgstr "[[Brann Bronzebeard||96786]] + 商店强化 ([[Nomi, Kitchen Nightmare||63626]]) + [[Unbound Tempest||132983]]"
+msgid "[[Brann Bronzebeard||96786]] + shop buff ([[Air Revenant||126173]]) + [[Unbound Tempest||132983]]"
+msgstr "[[Brann Bronzebeard||96786]] + 商店强化 ([[Air Revenant||126173]]) + [[Unbound Tempest||132983]]"
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/92/
 msgid "[[Brann Bronzebeard||96786]]\n"
