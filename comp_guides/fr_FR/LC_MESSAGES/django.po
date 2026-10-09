@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-08 01:40\n"
+"POT-Creation-Date: 2026-10-09 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -15,14 +15,14 @@ msgstr ""
 "X-Crowdin-Language: fr\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-10-08 12:40\n"
+"PO-Revision-Date: 2026-10-09 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/96/
-msgid "Aberrations - APM Deity"
+msgid "畸变怪 - 手速神明"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/96/
-msgid "Go infinite with pirates, with [[Sky Admiral Rogers||122516]] and [[Proud Privateer||122520]] as core. [[Enterprising Escapee||132762]] and [[Brann Bronzebeard||96786]] help you spend gold at first to start snowballing economy. Then, your scaling is [[The Shadow of Doubt||131716]] to scale your deity. Once infinite, buy every [[Greedy Conniver||134421]] and golden them using [[Eyes of the Earth Mother||100601]] or [[Elite Navigator||119986]] in order to discover [[Sha of Fear||131720]]. Make sure to always end of 3 abberations."
+msgid "以 [[Sky Admiral Rogers||122516]] 和 [[Proud Privateer||122520]] 为核心，利用海盗实现无限循环。[[Enterprising Escapee||132762]] 和 [[Brann Bronzebeard||96786]] 能帮助你在前期消耗铸币，让经济开始滚雪球。然后，使用 [[The Shadow of Doubt||131716]] 强化你的神明。实现无限循环后，购买遇到的每一张 [[Greedy Conniver||134421]]，并使用 [[Eyes of the Earth Mother||100601]] 或 [[Elite Navigator||119986]] 将其变为金色，以便发现 [[Sha of Fear||131720]]。确保每回合结束时场上始终有3个畸变怪。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/96/
@@ -39,15 +39,15 @@ msgid "Play cards to scale deity."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/89/
-msgid "Pirates - APM Golden"
+msgid "海盗 - 金色手速"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/89/
-msgid "Go infinite with [[Enterprising Escapee||132762]] + [[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]] setup, [[Brann Bronzebeard||96786]] helps to get the ball rolling. With the escapee, you'll play a lot of goldens and discovers, both of which helps with [[Hooktusk, Master Marauder||132925]]. Scale by being infinite and buying discover effects.  ADVANCED PLAYERS: Pivot higher cap which is demons shop buff comp"
+msgid "利用 [[Enterprising Escapee||132762]]、[[Sky Admiral Rogers||122516]] 和 [[Proud Privateer||122520]] 的组合实现无限经济，[[Brann Bronzebeard||96786]] 可以帮助这套体系顺利启动。有了上进的逃兵后，你会打出大量金色随从并触发许多发现效果，这两者都能很好地配合 [[Hooktusk, Master Marauder||132925]]。利用无限经济购买带有发现效果的卡牌，不断提升阵容强度。进阶玩家：转型为上限更高的恶魔酒馆强化流。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/89/
-msgid "[[Enterprising Escapee||132762]] + Infinite gold"
+msgid "[[Enterprising Escapee||132762]] + 无限铸币"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/89/
@@ -59,19 +59,21 @@ msgid "Use infinite money to scale pirates"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/99/
-msgid "Mechs - APM Magnetic"
+msgid "机械 - 手速磁力"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/99/
-msgid "First, have infinite gold. [[Sky Admiral Rogers||122516]], [[Proud Privateer||122520]], [[Enterprising Escapee||132762]], and [[Brann Bronzebeard||96786]] are all cards to get you infinite gold, and cycle every cheap card ([[Sellemental||64038]]). Then, start generating magnetics with [[Auto Reveille||134417]]. Scale a [[Spark Snapper||132676]] so every magnetic you attach gets big very fast. After you have [[Spark Snapper||132676]], leave a golden [[Drone Duplicator||132312]] on board, and start making a huge volumizer by attaching onto it. Triple it easily with Auto Reveille and then magnetize the huge magnetic you tripled onto the activated Drone Duplicator. Finally, buy every [[Greedy Conniver||134421]] and use Eyes of the Earth Mother on it to get [[Polarizing Beatboxer||98713]]."
+msgid "首先要建立近乎无限的金币循环。[[Sky Admiral Rogers||122516]]、[[Proud Privateer||122520]]、[[Enterprising Escapee||132762]]和[[Brann Bronzebeard||96786]]都能帮助你做到这一点。建立循环后，反复买卖[[Sellemental||64038]]等低费用随从。\n"
+"接着用[[Auto Reveille||134417]]生成磁力随从，并提升[[Spark Snapper||132676]]的属性，让之后吸附的磁力随从迅速变强。拿到[[Spark Snapper||132676]]后，在场上留一个金色[[Drone Duplicator||132312]]，不断向它吸附磁力随从，养出一个属性极高的磁力随从。用[[Auto Reveille||134417]]将其轻松合成金色，再把这个巨大的金色磁力随从吸附到已触发效果的[[Drone Duplicator||132312]]上。\n"
+"最后，买下所有遇到的[[Greedy Conniver||134421]]，并对它们使用大地母亲之眼，以获得[[Polarizing Beatboxer||98713]]。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/99/
-msgid "Infinite gold ([[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]]) + [[Auto Reveille||134417]]"
+msgid "无限铸币 ([[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]]) + [[Auto Reveille||134417]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/99/
-msgid "Infinite gold ([[Sky Admiral Rogers||122516]])"
+msgid "无限铸币 ([[Sky Admiral Rogers||122516]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/99/
@@ -79,15 +81,15 @@ msgid "Attach bigger and bigger magnetics"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/76/
-msgid "Quilboar - APM Shop Buff"
+msgid "野猪人 - 手速商店强化"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/76/
-msgid "You must have an insane amount of economy to go for this comp. This is usually achieved with a turn 9 Brann + Rogers + Privateer. You may also buff the shop cycling bloom gem buffers, spell power buffers, and buying every gem barrage card such as [[Veteran Brigand||132929]]. You'll also generate a ton of spells by being infinite, allowing [[Felboar||110664]] or [[Twisted Wrathguard||130662]] to eat a huge shop over and over again. The best cards to cycle are blood gem generators such as [[Fearless Foodie||113154]]. Casting targetted spells onto [[Gatekeeper Amalgam||133329]] or [[Devilish Distractor||132901]] is a good use of spells."
+msgid "要玩此流派，你必须拥有极强的经济能力。通常可以在第 9 回合靠 铜须+ 罗杰斯+ 私掠者 建立经济优势。你也可以通过反复买卖能强化宝石和提高法术强度的随从来提升酒馆中的随从，并购买[[Veteran Brigand||132929]]等所有能大量提供宝石的卡牌。经济运转起来后，你还会获得大量法术，让[[Felboar||110664]]或[[Twisted Wrathguard||130662]]反复吞噬属性极高的酒馆随从。最适合反复买卖的是[[Fearless Foodie||113154]]等能生成鲜血宝石的随从。将指定目标的法术施放到[[Gatekeeper Amalgam||133329]]或[[Devilish Distractor||132901]]身上，也能有效利用这些法术。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/76/
-msgid "Early infinite gold + Felboar"
+msgid "早期无限铸币 + 邪能野猪人"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/76/
@@ -99,15 +101,15 @@ msgid "Cast spells to consume buffed shop."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Undead - APM Undead"
+msgid "亡灵 - 手速"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/3/
-msgid "[[Sky Admiral Rogers||122516]] combined with [[Proud Privateer||122520]] gives you lots of gold to hit more of your setup.  Additional cards that help you become infinite include [[Enterprising Escapee||132762]] and [[Brann Bronzebeard||96786]], but can be cut once you commit more undeads to your board. Cycle every single free card ([[Refreshing Anomaly||64042]]) so you stay infinite. After you're infinite, scale undead attack using bounties + [[Forsaken Weaver||126733]]. Run a reborn golden [[Handless Forsaken||95265]] to be strong. Also use [[Snazzy Phantom||133083]] and cycle every single destroy undead effect such as [[Maw Caster||121508]] and [[Disguised Graverobber||104610]] to destroy reborns and give snazzy permanent stats."
+msgid "[[Sky Admiral Rogers||122516]] 与 [[Proud Privateer||122520]] 的组合可以提供大量铸币，帮助你找到更多阵容组件。其他可以帮助你实现无限循环的卡牌包括 [[Enterprising Escapee||132762]] 和 [[Brann Bronzebeard||96786]]，但当你确定在场上投入更多亡灵后，可以将它们替换掉。循环使用所有免费卡牌（[[Refreshing Anomaly||64042]]），以维持无限循环。实现无限循环后，利用悬赏令和 [[Forsaken Weaver||126733]] 提高亡灵的攻击力。使用一张金色且具有复生的 [[Handless Forsaken||95265]] 来保证阵容强度。此外，使用 [[Snazzy Phantom||133083]]，并循环使用 [[Maw Caster||121508]] 和 [[Disguised Graverobber||104610]] 等所有能够消灭亡灵的效果，消灭具有复生的亡灵，让时尚魅影永久获得属性。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/3/
-msgid "Bounty Generation ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]] + [[Forsaken Weaver||126733]]"
+msgid "悬赏令生成器 ([[Sky Admiral Rogers||122516]]) + [[Proud Privateer||122520]] + [[Forsaken Weaver||126733]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/3/
@@ -119,20 +121,20 @@ msgid "Scale undead attack with infinite gold"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Undead - Attack Scaling"
+msgid "亡灵 - 攻击提升"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Scale the attack of your Undeads and summons with the Butchering spell from [[Drustfallen Butcher||120104]]. Butchering spell improves with spell scaling from [[Friendly Geist||120219]]. Your quality of summons come from [[Handless Forsaken||95265]]. [[Snazzy Phantom||133083]] provides a ton of attack and health to your right most unit in combat, but also during the shop phase. Start using Butchering spells on your reborn cards with [[Snazzy Phantom||133083]] on board to capture permanent stats. The best variation of this comp is to run [[Dead Bellringer||132322]] + [[Mummifier||108992]] to first reborn your entire board. Then, with a full hand of butchering and also Snazzy, use bellringer activate on the mummifier, then the bellringer will get reborn, and then butcher the bellringer, and repeat for all your butchering spells. This'll give you an insane amount of Snazzy procs."
+msgid "使用 [[Drustfallen Butcher||120104]] 生成的“宰割”法术，提高亡灵及其召唤物的攻击力。[[Friendly Geist||120219]] 提供的法术成长可以进一步强化“宰割”，而 [[Handless Forsaken||95265]] 则负责提供优质召唤物。[[Snazzy Phantom||133083]] 能在战斗阶段和酒馆阶段为最右边的随从提供大量攻击力和生命值。场上有 [[Snazzy Phantom||133083]] 时，开始对具有复生的随从使用“宰割”，从而获得永久属性。这套阵容最强的变体是使用 [[Dead Bellringer||132322]] 和 [[Mummifier||108992]]，先让整个场面都获得复生。随后，在手中存满“宰割”且场上拥有时尚魅影时，让丧钟死灵对木乃伊工匠发动效果。木乃伊工匠被消灭后，丧钟死灵会获得复生。接着对丧钟死灵使用“宰割，并用手中所有“宰割”重复这一过程，从而大量触发时尚魅影。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/14/
-msgid "Attack Scaling ([[Drustfallen Butcher||120104]]) + summons ([[Handless Forsaken||95265]])"
+msgid "攻击成长 ([[Drustfallen Butcher||120104]]) + 亡灵召唤([[Handless Forsaken||95265]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/14/
 msgid "[[Deathly Striker||115610]] \n"
-"Undead midgame ([[Plaguerunner||126451]])"
+"亡灵中期过度 ([[Plaguerunner||126451]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/14/
@@ -140,11 +142,11 @@ msgid "Summon high attack Undeads"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/15/
-msgid "Dragons - Battlecries"
+msgid "龙 - 战吼"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/15/
-msgid "[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] gives all of your dragons +4/4 every single battlecry you play. You want to trigger as many battlecries as possible. After you have your setup, cycle only PREMIUM battlecries, such as [[Tavern Tempest||64077]], [[Refreshing Anomaly||64042]], [[Shell Collector||80740]] or [[Draconic Warden||126860]]. If [[Kelp Keeper||132883]] is in the game, leave it on the board to proc a premium battlecry every turn, preferably [[Draconic Warden||126860]]. The highest cap is to find as many double attack spell every turn, and permanently double the attack of Heroic Broodmother every turn with the help of [[Persistent Poet||108463]]. Additionally, permanently attach divine shield to your dragons with [[Nadina, The Red||60629]]."
+msgid "[[Brann Bronzebeard||96786]] + [[Kalecgos, Arcane Aspect||60630]] 能让你的所有龙在你每使用一张战吼牌后获得+4/+4。你需要触发尽可能多的战吼。阵容成型后，只循环使用优质战吼牌，例如 [[Tavern Tempest||64077]]、[[Refreshing Anomaly||64042]]、[[Shell Collector||80740]] 或 [[Draconic Warden||126860]]。如果本局游戏中有 [[Kelp Keeper||132883]]，就将其留在场上，每回合触发一个优质战吼，最好是 [[Draconic Warden||126860]]。这套阵容的最高上限是每回合尽可能多地寻找使攻击力翻倍的法术，并借助 [[Persistent Poet||108463]]，每回合永久翻倍英勇的巢母的攻击力。此外，还可以使用 [[Nadina, The Red||60629]] 永久为你的龙附加圣盾。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/15/
@@ -161,15 +163,15 @@ msgid "Cycle battlecries to scale dragons"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/38/
-msgid "Beasts - Beetles"
+msgid "野兽 - 甲虫"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/38/
-msgid "With early [[Ravaging Scorpid||132949]] or [[Turquoise Skitterer||119255]], start scaling the stats of beetles. [[Headhunter Gryphon||132800]] can help you generate pieces of the comp with the help of [[Snarky Shark||132804]]. Run as many [[Banana Slamma||98824]] as possible, as they double the attack of your beetles and helps deals with high HP boards."
+msgid "前期获得 [[Ravaging Scorpid||132949]] 或 [[Turquoise Skitterer||119255]] 后，开始提高甲虫的属性。[[Headhunter Gryphon||132800]] 可以配合 [[Snarky Shark||132804]]，帮助你生成阵容所需的组件。尽可能多地使用 [[Banana Slamma||98824]]，它们可以使甲虫的攻击力翻倍，帮助你应对高生命值阵容。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/38/
-msgid "Early [[Ravaging Scorpid||132949]] or [[Turquoise Skitterer||119255]]"
+msgid "早期 [[Ravaging Scorpid||132949]] 或 [[Turquoise Skitterer||119255]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/38/
@@ -181,11 +183,11 @@ msgid "Summon large beetles"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/88/
-msgid "Quilboar - Choose One"
+msgid "野猪人 - 抉择"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/88/
-msgid "First, have gem scaling, most commonly through [[Gem rat||116434]] but could be with [[Sanguine Refiner||122566]]. [[Turbo Hogrider||116195]] is the payoff for your gem scaling. It helps to have some choose one generation through [[Gem Rat||116434]] or [[Bramble Tunneler||132632]]. If dragons are in, use [[Sky-hatch Runaway||132957]] to proc [[Bramble Tunneler||132632]] for very powerful choose one generation."
+msgid "首先要提升鲜血宝石的效果，最常见的方法是使用[[Gem rat||116434]]，也可以使用[[Sanguine Refiner||122566]]。[[Turbo Hogrider||116195]]是宝石成长后的核心收益点。最好通过[[Gem Rat||116434]]或[[Bramble Tunneler||132632]]获取一些“抉择”效果。如果本局有龙，可以用[[Sky-hatch Runaway||132957]]触发[[Bramble Tunneler||132632]]，大量获取“抉择”效果。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/88/
@@ -193,7 +195,7 @@ msgid "[[Gem rat||116434]]/[[Bramble Tunneler||132632]] + [[Turbo Hogrider||1161
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/88/
-msgid "gem scaling ([[Gem Rat||116434]])"
+msgid "宝石成长 ([[Gem Rat||116434]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/88/
@@ -201,7 +203,7 @@ msgid "Play Choose One cards to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/101/
-msgid "Dragons - Copebringer"
+msgid "龙 - 希望信使"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/101/
@@ -209,11 +211,11 @@ msgid "Find an early [[Hopebringer||134411]] (latest turn 8) and start scaling i
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/101/
-msgid "Early [[Hopebringer||134411]] + shields"
+msgid "早期获得 [[Hopebringer||134411]] +圣盾"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/101/
-msgid "Divine Shields ([[Bronze Warden||60558]])"
+msgid "圣盾([[Bronze Warden||60558]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/101/
@@ -221,19 +223,19 @@ msgid "Proc Divine Shields to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/100/
-msgid "Demons - Deathrattle/Shop Buff"
+msgid "恶魔 - 亡语/商店强化"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/100/
-msgid "Commit to this comp with an early [[Sacrificial Wrathguard||134405]] (turn 6 latest). Activate it every turn. Use [[Titus Rivendare||97408]] to double its effect and scale the shop a lot. [[Imp-lusionist||132899]] + [[Balinda Stonehearth||130298]] is the main payoff for this comp and can eat many shops. [[Soulkeeping Jailer||132306]] is a great demon to help you stabilize."
+msgid "尽早拿到[[Sacrificial Wrathguard||134405]]（最晚第 6 回合），再确定玩这个流派，并每回合触发其效果。用[[Titus Rivendare||97408]]使效果触发两次，大幅提升酒馆中随从的属性。[[Imp-lusionist||132899]]与[[Balinda Stonehearth||130298]]是这套阵容的核心收益点，能吞噬大量酒馆随从。[[Soulkeeping Jailer||132306]]也是帮助你稳住局面的优秀恶魔。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/100/
-msgid "Early [[Sacrificial Wrathguard||134405]]"
+msgid "早期获得 [[Sacrificial Wrathguard||134405]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/100/
-msgid "Sacrificial Wrathguard"
+msgid "牺牲的愤怒卫士"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/100/
@@ -241,40 +243,60 @@ msgid "Scale and eat the shop with deathrattles."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/94/
-msgid "Aberrations - Deathrattle/Spells"
+msgid "畸变怪 - 亡语/法术"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/94/
-msgid "A LOT BETTER WITH CHTUN AS DEITY! Scale your deity with [[Faceless Converter||132331]] + [[Titus Rivendare||97408]]. Generate spells to scale your Converter, best using [[Unwilling Slacker||131700]], but [[N'raqi Sapper||131704]], [[Nightmare Corroder||133102]], or the APM Bounty package works too. Then, proc the deathrattle as many times as possible, typically using [[Deathstrider||132808]]. Best strategy is to use a beast rally ([[Headhunter Gryphon||132800]]), cycle [[Snarky Shark||132804]] and [[Lurking Lionfish||132794]] to proc your deathrattle during shop phase."
+msgid "神明是克苏恩时强得多！使用 [[Faceless Converter||132331]] + [[Titus Rivendare||97408]] 强化你的神明。生成法术来强化无面转化者，最好的方式是使用 [[Unwilling Slacker||131700]]，不过 [[N'raqi Sapper||131704]]、[[Nightmare Corroder||133102]] 或手速悬赏令体系也可以。然后尽可能多次触发亡语，通常需要使用 [[Deathstrider||132808]]。最佳策略是使用野兽进击（[[Headhunter Gryphon||132800]]），并循环使用 [[Snarky Shark||132804]] 和 [[Lurking Lionfish||132794]]，在酒馆招募阶段触发你的亡语。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/94/
 msgid "[[Faceless Converter||132331]] + [[Titus Rivendare||97408]]\n"
-"[[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]] pivot highest cap"
+"[[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]] 阵容上限最高"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/94/
-msgid "Spell generation ([[Unwilling Slacker||131700]])"
+msgid "法术生成 ([[Unwilling Slacker||131700]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/94/
 msgid "Play spells and proc deathrattle to scale Deity"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/104/
+msgid "Undead - Eternal Knight"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/104/
+msgid "Must have an [[Eternal Knight||95261]] early on to start scaling it (turn 4 latest). Then, fill out the rest of your board with [[Eternal Summoner||95263]] and [[Eternal Tycoon||129263]]. If you find [[Snazzy Phantom||133083]] + [[Dead Bellringer||132322]], use Bellringer's activate on your [[Eternal Knight||95261]] every turn to scale."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/104/
+msgid "Early [[Eternal Knight||95261]] + [[Eternal Summoner||95263]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/104/
+msgid "Early [[Eternal Knight||95261]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/104/
+msgid "Summon many Eternal Knights"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/63/
-msgid "Quilboar - Gems from Hand"
+msgid "野猪人 - 手牌宝石"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/63/
-msgid "First, you need Gem scaling ([[Sanguine Refiner||122566]]) to enable this build. Then, you scale by adding gems to your hand with mainly [[Victorious Geomant||134423]], and then casting them with [[Hot-Air Surveyor||113152]]. Cast them onto great utility units such as [[Blade Collector||99035]]. In the lategame, when you're done concentrating stats, fill the rest of your board with ending units such as [[Leeroy the Reckless||90425]]"
+msgid "首先，你需要用[[Sanguine Refiner||122566]]提升宝石效果，才能玩这个流派。之后主要依靠[[Victorious Geomant||134423]]将宝石加入手牌，再用[[Hot-Air Surveyor||113152]]施放宝石。优先将宝石用于[[Blade Collector||99035]]等功能性随从。到了后期，完成属性集中后，用[[Leeroy the Reckless||90425]]等终局随从填满剩余的场上位置"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/63/
-msgid "Gem scaling ([[Sanguine Refiner||122566]]) + [[Hot Air Surveyor||113152]]"
+msgid "宝石成长 ([[Sanguine Refiner||122566]]) + [[Hot Air Surveyor||113152]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/63/
-msgid "Gem scaling ([[Sanguine Refiner||122566]])"
+msgid "宝石成长 ([[Sanguine Refiner||122566]])"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/63/
@@ -282,20 +304,20 @@ msgid "Add buffed gems to hand"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/31/
-msgid "Murlocs - Keyword"
+msgid "鱼人 - 关键词"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/31/
-msgid "Use Sewer Escapee and start putting keywords on a premium murloc early. The best one is [[Expert Aviator||126637]], and the second best one is [[Bile Spitter||122219]]. Then, use [[Brann Bronzebeard||96786]] to cycle [[Primalfin Lookout||60028]] and Hackerfin. Even better if you can proc a premium battecry repeatedly with [[Kelp Keeper||132883]]. With [[Expert Aviator||126637]], you want to summon a million scam cards from hand such as [[Leeroy, The Reckless||90425]] and [[Deadly Spore||65031]]."
+msgid "尽早使用下水道逃生鱼人，给一只优质鱼人添加额外关键词。首选[[Expert Aviator||126637]]，其次是[[Bile Spitter||122219]]。然后用 [[Brann Bronzebeard||96786]] 循环使用[[Primalfin Lookout||60028]]和黑客鱼人。如果还能用[[Kelp Keeper||132883]]反复触发优质战吼，效果会更好。使用[[Expert Aviator||126637]]时，尽量从手牌中大量召唤[[Leeroy, The Reckless||90425]]和[[Deadly Spore||65031]]等针对型随从。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/31/
-msgid "[[Brann Bronzebeard||96786]] + Sewer Escapee"
+msgid "[[Brann Bronzebeard||96786]] + 下水道逃生鱼人"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/31/
 msgid "[[Brann Bronzebeard||96786]]\n"
-"Sewer Escapee"
+"下水道逃生鱼人"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/31/
@@ -303,19 +325,19 @@ msgid "Add Keywords to Murlocs and buff them"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/83/
-msgid "Beasts - Leviathan"
+msgid "野兽 - 深潜巨兽"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/83/
-msgid "Summon as many beasts as possible after you get early [[Lurking Leviathan||130711]]. The best beast summoner is reborned [[Sewer lord||130996]]. Hoarding Hyena summons a taunt summon which is the next best. Then, paired with [[Banana Slamma||98824]], every summon will have a ton of attack."
+msgid "尽早获得 [[Lurking Leviathan||130711]] 后，尽可能多地召唤野兽。最好的野兽召唤组件是获得了复生的 [[Sewer lord||130996]]。其次是囤食土狼，它可以召唤一个具有嘲讽的随从。搭配 [[Banana Slamma||98824]] 后，每个召唤出来的随从都能获得大量攻击力。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/83/
-msgid "Early [[Lurking Leviathan||130711]] + Beast summons ([[Sewer Lord||130996]])"
+msgid "早期获得[[Lurking Leviathan||130711]] + 野兽召唤([[Sewer Lord||130996]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/83/
-msgid "Beast summons midgame (beetles)"
+msgid "野兽召唤中期过度（甲虫）"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/83/
@@ -323,15 +345,15 @@ msgid "Make huge attack summons"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/95/
-msgid "Elementals - Living Azerite"
+msgid "元素 - 活化艾泽里特"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/95/
-msgid "Use [[Living Azerite||107939]] to scale the shop. May use [[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]] to cast a bunch of spells. Then, your payoff for the shop buff is generating as many Arcane Absorption as possible, which is the spell from [[Leyline Surfacer||130294]].  Use [[Brann Bronzebeard||96786]] and [[Kelp Keeper||132883]] to generate them, and [[Balinda Stonehearth||130298]] to doubt its effect. Finally, the best elemental to buff is [[Wildfire Elemental||64189]]."
+msgid "使用 [[Living Azerite||107939]] 强化酒馆。你可以利用 [[Sky Admiral Rogers||122516]] + [[Proud Privateer||122520]] 施放大量法术。然后，酒馆强化的核心收益手段是生成尽可能多的奥术吸收，也就是 [[Leyline Surfacer||130294]] 生成的法术。使用 [[Brann Bronzebeard||96786]] 和 [[Kelp Keeper||132883]] 生成奥术吸收，再用 [[Balinda Stonehearth||130298]] 使其效果翻倍。最后，最适合接受强化的元素是 [[Wildfire Elemental||64189]]。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/95/
-msgid "[[Brann Bronzebeard||96786]] + [[Living Azerite||107939]] + good economy"
+msgid "[[Brann Bronzebeard||96786]] + [[Living Azerite||107939]] + 良好经济"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/95/
@@ -339,11 +361,11 @@ msgid "Buff Elementals in shop"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/56/
-msgid "Murlocs - Magicfin"
+msgid "鱼人 - 小学生"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/56/
-msgid "This comp relies on teaching a great spell to Magicfin Apprentice and proccing it over and over again. [[Young Murk-eye||87084]] is a must to proc these spells every turn, with its effect amplified by [[Brann Bronzebeard||96786]] and [[Drakkari Enchanter||101314]]. Teach the apprentice [[Shiny ring||109230]], [[Azerite Empowerment||109232]], or [[Time management||117573]] with some spell scaling, which comes from [[Felfire Conjurer||120299]]. Early on, it may be nice to teach it some econ spell as well, notable [[Strike Oil||104029]], or proc [[Refreshing Anomaly||64042]]."
+msgid "这个流派依赖于教会魔鳍学徒一个强大的法术并不断触发它。[[Young Murk-eye||87084]] 是每回合触发这些法术的必备卡，其效果被 [[Brann Bronzebeard||96786]] 和 [[Drakkari Enchanter||101314]] 增强。教会学徒 [[Shiny ring||109230]]、[[Azerite Empowerment||109232]] 或 [[Time management||117573]]，并搭配一些法强，这些法强来自 [[Felfire Conjurer||120299]]。在早期，教它一些经济法术也不错，特别是[[Strike Oil||104029]]，或者触发[[Refreshing Anomaly||64042]]。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/56/
@@ -360,11 +382,11 @@ msgid "Teach Murlocs spells and proc them"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/91/
-msgid "Mechs - Magnetics/Spells"
+msgid "机械 - 磁力/法术"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/91/
-msgid "Put targetted spells on mechs as much as possible with [[Glambot||132893]] on board. [[Balinda Stonehearth||130298]] doubles the effect. Cycle good gem cards such as [[Fearless Foodie||113154]] and buy good spells such as 3 pointy arrow spell. Eventually, buy [[Utility Drone||98588]] to capitalize on the magnetics you attached with Glambot in the midgame."
+msgid "场上有 [[Glambot||132893]] 时，尽可能多地对机械使用定向法术。[[Balinda Stonehearth||130298]] 可以使这些法术的效果触发两次。反复使用 [[Fearless Foodie||113154]] 等优质鲜血宝石卡牌，并购买“武器锻造”等优质法术来获取3张尖利箭矢。最后购买 [[Utility Drone||98588]]，利用中期通过微光机器人磁力吸附的大量组件获得进一步成长。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/91/
@@ -372,7 +394,7 @@ msgid "[[Glambot||132893]] + [[Balinda Stonehearth||130298]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/91/
-msgid "[[Glambot||132893]] to stabilize"
+msgid "用 [[Glambot||132893]] 稳定下来"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/91/
@@ -384,15 +406,15 @@ msgid "Menagerie"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/98/
-msgid "Play spells onto [[Gatekeeper Amalgam||133329]] to buff one minion of each type. [[Balinda Stonehearth||130298]] doubles your scaling, and [[Brann Bronzebeard||96786]] increases spell generation and overall economy. Additionally, spell power units such as ([[Dark Puppeteer||131706]]) are nice to run in this comp. Economy units such as [[Enterprising Escapee||132762]] or [[Magicfin Mycologist||122277]] gives more gold to hit more core cards and targetted spells. Finally, [[Hot-air Surveyor||113152]] and/or [[Victorious Geomant||134423]] increase the total spells played on your Amalgam. If Deity is Y'sharajj, then running reborn amalgam is very strong because Y'sharajj will resummon it."
+msgid "对 [[Gatekeeper Amalgam||133329]] 施放法术，使每个随从类型各有一个随从获得强化。[[Balinda Stonehearth||130298]] 能让你的成长效果翻倍，[[Brann Bronzebeard||96786]] 则能提高法术生成能力和整体经济。此外，这个流派也适合使用法术强度随从，例如 ([[Dark Puppeteer||131706]])。[[Enterprising Escapee||132762]] 或 [[Magicfin Mycologist||122277]] 等经济组件能提供更多铸币，帮助你找到更多核心卡牌和指向性法术。最后，[[Hot-air Surveyor||113152]] 和/或 [[Victorious Geomant||134423]] 能增加你对守门融合怪施放的法术总数。如果你的神明是亚煞极，使用带有复生的守门融合怪会非常强，因为亚煞极可以将其重新召唤。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/98/
-msgid "[[Gatekeeper Amalgam||133329]] + [[Balinda Stonehearth||130298]] or spell power ([[Dark Puppeteer||131706]])"
+msgid "[[Gatekeeper Amalgam||133329]] + [[Balinda Stonehearth||130298]] 或法强 ([[Dark Puppeteer||131706]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/98/
-msgid "Spell power ([[Dark Puppeteer||131706]])\n"
+msgid "法强 ([[Dark Puppeteer||131706]])\n"
 "[[Gatekeeper Amalgam||133329]]"
 msgstr ""
 
@@ -401,19 +423,19 @@ msgid "Cast targetted spells to scale all tribes"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/13/
-msgid "Demons - Self Damage"
+msgid "恶魔 - 自伤"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/13/
-msgid "The idea of this comp is to use effects such as [[Malchezaar, Prince of Dance||99199]], [[Wrath Weaver||59670]], or trinkets to deal damage to your hero, and [[Ashen Corruptor||121687]] to negate this damage. [[Tichondrius||99228]] is some payoff for self damage, and used to stabilize in the midgame. Cupcakes generation with [[Eredar Escapist||133028]] is your main payoff for the lategame, targetting [[Ashen Corruptor||121687]] to buff your shop. [[Balinda Stonehearth||130298]] doubles the effect of both Cupcakes and [[Devilish Distractor||132901]]. With [[Wrath Weaver||59670]], every single Demon played makes your next spell free which generates a ton of value. The best demon generation is from [[Brann Bronzebeard||96786]] and cycling [[Imposing Percussionist||99232]]."
+msgid "这个流派的思路是利用 [[Malchezaar, Prince of Dance||99199]]、[[Wrath Weaver||59670]] 或饰品等效果对自己的英雄造成伤害，再通过 [[Ashen Corruptor||121687]] 回溯这些伤害。[[Tichondrius||99228]] 能从自残中获得收益，并帮助你在中期稳住场面。[[Eredar Escapist||133028]] 生成的腐化糕点是后期的主要收益手段，将腐化糕点用于 [[Ashen Corruptor||121687]] 来强化酒馆。[[Balinda Stonehearth||130298]] 可以使腐化糕点和 [[Devilish Distractor||132901]] 的效果触发两次。拥有 [[Wrath Weaver||59670]] 后，每使用一张恶魔牌都会使你的下一张法术牌变为免费，从而创造大量价值。最好的恶魔生成方式是使用 [[Brann Bronzebeard||96786]]，并循环使用 [[Imposing Percussionist||99232]]。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/13/
-msgid "[[Ashen Corruptor||121687]] + self damage ([[Wrath Weaver||59670]] or [[Malchezaar, Prince of Dance||99199]]) + payoff ([[Tichondrius||99228]] or [[Eredar Escapist||133028]])"
+msgid "[[Ashen Corruptor||121687]] + 自伤效果（[[Wrath Weaver||59670]] 或 [[Malchezaar, Prince of Dance||99199]]）+ 核心收益组件（[[Tichondrius||99228]] 或 [[Eredar Escapist||133028]]）"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/13/
-msgid "[[Wrath Weaver||59670]] + [[Soul Rewinder||100949]] demon midgame"
+msgid "[[Wrath Weaver||59670]] + [[Soul Rewinder||100949]] 恶魔中期过度"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/13/
@@ -421,15 +443,15 @@ msgid "Use self-damage to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Demons - Shop Buff"
+msgid "恶魔 - 商店强化"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Scale your shop with [[Devilish Distractor||132901]], best when paired with [[Balinda Stonehearth||130298]]. Then, your payoff for the buffed shop is most commonly [[Felboar||110664]], but it could also be [[Twisted Wrathguard||130662]] and/or reborn [[Imp-lusionist||132899]]. Use [[Methodical Madness||132903]] spells on shops with Divine shield or Venomous to give these keywords to all your demons."
+msgid "使用 [[Devilish Distractor||132901]] 强化酒馆，最好搭配 [[Balinda Stonehearth||130298]]，让强化效果触发两次。酒馆获得大量强化后，最常见的收益组件是 [[Felboar||110664]]，也可以使用 [[Twisted Wrathguard||130662]]，或者获得了复生的 [[Imp-lusionist||132899]]。对酒馆中具有圣盾或剧毒的随从使用 [[Methodical Madness||132903]] 生成的法术，让你的所有恶魔获得这些关键词。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/41/
-msgid "Buffed Shop ([[Devilish Distractor||132901]]) + [[Twisted Wrathguard||130662]]"
+msgid "强化的商店([[Devilish Distractor||132901]]) + [[Twisted Wrathguard||130662]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/41/
@@ -442,31 +464,51 @@ msgid "Scale and consume shop"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/97/
-msgid "Aberrations - Sludge"
+msgid "畸变怪 - 腐泥"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/97/
-msgid "*BEST With Y'sharjj as Deity* Use [[Nightmare Corroder||133102]] +[[Drakkari Enchanter||101314]] to generatesludges. Use [[N'raqi Frostcaller||132136]] or [[Felfire Conjurer||120299]] or [[Dark Puppeteer||131706]] to scale spell power, which improves your sludges. Finally, use [[Mysterious K'thir||134497]] and Frostcaller to discard the sludges you generate. Comp significantly improved by Sludge Portrait greater trinket, and also if your deity is Ysharjj."
+msgid "*以亚煞极为神祇时效果最佳* 使用[[Nightmare Corroder||133102]]和[[Drakkari Enchanter||101314]]生成腐泥侵蚀。用[[N'raqi Frostcaller||132136]]、[[Felfire Conjurer||120299]]或[[Dark Puppeteer||131706]]提高法术强度，让腐泥侵蚀更强。最后，用[[Mysterious K'thir||134497]]和[[N'raqi Frostcaller||132136]]弃掉生成的腐泥侵蚀。如果拿到大型饰品“腐泥肖像”，或神明是亚煞极时这个流派的强度会显著提高。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/97/
-msgid "Spell generation ([[Nightmare Corroder||133102]], Sludge Portrait) + Spell Power ([[N'raqi Frostcaller||132136]])"
+msgid "法术生成 ([[Nightmare Corroder||133102]], 腐泥肖像) + 法强 ([[N'raqi Frostcaller||132136]])"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/97/
-msgid "[[Nightmare Corroder||133102]] + discard midgame"
+msgid "[[Nightmare Corroder||133102]] + 弃牌中期过渡"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/97/
 msgid "Discard sludges to scale"
 msgstr ""
 
+#: name | https://hsreplay.net/battlegrounds/comps/103/
+msgid "Dragons - Spell Power"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/103/
+msgid "First scale spell power through Chromadrake generation, typically via [[Bronze Timewalker||132955]] + [[Sky-Hatch Runaway||132957]]. Then, use [[Brann Bronzebeard||96786]] to double the effect of your Chromadrakes. Use [[Crimson Vindicator||132953]] as your payoff card, and then start proccing the rally of it with [[Sky-Hatch Runaway||132957]]. Use [[Persistent Poet||108463]] to capture the buffs in combat from Crimson Vindicator and also [[Runic Arcanist||132985]]."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/103/
+msgid "Spell power ([[Bronze Timewalker||132955]]) + [[Crimson Vindicator||132953]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/103/
+msgid "Spell power ([[Bronze Timewalker||132955]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/103/
+msgid "Use spell power to scale dragons"
+msgstr ""
+
 #: name | https://hsreplay.net/battlegrounds/comps/12/
-msgid "Beasts - Summons"
+msgid "野兽 - 召唤"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/12/
-msgid "First, have [[Headhunter Gryphon||132800]] in the midgame to start generating many beasts and along the way, generate the core pieces to this comp. Then, proc [[Goldrinn, the Great Wolf||59955]] during shop phase with the help of [[Deathstrider||132808]]. [[Titus Rivendare||97408]] also doubles the effectiveness of this strategy. Force your Gryphon to attack using [[Lurking Lionfish||132794]] activate or cycling [[Snarky Shark||132804]]. Best case is when you chain shop attacks by generating more Lionfish and Sharks. Then, use [[Sewer Lord||130996]] and [[Banana Slamma||98824]] to benefit from the aura from Goldrinn and summon huge attack beasts."
+msgid "首先，在中期拿到 [[Headhunter Gryphon||132800]]，开始生成大量野兽，并在此过程中集齐这个流派的核心组件。然后，借助 [[Deathstrider||132808]] 在酒馆招募阶段触发 [[Goldrinn, the Great Wolf||59955]]。[[Titus Rivendare||97408]] 还能使这套策略的效果翻倍。利用 [[Lurking Lionfish||132794]] 的发动效果或循环使用 [[Snarky Shark||132804]]，迫使猎头狮鹫攻击。最理想的情况是生成更多深潜狮子鱼和尖利的鲨鱼，让酒馆招募阶段的攻击连续触发。最后，使用 [[Sewer Lord||130996]] 和 [[Banana Slamma||98824]]，利用巨狼戈德林的光环效果召唤拥有巨额攻击力的野兽。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/12/
@@ -478,11 +520,11 @@ msgid "Scale summoned beasts in combat"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/87/
-msgid "Beasts - Tasty Lobstah"
+msgid "野兽 - 美味龙虾"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/87/
-msgid "Trigger [[Tasty Lobster||132796]] deathrattle as many times as possible. This is done with multiple rallies + [[Deathstrider||132808]] and [[Titus Rivendare||97408]], triggering Lobster deathrattle upon every rally. Trigger the lobster deathrattle during shop phase using golden [[Headhunter Gryphon||132800]] and buying every [[Snarky Shark||132804]] and [[Lurking Lionfish||132794]]. Reborn taunt your lobster, and then windfury your Gryphon with [[Sprightly Scarab||108909]]."
+msgid "尽可能多地触发 [[Tasty Lobster||132796]] 的亡语。通过多次触发进击，并配合 [[Deathstrider||132808]] 和 [[Titus Rivendare||97408]]，让每次进击都能触发美味龙虾的亡语。在酒馆阶段，使用金色 [[Headhunter Gryphon||132800]] 触发美味龙虾的亡语，并买下所有 [[Snarky Shark||132804]] 和 [[Lurking Lionfish||132794]]。让美味龙虾获得复生和嘲讽，再使用 [[Sprightly Scarab||108909]] 让猎头狮鹫获得风怒。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/87/
@@ -494,7 +536,7 @@ msgid "Trigger Lobster Deathrattle to scale"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/67/
-msgid "Murlocs - Tidecaller"
+msgid "鱼人 - 萨满招潮者"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/67/
@@ -502,12 +544,12 @@ msgid "First, have a ton of economy, typically starting from golden [[Brann Bron
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/67/
-msgid "[[Brann Bronzebeard||96786]] + lots of economy + [[Shamanic Tidecaller||133026]]"
+msgid "[[Brann Bronzebeard||96786]] + 大量经济 + [[Shamanic Tidecaller|||133026]]"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/67/
 msgid "[[Brann Bronzebeard||96786]]\n"
-"[[Shamanic Tidecaller||133026]]"
+"[[Shamanic Tidecaller|||133026]]"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/67/
@@ -515,7 +557,7 @@ msgid "Play spells to scale Murlocs."
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/92/
-msgid "Elementals - Unbound Tempest"
+msgid "元素 - 无羁雷暴"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/92/
@@ -536,22 +578,42 @@ msgid "Play elementals to scale from big shop"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Murlocs - Venom Scam"
+msgid "鱼人 - 下毒"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Buy all the scam cards and try to preserve placements by killing as many units as possible. Keep your strongest units on the board (that's why you want to concentrate stats!) and fill the rest of the board with units that may be able to trade 1 for 1. Aim to golden [[Expert Aviator||126637]] and give it venom using [[Bile Spitter||122219]]. Then, the Aviator will pull many scam units from your hand. Could give murlocs permanent Venom using [[Sky-hatch Runaway||132957]] as well."
+msgid "购买所有的下毒单卡，尽可能多杀一些随从以保住排名。保留你最强战力的卡牌（所以你才需要集中精力研究统计数据！），用可以各种能1换1的随从填充空余棋盘。目标是金色的[[Expert Aviator||126637]] 并通过 [[Bile Spitter||122219]] 给它上毒。然后飞行专家会把你手牌中的下毒卡拉到场上。也能用 [[Sky-hatch Runaway||132957]] 给鱼人永久施加烈毒。"
 msgstr ""
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/8/
-msgid "When you have no future or are clearly getting outstatted"
+msgid "当你觉得没有未来或明显快被淘汰时"
 msgstr ""
 
 #: common_enablers | https://hsreplay.net/battlegrounds/comps/8/
-msgid "Getting outscaled"
+msgid "快被淘汰了"
 msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/8/
 msgid "Buy scam cards and try to preserve placements"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/102/
+msgid "Murlocs - Volumizer"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/102/
+msgid "Generate Volumizers, starting with [[Resourceful Robot||134415]] or reborn [[Conveyor Construct||126816]]. Another option is [[Auto Accelerator||126814]] + [[Brann Bronzebeard||96786]] + [[Kelp Keeper||132883]]. Play early volumizers for economy to hit [[Utility Drone||98588]] which is your main payoff. Then, add [[Drakkari Enchanter||101314]] to scale with the Volumizers you're attaching."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/102/
+msgid "Early Volumizer generation ([[Conveyor Construct||126816]]) + [[Utility Drone||98588]]"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/102/
+msgid "Volumizer generation ([[Conveyor Construct||126816]])"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/102/
+msgid "Attach Magnetics to scale end of turn"
 msgstr ""
 
