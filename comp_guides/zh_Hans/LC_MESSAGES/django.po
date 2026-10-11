@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-09 15:38\n"
+"POT-Creation-Date: 2026-10-11 01:40\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: zh-CN\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-10-10 12:40\n"
+"PO-Revision-Date: 2026-10-11 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/96/
 msgid "Aberrations - APM Deity"
@@ -434,8 +434,8 @@ msgid "Demons - Self Damage"
 msgstr "恶魔 - 自伤"
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/13/
-msgid "The idea of this comp is to use effects such as [[Malchezaar, Prince of Dance||99199]], [[Wrath Weaver||59670]], or trinkets to deal damage to your hero, and [[Ashen Corruptor||121687]] to negate this damage. [[Tichondrius||99228]] is some payoff for self damage, and used to stabilize in the midgame. Cupcakes generation with [[Eredar Escapist||133028]] is your main payoff for the lategame, targetting [[Ashen Corruptor||121687]] to buff your shop. [[Balinda Stonehearth||130298]] doubles the effect of both Cupcakes and [[Devilish Distractor||132901]]. With [[Wrath Weaver||59670]], every single Demon played makes your next spell free which generates a ton of value. The best demon generation is from [[Brann Bronzebeard||96786]] and cycling [[Imposing Percussionist||99232]]."
-msgstr "这个流派的思路是利用 [[Malchezaar, Prince of Dance||99199]]、[[Wrath Weaver||59670]] 或饰品等效果对自己的英雄造成伤害，再通过 [[Ashen Corruptor||121687]] 回溯这些伤害。[[Tichondrius||99228]] 能从自残中获得收益，并帮助你在中期稳住场面。[[Eredar Escapist||133028]] 生成的腐化糕点是后期的主要收益手段，将腐化糕点用于 [[Ashen Corruptor||121687]] 来强化酒馆。[[Balinda Stonehearth||130298]] 可以使腐化糕点和 [[Devilish Distractor||132901]] 的效果触发两次。拥有 [[Wrath Weaver||59670]] 后，每使用一张恶魔牌都会使你的下一张法术牌变为免费，从而创造大量价值。最好的恶魔生成方式是使用 [[Brann Bronzebeard||96786]]，并循环使用 [[Imposing Percussionist||99232]]。"
+msgid "The idea of this comp is to use effects such as [[Malchezaar, Prince of Dance||99199]], [[Wrath Weaver||59670]], or trinkets to deal damage to your hero, and [[Ashen Corruptor||121687]] to negate this damage. [[Tichondrius||99228]] is some payoff for self damage, and used to stabilize in the midgame. Cupcakes generation with [[Eredar Escapist||133028]] is your main payoff for the lategame, targetting [[Ashen Corruptor||121687]] to buff your shop. [[Balinda Stonehearth||130298]] doubles the effect of both Cupcakes and [[Devilish Distractor||132901]]. The best demon generation is from [[Brann Bronzebeard||96786]] and cycling [[Imposing Percussionist||99232]]."
+msgstr "这个流派的思路是利用 [[Malchezaar, Prince of Dance||99199]]、[[Wrath Weaver||59670]] 或饰品等效果对自己的英雄造成伤害，再通过 [[Ashen Corruptor||121687]] 回溯这些伤害。[[Tichondrius||99228]] 能从自残中获得收益，并帮助你在中期稳住场面。[[Eredar Escapist||133028]] 生成的腐化糕点是后期的主要收益手段，将腐化糕点用于 [[Ashen Corruptor||121687]] 来强化酒馆。[[Balinda Stonehearth||130298]] 可以使腐化糕点和 [[Devilish Distractor||132901]] 的效果触发两次。最好的恶魔生成方式是使用 [[Brann Bronzebeard||96786]]，并循环使用 [[Imposing Percussionist||99232]]。"
 
 #: when_to_commit | https://hsreplay.net/battlegrounds/comps/13/
 msgid "[[Ashen Corruptor||121687]] + self damage ([[Wrath Weaver||59670]] or [[Malchezaar, Prince of Dance||99199]]) + payoff ([[Tichondrius||99228]] or [[Eredar Escapist||133028]])"
