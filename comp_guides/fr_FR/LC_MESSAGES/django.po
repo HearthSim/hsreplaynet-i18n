@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-11 01:40\n"
+"POT-Creation-Date: 2026-10-12 09:49\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: French\n"
 "Language: fr\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-Language: fr\n"
 "X-Crowdin-File: /comp_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 159\n"
-"PO-Revision-Date: 2026-10-11 12:40\n"
+"PO-Revision-Date: 2026-10-12 12:40\n"
 
 #: name | https://hsreplay.net/battlegrounds/comps/96/
 msgid "Aberrations - APM Deity"
@@ -279,6 +279,27 @@ msgstr ""
 
 #: summary | https://hsreplay.net/battlegrounds/comps/104/
 msgid "Summon many Eternal Knights"
+msgstr ""
+
+#: name | https://hsreplay.net/battlegrounds/comps/72/
+msgid "Quilboar - Gem Barrage"
+msgstr ""
+
+#: how_to_play | https://hsreplay.net/battlegrounds/comps/72/
+msgid "First, scale your gems or spell power in some way. Then, scale shop using Gem Barrage. This is usually done with [[Titus Rivendare||97408]] or [[Brann Bronzebeard||96786]] + [[Razorfen Flapper||126667]]. Finally, the payoff for your buffed shops is [[Trench Fighter||126671]] so you can use your Gem Confiscation in shop to triple a minion's stats. Do this on premium units such as [[Blade Collector||99035]]. Use [[Drakkari Enchanter||101314]] to farm Gem Confiscations."
+msgstr ""
+
+#: when_to_commit | https://hsreplay.net/battlegrounds/comps/72/
+msgid "Gem scaling/Spell Power + Razorfen Flapper + payoff ([[Trench Fighter||126671]]/[[Felboar||110664]])"
+msgstr ""
+
+#: common_enablers | https://hsreplay.net/battlegrounds/comps/72/
+msgid "Gem Scaling/Spell Power\n"
+"[[Razorfen Flapper||126667]]"
+msgstr ""
+
+#: summary | https://hsreplay.net/battlegrounds/comps/72/
+msgid "Make shop big with gems"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/63/
@@ -596,7 +617,7 @@ msgid "Buy scam cards and try to preserve placements"
 msgstr ""
 
 #: name | https://hsreplay.net/battlegrounds/comps/102/
-msgid "Murlocs - Volumizer"
+msgid "Mechs - Volumizer"
 msgstr ""
 
 #: how_to_play | https://hsreplay.net/battlegrounds/comps/102/
