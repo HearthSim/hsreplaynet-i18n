@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-12 09:49+0000\n"
-"PO-Revision-Date: 2026-10-12 12:40\n"
+"PO-Revision-Date: 2026-10-13 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -455,7 +455,7 @@ msgstr "我们已经给您发了一封验证电子邮件。按照其中的链接
 
 #: templates/base.html:38
 msgid "Skip to Main Content"
-msgstr ""
+msgstr "跳到主要内容"
 
 #: templates/base.html:87
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
@@ -1208,7 +1208,7 @@ msgstr "探索我们的战棋流派梯队表并学习哪个流派是最好的 - 
 #: web/views/battlegrounds.py:465
 #, python-brace-format
 msgid "Battlegrounds Comps in Season {season}"
-msgstr ""
+msgstr "第{season}赛季的酒馆战棋流派"
 
 #: web/views/battlegrounds.py:540
 msgid "Explore our Battlegrounds Trinkets Tier List and learn which trinket is the best - powered by data from millions of games."
@@ -1388,7 +1388,7 @@ msgstr "{tribe_name} - {obj.name}"
 #: web/views/battlegrounds.py:1774
 #, python-brace-format
 msgid "Season {season} Battlegrounds Comp"
-msgstr ""
+msgstr "第{season}赛季的酒馆战棋流派"
 
 #: web/views/battlegrounds.py:1867
 msgid "My Battlegrounds Stats"
