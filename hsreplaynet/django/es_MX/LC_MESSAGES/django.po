@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-12 09:49+0000\n"
-"PO-Revision-Date: 2026-10-12 12:40\n"
+"POT-Creation-Date: 2026-10-13 17:58+0000\n"
+"PO-Revision-Date: 2026-10-14 00:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -598,8 +598,8 @@ msgstr "Cambiar el modo de navegación"
 #: web/views/battlegrounds.py:723 web/views/battlegrounds.py:733
 #: web/views/battlegrounds.py:749 web/views/battlegrounds.py:823
 #: web/views/battlegrounds.py:981 web/views/battlegrounds.py:1023
-#: web/views/battlegrounds.py:1075 web/views/battlegrounds.py:1267
-#: web/views/battlegrounds.py:1790
+#: web/views/battlegrounds.py:1075 web/views/battlegrounds.py:1263
+#: web/views/battlegrounds.py:1786
 msgid "Battlegrounds"
 msgstr "Campos de Batalla"
 
@@ -638,7 +638,7 @@ msgid "SALE!"
 msgstr "¡OFERTA!"
 
 #: templates/navigation.html:132 web/views/battlegrounds.py:457
-#: web/views/battlegrounds.py:1799
+#: web/views/battlegrounds.py:1795
 msgid "Comps"
 msgstr "Compas"
 
@@ -646,7 +646,7 @@ msgstr "Compas"
 msgid "Trinkets"
 msgstr ""
 
-#: templates/navigation.html:157 web/views/battlegrounds.py:1268
+#: templates/navigation.html:157 web/views/battlegrounds.py:1264
 msgid "Timewarp"
 msgstr ""
 
@@ -1348,49 +1348,49 @@ msgstr "Esbirros de Campos de Batalla"
 msgid "No matching minion found."
 msgstr "No se encontraron esbirros que coincidan."
 
-#: web/views/battlegrounds.py:1259
+#: web/views/battlegrounds.py:1255
 msgid "Battlegrounds Timewarped Cards"
 msgstr ""
 
-#: web/views/battlegrounds.py:1261
+#: web/views/battlegrounds.py:1257
 msgid "Explore the Minions, Spells & Hero Powers available in each of the Timewarped Tavern shops"
 msgstr ""
 
-#: web/views/battlegrounds.py:1605
+#: web/views/battlegrounds.py:1601
 msgid "Battlegrounds Compositions"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:1611 web/views/battlegrounds.py:1641
+#: web/views/battlegrounds.py:1607 web/views/battlegrounds.py:1637
 msgid "Battlegrounds Composition"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:1634
+#: web/views/battlegrounds.py:1630
 msgid "No matching live or lingering composition found."
 msgstr "Ninguna composición en vivo se encontró."
 
-#: web/views/battlegrounds.py:1636
+#: web/views/battlegrounds.py:1632
 msgid "No matching composition found."
 msgstr "No se encontraron coincidencias."
 
-#: web/views/battlegrounds.py:1734
+#: web/views/battlegrounds.py:1730
 msgid "Battlegrounds Comp"
 msgstr "Compas de Campos de Batalla"
 
-#: web/views/battlegrounds.py:1754
+#: web/views/battlegrounds.py:1750
 msgid "No matching comp found."
 msgstr "No se encontró ningún compa coincidente."
 
-#: web/views/battlegrounds.py:1767
+#: web/views/battlegrounds.py:1763
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr ""
 
-#: web/views/battlegrounds.py:1774
+#: web/views/battlegrounds.py:1770
 #, python-brace-format
 msgid "Season {season} Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:1867
+#: web/views/battlegrounds.py:1863
 msgid "My Battlegrounds Stats"
 msgstr "Estadísticas de Mis Campos de Batalla"
 
