@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-28T01:40:25.917071\n"
+"POT-Creation-Date: 2026-10-16T01:40:27.681473\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,22 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-10-15 12:40\n"
+"PO-Revision-Date: 2026-10-16 12:40\n"
+
+#: https://hsreplay.net/battlegrounds/heroes/126537/ Hero id 126537 | Guide id
+#: 704
+msgid "Hero power turn 1. Fill out your board in the early game using 2 cost spells, and buy Strike Oils too. Starting tavern 3, play normally."
+msgstr "第1回合使用英雄技能。在前期用2费法术填满你的棋盘，同时购买钻探原油。从3级酒馆开始，正常进行游戏。"
+
+#: https://hsreplay.net/battlegrounds/heroes/134502/ Hero id 134502 | Guide id
+#: 710
+msgid "With Quilboars, add blood gems to hand so you can discard them with your hero power every turn."
+msgstr "玩野猪人时，把鲜血宝石加入手牌，这样每回合都能用英雄技能将它们弃掉。"
+
+#: https://hsreplay.net/battlegrounds/heroes/134504/ Hero id 134504 | Guide id
+#: 711
+msgid "There's a strategy where you stay on 1 for 3 turns and hold hero powered minions. Then, when you triple a card, both the hero powered minions can be played."
+msgstr "有一种玩法是前3回合都停留在1级酒馆，并把英雄被动技能给的随从留在手上。三连后，就能同时打出两个英雄被动技能给的随从了。"
 
 #: https://hsreplay.net/battlegrounds/heroes/117409/ Hero id 117409 | Guide id
 #: 695
@@ -36,11 +51,6 @@ msgstr "你要反复复制强力的法术。前期有[[钻探原油||104029]]或
 #: 699
 msgid "The Zerg gives you tempo so you can level fast while saving HP. I don't recommend playing into it and sell it at some point."
 msgstr "异虫能提供节奏，让你快速升级同时节省生命值。我不建议玩它，应该在某个时机将其卖出。"
-
-#: https://hsreplay.net/battlegrounds/heroes/126537/ Hero id 126537 | Guide id
-#: 704
-msgid "Hero power turn 1. Fill out your board in the early game using 2 cost spells, and buy Strike Oils too. Starting tavern 3, play normally."
-msgstr "第1回合使用英雄技能。在前期用2费法术填满你的棋盘，同时购买钻探原油。从3级酒馆开始，正常进行游戏。"
 
 #: https://hsreplay.net/battlegrounds/heroes/132608/ Hero id 132608 | Guide id
 #: 709
@@ -379,11 +389,6 @@ msgstr "在第6回合前都使用英雄技能（第2回合升级时除外），�
 msgid "Buy every single cheap card that costs 1 ([[Fortify||103791]], [[Patient Scout||97604]]) the first 6 turns. Stay on tavern 2 on turn 5 to finish the hero power."
 msgstr "前 6 回合，所有只需 1 枚铸币的低费牌都买下，(包括[[强固||103791]]和[[耐心的侦查员||97604]])。第 5 回合留在 2 级酒馆，完成英雄技能。"
 
-#: https://hsreplay.net/battlegrounds/heroes/57893/ Hero id 57893 | Guide id
-#: 111
-msgid "Hero power the first 6 turns (except turn 2), and be tavern 4 by turn 6. Then, you don't have to hero power every turn, only when the tribe is useful to you."
-msgstr "前6个回合（除了第2回合）都使用英雄技能，到第6回合升到4级酒馆。之后你就不必每回合都使用英雄技能了，只有当种族类型对你有用时才使用。"
-
 #: https://hsreplay.net/battlegrounds/heroes/64475/ Hero id 64475 | Guide id 6
 msgid "Try not to spend a lot of money leveling on this hero. You can buy elementals, and then level to taverns 5 or 6 when it's 3 or less gold."
 msgstr "尽量不要在这个英雄身上花很多钱升级。你可以一直购买元素，然后在升级只要3铸币以下时升到5或6级酒馆。"
@@ -403,10 +408,20 @@ msgstr "这个英雄技能强度不足以主动使用，所以正常游玩即可
 msgid "You MUST play a cycle comp on this hero such as APM Pirates or Elementals - NOT Undeads, Beast, or Mechs!"
 msgstr "这个英雄一定要玩循环流派！比如手速倒转海盗或元素。- 不要玩亡灵、野兽或机械！"
 
+#: https://hsreplay.net/battlegrounds/heroes/57893/ Hero id 57893 | Guide id
+#: 111
+msgid "Hero power the first 6 turns (except turn 2), and be tavern 4 by turn 6. Then, you don't have to hero power every turn, only when the tribe is useful to you."
+msgstr "前6个回合（除了第2回合）都使用英雄技能，到第6回合升到4级酒馆。之后你就不必每回合都使用英雄技能了，只有当种族类型对你有用时才使用。"
+
 #: https://hsreplay.net/battlegrounds/heroes/58435/ Hero id 58435 | Guide id
 #: 29
 msgid "This hero benefits from cycle tribes being in, which are Elementals Murlocs and Pirates. Then, cycle every free card ([[Sellemental||64038]], [[Patient Scout||97604]], [[Tavern Tempest||64077]]) and find an APM direction to start scaling."
 msgstr "这个英雄得益于元素、鱼人和海盗这些循环流种族。循环使用每张免费牌（[[商贩元素||64038]]、[[耐心的侦查员||97604]]、[[酒馆旋风||64077]]），找一个手速倒转流派开始成长。"
+
+#: https://hsreplay.net/battlegrounds/heroes/59805/ Hero id 59805 | Guide id
+#: 117
+msgid "Generically powerful hero!"
+msgstr "强大的英雄！"
 
 #: https://hsreplay.net/battlegrounds/heroes/64400/ Hero id 64400 | Guide id 4
 msgid "Stabilize with cards that benefit from spell power such as [[Runic Arcanist||132985]] or [[Gormling Gourmet||120689]]"
@@ -416,11 +431,6 @@ msgstr "使用[[符文奥术师||132985]]或[[戈姆蛴食客||120689]]等能从
 #: 17
 msgid "The best tier 1 spells are discover tier 1 or rockin' and rollin'. The best tier 2 spell is On the House. The best tier 3 spells are Top Shelf and Midflayer Goggles."
 msgstr "最好的1级法术是发现1级随从或者摇起来吧。最好的2级法术是免费酬宾。最好的3级法术是夺心护目镜和夺心护目镜。"
-
-#: https://hsreplay.net/battlegrounds/heroes/59805/ Hero id 59805 | Guide id
-#: 117
-msgid "Generically powerful hero!"
-msgstr "强大的英雄！"
 
 #: https://hsreplay.net/battlegrounds/heroes/58021/ Hero id 58021 | Guide id
 #: 112
