@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-16 01:40+0000\n"
+"POT-Creation-Date: 2026-10-17 01:40+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1666,65 +1666,65 @@ msgstr ""
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr ""
 
-#: web/views/decks.py:50
+#: web/views/decks.py:48
 #, python-brace-format
 msgid "Best Hearthstone Decks - {month} {year}"
 msgstr ""
 
-#: web/views/decks.py:56
+#: web/views/decks.py:54
 msgid ""
 "Find popular Hearthstone decks for every class, card and game mode. Compare "
 "winrates and find the deck for you!"
 msgstr ""
 
-#: web/views/decks.py:64 web/views/decks.py:108
+#: web/views/decks.py:62 web/views/decks.py:106
 msgid "Hearthstone Decks"
 msgstr ""
 
-#: web/views/decks.py:88
+#: web/views/decks.py:86
 #, python-brace-format
 msgid "Best {class} Decks - {month} {year} - Hearthstone"
 msgstr ""
 
-#: web/views/decks.py:97
+#: web/views/decks.py:95
 #, python-format
 msgid ""
 "Find popular %s decks for every card and Hearthstone game mode. Compare "
 "winrates and find the deck for you!"
 msgstr ""
 
-#: web/views/decks.py:129
+#: web/views/decks.py:127
 msgid "My Decks"
 msgstr ""
 
-#: web/views/decks.py:176
+#: web/views/decks.py:174
 msgid "Deck does not exist."
 msgstr ""
 
-#: web/views/decks.py:187
+#: web/views/decks.py:206
 msgid "Deck list is too small."
 msgstr ""
 
-#: web/views/decks.py:190
+#: web/views/decks.py:209
 msgid "Deck list contains uncollectible cards."
 msgstr ""
 
-#: web/views/decks.py:213
+#: web/views/decks.py:230
 #, python-brace-format
 msgid "{name} stats and decklist. Import it: {deckstring}"
 msgstr ""
 
-#: web/views/decks.py:257
+#: web/views/decks.py:261
 msgid "Trending Hearthstone Decks"
 msgstr ""
 
-#: web/views/decks.py:259
+#: web/views/decks.py:263
 msgid ""
 "Find the up-and-coming decks with rising popularity in Hearthstone for each "
 "class updated every single day."
 msgstr ""
 
-#: web/views/decks.py:265
+#: web/views/decks.py:269
 msgid "Trending Decks"
 msgstr ""
 
