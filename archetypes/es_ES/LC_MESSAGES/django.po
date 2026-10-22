@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-29T01:40:26.653994\n"
+"POT-Creation-Date: 2026-10-22T01:40:27.767117\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Spanish\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2026-09-30 11:16\n"
+"PO-Revision-Date: 2026-10-22 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -32,10 +32,6 @@ msgstr "Guerrero Parroquiano"
 #: https://hsreplay.net/archetypes/35/nzoth-priest
 msgid "N'Zoth Priest"
 msgstr "Sacerdote N'Zoth"
-
-#: https://hsreplay.net/archetypes/29/nzoth-rogue
-msgid "N'Zoth Rogue"
-msgstr "Pícaro N'Zoth"
 
 #: https://hsreplay.net/archetypes/257/odd-mech-paladin
 msgid "Odd Mech Paladin"
@@ -88,10 +84,6 @@ msgstr "Paladin Elementales"
 #: https://hsreplay.net/archetypes/71/elemental-warrior
 msgid "Elemental Warrior"
 msgstr "Guerrero Elementales"
-
-#: https://hsreplay.net/archetypes/528/holy-paladin
-msgid "Holy Paladin"
-msgstr ""
 
 #: https://hsreplay.net/archetypes/60/jade-shaman
 msgid "Jade Shaman"
@@ -176,6 +168,14 @@ msgstr "Guerrero Piratas"
 #: https://hsreplay.net/archetypes/356/beast-rush-hunter
 msgid "Beast Rush Hunter"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/528/holy-paladin
+msgid "Holy Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/29/nzoth-rogue
+msgid "N'Zoth Rogue"
+msgstr "Pícaro N'Zoth"
 
 #: https://hsreplay.net/archetypes/27/aggro-shaman
 msgid "Aggro Shaman"
@@ -569,10 +569,6 @@ msgstr "Cazador Cubo"
 msgid "Emeriss Hunter"
 msgstr "Cazador Emeriss"
 
-#: https://hsreplay.net/archetypes/248/mech-hunter
-msgid "Mech Hunter"
-msgstr "Cazador Robots"
-
 #: https://hsreplay.net/archetypes/221/shudderwock-shaman
 msgid "Shudderwock Shaman"
 msgstr "Chaman Espantagon"
@@ -688,6 +684,10 @@ msgstr "Guerrero Impar"
 #: https://hsreplay.net/archetypes/460/secret-libram-paladin
 msgid "Secret Libram Paladin"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/248/mech-hunter
+msgid "Mech Hunter"
+msgstr "Cazador Robots"
 
 #: https://hsreplay.net/archetypes/161/enrage-warrior
 msgid "Enrage Warrior"
@@ -1229,12 +1229,12 @@ msgstr ""
 msgid "Showdown Paladin"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/426/whirlkick-rogue
-msgid "Whirlkick Rogue"
+#: https://hsreplay.net/archetypes/557/frost-death-knight
+msgid "Frost Death Knight"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/449/nature-shaman
-msgid "Nature Shaman"
+#: https://hsreplay.net/archetypes/426/whirlkick-rogue
+msgid "Whirlkick Rogue"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/673/odd-demon-hunter
@@ -1351,10 +1351,6 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/464/primordial-priest
 msgid "Primordial Priest"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/557/frost-death-knight
-msgid "Frost Death Knight"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/466/chaos-warlock
@@ -1559,6 +1555,10 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/314/highlander-quest-priest
 msgid "Highlander Quest Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/449/nature-shaman
+msgid "Nature Shaman"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/520/pirahna-shaman
@@ -1897,10 +1897,6 @@ msgstr ""
 msgid "Hybrid Hunter"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/544/deathrattle-druid
-msgid "Deathrattle Druid"
-msgstr ""
-
 #: https://hsreplay.net/archetypes/602/dagger-rogue
 msgid "Dagger Rogue"
 msgstr ""
@@ -1933,9 +1929,13 @@ msgstr "Paladin Dragones"
 msgid "OTK Cage Head Death Knight"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/139/deathrattle-hunter
-msgid "Deathrattle Hunter"
-msgstr "Cazador Ultimos Alientos"
+#: https://hsreplay.net/archetypes/285/spell-mage
+msgid "Spell Mage"
+msgstr "Mago Hechizos"
+
+#: https://hsreplay.net/archetypes/544/deathrattle-druid
+msgid "Deathrattle Druid"
+msgstr ""
 
 #: https://hsreplay.net/archetypes/805/niri-hunter
 msgid "Niri Hunter"
@@ -2089,10 +2089,6 @@ msgstr ""
 msgid "Spell Token Hunter"
 msgstr ""
 
-#: https://hsreplay.net/archetypes/285/spell-mage
-msgid "Spell Mage"
-msgstr "Mago Hechizos"
-
 #: https://hsreplay.net/archetypes/56/quest-priest
 msgid "Quest Priest"
 msgstr "Sacerdote Misión"
@@ -2131,10 +2127,6 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/659/tendril-rogue
 msgid "Tendril Rogue"
-msgstr ""
-
-#: https://hsreplay.net/archetypes/663/handbuff-death-knight
-msgid "Handbuff Death Knight"
 msgstr ""
 
 #: https://hsreplay.net/archetypes/664/hybrid-druid
@@ -2240,6 +2232,10 @@ msgstr ""
 #: https://hsreplay.net/archetypes/512/ramp-druid
 msgid "Ramp Druid"
 msgstr ""
+
+#: https://hsreplay.net/archetypes/139/deathrattle-hunter
+msgid "Deathrattle Hunter"
+msgstr "Cazador Ultimos Alientos"
 
 #: https://hsreplay.net/archetypes/684/sandwich-hunter
 msgid "Sandwich Hunter"
@@ -3031,5 +3027,49 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/885/cannon-warrior
 msgid "Cannon Warrior"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/886/bbb-herald-death-knight
+msgid "BBB Herald Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/887/bbb-control-death-knight
+msgid "BBB Control Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/663/handbuff-death-knight
+msgid "Handbuff Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/888/cthun-death-knight
+msgid "C'Thun Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/889/cthun-demon-hunter
+msgid "C'Thun Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/890/shakar-demon-hunter
+msgid "Sha'kar Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/891/cthun-mage
+msgid "C'Thun Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/892/cthun-paladin
+msgid "C'Thun Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/893/cthun-priest
+msgid "C'Thun Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/894/cthun-shaman
+msgid "C'Thun Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/895/cthun-warlock
+msgid "C'Thun Warlock"
 msgstr ""
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-29T01:40:26.653994\n"
+"POT-Creation-Date: 2026-10-22T01:40:27.767117\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Traditional\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /archetypes/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 106\n"
 "Language: zh_TW\n"
-"PO-Revision-Date: 2026-09-30 11:16\n"
+"PO-Revision-Date: 2026-10-22 12:40\n"
 
 #: https://hsreplay.net/archetypes/7/token-druid
 msgid "Token Druid"
@@ -32,10 +32,6 @@ msgstr "奴隸戰"
 #: https://hsreplay.net/archetypes/35/nzoth-priest
 msgid "N'Zoth Priest"
 msgstr "恩若斯牧"
-
-#: https://hsreplay.net/archetypes/29/nzoth-rogue
-msgid "N'Zoth Rogue"
-msgstr "恩若斯賊"
 
 #: https://hsreplay.net/archetypes/257/odd-mech-paladin
 msgid "Odd Mech Paladin"
@@ -88,10 +84,6 @@ msgstr "元素聖"
 #: https://hsreplay.net/archetypes/71/elemental-warrior
 msgid "Elemental Warrior"
 msgstr "元素戰"
-
-#: https://hsreplay.net/archetypes/528/holy-paladin
-msgid "Holy Paladin"
-msgstr "神聖聖"
 
 #: https://hsreplay.net/archetypes/60/jade-shaman
 msgid "Jade Shaman"
@@ -176,6 +168,14 @@ msgstr "海盜戰"
 #: https://hsreplay.net/archetypes/356/beast-rush-hunter
 msgid "Beast Rush Hunter"
 msgstr "野獸衝刺獵"
+
+#: https://hsreplay.net/archetypes/528/holy-paladin
+msgid "Holy Paladin"
+msgstr "神聖聖"
+
+#: https://hsreplay.net/archetypes/29/nzoth-rogue
+msgid "N'Zoth Rogue"
+msgstr "恩若斯賊"
 
 #: https://hsreplay.net/archetypes/27/aggro-shaman
 msgid "Aggro Shaman"
@@ -569,10 +569,6 @@ msgstr "西瓜獵"
 msgid "Emeriss Hunter"
 msgstr "1088獵"
 
-#: https://hsreplay.net/archetypes/248/mech-hunter
-msgid "Mech Hunter"
-msgstr "機械獵"
-
 #: https://hsreplay.net/archetypes/221/shudderwock-shaman
 msgid "Shudderwock Shaman"
 msgstr "哮斗薩"
@@ -688,6 +684,10 @@ msgstr "奇數戰"
 #: https://hsreplay.net/archetypes/460/secret-libram-paladin
 msgid "Secret Libram Paladin"
 msgstr "祕密聖契聖"
+
+#: https://hsreplay.net/archetypes/248/mech-hunter
+msgid "Mech Hunter"
+msgstr "機械獵"
 
 #: https://hsreplay.net/archetypes/161/enrage-warrior
 msgid "Enrage Warrior"
@@ -1229,13 +1229,13 @@ msgstr "克蘇恩法"
 msgid "Showdown Paladin"
 msgstr ""
 
+#: https://hsreplay.net/archetypes/557/frost-death-knight
+msgid "Frost Death Knight"
+msgstr "冰霜DK"
+
 #: https://hsreplay.net/archetypes/426/whirlkick-rogue
 msgid "Whirlkick Rogue"
 msgstr "連擊賊"
-
-#: https://hsreplay.net/archetypes/449/nature-shaman
-msgid "Nature Shaman"
-msgstr "自然薩"
 
 #: https://hsreplay.net/archetypes/673/odd-demon-hunter
 msgid "Odd Demon Hunter"
@@ -1352,10 +1352,6 @@ msgstr "原始德"
 #: https://hsreplay.net/archetypes/464/primordial-priest
 msgid "Primordial Priest"
 msgstr "原始牧"
-
-#: https://hsreplay.net/archetypes/557/frost-death-knight
-msgid "Frost Death Knight"
-msgstr "冰霜DK"
 
 #: https://hsreplay.net/archetypes/466/chaos-warlock
 msgid "Chaos Warlock"
@@ -1560,6 +1556,10 @@ msgstr ""
 #: https://hsreplay.net/archetypes/314/highlander-quest-priest
 msgid "Highlander Quest Priest"
 msgstr "無雙任務牧"
+
+#: https://hsreplay.net/archetypes/449/nature-shaman
+msgid "Nature Shaman"
+msgstr "自然薩"
 
 #: https://hsreplay.net/archetypes/520/pirahna-shaman
 msgid "Pirahna Shaman"
@@ -1897,10 +1897,6 @@ msgstr "東尼戰"
 msgid "Hybrid Hunter"
 msgstr "混合獵"
 
-#: https://hsreplay.net/archetypes/544/deathrattle-druid
-msgid "Deathrattle Druid"
-msgstr "死聲德"
-
 #: https://hsreplay.net/archetypes/602/dagger-rogue
 msgid "Dagger Rogue"
 msgstr "大刀賊"
@@ -1933,9 +1929,13 @@ msgstr "龍聖"
 msgid "OTK Cage Head Death Knight"
 msgstr "籠頭OTK DK"
 
-#: https://hsreplay.net/archetypes/139/deathrattle-hunter
-msgid "Deathrattle Hunter"
-msgstr "死聲獵"
+#: https://hsreplay.net/archetypes/285/spell-mage
+msgid "Spell Mage"
+msgstr "法術法"
+
+#: https://hsreplay.net/archetypes/544/deathrattle-druid
+msgid "Deathrattle Druid"
+msgstr "死聲德"
 
 #: https://hsreplay.net/archetypes/805/niri-hunter
 msgid "Niri Hunter"
@@ -2089,10 +2089,6 @@ msgstr "神射手DH"
 msgid "Spell Token Hunter"
 msgstr "Token獵"
 
-#: https://hsreplay.net/archetypes/285/spell-mage
-msgid "Spell Mage"
-msgstr "法術法"
-
 #: https://hsreplay.net/archetypes/56/quest-priest
 msgid "Quest Priest"
 msgstr "任務牧"
@@ -2132,10 +2128,6 @@ msgstr "札瑞米牧"
 #: https://hsreplay.net/archetypes/659/tendril-rogue
 msgid "Tendril Rogue"
 msgstr "觸鬚賊"
-
-#: https://hsreplay.net/archetypes/663/handbuff-death-knight
-msgid "Handbuff Death Knight"
-msgstr "加加DK"
 
 #: https://hsreplay.net/archetypes/664/hybrid-druid
 msgid "Hybrid Druid"
@@ -2240,6 +2232,10 @@ msgstr ""
 #: https://hsreplay.net/archetypes/512/ramp-druid
 msgid "Ramp Druid"
 msgstr "跳費德"
+
+#: https://hsreplay.net/archetypes/139/deathrattle-hunter
+msgid "Deathrattle Hunter"
+msgstr "死聲獵"
 
 #: https://hsreplay.net/archetypes/684/sandwich-hunter
 msgid "Sandwich Hunter"
@@ -3031,5 +3027,49 @@ msgstr ""
 
 #: https://hsreplay.net/archetypes/885/cannon-warrior
 msgid "Cannon Warrior"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/886/bbb-herald-death-knight
+msgid "BBB Herald Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/887/bbb-control-death-knight
+msgid "BBB Control Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/663/handbuff-death-knight
+msgid "Handbuff Death Knight"
+msgstr "加加DK"
+
+#: https://hsreplay.net/archetypes/888/cthun-death-knight
+msgid "C'Thun Death Knight"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/889/cthun-demon-hunter
+msgid "C'Thun Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/890/shakar-demon-hunter
+msgid "Sha'kar Demon Hunter"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/891/cthun-mage
+msgid "C'Thun Mage"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/892/cthun-paladin
+msgid "C'Thun Paladin"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/893/cthun-priest
+msgid "C'Thun Priest"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/894/cthun-shaman
+msgid "C'Thun Shaman"
+msgstr ""
+
+#: https://hsreplay.net/archetypes/895/cthun-warlock
+msgid "C'Thun Warlock"
 msgstr ""
 
