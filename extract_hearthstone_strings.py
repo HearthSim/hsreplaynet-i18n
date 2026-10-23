@@ -7,11 +7,11 @@ from hearthstone.enums import Locale
 from hearthstone.stringsfile import load_txt
 from hearthstone_data import get_strings_file
 
+from utils import is_relevant_hearthstone_string
+
 
 FILENAMES = [
-	"GAMEPLAY.txt",
 	"GLOBAL.txt",
-	"PRESENCE.txt",
 ]
 
 LOCALE_MAP = {
@@ -34,12 +34,23 @@ LOCALE_MAP = {
 }
 
 
-def convert_strings_data(data):
-	return {k: v.get("TEXT", "") for k, v in data.items()}
+def load_strings(locale, filename):
+	strings_path = get_strings_file(locale, filename=filename)
+	with open(strings_path, "r", encoding="utf-8-sig") as f:
+		return {k: v.get("TEXT", "") for k, v in load_txt(f).items()}
 
 
 def main():
 	output_dir = os.path.join(os.path.dirname(__file__))
+
+	# decide relevance on the source strings so every locale keeps the same keys
+	relevant_keys = {
+		filename: {
+			k for k, v in load_strings("enUS", filename).items()
+			if is_relevant_hearthstone_string(k, v)
+		}
+		for filename in FILENAMES
+	}
 
 	for locale in Locale:
 		if locale.unused:
@@ -51,9 +62,10 @@ def main():
 			os.makedirs(locale_dir)
 
 		for filename in FILENAMES:
-			strings_path = get_strings_file(locale.name, filename=filename)
-			with open(strings_path, "r", encoding="utf-8-sig") as f:
-				strings_data = convert_strings_data(load_txt(f))
+			strings_data = {
+				k: v for k, v in load_strings(locale.name, filename).items()
+				if k in relevant_keys[filename]
+			}
 
 			output_filename = filename.lower().replace(".txt", ".json")
 			output_path = os.path.join(locale_dir, output_filename)
