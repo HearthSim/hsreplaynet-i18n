@@ -48,9 +48,47 @@ GLOSSARY_KEYS = {
 	"GLOBAL_WILD",
 }
 
+# generic words and internal names that would match unrelated strings
+GLOSSARY_EXCLUDED_TERMS = {
+	"All",
+	"Attack",
+	"Basic",
+	"Bench",
+	"Boss",
+	"Common",
+	"Core",
+	"Counter",
+	"Event",
+	"Free",
+	"Greater",
+	"HeroPower",
+	"Item",
+	"Lesser",
+	"Lettuce",
+	"Lock",
+	"Locked",
+	"MadnessCard",
+	"Pass",
+	"Pet",
+	"Prepare",
+	"Prepared",
+	"Preparing",
+	"Promo",
+	"Reward",
+	"Root",
+	"Slush",
+	"Temporary",
+	"Token",
+	"Tool",
+	"Tutorial",
+	"Upgrade",
+}
+
 
 def is_glossary_term(key, text):
 	if not key.startswith(GLOSSARY_PREFIXES) and key not in GLOSSARY_KEYS:
+		return False
+	if text in GLOSSARY_EXCLUDED_TERMS:
 		return False
 	if "WIP" in text:
 		return False
