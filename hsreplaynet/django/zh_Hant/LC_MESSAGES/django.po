@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-23 13:58+0000\n"
-"PO-Revision-Date: 2026-10-23 16:36\n"
+"PO-Revision-Date: 2026-10-23 17:09\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -519,16 +519,16 @@ msgstr ""
 
 #: templates/footer.html:81 web/views/battlegrounds.py:477
 msgid "Battlegrounds Heroes"
-msgstr ""
+msgstr "英雄戰場英雄"
 
 #: templates/footer.html:82 web/views/battlegrounds.py:492
 msgid "Battlegrounds Comps"
-msgstr ""
+msgstr "英雄戰場陣容"
 
 #: templates/footer.html:83 web/views/battlegrounds.py:1043
 #: web/views/battlegrounds.py:1102
 msgid "Battlegrounds Minions"
-msgstr ""
+msgstr "英雄戰場手下"
 
 #: templates/footer.html:84 web/views/battlegrounds.py:674
 msgid "Battlegrounds Anomalies"
@@ -536,15 +536,15 @@ msgstr ""
 
 #: templates/footer.html:85 web/views/battlegrounds.py:730
 msgid "Battlegrounds Quests"
-msgstr ""
+msgstr "英雄戰場任務"
 
 #: templates/footer.html:86 web/views/battlegrounds.py:605
 msgid "Battlegrounds Trinkets"
-msgstr ""
+msgstr "英雄戰場飾品"
 
 #: templates/footer.html:87 web/views/battlegrounds.py:782
 msgid "Battlegrounds Dark Gifts"
-msgstr ""
+msgstr "英雄戰場黑暗贈禮"
 
 #: templates/footer.html:88
 msgid "Battlegrounds Timewarp"
@@ -625,7 +625,7 @@ msgstr "下載"
 
 #: templates/navigation.html:102 web/views/battlegrounds.py:168
 msgid "Overlay"
-msgstr ""
+msgstr "Overlay"
 
 #: templates/navigation.html:116 templates/navigation.html:120
 #: templates/navigation.html:299 templates/navigation.html:302
@@ -635,11 +635,11 @@ msgstr "大特賣!"
 #: templates/navigation.html:132 web/views/battlegrounds.py:501
 #: web/views/battlegrounds.py:1859
 msgid "Comps"
-msgstr ""
+msgstr "陣容"
 
 #: templates/navigation.html:144 web/views/battlegrounds.py:613
 msgid "Trinkets"
-msgstr ""
+msgstr "飾品"
 
 #: templates/navigation.html:157 web/views/battlegrounds.py:1329
 msgid "Timewarp"
@@ -651,7 +651,7 @@ msgstr "暗月獎品"
 
 #: templates/navigation.html:183 web/views/battlegrounds.py:738
 msgid "Quests"
-msgstr ""
+msgstr "任務"
 
 #: templates/navigation.html:186 templates/navigation.html:279
 msgid "NEW"
@@ -659,7 +659,7 @@ msgstr ""
 
 #: templates/navigation.html:200 web/views/battlegrounds.py:791
 msgid "Dark Gifts"
-msgstr ""
+msgstr "黑暗贈禮"
 
 #: templates/navigation.html:213 web/views/battlegrounds.py:682
 msgid "Anomalies"

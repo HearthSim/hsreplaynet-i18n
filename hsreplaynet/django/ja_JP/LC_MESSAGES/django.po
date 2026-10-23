@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-23 13:58+0000\n"
-"PO-Revision-Date: 2026-10-23 16:36\n"
+"PO-Revision-Date: 2026-10-23 17:09\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -520,7 +520,7 @@ msgstr "バトルグラウンド ヒーロー"
 
 #: templates/footer.html:82 web/views/battlegrounds.py:492
 msgid "Battlegrounds Comps"
-msgstr ""
+msgstr "バトルグラウンド 構成"
 
 #: templates/footer.html:83 web/views/battlegrounds.py:1043
 #: web/views/battlegrounds.py:1102
@@ -533,15 +533,15 @@ msgstr ""
 
 #: templates/footer.html:85 web/views/battlegrounds.py:730
 msgid "Battlegrounds Quests"
-msgstr ""
+msgstr "バトルグラウンド クエスト"
 
 #: templates/footer.html:86 web/views/battlegrounds.py:605
 msgid "Battlegrounds Trinkets"
-msgstr ""
+msgstr "バトルグラウンド 装飾品"
 
 #: templates/footer.html:87 web/views/battlegrounds.py:782
 msgid "Battlegrounds Dark Gifts"
-msgstr ""
+msgstr "バトルグラウンド 悪夢の恵み"
 
 #: templates/footer.html:88
 msgid "Battlegrounds Timewarp"
@@ -622,7 +622,7 @@ msgstr "ダウンロード"
 
 #: templates/navigation.html:102 web/views/battlegrounds.py:168
 msgid "Overlay"
-msgstr ""
+msgstr "オーバーレイ"
 
 #: templates/navigation.html:116 templates/navigation.html:120
 #: templates/navigation.html:299 templates/navigation.html:302
@@ -632,11 +632,11 @@ msgstr "セール！"
 #: templates/navigation.html:132 web/views/battlegrounds.py:501
 #: web/views/battlegrounds.py:1859
 msgid "Comps"
-msgstr ""
+msgstr "構成"
 
 #: templates/navigation.html:144 web/views/battlegrounds.py:613
 msgid "Trinkets"
-msgstr ""
+msgstr "装飾品"
 
 #: templates/navigation.html:157 web/views/battlegrounds.py:1329
 msgid "Timewarp"
@@ -648,7 +648,7 @@ msgstr ""
 
 #: templates/navigation.html:183 web/views/battlegrounds.py:738
 msgid "Quests"
-msgstr ""
+msgstr "クエスト"
 
 #: templates/navigation.html:186 templates/navigation.html:279
 msgid "NEW"
@@ -656,7 +656,7 @@ msgstr ""
 
 #: templates/navigation.html:200 web/views/battlegrounds.py:791
 msgid "Dark Gifts"
-msgstr ""
+msgstr "悪夢の恵み"
 
 #: templates/navigation.html:213 web/views/battlegrounds.py:682
 msgid "Anomalies"

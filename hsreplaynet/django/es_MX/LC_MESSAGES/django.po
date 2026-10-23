@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-23 13:58+0000\n"
-"PO-Revision-Date: 2026-10-23 16:36\n"
+"PO-Revision-Date: 2026-10-23 17:09\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -549,11 +549,11 @@ msgstr "Misiones de Campos de batalla"
 
 #: templates/footer.html:86 web/views/battlegrounds.py:605
 msgid "Battlegrounds Trinkets"
-msgstr ""
+msgstr "Abalorios de Campos de batalla"
 
 #: templates/footer.html:87 web/views/battlegrounds.py:782
 msgid "Battlegrounds Dark Gifts"
-msgstr ""
+msgstr "Regalos oscuros de Campos de batalla"
 
 #: templates/footer.html:88
 msgid "Battlegrounds Timewarp"
@@ -634,7 +634,7 @@ msgstr "Descargas"
 
 #: templates/navigation.html:102 web/views/battlegrounds.py:168
 msgid "Overlay"
-msgstr ""
+msgstr "Overlay"
 
 #: templates/navigation.html:116 templates/navigation.html:120
 #: templates/navigation.html:299 templates/navigation.html:302
@@ -648,7 +648,7 @@ msgstr "Compas"
 
 #: templates/navigation.html:144 web/views/battlegrounds.py:613
 msgid "Trinkets"
-msgstr ""
+msgstr "Abalorios"
 
 #: templates/navigation.html:157 web/views/battlegrounds.py:1329
 msgid "Timewarp"
@@ -668,7 +668,7 @@ msgstr "NUEVO"
 
 #: templates/navigation.html:200 web/views/battlegrounds.py:791
 msgid "Dark Gifts"
-msgstr ""
+msgstr "Regalos oscuros"
 
 #: templates/navigation.html:213 web/views/battlegrounds.py:682
 msgid "Anomalies"
