@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-22 01:40+0000\n"
-"PO-Revision-Date: 2026-10-22 12:40\n"
+"POT-Creation-Date: 2026-10-23 01:40+0000\n"
+"PO-Revision-Date: 2026-10-23 12:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -587,7 +587,7 @@ msgstr "Вкл/выкл навигацию"
 #: web/views/battlegrounds.py:772 web/views/battlegrounds.py:845
 #: web/views/battlegrounds.py:1003 web/views/battlegrounds.py:1045
 #: web/views/battlegrounds.py:1097 web/views/battlegrounds.py:1284
-#: web/views/battlegrounds.py:1806
+#: web/views/battlegrounds.py:1845
 msgid "Battlegrounds"
 msgstr "Поля сражений"
 
@@ -626,7 +626,7 @@ msgid "SALE!"
 msgstr "Распродажа!"
 
 #: templates/navigation.html:132 web/views/battlegrounds.py:457
-#: web/views/battlegrounds.py:1815
+#: web/views/battlegrounds.py:1854
 msgid "Comps"
 msgstr ""
 
@@ -1353,41 +1353,41 @@ msgstr ""
 msgid "Explore the Minions, Spells & Hero Powers available in each of the Timewarped Tavern shops"
 msgstr ""
 
-#: web/views/battlegrounds.py:1622
+#: web/views/battlegrounds.py:1661
 msgid "Battlegrounds Compositions"
 msgstr "Составы Полей сражений"
 
-#: web/views/battlegrounds.py:1628 web/views/battlegrounds.py:1658
+#: web/views/battlegrounds.py:1667 web/views/battlegrounds.py:1697
 msgid "Battlegrounds Composition"
 msgstr "Состав Полей сражений"
 
-#: web/views/battlegrounds.py:1651
+#: web/views/battlegrounds.py:1690
 msgid "No matching live or lingering composition found."
 msgstr "Соответствующая транслируемая или транслированная ранее стратегия не найдена."
 
-#: web/views/battlegrounds.py:1653
+#: web/views/battlegrounds.py:1692
 msgid "No matching composition found."
 msgstr "Подходящий состав не найден."
 
-#: web/views/battlegrounds.py:1751
+#: web/views/battlegrounds.py:1790
 msgid "Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:1770
+#: web/views/battlegrounds.py:1809
 msgid "No matching comp found."
 msgstr ""
 
-#: web/views/battlegrounds.py:1783
+#: web/views/battlegrounds.py:1822
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr ""
 
-#: web/views/battlegrounds.py:1790
+#: web/views/battlegrounds.py:1829
 #, python-brace-format
 msgid "Season {season} Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:1876
+#: web/views/battlegrounds.py:1915
 msgid "My Battlegrounds Stats"
 msgstr ""
 
