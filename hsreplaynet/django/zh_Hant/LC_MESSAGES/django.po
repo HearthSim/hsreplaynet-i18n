@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-23 13:58+0000\n"
-"PO-Revision-Date: 2026-10-23 14:11\n"
+"PO-Revision-Date: 2026-10-23 15:52\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -1067,103 +1067,103 @@ msgstr "下載爐石戰記記牌器以使用戰棋模式"
 
 #: web/views/battlegrounds.py:179
 msgid "Is Hearthstone Deck Tracker free?"
-msgstr ""
+msgstr "Hearthstone Deck Tracker 是免費的嗎？"
 
 #: web/views/battlegrounds.py:181
 msgid "Yes, every Battlegrounds feature in the overlay is free and most have no limits. Tier7 features, which require our servers, can be used by anyone in two matches each week, for the entire match. Subscribers can use them in all their matches."
-msgstr ""
+msgstr "是的，overlay 中的每一項英雄戰場功能都是免費的，且大多沒有限制。需要我們伺服器支援的 Tier7 功能，任何人每週都能在兩場對戰中整場使用。訂閱者則可在全部對戰中使用。"
 
 #: web/views/battlegrounds.py:188
 msgid "Is Hearthstone Deck Tracker safe to use? Will I get banned?"
-msgstr ""
+msgstr "使用 Hearthstone Deck Tracker 安全嗎？我會被封鎖嗎？"
 
 #: web/views/battlegrounds.py:190
 msgid "Hearthstone Deck Tracker is fully compliant with Blizzard's policies. It only reads publicly available game log files, it never injects code or modifies the game client. Over 20 million players have used it safely since 2015."
-msgstr ""
+msgstr "Hearthstone Deck Tracker 完全符合暴雪的政策。它只讀取公開可用的遊戲日誌檔案，從不注入程式碼或修改遊戲客戶端。自 2015 年以來，已有超過 20 億人次中的超過 2000 萬名玩家安全地使用它。"
 
 #: web/views/battlegrounds.py:197
 msgid "What is Tier7?"
-msgstr ""
+msgstr "什麼是 Tier7？"
 
 #: web/views/battlegrounds.py:199
 msgid "Tier7 is a set of free features in Hearthstone Deck Tracker that use our servers to show you lobby-specific data while you play which you can use a limited number of times each week. This includes hero picking stats tailored to your lobby, curated comp guides, first place stats, and more."
-msgstr ""
+msgstr "Tier7 是 Hearthstone Deck Tracker 中一組免費功能，利用我們的伺服器在你遊玩時顯示特定大廳的資料，每週有使用次數限制。這包含依你大廳量身打造的英雄選擇統計、精選陣容攻略、第一名統計等更多內容。"
 
 #: web/views/battlegrounds.py:205
 msgid "Every player can use the Tier7 features in two matches each week, to limit the load on our servers. By supporting HSReplay.net with a subscription, you get to use it in all your matches!"
-msgstr ""
+msgstr "為了限制我們伺服器的負載，每位玩家每週可在兩場對戰中使用 Tier7 功能。透過訂閱支持 HSReplay.net，你就能在全部對戰中使用它！"
 
 #: web/views/battlegrounds.py:210
 msgid "Oh and: we named it before Hearthstone got a Tavern \"Tier 7\". We get the irony."
-msgstr ""
+msgstr "對了：我們在爐石戰記出現旅店「第 7 級」之前就取了這個名字。我們懂這其中的諷刺。"
 
 #: web/views/battlegrounds.py:215
 msgid "Does Hearthstone Deck Tracker support Duos?"
-msgstr ""
+msgstr "Hearthstone Deck Tracker 支援雙人模式嗎？"
 
 #: web/views/battlegrounds.py:217
 msgid "Yes! Almost every single feature works in Battlegrounds Duos just like you'd expect. Bob's Buddy is optimized for Duos just like for Solos and the Tavern Browser shows Duos minions when you're playing that mode. The website also features Duos checkboxes on most pages, so you can browse Hero pick rates or the Duos minions right here."
-msgstr ""
+msgstr "是的！幾乎每一項功能都如你預期般在英雄戰場雙人模式中運作。Bob's Buddy 像在單人模式一樣針對雙人模式進行優化，而旅店瀏覽器在你遊玩該模式時也會顯示雙人模式的手下。本網站在大多數頁面上也提供雙人模式的核取方塊，讓你可以在此瀏覽英雄選用率或雙人模式的手下。"
 
 #: web/views/battlegrounds.py:225
 msgid "Do I need an account to use Hearthstone Deck Tracker?"
-msgstr ""
+msgstr "使用 Hearthstone Deck Tracker 需要帳號嗎？"
 
 #: web/views/battlegrounds.py:227
 msgid "No account is required! Simply download and install, the overlay will start working automatically when you launch it alongside Hearthstone."
-msgstr ""
+msgstr "不需要帳號！只要下載並安裝，當你與爐石戰記一起啟動時，overlay 就會自動開始運作。"
 
 #: web/views/battlegrounds.py:233 web/views/battlegrounds.py:429
 msgid "How often is the data updated?"
-msgstr ""
+msgstr "資料多久更新一次？"
 
 #: web/views/battlegrounds.py:235
 msgid "Our meta statistics update every hour with the latest games. New patch data is typically available within 2 hours of release, so you always have current information."
-msgstr ""
+msgstr "我們的 meta 統計每小時以最新對戰資料更新。新版本資料通常在發布後 2 小時內就能取得，因此你隨時都能掌握最新資訊。"
 
 #: web/views/battlegrounds.py:241
 msgid "Can I use the overlay on Mac?"
-msgstr ""
+msgstr "我可以在 Mac 上使用 overlay 嗎？"
 
 #: web/views/battlegrounds.py:243
 msgid "Yes! HSTracker is our companion app for macOS with most of the features, including Tier7."
-msgstr ""
+msgstr "可以！HSTracker 是我們適用於 macOS 的配套應用程式，具備大多數功能，包含 Tier7。"
 
 #: web/views/battlegrounds.py:248
 msgid "Do I need a powerful gaming PC to run Hearthstone Deck Tracker?"
-msgstr ""
+msgstr "執行 Hearthstone Deck Tracker 需要高效能的遊戲電腦嗎？"
 
 #: web/views/battlegrounds.py:250
 msgid "Not necessarily. We think Hearthstone Deck Tracker is the best choice for any PC: it takes advantage of extra performance headroom on powerful devices and especially in Battlegrounds, the overlay uses modern visuals. However, it's also fast and efficient on older devices."
-msgstr ""
+msgstr "不一定。我們認為 Hearthstone Deck Tracker 是任何電腦的最佳選擇：它能善用高效能裝置上多餘的效能空間，尤其在英雄戰場中，overlay 採用現代化視覺效果。不過，它在較舊的裝置上同樣快速且高效。"
 
 #: web/views/battlegrounds.py:257
 msgid "What makes Hearthstone Deck Tracker better than similar products?"
-msgstr ""
+msgstr "是什麼讓 Hearthstone Deck Tracker 優於同類產品？"
 
 #: web/views/battlegrounds.py:259
 msgid "Don't just ask us, try it out! Hearthstone Deck Tracker is a free, standalone download that we've been building in the open for over 10 years and does not contain any ads. It's run by a small team of independent developers and used by millions of players around the world, including most Battlegrounds streamers. We're pretty sure we have the most Battlegrounds data in the world, outside of Blizzard of course, and we make good use of it:"
-msgstr ""
+msgstr "別只聽我們說，親自試試看吧！Hearthstone Deck Tracker 是一款免費的獨立下載軟體，我們已公開開發超過 10 年，且不含任何廣告。它由一支獨立開發者的小團隊營運，並被全球數百萬名玩家使用，包含大多數的英雄戰場實況主。我們相當確定我們擁有全世界最多的英雄戰場資料，當然，暴雪除外，而且我們充分運用它："
 
 #: web/views/battlegrounds.py:267
 msgid "Instead of delivering raw numbers from a database, we sanity-check our data, dynamically filter it to match your lobby, and use stochastic methods to predict what we don't have. We're obsessed with data, and hope it shows!"
-msgstr ""
+msgstr "我們不是單純從資料庫提供原始數據，而是對資料進行合理性檢查，動態篩選以符合你的大廳，並使用隨機方法來預測我們沒有的資料。我們對資料非常著迷，希望你能感受到！"
 
 #: web/views/battlegrounds.py:272
 msgid "We've also spent an unreasonable amount of time integrating the overlay into the game the best way possible, getting out of your way when interacting with your friends list, the game menus or other critical game elements. This is something that no other tool does to the same degree."
-msgstr ""
+msgstr "我們也花了不合理的大量時間，以最好的方式將 overlay 整合進遊戲中，在你操作好友清單、遊戲選單或其他關鍵遊戲元素時會自動避開。這是其他專業工具都無法達到同等程度的功能。"
 
 #: web/views/battlegrounds.py:304
 msgid "Battleground Stats & Guides"
-msgstr ""
+msgstr "英雄戰場統計與攻略"
 
 #: web/views/battlegrounds.py:306
 msgid "Master Hearthstone Battlegrounds with data-driven insights. Explore hero tier lists, winning compositions, minion stats, and more!"
-msgstr ""
+msgstr "透過數據洞察精通爐石戰場。探索英雄階級列表、致勝陣容、手下統計等更多內容！"
 
 #: web/views/battlegrounds.py:382
 msgid "Level up your gameplay with Tier7's in-depth Battlegrounds statistics, including actionable information about the best heroes, compositions, minions, and more!"
-msgstr ""
+msgstr "透過 Tier7 深入的英雄戰場統計提升你的遊玩水準，包含關於最佳英雄、陣容、手下等可實際運用的資訊！"
 
 #: web/views/battlegrounds.py:393
 msgid "Tier7"
@@ -1171,55 +1171,55 @@ msgstr "Tier7"
 
 #: web/views/battlegrounds.py:403
 msgid "What benefits do I get with a subscription?"
-msgstr ""
+msgstr "訂閱能讓我獲得哪些好處？"
 
 #: web/views/battlegrounds.py:405
 msgid "As a subscriber, you can use Tier7 features in all the matches you play. This includes hero picking stats tailored to your lobby, curated comp guides, first place stats, and more. You also get exclusive access to global and personal stats on the website."
-msgstr ""
+msgstr "身為訂閱者，你可以在全部遊玩的對戰中使用 Tier7 功能。這包含依你大廳量身打造的英雄選擇統計、精選陣容攻略、第一名統計等更多內容。你還能獨家存取網站上的全球與個人統計。"
 
 #: web/views/battlegrounds.py:412
 msgid "Do I need to pay for Tier7?"
-msgstr ""
+msgstr "我需要付費才能使用 Tier7 嗎？"
 
 #: web/views/battlegrounds.py:414
 msgid "No, all in-game Tier7 features are available for free twice a week simply by playing with Hearthstone Deck Tracker. If you need more, you can subscribe."
-msgstr ""
+msgstr "不需要，只要使用 Hearthstone Deck Tracker 遊玩，全部遊戲內的 Tier7 功能每週都能免費使用兩次。如果你需要更多，可以選擇訂閱。"
 
 #: web/views/battlegrounds.py:420
 msgid "Do I need the Hearthstone Deck Tracker for web features?"
-msgstr ""
+msgstr "我需要 Hearthstone Deck Tracker 才能使用網站功能嗎？"
 
 #: web/views/battlegrounds.py:422
 msgid "Not necessarily. The global stats on the website work independently, however personal stats are only available with games played with Hearthstone Deck Tracker. The lobby-specific features, like hero picking stats and first place stats, always require the deck tracker."
-msgstr ""
+msgstr "不一定。網站上的全域統計可獨立運作，但個人統計僅在使用 Hearthstone Deck Tracker 進行的對戰中才會提供。而大廳相關的功能，例如英雄選擇統計與第一名統計，則一律需要 deck tracker。"
 
 #: web/views/battlegrounds.py:431
 msgid "Our meta statistics update every hour with the latest games. New patch data is typically available within 2 hours of release."
-msgstr ""
+msgstr "我們的環境數據每小時會根據最新對戰更新一次。新改版的數據通常會在發布後 2 小時內提供。"
 
 #: web/views/battlegrounds.py:436
 msgid "What MMR bracket should I be to benefit?"
-msgstr ""
+msgstr "我需要達到什麼 MMR 分段才能受益？"
 
 #: web/views/battlegrounds.py:438
 msgid "Tier7 helps players at all skill levels. Whether you're climbing from 2k or pushing for top 200, our data ensures you get relevant information for you."
-msgstr ""
+msgstr "Tier7 對所有技術水準的玩家都有幫助。無論你是從 2k 分開始爬分，還是衝擊前 200 名，我們的數據都能確保你獲得對你有用的相關資訊。"
 
 #: web/views/battlegrounds.py:444
 msgid "Is my account data secure?"
-msgstr ""
+msgstr "我的帳號資料安全嗎？"
 
 #: web/views/battlegrounds.py:446
 msgid "Absolutely. We use industry-standard encryption and never share your personal information. Your gameplay data is anonymized in our aggregated statistics."
-msgstr ""
+msgstr "當然安全。我們採用業界標準的加密技術，絕不分享你的個人資訊。你的遊戲資料在我們的彙整統計中都會進行匿名化處理。"
 
 #: web/views/battlegrounds.py:452
 msgid "Can I cancel the subscription anytime?"
-msgstr ""
+msgstr "我可以隨時取消訂閱嗎？"
 
 #: web/views/battlegrounds.py:454
 msgid "Yes! You can cancel your subscription at any time from your account settings. You'll continue to have access until the end of your billing period."
-msgstr ""
+msgstr "是的！你可以隨時在帳號設定中取消訂閱。在帳單週期結束前，你仍可繼續使用所有功能。"
 
 #: web/views/battlegrounds.py:472
 msgid "HSReplay.net Tier7 for Battlegrounds"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-23 13:58+0000\n"
-"PO-Revision-Date: 2026-10-23 14:11\n"
+"PO-Revision-Date: 2026-10-23 15:52\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -1064,103 +1064,103 @@ msgstr "Baixe o Hearthstone Deck Tracker para o Campos de Batalha"
 
 #: web/views/battlegrounds.py:179
 msgid "Is Hearthstone Deck Tracker free?"
-msgstr ""
+msgstr "O Hearthstone Deck Tracker é grátis?"
 
 #: web/views/battlegrounds.py:181
 msgid "Yes, every Battlegrounds feature in the overlay is free and most have no limits. Tier7 features, which require our servers, can be used by anyone in two matches each week, for the entire match. Subscribers can use them in all their matches."
-msgstr ""
+msgstr "Sim, todos os recursos dos Campos de Batalha no overlay são grátis e a maioria não tem limites. Os recursos do Tier7, que precisam dos nossos servidores, podem ser usados por qualquer pessoa em duas partidas por semana, durante a partida inteira. Assinantes podem usá-los em todas as suas partidas."
 
 #: web/views/battlegrounds.py:188
 msgid "Is Hearthstone Deck Tracker safe to use? Will I get banned?"
-msgstr ""
+msgstr "O Hearthstone Deck Tracker é seguro de usar? Vou ser banido?"
 
 #: web/views/battlegrounds.py:190
 msgid "Hearthstone Deck Tracker is fully compliant with Blizzard's policies. It only reads publicly available game log files, it never injects code or modifies the game client. Over 20 million players have used it safely since 2015."
-msgstr ""
+msgstr "O Hearthstone Deck Tracker está totalmente em conformidade com as políticas da Blizzard. Ele apenas lê arquivos de log do jogo disponíveis publicamente, nunca injeta código nem modifica o cliente do jogo. Mais de 20 milhões de jogadores o usam com segurança desde 2015."
 
 #: web/views/battlegrounds.py:197
 msgid "What is Tier7?"
-msgstr ""
+msgstr "O que é o Tier7?"
 
 #: web/views/battlegrounds.py:199
 msgid "Tier7 is a set of free features in Hearthstone Deck Tracker that use our servers to show you lobby-specific data while you play which you can use a limited number of times each week. This includes hero picking stats tailored to your lobby, curated comp guides, first place stats, and more."
-msgstr ""
+msgstr "O Tier7 é um conjunto de recursos grátis no Hearthstone Deck Tracker que usam nossos servidores para mostrar dados específicos do lobby enquanto você joga, e que você pode usar um número limitado de vezes por semana. Isso inclui estatísticas de escolha de heróis ajustadas ao seu lobby, guias de composições selecionados, estatísticas de primeiro lugar e muito mais."
 
 #: web/views/battlegrounds.py:205
 msgid "Every player can use the Tier7 features in two matches each week, to limit the load on our servers. By supporting HSReplay.net with a subscription, you get to use it in all your matches!"
-msgstr ""
+msgstr "Todo jogador pode usar os recursos do Tier7 em duas partidas por semana, para limitar a carga em nossos servidores. Ao apoiar o HSReplay.net com uma assinatura, você passa a usá-lo em todas as suas partidas!"
 
 #: web/views/battlegrounds.py:210
 msgid "Oh and: we named it before Hearthstone got a Tavern \"Tier 7\". We get the irony."
-msgstr ""
+msgstr "Ah, e: nós demos esse nome antes de o Hearthstone ter uma Taverna de \"Tier 7\". Entendemos a ironia."
 
 #: web/views/battlegrounds.py:215
 msgid "Does Hearthstone Deck Tracker support Duos?"
-msgstr ""
+msgstr "O Hearthstone Deck Tracker suporta Duplas?"
 
 #: web/views/battlegrounds.py:217
 msgid "Yes! Almost every single feature works in Battlegrounds Duos just like you'd expect. Bob's Buddy is optimized for Duos just like for Solos and the Tavern Browser shows Duos minions when you're playing that mode. The website also features Duos checkboxes on most pages, so you can browse Hero pick rates or the Duos minions right here."
-msgstr ""
+msgstr "Sim! Quase todos os recursos funcionam nos Campos de Batalha Duplas exatamente como você espera. O Bob's Buddy é otimizado para Duplas assim como para Solo, e o Navegador da Taverna mostra os lacaios de Duplas quando você está jogando esse modo. O site também tem caixas de seleção de Duplas na maioria das páginas, então você pode explorar as taxas de escolha de Heróis ou os lacaios de Duplas aqui mesmo."
 
 #: web/views/battlegrounds.py:225
 msgid "Do I need an account to use Hearthstone Deck Tracker?"
-msgstr ""
+msgstr "Preciso de uma conta para usar o Hearthstone Deck Tracker?"
 
 #: web/views/battlegrounds.py:227
 msgid "No account is required! Simply download and install, the overlay will start working automatically when you launch it alongside Hearthstone."
-msgstr ""
+msgstr "Nenhuma conta é necessária! Basta baixar e instalar: o overlay começa a funcionar automaticamente quando você o inicia junto com o Hearthstone."
 
 #: web/views/battlegrounds.py:233 web/views/battlegrounds.py:429
 msgid "How often is the data updated?"
-msgstr ""
+msgstr "Com que frequência os dados são atualizados?"
 
 #: web/views/battlegrounds.py:235
 msgid "Our meta statistics update every hour with the latest games. New patch data is typically available within 2 hours of release, so you always have current information."
-msgstr ""
+msgstr "Nossas estatísticas do meta são atualizadas a cada hora com as partidas mais recentes. Os dados de novos patches geralmente ficam disponíveis em até 2 horas após o lançamento, então você sempre tem informações atuais."
 
 #: web/views/battlegrounds.py:241
 msgid "Can I use the overlay on Mac?"
-msgstr ""
+msgstr "Posso usar o overlay no Mac?"
 
 #: web/views/battlegrounds.py:243
 msgid "Yes! HSTracker is our companion app for macOS with most of the features, including Tier7."
-msgstr ""
+msgstr "Sim! O HSTracker é nosso aplicativo complementar para macOS com a maioria dos recursos, incluindo o Tier7."
 
 #: web/views/battlegrounds.py:248
 msgid "Do I need a powerful gaming PC to run Hearthstone Deck Tracker?"
-msgstr ""
+msgstr "Preciso de um PC gamer potente para rodar o Hearthstone Deck Tracker?"
 
 #: web/views/battlegrounds.py:250
 msgid "Not necessarily. We think Hearthstone Deck Tracker is the best choice for any PC: it takes advantage of extra performance headroom on powerful devices and especially in Battlegrounds, the overlay uses modern visuals. However, it's also fast and efficient on older devices."
-msgstr ""
+msgstr "Não necessariamente. Achamos que o Hearthstone Deck Tracker é a melhor escolha para qualquer PC: ele aproveita a margem extra de desempenho em dispositivos potentes e, especialmente nos Campos de Batalha, o overlay usa visuais modernos. No entanto, ele também é rápido e eficiente em dispositivos mais antigos."
 
 #: web/views/battlegrounds.py:257
 msgid "What makes Hearthstone Deck Tracker better than similar products?"
-msgstr ""
+msgstr "O que torna o Hearthstone Deck Tracker melhor do que produtos semelhantes?"
 
 #: web/views/battlegrounds.py:259
 msgid "Don't just ask us, try it out! Hearthstone Deck Tracker is a free, standalone download that we've been building in the open for over 10 years and does not contain any ads. It's run by a small team of independent developers and used by millions of players around the world, including most Battlegrounds streamers. We're pretty sure we have the most Battlegrounds data in the world, outside of Blizzard of course, and we make good use of it:"
-msgstr ""
+msgstr "Não acredite só na nossa palavra, experimente! O Hearthstone Deck Tracker é um download gratuito e independente que construímos abertamente há mais de 10 anos e não contém nenhum anúncio. Ele é mantido por uma pequena equipe de desenvolvedores independentes e usado por milhões de jogadores no mundo todo, incluindo a maioria dos streamers de Campos de Batalha. Temos quase certeza de que temos a maior quantidade de dados de Campos de Batalha do mundo, fora a Blizzard, é claro, e fazemos bom uso deles:"
 
 #: web/views/battlegrounds.py:267
 msgid "Instead of delivering raw numbers from a database, we sanity-check our data, dynamically filter it to match your lobby, and use stochastic methods to predict what we don't have. We're obsessed with data, and hope it shows!"
-msgstr ""
+msgstr "Em vez de entregar números brutos de um banco de dados, verificamos a consistência dos nossos dados, os filtramos dinamicamente para corresponder ao seu lobby e usamos métodos estocásticos para prever o que não temos. Somos obcecados por dados, e esperamos que isso fique evidente!"
 
 #: web/views/battlegrounds.py:272
 msgid "We've also spent an unreasonable amount of time integrating the overlay into the game the best way possible, getting out of your way when interacting with your friends list, the game menus or other critical game elements. This is something that no other tool does to the same degree."
-msgstr ""
+msgstr "Também investimos uma quantidade absurda de tempo integrando o overlay ao jogo da melhor forma possível, saindo do seu caminho ao interagir com sua lista de amigos, os menus do jogo ou outros elementos críticos do jogo. Isso é algo que nenhuma outra ferramenta faz no mesmo nível."
 
 #: web/views/battlegrounds.py:304
 msgid "Battleground Stats & Guides"
-msgstr ""
+msgstr "Estatísticas e Guias dos Campos de Batalha"
 
 #: web/views/battlegrounds.py:306
 msgid "Master Hearthstone Battlegrounds with data-driven insights. Explore hero tier lists, winning compositions, minion stats, and more!"
-msgstr ""
+msgstr "Domine os Campos de Batalha do Hearthstone com análises baseadas em dados. Explore tier lists de heróis, composições vencedoras, estatísticas de lacaios e muito mais!"
 
 #: web/views/battlegrounds.py:382
 msgid "Level up your gameplay with Tier7's in-depth Battlegrounds statistics, including actionable information about the best heroes, compositions, minions, and more!"
-msgstr ""
+msgstr "Suba de nível no seu jogo com as estatísticas aprofundadas dos Campos de Batalha do Tier7, incluindo informações práticas sobre os melhores heróis, composições, lacaios e muito mais!"
 
 #: web/views/battlegrounds.py:393
 msgid "Tier7"
@@ -1168,55 +1168,55 @@ msgstr "Tier7"
 
 #: web/views/battlegrounds.py:403
 msgid "What benefits do I get with a subscription?"
-msgstr ""
+msgstr "Que benefícios eu ganho com uma assinatura?"
 
 #: web/views/battlegrounds.py:405
 msgid "As a subscriber, you can use Tier7 features in all the matches you play. This includes hero picking stats tailored to your lobby, curated comp guides, first place stats, and more. You also get exclusive access to global and personal stats on the website."
-msgstr ""
+msgstr "Como assinante, você pode usar os recursos do Tier7 em todas as partidas que jogar. Isso inclui estatísticas de escolha de heróis ajustadas ao seu lobby, guias de composições selecionados, estatísticas de primeiro lugar e muito mais. Você também ganha acesso exclusivo a estatísticas globais e pessoais no site."
 
 #: web/views/battlegrounds.py:412
 msgid "Do I need to pay for Tier7?"
-msgstr ""
+msgstr "Preciso pagar pelo Tier7?"
 
 #: web/views/battlegrounds.py:414
 msgid "No, all in-game Tier7 features are available for free twice a week simply by playing with Hearthstone Deck Tracker. If you need more, you can subscribe."
-msgstr ""
+msgstr "Não, todos os recursos do Tier7 dentro do jogo estão disponíveis gratuitamente duas vezes por semana, basta jogar com o Hearthstone Deck Tracker. Se precisar de mais, você pode assinar."
 
 #: web/views/battlegrounds.py:420
 msgid "Do I need the Hearthstone Deck Tracker for web features?"
-msgstr ""
+msgstr "Preciso do Hearthstone Deck Tracker para os recursos do site?"
 
 #: web/views/battlegrounds.py:422
 msgid "Not necessarily. The global stats on the website work independently, however personal stats are only available with games played with Hearthstone Deck Tracker. The lobby-specific features, like hero picking stats and first place stats, always require the deck tracker."
-msgstr ""
+msgstr "Não necessariamente. As estatísticas globais do site funcionam de forma independente, porém as estatísticas pessoais só estão disponíveis com partidas jogadas com o Hearthstone Deck Tracker. Os recursos específicos de lobby, como estatísticas de escolha de heróis e de primeiro lugar, sempre exigem o deck tracker."
 
 #: web/views/battlegrounds.py:431
 msgid "Our meta statistics update every hour with the latest games. New patch data is typically available within 2 hours of release."
-msgstr ""
+msgstr "Nossas estatísticas do meta são atualizadas a cada hora com as partidas mais recentes. Dados de novos patches geralmente ficam disponíveis em até 2 horas após o lançamento."
 
 #: web/views/battlegrounds.py:436
 msgid "What MMR bracket should I be to benefit?"
-msgstr ""
+msgstr "Em qual faixa de MMR eu preciso estar para me beneficiar?"
 
 #: web/views/battlegrounds.py:438
 msgid "Tier7 helps players at all skill levels. Whether you're climbing from 2k or pushing for top 200, our data ensures you get relevant information for you."
-msgstr ""
+msgstr "O Tier7 ajuda jogadores de todos os níveis de habilidade. Seja subindo a partir de 2k ou buscando o top 200, nossos dados garantem que você receba informações relevantes para você."
 
 #: web/views/battlegrounds.py:444
 msgid "Is my account data secure?"
-msgstr ""
+msgstr "Os dados da minha conta estão seguros?"
 
 #: web/views/battlegrounds.py:446
 msgid "Absolutely. We use industry-standard encryption and never share your personal information. Your gameplay data is anonymized in our aggregated statistics."
-msgstr ""
+msgstr "Com certeza. Usamos criptografia de padrão da indústria e nunca compartilhamos suas informações pessoais. Seus dados de jogo são anonimizados em nossas estatísticas agregadas."
 
 #: web/views/battlegrounds.py:452
 msgid "Can I cancel the subscription anytime?"
-msgstr ""
+msgstr "Posso cancelar a assinatura a qualquer momento?"
 
 #: web/views/battlegrounds.py:454
 msgid "Yes! You can cancel your subscription at any time from your account settings. You'll continue to have access until the end of your billing period."
-msgstr ""
+msgstr "Sim! Você pode cancelar sua assinatura a qualquer momento nas configurações da sua conta. Você continuará tendo acesso até o fim do seu período de cobrança."
 
 #: web/views/battlegrounds.py:472
 msgid "HSReplay.net Tier7 for Battlegrounds"
