@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-24 01:40+0000\n"
-"PO-Revision-Date: 2026-10-24 12:40\n"
+"POT-Creation-Date: 2026-10-26 09:37+0000\n"
+"PO-Revision-Date: 2026-10-26 09:38\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -362,7 +362,7 @@ msgstr "Password Dimenticata?"
 #: templates/account/password_reset_from_key_done.html:4
 #: templates/account/password_reset_from_key_done.html:7
 msgid "Password Reset"
-msgstr ""
+msgstr "Reimposta la password"
 
 #: templates/account/password_reset.html:13
 msgid "Forgot your password? Enter your email below, we'll send you a link to reset it."
@@ -389,7 +389,7 @@ msgstr "Per favore, <a href=\"%(contact_url)s\">contattaci</a> se non la ricevi 
 
 #: templates/account/password_reset_from_key_done.html:8
 msgid "Your password has been changed."
-msgstr ""
+msgstr "La tua password è stata modificata."
 
 #: templates/account/password_reset_from_key_done.html:14
 #, python-format
@@ -399,7 +399,7 @@ msgstr ""
 #: templates/account/password_set.html:5 templates/account/password_set.html:9
 #: templates/account/password_set.html:14
 msgid "Set Password"
-msgstr ""
+msgstr "Imposta la password"
 
 #: templates/account/signup.html:14 templates/account/signup.html:55
 #: templates/socialaccount/signup.html:11
@@ -508,11 +508,11 @@ msgstr ""
 
 #: templates/footer.html:79
 msgid "Battlegrounds Overlay"
-msgstr ""
+msgstr "Overlay Battaglia"
 
 #: templates/footer.html:80
 msgid "Get Tier7"
-msgstr ""
+msgstr "Ottieni Tier7"
 
 #: templates/footer.html:81 web/views/battlegrounds.py:477
 msgid "Battlegrounds Heroes"
@@ -593,7 +593,7 @@ msgstr "Attiva/disattiva navigazione"
 #: web/views/battlegrounds.py:1148 web/views/battlegrounds.py:1335
 #: web/views/battlegrounds.py:1857
 msgid "Battlegrounds"
-msgstr "Battlegrorounds"
+msgstr "Battaglia"
 
 #: templates/navigation.html:51 web/views/mercenaries.py:132
 msgid "Mercenaries"
@@ -601,7 +601,7 @@ msgstr "Mercenari"
 
 #: templates/navigation.html:54
 msgid "Hearthstone"
-msgstr ""
+msgstr "Hearthstone"
 
 #: templates/navigation.html:69
 msgid "Home"
@@ -644,7 +644,7 @@ msgstr "Monili"
 
 #: templates/navigation.html:157 web/views/battlegrounds.py:1336
 msgid "Timewarp"
-msgstr ""
+msgstr "Crono-distorsione"
 
 #: templates/navigation.html:170 web/views/battlegrounds.py:817
 msgid "Darkmoon Prizes"
@@ -656,7 +656,7 @@ msgstr "Missioni"
 
 #: templates/navigation.html:186 templates/navigation.html:279
 msgid "NEW"
-msgstr ""
+msgstr "NOVITÀ"
 
 #: templates/navigation.html:200 web/views/battlegrounds.py:791
 msgid "Dark Gifts"
@@ -664,7 +664,7 @@ msgstr "Doni Oscuri"
 
 #: templates/navigation.html:213 web/views/battlegrounds.py:682
 msgid "Anomalies"
-msgstr ""
+msgstr "Anomalie"
 
 #: templates/navigation.html:224 web/views/battlegrounds.py:486
 #: web/views/battlegrounds.py:898
@@ -700,11 +700,11 @@ msgstr "Carte"
 #: templates/navigation.html:288 web/views/arena.py:24 web/views/arena.py:41
 #: web/views/arena.py:72 web/views/arena.py:90 web/views/arena.py:118
 msgid "Arena"
-msgstr ""
+msgstr "Arena"
 
 #: templates/navigation.html:339
 #, python-format
-msgid " View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
+msgid "View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
 msgstr ""
 
 #: templates/navigation.html:353
@@ -1060,7 +1060,7 @@ msgstr ""
 #: web/views/battlegrounds.py:103
 #, python-brace-format
 msgid "Season {number}"
-msgstr ""
+msgstr "Stagione {number}"
 
 #: web/views/battlegrounds.py:162
 msgid "Download Hearthstone Deck Tracker for Battlegrounds"

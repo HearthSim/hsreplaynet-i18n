@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-24 01:40+0000\n"
-"PO-Revision-Date: 2026-10-24 12:40\n"
+"POT-Creation-Date: 2026-10-26 09:37+0000\n"
+"PO-Revision-Date: 2026-10-26 09:38\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -389,7 +389,7 @@ msgstr "Veuillez <a href=\"%(contact_url)s\">nous contacter</a> si vous ne le re
 
 #: templates/account/password_reset_from_key_done.html:8
 msgid "Your password has been changed."
-msgstr ""
+msgstr "Votre mot de passe a été modifié."
 
 #: templates/account/password_reset_from_key_done.html:14
 #, python-format
@@ -496,7 +496,7 @@ msgstr ""
 
 #: templates/footer.html:71 web/views/archetypes.py:47
 msgid "Meta Tier List"
-msgstr ""
+msgstr "Tier List de la méta"
 
 #: templates/footer.html:72 web/views/arenasmith.py:13
 msgid "Arenasmith"
@@ -508,11 +508,11 @@ msgstr ""
 
 #: templates/footer.html:79
 msgid "Battlegrounds Overlay"
-msgstr ""
+msgstr "Overlay Champs de bataille"
 
 #: templates/footer.html:80
 msgid "Get Tier7"
-msgstr ""
+msgstr "Obtenir Tier7"
 
 #: templates/footer.html:81 web/views/battlegrounds.py:477
 msgid "Battlegrounds Heroes"
@@ -601,7 +601,7 @@ msgstr "Mercenaires"
 
 #: templates/navigation.html:54
 msgid "Hearthstone"
-msgstr ""
+msgstr "Hearthstone"
 
 #: templates/navigation.html:69
 msgid "Home"
@@ -644,7 +644,7 @@ msgstr "Bibelots"
 
 #: templates/navigation.html:157 web/views/battlegrounds.py:1336
 msgid "Timewarp"
-msgstr ""
+msgstr "Chronodistorsion"
 
 #: templates/navigation.html:170 web/views/battlegrounds.py:817
 msgid "Darkmoon Prizes"
@@ -664,7 +664,7 @@ msgstr "Sombres dons"
 
 #: templates/navigation.html:213 web/views/battlegrounds.py:682
 msgid "Anomalies"
-msgstr ""
+msgstr "Anomalies"
 
 #: templates/navigation.html:224 web/views/battlegrounds.py:486
 #: web/views/battlegrounds.py:898
@@ -682,7 +682,7 @@ msgstr "Tendances"
 
 #: templates/navigation.html:249 templates/navigation.html:255
 msgid "Meta"
-msgstr "Meta"
+msgstr "Méta"
 
 #: templates/navigation.html:250
 msgid "Back soon!"
@@ -700,11 +700,11 @@ msgstr "Cartes"
 #: templates/navigation.html:288 web/views/arena.py:24 web/views/arena.py:41
 #: web/views/arena.py:72 web/views/arena.py:90 web/views/arena.py:118
 msgid "Arena"
-msgstr ""
+msgstr "Arène"
 
 #: templates/navigation.html:339
 #, python-format
-msgid " View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
+msgid "View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
 msgstr ""
 
 #: templates/navigation.html:353
@@ -1060,7 +1060,7 @@ msgstr ""
 #: web/views/battlegrounds.py:103
 #, python-brace-format
 msgid "Season {number}"
-msgstr ""
+msgstr "Saison {number}"
 
 #: web/views/battlegrounds.py:162
 msgid "Download Hearthstone Deck Tracker for Battlegrounds"

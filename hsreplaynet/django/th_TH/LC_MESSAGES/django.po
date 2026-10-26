@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-24 01:40+0000\n"
-"PO-Revision-Date: 2026-10-24 12:40\n"
+"POT-Creation-Date: 2026-10-26 09:37+0000\n"
+"PO-Revision-Date: 2026-10-26 09:39\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -211,7 +211,7 @@ msgstr ""
 #: templates/account/base.html:16 templates/account/base.html:25
 #: templates/account/signup.html:35
 msgid "Password"
-msgstr ""
+msgstr "รหัสผ่าน"
 
 #: templates/account/base.html:18 web/views/allauth.py:21
 msgid "Emails"
@@ -350,11 +350,11 @@ msgstr "ต้องการออกจากระบบใช่ไหม?"
 #: templates/account/password_change.html:9
 #: templates/account/password_change.html:14
 msgid "Change Password"
-msgstr ""
+msgstr "เปลี่ยนรหัสผ่าน"
 
 #: templates/account/password_change.html:15
 msgid "Forgot Password?"
-msgstr ""
+msgstr "ลืมรหัสผ่านใช่หรือไม่"
 
 #: templates/account/password_reset.html:11
 #: templates/account/password_reset_done.html:4
@@ -362,7 +362,7 @@ msgstr ""
 #: templates/account/password_reset_from_key_done.html:4
 #: templates/account/password_reset_from_key_done.html:7
 msgid "Password Reset"
-msgstr ""
+msgstr "รีเซ็ตรหัสผ่าน"
 
 #: templates/account/password_reset.html:13
 msgid "Forgot your password? Enter your email below, we'll send you a link to reset it."
@@ -370,7 +370,7 @@ msgstr ""
 
 #: templates/account/password_reset.html:19
 msgid "Reset password"
-msgstr ""
+msgstr "รีเซ็ตรหัสผ่าน"
 
 #: templates/account/password_reset.html:24
 #, python-format
@@ -389,7 +389,7 @@ msgstr ""
 
 #: templates/account/password_reset_from_key_done.html:8
 msgid "Your password has been changed."
-msgstr ""
+msgstr "รหัสผ่านของคุณถูกเปลี่ยนแล้ว"
 
 #: templates/account/password_reset_from_key_done.html:14
 #, python-format
@@ -399,7 +399,7 @@ msgstr ""
 #: templates/account/password_set.html:5 templates/account/password_set.html:9
 #: templates/account/password_set.html:14
 msgid "Set Password"
-msgstr ""
+msgstr "ตั้งรหัสผ่าน"
 
 #: templates/account/signup.html:14 templates/account/signup.html:55
 #: templates/socialaccount/signup.html:11
@@ -413,7 +413,7 @@ msgstr ""
 
 #: templates/account/signup.html:27 templates/socialaccount/signup.html:20
 msgid "Email address"
-msgstr ""
+msgstr "ที่อยู่อีเมล"
 
 #: templates/account/signup.html:30 templates/socialaccount/signup.html:28
 msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
@@ -421,11 +421,11 @@ msgstr ""
 
 #: templates/account/signup.html:38
 msgid "Don't use the same password for multiple accounts."
-msgstr ""
+msgstr "อย่าใช้รหัสผ่านเดียวกันกับหลายบัญชี"
 
 #: templates/account/signup.html:43
 msgid "Password (repeat)"
-msgstr ""
+msgstr "รหัสผ่าน (ยืนยันอีกครั้ง)"
 
 #: templates/account/signup.html:50 templates/socialaccount/signup.html:35
 #, python-format
@@ -508,11 +508,11 @@ msgstr ""
 
 #: templates/footer.html:79
 msgid "Battlegrounds Overlay"
-msgstr ""
+msgstr "Overlay สำหรับ Battlegrounds"
 
 #: templates/footer.html:80
 msgid "Get Tier7"
-msgstr ""
+msgstr "รับ Tier7"
 
 #: templates/footer.html:81 web/views/battlegrounds.py:477
 msgid "Battlegrounds Heroes"
@@ -601,7 +601,7 @@ msgstr ""
 
 #: templates/navigation.html:54
 msgid "Hearthstone"
-msgstr ""
+msgstr "Hearthstone"
 
 #: templates/navigation.html:69
 msgid "Home"
@@ -644,7 +644,7 @@ msgstr "เครื่องประดับ"
 
 #: templates/navigation.html:157 web/views/battlegrounds.py:1336
 msgid "Timewarp"
-msgstr ""
+msgstr "ไทม์วาร์ป"
 
 #: templates/navigation.html:170 web/views/battlegrounds.py:817
 msgid "Darkmoon Prizes"
@@ -664,7 +664,7 @@ msgstr "ของขวัญพลังมืด"
 
 #: templates/navigation.html:213 web/views/battlegrounds.py:682
 msgid "Anomalies"
-msgstr ""
+msgstr "ความผิดปกติ"
 
 #: templates/navigation.html:224 web/views/battlegrounds.py:486
 #: web/views/battlegrounds.py:898
@@ -704,7 +704,7 @@ msgstr ""
 
 #: templates/navigation.html:339
 #, python-format
-msgid " View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
+msgid "View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
 msgstr ""
 
 #: templates/navigation.html:353
@@ -867,7 +867,7 @@ msgstr ""
 
 #: web/views/__init__.py:306
 msgid "Welcome to HSReplay.net"
-msgstr ""
+msgstr "ยินดีต้อนรับสู่ HSReplay.net"
 
 #: web/views/__init__.py:308
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
@@ -1060,7 +1060,7 @@ msgstr ""
 #: web/views/battlegrounds.py:103
 #, python-brace-format
 msgid "Season {number}"
-msgstr ""
+msgstr "ซีซั่น {number}"
 
 #: web/views/battlegrounds.py:162
 msgid "Download Hearthstone Deck Tracker for Battlegrounds"
@@ -1220,7 +1220,7 @@ msgstr "ได้แน่นอน! คุณสามารถยกเลิ�
 
 #: web/views/battlegrounds.py:472
 msgid "HSReplay.net Tier7 for Battlegrounds"
-msgstr ""
+msgstr "HSReplay.net Tier7 สำหรับ Battlegrounds"
 
 #: web/views/battlegrounds.py:479
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."

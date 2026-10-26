@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-24 01:40+0000\n"
-"PO-Revision-Date: 2026-10-24 12:40\n"
+"POT-Creation-Date: 2026-10-26 09:37+0000\n"
+"PO-Revision-Date: 2026-10-26 09:38\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -518,7 +518,7 @@ msgstr ""
 
 #: templates/footer.html:79
 msgid "Battlegrounds Overlay"
-msgstr ""
+msgstr "Schlachtfeld-Overlay"
 
 #: templates/footer.html:80
 msgid "Get Tier7"
@@ -611,7 +611,7 @@ msgstr "Söldner"
 
 #: templates/navigation.html:54
 msgid "Hearthstone"
-msgstr ""
+msgstr "Hearthstone"
 
 #: templates/navigation.html:69
 msgid "Home"
@@ -654,7 +654,7 @@ msgstr "Schmuckstücke"
 
 #: templates/navigation.html:157 web/views/battlegrounds.py:1336
 msgid "Timewarp"
-msgstr ""
+msgstr "Zeitkrümmung"
 
 #: templates/navigation.html:170 web/views/battlegrounds.py:817
 msgid "Darkmoon Prizes"
@@ -710,11 +710,11 @@ msgstr "Karten"
 #: templates/navigation.html:288 web/views/arena.py:24 web/views/arena.py:41
 #: web/views/arena.py:72 web/views/arena.py:90 web/views/arena.py:118
 msgid "Arena"
-msgstr ""
+msgstr "Arena"
 
 #: templates/navigation.html:339
 #, python-format
-msgid " View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
+msgid "View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
 msgstr ""
 
 #: templates/navigation.html:353
@@ -1070,7 +1070,7 @@ msgstr "Arenasmith - Draftassistent für Hearthstone Arena"
 #: web/views/battlegrounds.py:103
 #, python-brace-format
 msgid "Season {number}"
-msgstr ""
+msgstr "Saison {number}"
 
 #: web/views/battlegrounds.py:162
 msgid "Download Hearthstone Deck Tracker for Battlegrounds"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-24 01:40+0000\n"
-"PO-Revision-Date: 2026-10-24 12:40\n"
+"POT-Creation-Date: 2026-10-26 09:37+0000\n"
+"PO-Revision-Date: 2026-10-26 09:38\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -350,11 +350,11 @@ msgstr "確定要登出嗎？"
 #: templates/account/password_change.html:9
 #: templates/account/password_change.html:14
 msgid "Change Password"
-msgstr ""
+msgstr "變更密碼"
 
 #: templates/account/password_change.html:15
 msgid "Forgot Password?"
-msgstr ""
+msgstr "忘記密碼？"
 
 #: templates/account/password_reset.html:11
 #: templates/account/password_reset_done.html:4
@@ -362,7 +362,7 @@ msgstr ""
 #: templates/account/password_reset_from_key_done.html:4
 #: templates/account/password_reset_from_key_done.html:7
 msgid "Password Reset"
-msgstr ""
+msgstr "密碼重設"
 
 #: templates/account/password_reset.html:13
 msgid "Forgot your password? Enter your email below, we'll send you a link to reset it."
@@ -392,7 +392,7 @@ msgstr "如果幾分鐘後仍沒收到電子郵件，請到<a href=\"%(contact_u
 
 #: templates/account/password_reset_from_key_done.html:8
 msgid "Your password has been changed."
-msgstr ""
+msgstr "你的密碼已經變更。"
 
 #: templates/account/password_reset_from_key_done.html:14
 #, python-format
@@ -402,7 +402,7 @@ msgstr ""
 #: templates/account/password_set.html:5 templates/account/password_set.html:9
 #: templates/account/password_set.html:14
 msgid "Set Password"
-msgstr ""
+msgstr "設定密碼"
 
 #: templates/account/signup.html:14 templates/account/signup.html:55
 #: templates/socialaccount/signup.html:11
@@ -424,7 +424,7 @@ msgstr ""
 
 #: templates/account/signup.html:38
 msgid "Don't use the same password for multiple accounts."
-msgstr ""
+msgstr "請勿在多個帳號使用相同的密碼。"
 
 #: templates/account/signup.html:43
 msgid "Password (repeat)"
@@ -511,11 +511,11 @@ msgstr ""
 
 #: templates/footer.html:79
 msgid "Battlegrounds Overlay"
-msgstr ""
+msgstr "英雄戰場 Overlay"
 
 #: templates/footer.html:80
 msgid "Get Tier7"
-msgstr ""
+msgstr "取得 Tier7"
 
 #: templates/footer.html:81 web/views/battlegrounds.py:477
 msgid "Battlegrounds Heroes"
@@ -604,7 +604,7 @@ msgstr "傭兵戰隊"
 
 #: templates/navigation.html:54
 msgid "Hearthstone"
-msgstr ""
+msgstr "爐石戰記"
 
 #: templates/navigation.html:69
 msgid "Home"
@@ -647,7 +647,7 @@ msgstr "飾品"
 
 #: templates/navigation.html:157 web/views/battlegrounds.py:1336
 msgid "Timewarp"
-msgstr ""
+msgstr "時光扭曲"
 
 #: templates/navigation.html:170 web/views/battlegrounds.py:817
 msgid "Darkmoon Prizes"
@@ -667,7 +667,7 @@ msgstr "黑暗贈禮"
 
 #: templates/navigation.html:213 web/views/battlegrounds.py:682
 msgid "Anomalies"
-msgstr ""
+msgstr "異象"
 
 #: templates/navigation.html:224 web/views/battlegrounds.py:486
 #: web/views/battlegrounds.py:898
@@ -703,11 +703,11 @@ msgstr "卡牌"
 #: templates/navigation.html:288 web/views/arena.py:24 web/views/arena.py:41
 #: web/views/arena.py:72 web/views/arena.py:90 web/views/arena.py:118
 msgid "Arena"
-msgstr ""
+msgstr "競技場"
 
 #: templates/navigation.html:339
 #, python-format
-msgid " View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
+msgid "View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
 msgstr ""
 
 #: templates/navigation.html:353
@@ -870,7 +870,7 @@ msgstr ""
 
 #: web/views/__init__.py:306
 msgid "Welcome to HSReplay.net"
-msgstr ""
+msgstr "歡迎使用HSReplay.net"
 
 #: web/views/__init__.py:308
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
@@ -1063,7 +1063,7 @@ msgstr ""
 #: web/views/battlegrounds.py:103
 #, python-brace-format
 msgid "Season {number}"
-msgstr ""
+msgstr "賽季 {number}"
 
 #: web/views/battlegrounds.py:162
 msgid "Download Hearthstone Deck Tracker for Battlegrounds"
@@ -1223,7 +1223,7 @@ msgstr "是的！你可以隨時在帳號設定中取消訂閱。在帳單週期
 
 #: web/views/battlegrounds.py:472
 msgid "HSReplay.net Tier7 for Battlegrounds"
-msgstr ""
+msgstr "HSReplay.net Tier7 英雄戰場"
 
 #: web/views/battlegrounds.py:479
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."

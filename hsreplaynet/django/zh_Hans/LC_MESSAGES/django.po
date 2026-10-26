@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-24 01:40+0000\n"
-"PO-Revision-Date: 2026-10-24 12:40\n"
+"POT-Creation-Date: 2026-10-26 09:37+0000\n"
+"PO-Revision-Date: 2026-10-26 09:38\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -35,7 +35,7 @@ msgstr "资源处于未定义的状态。"
 
 #: api/exceptions.py:45
 msgid "This method is not yet implemented."
-msgstr ""
+msgstr "这方法还未实现。"
 
 #: api/exceptions.py:51
 msgid "The card has been rejected."
@@ -716,8 +716,8 @@ msgstr "竞技模式"
 
 #: templates/navigation.html:339
 #, python-format
-msgid " View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
-msgstr " 查看下一个炉石传说扩展包的最新卡牌发布：%(spoiler_set)s "
+msgid "View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
+msgstr ""
 
 #: templates/navigation.html:353
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
@@ -1454,7 +1454,7 @@ msgstr "炉石卡牌编辑器"
 
 #: web/views/cards.py:240
 msgid "Hearthstone Assemble Pools"
-msgstr ""
+msgstr "炉石传说拼装池"
 
 #: web/views/cards.py:260
 #, python-brace-format
