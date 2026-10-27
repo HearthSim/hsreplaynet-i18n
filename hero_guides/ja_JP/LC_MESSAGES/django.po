@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-16T01:40:27.681473\n"
+"POT-Creation-Date: 2026-10-27T01:40:57.147077\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Japanese\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2026-10-26 09:38\n"
+"PO-Revision-Date: 2026-10-27 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/126537/ Hero id 126537 | Guide id
 #: 704
@@ -212,14 +212,14 @@ msgstr ""
 msgid "The less armor a hero starts off with, the better pick it'll be with Finley. Snake Eyes starts with 6 armor, but if you pick it with Finley then you gain some extra armor with a good hero power."
 msgstr ""
 
+#: https://hsreplay.net/battlegrounds/heroes/57944/ Hero id 57944 | Guide id
+#: 27
+msgid "Value generator or scaling 4 drops are by far the best ones, such as [[Headhunter Gryphon||132800]] or [[Bigwig Bandit||122179]]. Same thing with value generating 3 drops, such as [[Accord-o-tron||98576]]."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/60214/ Hero id 60214 | Guide id
 #: 125
 msgid "Typically, Murlocs and Elementals can utilize Brann the best, so you must have those tribes in."
-msgstr ""
-
-#: https://hsreplay.net/battlegrounds/heroes/57944/ Hero id 57944 | Guide id
-#: 27
-msgid "Value generator or scaling 4 drops are by far the best ones, such as [[Seafloor Recruiter||126916]] or [[Bigwig Bandit||122179]]. Same thing with value generating 3 drops, such as [[Accord-o-tron||98576]]."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/74646/ Hero id 74646 | Guide id
@@ -355,6 +355,11 @@ msgstr ""
 msgid "Slightly prefer comps that concentrate stats on a big unit such as Magnetic Mechs but mostly just play normally and enjoy the powerful late game hero power."
 msgstr ""
 
+#: https://hsreplay.net/battlegrounds/heroes/57635/ Hero id 57635 | Guide id
+#: 110
+msgid "You may choose to play this hero power normally. You may also do a curve where you stay on 1, hero power and freeze every turn including turn 1, until you hit something you like from a higher tier. Value generating cards such as [[Headhunter Gryphon||132800]] are the best."
+msgstr ""
+
 #: https://hsreplay.net/battlegrounds/heroes/59814/ Hero id 59814 | Guide id
 #: 120
 msgid "Use your bananas early game on a good unit to save HP in the earlygame and then play normally from there. If you don't find a good unit on turn 1, you should use all of them turn 3 the latest."
@@ -363,11 +368,6 @@ msgstr ""
 #: https://hsreplay.net/battlegrounds/heroes/76521/ Hero id 76521 | Guide id
 #: 143
 msgid "You have the option to reborn the buddy with [[Prosthetic Hand||112364]] and summon scam such as [[Heroic Underdog||126966]] or [[Leeroy, the Reckless||90425]]."
-msgstr ""
-
-#: https://hsreplay.net/battlegrounds/heroes/57635/ Hero id 57635 | Guide id
-#: 110
-msgid "You may choose to play this hero power normally. You may also do a curve where you stay on 1, hero power and freeze every turn including turn 1, until you hit something you like from a higher tier. Value generating cards such as [[Seafloor Recruiter||126916]] are the best."
 msgstr ""
 
 #: https://hsreplay.net/battlegrounds/heroes/63601/ Hero id 63601 | Guide id 1

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-16T01:40:27.681473\n"
+"POT-Creation-Date: 2026-10-27T01:40:57.147077\n"
 "Last-Translator: HearthSim <admin@hearthsim.net>\n"
 "Language-Team: Chinese Simplified\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Crowdin-File: /hero_guides/en/LC_MESSAGES/django.po\n"
 "X-Crowdin-File-ID: 151\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2026-10-27 00:40\n"
+"PO-Revision-Date: 2026-10-27 12:40\n"
 
 #: https://hsreplay.net/battlegrounds/heroes/126537/ Hero id 126537 | Guide id
 #: 704
@@ -212,15 +212,15 @@ msgstr "布鲁坎最常见的英雄技能是闪电祈咒，可以在打破对手
 msgid "The less armor a hero starts off with, the better pick it'll be with Finley. Snake Eyes starts with 6 armor, but if you pick it with Finley then you gain some extra armor with a good hero power."
 msgstr "英雄的起始护甲越低，就越适合与芬利搭配。蛇眼的起始护甲是6，但如果与芬利搭配，就能获得额外的护甲和不错的英雄技能。"
 
+#: https://hsreplay.net/battlegrounds/heroes/57944/ Hero id 57944 | Guide id
+#: 27
+msgid "Value generator or scaling 4 drops are by far the best ones, such as [[Headhunter Gryphon||132800]] or [[Bigwig Bandit||122179]]. Same thing with value generating 3 drops, such as [[Accord-o-tron||98576]]."
+msgstr "生成资源或提供成长的4级随从无疑是最好的，例如[[猎头狮鹫||132800]] 或 [[顶尖大盗||122179]]。生成资源的3级随从也是如此，例如[[手风琴机器人||98576]]。"
+
 #: https://hsreplay.net/battlegrounds/heroes/60214/ Hero id 60214 | Guide id
 #: 125
 msgid "Typically, Murlocs and Elementals can utilize Brann the best, so you must have those tribes in."
 msgstr "通常，鱼人和元素可以最好地利用布莱恩·铜须，因此必须选这些种族类型。"
-
-#: https://hsreplay.net/battlegrounds/heroes/57944/ Hero id 57944 | Guide id
-#: 27
-msgid "Value generator or scaling 4 drops are by far the best ones, such as [[Seafloor Recruiter||126916]] or [[Bigwig Bandit||122179]]. Same thing with value generating 3 drops, such as [[Accord-o-tron||98576]]."
-msgstr "生成资源或提供成长的4级随从无疑是最好的，例如[[海床招募者||126916]] 或 [[顶尖大盗||122179]]。生成资源的3级随从也是如此，例如[[手风琴机器人||98576]]。"
 
 #: https://hsreplay.net/battlegrounds/heroes/74646/ Hero id 74646 | Guide id
 #: 150
@@ -355,6 +355,11 @@ msgstr "如果你三连出或购买一张战吼牌，你可以打出它来获得
 msgid "Slightly prefer comps that concentrate stats on a big unit such as Magnetic Mechs but mostly just play normally and enjoy the powerful late game hero power."
 msgstr "可以略微优先考虑将属性集中到一个大型随从上的流派，例如磁力机械。不过大多数时候正常运营即可，并在后期充分利用强大的英雄技能。"
 
+#: https://hsreplay.net/battlegrounds/heroes/57635/ Hero id 57635 | Guide id
+#: 110
+msgid "You may choose to play this hero power normally. You may also do a curve where you stay on 1, hero power and freeze every turn including turn 1, until you hit something you like from a higher tier. Value generating cards such as [[Headhunter Gryphon||132800]] are the best."
+msgstr "你可以选择正常使用这个英雄技能。你也可以选择一种策略，停留在1级酒馆，每回合使用英雄技能并冻结，直到在更高等级找到满意的卡牌。资源生成型卡牌例如[[猎头狮鹫||132800]] 最佳。"
+
 #: https://hsreplay.net/battlegrounds/heroes/59814/ Hero id 59814 | Guide id
 #: 120
 msgid "Use your bananas early game on a good unit to save HP in the earlygame and then play normally from there. If you don't find a good unit on turn 1, you should use all of them turn 3 the latest."
@@ -364,11 +369,6 @@ msgstr "在游戏初期将香蕉用在优质的随从上，以便在游戏初期
 #: 143
 msgid "You have the option to reborn the buddy with [[Prosthetic Hand||112364]] and summon scam such as [[Heroic Underdog||126966]] or [[Leeroy, the Reckless||90425]]."
 msgstr "你可以选择使用[[义肢假手||112364]]复生伙伴，并召唤如[[英勇的逆袭者||126966]]或[[莽神火车王||90425]]之类的下毒单卡。"
-
-#: https://hsreplay.net/battlegrounds/heroes/57635/ Hero id 57635 | Guide id
-#: 110
-msgid "You may choose to play this hero power normally. You may also do a curve where you stay on 1, hero power and freeze every turn including turn 1, until you hit something you like from a higher tier. Value generating cards such as [[Seafloor Recruiter||126916]] are the best."
-msgstr "你可以选择正常使用这个英雄技能。你也可以选择一种策略，停留在1级酒馆，每回合使用英雄技能并冻结，直到在更高等级找到满意的卡牌。资源生成型卡牌例如[[海床招募者||126916]] 最佳。"
 
 #: https://hsreplay.net/battlegrounds/heroes/63601/ Hero id 63601 | Guide id 1
 msgid "With [[Polarizing Beatboxer||98713]], you can create a magnetic stack and double its stats and effects every turn."
