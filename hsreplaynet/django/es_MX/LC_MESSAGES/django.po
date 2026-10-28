@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-26 17:10+0000\n"
-"PO-Revision-Date: 2026-10-28 00:40\n"
+"POT-Creation-Date: 2026-10-28 01:40+0000\n"
+"PO-Revision-Date: 2026-10-28 08:54\n"
 "Last-Translator: \n"
 "Language-Team: Spanish, Mexico\n"
 "Language: es_MX\n"
@@ -66,7 +66,7 @@ msgstr "{input} no es un miembro valido de {enum}."
 msgid "String value too large."
 msgstr "Valor de cadena demasiado grande."
 
-#: api/serializers/battlegrounds.py:570
+#: api/serializers/battlegrounds.py:572
 #, python-brace-format
 msgid "{tribe_name} - {instance.name}"
 msgstr "{tribe_name} - {instance.name}"
@@ -118,47 +118,47 @@ msgstr "Ya has aplicado este código a tu cuenta."
 msgid "Code has been applied to your account."
 msgstr "Código ha sido aplicado a su cuenta."
 
-#: settings.py:478
+#: settings.py:495
 msgid "Full access to your HSReplay.net account"
 msgstr "Acceso total a tu cuenta de HSReplay.net"
 
-#: settings.py:479
+#: settings.py:496
 msgid "Access information about your connected social accounts"
 msgstr "Información de tu cuenta sobre tus cuentas de redes sociales"
 
-#: settings.py:480
+#: settings.py:497
 msgid "View your Hearthstone card collection"
 msgstr "Ver colección de Heartstone"
 
-#: settings.py:481
+#: settings.py:498
 msgid "Upload your Hearthstone card collection to the site"
 msgstr "Subir colección de cartas de Heartstone a la web"
 
-#: settings.py:482
+#: settings.py:499
 msgid "View your replays"
 msgstr "Ver tus repeticiones"
 
-#: settings.py:483
+#: settings.py:500
 msgid "Update and delete your replays"
 msgstr "Subir y borrar tus repeticiones"
 
-#: settings.py:484
+#: settings.py:501
 msgid "Access the Partner API"
 msgstr "Acceder al API asociada"
 
-#: settings.py:485
+#: settings.py:502
 msgid "Read access to the tournaments service"
 msgstr "Leer accesos al servicio de torneos"
 
-#: settings.py:486
+#: settings.py:503
 msgid "Write access to the tournaments service"
 msgstr "Acceder al servicio de torneos"
 
-#: settings.py:487
+#: settings.py:504
 msgid "View your webhooks"
 msgstr "Ver tus webhooks"
 
-#: settings.py:488
+#: settings.py:505
 msgid "Create and delete webhooks on your behalf"
 msgstr "Crear y borrar webhooks en tu posesión"
 
@@ -526,32 +526,32 @@ msgstr "Overlay de Campos de batalla"
 msgid "Get Tier7"
 msgstr "Obtén Tier7"
 
-#: templates/footer.html:81 web/views/battlegrounds.py:477
+#: templates/footer.html:81 web/views/battlegrounds.py:480
 msgid "Battlegrounds Heroes"
 msgstr "Héroes de Campos de Batalla"
 
-#: templates/footer.html:82 web/views/battlegrounds.py:492
+#: templates/footer.html:82 web/views/battlegrounds.py:495
 msgid "Battlegrounds Comps"
 msgstr "Compas de Campos de Batalla"
 
-#: templates/footer.html:83 web/views/battlegrounds.py:1043
-#: web/views/battlegrounds.py:1109
+#: templates/footer.html:83 web/views/battlegrounds.py:1053
+#: web/views/battlegrounds.py:1119
 msgid "Battlegrounds Minions"
 msgstr "Esbirros de Campos de Batalla"
 
-#: templates/footer.html:84 web/views/battlegrounds.py:674
+#: templates/footer.html:84 web/views/battlegrounds.py:677
 msgid "Battlegrounds Anomalies"
 msgstr "Anomalias de Campos de Batalla"
 
-#: templates/footer.html:85 web/views/battlegrounds.py:730
+#: templates/footer.html:85 web/views/battlegrounds.py:740
 msgid "Battlegrounds Quests"
 msgstr "Misiones de Campos de batalla"
 
-#: templates/footer.html:86 web/views/battlegrounds.py:605
+#: templates/footer.html:86 web/views/battlegrounds.py:608
 msgid "Battlegrounds Trinkets"
 msgstr "Abalorios de Campos de batalla"
 
-#: templates/footer.html:87 web/views/battlegrounds.py:782
+#: templates/footer.html:87 web/views/battlegrounds.py:792
 msgid "Battlegrounds Dark Gifts"
 msgstr "Regalos oscuros de Campos de batalla"
 
@@ -595,15 +595,15 @@ msgstr "Esta repetición ya no está disponible."
 msgid "Toggle navigation"
 msgstr "Cambiar el modo de navegación"
 
-#: templates/navigation.html:48 web/views/battlegrounds.py:167
-#: web/views/battlegrounds.py:392 web/views/battlegrounds.py:485
-#: web/views/battlegrounds.py:500 web/views/battlegrounds.py:612
-#: web/views/battlegrounds.py:681 web/views/battlegrounds.py:737
-#: web/views/battlegrounds.py:790 web/views/battlegrounds.py:800
-#: web/views/battlegrounds.py:816 web/views/battlegrounds.py:889
-#: web/views/battlegrounds.py:1047 web/views/battlegrounds.py:1096
-#: web/views/battlegrounds.py:1148 web/views/battlegrounds.py:1335
-#: web/views/battlegrounds.py:1874
+#: templates/navigation.html:48 web/views/battlegrounds.py:170
+#: web/views/battlegrounds.py:395 web/views/battlegrounds.py:488
+#: web/views/battlegrounds.py:503 web/views/battlegrounds.py:615
+#: web/views/battlegrounds.py:684 web/views/battlegrounds.py:747
+#: web/views/battlegrounds.py:800 web/views/battlegrounds.py:810
+#: web/views/battlegrounds.py:826 web/views/battlegrounds.py:899
+#: web/views/battlegrounds.py:1057 web/views/battlegrounds.py:1106
+#: web/views/battlegrounds.py:1158 web/views/battlegrounds.py:1345
+#: web/views/battlegrounds.py:1890
 msgid "Battlegrounds"
 msgstr "Campos de Batalla"
 
@@ -632,11 +632,11 @@ msgstr "Equipos"
 msgid "Downloads"
 msgstr "Descargas"
 
-#: templates/navigation.html:102 web/views/battlegrounds.py:168
+#: templates/navigation.html:102 web/views/battlegrounds.py:171
 msgid "Overlay"
 msgstr "Overlay"
 
-#: templates/navigation.html:113 web/views/battlegrounds.py:393
+#: templates/navigation.html:113 web/views/battlegrounds.py:396
 msgid "Tier7"
 msgstr "Tier7"
 
@@ -645,24 +645,24 @@ msgstr "Tier7"
 msgid "SALE!"
 msgstr "¡OFERTA!"
 
-#: templates/navigation.html:132 web/views/battlegrounds.py:501
-#: web/views/battlegrounds.py:1883
+#: templates/navigation.html:132 web/views/battlegrounds.py:504
+#: web/views/battlegrounds.py:1899
 msgid "Comps"
 msgstr "Compas"
 
-#: templates/navigation.html:144 web/views/battlegrounds.py:613
+#: templates/navigation.html:144 web/views/battlegrounds.py:616
 msgid "Trinkets"
 msgstr "Abalorios"
 
-#: templates/navigation.html:157 web/views/battlegrounds.py:1336
+#: templates/navigation.html:157 web/views/battlegrounds.py:1346
 msgid "Timewarp"
 msgstr "Cronoanomalía"
 
-#: templates/navigation.html:170 web/views/battlegrounds.py:817
+#: templates/navigation.html:170 web/views/battlegrounds.py:827
 msgid "Darkmoon Prizes"
 msgstr "Premios de la Luna Negra"
 
-#: templates/navigation.html:183 web/views/battlegrounds.py:738
+#: templates/navigation.html:183 web/views/battlegrounds.py:748
 msgid "Quests"
 msgstr "Misiones"
 
@@ -670,21 +670,21 @@ msgstr "Misiones"
 msgid "NEW"
 msgstr "NUEVO"
 
-#: templates/navigation.html:200 web/views/battlegrounds.py:791
+#: templates/navigation.html:200 web/views/battlegrounds.py:801
 msgid "Dark Gifts"
 msgstr "Regalos oscuros"
 
-#: templates/navigation.html:213 web/views/battlegrounds.py:682
+#: templates/navigation.html:213 web/views/battlegrounds.py:685
 msgid "Anomalies"
 msgstr "Anomalías"
 
-#: templates/navigation.html:224 web/views/battlegrounds.py:486
-#: web/views/battlegrounds.py:898
+#: templates/navigation.html:224 web/views/battlegrounds.py:489
+#: web/views/battlegrounds.py:908
 msgid "Heroes"
 msgstr "Héroes"
 
-#: templates/navigation.html:234 web/views/battlegrounds.py:1048
-#: web/views/battlegrounds.py:1107
+#: templates/navigation.html:234 web/views/battlegrounds.py:1058
+#: web/views/battlegrounds.py:1117
 msgid "Minions"
 msgstr "Esbirros"
 
@@ -1069,365 +1069,365 @@ msgstr ""
 msgid "Arenasmith - Draft Assistant for Hearthstone Arena"
 msgstr ""
 
-#: web/views/battlegrounds.py:103
+#: web/views/battlegrounds.py:106
 #, python-brace-format
 msgid "Season {number}"
 msgstr "Temporada {number}"
 
-#: web/views/battlegrounds.py:162
+#: web/views/battlegrounds.py:165
 msgid "Download Hearthstone Deck Tracker for Battlegrounds"
 msgstr "Descargar Hearthstone Deck Tracker para Battlegrounds"
 
-#: web/views/battlegrounds.py:179
+#: web/views/battlegrounds.py:182
 msgid "Is Hearthstone Deck Tracker free?"
 msgstr "¿Hearthstone Deck Tracker es gratis?"
 
-#: web/views/battlegrounds.py:181
+#: web/views/battlegrounds.py:184
 msgid "Yes, every Battlegrounds feature in the overlay is free and most have no limits. Tier7 features, which require our servers, can be used by anyone in two matches each week, for the entire match. Subscribers can use them in all their matches."
 msgstr "Sí, todas las funciones de Campos de batalla en el overlay son gratis y la mayoría no tienen límites. Las funciones de Tier7, que requieren nuestros servidores, pueden ser usadas por cualquiera en dos partidas por semana, durante toda la partida. Los suscriptores pueden usarlas en todas sus partidas."
 
-#: web/views/battlegrounds.py:188
+#: web/views/battlegrounds.py:191
 msgid "Is Hearthstone Deck Tracker safe to use? Will I get banned?"
 msgstr "¿Es seguro usar Hearthstone Deck Tracker? ¿Me pueden banear?"
 
-#: web/views/battlegrounds.py:190
+#: web/views/battlegrounds.py:193
 msgid "Hearthstone Deck Tracker is fully compliant with Blizzard's policies. It only reads publicly available game log files, it never injects code or modifies the game client. Over 20 million players have used it safely since 2015."
 msgstr "Hearthstone Deck Tracker cumple totalmente con las políticas de Blizzard. Solo lee archivos de registro del juego disponibles públicamente, nunca inyecta código ni modifica el cliente del juego. Más de 20 millones de jugadores lo han usado de forma segura desde 2015."
 
-#: web/views/battlegrounds.py:197
+#: web/views/battlegrounds.py:200
 msgid "What is Tier7?"
 msgstr "¿Qué es Tier7?"
 
-#: web/views/battlegrounds.py:199
+#: web/views/battlegrounds.py:202
 msgid "Tier7 is a set of free features in Hearthstone Deck Tracker that use our servers to show you lobby-specific data while you play which you can use a limited number of times each week. This includes hero picking stats tailored to your lobby, curated comp guides, first place stats, and more."
 msgstr "Tier7 es un conjunto de funciones gratis en Hearthstone Deck Tracker que usan nuestros servidores para mostrarte datos específicos de tu lobby mientras juegas, y que puedes usar un número limitado de veces cada semana. Esto incluye estadísticas de elección de héroes adaptadas a tu lobby, guías de composiciones seleccionadas, estadísticas de primeros lugares y más."
 
-#: web/views/battlegrounds.py:205
+#: web/views/battlegrounds.py:208
 msgid "Every player can use the Tier7 features in two matches each week, to limit the load on our servers. By supporting HSReplay.net with a subscription, you get to use it in all your matches!"
 msgstr "Cada jugador puede usar las funciones de Tier7 en dos partidas por semana, para limitar la carga en nuestros servidores. ¡Al apoyar a HSReplay.net con una suscripción, podrás usarlas en todas tus partidas!"
 
-#: web/views/battlegrounds.py:210
+#: web/views/battlegrounds.py:213
 msgid "Oh and: we named it before Hearthstone got a Tavern \"Tier 7\". We get the irony."
 msgstr "Ah, y: le pusimos ese nombre antes de que Hearthstone tuviera una Taberna \"Nivel 7\". Entendemos la ironía."
 
-#: web/views/battlegrounds.py:215
+#: web/views/battlegrounds.py:218
 msgid "Does Hearthstone Deck Tracker support Duos?"
 msgstr "¿Hearthstone Deck Tracker es compatible con Dúos?"
 
-#: web/views/battlegrounds.py:217
+#: web/views/battlegrounds.py:220
 msgid "Yes! Almost every single feature works in Battlegrounds Duos just like you'd expect. Bob's Buddy is optimized for Duos just like for Solos and the Tavern Browser shows Duos minions when you're playing that mode. The website also features Duos checkboxes on most pages, so you can browse Hero pick rates or the Duos minions right here."
 msgstr "¡Sí! Casi todas las funciones funcionan en Campos de batalla Dúos tal como lo esperarías. Bob's Buddy está optimizado para Dúos igual que para Solos, y el Explorador de taberna muestra los esbirros de Dúos cuando juegas ese modo. El sitio web también incluye casillas de Dúos en la mayoría de las páginas, así que puedes ver las tasas de elección de héroes o los esbirros de Dúos justo aquí."
 
-#: web/views/battlegrounds.py:225
+#: web/views/battlegrounds.py:228
 msgid "Do I need an account to use Hearthstone Deck Tracker?"
 msgstr "¿Necesito una cuenta para usar Hearthstone Deck Tracker?"
 
-#: web/views/battlegrounds.py:227
+#: web/views/battlegrounds.py:230
 msgid "No account is required! Simply download and install, the overlay will start working automatically when you launch it alongside Hearthstone."
 msgstr "¡No se requiere ninguna cuenta! Solo descárgalo e instálalo, y el overlay empezará a funcionar automáticamente cuando lo abras junto con Hearthstone."
 
-#: web/views/battlegrounds.py:233 web/views/battlegrounds.py:429
+#: web/views/battlegrounds.py:236 web/views/battlegrounds.py:432
 msgid "How often is the data updated?"
 msgstr "¿Con qué frecuencia se actualizan los datos?"
 
-#: web/views/battlegrounds.py:235
+#: web/views/battlegrounds.py:238
 msgid "Our meta statistics update every hour with the latest games. New patch data is typically available within 2 hours of release, so you always have current information."
 msgstr "Nuestras estadísticas del meta se actualizan cada hora con las partidas más recientes. Los datos de nuevos parches suelen estar disponibles en las 2 horas posteriores al lanzamiento, así que siempre tienes información actualizada."
 
-#: web/views/battlegrounds.py:241
+#: web/views/battlegrounds.py:244
 msgid "Can I use the overlay on Mac?"
 msgstr "¿Puedo usar el overlay en Mac?"
 
-#: web/views/battlegrounds.py:243
+#: web/views/battlegrounds.py:246
 msgid "Yes! HSTracker is our companion app for macOS with most of the features, including Tier7."
 msgstr "¡Sí! HSTracker es nuestra aplicación complementaria para macOS con la mayoría de las funciones, incluyendo Tier7."
 
-#: web/views/battlegrounds.py:248
+#: web/views/battlegrounds.py:251
 msgid "Do I need a powerful gaming PC to run Hearthstone Deck Tracker?"
 msgstr "¿Necesito una PC gamer potente para ejecutar Hearthstone Deck Tracker?"
 
-#: web/views/battlegrounds.py:250
+#: web/views/battlegrounds.py:253
 msgid "Not necessarily. We think Hearthstone Deck Tracker is the best choice for any PC: it takes advantage of extra performance headroom on powerful devices and especially in Battlegrounds, the overlay uses modern visuals. However, it's also fast and efficient on older devices."
 msgstr "No necesariamente. Creemos que Hearthstone Deck Tracker es la mejor opción para cualquier PC: aprovecha el margen de rendimiento extra en dispositivos potentes y, especialmente en Campos de batalla, el overlay usa gráficos modernos. Sin embargo, también es rápido y eficiente en dispositivos más antiguos."
 
-#: web/views/battlegrounds.py:257
+#: web/views/battlegrounds.py:260
 msgid "What makes Hearthstone Deck Tracker better than similar products?"
 msgstr "¿Qué hace que Hearthstone Deck Tracker sea mejor que productos similares?"
 
-#: web/views/battlegrounds.py:259
+#: web/views/battlegrounds.py:262
 msgid "Don't just ask us, try it out! Hearthstone Deck Tracker is a free, standalone download that we've been building in the open for over 10 years and does not contain any ads. It's run by a small team of independent developers and used by millions of players around the world, including most Battlegrounds streamers. We're pretty sure we have the most Battlegrounds data in the world, outside of Blizzard of course, and we make good use of it:"
 msgstr "¡No solo nos creas a nosotros, pruébalo! Hearthstone Deck Tracker es una descarga gratis e independiente que hemos estado desarrollando abiertamente por más de 10 años y no contiene anuncios. Está gestionado por un pequeño equipo de desarrolladores independientes y lo usan millones de jugadores en todo el mundo, incluyendo a la mayoría de los streamers de Campos de batalla. Estamos bastante seguros de tener la mayor cantidad de datos de Campos de batalla del mundo, aparte de Blizzard, por supuesto, y les damos buen uso:"
 
-#: web/views/battlegrounds.py:267
+#: web/views/battlegrounds.py:270
 msgid "Instead of delivering raw numbers from a database, we sanity-check our data, dynamically filter it to match your lobby, and use stochastic methods to predict what we don't have. We're obsessed with data, and hope it shows!"
 msgstr "En lugar de entregar números crudos de una base de datos, verificamos la coherencia de nuestros datos, los filtramos dinámicamente para que coincidan con tu lobby y usamos métodos estocásticos para predecir lo que no tenemos. ¡Estamos obsesionados con los datos, y esperamos que se note!"
 
-#: web/views/battlegrounds.py:272
+#: web/views/battlegrounds.py:275
 msgid "We've also spent an unreasonable amount of time integrating the overlay into the game the best way possible, getting out of your way when interacting with your friends list, the game menus or other critical game elements. This is something that no other tool does to the same degree."
 msgstr "También hemos dedicado una cantidad desmesurada de tiempo a integrar el overlay en el juego de la mejor manera posible, apartándonos de tu camino cuando interactúas con tu lista de amigos, los menús del juego u otros elementos críticos del juego. Esto es algo que ninguna otra herramienta hace al mismo nivel."
 
-#: web/views/battlegrounds.py:304
+#: web/views/battlegrounds.py:307
 msgid "Battleground Stats & Guides"
 msgstr "Estadísticas y guías de Campos de batalla"
 
-#: web/views/battlegrounds.py:306
+#: web/views/battlegrounds.py:309
 msgid "Master Hearthstone Battlegrounds with data-driven insights. Explore hero tier lists, winning compositions, minion stats, and more!"
 msgstr "Domina Campos de batalla de Hearthstone con información basada en datos. ¡Explora tier lists de héroes, composiciones ganadoras, estadísticas de esbirros y mucho más!"
 
-#: web/views/battlegrounds.py:382
+#: web/views/battlegrounds.py:385
 msgid "Level up your gameplay with Tier7's in-depth Battlegrounds statistics, including actionable information about the best heroes, compositions, minions, and more!"
 msgstr "¡Sube de nivel tu juego con las estadísticas más profundas de Campos de batalla con Tier7, incluyendo información útil sobre los mejores héroes, composiciones, esbirros y más!"
 
-#: web/views/battlegrounds.py:403
+#: web/views/battlegrounds.py:406
 msgid "What benefits do I get with a subscription?"
 msgstr "¿Qué beneficios obtengo con una suscripción?"
 
-#: web/views/battlegrounds.py:405
+#: web/views/battlegrounds.py:408
 msgid "As a subscriber, you can use Tier7 features in all the matches you play. This includes hero picking stats tailored to your lobby, curated comp guides, first place stats, and more. You also get exclusive access to global and personal stats on the website."
 msgstr "Como suscriptor, puedes usar las funciones de Tier7 en todas las partidas que juegues. Esto incluye estadísticas de elección de héroes adaptadas a tu lobby, guías de composiciones seleccionadas, estadísticas de primeros lugares y más. También obtienes acceso exclusivo a estadísticas globales y personales en el sitio web."
 
-#: web/views/battlegrounds.py:412
+#: web/views/battlegrounds.py:415
 msgid "Do I need to pay for Tier7?"
 msgstr "¿Tengo que pagar por Tier7?"
 
-#: web/views/battlegrounds.py:414
+#: web/views/battlegrounds.py:417
 msgid "No, all in-game Tier7 features are available for free twice a week simply by playing with Hearthstone Deck Tracker. If you need more, you can subscribe."
 msgstr "No, todas las funciones de Tier7 dentro del juego están disponibles gratis dos veces por semana con solo jugar con Hearthstone Deck Tracker. Si necesitas más, puedes suscribirte."
 
-#: web/views/battlegrounds.py:420
+#: web/views/battlegrounds.py:423
 msgid "Do I need the Hearthstone Deck Tracker for web features?"
 msgstr "¿Necesito Hearthstone Deck Tracker para las funciones web?"
 
-#: web/views/battlegrounds.py:422
+#: web/views/battlegrounds.py:425
 msgid "Not necessarily. The global stats on the website work independently, however personal stats are only available with games played with Hearthstone Deck Tracker. The lobby-specific features, like hero picking stats and first place stats, always require the deck tracker."
 msgstr "No necesariamente. Las estadísticas globales del sitio web funcionan de forma independiente, sin embargo, las estadísticas personales solo están disponibles con partidas jugadas con Hearthstone Deck Tracker. Las funciones específicas del lobby, como las estadísticas de elección de héroe y las de primer lugar, siempre requieren el deck tracker."
 
-#: web/views/battlegrounds.py:431
+#: web/views/battlegrounds.py:434
 msgid "Our meta statistics update every hour with the latest games. New patch data is typically available within 2 hours of release."
 msgstr "Nuestras estadísticas del meta se actualizan cada hora con las partidas más recientes. Los datos de un nuevo parche suelen estar disponibles dentro de las 2 horas posteriores a su lanzamiento."
 
-#: web/views/battlegrounds.py:436
+#: web/views/battlegrounds.py:439
 msgid "What MMR bracket should I be to benefit?"
 msgstr "¿En qué rango de MMR debo estar para beneficiarme?"
 
-#: web/views/battlegrounds.py:438
+#: web/views/battlegrounds.py:441
 msgid "Tier7 helps players at all skill levels. Whether you're climbing from 2k or pushing for top 200, our data ensures you get relevant information for you."
 msgstr "Tier7 ayuda a jugadores de todos los niveles de habilidad. Ya sea que estés escalando desde los 2k o buscando entrar al top 200, nuestros datos aseguran que obtengas información relevante para ti."
 
-#: web/views/battlegrounds.py:444
+#: web/views/battlegrounds.py:447
 msgid "Is my account data secure?"
 msgstr "¿Los datos de mi cuenta están seguros?"
 
-#: web/views/battlegrounds.py:446
+#: web/views/battlegrounds.py:449
 msgid "Absolutely. We use industry-standard encryption and never share your personal information. Your gameplay data is anonymized in our aggregated statistics."
 msgstr "Por supuesto. Usamos cifrado de estándar industrial y nunca compartimos tu información personal. Tus datos de juego se anonimizan en nuestras estadísticas agregadas."
 
-#: web/views/battlegrounds.py:452
+#: web/views/battlegrounds.py:455
 msgid "Can I cancel the subscription anytime?"
 msgstr "¿Puedo cancelar la suscripción en cualquier momento?"
 
-#: web/views/battlegrounds.py:454
+#: web/views/battlegrounds.py:457
 msgid "Yes! You can cancel your subscription at any time from your account settings. You'll continue to have access until the end of your billing period."
 msgstr "¡Sí! Puedes cancelar tu suscripción en cualquier momento desde la configuración de tu cuenta. Seguirás teniendo acceso hasta el final de tu periodo de facturación."
 
-#: web/views/battlegrounds.py:472
+#: web/views/battlegrounds.py:475
 msgid "HSReplay.net Tier7 for Battlegrounds"
 msgstr "HSReplay.net Nivel 7 para Campos de Batalla"
 
-#: web/views/battlegrounds.py:479
+#: web/views/battlegrounds.py:482
 msgid "Explore our Battlegrounds Hero Tier List and learn which hero is the best - powered by data from millions of games."
 msgstr "Explora nuestra Lista de Nivel de Héroes de los Campos de Batalla y aprende qué héroe es el mejor - alimentado por datos de millones de juegos."
 
-#: web/views/battlegrounds.py:494
+#: web/views/battlegrounds.py:497
 msgid "Explore our Comps Tier List and learn which comp is the best - powered by JeefHS, Top BGs player."
 msgstr "Explora nuestra lista de mejores Comps y aprende cual es el mejor - desarrollado por JeefHS, de los Mejores jugadores de Campos de Batalla."
 
-#: web/views/battlegrounds.py:509
+#: web/views/battlegrounds.py:512
 #, python-brace-format
 msgid "Battlegrounds Comps in Season {season}"
 msgstr ""
 
-#: web/views/battlegrounds.py:607
+#: web/views/battlegrounds.py:610
 msgid "Explore our Battlegrounds Trinkets Tier List and learn which trinket is the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:676
+#: web/views/battlegrounds.py:679
 msgid "Explore our Battlegrounds Anomalies List and learn which anomalies are more common - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:732
+#: web/views/battlegrounds.py:742
 msgid "Explore our Battlegrounds Quests List and learn which quests are the best - powered by data from millions of games."
 msgstr ""
 
-#: web/views/battlegrounds.py:784
+#: web/views/battlegrounds.py:794
 msgid "Explore our Battlegrounds Dark Gifts List and learn which Dark Gifts are available in Hearthstone Battlegrounds."
 msgstr ""
 
-#: web/views/battlegrounds.py:797
+#: web/views/battlegrounds.py:807
 msgid "Battlegrounds Duos Heroes"
 msgstr "Campos de batalla Héroes Duales"
 
-#: web/views/battlegrounds.py:801
+#: web/views/battlegrounds.py:811
 msgid "Duos Heroes"
 msgstr "Héroes Duales"
 
-#: web/views/battlegrounds.py:813
+#: web/views/battlegrounds.py:823
 msgid "Battlegrounds Darkmoon Prizes"
 msgstr "Premios de Luna Negra de Campos de batalla"
 
-#: web/views/battlegrounds.py:826
+#: web/views/battlegrounds.py:836
 msgid "Battlegrounds Hero"
 msgstr "Héroes de Campos de Batalla"
 
-#: web/views/battlegrounds.py:856
+#: web/views/battlegrounds.py:866
 msgid "No matching hero found."
 msgstr "Héroe no encontrado."
 
-#: web/views/battlegrounds.py:1035
+#: web/views/battlegrounds.py:1045
 msgid "Battlegrounds Duos Hero"
 msgstr "Campo de Batalla Héroes Duales"
 
-#: web/views/battlegrounds.py:1078
+#: web/views/battlegrounds.py:1088
 msgid "Beast"
 msgstr "Bestia"
 
-#: web/views/battlegrounds.py:1079
+#: web/views/battlegrounds.py:1089
 msgid "Demon"
 msgstr "Demonio"
 
-#: web/views/battlegrounds.py:1080
+#: web/views/battlegrounds.py:1090
 msgid "Dragon"
 msgstr "Dragón"
 
-#: web/views/battlegrounds.py:1081
+#: web/views/battlegrounds.py:1091
 msgid "Elemental"
 msgstr "Elemental"
 
-#: web/views/battlegrounds.py:1082
+#: web/views/battlegrounds.py:1092
 msgid "Mech"
 msgstr "Meca"
 
-#: web/views/battlegrounds.py:1083
+#: web/views/battlegrounds.py:1093
 msgid "Murloc"
 msgstr "Múrloc"
 
-#: web/views/battlegrounds.py:1084
+#: web/views/battlegrounds.py:1094
 msgid "Naga"
 msgstr "Naga"
 
-#: web/views/battlegrounds.py:1085
+#: web/views/battlegrounds.py:1095
 msgid "Pirate"
 msgstr "Pirata"
 
-#: web/views/battlegrounds.py:1086
+#: web/views/battlegrounds.py:1096
 msgid "Quilboar"
 msgstr "Jabaespín"
 
-#: web/views/battlegrounds.py:1087
+#: web/views/battlegrounds.py:1097
 msgid "Undead"
 msgstr "No-muerto"
 
-#: web/views/battlegrounds.py:1088
+#: web/views/battlegrounds.py:1098
 msgid "Aberration"
 msgstr ""
 
-#: web/views/battlegrounds.py:1093 web/views/battlegrounds.py:1175
+#: web/views/battlegrounds.py:1103 web/views/battlegrounds.py:1185
 msgid "Battlegrounds Duos Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:1097 web/views/battlegrounds.py:1173
+#: web/views/battlegrounds.py:1107 web/views/battlegrounds.py:1183
 msgid "Duos Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:1110
+#: web/views/battlegrounds.py:1120
 #, python-brace-format
 msgid "Battlegrounds {type} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:1111
+#: web/views/battlegrounds.py:1121
 #, python-brace-format
 msgid "Battlegrounds Tier {tier} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:1112
+#: web/views/battlegrounds.py:1122
 #, python-brace-format
 msgid "Battlegrounds Tier {tier} {type} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:1120
+#: web/views/battlegrounds.py:1130
 msgid "Invalid Tavern Tier."
 msgstr "Taberna no válida."
 
-#: web/views/battlegrounds.py:1126
+#: web/views/battlegrounds.py:1136
 msgid "No matching minion type found."
 msgstr "No se encontró el tipo de esbirro que coincida."
 
-#: web/views/battlegrounds.py:1176
+#: web/views/battlegrounds.py:1186
 #, python-brace-format
 msgid "Battlegrounds Duos {type} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:1177
+#: web/views/battlegrounds.py:1187
 #, python-brace-format
 msgid "Battlegrounds Duos Tier {tier} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:1178
+#: web/views/battlegrounds.py:1188
 #, python-brace-format
 msgid "Battlegrounds Duos Tier {tier} {type} Minions"
 msgstr ""
 
-#: web/views/battlegrounds.py:1198 web/views/battlegrounds.py:1236
+#: web/views/battlegrounds.py:1208 web/views/battlegrounds.py:1246
 msgid "Battlegrounds Minion"
 msgstr "Esbirros de Campos de Batalla"
 
-#: web/views/battlegrounds.py:1222
+#: web/views/battlegrounds.py:1232
 msgid "No matching minion found."
 msgstr "No se encontraron esbirros que coincidan."
 
-#: web/views/battlegrounds.py:1327
+#: web/views/battlegrounds.py:1337
 msgid "Battlegrounds Timewarped Cards"
 msgstr ""
 
-#: web/views/battlegrounds.py:1329
+#: web/views/battlegrounds.py:1339
 msgid "Explore the Minions, Spells & Hero Powers available in each of the Timewarped Tavern shops"
 msgstr ""
 
-#: web/views/battlegrounds.py:1690
+#: web/views/battlegrounds.py:1706
 msgid "Battlegrounds Compositions"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:1696 web/views/battlegrounds.py:1726
+#: web/views/battlegrounds.py:1712 web/views/battlegrounds.py:1742
 msgid "Battlegrounds Composition"
 msgstr "Composiciones de Campos de Batalla"
 
-#: web/views/battlegrounds.py:1719
+#: web/views/battlegrounds.py:1735
 msgid "No matching live or lingering composition found."
 msgstr "Ninguna composición en vivo se encontró."
 
-#: web/views/battlegrounds.py:1721
+#: web/views/battlegrounds.py:1737
 msgid "No matching composition found."
 msgstr "No se encontraron coincidencias."
 
-#: web/views/battlegrounds.py:1819
+#: web/views/battlegrounds.py:1835
 msgid "Battlegrounds Comp"
 msgstr "Compas de Campos de Batalla"
 
-#: web/views/battlegrounds.py:1838
+#: web/views/battlegrounds.py:1854
 msgid "No matching comp found."
 msgstr "No se encontró ningún compa coincidente."
 
-#: web/views/battlegrounds.py:1851
+#: web/views/battlegrounds.py:1867
 #, python-brace-format
 msgid "{tribe_name} - {obj.name}"
 msgstr ""
 
-#: web/views/battlegrounds.py:1858
+#: web/views/battlegrounds.py:1874
 #, python-brace-format
 msgid "Season {season} Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:1944
+#: web/views/battlegrounds.py:1960
 msgid "My Battlegrounds Stats"
 msgstr "Estadísticas de Mis Campos de Batalla"
 
