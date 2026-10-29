@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-29 01:40+0000\n"
-"PO-Revision-Date: 2026-10-29 03:40\n"
+"PO-Revision-Date: 2026-10-29 15:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1448,27 +1448,27 @@ msgstr "炉石传说拼装池"
 
 #: web/views/cards.py:242
 msgid "The cards offered when playing a Hearthstone Assemble card, how often their trigger or effect was picked, and how often the game was won afterwards."
-msgstr ""
+msgstr "使用炉石传说的拼装牌时出现的卡牌、其触发条件或效果被选择的频率，以及选择后获胜的频率。"
 
 #: web/views/cards.py:264
 #, python-brace-format
 msgid "Hearthstone {assemble} Assemble Pool: {middle}"
-msgstr ""
+msgstr "炉石传说{assemble}拼装池：{middle}"
 
 #: web/views/cards.py:270
 #, python-brace-format
 msgid "The cards offered with {middle} when playing {assemble} in Hearthstone, how often their trigger or effect was picked, and how often the game was won afterwards."
-msgstr ""
+msgstr "在炉石传说中使用{assemble}时与{middle}一同出现的卡牌、其触发条件或效果被选择的频率，以及选择后获胜的频率。"
 
 #: web/views/cards.py:279
 #, python-brace-format
 msgid "Hearthstone {assemble} Assemble Pool"
-msgstr ""
+msgstr "炉石传说{assemble}拼装池"
 
 #: web/views/cards.py:284
 #, python-brace-format
 msgid "Every card {assemble} offers in Hearthstone, the cards offered with each, how often their trigger or effect was picked, and how often the game was won afterwards."
-msgstr ""
+msgstr "炉石传说中{assemble}提供的所有卡牌、与每张牌一同出现的卡牌、其触发条件或效果被选择的频率，以及选择后获胜的频率。"
 
 #: web/views/cards.py:330
 #, python-brace-format

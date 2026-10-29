@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-10-29 01:40+0000\n"
-"PO-Revision-Date: 2026-10-29 03:40\n"
+"PO-Revision-Date: 2026-10-29 15:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -325,7 +325,7 @@ msgstr "Benachrichtigungseinstellungen"
 
 #: templates/account/email_change.html:77
 msgid "Control which types of emails you want receive from us:"
-msgstr "Konfiguriere, welche Arten von E-Mails du von uns erhalten möchtest:"
+msgstr "Lege fest, welche Arten von E-Mails du von uns erhalten möchtest:"
 
 #: templates/account/email_change.html:83
 msgid "Account & security (required)"
@@ -371,7 +371,7 @@ msgstr "Passwort zurücksetzen"
 
 #: templates/account/password_reset.html:13
 msgid "Forgot your password? Enter your email below, we'll send you a link to reset it."
-msgstr "Du hast dein Passwort vergessen? Gib unten deine E-Mail-Adresse an, und wir senden dir einen Link zum Zurücksetzen."
+msgstr "Passwort vergessen? Gib unten deine E-Mail-Adresse an und wir senden dir einen Link zum Zurücksetzen zu."
 
 #: templates/account/password_reset.html:19
 msgid "Reset password"
@@ -414,7 +414,7 @@ msgstr "Registrieren"
 
 #: templates/account/signup.html:17 templates/socialaccount/signup.html:14
 msgid "You are about to create a new HSReplay.net account. Please enter and confirm your details below:"
-msgstr "Du bist dabei, ein neues HSReplay.net-Konto anzulegen. Bitte bestätige und gib deine Daten unten ein:"
+msgstr "Du bist dabei, ein neues HSReplay.net-Konto anzulegen. Bitte gib deine Daten unten ein und bestätige sie:"
 
 #: templates/account/signup.html:27 templates/socialaccount/signup.html:20
 msgid "Email address"
