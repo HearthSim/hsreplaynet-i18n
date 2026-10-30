@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-29 01:40+0000\n"
-"PO-Revision-Date: 2026-10-29 03:40\n"
+"POT-Creation-Date: 2026-10-30 01:40+0000\n"
+"PO-Revision-Date: 2026-10-30 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -410,8 +410,8 @@ msgstr ""
 msgid "Email address"
 msgstr "メールアドレス"
 
-#: templates/account/signup.html:30 templates/socialaccount/signup.html:28
-msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
+#: templates/account/signup.html:30
+msgid "Used for account and billing purposes and for optional product updates. Email verification is required."
 msgstr ""
 
 #: templates/account/signup.html:38
@@ -697,12 +697,12 @@ msgstr "カード"
 msgid "Arena"
 msgstr "闘技場"
 
-#: templates/navigation.html:339
+#: templates/navigation.html:341
 #, python-format
 msgid "View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
 msgstr ""
 
-#: templates/navigation.html:353
+#: templates/navigation.html:355
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
@@ -767,6 +767,10 @@ msgstr ""
 msgid "You currently have no social network accounts connected to this account."
 msgstr ""
 
+#: templates/socialaccount/signup.html:28
+msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
+msgstr ""
+
 #: templates/socialaccount/signup.html:42
 msgid "I want to receive product updates by email."
 msgstr ""
@@ -816,11 +820,11 @@ msgstr ""
 msgid "You cannot remove the last account you can sign in with. Instead, you can delete your HSReplay.net account entirely."
 msgstr ""
 
-#: web/structured_data.py:39
+#: web/structured_data.py:69
 msgid "The best ranked Hearthstone Battlegrounds player and streamer, writing the HSReplay.net comp and hero guides every patch"
 msgstr ""
 
-#: web/structured_data.py:43
+#: web/structured_data.py:73
 msgid "Five #1 finishes on the Battlegrounds Leaderboard (Americas)"
 msgstr ""
 

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-29 01:40+0000\n"
-"PO-Revision-Date: 2026-10-29 15:40\n"
+"POT-Creation-Date: 2026-10-30 01:40+0000\n"
+"PO-Revision-Date: 2026-10-30 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -422,9 +422,9 @@ msgstr "您将要创建一个新的HSReplay.net账号。请输入并检查下列
 msgid "Email address"
 msgstr "电子邮箱地址"
 
-#: templates/account/signup.html:30 templates/socialaccount/signup.html:28
-msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
-msgstr "用于账户与付款，以及可选的产品消息。需要接收验证邮件。"
+#: templates/account/signup.html:30
+msgid "Used for account and billing purposes and for optional product updates. Email verification is required."
+msgstr "用于账号与付款，以及可选的产品消息。需要接收验证邮件。"
 
 #: templates/account/signup.html:38
 msgid "Don't use the same password for multiple accounts."
@@ -709,12 +709,12 @@ msgstr "卡牌"
 msgid "Arena"
 msgstr "竞技模式"
 
-#: templates/navigation.html:339
+#: templates/navigation.html:341
 #, python-format
 msgid "View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
 msgstr "查看下一个炉石传说扩展包的最新卡牌发布：%(spoiler_set)s "
 
-#: templates/navigation.html:353
+#: templates/navigation.html:355
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "我们正在根据最新酒馆战棋补丁更新此页面。您可能会暂时看到缺失和过期的信息。"
 
@@ -779,6 +779,10 @@ msgstr "以下社交账号与您的 HSReplay.net 账号相连。您可以使用�
 msgid "You currently have no social network accounts connected to this account."
 msgstr "您目前尚未将此账户与任何社交账号绑定。"
 
+#: templates/socialaccount/signup.html:28
+msgid "Used for account and billing purposes and for optional product updates. Email confirmation is required."
+msgstr "用于账户与付款，以及可选的产品消息。需要接收验证邮件。"
+
 #: templates/socialaccount/signup.html:42
 msgid "I want to receive product updates by email."
 msgstr "我想要用邮件接收产品消息"
@@ -828,11 +832,11 @@ msgstr "无法再添加新的终端。目前我们仍继续为现存webhooks提�
 msgid "You cannot remove the last account you can sign in with. Instead, you can delete your HSReplay.net account entirely."
 msgstr "您不能删除您登录的最后一个帐户。相反，您可以完全删除您的 HSReplay.net 帐户。"
 
-#: web/structured_data.py:39
+#: web/structured_data.py:69
 msgid "The best ranked Hearthstone Battlegrounds player and streamer, writing the HSReplay.net comp and hero guides every patch"
 msgstr "炉石传说酒馆战棋排名最高的选手兼主播，每个补丁都会撰写 HSReplay.net 的流派与英雄指南"
 
-#: web/structured_data.py:43
+#: web/structured_data.py:73
 msgid "Five #1 finishes on the Battlegrounds Leaderboard (Americas)"
 msgstr "酒馆战棋排行榜（美服）五次结算登顶"
 
