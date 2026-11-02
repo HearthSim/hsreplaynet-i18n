@@ -117,8 +117,7 @@ def main():
 			continue
 
 		entry = ElementTree.SubElement(body, "conceptEntry", {"id": key})
-		definition = ElementTree.SubElement(entry, "descrip", {"type": "definition"})
-		definition.text = key
+		ElementTree.SubElement(entry, "note").text = key
 
 		for locale, language in CROWDIN_LANGUAGES.items():
 			text = strings[locale].get(key)
