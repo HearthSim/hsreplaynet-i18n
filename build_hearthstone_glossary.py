@@ -103,28 +103,33 @@ def main():
 		for locale in CROWDIN_LANGUAGES
 	}
 
-	martif = ElementTree.Element("martif", {"type": "TBX", "xml:lang": "en"})
-	ElementTree.SubElement(martif, "martifHeader")
-	body = ElementTree.SubElement(ElementTree.SubElement(martif, "text"), "body")
+	tbx = ElementTree.Element("tbx", {
+		"type": "TBX-Basic",
+		"style": "dca",
+		"xml:lang": "en",
+		"xmlns": "urn:iso:std:iso:30042:ed-2",
+	})
+	ElementTree.SubElement(tbx, "tbxHeader")
+	body = ElementTree.SubElement(ElementTree.SubElement(tbx, "text"), "body")
 
 	for key, source in sorted(strings["enUS"].items()):
 		if not is_glossary_term(key, source):
 			continue
 
-		entry = ElementTree.SubElement(body, "termEntry", {"id": key})
-		note = ElementTree.SubElement(entry, "descrip", {"type": "definition"})
-		note.text = key
+		entry = ElementTree.SubElement(body, "conceptEntry", {"id": key})
+		definition = ElementTree.SubElement(entry, "descrip", {"type": "definition"})
+		definition.text = key
 
 		for locale, language in CROWDIN_LANGUAGES.items():
 			text = strings[locale].get(key)
 			if not text:
 				continue
-			lang_set = ElementTree.SubElement(entry, "langSet", {"xml:lang": language})
-			tig = ElementTree.SubElement(lang_set, "tig")
-			ElementTree.SubElement(tig, "term").text = text
+			lang_sec = ElementTree.SubElement(entry, "langSec", {"xml:lang": language})
+			term_sec = ElementTree.SubElement(lang_sec, "termSec")
+			ElementTree.SubElement(term_sec, "term").text = text
 
-	ElementTree.indent(martif, space="\t")
-	ElementTree.ElementTree(martif).write(
+	ElementTree.indent(tbx, space="\t")
+	ElementTree.ElementTree(tbx).write(
 		output_path, encoding="utf-8", xml_declaration=True
 	)
 	print(f"Written {output_path}")
