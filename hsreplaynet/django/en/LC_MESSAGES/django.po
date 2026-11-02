@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-30 01:40+0000\n"
+"POT-Creation-Date: 2026-11-02 08:24+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -120,6 +120,50 @@ msgstr ""
 
 #: api/views/accounts.py:432
 msgid "Code has been applied to your account."
+msgstr ""
+
+#: battlegrounds/models.py:197
+msgid "Beasts"
+msgstr ""
+
+#: battlegrounds/models.py:198
+msgid "Dragons"
+msgstr ""
+
+#: battlegrounds/models.py:199
+msgid "Demons"
+msgstr ""
+
+#: battlegrounds/models.py:200
+msgid "Elementals"
+msgstr ""
+
+#: battlegrounds/models.py:201
+msgid "Mechs"
+msgstr ""
+
+#: battlegrounds/models.py:202
+msgid "Murlocs"
+msgstr ""
+
+#: battlegrounds/models.py:203
+msgid "Nagas"
+msgstr ""
+
+#: battlegrounds/models.py:204
+msgid "Pirates"
+msgstr ""
+
+#: battlegrounds/models.py:205 web/views/battlegrounds.py:1086
+msgid "Quilboar"
+msgstr ""
+
+#: battlegrounds/models.py:206 web/views/battlegrounds.py:1087
+msgid "Undead"
+msgstr ""
+
+#: battlegrounds/models.py:207
+msgid "Aberrations"
 msgstr ""
 
 #: settings.py:495
@@ -1516,14 +1560,6 @@ msgstr ""
 
 #: web/views/battlegrounds.py:1085
 msgid "Pirate"
-msgstr ""
-
-#: web/views/battlegrounds.py:1086
-msgid "Quilboar"
-msgstr ""
-
-#: web/views/battlegrounds.py:1087
-msgid "Undead"
 msgstr ""
 
 #: web/views/battlegrounds.py:1088
