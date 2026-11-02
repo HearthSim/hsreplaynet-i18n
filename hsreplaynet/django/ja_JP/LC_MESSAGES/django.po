@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-30 01:40+0000\n"
-"PO-Revision-Date: 2026-10-31 03:40\n"
+"POT-Creation-Date: 2026-11-02 08:24+0000\n"
+"PO-Revision-Date: 2026-11-02 08:36\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -112,6 +112,50 @@ msgstr ""
 #: api/views/accounts.py:432
 msgid "Code has been applied to your account."
 msgstr "コードが適用されています。"
+
+#: battlegrounds/models.py:197
+msgid "Beasts"
+msgstr "獣"
+
+#: battlegrounds/models.py:198
+msgid "Dragons"
+msgstr "ドラゴン"
+
+#: battlegrounds/models.py:199
+msgid "Demons"
+msgstr "悪魔"
+
+#: battlegrounds/models.py:200
+msgid "Elementals"
+msgstr "エレメンタル"
+
+#: battlegrounds/models.py:201
+msgid "Mechs"
+msgstr "メカ"
+
+#: battlegrounds/models.py:202
+msgid "Murlocs"
+msgstr "マーロック"
+
+#: battlegrounds/models.py:203
+msgid "Nagas"
+msgstr "ナーガ"
+
+#: battlegrounds/models.py:204
+msgid "Pirates"
+msgstr "海賊"
+
+#: battlegrounds/models.py:205 web/views/battlegrounds.py:1086
+msgid "Quilboar"
+msgstr "キルボア"
+
+#: battlegrounds/models.py:206 web/views/battlegrounds.py:1087
+msgid "Undead"
+msgstr "アンデッド"
+
+#: battlegrounds/models.py:207
+msgid "Aberrations"
+msgstr "異形"
 
 #: settings.py:495
 msgid "Full access to your HSReplay.net account"
@@ -1305,14 +1349,6 @@ msgstr "ナーガ"
 #: web/views/battlegrounds.py:1085
 msgid "Pirate"
 msgstr "海賊"
-
-#: web/views/battlegrounds.py:1086
-msgid "Quilboar"
-msgstr "キルボア"
-
-#: web/views/battlegrounds.py:1087
-msgid "Undead"
-msgstr "アンデッド"
 
 #: web/views/battlegrounds.py:1088
 msgid "Aberration"

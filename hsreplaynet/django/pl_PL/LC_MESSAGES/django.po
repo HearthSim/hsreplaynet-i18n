@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-30 01:40+0000\n"
-"PO-Revision-Date: 2026-10-31 03:40\n"
+"POT-Creation-Date: 2026-11-02 08:24+0000\n"
+"PO-Revision-Date: 2026-11-02 08:36\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -112,6 +112,50 @@ msgstr ""
 #: api/views/accounts.py:432
 msgid "Code has been applied to your account."
 msgstr "Kod został zastosowany na twoim koncie."
+
+#: battlegrounds/models.py:197
+msgid "Beasts"
+msgstr "Bestie"
+
+#: battlegrounds/models.py:198
+msgid "Dragons"
+msgstr "Smoki"
+
+#: battlegrounds/models.py:199
+msgid "Demons"
+msgstr "Demony"
+
+#: battlegrounds/models.py:200
+msgid "Elementals"
+msgstr "Żywiołaki"
+
+#: battlegrounds/models.py:201
+msgid "Mechs"
+msgstr "Mechy"
+
+#: battlegrounds/models.py:202
+msgid "Murlocs"
+msgstr "Murloki"
+
+#: battlegrounds/models.py:203
+msgid "Nagas"
+msgstr "Nagi"
+
+#: battlegrounds/models.py:204
+msgid "Pirates"
+msgstr "Piraci"
+
+#: battlegrounds/models.py:205 web/views/battlegrounds.py:1086
+msgid "Quilboar"
+msgstr "Kolcozwierz"
+
+#: battlegrounds/models.py:206 web/views/battlegrounds.py:1087
+msgid "Undead"
+msgstr "Nieumarły"
+
+#: battlegrounds/models.py:207
+msgid "Aberrations"
+msgstr "Aberracje"
 
 #: settings.py:495
 msgid "Full access to your HSReplay.net account"
@@ -1305,14 +1349,6 @@ msgstr "Naga"
 #: web/views/battlegrounds.py:1085
 msgid "Pirate"
 msgstr "Pirat"
-
-#: web/views/battlegrounds.py:1086
-msgid "Quilboar"
-msgstr "Kolcozwierz"
-
-#: web/views/battlegrounds.py:1087
-msgid "Undead"
-msgstr "Nieumarły"
 
 #: web/views/battlegrounds.py:1088
 msgid "Aberration"

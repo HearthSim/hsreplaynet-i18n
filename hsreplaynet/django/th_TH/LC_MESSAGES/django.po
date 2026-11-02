@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-30 01:40+0000\n"
-"PO-Revision-Date: 2026-10-31 03:40\n"
+"POT-Creation-Date: 2026-11-02 08:24+0000\n"
+"PO-Revision-Date: 2026-11-02 08:36\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -112,6 +112,50 @@ msgstr ""
 #: api/views/accounts.py:432
 msgid "Code has been applied to your account."
 msgstr ""
+
+#: battlegrounds/models.py:197
+msgid "Beasts"
+msgstr "สัตว์"
+
+#: battlegrounds/models.py:198
+msgid "Dragons"
+msgstr "มังกร"
+
+#: battlegrounds/models.py:199
+msgid "Demons"
+msgstr "ปีศาจ"
+
+#: battlegrounds/models.py:200
+msgid "Elementals"
+msgstr "วิญญาณธาตุ"
+
+#: battlegrounds/models.py:201
+msgid "Mechs"
+msgstr "เครื่องจักร"
+
+#: battlegrounds/models.py:202
+msgid "Murlocs"
+msgstr "เมอร์ล็อค"
+
+#: battlegrounds/models.py:203
+msgid "Nagas"
+msgstr "นากา"
+
+#: battlegrounds/models.py:204
+msgid "Pirates"
+msgstr "โจรสลัด"
+
+#: battlegrounds/models.py:205 web/views/battlegrounds.py:1086
+msgid "Quilboar"
+msgstr "ควิลบอร์"
+
+#: battlegrounds/models.py:206 web/views/battlegrounds.py:1087
+msgid "Undead"
+msgstr "อันเดด"
+
+#: battlegrounds/models.py:207
+msgid "Aberrations"
+msgstr "อสูรวิปริต"
 
 #: settings.py:495
 msgid "Full access to your HSReplay.net account"
@@ -1305,14 +1349,6 @@ msgstr "นากา"
 #: web/views/battlegrounds.py:1085
 msgid "Pirate"
 msgstr "โจรสลัด"
-
-#: web/views/battlegrounds.py:1086
-msgid "Quilboar"
-msgstr "ควิลบอร์"
-
-#: web/views/battlegrounds.py:1087
-msgid "Undead"
-msgstr "อันเดด"
 
 #: web/views/battlegrounds.py:1088
 msgid "Aberration"

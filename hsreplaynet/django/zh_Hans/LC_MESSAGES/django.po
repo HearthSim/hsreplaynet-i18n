@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-30 01:40+0000\n"
-"PO-Revision-Date: 2026-10-30 03:40\n"
+"POT-Creation-Date: 2026-11-02 08:24+0000\n"
+"PO-Revision-Date: 2026-11-02 08:36\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -112,6 +112,50 @@ msgstr "您已经将此激活码应用到您的账号。"
 #: api/views/accounts.py:432
 msgid "Code has been applied to your account."
 msgstr "激活码使用成功。"
+
+#: battlegrounds/models.py:197
+msgid "Beasts"
+msgstr "野兽"
+
+#: battlegrounds/models.py:198
+msgid "Dragons"
+msgstr "龙"
+
+#: battlegrounds/models.py:199
+msgid "Demons"
+msgstr "恶魔"
+
+#: battlegrounds/models.py:200
+msgid "Elementals"
+msgstr "元素"
+
+#: battlegrounds/models.py:201
+msgid "Mechs"
+msgstr "机械"
+
+#: battlegrounds/models.py:202
+msgid "Murlocs"
+msgstr "鱼人"
+
+#: battlegrounds/models.py:203
+msgid "Nagas"
+msgstr "纳迦"
+
+#: battlegrounds/models.py:204
+msgid "Pirates"
+msgstr "海盗"
+
+#: battlegrounds/models.py:205 web/views/battlegrounds.py:1086
+msgid "Quilboar"
+msgstr "野猪人"
+
+#: battlegrounds/models.py:206 web/views/battlegrounds.py:1087
+msgid "Undead"
+msgstr "亡灵"
+
+#: battlegrounds/models.py:207
+msgid "Aberrations"
+msgstr "畸变怪"
 
 #: settings.py:495
 msgid "Full access to your HSReplay.net account"
@@ -1317,14 +1361,6 @@ msgstr "纳迦"
 #: web/views/battlegrounds.py:1085
 msgid "Pirate"
 msgstr "海盗"
-
-#: web/views/battlegrounds.py:1086
-msgid "Quilboar"
-msgstr "野猪人"
-
-#: web/views/battlegrounds.py:1087
-msgid "Undead"
-msgstr "亡灵"
 
 #: web/views/battlegrounds.py:1088
 msgid "Aberration"
