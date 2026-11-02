@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-02 09:05+0000\n"
+"POT-Creation-Date: 2026-11-02 09:22+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -122,58 +122,58 @@ msgstr ""
 msgid "Code has been applied to your account."
 msgstr ""
 
-#. Translators: plural Battlegrounds minion type
-#: battlegrounds/models.py:198
+#: battlegrounds/models.py:200
+msgctxt "plural Battlegrounds minion type"
 msgid "Beasts"
 msgstr ""
 
-#. Translators: plural Battlegrounds minion type
-#: battlegrounds/models.py:200
+#: battlegrounds/models.py:201
+msgctxt "plural Battlegrounds minion type"
 msgid "Dragons"
 msgstr ""
 
-#. Translators: plural Battlegrounds minion type
 #: battlegrounds/models.py:202
+msgctxt "plural Battlegrounds minion type"
 msgid "Demons"
 msgstr ""
 
-#. Translators: plural Battlegrounds minion type
-#: battlegrounds/models.py:204
+#: battlegrounds/models.py:203
+msgctxt "plural Battlegrounds minion type"
 msgid "Elementals"
 msgstr ""
 
-#. Translators: plural Battlegrounds minion type
-#: battlegrounds/models.py:206
+#: battlegrounds/models.py:204
+msgctxt "plural Battlegrounds minion type"
 msgid "Mechs"
 msgstr ""
 
-#. Translators: plural Battlegrounds minion type
-#: battlegrounds/models.py:208
+#: battlegrounds/models.py:205
+msgctxt "plural Battlegrounds minion type"
 msgid "Murlocs"
 msgstr ""
 
-#. Translators: plural Battlegrounds minion type
-#: battlegrounds/models.py:210 web/views/battlegrounds.py:1084
+#: battlegrounds/models.py:206
+msgctxt "plural Battlegrounds minion type"
 msgid "Naga"
 msgstr ""
 
-#. Translators: plural Battlegrounds minion type
-#: battlegrounds/models.py:212
+#: battlegrounds/models.py:207
+msgctxt "plural Battlegrounds minion type"
 msgid "Pirates"
 msgstr ""
 
-#. Translators: plural Battlegrounds minion type
-#: battlegrounds/models.py:214 web/views/battlegrounds.py:1086
+#: battlegrounds/models.py:208
+msgctxt "plural Battlegrounds minion type"
 msgid "Quilboar"
 msgstr ""
 
-#. Translators: plural Battlegrounds minion type
-#: battlegrounds/models.py:216 web/views/battlegrounds.py:1087
+#: battlegrounds/models.py:209
+msgctxt "plural Battlegrounds minion type"
 msgid "Undead"
 msgstr ""
 
-#. Translators: plural Battlegrounds minion type
-#: battlegrounds/models.py:218
+#: battlegrounds/models.py:210
+msgctxt "plural Battlegrounds minion type"
 msgid "Aberrations"
 msgstr ""
 
@@ -1565,8 +1565,20 @@ msgstr ""
 msgid "Murloc"
 msgstr ""
 
+#: web/views/battlegrounds.py:1084
+msgid "Naga"
+msgstr ""
+
 #: web/views/battlegrounds.py:1085
 msgid "Pirate"
+msgstr ""
+
+#: web/views/battlegrounds.py:1086
+msgid "Quilboar"
+msgstr ""
+
+#: web/views/battlegrounds.py:1087
+msgid "Undead"
 msgstr ""
 
 #: web/views/battlegrounds.py:1088
