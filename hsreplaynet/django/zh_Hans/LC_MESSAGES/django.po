@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-02 08:24+0000\n"
-"PO-Revision-Date: 2026-11-02 08:36\n"
+"POT-Creation-Date: 2026-11-02 09:22+0000\n"
+"PO-Revision-Date: 2026-11-02 09:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -113,47 +113,58 @@ msgstr "您已经将此激活码应用到您的账号。"
 msgid "Code has been applied to your account."
 msgstr "激活码使用成功。"
 
-#: battlegrounds/models.py:197
+#: battlegrounds/models.py:200
+msgctxt "plural Battlegrounds minion type"
 msgid "Beasts"
 msgstr "野兽"
 
-#: battlegrounds/models.py:198
+#: battlegrounds/models.py:201
+msgctxt "plural Battlegrounds minion type"
 msgid "Dragons"
 msgstr "龙"
 
-#: battlegrounds/models.py:199
+#: battlegrounds/models.py:202
+msgctxt "plural Battlegrounds minion type"
 msgid "Demons"
 msgstr "恶魔"
 
-#: battlegrounds/models.py:200
+#: battlegrounds/models.py:203
+msgctxt "plural Battlegrounds minion type"
 msgid "Elementals"
 msgstr "元素"
 
-#: battlegrounds/models.py:201
+#: battlegrounds/models.py:204
+msgctxt "plural Battlegrounds minion type"
 msgid "Mechs"
 msgstr "机械"
 
-#: battlegrounds/models.py:202
+#: battlegrounds/models.py:205
+msgctxt "plural Battlegrounds minion type"
 msgid "Murlocs"
 msgstr "鱼人"
 
-#: battlegrounds/models.py:203
-msgid "Nagas"
+#: battlegrounds/models.py:206
+msgctxt "plural Battlegrounds minion type"
+msgid "Naga"
 msgstr "纳迦"
 
-#: battlegrounds/models.py:204
+#: battlegrounds/models.py:207
+msgctxt "plural Battlegrounds minion type"
 msgid "Pirates"
 msgstr "海盗"
 
-#: battlegrounds/models.py:205 web/views/battlegrounds.py:1086
+#: battlegrounds/models.py:208
+msgctxt "plural Battlegrounds minion type"
 msgid "Quilboar"
 msgstr "野猪人"
 
-#: battlegrounds/models.py:206 web/views/battlegrounds.py:1087
+#: battlegrounds/models.py:209
+msgctxt "plural Battlegrounds minion type"
 msgid "Undead"
 msgstr "亡灵"
 
-#: battlegrounds/models.py:207
+#: battlegrounds/models.py:210
+msgctxt "plural Battlegrounds minion type"
 msgid "Aberrations"
 msgstr "畸变怪"
 
@@ -1362,6 +1373,14 @@ msgstr "纳迦"
 msgid "Pirate"
 msgstr "海盗"
 
+#: web/views/battlegrounds.py:1086
+msgid "Quilboar"
+msgstr "野猪人"
+
+#: web/views/battlegrounds.py:1087
+msgid "Undead"
+msgstr "亡灵"
+
 #: web/views/battlegrounds.py:1088
 msgid "Aberration"
 msgstr "畸变怪"
@@ -1457,7 +1476,7 @@ msgstr "未找到匹配的流派。"
 msgid "Season {season} Battlegrounds Comp"
 msgstr "第{season}赛季的酒馆战棋流派"
 
-#: web/views/battlegrounds.py:1939
+#: web/views/battlegrounds.py:1941
 msgid "My Battlegrounds Stats"
 msgstr "我的酒馆战棋数据"
 

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-02 08:24+0000\n"
-"PO-Revision-Date: 2026-11-02 08:36\n"
+"POT-Creation-Date: 2026-11-02 09:22+0000\n"
+"PO-Revision-Date: 2026-11-02 09:40\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -113,47 +113,58 @@ msgstr ""
 msgid "Code has been applied to your account."
 msgstr "コードが適用されています。"
 
-#: battlegrounds/models.py:197
+#: battlegrounds/models.py:200
+msgctxt "plural Battlegrounds minion type"
 msgid "Beasts"
 msgstr "獣"
 
-#: battlegrounds/models.py:198
+#: battlegrounds/models.py:201
+msgctxt "plural Battlegrounds minion type"
 msgid "Dragons"
 msgstr "ドラゴン"
 
-#: battlegrounds/models.py:199
+#: battlegrounds/models.py:202
+msgctxt "plural Battlegrounds minion type"
 msgid "Demons"
 msgstr "悪魔"
 
-#: battlegrounds/models.py:200
+#: battlegrounds/models.py:203
+msgctxt "plural Battlegrounds minion type"
 msgid "Elementals"
 msgstr "エレメンタル"
 
-#: battlegrounds/models.py:201
+#: battlegrounds/models.py:204
+msgctxt "plural Battlegrounds minion type"
 msgid "Mechs"
 msgstr "メカ"
 
-#: battlegrounds/models.py:202
+#: battlegrounds/models.py:205
+msgctxt "plural Battlegrounds minion type"
 msgid "Murlocs"
 msgstr "マーロック"
 
-#: battlegrounds/models.py:203
-msgid "Nagas"
+#: battlegrounds/models.py:206
+msgctxt "plural Battlegrounds minion type"
+msgid "Naga"
 msgstr "ナーガ"
 
-#: battlegrounds/models.py:204
+#: battlegrounds/models.py:207
+msgctxt "plural Battlegrounds minion type"
 msgid "Pirates"
 msgstr "海賊"
 
-#: battlegrounds/models.py:205 web/views/battlegrounds.py:1086
+#: battlegrounds/models.py:208
+msgctxt "plural Battlegrounds minion type"
 msgid "Quilboar"
 msgstr "キルボア"
 
-#: battlegrounds/models.py:206 web/views/battlegrounds.py:1087
+#: battlegrounds/models.py:209
+msgctxt "plural Battlegrounds minion type"
 msgid "Undead"
 msgstr "アンデッド"
 
-#: battlegrounds/models.py:207
+#: battlegrounds/models.py:210
+msgctxt "plural Battlegrounds minion type"
 msgid "Aberrations"
 msgstr "異形"
 
@@ -1350,6 +1361,14 @@ msgstr "ナーガ"
 msgid "Pirate"
 msgstr "海賊"
 
+#: web/views/battlegrounds.py:1086
+msgid "Quilboar"
+msgstr "キルボア"
+
+#: web/views/battlegrounds.py:1087
+msgid "Undead"
+msgstr "アンデッド"
+
 #: web/views/battlegrounds.py:1088
 msgid "Aberration"
 msgstr "異形"
@@ -1445,7 +1464,7 @@ msgstr ""
 msgid "Season {season} Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:1939
+#: web/views/battlegrounds.py:1941
 msgid "My Battlegrounds Stats"
 msgstr ""
 

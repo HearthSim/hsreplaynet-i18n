@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-02 08:24+0000\n"
-"PO-Revision-Date: 2026-11-02 08:36\n"
+"POT-Creation-Date: 2026-11-02 09:22+0000\n"
+"PO-Revision-Date: 2026-11-02 09:40\n"
 "Last-Translator: \n"
 "Language-Team: Thai\n"
 "Language: th_TH\n"
@@ -113,47 +113,58 @@ msgstr ""
 msgid "Code has been applied to your account."
 msgstr ""
 
-#: battlegrounds/models.py:197
+#: battlegrounds/models.py:200
+msgctxt "plural Battlegrounds minion type"
 msgid "Beasts"
 msgstr "สัตว์"
 
-#: battlegrounds/models.py:198
+#: battlegrounds/models.py:201
+msgctxt "plural Battlegrounds minion type"
 msgid "Dragons"
 msgstr "มังกร"
 
-#: battlegrounds/models.py:199
+#: battlegrounds/models.py:202
+msgctxt "plural Battlegrounds minion type"
 msgid "Demons"
 msgstr "ปีศาจ"
 
-#: battlegrounds/models.py:200
+#: battlegrounds/models.py:203
+msgctxt "plural Battlegrounds minion type"
 msgid "Elementals"
 msgstr "วิญญาณธาตุ"
 
-#: battlegrounds/models.py:201
+#: battlegrounds/models.py:204
+msgctxt "plural Battlegrounds minion type"
 msgid "Mechs"
 msgstr "เครื่องจักร"
 
-#: battlegrounds/models.py:202
+#: battlegrounds/models.py:205
+msgctxt "plural Battlegrounds minion type"
 msgid "Murlocs"
 msgstr "เมอร์ล็อค"
 
-#: battlegrounds/models.py:203
-msgid "Nagas"
+#: battlegrounds/models.py:206
+msgctxt "plural Battlegrounds minion type"
+msgid "Naga"
 msgstr "นากา"
 
-#: battlegrounds/models.py:204
+#: battlegrounds/models.py:207
+msgctxt "plural Battlegrounds minion type"
 msgid "Pirates"
 msgstr "โจรสลัด"
 
-#: battlegrounds/models.py:205 web/views/battlegrounds.py:1086
+#: battlegrounds/models.py:208
+msgctxt "plural Battlegrounds minion type"
 msgid "Quilboar"
 msgstr "ควิลบอร์"
 
-#: battlegrounds/models.py:206 web/views/battlegrounds.py:1087
+#: battlegrounds/models.py:209
+msgctxt "plural Battlegrounds minion type"
 msgid "Undead"
 msgstr "อันเดด"
 
-#: battlegrounds/models.py:207
+#: battlegrounds/models.py:210
+msgctxt "plural Battlegrounds minion type"
 msgid "Aberrations"
 msgstr "อสูรวิปริต"
 
@@ -1350,6 +1361,14 @@ msgstr "นากา"
 msgid "Pirate"
 msgstr "โจรสลัด"
 
+#: web/views/battlegrounds.py:1086
+msgid "Quilboar"
+msgstr "ควิลบอร์"
+
+#: web/views/battlegrounds.py:1087
+msgid "Undead"
+msgstr "อันเดด"
+
 #: web/views/battlegrounds.py:1088
 msgid "Aberration"
 msgstr "อสูรวิปริต"
@@ -1445,7 +1464,7 @@ msgstr ""
 msgid "Season {season} Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:1939
+#: web/views/battlegrounds.py:1941
 msgid "My Battlegrounds Stats"
 msgstr ""
 
