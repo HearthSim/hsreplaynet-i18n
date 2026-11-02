@@ -133,7 +133,9 @@ def main():
 		"xml:lang": "en",
 		"xmlns": "urn:iso:std:iso:30042:ed-2",
 	})
-	ElementTree.SubElement(tbx, "tbxHeader")
+	file_desc = ElementTree.SubElement(ElementTree.SubElement(tbx, "tbxHeader"), "fileDesc")
+	source_desc = ElementTree.SubElement(file_desc, "sourceDesc")
+	ElementTree.SubElement(source_desc, "p").text = "Hearthstone client strings (GLOBAL.txt)"
 	body = ElementTree.SubElement(ElementTree.SubElement(tbx, "text"), "body")
 
 	for key, source in sorted(strings["enUS"].items()):
