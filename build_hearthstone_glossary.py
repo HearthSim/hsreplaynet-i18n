@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-import os
 import re
+import sys
 from xml.etree import ElementTree
 
 from extract_hearthstone_strings import load_strings
@@ -122,8 +122,6 @@ def is_glossary_term(key, text):
 
 
 def main():
-	output_path = os.path.join(os.path.dirname(__file__), "hearthstone.tbx")
-
 	strings = {
 		locale: load_strings(locale, "GLOBAL.txt")
 		for locale in CROWDIN_LANGUAGES
@@ -158,9 +156,8 @@ def main():
 
 	ElementTree.indent(tbx, space="\t")
 	ElementTree.ElementTree(tbx).write(
-		output_path, encoding="utf-8", xml_declaration=True
+		sys.stdout.buffer, encoding="utf-8", xml_declaration=True
 	)
-	print(f"Written {output_path}")
 
 
 if __name__ == "__main__":
