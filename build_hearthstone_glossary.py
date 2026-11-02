@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import os
+import re
 from xml.etree import ElementTree
 
 from extract_hearthstone_strings import load_strings
@@ -84,6 +85,31 @@ GLOSSARY_EXCLUDED_TERMS = {
 	"Upgrade",
 }
 
+# first matching rule wins, so specific patterns go before their general prefix
+GLOSSARY_DEFINITIONS = [
+	(r"GLOBAL_RACE_\w+_BATTLEGROUNDS", "Minion type, plural (as used in Battlegrounds)"),
+	(r"GLOBAL_RACE_\w+", "Minion type, singular"),
+	(r"GLOBAL_CARD_SET_\w+_SHORT", "Card set name, short form"),
+	(r"GLOBAL_CARD_SET_\w+", "Card set name"),
+	(r"GLOBAL_MINI_SET_\w+", "Mini-set name"),
+	(r"GLOBAL_CARDTYPE_\w+", "Card type"),
+	(r"GLOBAL_CLASS_\w+", "Class"),
+	(r"GLOBAL_RARITY_\w+", "Card rarity"),
+	(r"GLOBAL_SPELL_SCHOOL_\w+", "Spell school"),
+	(r"GLOBAL_KEYWORD_BACON_\w+", "Battlegrounds keyword"),
+	(r"GLOBAL_KEYWORD_\w+_MERC", "Mercenaries keyword"),
+	(r"GLOBAL_KEYWORD_\w+", "Keyword"),
+	(r"GLOBAL_(STANDARD|WILD|CLASSIC|TWIST)", "Game format"),
+	(r"GLOBAL_(ARENA|BATTLEGROUNDS|MERCENARIES|TAVERN_BRAWL|HEROIC_BRAWL)", "Game mode"),
+]
+
+
+def get_definition(key):
+	for pattern, definition in GLOSSARY_DEFINITIONS:
+		if re.fullmatch(pattern, key):
+			return definition
+	return None
+
 
 def is_glossary_term(key, text):
 	if not key.startswith(GLOSSARY_PREFIXES) and key not in GLOSSARY_KEYS:
@@ -117,6 +143,9 @@ def main():
 			continue
 
 		entry = ElementTree.SubElement(body, "conceptEntry", {"id": key})
+		definition = get_definition(key)
+		if definition:
+			ElementTree.SubElement(entry, "descrip", {"type": "definition"}).text = definition
 		ElementTree.SubElement(entry, "note").text = key
 
 		for locale, language in CROWDIN_LANGUAGES.items():
