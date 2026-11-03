@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-11-03 01:40+0000\n"
-"PO-Revision-Date: 2026-11-03 03:40\n"
+"PO-Revision-Date: 2026-11-03 15:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -35,7 +35,7 @@ msgstr "资源处于未定义的状态。"
 
 #: api/exceptions.py:45
 msgid "This method is not yet implemented."
-msgstr "这方法还未实现。"
+msgstr "此方法还未实现。"
 
 #: api/exceptions.py:51
 msgid "The card has been rejected."
@@ -1117,7 +1117,7 @@ msgstr "Arenasmith 有 macOS 版本吗？"
 
 #: web/views/arenasmith.py:92
 msgid "Yes! Arenasmith is available for macOS through HSTracker."
-msgstr ""
+msgstr "是的！macOS 用户可以通过 HSTracker 使用 Arenasmith。"
 
 #: web/views/arenasmith.py:99
 msgid "Arenasmith - Draft Assistant for Hearthstone Arena"
