@@ -41,8 +41,10 @@ GLOSSARY_KEYS = {
 	"GLOBAL_ARENA",
 	"GLOBAL_BATTLEGROUNDS",
 	"GLOBAL_CLASSIC",
+	"GLOBAL_FRIENDLIST_CHALLENGE_MENU_HEARTHSTONE_BUTTON",
 	"GLOBAL_HEROIC_BRAWL",
 	"GLOBAL_MERCENARIES",
+	"GLOBAL_PROGRAMNAME_HEARTHSTONE",
 	"GLOBAL_STANDARD",
 	"GLOBAL_TAVERN_BRAWL",
 	"GLOBAL_TWIST",
@@ -101,6 +103,14 @@ GLOSSARY_DEFINITIONS = [
 	(r"GLOBAL_KEYWORD_\w+", "Keyword"),
 	(r"GLOBAL_(STANDARD|WILD|CLASSIC|TWIST)", "Game format"),
 	(r"GLOBAL_(ARENA|BATTLEGROUNDS|MERCENARIES|TAVERN_BRAWL|HEROIC_BRAWL)", "Game mode"),
+	(
+		r"GLOBAL_FRIENDLIST_CHALLENGE_MENU_HEARTHSTONE_BUTTON",
+		"Game mode (the traditional mode in the main menu, as opposed to Battlegrounds, Arena etc.), not the name of the game",
+	),
+	(
+		r"GLOBAL_PROGRAMNAME_HEARTHSTONE",
+		"Name of the game itself, not the traditional game mode of the same name",
+	),
 ]
 
 
@@ -112,7 +122,9 @@ def get_definition(key):
 
 
 def is_glossary_term(key, text):
-	if not key.startswith(GLOSSARY_PREFIXES) and key not in GLOSSARY_KEYS:
+	if key in GLOSSARY_KEYS:
+		return bool(text)
+	if not key.startswith(GLOSSARY_PREFIXES):
 		return False
 	if text in GLOSSARY_EXCLUDED_TERMS:
 		return False
