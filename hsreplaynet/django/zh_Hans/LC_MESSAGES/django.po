@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-02 09:22+0000\n"
-"PO-Revision-Date: 2026-11-02 09:40\n"
+"POT-Creation-Date: 2026-11-03 01:40+0000\n"
+"PO-Revision-Date: 2026-11-03 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -1116,10 +1116,10 @@ msgid "Is Arenasmith available for macOS?"
 msgstr "Arenasmith 有 macOS 版本吗？"
 
 #: web/views/arenasmith.py:92
-msgid "Currently, Arenasmith is not available for macOS through HSTracker. We are planning on adding support in the future!"
-msgstr "目前，Arenasmith暂未通过HSTracker支持macOS。我们计划在未来添加对该平台的支持！"
+msgid "Yes! Arenasmith is available for macOS through HSTracker."
+msgstr ""
 
-#: web/views/arenasmith.py:100
+#: web/views/arenasmith.py:99
 msgid "Arenasmith - Draft Assistant for Hearthstone Arena"
 msgstr "Arenasmith - 炉石传说竞技模式选牌助手"
 
@@ -1501,40 +1501,40 @@ msgstr "{name} 套牌和统计"
 msgid "Hearthstone Card Editor"
 msgstr "炉石卡牌编辑器"
 
-#: web/views/cards.py:240
+#: web/views/cards.py:239
 msgid "Hearthstone Assemble Pools"
 msgstr "炉石传说拼装池"
 
-#: web/views/cards.py:242
+#: web/views/cards.py:241
 msgid "The cards offered when playing a Hearthstone Assemble card, how often their trigger or effect was picked, and how often the game was won afterwards."
 msgstr "使用炉石传说的拼装牌时出现的卡牌、其触发条件或效果被选择的频率，以及选择后获胜的频率。"
 
-#: web/views/cards.py:264
+#: web/views/cards.py:278
 #, python-brace-format
 msgid "Hearthstone {assemble} Assemble Pool: {middle}"
 msgstr "炉石传说{assemble}拼装池：{middle}"
 
-#: web/views/cards.py:270
+#: web/views/cards.py:284
 #, python-brace-format
 msgid "The cards offered with {middle} when playing {assemble} in Hearthstone, how often their trigger or effect was picked, and how often the game was won afterwards."
 msgstr "在炉石传说中使用{assemble}时与{middle}一同出现的卡牌、其触发条件或效果被选择的频率，以及选择后获胜的频率。"
 
-#: web/views/cards.py:279
+#: web/views/cards.py:293
 #, python-brace-format
 msgid "Hearthstone {assemble} Assemble Pool"
 msgstr "炉石传说{assemble}拼装池"
 
-#: web/views/cards.py:284
+#: web/views/cards.py:298
 #, python-brace-format
 msgid "Every card {assemble} offers in Hearthstone, the cards offered with each, how often their trigger or effect was picked, and how often the game was won afterwards."
 msgstr "炉石传说中{assemble}提供的所有卡牌、与每张牌一同出现的卡牌、其触发条件或效果被选择的频率，以及选择后获胜的频率。"
 
-#: web/views/cards.py:330
+#: web/views/cards.py:341
 #, python-brace-format
 msgid "{set} Card Reveals"
 msgstr "{set} 新卡发布"
 
-#: web/views/cards.py:335
+#: web/views/cards.py:346
 #, python-brace-format
 msgid "Get the first look at the latest Hearthstone card reveals for the next expansion, {set}. \t\t\t\t\t{set} will be released on {date}"
 msgstr "抢先了解下一个炉石扩展包 {set} 的最新卡牌揭晓。{set}将于{date}发布"

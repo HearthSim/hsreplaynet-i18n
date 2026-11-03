@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-02 09:22+0000\n"
-"PO-Revision-Date: 2026-11-02 09:40\n"
+"POT-Creation-Date: 2026-11-03 01:40+0000\n"
+"PO-Revision-Date: 2026-11-03 03:40\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -1104,10 +1104,10 @@ msgid "Is Arenasmith available for macOS?"
 msgstr ""
 
 #: web/views/arenasmith.py:92
-msgid "Currently, Arenasmith is not available for macOS through HSTracker. We are planning on adding support in the future!"
+msgid "Yes! Arenasmith is available for macOS through HSTracker."
 msgstr ""
 
-#: web/views/arenasmith.py:100
+#: web/views/arenasmith.py:99
 msgid "Arenasmith - Draft Assistant for Hearthstone Arena"
 msgstr ""
 
@@ -1489,40 +1489,40 @@ msgstr ""
 msgid "Hearthstone Card Editor"
 msgstr "Éditeur de carte Hearthstone"
 
-#: web/views/cards.py:240
+#: web/views/cards.py:239
 msgid "Hearthstone Assemble Pools"
 msgstr ""
 
-#: web/views/cards.py:242
+#: web/views/cards.py:241
 msgid "The cards offered when playing a Hearthstone Assemble card, how often their trigger or effect was picked, and how often the game was won afterwards."
 msgstr ""
 
-#: web/views/cards.py:264
+#: web/views/cards.py:278
 #, python-brace-format
 msgid "Hearthstone {assemble} Assemble Pool: {middle}"
 msgstr ""
 
-#: web/views/cards.py:270
+#: web/views/cards.py:284
 #, python-brace-format
 msgid "The cards offered with {middle} when playing {assemble} in Hearthstone, how often their trigger or effect was picked, and how often the game was won afterwards."
 msgstr ""
 
-#: web/views/cards.py:279
+#: web/views/cards.py:293
 #, python-brace-format
 msgid "Hearthstone {assemble} Assemble Pool"
 msgstr ""
 
-#: web/views/cards.py:284
+#: web/views/cards.py:298
 #, python-brace-format
 msgid "Every card {assemble} offers in Hearthstone, the cards offered with each, how often their trigger or effect was picked, and how often the game was won afterwards."
 msgstr ""
 
-#: web/views/cards.py:330
+#: web/views/cards.py:341
 #, python-brace-format
 msgid "{set} Card Reveals"
 msgstr ""
 
-#: web/views/cards.py:335
+#: web/views/cards.py:346
 #, python-brace-format
 msgid "Get the first look at the latest Hearthstone card reveals for the next expansion, {set}. \t\t\t\t\t{set} will be released on {date}"
 msgstr ""
