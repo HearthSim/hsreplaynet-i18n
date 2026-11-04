@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-03 01:40+0000\n"
-"PO-Revision-Date: 2026-11-03 15:40\n"
+"POT-Creation-Date: 2026-11-03 17:37+0000\n"
+"PO-Revision-Date: 2026-11-04 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -301,6 +301,8 @@ msgid "Your personal statistics will not be reset. Are you sure you want to proc
 msgstr "Le tue statistiche personali non verranno azzerate. Sei sicuro di voler procedere?"
 
 #: templates/account/delete_replays.html:19
+#: templates/admin/billing/promotionalcampaign/confirm_create_codes.html:45
+#: templates/admin/billing/promotionalcampaign/create_codes.html:18
 msgid "Cancel"
 msgstr "Annulla"
 
@@ -495,6 +497,11 @@ msgstr "Verifica il tuo indirizzo e-mail"
 msgid "We have sent you an e-mail for verification. Follow the link in it to finalize the signup process."
 msgstr "Ti abbiamo inviato una e-mail di verifica. Apri il link nell'email per completare il processo di iscrizione."
 
+#: templates/admin/billing/promotionalcampaign/code_creation_base.html:30
+#: templates/navigation.html:69
+msgid "Home"
+msgstr "Home"
+
 #: templates/base.html:38
 msgid "Skip to Main Content"
 msgstr ""
@@ -652,10 +659,6 @@ msgstr "Mercenari"
 #: templates/navigation.html:54
 msgid "Hearthstone"
 msgstr "Hearthstone"
-
-#: templates/navigation.html:69
-msgid "Home"
-msgstr "Home"
 
 #: templates/navigation.html:79
 msgid "Tier List"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-03 01:40+0000\n"
-"PO-Revision-Date: 2026-11-03 15:40\n"
+"POT-Creation-Date: 2026-11-03 17:37+0000\n"
+"PO-Revision-Date: 2026-11-04 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -301,6 +301,8 @@ msgid "Your personal statistics will not be reset. Are you sure you want to proc
 msgstr "Ваша личная статистика не будет сброшена. Хотите продолжить?"
 
 #: templates/account/delete_replays.html:19
+#: templates/admin/billing/promotionalcampaign/confirm_create_codes.html:45
+#: templates/admin/billing/promotionalcampaign/create_codes.html:18
 msgid "Cancel"
 msgstr "Отмена"
 
@@ -495,6 +497,11 @@ msgstr "Подтвердите адрес электронной почты"
 msgid "We have sent you an e-mail for verification. Follow the link in it to finalize the signup process."
 msgstr "Мы отправили тебе ссылку для подтверждения e-mail адреса. Пройди по ней для завершения регистрации."
 
+#: templates/admin/billing/promotionalcampaign/code_creation_base.html:30
+#: templates/navigation.html:69
+msgid "Home"
+msgstr "Главная"
+
 #: templates/base.html:38
 msgid "Skip to Main Content"
 msgstr ""
@@ -652,10 +659,6 @@ msgstr "Наёмники"
 #: templates/navigation.html:54
 msgid "Hearthstone"
 msgstr "Hearthstone"
-
-#: templates/navigation.html:69
-msgid "Home"
-msgstr "Главная"
 
 #: templates/navigation.html:79
 msgid "Tier List"

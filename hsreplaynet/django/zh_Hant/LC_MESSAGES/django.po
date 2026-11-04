@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-03 01:40+0000\n"
-"PO-Revision-Date: 2026-11-03 15:40\n"
+"POT-Creation-Date: 2026-11-03 17:37+0000\n"
+"PO-Revision-Date: 2026-11-04 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -301,6 +301,8 @@ msgid "Your personal statistics will not be reset. Are you sure you want to proc
 msgstr "您的個人統計資訊不會被重置。確定要繼續嗎？"
 
 #: templates/account/delete_replays.html:19
+#: templates/admin/billing/promotionalcampaign/confirm_create_codes.html:45
+#: templates/admin/billing/promotionalcampaign/create_codes.html:18
 msgid "Cancel"
 msgstr "取消"
 
@@ -498,6 +500,11 @@ msgstr "驗證您的電子郵件地址"
 msgid "We have sent you an e-mail for verification. Follow the link in it to finalize the signup process."
 msgstr "我們已經寄給妳Email認證信，請點擊連結來完成註冊手續。"
 
+#: templates/admin/billing/promotionalcampaign/code_creation_base.html:30
+#: templates/navigation.html:69
+msgid "Home"
+msgstr "首頁"
+
 #: templates/base.html:38
 msgid "Skip to Main Content"
 msgstr ""
@@ -655,10 +662,6 @@ msgstr "傭兵戰隊"
 #: templates/navigation.html:54
 msgid "Hearthstone"
 msgstr "爐石戰記"
-
-#: templates/navigation.html:69
-msgid "Home"
-msgstr "首頁"
 
 #: templates/navigation.html:79
 msgid "Tier List"
