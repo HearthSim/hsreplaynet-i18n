@@ -114,6 +114,20 @@ GLOSSARY_DEFINITIONS = [
 ]
 
 
+# line break and hyphenation hints for the client's text layout, e.g. "Gasthaus[d]stufe"
+CLIENT_LAYOUT_MARKUP = re.compile(r"\[[a-z]\]")
+
+# Thai, CJK and fullwidth characters (scripts that don't separate words with spaces)
+UNSPACED_LINE_BREAK = re.compile(
+	r"(?<=[\u0E00-\u0E7F\u3000-\u9FFF\uFF00-\uFFEF])\\n|\\n(?=[\u0E00-\u0E7F\u3000-\u9FFF\uFF00-\uFFEF])"
+)
+
+
+def strip_client_layout_markup(text):
+	text = CLIENT_LAYOUT_MARKUP.sub("", text)
+	return UNSPACED_LINE_BREAK.sub("", text).replace("\\n", " ").strip(" ")
+
+
 def get_definition(key):
 	for pattern, definition in GLOSSARY_DEFINITIONS:
 		if re.fullmatch(pattern, key):
@@ -166,7 +180,7 @@ def main():
 				continue
 			lang_sec = ElementTree.SubElement(entry, "langSec", {"xml:lang": language})
 			term_sec = ElementTree.SubElement(lang_sec, "termSec")
-			ElementTree.SubElement(term_sec, "term").text = text
+			ElementTree.SubElement(term_sec, "term").text = strip_client_layout_markup(text)
 
 	ElementTree.indent(tbx, space="\t")
 	ElementTree.ElementTree(tbx).write(
