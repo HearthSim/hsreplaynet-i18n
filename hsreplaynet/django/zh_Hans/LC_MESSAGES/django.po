@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-03 17:37+0000\n"
-"PO-Revision-Date: 2026-11-04 15:40\n"
+"POT-Creation-Date: 2026-11-05 01:40+0000\n"
+"PO-Revision-Date: 2026-11-05 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -66,104 +66,104 @@ msgstr "{input}不是{enum}的有效组分。"
 msgid "String value too large."
 msgstr "字符串值过大。"
 
-#: api/views/accounts.py:353
+#: api/views/accounts.py:356
 #, python-brace-format
 msgid "You have already applied this code to your account. Start your free subscription lasting {n} days now."
 msgstr "此代码已应用到你的账号里，现在启动你 {n} 天的免费订阅吧。"
 
-#: api/views/accounts.py:376
+#: api/views/accounts.py:379
 #, python-brace-format
 msgid "Code has been applied to your account. Your existing subscription has been extended by {n} days."
 msgstr "此代码已应用到你的账号里，你的已有订阅将延长 {n} 天。"
 
-#: api/views/accounts.py:382
+#: api/views/accounts.py:385
 #, python-brace-format
 msgid "Code has been applied to your account. You can now start a free subscription lasting {n} days."
 msgstr "此代码已应用到你的账号里，现在你已有免费的订阅，持续 {n} 天。"
 
-#: api/views/accounts.py:390
+#: api/views/accounts.py:393
 msgid "This code has already been redeemed."
 msgstr "此代码已被兑换。"
 
-#: api/views/accounts.py:393
+#: api/views/accounts.py:396
 msgid "This code is not compatible with your existing subscription."
 msgstr "此代码与您现有的订阅不兼容。"
 
-#: api/views/accounts.py:396
+#: api/views/accounts.py:399
 msgid "This code has expired."
 msgstr "此代码已过期。"
 
-#: api/views/accounts.py:399
+#: api/views/accounts.py:402
 msgid "You have used the maximum number of codes from this campaign."
 msgstr "您已经达到了活动的代码最大兑换次数。"
 
-#: api/views/accounts.py:404
+#: api/views/accounts.py:407
 msgid "You have already redeemed a code for this product. Start a subscription before redeeming this code."
 msgstr "您已经为该产品兑换了一个代码。在兑换此代码之前先开始订阅。"
 
-#: api/views/accounts.py:415
+#: api/views/accounts.py:418
 msgid "This code is unknown."
 msgstr "此激活码未知。"
 
-#: api/views/accounts.py:425
+#: api/views/accounts.py:428
 msgid "You have already applied this code to your account."
 msgstr "您已经将此激活码应用到您的账号。"
 
-#: api/views/accounts.py:432
+#: api/views/accounts.py:435
 msgid "Code has been applied to your account."
 msgstr "激活码使用成功。"
 
-#: battlegrounds/models.py:200
+#: battlegrounds/models.py:201
 msgctxt "plural Battlegrounds minion type"
 msgid "Beasts"
 msgstr "野兽"
 
-#: battlegrounds/models.py:201
+#: battlegrounds/models.py:202
 msgctxt "plural Battlegrounds minion type"
 msgid "Dragons"
 msgstr "龙"
 
-#: battlegrounds/models.py:202
+#: battlegrounds/models.py:203
 msgctxt "plural Battlegrounds minion type"
 msgid "Demons"
 msgstr "恶魔"
 
-#: battlegrounds/models.py:203
+#: battlegrounds/models.py:204
 msgctxt "plural Battlegrounds minion type"
 msgid "Elementals"
 msgstr "元素"
 
-#: battlegrounds/models.py:204
+#: battlegrounds/models.py:205
 msgctxt "plural Battlegrounds minion type"
 msgid "Mechs"
 msgstr "机械"
 
-#: battlegrounds/models.py:205
+#: battlegrounds/models.py:206
 msgctxt "plural Battlegrounds minion type"
 msgid "Murlocs"
 msgstr "鱼人"
 
-#: battlegrounds/models.py:206
+#: battlegrounds/models.py:207
 msgctxt "plural Battlegrounds minion type"
 msgid "Naga"
 msgstr "纳迦"
 
-#: battlegrounds/models.py:207
+#: battlegrounds/models.py:208
 msgctxt "plural Battlegrounds minion type"
 msgid "Pirates"
 msgstr "海盗"
 
-#: battlegrounds/models.py:208
+#: battlegrounds/models.py:209
 msgctxt "plural Battlegrounds minion type"
 msgid "Quilboar"
 msgstr "野猪人"
 
-#: battlegrounds/models.py:209
+#: battlegrounds/models.py:210
 msgctxt "plural Battlegrounds minion type"
 msgid "Undead"
 msgstr "亡灵"
 
-#: battlegrounds/models.py:210
+#: battlegrounds/models.py:211
 msgctxt "plural Battlegrounds minion type"
 msgid "Aberrations"
 msgstr "畸变怪"
@@ -1748,12 +1748,12 @@ msgstr "是的！留牌指南G-V2可以在 macOS 上通过 HSTracker 使用，�
 msgid "Make better mulligan decisions with Mulligan Guide Version 2"
 msgstr "使用留牌指南G-V2做出更好的起手留牌决策"
 
-#: web/views/oauth2.py:38
+#: web/views/oauth2.py:37
 #, python-format
 msgid "Connect %(application)s"
 msgstr "关联到 %(application)s"
 
-#: web/views/oauth2.py:81
+#: web/views/oauth2.py:80
 msgid "Access has been revoked."
 msgstr "权限已被撤销。"
 
@@ -1765,11 +1765,11 @@ msgstr "更丰富的过滤器、更全面的功能、更完善的数据：在HSR
 msgid "HSReplay.net Premium for Hearthstone"
 msgstr "炉石传说HSReplay.net会员"
 
-#: web/views/replays.py:35
+#: web/views/replays.py:34
 msgid "My Replays"
 msgstr "我的回放"
 
-#: web/views/replays.py:341
+#: web/views/replays.py:327
 msgid "Uploading replay…"
 msgstr "正在上传回放..."
 
