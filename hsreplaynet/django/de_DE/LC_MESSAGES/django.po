@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-11-05 01:40+0000\n"
-"PO-Revision-Date: 2026-11-05 03:40\n"
+"PO-Revision-Date: 2026-11-05 15:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -514,7 +514,7 @@ msgstr "Start"
 
 #: templates/base.html:38
 msgid "Skip to Main Content"
-msgstr ""
+msgstr "Zum Hauptinhalt springen"
 
 #: templates/base.html:87
 msgid "Xsolla is an authorized global distributor of HSReplay.net"
@@ -526,7 +526,7 @@ msgstr "Zurück nach oben"
 
 #: templates/footer.html:27
 msgid "Social Media:"
-msgstr ""
+msgstr "Soziale Medien:"
 
 #: templates/footer.html:33
 msgid "Join our Discord server"
@@ -550,7 +550,7 @@ msgstr "Nicht mit Blizzard Entertainment assoziiert."
 
 #: templates/footer.html:68
 msgid "Deck Tracker"
-msgstr ""
+msgstr "Decktracker"
 
 #: templates/footer.html:69 templates/navigation.html:296
 #: web/views/premium.py:31
@@ -1411,7 +1411,7 @@ msgstr ""
 
 #: web/views/battlegrounds.py:1120
 msgid "Invalid Tavern Tier."
-msgstr ""
+msgstr "Ungültige Gasthausstufe."
 
 #: web/views/battlegrounds.py:1126
 msgid "No matching minion type found."
