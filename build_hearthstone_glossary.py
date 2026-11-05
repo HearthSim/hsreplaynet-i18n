@@ -26,29 +26,49 @@ CROWDIN_LANGUAGES = {
 	"zhTW": "zh-TW",
 }
 
+GLOSSARY_FILES = (
+	"GLOBAL.txt",
+	"GLUE.txt",
+	"GAMEPLAY.txt",
+)
+
 GLOSSARY_PREFIXES = (
 	"GLOBAL_CARD_SET_",
 	"GLOBAL_CARDTYPE_",
 	"GLOBAL_CLASS_",
 	"GLOBAL_KEYWORD_",
 	"GLOBAL_MINI_SET_",
+	"GLOBAL_MODULE_",
 	"GLOBAL_RACE_",
 	"GLOBAL_RARITY_",
 	"GLOBAL_SPELL_SCHOOL_",
+	"GLUE_RANKED_TIER_NAME_",
 )
 
 GLOSSARY_KEYS = {
+	"GAMEPLAY_BACON_GUIDE_TAVERN_SPELL_TAB",
+	"GAMEPLAY_BACON_MAGIC_ITEM_HEADER",
+	"GAMEPLAY_BACON_TAVERN_TIER",
+	"GAMEPLAY_BACON_TRIPLES_ICON",
 	"GLOBAL_ARENA",
-	"GLOBAL_BATTLEGROUNDS",
 	"GLOBAL_CLASSIC",
+	"GLOBAL_COLLECTION_DIAMOND",
+	"GLOBAL_COLLECTION_GOLDEN",
+	"GLOBAL_COLLECTION_SIGNATURE",
 	"GLOBAL_FRIENDLIST_CHALLENGE_MENU_HEARTHSTONE_BUTTON",
 	"GLOBAL_HEROIC_BRAWL",
-	"GLOBAL_MERCENARIES",
 	"GLOBAL_PROGRAMNAME_HEARTHSTONE",
+	"GLOBAL_RANKED",
 	"GLOBAL_STANDARD",
 	"GLOBAL_TAVERN_BRAWL",
 	"GLOBAL_TWIST",
 	"GLOBAL_WILD",
+	"GLUE_CRAFTING_ARCANEDUST",
+	"GLUE_FORGE",
+	"GLUE_PRACTICE",
+	"GLUE_PVPDR",
+	"GLUE_TOURNAMENT_CASUAL",
+	"GLUE_UNDERGROUNDARENA",
 }
 
 # generic words and internal names that would match unrelated strings
@@ -102,7 +122,20 @@ GLOSSARY_DEFINITIONS = [
 	(r"GLOBAL_KEYWORD_\w+_MERC", "Mercenaries keyword"),
 	(r"GLOBAL_KEYWORD_\w+", "Keyword"),
 	(r"GLOBAL_(STANDARD|WILD|CLASSIC|TWIST)", "Game format"),
-	(r"GLOBAL_(ARENA|BATTLEGROUNDS|MERCENARIES|TAVERN_BRAWL|HEROIC_BRAWL)", "Game mode"),
+	(r"GLUE_FORGE", "Game mode (the regular Arena, as opposed to Underground Arena)"),
+	(r"GLUE_PVPDR", "Game mode (retired)"),
+	(
+		r"GLOBAL_(ARENA|TAVERN_BRAWL|HEROIC_BRAWL|MODULE_\w+)|GLUE_(UNDERGROUNDARENA|PRACTICE)",
+		"Game mode",
+	),
+	(r"GLOBAL_RANKED|GLUE_TOURNAMENT_CASUAL", "Matchmaking type (ranked or unranked play)"),
+	(r"GLUE_RANKED_TIER_NAME_\w+", "Rank tier on the ranked ladder"),
+	(r"GLOBAL_COLLECTION_(GOLDEN|SIGNATURE|DIAMOND)", "Card finish (cosmetic card variant)"),
+	(r"GLUE_CRAFTING_ARCANEDUST", "Crafting currency, often shortened to Dust"),
+	(r"GAMEPLAY_BACON_TAVERN_TIER", "Battlegrounds tavern level, which decides the minions on offer"),
+	(r"GAMEPLAY_BACON_TRIPLES_ICON", "Battlegrounds mechanic, plural (three copies of a minion combined into a golden one)"),
+	(r"GAMEPLAY_BACON_GUIDE_TAVERN_SPELL_TAB", "Battlegrounds card type, plural (spells bought in the tavern)"),
+	(r"GAMEPLAY_BACON_MAGIC_ITEM_HEADER", "Battlegrounds shop that offers Trinkets"),
 	(
 		r"GLOBAL_FRIENDLIST_CHALLENGE_MENU_HEARTHSTONE_BUTTON",
 		"Game mode (the traditional mode in the main menu, as opposed to Battlegrounds, Arena etc.), not the name of the game",
@@ -149,7 +182,11 @@ def is_glossary_term(key, text):
 
 def main():
 	strings = {
-		locale: load_strings(locale, "GLOBAL.txt")
+		locale: {
+			key: text
+			for filename in GLOSSARY_FILES
+			for key, text in load_strings(locale, filename).items()
+		}
 		for locale in CROWDIN_LANGUAGES
 	}
 
@@ -161,7 +198,7 @@ def main():
 	})
 	file_desc = ElementTree.SubElement(ElementTree.SubElement(tbx, "tbxHeader"), "fileDesc")
 	source_desc = ElementTree.SubElement(file_desc, "sourceDesc")
-	ElementTree.SubElement(source_desc, "p").text = "Hearthstone client strings (GLOBAL.txt)"
+	ElementTree.SubElement(source_desc, "p").text = f"Hearthstone client strings ({', '.join(GLOSSARY_FILES)})"
 	body = ElementTree.SubElement(ElementTree.SubElement(tbx, "text"), "body")
 
 	for key, source in sorted(strings["enUS"].items()):
