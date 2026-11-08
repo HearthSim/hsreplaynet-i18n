@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-05 01:40+0000\n"
-"PO-Revision-Date: 2026-11-05 15:40\n"
+"POT-Creation-Date: 2026-11-08 01:40+0000\n"
+"PO-Revision-Date: 2026-11-08 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
@@ -669,7 +669,7 @@ msgid "Parties"
 msgstr ""
 
 #: templates/navigation.html:95 templates/navigation.html:310
-#: web/views/__init__.py:214
+#: web/views/__init__.py:215
 msgid "Downloads"
 msgstr "ダウンロード"
 
@@ -874,7 +874,7 @@ msgstr ""
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
 msgstr ""
 
-#: web/adapters.py:136
+#: web/adapters.py:138
 msgid "You cannot remove the last account you can sign in with. Instead, you can delete your HSReplay.net account entirely."
 msgstr ""
 
@@ -886,55 +886,55 @@ msgstr ""
 msgid "Five #1 finishes on the Battlegrounds Leaderboard (Americas)"
 msgstr ""
 
-#: web/views/__init__.py:22
+#: web/views/__init__.py:23
 msgid "Watch and share Hearthstone replays directly from your web browser. Explore advanced statistics about decks and cards based on millions of games per week."
 msgstr ""
 
-#: web/views/__init__.py:30
+#: web/views/__init__.py:31
 msgid "HSReplay.net - Unleash your potential"
 msgstr "HSReplay.net─あなたの潜在能力を解き放とう"
 
-#: web/views/__init__.py:144
+#: web/views/__init__.py:145
 msgid "Sign in to HSReplay.net"
 msgstr "HSReplay.netにサインイン"
 
-#: web/views/__init__.py:202
+#: web/views/__init__.py:203
 msgid "Download Hearthstone Deck Tracker"
 msgstr "Hearthstone Deck Tracker のダウンロード"
 
-#: web/views/__init__.py:204
+#: web/views/__init__.py:205
 msgid "HSReplay.net Companion App"
 msgstr ""
 
-#: web/views/__init__.py:206
+#: web/views/__init__.py:207
 msgid "Hearthstone Deck Tracker is a free companion app to help you play like the pros."
 msgstr ""
 
-#: web/views/__init__.py:273
+#: web/views/__init__.py:274
 msgid "Contact our Support Team"
 msgstr ""
 
-#: web/views/__init__.py:275
+#: web/views/__init__.py:276
 msgid "Get in touch with the HSReplay.net Support Team."
 msgstr ""
 
-#: web/views/__init__.py:295
+#: web/views/__init__.py:296
 msgid "Redeem a Code"
 msgstr ""
 
-#: web/views/__init__.py:306
+#: web/views/__init__.py:307
 msgid "Welcome to HSReplay.net"
 msgstr "HSReplay.netへようこそ"
 
-#: web/views/__init__.py:308
+#: web/views/__init__.py:309
 msgid "Learn how to get started with HSReplay.net and what you can do with it."
 msgstr ""
 
-#: web/views/__init__.py:319
+#: web/views/__init__.py:320
 msgid "Welcome to Hearthstone Deck Tracker"
 msgstr ""
 
-#: web/views/__init__.py:321
+#: web/views/__init__.py:322
 msgid "Find out what you can do with Hearthstone Deck Tracker, as well as the website!"
 msgstr ""
 
