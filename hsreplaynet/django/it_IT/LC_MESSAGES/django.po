@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-08 01:40+0000\n"
-"PO-Revision-Date: 2026-11-08 03:40\n"
+"POT-Creation-Date: 2026-11-10 01:40+0000\n"
+"PO-Revision-Date: 2026-11-10 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
@@ -563,68 +563,72 @@ msgstr ""
 msgid "Mulligan G-V2"
 msgstr ""
 
-#: templates/footer.html:79
+#: templates/footer.html:74
+msgid "Assemble Pools"
+msgstr ""
+
+#: templates/footer.html:80
 msgid "Battlegrounds Overlay"
 msgstr "Overlay Battaglia"
 
-#: templates/footer.html:80
+#: templates/footer.html:81
 msgid "Get Tier7"
 msgstr "Ottieni Tier7"
 
-#: templates/footer.html:81 web/views/battlegrounds.py:479
+#: templates/footer.html:82 web/views/battlegrounds.py:479
 msgid "Battlegrounds Heroes"
 msgstr "Battlegrounds Eroi"
 
-#: templates/footer.html:82 web/views/battlegrounds.py:494
+#: templates/footer.html:83 web/views/battlegrounds.py:494
 msgid "Battlegrounds Comps"
 msgstr "Comps Battaglia"
 
-#: templates/footer.html:83 web/views/battlegrounds.py:1043
+#: templates/footer.html:84 web/views/battlegrounds.py:1043
 #: web/views/battlegrounds.py:1109
 msgid "Battlegrounds Minions"
 msgstr "Creature del Battelgrounds"
 
-#: templates/footer.html:84 web/views/battlegrounds.py:676
+#: templates/footer.html:85 web/views/battlegrounds.py:676
 msgid "Battlegrounds Anomalies"
 msgstr ""
 
-#: templates/footer.html:85 web/views/battlegrounds.py:732
+#: templates/footer.html:86 web/views/battlegrounds.py:732
 msgid "Battlegrounds Quests"
 msgstr "Missioni di Battaglia"
 
-#: templates/footer.html:86 web/views/battlegrounds.py:607
+#: templates/footer.html:87 web/views/battlegrounds.py:607
 msgid "Battlegrounds Trinkets"
 msgstr "Monili della Battaglia"
 
-#: templates/footer.html:87 web/views/battlegrounds.py:784
+#: templates/footer.html:88 web/views/battlegrounds.py:784
 msgid "Battlegrounds Dark Gifts"
 msgstr "Doni Oscuri di Battaglia"
 
-#: templates/footer.html:88
+#: templates/footer.html:89
 msgid "Battlegrounds Timewarp"
 msgstr ""
 
-#: templates/footer.html:94
+#: templates/footer.html:95
 msgid "Support"
 msgstr "Assistenza"
 
-#: templates/footer.html:107
+#: templates/footer.html:108
 msgid "Help Center"
 msgstr "Centro Assistenza"
 
-#: templates/footer.html:109
+#: templates/footer.html:110
 msgid "Your Account"
 msgstr "Il tuo Account"
 
-#: templates/footer.html:112
+#: templates/footer.html:113
 msgid "Terms of Service"
 msgstr "Condizioni d'uso"
 
-#: templates/footer.html:115
+#: templates/footer.html:116
 msgid "Privacy Policy"
 msgstr "Informativa sulla privacy"
 
-#: templates/footer.html:117
+#: templates/footer.html:118
 msgid "Get in Touch"
 msgstr ""
 
@@ -874,7 +878,7 @@ msgstr "I Webhook sono stati deprecati"
 msgid "No new endpoints can be added. We will continue to deliver existing webhooks for the time being."
 msgstr "Nessun nuovo endpoint può essere aggiunto. Per il momento continueremo a fornire i webhook esistenti."
 
-#: web/adapters.py:138
+#: web/adapters.py:156
 msgid "You cannot remove the last account you can sign in with. Instead, you can delete your HSReplay.net account entirely."
 msgstr ""
 
@@ -1736,12 +1740,7 @@ msgstr ""
 msgid "Make better mulligan decisions with Mulligan Guide Version 2"
 msgstr ""
 
-#: web/views/oauth2.py:37
-#, python-format
-msgid "Connect %(application)s"
-msgstr "Connetti %(application)s"
-
-#: web/views/oauth2.py:80
+#: web/views/oauth2.py:40
 msgid "Access has been revoked."
 msgstr "L'accesso è stato revocato."
 
