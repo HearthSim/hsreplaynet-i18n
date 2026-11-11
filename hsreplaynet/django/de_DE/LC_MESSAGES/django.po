@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-10 01:40+0000\n"
-"PO-Revision-Date: 2026-11-10 03:40\n"
+"POT-Creation-Date: 2026-11-11 01:40+0000\n"
+"PO-Revision-Date: 2026-11-11 03:40\n"
 "Last-Translator: \n"
 "Language-Team: German\n"
 "Language: de_DE\n"
@@ -37,23 +37,19 @@ msgstr "Eine Ressource ist nicht im erwarteten Zustand."
 msgid "This method is not yet implemented."
 msgstr ""
 
-#: api/exceptions.py:51
-msgid "The card has been rejected."
-msgstr "Die Karte wurde abgelehnt."
-
-#: api/exceptions.py:56
+#: api/exceptions.py:50
 msgid "You need to authenticate to view this collection."
 msgstr ""
 
-#: api/exceptions.py:61
+#: api/exceptions.py:55
 msgid "You do not have permission to view this collection."
 msgstr ""
 
-#: api/exceptions.py:67
+#: api/exceptions.py:61
 msgid "This product is not available."
 msgstr "Dieses Produkt ist nicht verfügbar."
 
-#: api/exceptions.py:73
+#: api/exceptions.py:67
 msgid "This plan is not available."
 msgstr "Dieser Plan ist nicht verfügbar."
 
@@ -167,6 +163,10 @@ msgstr "Untote"
 msgctxt "plural Battlegrounds minion type"
 msgid "Aberrations"
 msgstr "Abscheulichkeiten"
+
+#: billing/views.py:166
+msgid "We could not open your payment methods. Please try again later."
+msgstr ""
 
 #: settings.py:495
 msgid "Full access to your HSReplay.net account"
@@ -577,68 +577,72 @@ msgstr ""
 msgid "Assemble Pools"
 msgstr ""
 
-#: templates/footer.html:80
+#: templates/footer.html:75
+msgid "Discover Pools"
+msgstr ""
+
+#: templates/footer.html:81
 msgid "Battlegrounds Overlay"
 msgstr "Schlachtfeld-Overlay"
 
-#: templates/footer.html:81
+#: templates/footer.html:82
 msgid "Get Tier7"
 msgstr "Hol dir Tier7"
 
-#: templates/footer.html:82 web/views/battlegrounds.py:479
+#: templates/footer.html:83 web/views/battlegrounds.py:479
 msgid "Battlegrounds Heroes"
 msgstr "Schlachtfeld-Helden"
 
-#: templates/footer.html:83 web/views/battlegrounds.py:494
+#: templates/footer.html:84 web/views/battlegrounds.py:494
 msgid "Battlegrounds Comps"
 msgstr "Schlachtfeld-Comps"
 
-#: templates/footer.html:84 web/views/battlegrounds.py:1043
+#: templates/footer.html:85 web/views/battlegrounds.py:1043
 #: web/views/battlegrounds.py:1109
 msgid "Battlegrounds Minions"
 msgstr "Schlachtfeld-Diener"
 
-#: templates/footer.html:85 web/views/battlegrounds.py:676
+#: templates/footer.html:86 web/views/battlegrounds.py:676
 msgid "Battlegrounds Anomalies"
 msgstr "Schlachtfeld-Anomalien"
 
-#: templates/footer.html:86 web/views/battlegrounds.py:732
+#: templates/footer.html:87 web/views/battlegrounds.py:732
 msgid "Battlegrounds Quests"
 msgstr "Schlachtfeld-Aufgaben"
 
-#: templates/footer.html:87 web/views/battlegrounds.py:607
+#: templates/footer.html:88 web/views/battlegrounds.py:607
 msgid "Battlegrounds Trinkets"
 msgstr "Schlachtfeld-Schmuckstücke"
 
-#: templates/footer.html:88 web/views/battlegrounds.py:784
+#: templates/footer.html:89 web/views/battlegrounds.py:784
 msgid "Battlegrounds Dark Gifts"
 msgstr "Schlachtfeld-Dunkle Gaben"
 
-#: templates/footer.html:89
+#: templates/footer.html:90
 msgid "Battlegrounds Timewarp"
 msgstr ""
 
-#: templates/footer.html:95
+#: templates/footer.html:96
 msgid "Support"
 msgstr "Support"
 
-#: templates/footer.html:108
+#: templates/footer.html:109
 msgid "Help Center"
 msgstr "Hilfezentrum"
 
-#: templates/footer.html:110
+#: templates/footer.html:111
 msgid "Your Account"
 msgstr "Dein Konto"
 
-#: templates/footer.html:113
+#: templates/footer.html:114
 msgid "Terms of Service"
 msgstr "Nutzungsbedingungen"
 
-#: templates/footer.html:116
+#: templates/footer.html:117
 msgid "Privacy Policy"
 msgstr "Datenschutzerklärung"
 
-#: templates/footer.html:118
+#: templates/footer.html:119
 msgid "Get in Touch"
 msgstr "Kontaktiere uns"
 
@@ -769,12 +773,12 @@ msgstr "Karten"
 msgid "Arena"
 msgstr "Arena"
 
-#: templates/navigation.html:341
+#: templates/navigation.html:342
 #, python-format
 msgid "View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
 msgstr ""
 
-#: templates/navigation.html:355
+#: templates/navigation.html:356
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr ""
 
@@ -1506,40 +1510,58 @@ msgstr "{name}decks und Statistiken"
 msgid "Hearthstone Card Editor"
 msgstr "Hearthstone-Karteneditor"
 
-#: web/views/cards.py:239
+#: web/views/cards.py:259
 msgid "Hearthstone Assemble Pools"
 msgstr ""
 
-#: web/views/cards.py:241
+#: web/views/cards.py:261
 msgid "The cards offered when playing a Hearthstone Assemble card, how often their trigger or effect was picked, and how often the game was won afterwards."
 msgstr ""
 
-#: web/views/cards.py:278
+#: web/views/cards.py:290
 #, python-brace-format
 msgid "Hearthstone {assemble} Assemble Pool: {middle}"
 msgstr ""
 
-#: web/views/cards.py:284
+#: web/views/cards.py:296
 #, python-brace-format
 msgid "The cards offered with {middle} when playing {assemble} in Hearthstone, how often their trigger or effect was picked, and how often the game was won afterwards."
 msgstr ""
 
-#: web/views/cards.py:293
+#: web/views/cards.py:305
 #, python-brace-format
 msgid "Hearthstone {assemble} Assemble Pool"
 msgstr ""
 
-#: web/views/cards.py:298
+#: web/views/cards.py:310
 #, python-brace-format
 msgid "Every card {assemble} offers in Hearthstone, the cards offered with each, how often their trigger or effect was picked, and how often the game was won afterwards."
 msgstr ""
 
-#: web/views/cards.py:341
+#: web/views/cards.py:335
+msgid "Hearthstone Discover Pools"
+msgstr ""
+
+#: web/views/cards.py:337
+msgid "The cards offered when playing a Hearthstone Discover card, how often each was picked, and how often the game was won afterwards."
+msgstr ""
+
+#: web/views/cards.py:366
+#, python-brace-format
+msgid "Hearthstone {card} Discover Pool"
+msgstr ""
+
+#: web/views/cards.py:370
+#, python-brace-format
+msgid "The cards offered when playing {card} in Hearthstone, how often each was picked, and how often the game was won afterwards."
+msgstr ""
+
+#: web/views/cards.py:392
 #, python-brace-format
 msgid "{set} Card Reveals"
 msgstr ""
 
-#: web/views/cards.py:346
+#: web/views/cards.py:397
 #, python-brace-format
 msgid "Get the first look at the latest Hearthstone card reveals for the next expansion, {set}. \t\t\t\t\t{set} will be released on {date}"
 msgstr ""
