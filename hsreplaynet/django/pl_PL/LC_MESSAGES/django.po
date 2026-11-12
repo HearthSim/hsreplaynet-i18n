@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-11 01:40+0000\n"
-"PO-Revision-Date: 2026-11-11 03:40\n"
+"POT-Creation-Date: 2026-11-12 01:40+0000\n"
+"PO-Revision-Date: 2026-11-12 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Polish\n"
 "Language: pl_PL\n"
@@ -655,8 +655,8 @@ msgstr "Schowaj/pokaż nawigację"
 #: web/views/battlegrounds.py:792 web/views/battlegrounds.py:802
 #: web/views/battlegrounds.py:818 web/views/battlegrounds.py:891
 #: web/views/battlegrounds.py:1047 web/views/battlegrounds.py:1096
-#: web/views/battlegrounds.py:1148 web/views/battlegrounds.py:1335
-#: web/views/battlegrounds.py:1871
+#: web/views/battlegrounds.py:1148 web/views/battlegrounds.py:1337
+#: web/views/battlegrounds.py:1873
 msgid "Battlegrounds"
 msgstr "Ustawka"
 
@@ -695,7 +695,7 @@ msgid "SALE!"
 msgstr "WYPRZEDAŻ!"
 
 #: templates/navigation.html:132 web/views/battlegrounds.py:503
-#: web/views/battlegrounds.py:1880
+#: web/views/battlegrounds.py:1882
 msgid "Comps"
 msgstr "Kompozycje"
 
@@ -703,7 +703,7 @@ msgstr "Kompozycje"
 msgid "Trinkets"
 msgstr "Ozdoby"
 
-#: templates/navigation.html:157 web/views/battlegrounds.py:1336
+#: templates/navigation.html:157 web/views/battlegrounds.py:1338
 msgid "Timewarp"
 msgstr "Skok czasowy"
 
@@ -1438,44 +1438,44 @@ msgstr "Stronnik Ustawki"
 msgid "No matching minion found."
 msgstr "Nie znaleziono pasującego stronnika."
 
-#: web/views/battlegrounds.py:1327
+#: web/views/battlegrounds.py:1329
 msgid "Battlegrounds Timewarped Cards"
 msgstr ""
 
-#: web/views/battlegrounds.py:1329
+#: web/views/battlegrounds.py:1331
 msgid "Explore the Minions, Spells & Hero Powers available in each of the Timewarped Tavern shops"
 msgstr ""
 
-#: web/views/battlegrounds.py:1692
+#: web/views/battlegrounds.py:1694
 msgid "Battlegrounds Compositions"
 msgstr "Kompozycje Ustawki"
 
-#: web/views/battlegrounds.py:1698 web/views/battlegrounds.py:1728
+#: web/views/battlegrounds.py:1700 web/views/battlegrounds.py:1730
 msgid "Battlegrounds Composition"
 msgstr "Kompozycja Ustawki"
 
-#: web/views/battlegrounds.py:1721
+#: web/views/battlegrounds.py:1723
 msgid "No matching live or lingering composition found."
 msgstr ""
 
-#: web/views/battlegrounds.py:1723
+#: web/views/battlegrounds.py:1725
 msgid "No matching composition found."
 msgstr "Nie znaleziono pasującej kompozycji."
 
-#: web/views/battlegrounds.py:1821
+#: web/views/battlegrounds.py:1823
 msgid "Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:1840
+#: web/views/battlegrounds.py:1842
 msgid "No matching comp found."
 msgstr ""
 
-#: web/views/battlegrounds.py:1855
+#: web/views/battlegrounds.py:1857
 #, python-brace-format
 msgid "Season {season} Battlegrounds Comp"
 msgstr ""
 
-#: web/views/battlegrounds.py:1941
+#: web/views/battlegrounds.py:1943
 msgid "My Battlegrounds Stats"
 msgstr ""
 
