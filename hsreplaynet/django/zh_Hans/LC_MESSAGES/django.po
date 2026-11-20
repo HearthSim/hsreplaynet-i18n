@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-18 01:40+0000\n"
-"PO-Revision-Date: 2026-11-18 03:40\n"
+"POT-Creation-Date: 2026-11-20 01:40+0000\n"
+"PO-Revision-Date: 2026-11-20 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -554,7 +554,7 @@ msgstr "与Blizzard Entertainment没有从属关系。"
 msgid "Deck Tracker"
 msgstr "记牌器"
 
-#: templates/footer.html:69 templates/navigation.html:296
+#: templates/footer.html:69 templates/navigation.html:306
 #: web/views/premium.py:31
 msgid "Premium"
 msgstr "升级会员"
@@ -688,7 +688,7 @@ msgstr "佣兵强度"
 msgid "Parties"
 msgstr "队伍"
 
-#: templates/navigation.html:95 templates/navigation.html:310
+#: templates/navigation.html:95 templates/navigation.html:320
 #: web/views/__init__.py:215
 msgid "Downloads"
 msgstr "下载"
@@ -702,7 +702,7 @@ msgid "Tier7"
 msgstr "Tier7"
 
 #: templates/navigation.html:116 templates/navigation.html:120
-#: templates/navigation.html:299 templates/navigation.html:302
+#: templates/navigation.html:309 templates/navigation.html:312
 msgid "SALE!"
 msgstr "促销！"
 
@@ -727,7 +727,8 @@ msgstr "暗月奖品"
 msgid "Quests"
 msgstr "任务"
 
-#: templates/navigation.html:186 templates/navigation.html:279
+#: templates/navigation.html:186 templates/navigation.html:271
+#: templates/navigation.html:289
 msgid "NEW"
 msgstr "新"
 
@@ -749,38 +750,38 @@ msgstr "英雄"
 msgid "Minions"
 msgstr "随从"
 
-#: templates/navigation.html:241
+#: templates/navigation.html:243
 msgid "Trending"
 msgstr "趋势"
 
-#: templates/navigation.html:249 templates/navigation.html:255
+#: templates/navigation.html:252 templates/navigation.html:258
 msgid "Meta"
 msgstr "环境"
 
-#: templates/navigation.html:250
+#: templates/navigation.html:253
 msgid "Back soon!"
 msgstr "马上回来！"
 
-#: templates/navigation.html:262
+#: templates/navigation.html:269
 msgid "Decks"
 msgstr "套牌"
 
-#: templates/navigation.html:268 web/views/arena.py:73 web/views/cards.py:42
+#: templates/navigation.html:278 web/views/arena.py:73 web/views/cards.py:42
 #: web/views/cards.py:175
 msgid "Cards"
 msgstr "卡牌"
 
-#: templates/navigation.html:288 web/views/arena.py:24 web/views/arena.py:41
+#: templates/navigation.html:298 web/views/arena.py:24 web/views/arena.py:41
 #: web/views/arena.py:72 web/views/arena.py:90 web/views/arena.py:118
 msgid "Arena"
 msgstr "竞技模式"
 
-#: templates/navigation.html:342
+#: templates/navigation.html:350
 #, python-format
 msgid "View the latest card reveals for the next Hearthstone expansion: %(spoiler_set)s "
 msgstr "查看下一个炉石传说扩展包的最新卡牌发布：%(spoiler_set)s "
 
-#: templates/navigation.html:356
+#: templates/navigation.html:364
 msgid "We are currently updating this section for the latest Battlegrounds patch. You may temporarily encounter incomplete or delayed data."
 msgstr "我们正在根据最新酒馆战棋补丁更新此页面。您可能会暂时看到缺失和过期的信息。"
 
