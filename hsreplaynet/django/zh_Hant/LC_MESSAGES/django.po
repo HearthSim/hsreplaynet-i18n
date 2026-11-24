@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-20 01:40+0000\n"
-"PO-Revision-Date: 2026-11-20 03:40\n"
+"POT-Creation-Date: 2026-11-24 01:40+0000\n"
+"PO-Revision-Date: 2026-11-24 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Traditional\n"
 "Language: zh_TW\n"
@@ -254,7 +254,7 @@ msgstr "Token"
 msgid "Created on"
 msgstr "創建於"
 
-#: templates/account/base.html:14 web/views/dashboard.py:40
+#: templates/account/base.html:14 web/views/dashboard.py:41
 msgid "Account"
 msgstr "帳號"
 
@@ -275,11 +275,11 @@ msgstr "帳單"
 msgid "Connections"
 msgstr "連接"
 
-#: templates/account/base.html:21 web/views/dashboard.py:300
+#: templates/account/base.html:21 web/views/dashboard.py:312
 msgid "Applications"
 msgstr "應用程式授權"
 
-#: templates/account/base.html:27 web/views/dashboard.py:91
+#: templates/account/base.html:27 web/views/dashboard.py:103
 msgid "Delete Account"
 msgstr "刪除帳號"
 
@@ -1573,35 +1573,35 @@ msgstr ""
 msgid "{user}'s Hearthstone Collection"
 msgstr ""
 
-#: web/views/dashboard.py:80
+#: web/views/dashboard.py:92
 msgid "API Access"
 msgstr "取得API"
 
-#: web/views/dashboard.py:124
+#: web/views/dashboard.py:136
 msgid "This account cannot be deleted."
 msgstr "這個帳號不能被刪除。"
 
-#: web/views/dashboard.py:143
+#: web/views/dashboard.py:155
 msgid "Your HSReplay.net account has been deleted. It was great having you!"
 msgstr ""
 
-#: web/views/dashboard.py:158
+#: web/views/dashboard.py:170
 msgid "Your replays have been deleted."
 msgstr "你的重播已被刪除。"
 
-#: web/views/dashboard.py:209
+#: web/views/dashboard.py:221
 msgid "You must add a verified email before we can send you marketing emails."
 msgstr ""
 
-#: web/views/dashboard.py:221 web/views/dashboard.py:290
+#: web/views/dashboard.py:233 web/views/dashboard.py:302
 msgid "Your email preferences have been saved."
 msgstr "您的電子郵件偏好已保存。"
 
-#: web/views/dashboard.py:265
+#: web/views/dashboard.py:277
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr ""
 
-#: web/views/dashboard.py:272 web/views/dashboard.py:278
+#: web/views/dashboard.py:284 web/views/dashboard.py:290
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr ""
 

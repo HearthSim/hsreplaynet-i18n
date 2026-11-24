@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-20 01:40+0000\n"
-"PO-Revision-Date: 2026-11-21 03:40\n"
+"POT-Creation-Date: 2026-11-24 01:40+0000\n"
+"PO-Revision-Date: 2026-11-24 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -254,7 +254,7 @@ msgstr "秘钥"
 msgid "Created on"
 msgstr "创建于"
 
-#: templates/account/base.html:14 web/views/dashboard.py:40
+#: templates/account/base.html:14 web/views/dashboard.py:41
 msgid "Account"
 msgstr "账号"
 
@@ -275,11 +275,11 @@ msgstr "会员订单"
 msgid "Connections"
 msgstr "关联的账户"
 
-#: templates/account/base.html:21 web/views/dashboard.py:300
+#: templates/account/base.html:21 web/views/dashboard.py:312
 msgid "Applications"
 msgstr "应用授权"
 
-#: templates/account/base.html:27 web/views/dashboard.py:91
+#: templates/account/base.html:27 web/views/dashboard.py:103
 msgid "Delete Account"
 msgstr "删除帐户"
 
@@ -1582,35 +1582,35 @@ msgstr "收藏"
 msgid "{user}'s Hearthstone Collection"
 msgstr "{user} 的卡牌收藏"
 
-#: web/views/dashboard.py:80
+#: web/views/dashboard.py:92
 msgid "API Access"
 msgstr "API权限"
 
-#: web/views/dashboard.py:124
+#: web/views/dashboard.py:136
 msgid "This account cannot be deleted."
 msgstr "此账号不能被删除。"
 
-#: web/views/dashboard.py:143
+#: web/views/dashboard.py:155
 msgid "Your HSReplay.net account has been deleted. It was great having you!"
 msgstr "您的 HSREplay.net 帐户已被删除。与您相遇深感荣幸！"
 
-#: web/views/dashboard.py:158
+#: web/views/dashboard.py:170
 msgid "Your replays have been deleted."
 msgstr "您的回放已删除。"
 
-#: web/views/dashboard.py:209
+#: web/views/dashboard.py:221
 msgid "You must add a verified email before we can send you marketing emails."
 msgstr "您必须添加并验证一个电子邮件地址才能接收营销邮件。"
 
-#: web/views/dashboard.py:221 web/views/dashboard.py:290
+#: web/views/dashboard.py:233 web/views/dashboard.py:302
 msgid "Your email preferences have been saved."
 msgstr "您的邮箱偏好已设定。"
 
-#: web/views/dashboard.py:265
+#: web/views/dashboard.py:277
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr "请检查收件箱！我们已经向您发送了一封电子邮件来核实您的订阅偏好。"
 
-#: web/views/dashboard.py:272 web/views/dashboard.py:278
+#: web/views/dashboard.py:284 web/views/dashboard.py:290
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "您的电子邮件首选项保存失败。请稍候再试！"
 

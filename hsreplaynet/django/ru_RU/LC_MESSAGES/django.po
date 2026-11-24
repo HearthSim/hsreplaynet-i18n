@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-20 01:40+0000\n"
-"PO-Revision-Date: 2026-11-20 03:40\n"
+"POT-Creation-Date: 2026-11-24 01:40+0000\n"
+"PO-Revision-Date: 2026-11-24 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -254,7 +254,7 @@ msgstr "Токен"
 msgid "Created on"
 msgstr "Создан"
 
-#: templates/account/base.html:14 web/views/dashboard.py:40
+#: templates/account/base.html:14 web/views/dashboard.py:41
 msgid "Account"
 msgstr "Учетная запись"
 
@@ -275,11 +275,11 @@ msgstr "Оплата"
 msgid "Connections"
 msgstr "Подключения"
 
-#: templates/account/base.html:21 web/views/dashboard.py:300
+#: templates/account/base.html:21 web/views/dashboard.py:312
 msgid "Applications"
 msgstr "Приложения"
 
-#: templates/account/base.html:27 web/views/dashboard.py:91
+#: templates/account/base.html:27 web/views/dashboard.py:103
 msgid "Delete Account"
 msgstr "Удалить учетную запись"
 
@@ -1570,35 +1570,35 @@ msgstr "Коллекция"
 msgid "{user}'s Hearthstone Collection"
 msgstr "Коллекция игрока {user}"
 
-#: web/views/dashboard.py:80
+#: web/views/dashboard.py:92
 msgid "API Access"
 msgstr "Доступ к API"
 
-#: web/views/dashboard.py:124
+#: web/views/dashboard.py:136
 msgid "This account cannot be deleted."
 msgstr "Эта учетная запись не может быть удалена."
 
-#: web/views/dashboard.py:143
+#: web/views/dashboard.py:155
 msgid "Your HSReplay.net account has been deleted. It was great having you!"
 msgstr ""
 
-#: web/views/dashboard.py:158
+#: web/views/dashboard.py:170
 msgid "Your replays have been deleted."
 msgstr "Ваши повторы были удалены."
 
-#: web/views/dashboard.py:209
+#: web/views/dashboard.py:221
 msgid "You must add a verified email before we can send you marketing emails."
 msgstr ""
 
-#: web/views/dashboard.py:221 web/views/dashboard.py:290
+#: web/views/dashboard.py:233 web/views/dashboard.py:302
 msgid "Your email preferences have been saved."
 msgstr "Настройки почты сохранены."
 
-#: web/views/dashboard.py:265
+#: web/views/dashboard.py:277
 msgid "Check your inbox! We've sent an email to confirm your subscription preferences."
 msgstr "Проверьте входящие! Мы отправили письмо для подтверждения настроек подписки."
 
-#: web/views/dashboard.py:272 web/views/dashboard.py:278
+#: web/views/dashboard.py:284 web/views/dashboard.py:290
 msgid "Failed to save your email preferences. Please try again later!"
 msgstr "Не удалось сохранить параметры почтовых уведомлений. Попробуйте позже!"
 
