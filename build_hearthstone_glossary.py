@@ -50,6 +50,8 @@ GLOSSARY_KEYS = {
 	"GAMEPLAY_BACON_MAGIC_ITEM_HEADER",
 	"GAMEPLAY_BACON_TAVERN_TIER",
 	"GAMEPLAY_BACON_TRIPLES_ICON",
+	"GAMEPLAY_EMOTE_SQUELCH",
+	"GAMEPLAY_EMOTE_UNSQUELCH",
 	"GLOBAL_ARENA",
 	"GLOBAL_CLASSIC",
 	"GLOBAL_COLLECTION_DIAMOND",
@@ -136,6 +138,8 @@ GLOSSARY_DEFINITIONS = [
 	(r"GAMEPLAY_BACON_TRIPLES_ICON", "Battlegrounds mechanic, plural (three copies of a minion combined into a golden one)"),
 	(r"GAMEPLAY_BACON_GUIDE_TAVERN_SPELL_TAB", "Battlegrounds card type, plural (spells bought in the tavern)"),
 	(r"GAMEPLAY_BACON_MAGIC_ITEM_HEADER", "Battlegrounds shop that offers Trinkets"),
+	(r"GAMEPLAY_EMOTE_SQUELCH", "Hide the opponent's emotes (option when clicking the opponent's hero)"),
+	(r"GAMEPLAY_EMOTE_UNSQUELCH", "Show the opponent's emotes again after squelching them"),
 	(
 		r"GLOBAL_FRIENDLIST_CHALLENGE_MENU_HEARTHSTONE_BUTTON",
 		"Game mode (the traditional mode in the main menu, as opposed to Battlegrounds, Arena etc.), not the name of the game",
