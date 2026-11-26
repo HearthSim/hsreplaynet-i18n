@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-25 01:40+0000\n"
-"PO-Revision-Date: 2026-11-25 03:40\n"
+"POT-Creation-Date: 2026-11-26 01:40+0000\n"
+"PO-Revision-Date: 2026-11-26 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Portuguese, Brazilian\n"
 "Language: pt_BR\n"
@@ -400,11 +400,11 @@ msgstr "Você está certo que quer deslogar?"
 
 #: templates/account/password_change.html:5
 #: templates/account/password_change.html:9
-#: templates/account/password_change.html:14
+#: templates/account/password_change.html:15
 msgid "Change Password"
 msgstr "Alterar Senha"
 
-#: templates/account/password_change.html:15
+#: templates/account/password_change.html:16
 msgid "Forgot Password?"
 msgstr "Esqueceu a senha?"
 
@@ -449,7 +449,7 @@ msgid "You can now return to our <a href=\"%(login_url)s\">login page</a> to sig
 msgstr ""
 
 #: templates/account/password_set.html:5 templates/account/password_set.html:9
-#: templates/account/password_set.html:14
+#: templates/account/password_set.html:15
 msgid "Set Password"
 msgstr "Definir Senha"
 

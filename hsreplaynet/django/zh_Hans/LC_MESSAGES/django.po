@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-25 01:40+0000\n"
-"PO-Revision-Date: 2026-11-25 03:40\n"
+"POT-Creation-Date: 2026-11-26 01:40+0000\n"
+"PO-Revision-Date: 2026-11-26 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -412,11 +412,11 @@ msgstr "您确定需要注销吗？"
 
 #: templates/account/password_change.html:5
 #: templates/account/password_change.html:9
-#: templates/account/password_change.html:14
+#: templates/account/password_change.html:15
 msgid "Change Password"
 msgstr "修改密码"
 
-#: templates/account/password_change.html:15
+#: templates/account/password_change.html:16
 msgid "Forgot Password?"
 msgstr "忘记密码？"
 
@@ -461,7 +461,7 @@ msgid "You can now return to our <a href=\"%(login_url)s\">login page</a> to sig
 msgstr "现在您可以返回 <a href=\"%(login_url)s\"> 登录页面 </a> 使用它登录。</p>"
 
 #: templates/account/password_set.html:5 templates/account/password_set.html:9
-#: templates/account/password_set.html:14
+#: templates/account/password_set.html:15
 msgid "Set Password"
 msgstr "设置密码"
 

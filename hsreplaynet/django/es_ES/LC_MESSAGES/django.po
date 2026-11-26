@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-25 01:40+0000\n"
-"PO-Revision-Date: 2026-11-25 03:40\n"
+"POT-Creation-Date: 2026-11-26 01:40+0000\n"
+"PO-Revision-Date: 2026-11-26 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -400,11 +400,11 @@ msgstr "Esta seguro que quieres cerrar la sesión?"
 
 #: templates/account/password_change.html:5
 #: templates/account/password_change.html:9
-#: templates/account/password_change.html:14
+#: templates/account/password_change.html:15
 msgid "Change Password"
 msgstr "Cambiar contraseña"
 
-#: templates/account/password_change.html:15
+#: templates/account/password_change.html:16
 msgid "Forgot Password?"
 msgstr "¿Has olvidado tu contraseña?"
 
@@ -449,7 +449,7 @@ msgid "You can now return to our <a href=\"%(login_url)s\">login page</a> to sig
 msgstr ""
 
 #: templates/account/password_set.html:5 templates/account/password_set.html:9
-#: templates/account/password_set.html:14
+#: templates/account/password_set.html:15
 msgid "Set Password"
 msgstr "Establecer contraseña"
 
