@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: hsreplaynet\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-26 15:38+0000\n"
-"PO-Revision-Date: 2026-11-26 15:40\n"
+"POT-Creation-Date: 2026-11-27 01:40+0000\n"
+"PO-Revision-Date: 2026-11-27 03:40\n"
 "Last-Translator: \n"
 "Language-Team: Russian\n"
 "Language: ru_RU\n"
@@ -1611,7 +1611,8 @@ msgstr ""
 msgid "Find popular Hearthstone decks for every class, card and game mode. Compare winrates and find the deck for you!"
 msgstr "Погрузитесь в Мету Hearthstone и найдите новые колоды, исходя из класса, используемых карт или режима игры. Проверьте их успешность и популярность в рейтинге."
 
-#: web/views/decks.py:62 web/views/decks.py:106
+#: web/views/decks.py:62 web/views/decks.py:106 web/views/streamers.py:56
+#: web/views/streamers.py:149
 msgid "Hearthstone Decks"
 msgstr "Колоды Hearthstone"
 
@@ -1786,6 +1787,28 @@ msgstr ""
 #: web/views/stats.py:8
 msgid "My Stats"
 msgstr "Моя статистика"
+
+#: web/views/streamers.py:43
+msgid "Hearthstone Streamer Decks"
+msgstr ""
+
+#: web/views/streamers.py:48
+msgid "See which Hearthstone decks Twitch streamers are actually playing, with each streamer's win/loss record, the ranks they hit and when they last played."
+msgstr ""
+
+#: web/views/streamers.py:57 web/views/streamers.py:150
+msgid "Streamer Decks"
+msgstr ""
+
+#: web/views/streamers.py:110
+#, python-brace-format
+msgid "{name}'s Hearthstone Decks"
+msgstr ""
+
+#: web/views/streamers.py:117
+#, python-brace-format
+msgid "Every Hearthstone deck {name} has played on stream, with their win/loss record, the rank they reached and how recently they played each one."
+msgstr ""
 
 #: web/views/tournaments.py:29
 msgid "Browse the decks the players brought to the tournament."
